@@ -1,0 +1,31 @@
+---
+import DestinationLayout from '../layouts/DestinationLayout.astro';
+---
+
+<DestinationLayout
+  title="ページが見つかりません | どこ行こ？"
+  description="お探しのページは存在しません。"
+  canonicalUrl="https://tabidokoiko.com/"
+>
+  <div class="max-w-3xl mx-auto px-4 py-24 text-center">
+    <p class="text-6xl mb-6">🗺️</p>
+    <h1 class="text-3xl font-bold text-gray-900 mb-4">ページが見つかりません</h1>
+    <p class="text-gray-500 mb-10">
+      お探しのページは存在しないか、移動した可能性があります。
+    </p>
+    <div class="flex flex-wrap justify-center gap-4">
+      <a
+        href="/destinations"
+        class="inline-block bg-blue-600 text-white font-bold px-8 py-3 rounded-xl hover:bg-blue-700 transition-colors"
+      >
+        目的地一覧へ
+      </a>
+      <a
+        href="https://tabidokoiko.com"
+        class="inline-block border border-gray-300 text-gray-700 font-medium px-8 py-3 rounded-xl hover:bg-gray-50 transition-colors"
+      >
+        どこ行こ？ トップへ
+      </a>
+    </div>
+  </div>
+</DestinationLayout>
