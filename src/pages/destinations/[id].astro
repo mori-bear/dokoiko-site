@@ -1,0 +1,189 @@
+---
+import DestinationLayout from '../../layouts/DestinationLayout.astro';
+import { readFileSync, readdirSync } from 'fs';
+import { join } from 'path';
+
+export function getStaticPaths() {
+  const articlesDir = join(process.cwd(), 'src/data/articles');
+  const files = readdirSync(articlesDir).filter(f => f.endsWith('.json'));
+  return files.map(f => ({
+    params: { id: f.replace('.json', '') },
+  }));
+}
+
+const { id } = Astro.params;
+const articlesDir = join(process.cwd(), 'src/data/articles');
+const dest = JSON.parse(readFileSync(join(articlesDir, `${id}.json`), 'utf-8'));
+
+const title = `${dest.name}の旅 | どこ行こ？`;
+const description = dest.description;
+const canonicalUrl = `https://tabidokoiko.com/destinations/${dest.id}`;
+
+// どこ行こ？ へのリンク (1泊 / 日帰り)
+const baseUrl = 'https://tabidokoiko.com';
+const overnightLink = `${baseUrl}/?dest=${encodeURIComponent(dest.id)}&nights=1night`;
+const daytripLink = `${baseUrl}/?dest=${encodeURIComponent(dest.id)}&nights=daytrip`;
+
+// 楽天トラベル affiliate (dokoiko からインポート不可のため汎用URL)
+const rakutenLink = `https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D${encodeURIComponent(dest.name)}`;
+const jalanLink = `https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fjalan%2Fscheds%2FschedTop.do%3FkeyWord%3D${encodeURIComponent(dest.name)}`;
+---
+
+<DestinationLayout
+  title={title}
+  description={description}
+  canonicalUrl={canonicalUrl}
+  ogImage={dest.image || undefined}
+>
+
+  <!-- Hero -->
+  <section class="relative overflow-hidden bg-gray-900 text-white">
+    {dest.image ? (
+      <img
+        src={dest.image}
+        alt={dest.name}
+        class="absolute inset-0 w-full h-full object-cover opacity-40"
+      />
+    ) : (
+      <div class="absolute inset-0 bg-gradient-to-br from-blue-900 to-teal-800 opacity-80"></div>
+    )}
+    <div class="relative max-w-3xl mx-auto px-4 py-20 md:py-28">
+      <div class="flex flex-wrap gap-2 mb-4">
+        {dest.tags.map((tag: string) => (
+          <span class="text-xs font-medium bg-white/20 backdrop-blur px-3 py-1 rounded-full">
+            {tag}
+          </span>
+        ))}
+      </div>
+      <h1 class="text-4xl md:text-5xl font-bold mb-3 leading-tight">
+        {dest.name}
+      </h1>
+      <p class="text-lg text-white/70 mb-6">{dest.prefecture}</p>
+      <p class="text-xl md:text-2xl font-medium text-white/90 leading-relaxed italic">
+        「{dest.catch}」
+      </p>
+    </div>
+  </section>
+
+  <!-- Meta info bar -->
+  <div class="bg-gray-50 border-b border-gray-200">
+    <div class="max-w-3xl mx-auto px-4 py-4 flex flex-wrap gap-6 text-sm text-gray-600">
+      {dest.bestSeason && (
+        <div class="flex items-center gap-2">
+          <span class="text-gray-400">🌸 ベストシーズン</span>
+          <span class="font-medium text-gray-800">{dest.bestSeason}</span>
+        </div>
+      )}
+      {dest.stayNight && (
+        <div class="flex items-center gap-2">
+          <span class="text-gray-400">🏨 おすすめ</span>
+          <span class="font-medium text-gray-800">{dest.stayNight}</span>
+        </div>
+      )}
+      {dest.spots && (
+        <div class="flex items-center gap-2">
+          <span class="text-gray-400">📍 代表スポット</span>
+          <span class="font-medium text-gray-800">{dest.spots.join('・')}</span>
+        </div>
+      )}
+    </div>
+  </div>
+
+  <!-- Main content -->
+  <div class="max-w-3xl mx-auto px-4 py-10">
+
+    <!-- Lead -->
+    <p class="text-lg leading-relaxed text-gray-700 mb-10">
+      {dest.lead}
+    </p>
+
+    <!-- Sections -->
+    {dest.sections && dest.sections.map((section: { heading: string; body: string }) => (
+      <section class="mb-10">
+        <h2 class="text-xl font-bold text-gray-900 mb-4 pb-2 border-b-2 border-blue-100">
+          {section.heading}
+        </h2>
+        <p class="text-base leading-relaxed text-gray-700">
+          {section.body}
+        </p>
+      </section>
+    ))}
+
+    <!-- Tips -->
+    {dest.tips && dest.tips.length > 0 && (
+      <div class="bg-amber-50 border border-amber-200 rounded-xl p-6 mb-10">
+        <h2 class="text-base font-bold text-amber-800 mb-4 flex items-center gap-2">
+          <span>💡</span> 旅のヒント
+        </h2>
+        <ul class="space-y-3">
+          {dest.tips.map((tip: string) => (
+            <li class="flex items-start gap-2 text-sm text-amber-900">
+              <span class="mt-0.5 text-amber-500">→</span>
+              <span>{tip}</span>
+            </li>
+          ))}
+        </ul>
+      </div>
+    )}
+
+    <!-- CTA: どこ行こ？で旅を計画 -->
+    <div class="bg-gradient-to-br from-blue-600 to-teal-600 rounded-2xl p-8 text-white mb-10">
+      <h2 class="text-xl font-bold mb-2">
+        {dest.name}へ、出発地から旅を計画する
+      </h2>
+      <p class="text-white/80 text-sm mb-6">
+        どこ行こ？で出発地を選ぶと、{dest.name}への行き方・宿・所要時間が一覧で見られます。
+      </p>
+      <div class="flex flex-wrap gap-3">
+        <a
+          href={overnightLink}
+          class="inline-block bg-white text-blue-700 font-bold px-6 py-3 rounded-xl hover:bg-blue-50 transition-colors"
+        >
+          1泊旅を計画する →
+        </a>
+        <a
+          href={daytripLink}
+          class="inline-block bg-white/20 text-white font-medium px-6 py-3 rounded-xl hover:bg-white/30 transition-colors"
+        >
+          日帰り旅を計画する →
+        </a>
+      </div>
+    </div>
+
+    <!-- Hotel links -->
+    <div class="border border-gray-200 rounded-xl p-6 mb-10">
+      <h2 class="text-base font-bold text-gray-800 mb-4">{dest.name}の宿を探す</h2>
+      <div class="flex flex-wrap gap-3">
+        <a
+          href={rakutenLink}
+          target="_blank"
+          rel="noopener noreferrer"
+          class="flex items-center gap-2 bg-red-600 text-white font-medium px-5 py-2.5 rounded-lg hover:bg-red-700 transition-colors text-sm"
+        >
+          楽天トラベルで検索
+        </a>
+        <a
+          href={jalanLink}
+          target="_blank"
+          rel="noopener noreferrer"
+          class="flex items-center gap-2 bg-orange-500 text-white font-medium px-5 py-2.5 rounded-lg hover:bg-orange-600 transition-colors text-sm"
+        >
+          じゃらんで検索
+        </a>
+      </div>
+      <p class="text-xs text-gray-400 mt-3">※アフィリエイト広告を含みます</p>
+    </div>
+
+    <!-- Back link -->
+    <div class="text-center">
+      <a
+        href="/destinations"
+        class="text-sm text-blue-600 hover:underline"
+      >
+        ← 目的地一覧へ戻る
+      </a>
+    </div>
+
+  </div>
+
+</DestinationLayout>
