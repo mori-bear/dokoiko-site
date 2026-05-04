@@ -1,203 +1,273 @@
 ---
 import DestinationLayout from '../../layouts/DestinationLayout.astro';
-import { existsSync, readFileSync } from 'fs';
-import { join } from 'path';
 import destinations from '../../data/destinations.json';
+import fs from 'fs';
+import path from 'path';
 
 export function getStaticPaths() {
-  return destinations.map((dest: any) => ({
+  return (destinations as any[]).map((dest: any) => ({
     params: { id: dest.id },
-    props: { dest },
+    props: { dest }
   }));
 }
 
 const { dest } = Astro.props as { dest: any };
 
-// 記事JSONがあればマージ、なければdestinationsのデータのみ
-const articlePath = join(process.cwd(), 'src/data/articles', `${dest.id}.json`);
-const article = existsSync(articlePath)
-  ? JSON.parse(readFileSync(articlePath, 'utf-8'))
+const articlePath = path.join(process.cwd(), 'src/data/articles', `${dest.id}.json`);
+const article = fs.existsSync(articlePath)
+  ? JSON.parse(fs.readFileSync(articlePath, 'utf8'))
   : null;
 
-const name        = dest.displayName || dest.name;
-const prefecture  = dest.prefecture ?? '';
-const description = dest.description ?? `${name}（${prefecture}）への旅。`;
-const catchCopy   = dest.catch ?? null;
-const tags        = dest.tags ?? [];
-const spots       = dest.spots ?? [];
-const image       = article?.image ?? null;
-const lead        = article?.lead ?? null;
-const sections    = article?.sections ?? [];
-const tips        = typeof article?.tips === 'string' ? [article.tips] : (article?.tips ?? []);
-const bestSeason  = article?.bestSeason ?? null;
-const stayNight   = article?.stayNight ?? null;
+const hasImage = fs.existsSync(path.join(process.cwd(), 'public/images', `${dest.id}.jpg`));
 
-const title        = `${name}の旅 | どこ行こ？`;
-const canonicalUrl = `https://tabidokoiko.com/destinations/${dest.id}`;
+const title = `【${dest.name}】おすすめ観光スポット${dest.spots?.length || 3}選 | ${dest.catch || dest.name + 'への旅'}`;
+const description = article?.lead?.slice(0, 120) || dest.description || `${dest.name}への行き方・宿・観光スポット情報。`;
 
-const baseUrl      = 'https://tabidokoiko.com';
-const overnightLink = `${baseUrl}/?dest=${encodeURIComponent(dest.id)}&nights=1night`;
-const daytripLink   = `${baseUrl}/?dest=${encodeURIComponent(dest.id)}&nights=daytrip`;
+const cityNames: Record<string, string> = {
+  tokyo: '東京', osaka: '大阪', nagoya: '名古屋', fukuoka: '福岡',
+  takamatsu: '高松', sapporo: '札幌', sendai: '仙台', hiroshima: '広島',
+  naha: '那覇', kanazawa: '金沢'
+};
+const travelTimes = Object.entries(dest.travelTime || {})
+  .filter(([_, v]: [string, any]) => v && v > 0)
+  .sort(([, a]: [string, any], [, b]: [string, any]) => a - b)
+  .slice(0, 4)
+  .map(([city, min]: [string, any]) => ({ city: cityNames[city] || city, min }));
 
-const rakutenLink = `https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D${encodeURIComponent(dest.hotelKeyword || name)}`;
-const jalanLink   = `https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fjalan%2Fscheds%2FschedTop.do%3FkeyWord%3D${encodeURIComponent(dest.hotelKeyword || name)}`;
+const accessStepIcon: Record<string, string> = {
+  rail: '🚃', ferry: '⛴', flight: '✈️', bus: '🚌', car: '🚗', local: '🚶'
+};
 ---
 
-<DestinationLayout
-  title={title}
-  description={description}
-  canonicalUrl={canonicalUrl}
-  ogImage={image || undefined}
->
+<DestinationLayout title={title} description={description}>
 
-  <!-- Hero -->
-  <section class="relative overflow-hidden bg-gray-900 text-white">
-    {image ? (
-      <img
-        src={image}
-        alt={name}
-        class="absolute inset-0 w-full h-full object-cover opacity-40"
-      />
+  <!-- ヒーロー -->
+  {hasImage ? (
+    <img
+      src={`/images/${dest.id}.jpg`}
+      alt={`${dest.name}の風景`}
+      class="w-full h-72 object-cover"
+    />
+  ) : (
+    <div class="w-full h-48 bg-gradient-to-br from-blue-100 to-blue-200 flex items-center justify-center">
+      <span class="text-5xl">🗾</span>
+    </div>
+  )}
+
+  <div class="max-w-2xl mx-auto px-4 py-6">
+
+    <!-- パンくず -->
+    <nav class="text-xs text-gray-400 mb-4">
+      <a href="/" class="hover:underline">HOME</a>
+      <span class="mx-1">›</span>
+      <span>{dest.region || dest.prefecture}</span>
+      <span class="mx-1">›</span>
+      <span>{dest.name}</span>
+    </nav>
+
+    <!-- タイトル・都道府県 -->
+    <h1 class="text-2xl font-bold leading-tight mb-1">{title}</h1>
+    <p class="text-xs text-gray-400 mb-4">{dest.prefecture}</p>
+
+    <!-- タグ -->
+    {dest.tags?.length > 0 && (
+      <div class="flex flex-wrap gap-1 mb-6">
+        {dest.tags.map((tag: string) => (
+          <span class="px-2 py-1 bg-gray-100 text-gray-500 text-xs rounded-full">{tag}</span>
+        ))}
+      </div>
+    )}
+
+    <!-- リード文 -->
+    {article?.lead && (
+      <p class="text-gray-700 leading-relaxed text-base mb-8">{article.lead}</p>
+    )}
+
+    <!-- おすすめシーズン -->
+    {article?.bestSeason && (
+      <div class="mb-8 p-4 bg-blue-50 rounded-lg border-l-4 border-blue-300">
+        <p class="text-sm font-bold text-blue-700 mb-1">🌸 おすすめの季節</p>
+        <p class="text-sm text-blue-600">{article.bestSeason}</p>
+      </div>
+    )}
+
+    <!-- スポット記事 -->
+    {article?.sections ? (
+      <div class="mb-8">
+        <h2 class="text-xl font-bold mb-6 pb-2 border-b-2 border-gray-200">
+          {dest.name}のおすすめスポット
+        </h2>
+        {article.sections.map((section: any, i: number) => (
+          <div class="mb-10">
+            <h3 class="text-lg font-bold mb-3">
+              <span class="text-blue-400 mr-2">{String(i + 1).padStart(2, '0')}</span>
+              {section.title || section.heading}
+            </h3>
+            {hasImage && i === 0 && (
+              <img
+                src={`/images/${dest.id}.jpg`}
+                alt={section.imageAlt || dest.name}
+                class="w-full h-52 object-cover rounded-lg mb-4"
+              />
+            )}
+            <p class="text-gray-700 leading-relaxed text-sm whitespace-pre-line mb-3">
+              {section.body}
+            </p>
+            {section.info && (
+              <div class="p-3 bg-gray-50 rounded text-xs text-gray-500 whitespace-pre-line">
+                {section.info}
+              </div>
+            )}
+            <a
+              href={`https://www.google.com/maps/search/${encodeURIComponent((section.title || section.heading || '') + ' ' + dest.name)}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              class="inline-block mt-2 text-blue-500 text-xs"
+            >
+              📍 地図で見る →
+            </a>
+          </div>
+        ))}
+      </div>
     ) : (
-      <div class="absolute inset-0 bg-gradient-to-br from-blue-900 to-teal-800 opacity-80"></div>
-    )}
-    <div class="relative max-w-3xl mx-auto px-4 py-20 md:py-28">
-      {tags.length > 0 && (
-        <div class="flex flex-wrap gap-2 mb-4">
-          {tags.map((tag: string) => (
-            <span class="text-xs font-medium bg-white/20 backdrop-blur px-3 py-1 rounded-full">
-              {tag}
-            </span>
+      <div class="mb-8">
+        <h2 class="text-xl font-bold mb-4">代表スポット</h2>
+        <div class="space-y-2">
+          {dest.spots?.map((spot: string) => (
+            <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
+              <span class="text-sm font-medium">{spot}</span>
+              <a
+                href={`https://www.google.com/maps/search/${encodeURIComponent(spot + ' ' + dest.name)}`}
+                target="_blank"
+                rel="noopener noreferrer"
+                class="text-blue-500 text-xs"
+              >地図 →</a>
+            </div>
           ))}
         </div>
-      )}
-      <h1 class="text-4xl md:text-5xl font-bold mb-3 leading-tight">
-        {name}
-      </h1>
-      <p class="text-lg text-white/70 mb-6">{prefecture}</p>
-      {catchCopy && (
-        <p class="text-xl md:text-2xl font-medium text-white/90 leading-relaxed italic">
-          「{catchCopy}」
-        </p>
-      )}
-    </div>
-  </section>
-
-  <!-- Meta info bar -->
-  <div class="bg-gray-50 border-b border-gray-200">
-    <div class="max-w-3xl mx-auto px-4 py-4 flex flex-wrap gap-6 text-sm text-gray-600">
-      {bestSeason && (
-        <div class="flex items-center gap-2">
-          <span class="text-gray-400">🌸 ベストシーズン</span>
-          <span class="font-medium text-gray-800">{bestSeason}</span>
-        </div>
-      )}
-      {stayNight && (
-        <div class="flex items-center gap-2">
-          <span class="text-gray-400">🏨 おすすめ</span>
-          <span class="font-medium text-gray-800">{stayNight}</span>
-        </div>
-      )}
-      {spots.length > 0 && (
-        <div class="flex items-center gap-2">
-          <span class="text-gray-400">📍 代表スポット</span>
-          <span class="font-medium text-gray-800">{spots.join('・')}</span>
-        </div>
-      )}
-    </div>
-  </div>
-
-  <!-- Main content -->
-  <div class="max-w-3xl mx-auto px-4 py-10">
-
-    <!-- Lead or description fallback -->
-    <p class="text-lg leading-relaxed text-gray-700 mb-10">
-      {lead || description}
-    </p>
-
-    <!-- Sections (記事あり時のみ) -->
-    {sections.map((section: { heading?: string; title?: string; body: string }) => (
-      <section class="mb-10">
-        <h2 class="text-xl font-bold text-gray-900 mb-4 pb-2 border-b-2 border-blue-100">
-          {section.heading || section.title}
-        </h2>
-        <p class="text-base leading-relaxed text-gray-700">
-          {section.body}
-        </p>
-      </section>
-    ))}
-
-    <!-- Tips (記事あり時のみ) -->
-    {tips.length > 0 && (
-      <div class="bg-amber-50 border border-amber-200 rounded-xl p-6 mb-10">
-        <h2 class="text-base font-bold text-amber-800 mb-4 flex items-center gap-2">
-          <span>💡</span> 旅のヒント
-        </h2>
-        <ul class="space-y-3">
-          {tips.map((tip: string) => (
-            <li class="flex items-start gap-2 text-sm text-amber-900">
-              <span class="mt-0.5 text-amber-500">→</span>
-              <span>{tip}</span>
-            </li>
-          ))}
-        </ul>
       </div>
     )}
 
-    <!-- CTA: どこ行こ？で旅を計画 -->
-    <div class="bg-gradient-to-br from-blue-600 to-teal-600 rounded-2xl p-8 text-white mb-10">
-      <h2 class="text-xl font-bold mb-2">
-        {name}へ、出発地から旅を計画する
-      </h2>
-      <p class="text-white/80 text-sm mb-6">
-        どこ行こ？で出発地を選ぶと、{name}への行き方・宿・所要時間が一覧で見られます。
+    <!-- モデルコース -->
+    {article?.modelCourse && (
+      <div class="mb-8">
+        <h2 class="text-xl font-bold mb-4">モデルコース</h2>
+        {dest.stayAllowed?.includes('daytrip') && article.modelCourse.daytrip && (
+          <div class="mb-4 p-4 bg-yellow-50 rounded-lg border border-yellow-200">
+            <p class="text-sm font-bold text-yellow-700 mb-2">☀️ 日帰りプラン</p>
+            <p class="text-sm text-gray-600 leading-relaxed">{article.modelCourse.daytrip}</p>
+          </div>
+        )}
+        {dest.stayAllowed?.includes('1night') && article.modelCourse.onenight && (
+          <div class="p-4 bg-indigo-50 rounded-lg border border-indigo-200">
+            <p class="text-sm font-bold text-indigo-700 mb-2">🌙 1泊2日プラン</p>
+            <p class="text-sm text-gray-600 leading-relaxed">{article.modelCourse.onenight}</p>
+          </div>
+        )}
+      </div>
+    )}
+
+    <!-- 旅のヒント -->
+    {article?.tips && (
+      <div class="mb-8 p-4 bg-green-50 rounded-lg border-l-4 border-green-300">
+        <p class="text-sm font-bold text-green-700 mb-2">💡 旅のヒント</p>
+        <p class="text-sm text-gray-600 leading-relaxed">
+          {typeof article.tips === 'string' ? article.tips : article.tips.join('\n')}
+        </p>
+      </div>
+    )}
+
+    <hr class="my-8 border-gray-200" />
+
+    <!-- 行き方 -->
+    <div class="mb-8">
+      <h2 class="text-xl font-bold mb-4">🗺️ {dest.name}への行き方</h2>
+
+      {travelTimes.length > 0 && (
+        <div class="mb-4 p-4 bg-gray-50 rounded-lg">
+          <p class="text-sm font-bold text-gray-600 mb-3">主要都市からの所要時間</p>
+          <div class="space-y-2">
+            {travelTimes.map(({ city, min }: { city: string; min: number }) => (
+              <div class="flex justify-between text-sm">
+                <span class="text-gray-500">{city}から</span>
+                <span class="font-bold">
+                  {min >= 60 ? `約${Math.floor(min / 60)}時間${min % 60 > 0 ? min % 60 + '分' : ''}` : `約${min}分`}
+                </span>
+              </div>
+            ))}
+          </div>
+        </div>
+      )}
+
+      {dest.access?.steps && dest.access.steps.length > 0 && (
+        <div class="space-y-1">
+          {dest.access.steps.map((step: any, i: number) => (
+            <div>
+              <div class="flex items-center gap-3 p-3 bg-white border border-gray-200 rounded-lg">
+                <span class="text-xl">{accessStepIcon[step.type] || '🚶'}</span>
+                <span class="text-sm">{step.to || step.from}へ</span>
+              </div>
+              {i < dest.access.steps.length - 1 && (
+                <div class="text-center text-gray-300 text-xs py-1">↓</div>
+              )}
+            </div>
+          ))}
+        </div>
+      )}
+    </div>
+
+    <hr class="my-8 border-gray-200" />
+
+    <!-- 宿泊 -->
+    <div class="mb-8">
+      <h2 class="text-xl font-bold mb-2">{dest.name}で泊まる</h2>
+      {dest.stayDescription && (
+        <p class="text-sm text-gray-500 mb-4">{dest.stayDescription}</p>
+      )}
+      <div class="grid grid-cols-2 gap-3">
+        {dest.hotelLinks?.rakuten && (
+          <a
+            href={dest.hotelLinks.rakuten}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="flex items-center justify-center gap-2 bg-red-500 text-white text-sm font-bold py-3 px-4 rounded-lg hover:bg-red-600 transition-colors"
+          >
+            楽天トラベル
+          </a>
+        )}
+        {dest.hotelLinks?.jalan && (
+          <a
+            href={dest.hotelLinks.jalan}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="flex items-center justify-center gap-2 bg-orange-400 text-white text-sm font-bold py-3 px-4 rounded-lg hover:bg-orange-500 transition-colors"
+          >
+            じゃらん
+          </a>
+        )}
+      </div>
+      <p class="text-xs text-gray-300 mt-2">※アフィリエイト広告を含みます</p>
+    </div>
+
+    <hr class="my-8 border-gray-200" />
+
+    <!-- どこ行こ？CTA -->
+    <div class="mb-10 p-6 bg-gradient-to-br from-blue-600 to-teal-500 rounded-2xl text-white text-center">
+      <p class="text-lg font-bold mb-1">{dest.name}への旅を計画する</p>
+      <p class="text-sm text-white/80 mb-5">
+        出発地を選ぶだけ。行き方・宿・所要時間をまとめて確認できます。
       </p>
-      <div class="flex flex-wrap gap-3">
-        <a
-          href={overnightLink}
-          class="inline-block bg-white text-blue-700 font-bold px-6 py-3 rounded-xl hover:bg-blue-50 transition-colors"
-        >
-          1泊旅を計画する →
-        </a>
-        <a
-          href={daytripLink}
-          class="inline-block bg-white/20 text-white font-medium px-6 py-3 rounded-xl hover:bg-white/30 transition-colors"
-        >
-          日帰り旅を計画する →
-        </a>
-      </div>
-    </div>
-
-    <!-- Hotel links -->
-    <div class="border border-gray-200 rounded-xl p-6 mb-10">
-      <h2 class="text-base font-bold text-gray-800 mb-4">{name}の宿を探す</h2>
-      <div class="flex flex-wrap gap-3">
-        <a
-          href={rakutenLink}
-          target="_blank"
-          rel="noopener noreferrer"
-          class="flex items-center gap-2 bg-red-600 text-white font-medium px-5 py-2.5 rounded-lg hover:bg-red-700 transition-colors text-sm"
-        >
-          楽天トラベルで検索
-        </a>
-        <a
-          href={jalanLink}
-          target="_blank"
-          rel="noopener noreferrer"
-          class="flex items-center gap-2 bg-orange-500 text-white font-medium px-5 py-2.5 rounded-lg hover:bg-orange-600 transition-colors text-sm"
-        >
-          じゃらんで検索
-        </a>
-      </div>
-      <p class="text-xs text-gray-400 mt-3">※アフィリエイト広告を含みます</p>
-    </div>
-
-    <!-- Back link -->
-    <div class="text-center">
       <a
-        href="/destinations"
-        class="text-sm text-blue-600 hover:underline"
+        href={`https://tabidokoiko.com/?dest=${encodeURIComponent(dest.id)}`}
+        class="inline-block bg-white text-blue-600 font-bold px-8 py-3 rounded-xl hover:bg-blue-50 transition-colors"
       >
+        どこ行こ？で旅を計画 →
+      </a>
+    </div>
+
+    <!-- ナビゲーション -->
+    <div class="text-center">
+      <a href="/destinations" class="text-sm text-blue-500 hover:underline">
         ← 目的地一覧へ戻る
       </a>
     </div>

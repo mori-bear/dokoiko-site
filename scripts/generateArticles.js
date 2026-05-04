@@ -16,16 +16,17 @@ const destinations = JSON.parse(
 async function generateArticle(dest) {
   const res = await client.messages.create({
     model: 'claude-sonnet-4-6',
-    max_tokens: 2000,
+    max_tokens: 8000,
     messages: [{
       role: 'user',
       content: `
 あなたは旅行メディアのライターです。
-島旅女。（shimatabijo.com）のような等身大で読みやすい
-旅行記事を書いてください。
+島旅女。（shimatabijo.com）のように実際に行った人が書いたような
+丁寧で読みやすい旅行記事を書いてください。
 
 目的地: ${dest.name}（${dest.prefecture}）
 説明: ${dest.description}
+キャッチ: ${dest.catch}
 スポット: ${dest.spots?.join('、') || 'なし'}
 タグ: ${dest.tags?.join('、') || 'なし'}
 
@@ -33,25 +34,32 @@ async function generateArticle(dest) {
 - 気取らない等身大の文章
 - 「〜だった」「〜がある」の体験型
 - キャッチーすぎない自然な表現
-- 読んでいて旅に行きたくなる
-- 島旅女。のような素直な文体
+- 島旅女。のような素直で丁寧な文体
+- 各スポットは具体的なエピソード・描写を含める
+- 読者が「行きたい」と思えるような臨場感
 
 以下のJSON形式で出力：
 {
-  "lead": "${dest.name}の魅力を自然に紹介する冒頭文（100文字程度）",
+  "lead": "冒頭文（200〜300文字）。${dest.name}の魅力・雰囲気・どんな人に向いているかを自然に紹介",
   "sections": [
     {
-      "title": "スポット名またはテーマ",
-      "body": "体験・感情・具体的な描写（150〜200文字）",
-      "imageAlt": "写真のalt text（20文字程度）"
+      "title": "スポット名またはテーマ（具体的に）",
+      "body": "本文（400〜500文字）。スポットの詳細・見どころ・実際に行くとどう感じるか・具体的な描写・営業情報なども含める",
+      "imageAlt": "写真のalt text（20文字程度）",
+      "info": "■ スポット名\\n所在地・料金・営業時間など実用情報（わかる範囲で）"
     }
   ],
-  "tips": "旅のヒント・アドバイス（80文字程度）",
-  "bestSeason": "おすすめの季節・時期（40文字程度）"
+  "modelCourse": {
+    "daytrip": "日帰りモデルコース（100文字程度）。時間帯ごとの動き方",
+    "onenight": "1泊モデルコース（150文字程度）。1日目・2日目の過ごし方"
+  },
+  "tips": "旅のヒント・アドバイス・注意点（150〜200文字）。移動手段・混雑時期・持ち物など",
+  "bestSeason": "おすすめの季節・時期と理由（80〜100文字）"
 }
 
 sectionsは${Math.max(dest.spots?.length || 0, 3)}件。
-JSONのみ出力。
+各sectionは必ず400文字以上書くこと。
+JSONのみ出力。説明文・マークダウン不要。
       `
     }]
   });
@@ -65,13 +73,13 @@ async function main() {
   const outputDir = path.join(__dirname, '../src/data/articles');
   fs.mkdirSync(outputDir, { recursive: true });
 
-  // weight上位から100件生成（既存スキップ）
+  // weight上位110件（既存スキップ）
   const targets = destinations
-    .filter(d => !fs.existsSync(path.join(outputDir, `${d.id}.json`)))
     .sort((a, b) => (b.weight || 1) - (a.weight || 1))
-    .slice(0, 100);
+    .slice(0, 110)
+    .filter(d => !fs.existsSync(path.join(outputDir, `${d.id}.json`)));
 
-  console.log(`📝 ${targets.length}件生成開始（既存スキップ済み）\n`);
+  console.log(`📝 ${targets.length}件生成開始\n`);
 
   let success = 0;
   let errors = 0;
@@ -96,7 +104,7 @@ async function main() {
       console.log(`\n📊 ${success}件成功 / ${errors}件エラー\n`);
     }
 
-    await new Promise(r => setTimeout(r, 1000));
+    await new Promise(r => setTimeout(r, 1500));
   }
 
   console.log(`\n🎉 完了: ${success}件成功 / ${errors}件エラー`);
