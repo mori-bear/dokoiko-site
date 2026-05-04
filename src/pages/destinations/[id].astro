@@ -56,244 +56,321 @@ const emoji = regionEmojis[dest.region] || '🗾';
 <DestinationLayout title={title} description={description} image={imageUrl}>
 <style>
   /* ヒーロー */
-  .hero { position: relative; background: #f5f5f5; }
-  .hero img { width: 100%; height: 280px; object-fit: cover; }
+  .hero { position: relative; background: #f0f0f0; overflow: hidden; }
+  .hero img { width: 100%; height: 320px; object-fit: cover; display: block; }
   .hero-placeholder {
-    width: 100%; height: 200px;
-    background: linear-gradient(135deg, #e8f4f8, #d4edf5);
+    width: 100%; height: 240px;
     display: flex; align-items: center; justify-content: center;
-    font-size: 48px;
+    flex-direction: column; gap: 12px;
   }
 
-  /* コンテンツ */
-  .content { max-width: 680px; margin: 0 auto; padding: 0 20px; }
+  /* コンテンツ幅 */
+  .content { max-width: 640px; margin: 0 auto; padding: 0 24px 80px; }
 
   /* パンくず */
   .breadcrumb {
-    padding: 12px 0;
-    font-size: 12px;
-    color: #999;
-    display: flex; gap: 4px; align-items: center;
+    padding: 14px 0 8px;
+    font-size: 11px;
+    color: #aaa;
+    display: flex; gap: 6px; align-items: center;
+    letter-spacing: 0.05em;
   }
-  .breadcrumb a { color: #999; }
-  .breadcrumb span { color: #ccc; }
+  .breadcrumb a { color: #aaa; }
 
-  /* タイトル */
+  /* タイトルエリア */
+  .dest-header { padding: 20px 0 24px; border-bottom: 1px solid #ebebeb; margin-bottom: 32px; }
+  .dest-pref { font-size: 11px; color: #aaa; letter-spacing: 0.1em; margin-bottom: 8px; text-transform: uppercase; }
   .dest-title {
-    font-size: 24px;
-    font-weight: bold;
-    line-height: 1.4;
-    margin: 8px 0 4px;
+    font-family: 'Noto Serif JP', serif;
+    font-size: 26px;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.05em;
+    color: #1a1a1a;
+    margin-bottom: 12px;
   }
-  .dest-pref { font-size: 13px; color: #999; margin-bottom: 16px; }
+  .dest-catch {
+    font-size: 14px;
+    color: #888;
+    line-height: 1.8;
+    font-style: italic;
+  }
 
   /* タグ */
-  .tags { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 24px; }
+  .tags { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 16px; }
   .tag {
-    padding: 4px 10px;
-    background: #f5f5f5;
-    color: #666;
-    font-size: 12px;
+    padding: 3px 10px;
+    border: 1px solid #ddd;
+    color: #888;
+    font-size: 11px;
     border-radius: 20px;
+    letter-spacing: 0.05em;
   }
 
   /* リード文 */
   .lead {
     font-size: 15px;
-    line-height: 2;
-    color: #444;
-    margin-bottom: 32px;
-    padding-bottom: 32px;
-    border-bottom: 1px solid #eee;
+    line-height: 2.1;
+    color: #333;
+    margin-bottom: 40px;
   }
 
   /* シーズン */
   .season-box {
-    margin-bottom: 32px;
-    padding: 16px;
-    background: #f0f7ff;
-    border-left: 4px solid #93c5fd;
-    border-radius: 0 8px 8px 0;
-    font-size: 14px;
-    color: #444;
+    margin-bottom: 40px;
+    padding: 20px 24px;
+    background: #f8f8f8;
+    border-radius: 4px;
+    font-size: 13px;
+    color: #555;
+    line-height: 1.9;
   }
-  .season-box strong { display: block; color: #3b82f6; margin-bottom: 4px; font-size: 13px; }
+  .season-label {
+    font-size: 11px;
+    letter-spacing: 0.1em;
+    color: #aaa;
+    margin-bottom: 8px;
+    display: block;
+  }
 
   /* スポット見出し */
-  .spots-title {
+  .spots-header { margin-bottom: 40px; }
+  .spots-header h2 {
+    font-family: 'Noto Serif JP', serif;
     font-size: 20px;
-    font-weight: bold;
-    margin-bottom: 32px;
-    padding-bottom: 12px;
-    border-bottom: 2px solid #333;
+    font-weight: 400;
+    letter-spacing: 0.05em;
+    color: #1a1a1a;
+    padding-bottom: 16px;
+    border-bottom: 1px solid #1a1a1a;
   }
 
   /* スポットセクション */
-  .spot-section { margin-bottom: 48px; }
-  .spot-num { font-size: 12px; color: #999; margin-bottom: 4px; }
+  .spot-section { margin-bottom: 56px; }
+  .spot-num {
+    font-size: 11px;
+    letter-spacing: 0.15em;
+    color: #aaa;
+    margin-bottom: 6px;
+  }
   .spot-title {
+    font-family: 'Noto Serif JP', serif;
     font-size: 18px;
-    font-weight: bold;
-    line-height: 1.4;
-    margin-bottom: 16px;
-    padding-bottom: 12px;
-    border-bottom: 1px solid #eee;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.05em;
+    color: #1a1a1a;
+    margin-bottom: 20px;
+    padding-bottom: 16px;
+    border-bottom: 1px solid #ebebeb;
   }
   .spot-image {
-    width: 100%; height: 220px;
+    width: 100%;
+    height: 240px;
     object-fit: cover;
-    border-radius: 8px;
-    margin-bottom: 16px;
+    margin-bottom: 20px;
+    border-radius: 2px;
   }
   .spot-body {
     font-size: 14px;
-    line-height: 2;
+    line-height: 2.1;
     color: #444;
-    margin-bottom: 16px;
-    white-space: pre-line;
+    margin-bottom: 20px;
   }
+  .spot-body p { margin-bottom: 16px; }
   .spot-info {
-    padding: 12px 16px;
-    background: #f9f9f9;
-    border-radius: 8px;
+    padding: 16px 20px;
+    background: #f8f8f8;
+    border-radius: 4px;
     font-size: 12px;
-    color: #666;
-    line-height: 1.8;
+    color: #777;
+    line-height: 1.9;
     white-space: pre-line;
-    margin-bottom: 8px;
+    margin-bottom: 12px;
   }
   .spot-map {
-    font-size: 13px;
-    color: #3b82f6;
+    font-size: 12px;
+    color: #888;
     display: inline-flex;
     align-items: center;
     gap: 4px;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 2px;
   }
 
   /* モデルコース */
-  .course-section { margin-bottom: 40px; }
-  .course-title { font-size: 20px; font-weight: bold; margin-bottom: 20px; }
+  .course-section { margin-bottom: 48px; }
+  .course-section h2 {
+    font-family: 'Noto Serif JP', serif;
+    font-size: 18px;
+    font-weight: 400;
+    letter-spacing: 0.05em;
+    margin-bottom: 20px;
+    color: #1a1a1a;
+  }
   .course-card {
-    padding: 16px;
-    border-radius: 12px;
+    padding: 20px 24px;
+    border-radius: 4px;
     margin-bottom: 12px;
-    font-size: 14px;
-    line-height: 1.8;
+    font-size: 13px;
+    line-height: 2;
     color: #444;
   }
-  .course-card strong { display: block; margin-bottom: 8px; font-size: 13px; }
-  .course-daytrip { background: #fffbeb; border: 1px solid #fde68a; }
-  .course-daytrip strong { color: #d97706; }
-  .course-onenight { background: #eef2ff; border: 1px solid #c7d2fe; }
-  .course-onenight strong { color: #4f46e5; }
+  .course-label {
+    font-size: 11px;
+    letter-spacing: 0.1em;
+    margin-bottom: 10px;
+    display: block;
+    font-weight: 500;
+  }
+  .course-daytrip { background: #fafaf5; border-left: 3px solid #c8b87a; }
+  .course-daytrip .course-label { color: #8a7a4a; }
+  .course-onenight { background: #f5f5fa; border-left: 3px solid #8a8ac8; }
+  .course-onenight .course-label { color: #4a4a8a; }
 
   /* ヒント */
   .tips-box {
-    margin-bottom: 40px;
-    padding: 16px;
-    background: #f0fdf4;
-    border-left: 4px solid #86efac;
-    border-radius: 0 8px 8px 0;
-    font-size: 14px;
+    margin-bottom: 48px;
+    padding: 20px 24px;
+    background: #f8faf8;
+    border-left: 3px solid #8ab88a;
+    border-radius: 0 4px 4px 0;
+    font-size: 13px;
     color: #444;
-    line-height: 1.8;
+    line-height: 2;
   }
-  .tips-box strong { display: block; color: #16a34a; margin-bottom: 8px; font-size: 13px; }
+  .tips-label {
+    font-size: 11px;
+    letter-spacing: 0.1em;
+    color: #6a8a6a;
+    margin-bottom: 10px;
+    display: block;
+    font-weight: 500;
+  }
 
   /* セパレーター */
-  .section-divider { border: none; border-top: 1px solid #eee; margin: 40px 0; }
+  .section-divider {
+    border: none;
+    border-top: 1px solid #ebebeb;
+    margin: 48px 0;
+  }
 
   /* 行き方 */
-  .access-section { margin-bottom: 40px; }
-  .section-title { font-size: 20px; font-weight: bold; margin-bottom: 20px; }
-  .travel-times {
-    background: #f9f9f9;
-    border-radius: 12px;
-    padding: 16px;
-    margin-bottom: 20px;
+  .access-section { margin-bottom: 48px; }
+  .section-title {
+    font-family: 'Noto Serif JP', serif;
+    font-size: 18px;
+    font-weight: 400;
+    letter-spacing: 0.05em;
+    margin-bottom: 24px;
+    color: #1a1a1a;
   }
-  .travel-times p { font-size: 13px; color: #999; margin-bottom: 12px; }
+  .travel-times {
+    background: #f8f8f8;
+    border-radius: 4px;
+    padding: 20px 24px;
+    margin-bottom: 24px;
+  }
+  .travel-times-label {
+    font-size: 11px;
+    letter-spacing: 0.1em;
+    color: #aaa;
+    margin-bottom: 16px;
+    display: block;
+  }
   .travel-time-row {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 8px 0;
-    border-bottom: 1px solid #eee;
-    font-size: 14px;
+    padding: 10px 0;
+    border-bottom: 1px solid #ebebeb;
+    font-size: 13px;
   }
   .travel-time-row:last-child { border-bottom: none; }
-  .travel-time-row span:first-child { color: #666; }
-  .travel-time-row span:last-child { font-weight: bold; }
+  .travel-time-row span:first-child { color: #777; }
+  .travel-time-row span:last-child { font-weight: 500; color: #1a1a1a; }
 
-  /* アクセスステップ */
-  .access-steps { display: flex; flex-direction: column; gap: 4px; }
+  .access-steps { display: flex; flex-direction: column; gap: 2px; }
   .access-step {
-    display: flex; align-items: center; gap: 12px;
-    padding: 12px 16px;
+    display: flex; align-items: center; gap: 14px;
+    padding: 14px 18px;
     background: #fff;
-    border: 1px solid #e5e7eb;
-    border-radius: 10px;
-    font-size: 14px;
+    border: 1px solid #ebebeb;
+    border-radius: 4px;
+    font-size: 13px;
+    color: #444;
   }
-  .access-step-icon { font-size: 20px; min-width: 28px; text-align: center; }
-  .step-arrow { text-align: center; color: #d1d5db; font-size: 12px; padding: 2px 0; }
+  .access-step-icon { font-size: 18px; min-width: 24px; text-align: center; }
+  .step-arrow { text-align: center; color: #ddd; font-size: 11px; padding: 2px 0; }
 
   /* 宿泊 */
-  .hotel-section { margin-bottom: 40px; }
-  .hotel-description { font-size: 14px; color: #666; margin-bottom: 16px; line-height: 1.8; }
-  .hotel-buttons { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+  .hotel-section { margin-bottom: 48px; }
+  .hotel-description {
+    font-size: 13px;
+    color: #777;
+    margin-bottom: 20px;
+    line-height: 1.9;
+  }
+  .hotel-buttons { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
   .btn-rakuten {
-    display: block; padding: 16px;
-    background: #c0392b; color: #fff;
-    text-align: center; border-radius: 10px;
-    font-weight: bold; font-size: 14px;
+    display: block; padding: 16px 12px;
+    background: #1a1a1a; color: #fff;
+    text-align: center; border-radius: 4px;
+    font-size: 13px; letter-spacing: 0.05em;
     transition: opacity 0.2s;
   }
-  .btn-rakuten:hover { opacity: 0.9; }
+  .btn-rakuten:hover { opacity: 0.8; }
   .btn-jalan {
-    display: block; padding: 16px;
-    background: #e67e22; color: #fff;
-    text-align: center; border-radius: 10px;
-    font-weight: bold; font-size: 14px;
-    transition: opacity 0.2s;
+    display: block; padding: 16px 12px;
+    background: #fff; color: #1a1a1a;
+    text-align: center; border-radius: 4px;
+    font-size: 13px; letter-spacing: 0.05em;
+    border: 1px solid #1a1a1a;
+    transition: all 0.2s;
   }
-  .btn-jalan:hover { opacity: 0.9; }
+  .btn-jalan:hover { background: #1a1a1a; color: #fff; }
 
   /* 近くの旅先 */
-  .nearby-section { margin-bottom: 40px; }
-  .nearby-list { display: flex; flex-direction: column; gap: 8px; }
+  .nearby-section { margin-bottom: 48px; }
+  .nearby-list { display: flex; flex-direction: column; }
   .nearby-item {
     display: flex; justify-content: space-between; align-items: center;
-    padding: 14px 16px;
-    background: #f9f9f9;
-    border-radius: 10px;
+    padding: 16px 0;
+    border-bottom: 1px solid #ebebeb;
     font-size: 14px;
-    transition: background 0.2s;
   }
-  .nearby-item:hover { background: #f0f0f0; }
-  .nearby-item span:last-child { color: #999; font-size: 12px; }
+  .nearby-item:first-child { border-top: 1px solid #ebebeb; }
+  .nearby-name { color: #1a1a1a; }
+  .nearby-pref { color: #aaa; font-size: 11px; }
 
   /* CTA */
   .cta-section {
-    padding: 32px 24px;
-    background: #f0f9ff;
-    border-radius: 16px;
+    padding: 40px 24px;
+    background: #f8f8f8;
+    border-radius: 4px;
     text-align: center;
-    margin-bottom: 40px;
+    margin-bottom: 48px;
   }
-  .cta-section p { font-size: 13px; color: #999; margin-bottom: 4px; }
-  .cta-section strong { display: block; font-size: 16px; color: #333; margin-bottom: 16px; }
+  .cta-label { font-size: 11px; letter-spacing: 0.1em; color: #aaa; margin-bottom: 8px; display: block; }
+  .cta-title {
+    font-family: 'Noto Serif JP', serif;
+    font-size: 18px;
+    font-weight: 400;
+    color: #1a1a1a;
+    margin-bottom: 24px;
+    letter-spacing: 0.05em;
+  }
   .cta-btn {
     display: inline-block;
-    padding: 14px 32px;
-    background: #2563eb;
+    padding: 14px 36px;
+    background: #1a1a1a;
     color: #fff;
-    border-radius: 999px;
-    font-weight: bold;
-    font-size: 15px;
+    border-radius: 2px;
+    font-size: 13px;
+    letter-spacing: 0.1em;
     transition: opacity 0.2s;
   }
-  .cta-btn:hover { opacity: 0.9; }
+  .cta-btn:hover { opacity: 0.8; }
 </style>
 
   <!-- ヒーロー画像 -->
@@ -302,10 +379,8 @@ const emoji = regionEmojis[dest.region] || '🗾';
       <img src={imageUrl} alt={`${dest.name}の風景`} />
     ) : (
       <div class="hero-placeholder" style={`background: ${regionColor};`}>
-        <div style="text-align: center;">
-          <div style="font-size: 48px;">{emoji}</div>
-          <div style="font-size: 14px; color: #666; margin-top: 8px;">{dest.name}</div>
-        </div>
+        <div style="font-size: 56px;">{emoji}</div>
+        <div style="font-size: 13px; color: #888; letter-spacing: 0.1em;">{dest.name}</div>
       </div>
     )}
   </div>
@@ -314,20 +389,19 @@ const emoji = regionEmojis[dest.region] || '🗾';
 
     <!-- パンくず -->
     <nav class="breadcrumb">
-      <a href="/">HOME</a>
-      <span>›</span>
-      <a href="/destinations/">{dest.region || dest.prefecture}</a>
-      <span>›</span>
+      <a href="/">HOME</a> ›
+      <a href="/destinations/">{dest.region || dest.prefecture}</a> ›
       <span>{dest.name}</span>
     </nav>
 
-    <!-- タイトル -->
-    <h1 class="dest-title">{title}</h1>
-    <p class="dest-pref">{dest.prefecture}</p>
-
-    <!-- タグ -->
-    <div class="tags">
-      {dest.tags?.map((tag: string) => <span class="tag">{tag}</span>)}
+    <!-- タイトルエリア -->
+    <div class="dest-header">
+      <p class="dest-pref">{dest.prefecture}</p>
+      <h1 class="dest-title">{title}</h1>
+      {(dest as any).catch && <p class="dest-catch">{(dest as any).catch}</p>}
+      <div class="tags">
+        {dest.tags?.map((tag: string) => <span class="tag">{tag}</span>)}
+      </div>
     </div>
 
     <!-- リード文 -->
@@ -336,7 +410,7 @@ const emoji = regionEmojis[dest.region] || '🗾';
     <!-- おすすめシーズン -->
     {article?.bestSeason && (
       <div class="season-box">
-        <strong>🌸 おすすめの季節</strong>
+        <span class="season-label">BEST SEASON</span>
         {article.bestSeason}
       </div>
     )}
@@ -344,22 +418,28 @@ const emoji = regionEmojis[dest.region] || '🗾';
     <!-- スポット -->
     {article?.sections && article.sections.length > 0 && (
       <div>
-        <h2 class="spots-title">{dest.name}のおすすめスポット</h2>
+        <div class="spots-header">
+          <h2>{dest.name}のおすすめスポット</h2>
+        </div>
         {article.sections.map((section: any, i: number) => (
           <div class="spot-section">
-            <p class="spot-num">{String(i + 1).padStart(2, '0')}</p>
+            <p class="spot-num">0{i + 1}</p>
             <h3 class="spot-title">{section.title || section.heading}</h3>
             {imageUrl && i === 0 && (
               <img src={imageUrl} alt={section.imageAlt || dest.name} class="spot-image" />
             )}
-            <p class="spot-body">{section.body}</p>
+            <div class="spot-body">
+              {section.body.split('\n').map((p: string) => p.trim()).filter(Boolean).map((p: string) => (
+                <p>{p}</p>
+              ))}
+            </div>
             {section.info && <div class="spot-info">{section.info}</div>}
             <a
               href={`https://www.google.com/maps/search/${encodeURIComponent((section.title || section.heading || '') + ' ' + dest.name)}`}
               target="_blank"
               rel="noopener noreferrer"
               class="spot-map"
-            >📍 地図で見る →</a>
+            >地図で見る →</a>
           </div>
         ))}
       </div>
@@ -368,16 +448,16 @@ const emoji = regionEmojis[dest.region] || '🗾';
     <!-- モデルコース -->
     {article?.modelCourse && (
       <div class="course-section">
-        <h2 class="course-title">モデルコース</h2>
+        <h2>モデルコース</h2>
         {article.modelCourse.daytrip && (
           <div class="course-card course-daytrip">
-            <strong>☀️ 日帰りプラン</strong>
+            <span class="course-label">DAY TRIP</span>
             {article.modelCourse.daytrip}
           </div>
         )}
         {article.modelCourse.onenight && (
           <div class="course-card course-onenight">
-            <strong>🌙 1泊2日プラン</strong>
+            <span class="course-label">1 NIGHT</span>
             {article.modelCourse.onenight}
           </div>
         )}
@@ -387,7 +467,7 @@ const emoji = regionEmojis[dest.region] || '🗾';
     <!-- 旅のヒント -->
     {article?.tips && (
       <div class="tips-box">
-        <strong>💡 旅のヒント</strong>
+        <span class="tips-label">TRAVEL TIPS</span>
         {typeof article.tips === 'string' ? article.tips : article.tips.join('\n')}
       </div>
     )}
@@ -396,11 +476,10 @@ const emoji = regionEmojis[dest.region] || '🗾';
 
     <!-- 行き方 -->
     <div class="access-section">
-      <h2 class="section-title">🗺️ {dest.name}への行き方</h2>
-
+      <h2 class="section-title">{dest.name}への行き方</h2>
       {travelTimes.length > 0 && (
         <div class="travel-times">
-          <p>主要都市からの所要時間</p>
+          <span class="travel-times-label">ACCESS TIME</span>
           {travelTimes.map(({ city, min }: { city: string; min: number }) => (
             <div class="travel-time-row">
               <span>{city}から</span>
@@ -409,7 +488,6 @@ const emoji = regionEmojis[dest.region] || '🗾';
           ))}
         </div>
       )}
-
       {dest.access?.steps && dest.access.steps.length > 0 && (
         <div class="access-steps">
           {dest.access.steps.map((step: any, i: number) => (
@@ -432,16 +510,18 @@ const emoji = regionEmojis[dest.region] || '🗾';
     <!-- 宿泊 -->
     {(dest.hotelLinks?.rakuten || dest.hotelLinks?.jalan) && (
       <div class="hotel-section">
-        <h2 class="section-title">{dest.name}で泊まる</h2>
+        <h2 class="section-title">{(dest as any).hotelSearch || dest.name}の宿を探す</h2>
         <p class="hotel-description">
-          {dest.stayAllowed?.includes('1night') ? `せっかく${dest.name}まで来たなら、1泊してゆっくり楽しみましょう。` : `${dest.name}周辺の宿泊施設を探してみましょう。`}
+          {dest.stayAllowed?.includes('1night')
+            ? `せっかく${dest.name}まで来たなら、1泊してゆっくり楽しみましょう。`
+            : `${dest.name}周辺の宿泊施設を探してみましょう。`}
         </p>
         <div class="hotel-buttons">
           {dest.hotelLinks?.rakuten && (
-            <a href={dest.hotelLinks.rakuten} target="_blank" rel="noopener noreferrer" class="btn-rakuten">楽天で宿を見る</a>
+            <a href={dest.hotelLinks.rakuten} target="_blank" rel="noopener noreferrer" class="btn-rakuten">楽天トラベル</a>
           )}
           {dest.hotelLinks?.jalan && (
-            <a href={dest.hotelLinks.jalan} target="_blank" rel="noopener noreferrer" class="btn-jalan">じゃらんで宿を見る</a>
+            <a href={dest.hotelLinks.jalan} target="_blank" rel="noopener noreferrer" class="btn-jalan">じゃらん</a>
           )}
         </div>
       </div>
@@ -458,8 +538,8 @@ const emoji = regionEmojis[dest.region] || '🗾';
           .slice(0, 5)
           .map((d: any) => (
             <a href={`/destinations/${d.id}/`} class="nearby-item">
-              <span>{d.name}</span>
-              <span>{d.prefecture} →</span>
+              <span class="nearby-name">{d.name}</span>
+              <span class="nearby-pref">{d.prefecture} →</span>
             </a>
           ))
         }
@@ -468,8 +548,8 @@ const emoji = regionEmojis[dest.region] || '🗾';
 
     <!-- CTA -->
     <div class="cta-section">
-      <p>行き先がまだ決まっていない人へ</p>
-      <strong>旅先を1分で決めてみる？</strong>
+      <span class="cta-label">TRAVEL PLANNING</span>
+      <p class="cta-title">旅先を1分で決めてみる？</p>
       <a href="https://tabidokoiko.com" class="cta-btn">どこ行こ？で旅先を探す →</a>
     </div>
 
