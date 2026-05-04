@@ -80,9 +80,8 @@ async function main() {
   fs.mkdirSync(outputDir, { recursive: true });
 
   const targets = destinations
-    .sort((a, b) => (b.weight || 1) - (a.weight || 1))
-    .slice(0, 110)
-    .filter(d => !fs.existsSync(path.join(outputDir, `${d.id}.json`)));
+    .filter(d => !fs.existsSync(path.join(outputDir, `${d.id}.json`)))
+    .sort((a, b) => (b.weight || 1) - (a.weight || 1));
 
   console.log(`📝 ${targets.length}件生成開始\n`);
 

@@ -1,81 +1,326 @@
 ---
 import DestinationLayout from '../layouts/DestinationLayout.astro';
-import { readFileSync, readdirSync } from 'fs';
-import { join } from 'path';
+import destinations from '../data/destinations.json';
+import fs from 'fs';
+import path from 'path';
 
-const articlesDir = join(process.cwd(), 'src/data/articles');
-const files = readdirSync(articlesDir).filter(f => f.endsWith('.json'));
-const destinations = files.map(f =>
-  JSON.parse(readFileSync(join(articlesDir, f), 'utf-8'))
-).slice(0, 6);
+const featured = (destinations as any[])
+  .filter(d => fs.existsSync(path.join(process.cwd(), 'src/data/articles', `${d.id}.json`)))
+  .sort((a, b) => (b.weight || 1) - (a.weight || 1))
+  .slice(0, 12);
+
+const regions = ['北海道', '東北', '関東', '中部', '近畿', '中国', '四国', '九州', '沖縄'];
+const byRegion = regions.map(region => ({
+  region,
+  destinations: (destinations as any[]).filter(d => d.region === region).slice(0, 6)
+})).filter(r => r.destinations.length > 0);
+
+const regionEmoji: Record<string, string> = {
+  '北海道': '🦊', '東北': '⛩️', '関東': '🗼', '中部': '🏔️',
+  '近畿': '🦌', '中国': '⛩️', '四国': '🍊', '九州': '🌋', '沖縄': '🌺'
+};
 ---
 
 <DestinationLayout
-  title="どこ行こ？ — まだ知らない街と、出会おう。"
-  description="まだ知らない街と、出会おう。出発地と日程を選ぶだけで、行ったことのない日本の街に出会えます。"
-  canonicalUrl="https://tabidokoiko.com/"
+  title="どこ行こ？ | 日本の旅先ガイド - 行き方・宿・観光スポット"
+  description="日本全国1163か所の旅先情報。行き方・宿・観光スポットを出発地別にまとめて確認できます。"
 >
+<style>
+  /* ヒーロー */
+  .top-hero {
+    width: 100%;
+    height: 70vh;
+    min-height: 400px;
+    background: linear-gradient(135deg, #1a3a4a, #2d5a6a);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 40px 24px;
+    position: relative;
+    overflow: hidden;
+  }
 
-  <!-- Hero -->
-  <section class="bg-gradient-to-br from-slate-900 to-blue-950 text-white py-20 md:py-28">
-    <div class="max-w-3xl mx-auto px-4 text-center">
-      <p class="text-blue-300 text-sm font-medium mb-4 tracking-widest uppercase">Discover Japan</p>
-      <h1 class="text-4xl md:text-6xl font-bold mb-6 leading-tight">
-        旅先、1分で決まります。
-      </h1>
-      <p class="text-white/70 text-lg md:text-xl mb-10">
-        出発地と日程を選ぶだけで、ちゃんと行ける旅先を出します。
+  .top-hero::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: url('/images/hero.jpg') center/cover no-repeat;
+    opacity: 0.4;
+  }
+
+  .hero-content { position: relative; z-index: 1; }
+
+  .hero-label {
+    font-size: 11px;
+    letter-spacing: 0.2em;
+    color: rgba(255,255,255,0.7);
+    margin-bottom: 16px;
+    display: block;
+  }
+
+  .hero-title {
+    font-family: 'Noto Serif JP', serif;
+    font-size: 36px;
+    font-weight: 400;
+    color: #fff;
+    letter-spacing: 0.1em;
+    line-height: 1.4;
+    margin-bottom: 16px;
+  }
+
+  .hero-subtitle {
+    font-size: 14px;
+    color: rgba(255,255,255,0.8);
+    line-height: 1.8;
+    margin-bottom: 32px;
+    letter-spacing: 0.05em;
+  }
+
+  .hero-btn {
+    display: inline-block;
+    padding: 14px 36px;
+    background: #fff;
+    color: #1a1a1a;
+    border-radius: 2px;
+    font-size: 13px;
+    letter-spacing: 0.1em;
+    font-weight: 500;
+    transition: opacity 0.2s;
+  }
+  .hero-btn:hover { opacity: 0.9; }
+
+  /* コンテンツ */
+  .top-content { max-width: 680px; margin: 0 auto; padding: 0 24px 80px; }
+
+  /* セクション */
+  .section { margin-top: 64px; }
+  .section-header { margin-bottom: 32px; }
+  .section-label {
+    font-size: 11px;
+    letter-spacing: 0.15em;
+    color: #aaa;
+    display: block;
+    margin-bottom: 8px;
+  }
+  .section-title {
+    font-family: 'Noto Serif JP', serif;
+    font-size: 22px;
+    font-weight: 400;
+    color: #1a1a1a;
+    letter-spacing: 0.05em;
+    padding-bottom: 16px;
+    border-bottom: 1px solid #1a1a1a;
+  }
+
+  /* 特集グリッド */
+  .featured-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+  }
+
+  .featured-card {
+    display: block;
+    position: relative;
+    border-radius: 4px;
+    overflow: hidden;
+    aspect-ratio: 4/3;
+    background: #f0f0f0;
+  }
+
+  .featured-card img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s;
+  }
+
+  .featured-card:hover img { transform: scale(1.05); }
+
+  .featured-card-overlay {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(to top, rgba(0,0,0,0.7) 0%, transparent 50%);
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding: 16px;
+  }
+
+  .featured-card-pref {
+    font-size: 10px;
+    color: rgba(255,255,255,0.7);
+    letter-spacing: 0.1em;
+    margin-bottom: 4px;
+  }
+
+  .featured-card-name {
+    font-family: 'Noto Serif JP', serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #fff;
+    letter-spacing: 0.05em;
+  }
+
+  .featured-placeholder {
+    width: 100%; height: 100%;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 32px;
+  }
+
+  /* 地域別リスト */
+  .region-section { margin-bottom: 48px; }
+  .region-title {
+    font-size: 13px;
+    font-weight: 500;
+    color: #666;
+    letter-spacing: 0.1em;
+    margin-bottom: 16px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid #ebebeb;
+  }
+  .region-list { display: flex; flex-direction: column; }
+  .region-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px 0;
+    border-bottom: 1px solid #f0f0f0;
+    font-size: 14px;
+  }
+  .region-item-name { color: #1a1a1a; }
+  .region-item-pref { font-size: 11px; color: #aaa; }
+
+  /* どこ行こ？CTA */
+  .app-cta {
+    margin-top: 64px;
+    padding: 48px 24px;
+    background: #1a1a1a;
+    border-radius: 4px;
+    text-align: center;
+    color: #fff;
+  }
+  .app-cta-label {
+    font-size: 11px;
+    letter-spacing: 0.15em;
+    color: rgba(255,255,255,0.5);
+    display: block;
+    margin-bottom: 12px;
+  }
+  .app-cta-title {
+    font-family: 'Noto Serif JP', serif;
+    font-size: 24px;
+    font-weight: 400;
+    letter-spacing: 0.1em;
+    margin-bottom: 8px;
+  }
+  .app-cta-sub {
+    font-size: 13px;
+    color: rgba(255,255,255,0.6);
+    margin-bottom: 28px;
+    line-height: 1.8;
+  }
+  .app-cta-btn {
+    display: inline-block;
+    padding: 14px 36px;
+    background: #fff;
+    color: #1a1a1a;
+    border-radius: 2px;
+    font-size: 13px;
+    letter-spacing: 0.1em;
+    font-weight: 500;
+  }
+
+  .all-link {
+    display: block;
+    text-align: center;
+    margin-top: 24px;
+    font-size: 13px;
+    color: #888;
+    letter-spacing: 0.05em;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 2px;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+  }
+</style>
+
+  <!-- ヒーロー -->
+  <div class="top-hero">
+    <div class="hero-content">
+      <span class="hero-label">JAPAN TRAVEL GUIDE</span>
+      <h1 class="hero-title">まだ知らない街と、<br>出会おう。</h1>
+      <p class="hero-subtitle">
+        全国1163か所の旅先情報。<br>
+        行き方・宿・観光スポットをまとめて確認。
       </p>
-      <a
-        href="https://tabidokoiko.com"
-        class="inline-block bg-white text-slate-900 font-bold px-10 py-4 rounded-2xl text-lg hover:bg-blue-50 transition-colors"
-      >
-        どこ行こ？ →
-      </a>
+      <a href="https://tabidokoiko.com" class="hero-btn">旅先を1分で決める →</a>
     </div>
-  </section>
+  </div>
 
-  <!-- Featured destinations -->
-  <section class="max-w-3xl mx-auto px-4 py-16">
-    <h2 class="text-2xl font-bold text-gray-900 mb-2">読み物：旅先ガイド</h2>
-    <p class="text-gray-500 mb-8">知らなかった旅先との出会い方。</p>
+  <div class="top-content">
 
-    <div class="grid grid-cols-1 sm:grid-cols-2 gap-5">
-      {destinations.map((dest: any) => (
-        <a
-          href={`/destinations/${dest.id}`}
-          class="group block rounded-xl overflow-hidden border border-gray-200 hover:border-blue-300 hover:shadow-md transition-all"
-        >
-          {dest.image ? (
-            <div class="aspect-video overflow-hidden">
-              <img
-                src={dest.image}
-                alt={dest.name}
-                class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
-              />
-            </div>
-          ) : (
-            <div class="aspect-video bg-gradient-to-br from-blue-100 to-teal-100 flex items-center justify-center">
-              <span class="text-4xl">🏝️</span>
-            </div>
-          )}
-          <div class="p-4">
-            <p class="text-xs text-gray-400 mb-1">{dest.prefecture}</p>
-            <h3 class="text-lg font-bold text-gray-900 mb-1">{dest.name}</h3>
-            <p class="text-sm text-gray-500 italic">「{dest.catch}」</p>
+    <!-- 特集 -->
+    <div class="section">
+      <div class="section-header">
+        <span class="section-label">FEATURED</span>
+        <h2 class="section-title">おすすめの旅先</h2>
+      </div>
+      <div class="featured-grid">
+        {featured.map((dest: any) => {
+          const hasImg = fs.existsSync(path.join(process.cwd(), 'public/images', `${dest.id}.jpg`));
+          return (
+            <a href={`/destinations/${dest.id}/`} class="featured-card">
+              {hasImg ? (
+                <img src={`/images/${dest.id}.jpg`} alt={dest.name} />
+              ) : (
+                <div class="featured-placeholder">{regionEmoji[dest.region] || '🗾'}</div>
+              )}
+              <div class="featured-card-overlay">
+                <p class="featured-card-pref">{dest.prefecture}</p>
+                <p class="featured-card-name">{dest.name}</p>
+              </div>
+            </a>
+          );
+        })}
+      </div>
+      <a href="/destinations/" class="all-link">目的地一覧をすべて見る →</a>
+    </div>
+
+    <!-- 地域別 -->
+    <div class="section">
+      <div class="section-header">
+        <span class="section-label">BY REGION</span>
+        <h2 class="section-title">地域から探す</h2>
+      </div>
+      {byRegion.map(({ region, destinations: dests }) => (
+        <div class="region-section">
+          <h3 class="region-title">{region}</h3>
+          <div class="region-list">
+            {dests.map((d: any) => (
+              <a href={`/destinations/${d.id}/`} class="region-item">
+                <span class="region-item-name">{d.name}</span>
+                <span class="region-item-pref">{d.prefecture} →</span>
+              </a>
+            ))}
           </div>
-        </a>
+        </div>
       ))}
     </div>
 
-    <div class="mt-8 text-center">
-      <a
-        href="/destinations"
-        class="text-blue-600 font-medium hover:underline"
-      >
-        すべての旅先ガイドを見る →
-      </a>
+    <!-- アプリCTA -->
+    <div class="app-cta">
+      <span class="app-cta-label">TRAVEL PLANNING</span>
+      <p class="app-cta-title">旅先、1分で決まります。</p>
+      <p class="app-cta-sub">
+        出発地と日程を選ぶだけで、<br>
+        ちゃんと行ける旅先を提案します。
+      </p>
+      <a href="https://tabidokoiko.com" class="app-cta-btn">どこ行こ？を使ってみる →</a>
     </div>
-  </section>
 
+  </div>
 </DestinationLayout>
