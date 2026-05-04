@@ -32,6 +32,25 @@ const travelTimes = Object.entries(dest.travelTime || {})
     city: { tokyo: '東京', osaka: '大阪', nagoya: '名古屋', fukuoka: '福岡', takamatsu: '高松', sapporo: '札幌', sendai: '仙台', hiroshima: '広島', naha: '那覇', kanazawa: '金沢' }[city] || city,
     min
   }));
+
+const regionColors: Record<string, string> = {
+  '北海道': 'linear-gradient(135deg, #e0f2fe, #bae6fd)',
+  '東北': 'linear-gradient(135deg, #dcfce7, #bbf7d0)',
+  '関東': 'linear-gradient(135deg, #fef9c3, #fef08a)',
+  '中部': 'linear-gradient(135deg, #ffedd5, #fed7aa)',
+  '近畿': 'linear-gradient(135deg, #fce7f3, #fbcfe8)',
+  '中国': 'linear-gradient(135deg, #f3e8ff, #e9d5ff)',
+  '四国': 'linear-gradient(135deg, #ecfdf5, #a7f3d0)',
+  '九州': 'linear-gradient(135deg, #fff7ed, #fed7aa)',
+  '沖縄': 'linear-gradient(135deg, #e0f2fe, #7dd3fc)',
+};
+const regionColor = regionColors[dest.region] || 'linear-gradient(135deg, #f5f5f5, #e5e5e5)';
+
+const regionEmojis: Record<string, string> = {
+  '北海道': '🦊', '東北': '⛩️', '関東': '🗼', '中部': '🏔️',
+  '近畿': '🦌', '中国': '⛩️', '四国': '🍊', '九州': '🌋', '沖縄': '🌺',
+};
+const emoji = regionEmojis[dest.region] || '🗾';
 ---
 
 <DestinationLayout title={title} description={description} image={imageUrl}>
@@ -282,7 +301,12 @@ const travelTimes = Object.entries(dest.travelTime || {})
     {imageUrl ? (
       <img src={imageUrl} alt={`${dest.name}の風景`} />
     ) : (
-      <div class="hero-placeholder">🗾</div>
+      <div class="hero-placeholder" style={`background: ${regionColor};`}>
+        <div style="text-align: center;">
+          <div style="font-size: 48px;">{emoji}</div>
+          <div style="font-size: 14px; color: #666; margin-top: 8px;">{dest.name}</div>
+        </div>
+      </div>
     )}
   </div>
 
