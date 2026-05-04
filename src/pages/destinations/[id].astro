@@ -28,7 +28,7 @@ const spots       = dest.spots ?? [];
 const image       = article?.image ?? null;
 const lead        = article?.lead ?? null;
 const sections    = article?.sections ?? [];
-const tips        = article?.tips ?? [];
+const tips        = typeof article?.tips === 'string' ? [article.tips] : (article?.tips ?? []);
 const bestSeason  = article?.bestSeason ?? null;
 const stayNight   = article?.stayNight ?? null;
 
@@ -116,10 +116,10 @@ const jalanLink   = `https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=376
     </p>
 
     <!-- Sections (記事あり時のみ) -->
-    {sections.map((section: { heading: string; body: string }) => (
+    {sections.map((section: { heading?: string; title?: string; body: string }) => (
       <section class="mb-10">
         <h2 class="text-xl font-bold text-gray-900 mb-4 pb-2 border-b-2 border-blue-100">
-          {section.heading}
+          {section.heading || section.title}
         </h2>
         <p class="text-base leading-relaxed text-gray-700">
           {section.body}
