@@ -110,71 +110,35 @@ try {
   }
   .hero-catch {
     font-family: 'Noto Serif JP', serif;
-    font-size: clamp(20px, 5vw, 30px);
+    font-size: clamp(18px, 4.8vw, 28px);
     font-weight: 300;
     color: #fff;
     letter-spacing: 0.14em;
     text-shadow: 0 2px 12px rgba(0,0,0,0.3);
     margin-bottom: 16px;
+    white-space: nowrap;
   }
   .hero-sub {
     font-size: 12px;
     color: rgba(255,255,255,0.75);
     letter-spacing: 0.18em;
   }
-  .hero-scroll-hint {
-    position: absolute;
-    bottom: 24px;
-    left: 50%;
-    transform: translateX(-50%);
-    color: rgba(255,255,255,0.55);
-    font-size: 9px;
-    letter-spacing: 0.18em;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 8px;
-  }
-  .hero-scroll-hint::after {
-    content: '';
-    display: block;
-    width: 1px;
-    height: 32px;
-    background: rgba(255,255,255,0.4);
-    animation: scrollLine 2s ease-in-out infinite;
-  }
-  @keyframes scrollLine {
-    0%   { transform: scaleY(0); transform-origin: top; opacity: 0; }
-    30%  { opacity: 1; }
-    50%  { transform: scaleY(1); transform-origin: top; }
-    51%  { transform: scaleY(1); transform-origin: bottom; }
-    100% { transform: scaleY(0); transform-origin: bottom; opacity: 0; }
-  }
-
   /* ── App Section ── */
   .app-section {
     max-width: 560px;
     margin: 0 auto;
-    padding: 56px 24px 64px;
-  }
-  .app-eyebrow {
-    font-size: 10px;
-    letter-spacing: 0.2em;
-    color: #bbb;
-    margin-bottom: 12px;
-    display: block;
-    text-align: center;
+    padding: 72px 24px 80px;
   }
   .app-heading {
     font-family: 'Noto Serif JP', serif;
-    font-size: 22px;
+    font-size: 24px;
     font-weight: 400;
     color: #1a1a1a;
     letter-spacing: 0.06em;
     text-align: center;
-    margin-bottom: 40px;
+    margin-bottom: 48px;
   }
-  .form-block { margin-bottom: 26px; }
+  .form-block { margin-bottom: 32px; }
   .form-label {
     display: block;
     font-size: 10px;
@@ -217,10 +181,10 @@ try {
     flex-wrap: wrap;
   }
   .toggle-btn {
-    padding: 8px 18px;
+    padding: 10px 22px;
     border: 1px solid #e0e0e0;
     border-radius: 20px;
-    font-size: 13px;
+    font-size: 14px;
     color: #888;
     background: #fff;
     cursor: pointer;
@@ -236,16 +200,16 @@ try {
   .go-btn {
     display: block;
     width: 100%;
-    padding: 17px;
+    padding: 18px;
     background: #2A6049;
     color: #fff;
     border: none;
     border-radius: 4px;
     font-family: 'Noto Serif JP', serif;
-    font-size: 15px;
+    font-size: 16px;
     letter-spacing: 0.18em;
     cursor: pointer;
-    margin-top: 36px;
+    margin-top: 44px;
     transition: background 0.2s;
   }
   .go-btn:hover { background: #234f3c; }
@@ -351,24 +315,17 @@ try {
   /* ── Map Section ── */
   .map-section {
     border-top: 1px solid #ebebeb;
-    padding: 72px 24px 88px;
+    padding: 80px 24px 96px;
     text-align: center;
     background: #fafafa;
   }
-  .map-eyebrow {
-    font-size: 10px;
-    letter-spacing: 0.2em;
-    color: #bbb;
-    margin-bottom: 14px;
-    display: block;
-  }
   .map-heading {
     font-family: 'Noto Serif JP', serif;
-    font-size: 22px;
+    font-size: 24px;
     font-weight: 400;
     color: #1a1a1a;
     letter-spacing: 0.06em;
-    margin-bottom: 48px;
+    margin-bottom: 52px;
   }
   .map-wrap {
     max-width: 480px;
@@ -408,18 +365,10 @@ try {
     stroke: #fff;
     stroke-width: 0.4;
     stroke-linejoin: round;
+    transition: fill 0.2s;
   }
-  .jp-region[data-region="北海道"] .jp-path { fill: #cce8d8; }
-  .jp-region[data-region="東北"]   .jp-path { fill: #c4e2d0; }
-  .jp-region[data-region="関東"]   .jp-path { fill: #cce8d8; }
-  .jp-region[data-region="中部"]   .jp-path { fill: #c0e0cc; }
-  .jp-region[data-region="近畿"]   .jp-path { fill: #c8e6d4; }
-  .jp-region[data-region="中国"]   .jp-path { fill: #bee0ca; }
-  .jp-region[data-region="四国"]   .jp-path { fill: #c4e4d0; }
-  .jp-region[data-region="九州"]   .jp-path { fill: #b8dcc6; }
-  .jp-region[data-region="沖縄"]   .jp-path { fill: #b4d8c2; }
-  .jp-region.is-highlight .jp-path { fill: #2A6049; }
-  .jp-region.is-dim       .jp-path { fill: #e8f3ee; }
+  .jp-region.is-highlight .jp-path { fill: #2A6049 !important; }
+  .jp-region.is-dim       .jp-path { fill: #e8f3ee !important; }
 
   /* ── Map link ── */
   .map-link {
@@ -530,12 +479,10 @@ try {
       <h1 class="hero-catch">まだ知らない街と、出会おう。</h1>
       <p class="hero-sub">出発地と日数を選ぶだけ</p>
     </div>
-    <div class="hero-scroll-hint">SCROLL</div>
   </div>
 
   <!-- ② 旅先提案UI -->
   <section class="app-section" id="app">
-    <span class="app-eyebrow">FIND YOUR DESTINATION</span>
     <h2 class="app-heading">旅先を見つける</h2>
 
     <div class="form-block">
@@ -583,7 +530,6 @@ try {
 
   <!-- ③ Japan SVG Map + Region Drilldown -->
   <section class="map-section">
-    <span class="map-eyebrow">DESTINATIONS</span>
     <h2 class="map-heading">地域から探す</h2>
 
     <!-- 地域フィルターボタン -->
@@ -601,7 +547,7 @@ try {
              xmlns="http://www.w3.org/2000/svg" class="japan-svg" role="img" aria-label="日本地図">
           {mapRegions.map(({ region, paths }) => (
             <g class="jp-region" data-region={region}>
-              {paths.map((d) => <path d={d} class="jp-path" />)}
+              {paths.map((d) => <path d={d} class="jp-path" fill={REGION_COLORS[region] || '#c4e0d0'} />)}
             </g>
           ))}
         </svg>
