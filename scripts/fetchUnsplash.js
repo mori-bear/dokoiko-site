@@ -4,7 +4,7 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const ACCESS_KEY = 'nDJVqw9sUk0prnPMFG0Fud44i_bhpCEAZdWSRXT_0Xo';
+const ACCESS_KEY = 'nDJVqw9sUkOprnPMFGOFud44i_bhpCEAZdWSRXT_0Xo';
 const imageDir = path.join(__dirname, '../public/images');
 const destinations = JSON.parse(
   fs.readFileSync(path.join(__dirname, '../src/data/destinations.json'), 'utf8')
@@ -30,8 +30,8 @@ const TAG_QUERY = {
 
 async function fetchUnsplashImage(query) {
   return new Promise((resolve) => {
-    const url = `https://api.unsplash.com/photos/random?query=${encodeURIComponent(query)}&orientation=landscape&client_id=${ACCESS_KEY}`;
-    https.get(url, { headers: { 'Accept-Version': 'v1' } }, (res) => {
+    const url = `https://api.unsplash.com/photos/random?query=${encodeURIComponent(query)}&orientation=landscape`;
+    https.get(url, { headers: { 'Authorization': `Client-ID ${ACCESS_KEY}`, 'Accept-Version': 'v1' } }, (res) => {
       let data = '';
       res.on('data', chunk => data += chunk);
       res.on('end', () => {
