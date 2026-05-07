@@ -160,7 +160,7 @@ try {
   ═══════════════════════════════════════ */
   .app-section {
     background: #fff;
-    padding: 88px 24px 96px;
+    padding: 56px 24px 64px;
   }
   .section-eyebrow {
     display: block;
@@ -185,7 +185,7 @@ try {
     color: #aaa;
     text-align: center;
     letter-spacing: 0.1em;
-    margin-bottom: 56px;
+    margin-bottom: 32px;
   }
   .form-card {
     max-width: 520px;
@@ -382,7 +382,7 @@ try {
   ═══════════════════════════════════════ */
   .map-section {
     border-top: 1px solid #ebebeb;
-    padding: 88px 24px 104px;
+    padding: 56px 24px 72px;
     text-align: center;
     background: #FAFAFA;
   }
@@ -441,7 +441,7 @@ try {
 
   /* dest-panel / tier-section はテンプレート要素なのでスコープCSSでOK */
   .dest-panel {
-    margin: 32px auto 0;
+    margin: 20px auto 0;
     max-width: 540px;
     text-align: left;
   }
@@ -555,7 +555,6 @@ try {
       <p class="hero-sub">出発地と日数を選ぶだけ</p>
     </div>
     <div class="hero-scroll">
-      <span>SCROLL</span>
       <div class="hero-scroll-arrow"></div>
     </div>
   </div>
@@ -639,6 +638,11 @@ try {
     </div>
 
     <div id="dest-panel" class="dest-panel" hidden>
+      <div id="all-section" class="tier-section" style="display:none;">
+        <p class="tier-section-title">おすすめの旅先</p>
+        <div id="all-cards" class="dest-cards"></div>
+        <div id="all-more"></div>
+      </div>
       <div id="area-section" class="tier-section">
         <p class="tier-section-title">Area — エリア（滞在型）<span id="area-count" style="color:#ccc;margin-left:6px;"></span></p>
         <div id="area-cards" class="dest-cards"></div>
@@ -909,6 +913,9 @@ if (slides.length > 1) {
 const filterBtns  = document.querySelectorAll<HTMLButtonElement>('.region-btn');
 const regionGs    = document.querySelectorAll<SVGGElement>('.jp-region');
 const destPanel   = document.getElementById('dest-panel')!;
+const allSection  = document.getElementById('all-section')!;
+const allCards    = document.getElementById('all-cards')!;
+const allMore     = document.getElementById('all-more')!;
 const areaCards   = document.getElementById('area-cards')!;
 const spotCards   = document.getElementById('spot-cards')!;
 const areaSection = document.getElementById('area-section')!;
@@ -962,9 +969,22 @@ function showSection(
 }
 
 async function renderRegionCards(region: string) {
-  if (!region) { destPanel.hidden = true; return; }
   try {
     const allDests = await mapDataPromise;
+
+    if (!region) {
+      // すべて: 全地域からランダム12件
+      const shuffled = [...allDests].sort(() => Math.random() - 0.5).slice(0, 12);
+      allSection.style.display = '';
+      allCards.innerHTML = shuffled.map(makeCardHtml).join('');
+      allMore.innerHTML = '';
+      areaSection.style.display = 'none';
+      spotSection.style.display = 'none';
+      destPanel.hidden = false;
+      return;
+    }
+
+    allSection.style.display = 'none';
     const dests = allDests.filter((d: any) => d.region === region);
 
     const AREA_TYPES = new Set(['city', 'onsen']);
@@ -1003,15 +1023,14 @@ function applyFilter(region: string) {
   );
   if (!region) {
     regionGs.forEach(g => g.classList.remove('is-highlight', 'is-dim'));
-    destPanel.hidden = true;
   } else {
     regionGs.forEach(g => {
       const match = g.dataset.region === region;
       g.classList.toggle('is-highlight', match);
       g.classList.toggle('is-dim', !match);
     });
-    renderRegionCards(region);
   }
+  renderRegionCards(region);
 }
 
 filterBtns.forEach(btn =>
@@ -1024,6 +1043,8 @@ regionGs.forEach(g =>
     applyFilter(activeRegion === r ? '' : r);
   })
 );
+
+applyFilter('');
 </script>
 
 </DestinationLayout>
