@@ -33,20 +33,6 @@ const CITY_NAMES: Record<string, string> = {
   tottori: '鳥取', shimonoseki: '下関', saga: '佐賀', oita: '大分', beppu: '別府',
 };
 
-const HUB_NAMES: Record<string, string> = {
-  'tokyo-o': '東京', 'osaka-t': '大阪', 'nagoya-t': '名古屋', 'fukuoka-t': '福岡',
-  'sapporo-t': '札幌', 'sendai-t': '仙台', 'hiroshima-t': '広島', 'hiroshima': '広島',
-  'kanazawa-t': '金沢', 'kyoto-t': '京都', 'kobe': '神戸', 'naha': '那覇',
-  'okayama-o': '岡山', 'takamatsu': '高松', 'matsuyama': '松山', 'tokushima': '徳島',
-  'matsue': '松江', 'tottori': '鳥取', 'gifu': '岐阜', 'shizuoka': '静岡',
-  'kofu': '甲府', 'mito': '水戸', 'morioka': '盛岡', 'yamagata': '山形',
-  'niigata': '新潟', 'toyama': '富山', 'fukui': '福井', 'nagasaki': '長崎',
-  'kumamoto': '熊本', 'kagoshima': '鹿児島', 'miyazaki': '宮崎', 'saga': '佐賀',
-  'matsumoto-n': '松本', 'hakodate': '函館', 'asahikawa': '旭川', 'kushiro': '釧路',
-  'yokohama': '横浜', 'himeji': '姫路', 'kochi': '高知', 'iida': '飯田',
-  'nara': '奈良', 'hiroshima': '広島',
-  '前橋': '前橋', '宇都宮': '宇都宮', '札幌': '札幌', '水戸': '水戸', '青森': '青森',
-};
 
 const travelTimes = Object.entries(dest.travelTime || {})
   .filter(([_, v]) => v && v > 0)
@@ -61,27 +47,24 @@ const STEP_TYPE_LABEL: Record<string, string> = {
   rail: '鉄道', ferry: '船', flight: '航空', bus: 'バス', car: '車', local: '移動',
 };
 
-const hotelKeyword = (dest as any).hotelSearch || dest.name;
-const hubId: string = (dest as any).hub || '';
-const hubName: string = HUB_NAMES[hubId] || hubId;
+const hubName: string = (dest as any).hubName || '';
 const stayAllowed: string[] = (dest as any).stayAllowed || [];
 const isDaytripOnly = stayAllowed.length > 0 && !stayAllowed.includes('1night');
 const railNote: string = (dest as any).railNote || '';
-const isBusOnly = railNote.includes('バス') && !!hubId;
+const isBusOnly = railNote.includes('バス') && !!(dest as any).hub;
 
-const hotelSearchKeyword = (isDaytripOnly || isBusOnly) ? hubName : hotelKeyword;
-const hotelSectionTitle = isDaytripOnly
-  ? `${hubName}で宿を探す`
-  : isBusOnly
+const hotelLinks = (dest as any).hotelLinks as { rakuten: string; jalan: string } | null | undefined;
+const rakutenHotelUrl = hotelLinks?.rakuten || '';
+const jalanHotelUrl = hotelLinks?.jalan || '';
+
+const hotelSectionTitle = isDaytripOnly && hubName
+  ? `${hubName}の宿を探す`
+  : isBusOnly && hubName
     ? `${hubName}周辺の宿を探す`
-    : `${hotelKeyword}の宿を探す`;
-
-const rakutenHotelUrl =
-  `https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=` +
-  encodeURIComponent(`https://travel.rakuten.co.jp/hotel/keyword/${hotelSearchKeyword}/`);
-const jalanHotelUrl =
-  `https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=` +
-  encodeURIComponent(`https://www.jalan.net/yad/?word=${hotelSearchKeyword}`);
+    : `${dest.name}の宿を探す`;
+const daytripNote = isDaytripOnly && hubName
+  ? `${dest.name}へは${hubName}から日帰りがおすすめ`
+  : '';
 
 const STAY_DESC: Record<string, string> = {
   onsen:    '温泉旅館が中心。1泊2食プランがおすすめ。',
@@ -759,8 +742,10 @@ const nearbyDests = (destinations as any[])
     <hr class="section-divider" />
 
     <!-- 宿泊 -->
+    {hotelLinks && (
     <div class="hotel-section">
       <h2 class="section-title">{hotelSectionTitle}</h2>
+      {daytripNote && <p class="hotel-description" style="font-size:13px;color:#888;">{daytripNote}</p>}
       {stayNote && <p class="hotel-description">{stayNote}</p>}
       <div class="hotel-cards">
         <a href={rakutenHotelUrl} target="_blank" rel="noopener noreferrer" class="hotel-card hotel-card-rakuten">
@@ -779,6 +764,7 @@ const nearbyDests = (destinations as any[])
         </a>
       </div>
     </div>
+    )}
 
     <hr class="section-divider" />
 
