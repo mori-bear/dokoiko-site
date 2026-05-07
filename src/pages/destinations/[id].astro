@@ -46,7 +46,6 @@ const STEP_TYPE_LABEL: Record<string, string> = {
   rail: '鉄道', ferry: '船', flight: '航空', bus: 'バス', car: '車', local: '移動',
 };
 
-// 宿リンクを hotelSearch から構築（pre-built URL は古いデータが混在するため）
 const hotelKeyword = (dest as any).hotelSearch || dest.name;
 const rakutenHotelUrl =
   `https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=` +
@@ -55,7 +54,6 @@ const jalanHotelUrl =
   `https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=` +
   encodeURIComponent(`https://www.jalan.net/uw/uwp2011/uww2011init.do?keyword=${encodeURIComponent(hotelKeyword)}`);
 
-// 宿泊説明文（article に bestStay があれば優先、なければ destType で判定）
 const STAY_DESC: Record<string, string> = {
   onsen:    '温泉旅館が中心。1泊2食プランがおすすめ。',
   city:     'ビジネスホテルから旅館まで幅広い選択肢。',
@@ -66,295 +64,376 @@ const STAY_DESC: Record<string, string> = {
   peninsula:'近隣エリアに宿が集まる。',
 };
 const stayNote: string = article?.bestStay || STAY_DESC[(dest as any).destType] || '';
+
+const nearbyDests = (destinations as any[])
+  .filter((d: any) => d.id !== dest.id && d.region === dest.region)
+  .slice(0, 8);
 ---
 
 <DestinationLayout title={seoTitle} description={description} image={imageUrl}>
 <style>
-  @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@300;400;500&family=Noto+Sans+JP:wght@300;400;500&display=swap');
+  /* ═══════════════════════════════════════
+     HERO
+  ═══════════════════════════════════════ */
+  .dest-hero {
+    position: relative;
+    height: 60svh;
+    min-height: 340px;
+    overflow: hidden;
+    background: #1a2e20;
+  }
+  .dest-hero-img {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center 40%;
+    display: block;
+  }
+  .dest-hero-gradient {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(
+      to top,
+      rgba(0,0,0,0.75) 0%,
+      rgba(0,0,0,0.25) 50%,
+      rgba(0,0,0,0.05) 100%
+    );
+  }
+  .dest-hero-content {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 0 28px 44px;
+  }
+  .dest-hero-pref {
+    font-size: 11px;
+    color: rgba(255,255,255,0.7);
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    display: block;
+  }
+  .dest-hero-title {
+    font-family: 'Noto Serif JP', serif;
+    font-size: clamp(28px, 8vw, 48px);
+    font-weight: 300;
+    color: #fff;
+    letter-spacing: 0.08em;
+    line-height: 1.3;
+    margin-bottom: 14px;
+    text-shadow: 0 2px 16px rgba(0,0,0,0.4);
+  }
+  .dest-hero-tags { display: flex; flex-wrap: wrap; gap: 6px; }
+  .dest-hero-tag {
+    padding: 4px 12px;
+    border: 1px solid rgba(255,255,255,0.45);
+    border-radius: 20px;
+    font-size: 11px;
+    color: rgba(255,255,255,0.85);
+    letter-spacing: 0.05em;
+    backdrop-filter: blur(4px);
+    background: rgba(255,255,255,0.1);
+  }
 
-  /* ── ヒーロー ── */
-  .hero { position: relative; overflow: hidden; background: #e8e8e8; }
-  .hero img { width: 100%; height: 300px; object-fit: cover; object-position: center; display: block; }
-
-  /* ── コンテンツ幅 ── */
-  .content { max-width: 660px; margin: 0 auto; padding: 0 24px 96px; }
-
-  /* ── パンくず ── */
-  .breadcrumb {
-    padding: 16px 0 10px;
+  /* No-image header */
+  .dest-header-noimg {
+    background: #FAFAFA;
+    border-bottom: 1px solid #ebebeb;
+    padding: 40px 28px 32px;
+    max-width: 680px;
+    margin: 0 auto;
+  }
+  .dest-noimg-pref {
     font-size: 11px;
     color: #bbb;
-    display: flex; gap: 6px; align-items: center;
-    letter-spacing: 0.05em;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    display: block;
   }
-  .breadcrumb a { color: #bbb; }
-
-  /* ── タイトルエリア ── */
-  .dest-header {
-    padding: 24px 0 32px;
-    border-bottom: 1px solid #e8e8e8;
-    margin-bottom: 48px;
-  }
-  .dest-meta {
-    display: flex; align-items: center; gap: 10px;
-    margin-bottom: 12px;
-  }
-  .dest-pref {
-    font-size: 11px; color: #bbb; letter-spacing: 0.12em; text-transform: uppercase;
-  }
-  .tier-badge {
-    display: inline-block;
-    padding: 2px 9px;
-    border-radius: 20px;
-    font-size: 10px;
-    letter-spacing: 0.08em;
-    border: 1px solid #ddd;
-    color: #aaa;
-    background: #fafafa;
-  }
-  .dest-title {
+  .dest-noimg-title {
     font-family: 'Noto Serif JP', serif;
-    font-size: 30px;
+    font-size: clamp(26px, 7vw, 38px);
     font-weight: 400;
-    line-height: 1.4;
-    letter-spacing: 0.05em;
     color: #1a1a1a;
-    margin-bottom: 14px;
-  }
-  .dest-catch {
-    font-size: 14px;
-    color: #999;
-    line-height: 1.8;
-    font-style: italic;
+    letter-spacing: 0.06em;
     margin-bottom: 16px;
   }
-
-  /* ── タグ ── */
-  .tags { display: flex; flex-wrap: wrap; gap: 6px; }
-  .tag {
-    padding: 3px 10px;
-    border: 1px solid #e4e4e4;
-    color: #999;
-    font-size: 11px;
-    border-radius: 20px;
-    letter-spacing: 0.05em;
-  }
-
-  /* ── ICカードバッジ ── */
-  .ic-badge {
-    display: inline-block;
+  .dest-noimg-tags { display: flex; flex-wrap: wrap; gap: 6px; }
+  .dest-noimg-tag {
     padding: 4px 12px;
+    border: 1px solid #e4e4e4;
     border-radius: 20px;
     font-size: 11px;
+    color: #999;
+    letter-spacing: 0.04em;
+  }
+
+  /* ═══════════════════════════════════════
+     CONTENT
+  ═══════════════════════════════════════ */
+  .content {
+    max-width: 680px;
+    margin: 0 auto;
+    padding: 0 24px 96px;
+  }
+
+  /* Breadcrumb */
+  .breadcrumb {
+    padding: 18px 0 12px;
+    font-size: 11px;
+    color: #bbb;
+    display: flex;
+    gap: 6px;
+    align-items: center;
     letter-spacing: 0.05em;
-    border: 1px solid #d8d8d8;
-    color: #888;
-    background: #f8f8f8;
-    margin-bottom: 24px;
   }
+  .breadcrumb a { color: #bbb; transition: color 0.15s; }
+  .breadcrumb a:hover { color: #2A6049; }
 
-  /* ── リード文 ── */
+  /* Lead text */
   .lead {
-    font-size: 15px;
-    line-height: 2.2;
+    font-size: 16px;
+    line-height: 2.3;
     color: #333;
-    margin-bottom: 56px;
+    margin: 40px 0 56px;
     white-space: pre-line;
+    letter-spacing: 0.02em;
   }
 
-  /* ── シーズン ── */
+  /* Best season */
   .season-box {
     margin-bottom: 56px;
     padding: 24px 28px;
-    background: #f8f8f8;
-    border-radius: 4px;
-    font-size: 14px;
+    background: #f8fdf9;
+    border-left: 3px solid #C9A84C;
+    border-radius: 0 8px 8px 0;
+    font-size: 15px;
     color: #555;
     line-height: 2;
   }
   .season-label {
     font-size: 10px;
-    letter-spacing: 0.16em;
-    color: #bbb;
-    margin-bottom: 10px;
+    letter-spacing: 0.2em;
+    color: #C9A84C;
+    margin-bottom: 8px;
     display: block;
+    font-weight: 500;
+    text-transform: uppercase;
   }
 
-  /* ── スポット ── */
-  .spots-header { margin-bottom: 40px; }
-  .spots-header h2 {
+  /* ═══════════════════════════════════════
+     SPOTS
+  ═══════════════════════════════════════ */
+  .spots-heading {
     font-family: 'Noto Serif JP', serif;
-    font-size: 18px;
+    font-size: 20px;
     font-weight: 400;
-    letter-spacing: 0.05em;
+    letter-spacing: 0.06em;
     color: #1a1a1a;
+    margin-bottom: 40px;
     padding-bottom: 16px;
-    border-bottom: 1px solid #1a1a1a;
+    border-bottom: 2px solid #1a1a1a;
   }
-  .spot-section { margin-bottom: 56px; }
+  .spot-section { margin-bottom: 60px; }
   .spot-num {
-    font-size: 10px;
-    letter-spacing: 0.18em;
-    color: #bbb;
-    margin-bottom: 4px;
+    font-size: 48px;
+    font-weight: 300;
+    color: #f0f0f0;
+    line-height: 1;
+    margin-bottom: -16px;
+    display: block;
+    font-family: 'Noto Serif JP', serif;
+    letter-spacing: -0.02em;
   }
   .spot-title {
     font-family: 'Noto Serif JP', serif;
-    font-size: 18px;
+    font-size: 19px;
     font-weight: 400;
     line-height: 1.6;
     letter-spacing: 0.04em;
     color: #1a1a1a;
     margin-bottom: 20px;
     padding-bottom: 16px;
-    border-bottom: 1px solid #ebebeb;
+    border-bottom: 1px solid #eee;
     word-break: break-word;
     overflow-wrap: break-word;
-    max-width: 100%;
   }
   .spot-body {
-    font-size: 14px;
-    line-height: 2.2;
+    font-size: 15px;
+    line-height: 2.3;
     color: #444;
     margin-bottom: 24px;
+    letter-spacing: 0.02em;
   }
   .spot-body p { margin-bottom: 16px; }
   .spot-info {
     padding: 16px 20px;
     background: #f8f8f8;
-    border-radius: 4px;
+    border-radius: 8px;
     font-size: 12px;
     color: #777;
-    line-height: 2;
+    line-height: 2.1;
     white-space: pre-line;
     margin-bottom: 12px;
   }
   .spot-map {
     font-size: 12px;
-    color: #aaa;
+    color: #bbb;
     display: inline-flex;
     align-items: center;
     gap: 4px;
     border-bottom: 1px solid #e4e4e4;
     padding-bottom: 2px;
+    transition: color 0.15s;
   }
+  .spot-map:hover { color: #2A6049; }
 
-  /* ── モデルコース ── */
+  /* ═══════════════════════════════════════
+     MODEL COURSE
+  ═══════════════════════════════════════ */
   .course-section { margin-bottom: 56px; }
   .course-section h2 {
     font-family: 'Noto Serif JP', serif;
-    font-size: 17px;
+    font-size: 18px;
     font-weight: 400;
     letter-spacing: 0.05em;
     margin-bottom: 16px;
     color: #1a1a1a;
   }
   .course-card {
-    padding: 18px 22px;
-    border-radius: 4px;
+    padding: 20px 24px;
+    border-radius: 8px;
     margin-bottom: 10px;
-    font-size: 13px;
-    line-height: 2;
+    font-size: 14px;
+    line-height: 2.1;
     color: #555;
   }
   .course-label {
     font-size: 10px;
-    letter-spacing: 0.16em;
+    letter-spacing: 0.18em;
     margin-bottom: 8px;
     display: block;
     font-weight: 500;
+    text-transform: uppercase;
   }
-  .course-daytrip { background: #fafaf5; border-left: 3px solid #c8b87a; }
-  .course-daytrip .course-label { color: #8a7a4a; }
+  .course-daytrip  { background: #fdf9ef; border-left: 3px solid #C9A84C; }
+  .course-daytrip  .course-label { color: #9a7c36; }
   .course-onenight { background: #f5f5fa; border-left: 3px solid #8a8ac8; }
-  .course-onenight .course-label { color: #4a4a8a; }
+  .course-onenight .course-label { color: #5a5a9a; }
 
-  /* ── ヒント ── */
+  /* Tips */
   .tips-box {
     margin-bottom: 56px;
     padding: 22px 26px;
-    background: #f8faf8;
-    border-left: 3px solid #a0c8a0;
-    border-radius: 0 4px 4px 0;
-    font-size: 14px;
+    background: #f4f9f6;
+    border-left: 3px solid #2A6049;
+    border-radius: 0 8px 8px 0;
+    font-size: 15px;
     color: #444;
-    line-height: 2.1;
+    line-height: 2.2;
   }
   .tips-label {
     font-size: 10px;
-    letter-spacing: 0.16em;
-    color: #7a9a7a;
+    letter-spacing: 0.2em;
+    color: #2A6049;
     margin-bottom: 10px;
     display: block;
     font-weight: 500;
+    text-transform: uppercase;
   }
 
-  /* ── セパレーター ── */
+  /* Section divider */
   .section-divider {
     border: none;
     border-top: 1px solid #ebebeb;
     margin: 56px 0;
   }
 
-  /* ── 行き方 ── */
-  .access-section { margin-bottom: 56px; }
+  /* ═══════════════════════════════════════
+     SECTION HEADING
+  ═══════════════════════════════════════ */
   .section-title {
     font-family: 'Noto Serif JP', serif;
-    font-size: 20px;
+    font-size: 21px;
     font-weight: 400;
     letter-spacing: 0.05em;
     margin-bottom: 28px;
     color: #1a1a1a;
   }
+
+  /* ═══════════════════════════════════════
+     ACCESS
+  ═══════════════════════════════════════ */
+  .access-section { margin-bottom: 56px; }
+  .ic-badge {
+    display: inline-block;
+    padding: 5px 14px;
+    border-radius: 20px;
+    font-size: 11px;
+    letter-spacing: 0.06em;
+    border: 1px solid #d0e8da;
+    color: #2A6049;
+    background: #f0faf4;
+    margin-bottom: 24px;
+  }
   .travel-times {
-    background: #f8f8f8;
-    border-radius: 4px;
+    background: #FAFAFA;
+    border: 1px solid #ebebeb;
+    border-radius: 8px;
     padding: 22px 26px;
     margin-bottom: 28px;
   }
   .travel-times-label {
     font-size: 10px;
-    letter-spacing: 0.16em;
+    letter-spacing: 0.2em;
     color: #bbb;
     margin-bottom: 16px;
     display: block;
+    text-transform: uppercase;
   }
   .travel-time-row {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 11px 0;
-    border-bottom: 1px solid #ebebeb;
-    font-size: 13px;
+    padding: 12px 0;
+    border-bottom: 1px solid #f0f0f0;
+    font-size: 14px;
   }
   .travel-time-row:last-child { border-bottom: none; }
   .travel-time-row span:first-child { color: #888; }
   .travel-time-row span:last-child { font-weight: 500; color: #1a1a1a; }
-
-  .access-steps { display: flex; flex-direction: column; gap: 2px; }
+  .access-steps { display: flex; flex-direction: column; gap: 3px; }
   .access-step {
-    display: flex; align-items: center; gap: 14px;
-    padding: 14px 18px;
-    background: #fff;
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    padding: 15px 18px;
+    background: #FAFAFA;
     border: 1px solid #ebebeb;
-    border-radius: 4px;
-    font-size: 13px;
+    border-radius: 8px;
+    font-size: 14px;
     color: #444;
   }
   .step-type {
     font-size: 10px;
-    padding: 2px 7px;
-    border-radius: 3px;
-    background: #f0f0f0;
-    color: #888;
-    letter-spacing: 0.05em;
+    padding: 3px 8px;
+    border-radius: 4px;
+    background: #eee;
+    color: #777;
+    letter-spacing: 0.06em;
     white-space: nowrap;
     min-width: 32px;
     text-align: center;
   }
-  .step-arrow { text-align: center; color: #ddd; font-size: 11px; padding: 2px 0; }
+  .step-arrow { text-align: center; color: #ccc; font-size: 12px; padding: 2px 0; }
 
-  /* ── 宿泊 ── */
+  /* ═══════════════════════════════════════
+     HOTEL SECTION
+  ═══════════════════════════════════════ */
   .hotel-section { margin-bottom: 56px; }
   .hotel-description {
     font-size: 14px;
@@ -367,70 +446,148 @@ const stayNote: string = article?.bestStay || STAY_DESC[(dest as any).destType] 
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 20px 24px;
+    padding: 22px 24px;
     border: 1px solid #e8e8e8;
-    border-radius: 4px;
+    border-radius: 8px;
     text-decoration: none;
-    transition: border-color 0.15s, box-shadow 0.15s;
+    transition: box-shadow 0.15s, transform 0.15s;
+    box-shadow: 0 1px 6px rgba(0,0,0,0.04);
   }
-  .hotel-card:hover { border-color: #bbb; box-shadow: 0 2px 8px rgba(0,0,0,0.06); }
+  .hotel-card:hover {
+    box-shadow: 0 4px 18px rgba(0,0,0,0.10);
+    transform: translateY(-1px);
+  }
+  .hotel-card-rakuten { border-left: 4px solid #BF0000; }
+  .hotel-card-jalan   { border-left: 4px solid #FF6B00; }
   .hotel-card-name {
-    font-size: 14px;
+    font-size: 15px;
     font-weight: 500;
     color: #1a1a1a;
     letter-spacing: 0.03em;
     margin-bottom: 4px;
   }
   .hotel-card-desc { font-size: 12px; color: #bbb; }
-  .hotel-card-arrow { font-size: 14px; color: #ccc; }
+  .hotel-card-arrow { font-size: 16px; color: #ccc; }
 
-  /* ── 近くの旅先 ── */
+  /* ═══════════════════════════════════════
+     NEARBY (横スクロール)
+  ═══════════════════════════════════════ */
   .nearby-section { margin-bottom: 56px; }
-  .nearby-list { display: flex; flex-direction: column; }
-  .nearby-item {
-    display: flex; justify-content: space-between; align-items: center;
-    padding: 17px 0;
-    border-bottom: 1px solid #ebebeb;
-    font-size: 14px;
+  .nearby-scroll {
+    display: flex;
+    gap: 12px;
+    overflow-x: auto;
+    padding-bottom: 8px;
+    scrollbar-width: none;
+    -webkit-overflow-scrolling: touch;
   }
-  .nearby-item:first-child { border-top: 1px solid #ebebeb; }
-  .nearby-name { color: #1a1a1a; }
-  .nearby-pref { color: #bbb; font-size: 11px; }
+  .nearby-scroll::-webkit-scrollbar { display: none; }
+  .nearby-card {
+    flex: 0 0 140px;
+    display: block;
+    text-decoration: none;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+    transition: transform 0.18s;
+  }
+  .nearby-card:hover { transform: translateY(-3px); }
+  .nearby-card-img-wrap {
+    position: relative;
+    height: 90px;
+    background: #2A6049;
+    overflow: hidden;
+  }
+  .nearby-card-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+  .nearby-card-body {
+    padding: 10px 12px 12px;
+    background: #fff;
+  }
+  .nearby-card-name {
+    font-size: 13px;
+    font-weight: 500;
+    color: #1a1a1a;
+    margin-bottom: 3px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .nearby-card-pref { font-size: 10px; color: #bbb; }
 
-  /* ── CTA ── */
+  /* ═══════════════════════════════════════
+     CTA
+  ═══════════════════════════════════════ */
   .cta-section {
-    padding: 48px 24px;
-    background: #f8f8f8;
-    border-radius: 4px;
+    padding: 52px 28px;
+    background: linear-gradient(135deg, #1e4d38 0%, #2A6049 100%);
+    border-radius: 12px;
     text-align: center;
     margin-bottom: 56px;
   }
-  .cta-label { font-size: 10px; letter-spacing: 0.16em; color: #bbb; margin-bottom: 10px; display: block; }
+  .cta-label {
+    font-size: 10px;
+    letter-spacing: 0.24em;
+    color: rgba(255,255,255,0.6);
+    margin-bottom: 12px;
+    display: block;
+    text-transform: uppercase;
+  }
   .cta-title {
     font-family: 'Noto Serif JP', serif;
-    font-size: 19px;
-    font-weight: 400;
-    color: #1a1a1a;
+    font-size: 20px;
+    font-weight: 300;
+    color: #fff;
     margin-bottom: 28px;
-    letter-spacing: 0.05em;
+    letter-spacing: 0.08em;
+    line-height: 1.6;
   }
   .cta-btn {
     display: inline-block;
-    padding: 15px 40px;
-    background: #1a1a1a;
-    color: #fff;
-    border-radius: 2px;
-    font-size: 13px;
-    letter-spacing: 0.12em;
-    transition: opacity 0.2s;
+    padding: 14px 36px;
+    background: #fff;
+    color: #2A6049;
+    border-radius: 8px;
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 0.1em;
+    transition: opacity 0.2s, transform 0.15s;
   }
-  .cta-btn:hover { opacity: 0.8; }
+  .cta-btn:hover { opacity: 0.9; transform: translateY(-1px); }
 </style>
 
-  <!-- ヒーロー画像（存在する場合のみ） -->
-  {imageUrl && (
-    <div class="hero">
-      <img src={imageUrl} alt={`${dest.name}の風景`} />
+  <!-- Hero: 画像あり / なし で分岐 -->
+  {imageUrl ? (
+    <div class="dest-hero">
+      <img class="dest-hero-img" src={imageUrl} alt={`${dest.name}の風景`} />
+      <div class="dest-hero-gradient"></div>
+      <div class="dest-hero-content">
+        <span class="dest-hero-pref">{dest.prefecture}</span>
+        <h1 class="dest-hero-title">{dest.name}</h1>
+        {dest.tags && dest.tags.length > 0 && (
+          <div class="dest-hero-tags">
+            {dest.tags.slice(0, 5).map((tag: string) => (
+              <span class="dest-hero-tag">{tag}</span>
+            ))}
+          </div>
+        )}
+      </div>
+    </div>
+  ) : (
+    <div class="dest-header-noimg">
+      <span class="dest-noimg-pref">{dest.prefecture}</span>
+      <h1 class="dest-noimg-title">{dest.name}</h1>
+      {dest.tags && dest.tags.length > 0 && (
+        <div class="dest-noimg-tags">
+          {dest.tags.slice(0, 5).map((tag: string) => (
+            <span class="dest-noimg-tag">{tag}</span>
+          ))}
+        </div>
+      )}
     </div>
   )}
 
@@ -443,28 +600,13 @@ const stayNote: string = article?.bestStay || STAY_DESC[(dest as any).destType] 
       <span>{dest.name}</span>
     </nav>
 
-    <!-- タイトルエリア -->
-    <div class="dest-header">
-      <div class="dest-meta">
-        <p class="dest-pref">{dest.prefecture}</p>
-        <span class="tier-badge">
-          {(dest as any).tier === 'area' ? '滞在型' : '訪問スポット'}
-        </span>
-      </div>
-      <h1 class="dest-title">{dest.name}</h1>
-      {(dest as any).catch && <p class="dest-catch">{(dest as any).catch}</p>}
-      <div class="tags">
-        {dest.tags?.map((tag: string) => <span class="tag">{tag}</span>)}
-      </div>
-    </div>
-
     <!-- リード文 -->
     {article?.lead && <p class="lead">{article.lead}</p>}
 
     <!-- おすすめシーズン -->
     {article?.bestSeason && (
       <div class="season-box">
-        <span class="season-label">BEST SEASON</span>
+        <span class="season-label">Best Season</span>
         {article.bestSeason}
       </div>
     )}
@@ -472,12 +614,10 @@ const stayNote: string = article?.bestStay || STAY_DESC[(dest as any).destType] 
     <!-- スポット -->
     {article?.sections && article.sections.length > 0 && (
       <div>
-        <div class="spots-header">
-          <h2>{dest.name}のおすすめスポット</h2>
-        </div>
+        <h2 class="spots-heading">{dest.name}のおすすめスポット</h2>
         {article.sections.map((section: any, i: number) => (
           <div class="spot-section">
-            <p class="spot-num">{String(i + 1).padStart(2, '0')}</p>
+            <span class="spot-num">{String(i + 1).padStart(2, '0')}</span>
             <h3 class="spot-title">{section.title || section.heading}</h3>
             <div class="spot-body">
               {section.body.split('\n').map((p: string) => p.trim()).filter(Boolean).map((p: string) => (
@@ -502,13 +642,13 @@ const stayNote: string = article?.bestStay || STAY_DESC[(dest as any).destType] 
         <h2>モデルコース</h2>
         {article.modelCourse.daytrip && (
           <div class="course-card course-daytrip">
-            <span class="course-label">DAY TRIP</span>
+            <span class="course-label">Day Trip</span>
             {article.modelCourse.daytrip}
           </div>
         )}
         {article.modelCourse.onenight && (
           <div class="course-card course-onenight">
-            <span class="course-label">1 NIGHT</span>
+            <span class="course-label">1 Night</span>
             {article.modelCourse.onenight}
           </div>
         )}
@@ -518,7 +658,7 @@ const stayNote: string = article?.bestStay || STAY_DESC[(dest as any).destType] 
     <!-- 旅のヒント -->
     {article?.tips && (
       <div class="tips-box">
-        <span class="tips-label">TRAVEL TIPS</span>
+        <span class="tips-label">Travel Tips</span>
         {typeof article.tips === 'string' ? article.tips : article.tips.join('\n')}
       </div>
     )}
@@ -533,7 +673,7 @@ const stayNote: string = article?.bestStay || STAY_DESC[(dest as any).destType] 
       )}
       {travelTimes.length > 0 && (
         <div class="travel-times">
-          <span class="travel-times-label">ACCESS TIME</span>
+          <span class="travel-times-label">Access Time</span>
           {travelTimes.map(({ city, min }: { city: string; min: number }) => (
             <div class="travel-time-row">
               <span>{city}から</span>
@@ -594,14 +734,14 @@ const stayNote: string = article?.bestStay || STAY_DESC[(dest as any).destType] 
       <h2 class="section-title">{hotelKeyword}の宿を探す</h2>
       {stayNote && <p class="hotel-description">{stayNote}</p>}
       <div class="hotel-cards">
-        <a href={rakutenHotelUrl} target="_blank" rel="noopener noreferrer" class="hotel-card">
+        <a href={rakutenHotelUrl} target="_blank" rel="noopener noreferrer" class="hotel-card hotel-card-rakuten">
           <div>
             <p class="hotel-card-name">楽天トラベル</p>
             <p class="hotel-card-desc">ポイントが貯まる・使える</p>
           </div>
           <span class="hotel-card-arrow">→</span>
         </a>
-        <a href={jalanHotelUrl} target="_blank" rel="noopener noreferrer" class="hotel-card">
+        <a href={jalanHotelUrl} target="_blank" rel="noopener noreferrer" class="hotel-card hotel-card-jalan">
           <div>
             <p class="hotel-card-name">じゃらん</p>
             <p class="hotel-card-desc">国内旅行・宿泊予約</p>
@@ -613,26 +753,35 @@ const stayNote: string = article?.bestStay || STAY_DESC[(dest as any).destType] 
 
     <hr class="section-divider" />
 
-    <!-- 近くの旅先 -->
-    <div class="nearby-section">
-      <h2 class="section-title">近くの旅先</h2>
-      <div class="nearby-list">
-        {(destinations as any[])
-          .filter((d: any) => d.id !== dest.id && d.region === dest.region)
-          .slice(0, 5)
-          .map((d: any) => (
-            <a href={`/destinations/${d.id}/`} class="nearby-item">
-              <span class="nearby-name">{d.name}</span>
-              <span class="nearby-pref">{d.prefecture} →</span>
+    <!-- 近くの旅先（横スクロール） -->
+    {nearbyDests.length > 0 && (
+      <div class="nearby-section">
+        <h2 class="section-title">近くの旅先</h2>
+        <div class="nearby-scroll">
+          {nearbyDests.map((d: any) => (
+            <a href={`/destinations/${d.id}/`} class="nearby-card">
+              <div class="nearby-card-img-wrap">
+                <img
+                  class="nearby-card-img"
+                  src={`/images/${d.id}.jpg`}
+                  alt={d.name}
+                  loading="lazy"
+                  onerror="this.style.display='none'"
+                />
+              </div>
+              <div class="nearby-card-body">
+                <div class="nearby-card-name">{d.name}</div>
+                <div class="nearby-card-pref">{d.prefecture}</div>
+              </div>
             </a>
-          ))
-        }
+          ))}
+        </div>
       </div>
-    </div>
+    )}
 
     <!-- CTA -->
     <div class="cta-section">
-      <span class="cta-label">TRAVEL PLANNING</span>
+      <span class="cta-label">Travel Planning</span>
       <p class="cta-title">旅先を1分で決めてみる？</p>
       <a href="/" class="cta-btn">どこ行こ？で旅先を探す →</a>
     </div>

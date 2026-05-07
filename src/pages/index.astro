@@ -16,7 +16,6 @@ const heroImages = fs.existsSync(heroDir)
 
 const destCount = (destinations as any[]).length;
 
-// ── Japan map: build-time TopoJSON → SVG paths ──────────────────────────────
 const PREF_REGION: Record<number, string> = {
   1: '北海道',
   2: '東北', 3: '東北', 4: '東北', 5: '東北', 6: '東北', 7: '東北',
@@ -72,14 +71,15 @@ try {
 >
 
 <style>
-  /* ── Hero ── */
+  /* ═══════════════════════════════════════
+     HERO
+  ═══════════════════════════════════════ */
   .hero {
     position: relative;
-    height: 62vh;
-    min-height: 300px;
-    max-height: 580px;
+    height: 100svh;
+    min-height: 520px;
     overflow: hidden;
-    background: #1a2a1a;
+    background: #111;
   }
   .hero-slide {
     position: absolute;
@@ -87,135 +87,196 @@ try {
     width: 100%;
     height: 100%;
     object-fit: cover;
-    object-position: center;
+    object-position: center 40%;
     opacity: 0;
-    transition: opacity 1.4s ease;
+    transition: opacity 2s ease;
   }
   .hero-slide.is-active { opacity: 1; }
   .hero-bg {
     position: absolute;
     inset: 0;
-    background: linear-gradient(135deg, #1a2a1a 0%, #2A6049 100%);
+    background: linear-gradient(160deg, #1a2e20 0%, #2A6049 60%, #1a1a1a 100%);
   }
-  .hero-overlay {
+  .hero-gradient {
     position: absolute;
     inset: 0;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-    padding: 24px;
-    background: linear-gradient(to bottom, rgba(0,0,0,0.05) 0%, rgba(0,0,0,0.45) 100%);
+    background: linear-gradient(
+      to top,
+      rgba(0,0,0,0.72) 0%,
+      rgba(0,0,0,0.3) 40%,
+      rgba(0,0,0,0.05) 100%
+    );
+    pointer-events: none;
+  }
+  .hero-content {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 0 32px 72px;
   }
   .hero-catch {
     font-family: 'Noto Serif JP', serif;
-    font-size: clamp(18px, 4.8vw, 28px);
+    font-size: clamp(26px, 6.5vw, 44px);
     font-weight: 300;
     color: #fff;
     letter-spacing: 0.14em;
-    text-shadow: 0 2px 12px rgba(0,0,0,0.3);
-    margin-bottom: 16px;
-    white-space: nowrap;
+    line-height: 1.5;
+    margin-bottom: 14px;
+    text-shadow: 0 2px 16px rgba(0,0,0,0.4);
   }
   .hero-sub {
     font-size: 12px;
-    color: rgba(255,255,255,0.75);
-    letter-spacing: 0.18em;
+    color: rgba(255,255,255,0.65);
+    letter-spacing: 0.22em;
   }
-  /* ── App Section ── */
+  .hero-scroll {
+    position: absolute;
+    bottom: 28px;
+    right: 28px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+    color: rgba(255,255,255,0.5);
+    font-size: 8px;
+    letter-spacing: 0.22em;
+  }
+  .hero-scroll-arrow {
+    width: 18px;
+    height: 18px;
+    border-right: 1.5px solid rgba(255,255,255,0.5);
+    border-bottom: 1.5px solid rgba(255,255,255,0.5);
+    transform: rotate(45deg);
+    animation: arrowBounce 1.8s ease-in-out infinite;
+  }
+  @keyframes arrowBounce {
+    0%, 100% { transform: rotate(45deg) translate(0,0); opacity: 0.5; }
+    50%       { transform: rotate(45deg) translate(3px,3px); opacity: 1; }
+  }
+
+  /* ═══════════════════════════════════════
+     APP SECTION
+  ═══════════════════════════════════════ */
   .app-section {
-    max-width: 560px;
-    margin: 0 auto;
-    padding: 72px 24px 80px;
+    background: #fff;
+    padding: 88px 24px 96px;
   }
-  .app-heading {
+  .section-eyebrow {
+    display: block;
+    text-align: center;
+    font-size: 10px;
+    letter-spacing: 0.28em;
+    color: #C9A84C;
+    margin-bottom: 14px;
+    text-transform: uppercase;
+  }
+  .section-heading {
     font-family: 'Noto Serif JP', serif;
-    font-size: 24px;
+    font-size: clamp(22px, 5vw, 28px);
     font-weight: 400;
     color: #1a1a1a;
     letter-spacing: 0.06em;
     text-align: center;
-    margin-bottom: 48px;
+    margin-bottom: 10px;
   }
-  .form-block { margin-bottom: 32px; }
+  .section-lead {
+    font-size: 13px;
+    color: #aaa;
+    text-align: center;
+    letter-spacing: 0.1em;
+    margin-bottom: 56px;
+  }
+  .form-card {
+    max-width: 520px;
+    margin: 0 auto;
+    background: #fff;
+    border: 1px solid #e8e8e8;
+    border-radius: 16px;
+    padding: 40px 32px 36px;
+    box-shadow: 0 4px 32px rgba(0,0,0,0.07);
+  }
+  .form-block { margin-bottom: 28px; }
+  .form-block:last-of-type { margin-bottom: 0; }
   .form-label {
     display: block;
     font-size: 10px;
-    letter-spacing: 0.18em;
+    letter-spacing: 0.2em;
     color: #aaa;
-    margin-bottom: 10px;
+    margin-bottom: 12px;
+    text-transform: uppercase;
   }
   .departure-row { display: flex; gap: 8px; align-items: stretch; }
   .departure-select {
     flex: 1;
-    padding: 13px 16px;
-    border: 1px solid #e0e0e0;
-    border-radius: 4px;
-    font-size: 14px;
+    padding: 14px 16px;
+    border: 1px solid #e4e4e4;
+    border-radius: 8px;
+    font-size: 15px;
     color: #1a1a1a;
-    background: #fff;
+    background: #fafafa;
     cursor: pointer;
     appearance: none;
-    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%23aaa' stroke-width='1.5' fill='none' stroke-linecap='round'/%3E%3C/svg%3E");
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%23bbb' stroke-width='1.5' fill='none' stroke-linecap='round'/%3E%3C/svg%3E");
     background-repeat: no-repeat;
     background-position: right 14px center;
     padding-right: 36px;
   }
+  .departure-select:focus { outline: none; border-color: #2A6049; background-color: #fff; }
   .location-btn {
-    padding: 13px 14px;
-    border: 1px solid #e0e0e0;
-    border-radius: 4px;
-    font-size: 11px;
+    padding: 14px 16px;
+    border: 1px solid #e4e4e4;
+    border-radius: 8px;
+    font-size: 12px;
     color: #888;
     cursor: pointer;
-    background: #fff;
+    background: #fafafa;
     white-space: nowrap;
     letter-spacing: 0.04em;
     transition: all 0.15s;
   }
-  .location-btn:hover { border-color: #bbb; color: #555; }
-  .toggle-row {
-    display: flex;
-    gap: 8px;
-    flex-wrap: wrap;
-  }
+  .location-btn:hover { border-color: #2A6049; color: #2A6049; background: #fff; }
+  .toggle-row { display: flex; gap: 8px; flex-wrap: wrap; }
   .toggle-btn {
-    padding: 10px 22px;
-    border: 1px solid #e0e0e0;
-    border-radius: 20px;
+    padding: 10px 20px;
+    border: 1px solid #e4e4e4;
+    border-radius: 24px;
     font-size: 14px;
-    color: #888;
-    background: #fff;
+    color: #666;
+    background: #fafafa;
     cursor: pointer;
-    transition: all 0.15s;
-    letter-spacing: 0.04em;
+    transition: all 0.18s;
+    letter-spacing: 0.03em;
   }
   .toggle-btn.active,
   .toggle-btn:hover {
-    background: #1a1a1a;
-    border-color: #1a1a1a;
+    background: #2A6049;
+    border-color: #2A6049;
     color: #fff;
   }
   .go-btn {
     display: block;
     width: 100%;
-    padding: 18px;
+    max-width: 520px;
+    margin: 36px auto 0;
+    padding: 20px;
     background: #2A6049;
     color: #fff;
     border: none;
-    border-radius: 4px;
+    border-radius: 8px;
     font-family: 'Noto Serif JP', serif;
-    font-size: 16px;
-    letter-spacing: 0.18em;
+    font-size: 17px;
+    letter-spacing: 0.2em;
     cursor: pointer;
-    margin-top: 44px;
-    transition: background 0.2s;
+    transition: background 0.2s, transform 0.1s;
+    box-shadow: 0 4px 20px rgba(42,96,73,0.28);
   }
-  .go-btn:hover { background: #234f3c; }
-  .go-btn:disabled { opacity: 0.5; cursor: not-allowed; }
+  .go-btn:hover { background: #1e4d38; transform: translateY(-1px); }
+  .go-btn:active { transform: translateY(0); }
+  .go-btn:disabled { opacity: 0.5; cursor: not-allowed; transform: none; }
   .form-error {
-    margin-top: 12px;
+    max-width: 520px;
+    margin: 12px auto 0;
     font-size: 13px;
     color: #c44;
     text-align: center;
@@ -224,28 +285,37 @@ try {
 
   /* ── Result ── */
   .result-wrap {
-    margin-top: 52px;
-    padding-top: 44px;
+    max-width: 520px;
+    margin: 52px auto 0;
+    padding-top: 48px;
     border-top: 1px solid #ebebeb;
+  }
+  .rc-photo-wrap {
+    position: relative;
+    width: 100%;
+    height: 260px;
+    border-radius: 12px;
+    overflow: hidden;
+    margin-bottom: 28px;
+    background: #eee;
   }
   .rc-hero-img {
     width: 100%;
-    height: 220px;
+    height: 100%;
     object-fit: cover;
-    border-radius: 2px;
-    margin-bottom: 24px;
     display: block;
   }
   .rc-eyebrow {
     font-size: 10px;
-    letter-spacing: 0.18em;
-    color: #aaa;
-    margin-bottom: 12px;
+    letter-spacing: 0.22em;
+    color: #C9A84C;
+    margin-bottom: 10px;
     display: block;
+    text-transform: uppercase;
   }
   .rc-name {
     font-family: 'Noto Serif JP', serif;
-    font-size: clamp(28px, 8vw, 40px);
+    font-size: clamp(30px, 9vw, 44px);
     font-weight: 400;
     color: #1a1a1a;
     letter-spacing: 0.05em;
@@ -255,19 +325,14 @@ try {
   .rc-pref {
     font-size: 12px;
     color: #bbb;
-    letter-spacing: 0.08em;
-    margin-bottom: 20px;
+    letter-spacing: 0.1em;
+    margin-bottom: 22px;
   }
-  .rc-tags {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 6px;
-    margin-bottom: 24px;
-  }
+  .rc-tags { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 24px; }
   .rc-tag {
-    padding: 4px 13px;
-    border: 1px solid #e0e0e0;
-    border-radius: 20px;
+    padding: 5px 14px;
+    border: 1px solid #e4e4e4;
+    border-radius: 24px;
     font-size: 11px;
     color: #888;
     letter-spacing: 0.04em;
@@ -276,33 +341,33 @@ try {
     font-size: 14px;
     line-height: 2.1;
     color: #555;
-    margin-bottom: 14px;
+    margin-bottom: 16px;
   }
   .rc-spots {
     font-size: 12px;
     color: #bbb;
     letter-spacing: 0.05em;
-    margin-bottom: 28px;
+    margin-bottom: 32px;
   }
   .rc-actions { margin-bottom: 4px; }
   .rc-btn-primary {
     display: inline-block;
-    padding: 13px 30px;
+    padding: 14px 32px;
     background: #1a1a1a;
     color: #fff;
-    border-radius: 2px;
-    font-size: 13px;
+    border-radius: 8px;
+    font-size: 14px;
     letter-spacing: 0.1em;
     transition: opacity 0.2s;
   }
-  .rc-btn-primary:hover { opacity: 0.8; }
+  .rc-btn-primary:hover { opacity: 0.75; }
   .retry-btn {
     display: block;
     width: 100%;
-    padding: 15px;
+    padding: 16px;
     margin-top: 16px;
-    border: 1px solid #e0e0e0;
-    border-radius: 4px;
+    border: 1px solid #e4e4e4;
+    border-radius: 8px;
     background: #fff;
     font-size: 13px;
     color: #888;
@@ -310,47 +375,38 @@ try {
     letter-spacing: 0.05em;
     transition: all 0.15s;
   }
-  .retry-btn:hover { border-color: #bbb; color: #444; }
+  .retry-btn:hover { border-color: #2A6049; color: #2A6049; }
 
-  /* ── Map Section ── */
+  /* ═══════════════════════════════════════
+     MAP SECTION
+  ═══════════════════════════════════════ */
   .map-section {
     border-top: 1px solid #ebebeb;
-    padding: 80px 24px 96px;
+    padding: 88px 24px 104px;
     text-align: center;
-    background: #fafafa;
+    background: #FAFAFA;
   }
-  .map-heading {
-    font-family: 'Noto Serif JP', serif;
-    font-size: 24px;
-    font-weight: 400;
-    color: #1a1a1a;
-    letter-spacing: 0.06em;
-    margin-bottom: 52px;
-  }
-  .map-wrap {
-    max-width: 480px;
-    margin: 0 auto 24px;
-  }
-  /* ── Region filter buttons ── */
+  .map-wrap { max-width: 500px; margin: 0 auto 28px; }
+
+  /* Region filter */
   .region-filter {
     display: flex;
     flex-wrap: wrap;
     gap: 6px;
     justify-content: center;
-    max-width: 520px;
-    margin: 0 auto 12px;
+    max-width: 540px;
+    margin: 0 auto 20px;
   }
   .region-btn {
-    padding: 5px 13px;
+    padding: 6px 14px;
     border: 1px solid #d0e8da;
-    border-radius: 20px;
-    font-size: 11px;
+    border-radius: 24px;
+    font-size: 12px;
     color: #6a9a7a;
     background: #fff;
     cursor: pointer;
-    letter-spacing: 0.05em;
+    letter-spacing: 0.04em;
     transition: all 0.15s;
-    line-height: 1;
   }
   .region-btn:hover, .region-btn.is-active {
     background: #2A6049;
@@ -358,110 +414,127 @@ try {
     color: #fff;
   }
 
-  /* ── SVG map ── */
+  /* SVG map */
   .japan-svg { width: 100%; height: auto; overflow: visible; }
   .jp-region { cursor: pointer; }
   .jp-path {
     stroke: #fff;
-    stroke-width: 0.4;
+    stroke-width: 0.5;
     stroke-linejoin: round;
-    transition: fill 0.2s;
+    transition: fill 0.25s;
   }
   .jp-region.is-highlight .jp-path { fill: #2A6049 !important; }
-  .jp-region.is-dim       .jp-path { fill: #e8f3ee !important; }
+  .jp-region.is-dim       .jp-path { fill: #e4f0ea !important; }
 
-  /* ── Map link ── */
+  /* Map link */
   .map-link {
     display: inline-block;
     font-size: 13px;
-    color: #888;
+    color: #999;
     border-bottom: 1px solid #ddd;
     padding-bottom: 2px;
-    letter-spacing: 0.06em;
+    letter-spacing: 0.08em;
     transition: color 0.15s;
-    margin-top: 32px;
+    margin-top: 36px;
   }
-  .map-link:hover { color: #333; }
+  .map-link:hover { color: #2A6049; }
 
-  /* ── Destination cards ── */
+  /* ═══════════════════════════════════════
+     DESTINATION CARDS (region drilldown)
+  ═══════════════════════════════════════ */
   .dest-panel {
-    margin: 28px auto 0;
-    max-width: 520px;
+    margin: 32px auto 0;
+    max-width: 540px;
     text-align: left;
-    padding: 0 4px;
   }
-  .tier-section { margin-bottom: 28px; }
+  .tier-section { margin-bottom: 32px; }
   .tier-section-title {
     font-size: 10px;
-    letter-spacing: 0.14em;
-    color: #aaa;
-    border-bottom: 1px solid #ebebeb;
-    padding-bottom: 8px;
-    margin-bottom: 12px;
+    letter-spacing: 0.18em;
+    color: #bbb;
+    border-bottom: 1px solid #e8e8e8;
+    padding-bottom: 10px;
+    margin-bottom: 14px;
     text-transform: uppercase;
   }
   .dest-cards {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 8px;
+    gap: 10px;
   }
+  /* Card: photo overlay style */
   .dest-card {
     display: block;
-    border: 1px solid #e0e0e0;
-    border-radius: 8px;
-    background: #fff;
     text-decoration: none;
+    border-radius: 10px;
     overflow: hidden;
-    transition: border-color 0.15s, box-shadow 0.15s;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+    transition: transform 0.18s, box-shadow 0.18s;
   }
   .dest-card:hover {
-    border-color: #2A6049;
-    box-shadow: 0 2px 10px rgba(42,96,73,0.12);
+    transform: translateY(-3px);
+    box-shadow: 0 8px 24px rgba(0,0,0,0.14);
   }
-  .dest-card-img-wrap {
-    height: 120px;
+  .dest-card-inner {
+    position: relative;
+    height: 160px;
+    background: #2A6049;
     overflow: hidden;
-    background: #f0f0f0;
   }
-  .dest-card-img {
+  .dest-card-bg {
+    position: absolute;
+    inset: 0;
     width: 100%;
     height: 100%;
     object-fit: cover;
     display: block;
+    transition: transform 0.4s ease;
   }
-  .dest-card-body {
-    padding: 12px 14px;
+  .dest-card:hover .dest-card-bg { transform: scale(1.05); }
+  .dest-card-overlay {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(to top, rgba(0,0,0,0.62) 0%, rgba(0,0,0,0.08) 60%, transparent 100%);
+  }
+  .dest-card-text {
+    position: absolute;
+    bottom: 12px;
+    left: 12px;
+    right: 12px;
   }
   .dest-card-name {
     font-size: 15px;
-    color: #1a1a1a;
+    color: #fff;
     font-weight: 500;
-    letter-spacing: 0.02em;
-    margin-bottom: 4px;
+    letter-spacing: 0.03em;
+    margin-bottom: 3px;
+    text-shadow: 0 1px 6px rgba(0,0,0,0.4);
+    line-height: 1.3;
   }
   .dest-card-pref {
-    font-size: 11px;
-    color: #bbb;
-    letter-spacing: 0.04em;
+    font-size: 10px;
+    color: rgba(255,255,255,0.75);
+    letter-spacing: 0.07em;
   }
   .more-btn {
     display: block;
     width: 100%;
-    margin-top: 10px;
-    padding: 10px;
-    border: 1px solid #e0e0e0;
-    border-radius: 6px;
+    margin-top: 12px;
+    padding: 12px;
+    border: 1px solid #e4e4e4;
+    border-radius: 8px;
     background: #fff;
     color: #888;
     font-size: 13px;
     cursor: pointer;
     text-align: center;
     transition: border-color 0.15s, color 0.15s;
+    letter-spacing: 0.04em;
   }
   .more-btn:hover { border-color: #2A6049; color: #2A6049; }
 </style>
 
-  <!-- ① Hero Slideshow -->
+  <!-- ① Hero -->
   <div class="hero">
     {heroImages.length > 0 ? (
       heroImages.map((src, i) => (
@@ -475,51 +548,59 @@ try {
     ) : (
       <div class="hero-bg"></div>
     )}
-    <div class="hero-overlay">
-      <h1 class="hero-catch">まだ知らない街と、出会おう。</h1>
+    <div class="hero-gradient"></div>
+    <div class="hero-content">
+      <h1 class="hero-catch">まだ知らない街と、<br>出会おう。</h1>
       <p class="hero-sub">出発地と日数を選ぶだけ</p>
+    </div>
+    <div class="hero-scroll">
+      <span>SCROLL</span>
+      <div class="hero-scroll-arrow"></div>
     </div>
   </div>
 
   <!-- ② 旅先提案UI -->
   <section class="app-section" id="app">
-    <h2 class="app-heading">旅先を見つける</h2>
+    <span class="section-eyebrow">Find Your Destination</span>
+    <h2 class="section-heading">旅先を1分で決める</h2>
+    <p class="section-lead">出発地・日数・テーマを選ぶだけ</p>
 
-    <div class="form-block">
-      <label class="form-label" for="departure-select">出発地</label>
-      <div class="departure-row">
-        <select id="departure-select" class="departure-select">
-          <!-- populated by JS -->
-        </select>
-        <button id="location-btn" type="button" class="location-btn">現在地</button>
+    <div class="form-card">
+      <div class="form-block">
+        <label class="form-label" for="departure-select">出発地</label>
+        <div class="departure-row">
+          <select id="departure-select" class="departure-select">
+            <!-- populated by JS -->
+          </select>
+          <button id="location-btn" type="button" class="location-btn">現在地</button>
+        </div>
       </div>
-    </div>
 
-    <div class="form-block">
-      <span class="form-label">旅の長さ</span>
-      <div class="toggle-row">
-        <button type="button" data-stay="daytrip" class="toggle-btn">日帰り</button>
-        <button type="button" data-stay="1night" class="toggle-btn active">1泊</button>
-        <button type="button" data-stay="2night" class="toggle-btn">2泊以上</button>
+      <div class="form-block">
+        <span class="form-label">旅の長さ</span>
+        <div class="toggle-row">
+          <button type="button" data-stay="daytrip" class="toggle-btn">日帰り</button>
+          <button type="button" data-stay="1night" class="toggle-btn active">1泊</button>
+          <button type="button" data-stay="2night" class="toggle-btn">2泊以上</button>
+        </div>
       </div>
-    </div>
 
-    <div class="form-block">
-      <span class="form-label">テーマ（任意）</span>
-      <div class="toggle-row">
-        <button type="button" data-theme="" class="toggle-btn active">こだわらない</button>
-        <button type="button" data-theme="温泉" class="toggle-btn">温泉</button>
-        <button type="button" data-theme="絶景" class="toggle-btn">絶景</button>
-        <button type="button" data-theme="海" class="toggle-btn">海</button>
-        <button type="button" data-theme="街歩き" class="toggle-btn">街歩き</button>
-        <button type="button" data-theme="グルメ" class="toggle-btn">グルメ</button>
+      <div class="form-block">
+        <span class="form-label">テーマ（任意）</span>
+        <div class="toggle-row">
+          <button type="button" data-theme="" class="toggle-btn active">こだわらない</button>
+          <button type="button" data-theme="温泉" class="toggle-btn">温泉</button>
+          <button type="button" data-theme="絶景" class="toggle-btn">絶景</button>
+          <button type="button" data-theme="海" class="toggle-btn">海</button>
+          <button type="button" data-theme="街歩き" class="toggle-btn">街歩き</button>
+          <button type="button" data-theme="グルメ" class="toggle-btn">グルメ</button>
+        </div>
       </div>
     </div>
 
     <button id="go-btn" type="button" class="go-btn">どこ行こ？</button>
     <p id="form-error" class="form-error" hidden></p>
 
-    <!-- Result (hidden until go clicked) -->
     <div id="result" hidden>
       <div class="result-wrap">
         <div id="result-inner"></div>
@@ -530,9 +611,10 @@ try {
 
   <!-- ③ Japan SVG Map + Region Drilldown -->
   <section class="map-section">
-    <h2 class="map-heading">地域から探す</h2>
+    <span class="section-eyebrow">Destinations</span>
+    <h2 class="section-heading">地域から探す</h2>
+    <p class="section-lead">地図または地域ボタンを選択</p>
 
-    <!-- 地域フィルターボタン -->
     <div class="region-filter" id="region-filter">
       <button class="region-btn is-active" data-region="">すべて</button>
       {['北海道','東北','関東','中部','近畿','中国','四国','九州','沖縄'].map(r => (
@@ -540,7 +622,6 @@ try {
       ))}
     </div>
 
-    <!-- 地図（背景・雰囲気） -->
     <div class="map-wrap">
       {mapRegions.length > 0 ? (
         <svg id="japan-svg" viewBox={`0 0 ${SVG_W} ${SVG_H}`}
@@ -552,19 +633,18 @@ try {
           ))}
         </svg>
       ) : (
-        <p style="color:#aaa;font-size:13px;padding:60px 0;">地図を読み込み中...</p>
+        <p style="color:#aaa;font-size:13px;padding:60px 0;">地図データを読み込み中...</p>
       )}
     </div>
 
-    <!-- 目的地カードパネル（地域選択後に表示） -->
     <div id="dest-panel" class="dest-panel" hidden>
       <div id="area-section" class="tier-section">
-        <p class="tier-section-title">AREA — エリア（滞在型）<span id="area-count" style="color:#ccc;margin-left:6px;"></span></p>
+        <p class="tier-section-title">Area — エリア（滞在型）<span id="area-count" style="color:#ccc;margin-left:6px;"></span></p>
         <div id="area-cards" class="dest-cards"></div>
         <div id="area-more"></div>
       </div>
       <div id="spot-section" class="tier-section">
-        <p class="tier-section-title">SPOT — 訪問スポット<span id="spot-count" style="color:#ccc;margin-left:6px;"></span></p>
+        <p class="tier-section-title">Spot — 訪問スポット<span id="spot-count" style="color:#ccc;margin-left:6px;"></span></p>
         <div id="spot-cards" class="dest-cards"></div>
         <div id="spot-more"></div>
       </div>
@@ -728,9 +808,11 @@ function showResult(city: any) {
 
   const inner = document.getElementById('result-inner')!;
   inner.innerHTML = `
-    <img class="rc-hero-img" src="/images/${city.id}.jpg" alt="${name}の風景"
-         onerror="this.style.display='none'" loading="lazy" />
-    <span class="rc-eyebrow">${timeStr ? `${state.departure}から${timeStr}` : state.departure + 'から'}</span>
+    <div class="rc-photo-wrap">
+      <img class="rc-hero-img" src="/images/${city.id}.jpg" alt="${name}の風景"
+           onerror="this.closest('.rc-photo-wrap').style.display='none'" loading="lazy" />
+    </div>
+    <span class="rc-eyebrow">${timeStr ? `${state.departure}から ${timeStr}` : state.departure + 'から'}</span>
     <h2 class="rc-name">${name}</h2>
     <p class="rc-pref">${city.prefecture || ''}${city.region ? '　' + city.region : ''}</p>
     ${allTags.length ? `<div class="rc-tags">${allTags.slice(0, 5).map(t => `<span class="rc-tag">${t}</span>`).join('')}</div>` : ''}
@@ -838,7 +920,6 @@ const spotMore    = document.getElementById('spot-more')!;
 const CARD_LIMIT = 12;
 let activeRegion = '';
 
-// destinations.json を独立してフェッチ（form の init() と共有したいがタイミング保証のため別途持つ）
 const mapDataPromise: Promise<any[]> = (async () => {
   if (state.destinations.length) return state.destinations;
   const r = await fetch('/data/destinations.json');
@@ -848,13 +929,14 @@ const mapDataPromise: Promise<any[]> = (async () => {
 function makeCardHtml(d: any): string {
   return (
     `<a href="/destinations/${d.id}/" class="dest-card">` +
-    `<div class="dest-card-img-wrap">` +
-    `<img class="dest-card-img" src="/images/${d.id}.jpg" alt="${d.name}" loading="lazy"` +
-    ` onerror="this.parentElement.style.display='none'">` +
-    `</div>` +
-    `<div class="dest-card-body">` +
+    `<div class="dest-card-inner">` +
+    `<img class="dest-card-bg" src="/images/${d.id}.jpg" alt="${d.name}" loading="lazy"` +
+    ` onerror="this.style.display='none'">` +
+    `<div class="dest-card-overlay"></div>` +
+    `<div class="dest-card-text">` +
     `<div class="dest-card-name">${d.name}</div>` +
     `<div class="dest-card-pref">${d.prefecture || ''}</div>` +
+    `</div>` +
     `</div>` +
     `</a>`
   );
@@ -885,7 +967,6 @@ async function renderRegionCards(region: string) {
     const allDests = await mapDataPromise;
     const dests = allDests.filter((d: any) => d.region === region);
 
-    // tier フィールドがない古いデータに備えてフォールバック
     const AREA_TYPES = new Set(['city', 'onsen']);
     const area = dests.filter((d: any) =>
       d.tier === 'area' || (!d.tier && AREA_TYPES.has(d.destType))
@@ -902,17 +983,13 @@ async function renderRegionCards(region: string) {
   }
 }
 
-// もっと見るボタン
 document.addEventListener('click', (e) => {
   const btn = (e.target as Element).closest<HTMLButtonElement>('.more-btn');
   if (!btn) return;
   const allIds: string[] = JSON.parse(decodeURIComponent(btn.dataset.all || '[]'));
-  // 親 moreEl の直前の cardsEl を特定
   const moreEl = btn.parentElement!;
   const cardsEl = moreEl.previousElementSibling as HTMLElement;
-  // allDests から全件再描画（IDで引いて順序保持）
   mapDataPromise.then(allDests => {
-    const idSet = new Set(allIds);
     const ordered = allIds.map(id => allDests.find((d:any)=>d.id===id)).filter(Boolean);
     cardsEl.innerHTML = ordered.map(makeCardHtml).join('');
     moreEl.innerHTML = '';
