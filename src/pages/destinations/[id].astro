@@ -19,7 +19,7 @@ const article = fs.existsSync(articlePath)
   : null;
 
 const hasImage = fs.existsSync(path.join(process.cwd(), 'public/images', `${dest.id}.jpg`));
-const imageUrl = hasImage ? `/images/${dest.id}.jpg` : null;
+const imageUrl = hasImage ? `https://tabidokoiko.com/images/${dest.id}.jpg` : null;
 
 const seoTitle = `【${dest.name}】おすすめ観光スポット${dest.spots?.length || 3}選｜${dest.prefecture}の旅`;
 const description = article?.lead?.slice(0, 120) || dest.description || `${dest.name}（${dest.prefecture}）への行き方・宿・観光スポット情報。`;
