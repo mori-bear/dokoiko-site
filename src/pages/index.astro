@@ -1,6 +1,7 @@
 ---
 import DestinationLayout from '../layouts/DestinationLayout.astro';
 import destinations from '../data/destinations.json';
+import hubCities from '../data/hubCities.json';
 import fs from 'fs';
 import path from 'path';
 import { feature } from 'topojson-client';
@@ -495,6 +496,50 @@ try {
   /* ═══════════════════════════════════════
      MAP SECTION
   ═══════════════════════════════════════ */
+  /* Hub Cities section */
+  .hub-section {
+    border-top: 1px solid #ebebeb;
+    padding: 56px 24px 64px;
+    text-align: center;
+    background: #fff;
+  }
+  .hub-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 12px;
+    max-width: 480px;
+    margin: 28px auto 16px;
+  }
+  @media (min-width: 520px) {
+    .hub-grid { grid-template-columns: repeat(3, 1fr); max-width: 540px; }
+  }
+  .hub-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 14px 10px;
+    border: 1px solid #e4ede8;
+    border-radius: 8px;
+    text-decoration: none;
+    color: inherit;
+    background: #f7fbf8;
+    transition: background 0.15s, box-shadow 0.15s;
+    gap: 4px;
+  }
+  .hub-card:hover { background: #edf6ef; box-shadow: 0 2px 8px rgba(42,96,73,0.10); }
+  .hub-card-name { font-size: 15px; font-weight: 500; color: #1a2e20; }
+  .hub-card-sub  { font-size: 10px; color: #999; letter-spacing: 0.05em; }
+  .hub-more {
+    display: inline-block;
+    margin-top: 8px;
+    font-size: 12px;
+    color: #999;
+    text-decoration: none;
+    letter-spacing: 0.06em;
+  }
+  .hub-more:hover { color: #2A6049; }
+
   .map-section {
     border-top: 1px solid #ebebeb;
     padding: 56px 24px 72px;
@@ -744,7 +789,33 @@ try {
     </div>
   </section>
 
-  <!-- ④ Japan SVG Map + Region Drilldown -->
+  <!-- ④ ハブ都市から探す -->
+  <section class="hub-section">
+    <span class="section-eyebrow">Hub Cities</span>
+    <h2 class="section-heading">拠点都市から探す</h2>
+    <p class="section-lead">出発・宿泊の拠点となる都市を選んで、周辺の旅先を探す</p>
+    <div class="hub-grid">
+      {([
+        { id: 'tokyo',     name: '東京',  sub: '関東・東北' },
+        { id: 'osaka',     name: '大阪',  sub: '関西・四国' },
+        { id: 'nagoya',    name: '名古屋', sub: '東海・中部' },
+        { id: 'fukuoka',   name: '福岡',  sub: '九州・離島' },
+        { id: 'sapporo',   name: '札幌',  sub: '北海道' },
+        { id: 'hiroshima', name: '広島',  sub: '中国・四国' },
+        { id: 'takamatsu', name: '高松',  sub: '四国・瀬戸内' },
+        { id: 'matsuyama', name: '松山',  sub: '四国' },
+        { id: 'naha',      name: '那覇',  sub: '沖縄・離島' },
+      ] as {id:string;name:string;sub:string}[]).map(h => (
+        <a href={`/hub/${h.id}/`} class="hub-card">
+          <span class="hub-card-name">{h.name}</span>
+          <span class="hub-card-sub">{h.sub}</span>
+        </a>
+      ))}
+    </div>
+    <a href="/destinations/" class="hub-more">すべての拠点都市を見る →</a>
+  </section>
+
+  <!-- ⑤ Japan SVG Map + Region Drilldown -->
   <section class="map-section" id="map">
     <span class="section-eyebrow">Destinations</span>
     <h2 class="section-heading">地域から探す</h2>

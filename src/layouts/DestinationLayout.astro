@@ -20,6 +20,7 @@ const { title, description, image } = Astro.props;
   <meta name="twitter:description" content={description}>
   {image && <meta name="twitter:image" content={image}>}
   <link rel="canonical" href={Astro.url.href}>
+  <slot name="head-extra" />
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-WCJKVC2DXY"></script>
   <script>
     window.dataLayer = window.dataLayer || [];

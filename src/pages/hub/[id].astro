@@ -1,0 +1,366 @@
+---
+import DestinationLayout from '../../layouts/DestinationLayout.astro';
+import destinations from '../../data/destinations.json';
+import hubCities from '../../data/hubCities.json';
+import fs from 'fs';
+import path from 'path';
+
+export function getStaticPaths() {
+  return hubCities.map(hub => ({
+    params: { id: hub.id },
+    props: { hub },
+  }));
+}
+
+const { hub } = Astro.props;
+
+const RAKUTEN_AFF = 'https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/';
+const JALAN_AFF  = 'https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=';
+
+const rakutenUrl = `${RAKUTEN_AFF}?pc=${encodeURIComponent('https://travel.rakuten.co.jp/yado/' + hub.prefSlug + '/')}`;
+const jalanUrl   = `${JALAN_AFF}${encodeURIComponent('https://www.jalan.net/uw/uwp2011/uww2011init.do?keyword=' + hub.name)}`;
+
+// このハブを使う目的地を取得
+const hubDests = (destinations as any[]).filter(d => d.hub === hub.name);
+
+// 画像あり優先でweightでソート
+const imgDir = path.join(process.cwd(), 'public/images');
+const withImg = hubDests.filter(d => fs.existsSync(path.join(imgDir, `${d.id}.jpg`)));
+const withoutImg = hubDests.filter(d => !fs.existsSync(path.join(imgDir, `${d.id}.jpg`)));
+
+// tier分け: area(拠点) → spot(スポット)
+const areaDests = [...withImg.filter(d => d.tier === 'area'), ...withoutImg.filter(d => d.tier === 'area')]
+  .sort((a, b) => (b.weight || 0) - (a.weight || 0));
+const spotDests = [...withImg.filter(d => d.tier !== 'area'), ...withoutImg.filter(d => d.tier !== 'area')]
+  .sort((a, b) => (b.weight || 0) - (a.weight || 0));
+
+// ハブ自身の画像（/images/{hub.id}.jpg）
+const hubImage = fs.existsSync(path.join(imgDir, `${hub.id}.jpg`))
+  ? `https://tabidokoiko.com/images/${hub.id}.jpg`
+  : null;
+
+const title = `${hub.name}を拠点に旅する｜${hub.prefecture}から行けるおすすめ旅先`;
+const description = `${hub.desc} ${hub.name}を起点に日帰り・宿泊で行けるおすすめ旅先${hubDests.length}か所を紹介。`;
+
+const jsonLd = JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "City",
+  "name": hub.name,
+  "description": hub.desc,
+  "url": `https://tabidokoiko.com/hub/${hub.id}/`,
+  "containedInPlace": {
+    "@type": "AdministrativeArea",
+    "name": hub.prefecture,
+  },
+});
+---
+
+<DestinationLayout title={title} description={description} image={hubImage}>
+  <script type="application/ld+json" set:html={jsonLd} slot="head-extra" />
+
+  <style>
+    .hub-hero {
+      position: relative;
+      height: 52vw;
+      min-height: 200px;
+      max-height: 420px;
+      overflow: hidden;
+      background: #1a2e20;
+    }
+    .hub-hero-img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: center 40%;
+      opacity: 0.75;
+    }
+    .hub-hero-overlay {
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(to top, rgba(0,0,0,0.65) 0%, rgba(0,0,0,0.1) 60%);
+    }
+    .hub-hero-text {
+      position: absolute;
+      bottom: 28px;
+      left: 24px;
+      right: 24px;
+    }
+    .hub-hero-pref {
+      font-size: 11px;
+      letter-spacing: 0.12em;
+      color: rgba(255,255,255,0.75);
+      margin-bottom: 6px;
+      font-family: 'Noto Sans JP', sans-serif;
+    }
+    .hub-hero-title {
+      font-family: 'Noto Serif JP', serif;
+      font-size: clamp(22px, 5vw, 32px);
+      font-weight: 300;
+      color: #fff;
+      letter-spacing: 0.06em;
+      line-height: 1.3;
+      margin-bottom: 8px;
+    }
+    .hub-hero-desc {
+      font-size: 13px;
+      color: rgba(255,255,255,0.82);
+      line-height: 1.7;
+      max-width: 480px;
+    }
+
+    .hub-body { max-width: 640px; margin: 0 auto; padding: 0 20px 80px; }
+
+    .section-title {
+      font-family: 'Noto Serif JP', serif;
+      font-size: 18px;
+      font-weight: 400;
+      color: #1a1a1a;
+      letter-spacing: 0.06em;
+      margin: 40px 0 16px;
+    }
+    .section-subtitle {
+      font-size: 12px;
+      color: #999;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      margin-bottom: 6px;
+    }
+
+    /* 目的地カードグリッド */
+    .dest-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 12px;
+      margin-bottom: 8px;
+    }
+    @media (min-width: 480px) {
+      .dest-grid { grid-template-columns: repeat(3, 1fr); }
+    }
+    .dest-card {
+      text-decoration: none;
+      color: inherit;
+      border-radius: 8px;
+      overflow: hidden;
+      border: 1px solid #f0f0f0;
+      transition: box-shadow 0.2s;
+    }
+    .dest-card:hover { box-shadow: 0 4px 16px rgba(0,0,0,0.10); }
+    .dest-card-img-wrap {
+      aspect-ratio: 4/3;
+      background: #f0f0f0;
+      overflow: hidden;
+    }
+    .dest-card-img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      transition: transform 0.3s;
+    }
+    .dest-card:hover .dest-card-img { transform: scale(1.04); }
+    .dest-card-body {
+      padding: 10px 12px 12px;
+    }
+    .dest-card-name {
+      font-size: 14px;
+      font-weight: 500;
+      color: #1a1a1a;
+      margin-bottom: 2px;
+    }
+    .dest-card-pref {
+      font-size: 11px;
+      color: #999;
+    }
+    .dest-card-tag {
+      display: inline-block;
+      font-size: 10px;
+      color: #888;
+      background: #f5f5f5;
+      border-radius: 3px;
+      padding: 1px 6px;
+      margin-top: 4px;
+    }
+
+    /* 宿リンク */
+    .hotel-section { margin: 40px 0 0; }
+    .hotel-cards { display: flex; flex-direction: column; gap: 12px; margin-top: 12px; }
+    .hotel-card {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 16px 18px;
+      border-radius: 8px;
+      border: 1px solid #e8e8e8;
+      text-decoration: none;
+      color: inherit;
+      transition: box-shadow 0.2s;
+    }
+    .hotel-card:hover { box-shadow: 0 2px 12px rgba(0,0,0,0.08); }
+    .hotel-card-rakuten { border-left: 3px solid #bf0000; }
+    .hotel-card-jalan   { border-left: 3px solid #e8820c; }
+    .hotel-card-name { font-size: 15px; font-weight: 500; margin-bottom: 2px; }
+    .hotel-card-desc { font-size: 12px; color: #999; }
+    .hotel-card-arrow { font-size: 16px; color: #bbb; }
+
+    /* more-link */
+    .more-link {
+      display: block;
+      text-align: right;
+      font-size: 12px;
+      color: #888;
+      text-decoration: none;
+      margin-top: 4px;
+      letter-spacing: 0.04em;
+    }
+    .more-link:hover { color: #2A6049; }
+
+    /* セパレーター */
+    .section-divider {
+      border: none;
+      border-top: 1px solid #f0f0f0;
+      margin: 40px 0 0;
+    }
+
+    /* CTA */
+    .cta-section {
+      margin-top: 56px;
+      padding: 40px 24px;
+      background: #f9f9f9;
+      border-radius: 12px;
+      text-align: center;
+    }
+    .cta-label {
+      font-size: 10px;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: #aaa;
+    }
+    .cta-title {
+      font-family: 'Noto Serif JP', serif;
+      font-size: 20px;
+      font-weight: 300;
+      color: #1a1a1a;
+      margin: 10px 0 20px;
+      letter-spacing: 0.04em;
+    }
+    .cta-btn {
+      display: inline-block;
+      padding: 12px 28px;
+      background: #2A6049;
+      color: #fff;
+      border-radius: 6px;
+      font-size: 14px;
+      text-decoration: none;
+      letter-spacing: 0.04em;
+    }
+  </style>
+
+  <!-- Hero -->
+  <div class="hub-hero">
+    {hubImage
+      ? <img class="hub-hero-img" src={hubImage} alt={hub.name} />
+      : <div style="width:100%;height:100%;background:linear-gradient(160deg,#1a2e20,#2A6049);" />
+    }
+    <div class="hub-hero-overlay" />
+    <div class="hub-hero-text">
+      <p class="hub-hero-pref">{hub.prefecture} / {hub.region}</p>
+      <h1 class="hub-hero-title">{hub.name}を拠点に旅する</h1>
+      <p class="hub-hero-desc">{hub.desc}</p>
+    </div>
+  </div>
+
+  <div class="hub-body">
+
+    <!-- エリア目的地 -->
+    {areaDests.length > 0 && (
+      <section>
+        <p class="section-subtitle">Destinations</p>
+        <h2 class="section-title">{hub.name}から行けるおすすめ旅先</h2>
+        <div class="dest-grid">
+          {areaDests.slice(0, 12).map((d: any) => (
+            <a href={`/destinations/${d.id}/`} class="dest-card">
+              <div class="dest-card-img-wrap">
+                <img
+                  class="dest-card-img"
+                  src={`/images/${d.id}.jpg`}
+                  alt={d.name}
+                  loading="lazy"
+                  onerror="this.parentElement.style.background='#e8e8e8'"
+                />
+              </div>
+              <div class="dest-card-body">
+                <div class="dest-card-name">{d.name}</div>
+                <div class="dest-card-pref">{d.prefecture}</div>
+                {d.primary?.[0] && <span class="dest-card-tag">{d.primary[0]}</span>}
+              </div>
+            </a>
+          ))}
+        </div>
+        {areaDests.length > 12 && (
+          <a href={`/?region=${encodeURIComponent(hub.region)}`} class="more-link">
+            {hub.region}の旅先をすべて見る →
+          </a>
+        )}
+      </section>
+    )}
+
+    <!-- スポット目的地 -->
+    {spotDests.length > 0 && (
+      <section>
+        <p class="section-subtitle">Day Trips</p>
+        <h2 class="section-title">日帰りで行けるスポット</h2>
+        <div class="dest-grid">
+          {spotDests.slice(0, 9).map((d: any) => (
+            <a href={`/destinations/${d.id}/`} class="dest-card">
+              <div class="dest-card-img-wrap">
+                <img
+                  class="dest-card-img"
+                  src={`/images/${d.id}.jpg`}
+                  alt={d.name}
+                  loading="lazy"
+                  onerror="this.parentElement.style.background='#e8e8e8'"
+                />
+              </div>
+              <div class="dest-card-body">
+                <div class="dest-card-name">{d.name}</div>
+                <div class="dest-card-pref">{d.prefecture}</div>
+                {d.primary?.[0] && <span class="dest-card-tag">{d.primary[0]}</span>}
+              </div>
+            </a>
+          ))}
+        </div>
+      </section>
+    )}
+
+    <hr class="section-divider" />
+
+    <!-- 宿リンク -->
+    <section class="hotel-section">
+      <p class="section-subtitle">Stay</p>
+      <h2 class="section-title">{hub.name}の宿を探す</h2>
+      <div class="hotel-cards">
+        <a href={rakutenUrl} target="_blank" rel="noopener noreferrer" class="hotel-card hotel-card-rakuten">
+          <div>
+            <p class="hotel-card-name">楽天トラベル</p>
+            <p class="hotel-card-desc">ポイントが貯まる・使える</p>
+          </div>
+          <span class="hotel-card-arrow">→</span>
+        </a>
+        <a href={jalanUrl} target="_blank" rel="noopener noreferrer" class="hotel-card hotel-card-jalan">
+          <div>
+            <p class="hotel-card-name">じゃらん</p>
+            <p class="hotel-card-desc">国内旅行・宿泊予約</p>
+          </div>
+          <span class="hotel-card-arrow">→</span>
+        </a>
+      </div>
+    </section>
+
+    <!-- CTA -->
+    <div class="cta-section">
+      <span class="cta-label">Travel Planning</span>
+      <p class="cta-title">旅先を1分で決めてみる？</p>
+      <a href="/" class="cta-btn">どこ行こ？で旅先を探す →</a>
+    </div>
+
+  </div>
+</DestinationLayout>
