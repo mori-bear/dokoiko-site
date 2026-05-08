@@ -46,11 +46,27 @@ const { title, description, image } = Astro.props;
     }
 
     .site-logo {
+      display: flex;
+      flex-direction: column;
+      gap: 2px;
+      text-decoration: none;
+    }
+    .site-logo-ja {
       font-family: 'Noto Serif JP', serif;
-      font-size: 20px;
-      font-weight: 400;
-      letter-spacing: 0.1em;
+      font-size: 18px;
+      font-weight: 300;
+      letter-spacing: 0.08em;
       color: #1a1a1a;
+      line-height: 1;
+    }
+    .site-logo-en {
+      font-family: 'Noto Sans JP', sans-serif;
+      font-size: 9px;
+      font-weight: 300;
+      letter-spacing: 0.38em;
+      color: #aaa;
+      text-transform: uppercase;
+      line-height: 1;
     }
 
     .site-nav {
@@ -82,7 +98,10 @@ const { title, description, image } = Astro.props;
 </head>
 <body>
   <header class="site-header">
-    <a href="/" class="site-logo">どこ行こ？</a>
+    <a href="/" class="site-logo">
+      <span class="site-logo-ja">どこ行こ？</span>
+      <span class="site-logo-en">DOKOIKO</span>
+    </a>
     <nav class="site-nav">
       <a href="/destinations/">目的地一覧</a>
     </nav>

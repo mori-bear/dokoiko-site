@@ -6,6 +6,7 @@ import path from 'path';
 import { feature } from 'topojson-client';
 import { geoMercator, geoPath } from 'd3-geo';
 
+const imgDir  = path.join(process.cwd(), 'public/images');
 const heroDir = path.join(process.cwd(), 'public/images/hero');
 const heroImages = fs.existsSync(heroDir)
   ? fs.readdirSync(heroDir)
@@ -15,6 +16,17 @@ const heroImages = fs.existsSync(heroDir)
   : [];
 
 const destCount = (destinations as any[]).length;
+
+const REGION_EN: Record<string, string> = {
+  '北海道': 'Hokkaido', '東北': 'Tohoku', '関東': 'Kanto',
+  '中部': 'Chubu', '近畿': 'Kinki', '中国': 'Chugoku',
+  '四国': 'Shikoku', '九州': 'Kyushu', '沖縄': 'Okinawa',
+};
+
+const featuredDests = (destinations as any[])
+  .filter((d: any) => fs.existsSync(path.join(imgDir, `${d.id}.jpg`)))
+  .sort((a: any, b: any) => (b.weight || 0) - (a.weight || 0))
+  .slice(0, 12);
 
 const PREF_REGION: Record<number, string> = {
   1: '北海道',
@@ -156,11 +168,105 @@ try {
   }
 
   /* ═══════════════════════════════════════
+     FEATURED SLIDER
+  ═══════════════════════════════════════ */
+  .featured-section {
+    background: #fff;
+    padding: 44px 0 52px;
+    border-bottom: 1px solid #f0f0f0;
+  }
+  .featured-header {
+    padding: 0 24px;
+    margin-bottom: 18px;
+  }
+  .featured-eyebrow {
+    display: block;
+    font-size: 9px;
+    letter-spacing: 0.32em;
+    color: #C9A84C;
+    text-transform: uppercase;
+    margin-bottom: 8px;
+  }
+  .featured-title {
+    font-family: 'Noto Serif JP', serif;
+    font-size: 20px;
+    font-weight: 300;
+    letter-spacing: 0.1em;
+    color: #1a1a1a;
+  }
+  .slider-track {
+    display: flex;
+    gap: 14px;
+    overflow-x: auto;
+    padding: 4px 24px 12px;
+    scroll-snap-type: x mandatory;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+  }
+  .slider-track::-webkit-scrollbar { display: none; }
+  .slider-card {
+    flex: 0 0 220px;
+    height: 280px;
+    border-radius: 14px;
+    overflow: hidden;
+    position: relative;
+    display: block;
+    text-decoration: none;
+    scroll-snap-align: start;
+    transition: transform 0.25s;
+    background: #222;
+  }
+  .slider-card:hover { transform: scale(1.025); }
+  .slider-card-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    filter: saturate(1.25);
+    transition: transform 0.4s ease;
+    display: block;
+  }
+  .slider-card:hover .slider-card-img { transform: scale(1.06); }
+  .slider-card-grad {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(
+      to top,
+      rgba(0,0,0,0.72) 0%,
+      rgba(0,0,0,0.22) 55%,
+      rgba(0,0,0,0) 100%
+    );
+    pointer-events: none;
+  }
+  .slider-card-body {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 14px 16px 18px;
+  }
+  .slider-card-sub {
+    font-size: 9px;
+    letter-spacing: 0.28em;
+    color: rgba(255,255,255,0.6);
+    text-transform: uppercase;
+    margin-bottom: 6px;
+  }
+  .slider-card-title {
+    font-family: 'Noto Serif JP', serif;
+    font-size: 17px;
+    font-weight: 300;
+    color: #fff;
+    letter-spacing: 0.07em;
+    line-height: 1.4;
+  }
+
+  /* ═══════════════════════════════════════
      APP SECTION
   ═══════════════════════════════════════ */
   .app-section {
     background: #fff;
-    padding: 56px 24px 64px;
+    padding: 40px 24px 48px;
   }
   .section-eyebrow {
     display: block;
@@ -193,10 +299,10 @@ try {
     background: #fff;
     border: 1px solid #e8e8e8;
     border-radius: 16px;
-    padding: 40px 32px 36px;
-    box-shadow: 0 4px 32px rgba(0,0,0,0.07);
+    padding: 28px 24px 24px;
+    box-shadow: 0 4px 24px rgba(0,0,0,0.06);
   }
-  .form-block { margin-bottom: 28px; }
+  .form-block { margin-bottom: 20px; }
   .form-block:last-of-type { margin-bottom: 0; }
   .form-label {
     display: block;
@@ -559,7 +665,27 @@ try {
     </div>
   </div>
 
-  <!-- ② 旅先提案UI -->
+  <!-- ② 注目記事スライダー -->
+  <section class="featured-section">
+    <div class="featured-header">
+      <span class="featured-eyebrow">Featured</span>
+      <h2 class="featured-title">注目の旅先</h2>
+    </div>
+    <div class="slider-track">
+      {featuredDests.map((d: any) => (
+        <a href={`/destinations/${d.id}/`} class="slider-card">
+          <img src={`/images/${d.id}.jpg`} alt={d.name} loading="lazy" class="slider-card-img" />
+          <div class="slider-card-grad"></div>
+          <div class="slider-card-body">
+            <p class="slider-card-sub">{REGION_EN[d.region] || d.region}</p>
+            <p class="slider-card-title">{d.name}</p>
+          </div>
+        </a>
+      ))}
+    </div>
+  </section>
+
+  <!-- ③ 旅先提案UI -->
   <section class="app-section" id="app">
     <span class="section-eyebrow">Find Your Destination</span>
     <h2 class="section-heading">旅先を1分で決める</h2>
@@ -609,7 +735,7 @@ try {
     </div>
   </section>
 
-  <!-- ③ Japan SVG Map + Region Drilldown -->
+  <!-- ④ Japan SVG Map + Region Drilldown -->
   <section class="map-section">
     <span class="section-eyebrow">Destinations</span>
     <h2 class="section-heading">地域から探す</h2>
