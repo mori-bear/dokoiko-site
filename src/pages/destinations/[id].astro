@@ -917,7 +917,7 @@ const hubCity = hubName
 
     <!-- ハブ都市ページリンク -->
     {hubCity && (
-      <div style="margin-top:24px; padding:16px 20px; background:#f7f9f7; border-radius:8px; border:1px solid #e8f0e8;">
+      <div id="hub-link" style="margin-top:24px; padding:16px 20px; background:#f7f9f7; border-radius:8px; border:1px solid #e8f0e8;">
         <p style="font-size:12px; color:#999; margin-bottom:6px; letter-spacing:0.06em;">HUB CITY</p>
         <a href={`/hub/${hubCity.id}/`} style="display:flex; align-items:center; justify-content:space-between; text-decoration:none; color:#2A6049; font-size:14px; font-weight:500;">
           <span>{hubCity.name}（拠点都市）から行ける旅先を見る</span>
