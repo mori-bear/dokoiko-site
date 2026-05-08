@@ -413,6 +413,15 @@ try {
     object-fit: cover;
     display: block;
   }
+  .rc-unsplash-credit {
+    position: absolute;
+    bottom: 6px;
+    right: 8px;
+    font-size: 9px;
+    color: rgba(255,255,255,0.75);
+    line-height: 1;
+  }
+  .rc-unsplash-credit a { color: inherit; text-decoration: underline; }
   .rc-condition {
     font-size: 11px;
     color: #aaa;
@@ -1029,8 +1038,12 @@ function showResult(city: any) {
   inner.innerHTML = `
     <p class="rc-condition">${condSummary}</p>
     <div class="rc-photo-wrap">
-      <img class="rc-hero-img" src="/images/${city.id}.jpg" alt="${name}の風景"
-           onerror="this.closest('.rc-photo-wrap').style.display='none'" loading="lazy" />
+      <img class="rc-hero-img"
+           src="${city.unsplashUrl ? city.unsplashUrl : '/images/' + city.id + '.jpg'}"
+           alt="${name}の風景"
+           onerror="if(!this.dataset.tried&&'${city.unsplashUrl||''}'){this.dataset.tried='1';this.src='${city.unsplashUrl||''}'}else{this.closest('.rc-photo-wrap').style.display='none'}"
+           loading="lazy" />
+      ${city.unsplashCredit ? `<p class="rc-unsplash-credit">Photo by <a href="${city.unsplashCreditUrl}" target="_blank" rel="noopener">${city.unsplashCredit}</a> on Unsplash</p>` : ''}
     </div>
     <span class="rc-eyebrow">${timeStr ? `${state.departure}から ${timeStr}` : state.departure + 'から'}</span>
     <h2 class="rc-name">${name}</h2>
@@ -1039,7 +1052,7 @@ function showResult(city: any) {
     ${city.description ? `<p class="rc-desc">${city.description}</p>` : ''}
     ${city.spots?.length ? `<p class="rc-spots">${(city.spots as string[]).slice(0, 3).join(' · ')}</p>` : ''}
     <div class="rc-actions">
-      <a href="/destinations/${city.id}/" class="rc-btn-primary">詳しく見る →</a>
+      <a href="/destinations/${city.id}/" class="rc-btn-primary">${name}を旅する →</a>
     </div>
   `;
 

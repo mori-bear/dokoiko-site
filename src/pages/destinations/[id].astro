@@ -20,7 +20,12 @@ const article = fs.existsSync(articlePath)
   : null;
 
 const hasImage = fs.existsSync(path.join(process.cwd(), 'public/images', `${dest.id}.jpg`));
-const imageUrl = hasImage ? `https://tabidokoiko.com/images/${dest.id}.jpg` : null;
+const localImageUrl  = hasImage ? `https://tabidokoiko.com/images/${dest.id}.jpg` : null;
+const unsplashUrl    = !hasImage ? ((dest as any).unsplashUrl ?? null) : null;
+const imageUrl       = localImageUrl ?? unsplashUrl;
+const unsplashCredit    = unsplashUrl ? ((dest as any).unsplashCredit ?? null) : null;
+const unsplashCreditUrl = unsplashUrl ? ((dest as any).unsplashCreditUrl ?? null) : null;
+const unsplashPhotoUrl  = unsplashUrl ? ((dest as any).unsplashPhotoUrl ?? null) : null;
 
 const seoTitle = `【${dest.name}】おすすめ観光スポット${dest.spots?.length || 3}選｜${dest.prefecture}の旅`;
 const description = article?.lead?.slice(0, 120) || dest.description || `${dest.name}（${dest.prefecture}）への行き方・宿・観光スポット情報。`;
@@ -737,6 +742,13 @@ const hubCity = hubName
   )}
 
   <div class="content">
+
+    <!-- Unsplash クレジット -->
+    {unsplashCredit && (
+      <p style="font-size:10px; color:#bbb; text-align:right; margin:-8px 0 12px; letter-spacing:0.04em;">
+        Photo by <a href={unsplashCreditUrl} target="_blank" rel="noopener noreferrer" style="color:#bbb; text-decoration:underline;">{unsplashCredit}</a> on <a href={unsplashPhotoUrl} target="_blank" rel="noopener noreferrer" style="color:#bbb; text-decoration:underline;">Unsplash</a>
+      </p>
+    )}
 
     <!-- パンくず -->
     <nav class="breadcrumb">
