@@ -646,6 +646,63 @@ const hubCity = hubName
     transition: opacity 0.2s, transform 0.15s;
   }
   .cta-btn:hover { opacity: 0.9; transform: translateY(-1px); }
+
+  /* ═══════════════════════════════════════
+     SHARE
+  ═══════════════════════════════════════ */
+  .share-section {
+    margin: 24px 0 32px;
+    padding: 20px 20px;
+    border: 1px solid #e8e8e8;
+    border-radius: 10px;
+    background: #fafafa;
+  }
+  .share-label {
+    font-size: 10px;
+    letter-spacing: 0.18em;
+    color: #bbb;
+    text-transform: uppercase;
+    margin-bottom: 12px;
+    display: block;
+  }
+  .share-native-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    width: 100%;
+    padding: 14px;
+    background: #333;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 0.05em;
+    cursor: pointer;
+    transition: opacity 0.15s;
+  }
+  .share-native-btn:hover { opacity: 0.85; }
+  .share-fallback {
+    display: flex;
+    gap: 10px;
+  }
+  .share-x-btn, .share-line-btn {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    padding: 13px 10px;
+    border-radius: 8px;
+    font-size: 13px;
+    font-weight: 500;
+    text-decoration: none;
+    transition: opacity 0.15s;
+  }
+  .share-x-btn { background: #000; color: #fff; }
+  .share-line-btn { background: #06C755; color: #fff; }
+  .share-x-btn:hover, .share-line-btn:hover { opacity: 0.85; }
 </style>
 
   <!-- Hero: 画像あり / なし で分岐 -->
@@ -926,6 +983,39 @@ const hubCity = hubName
       </div>
     )}
 
+    <!-- シェアボタン -->
+    <div class="share-section">
+      <span class="share-label">Share</span>
+      <button
+        class="share-native-btn"
+        id="share-native-btn"
+        data-title={`【どこ行こ？】${dest.name}への旅｜tabidokoiko.com`}
+        data-url={`https://tabidokoiko.com/destinations/${dest.id}/`}
+        style="display:none;"
+      >
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/></svg>
+        この旅先をシェアする
+      </button>
+      <div class="share-fallback" id="share-fallback">
+        <a
+          href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(`【どこ行こ？】${dest.name}への旅｜tabidokoiko.com`)}&url=${encodeURIComponent(`https://tabidokoiko.com/destinations/${dest.id}/`)}`}
+          target="_blank" rel="noopener noreferrer"
+          class="share-x-btn"
+        >
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.748l7.73-8.835L1.254 2.25H8.08l4.259 5.63zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+          X でシェア
+        </a>
+        <a
+          href={`https://social-plugins.line.me/lineit/share?url=${encodeURIComponent(`https://tabidokoiko.com/destinations/${dest.id}/`)}`}
+          target="_blank" rel="noopener noreferrer"
+          class="share-line-btn"
+        >
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M19.365 9.863c.349 0 .63.285.63.631 0 .345-.281.63-.63.63H17.61v1.125h1.755c.349 0 .63.283.63.63 0 .344-.281.629-.63.629h-2.386c-.345 0-.627-.285-.627-.629V8.108c0-.345.282-.63.627-.63h2.386c.349 0 .63.285.63.63 0 .349-.281.63-.63.63H17.61v1.125h1.755zm-3.855 3.016c0 .27-.174.51-.432.596-.064.021-.133.031-.199.031-.211 0-.391-.09-.51-.25l-2.443-3.317v2.94c0 .344-.279.629-.631.629-.346 0-.626-.285-.626-.629V8.108c0-.27.173-.51.43-.595.06-.023.136-.033.194-.033.195 0 .375.104.495.254l2.462 3.33V8.108c0-.345.282-.63.63-.63.345 0 .63.285.63.63v4.771zm-5.741 0c0 .344-.282.629-.631.629-.345 0-.627-.285-.627-.629V8.108c0-.345.282-.63.627-.63.349 0 .631.285.631.63v4.771zm-2.466.629H4.917c-.345 0-.63-.285-.63-.629V8.108c0-.345.285-.63.63-.63.348 0 .63.285.63.63v4.141h1.756c.348 0 .629.283.629.63 0 .344-.281.629-.629.629M24 10.314C24 4.943 18.615.572 12 .572S0 4.943 0 10.314c0 4.811 4.27 8.842 10.035 9.608.391.082.923.258 1.058.59.12.301.079.766.038 1.08l-.164 1.02c-.045.301-.24 1.186 1.049.645 1.291-.539 6.916-4.078 9.436-6.975C23.176 14.393 24 12.458 24 10.314"/></svg>
+          LINE でシェア
+        </a>
+      </div>
+    </div>
+
     <!-- CTA -->
     <div class="cta-section">
       <span class="cta-label">Travel Planning</span>
@@ -935,3 +1025,26 @@ const hubCity = hubName
 
   </div>
 </DestinationLayout>
+
+<script>
+  const nativeBtn = document.getElementById('share-native-btn') as HTMLButtonElement | null;
+  const fallback  = document.getElementById('share-fallback') as HTMLElement | null;
+
+  if (nativeBtn && fallback) {
+    if (navigator.share) {
+      nativeBtn.style.display = 'flex';
+      fallback.style.display  = 'none';
+      nativeBtn.addEventListener('click', async () => {
+        try {
+          await navigator.share({
+            title: nativeBtn.dataset.title ?? '',
+            url:   nativeBtn.dataset.url   ?? window.location.href,
+          });
+        } catch (_) { /* user cancelled */ }
+      });
+    } else {
+      nativeBtn.style.display = 'none';
+      fallback.style.display  = 'flex';
+    }
+  }
+</script>
