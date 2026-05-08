@@ -205,8 +205,8 @@ try {
   }
   .slider-track::-webkit-scrollbar { display: none; }
   .slider-card {
-    flex: 0 0 220px;
-    height: 280px;
+    flex: 0 0 200px;
+    height: 260px;
     border-radius: 14px;
     overflow: hidden;
     position: relative;
@@ -410,6 +410,14 @@ try {
     height: 100%;
     object-fit: cover;
     display: block;
+  }
+  .rc-condition {
+    font-size: 11px;
+    color: #aaa;
+    letter-spacing: 0.06em;
+    margin-bottom: 18px;
+    padding-bottom: 14px;
+    border-bottom: 1px solid #f0f0f0;
   }
   .rc-eyebrow {
     font-size: 10px;
@@ -666,7 +674,7 @@ try {
   </div>
 
   <!-- ② 注目記事スライダー -->
-  <section class="featured-section">
+  <section class="featured-section" id="featured">
     <div class="featured-header">
       <span class="featured-eyebrow">Featured</span>
       <h2 class="featured-title">注目の旅先</h2>
@@ -674,7 +682,8 @@ try {
     <div class="slider-track">
       {featuredDests.map((d: any) => (
         <a href={`/destinations/${d.id}/`} class="slider-card">
-          <img src={`/images/${d.id}.jpg`} alt={d.name} loading="lazy" class="slider-card-img" />
+          <img src={`/images/${d.id}.jpg`} alt={d.name} loading="lazy" class="slider-card-img"
+               onerror="this.closest('.slider-card').style.display='none'" />
           <div class="slider-card-grad"></div>
           <div class="slider-card-body">
             <p class="slider-card-sub">{REGION_EN[d.region] || d.region}</p>
@@ -687,7 +696,6 @@ try {
 
   <!-- ③ 旅先提案UI -->
   <section class="app-section" id="app">
-    <span class="section-eyebrow">Find Your Destination</span>
     <h2 class="section-heading">旅先を1分で決める</h2>
     <p class="section-lead">出発地・日数・テーマを選ぶだけ</p>
 
@@ -736,7 +744,7 @@ try {
   </section>
 
   <!-- ④ Japan SVG Map + Region Drilldown -->
-  <section class="map-section">
+  <section class="map-section" id="map">
     <span class="section-eyebrow">Destinations</span>
     <h2 class="section-heading">地域から探す</h2>
     <p class="section-lead">地図または地域ボタンを選択</p>
@@ -822,6 +830,7 @@ if (savedDep && DEPARTURES.includes(savedDep)) {
   const nightsParam = params.get('nights');
   const themeParam  = params.get('theme');
   const destParam   = params.get('dest');
+  const regionParam = params.get('region');
 
   if (fromParam && DEPARTURES.includes(fromParam)) {
     state.departure = fromParam;
@@ -855,6 +864,9 @@ if (savedDep && DEPARTURES.includes(savedDep)) {
         if (found) { state.pool.unshift(found); state.poolIndex = 0; }
       }
       if (state.pool.length) showResult(state.pool[state.poolIndex]);
+    } else if (regionParam !== null) {
+      applyFilter(regionParam);
+      document.getElementById('map')?.scrollIntoView({ behavior: 'auto' });
     } else if (fromParam || nightsParam || themeParam) {
       go();
     }
@@ -937,8 +949,13 @@ function showResult(city: any) {
     ? [...(city.primary ?? []), ...(city.secondary ?? [])]
     : (city.tags ?? []);
 
+  const stayLabel: Record<string, string> = { daytrip: '日帰り', '1night': '1泊', '2night': '2泊以上' };
+  const condParts = [state.departure, stayLabel[state.stayType] ?? state.stayType, ...(state.theme ? [state.theme] : [])];
+  const condSummary = condParts.join(' / ');
+
   const inner = document.getElementById('result-inner')!;
   inner.innerHTML = `
+    <p class="rc-condition">${condSummary}</p>
     <div class="rc-photo-wrap">
       <img class="rc-hero-img" src="/images/${city.id}.jpg" alt="${name}の風景"
            onerror="this.closest('.rc-photo-wrap').style.display='none'" loading="lazy" />

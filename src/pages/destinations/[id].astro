@@ -54,15 +54,48 @@ const railNote: string = (dest as any).railNote || '';
 const isBusOnly = railNote.includes('バス') && !!(dest as any).hub;
 
 const hotelLinks = (dest as any).hotelLinks as { rakuten: string; jalan: string } | null | undefined;
-const rakutenHotelUrl = hotelLinks?.rakuten || '';
-const jalanHotelUrl = hotelLinks?.jalan || '';
 
-const hotelSectionTitle = isDaytripOnly && hubName
+// Fix1: Rakuten URLをキーワードのみで再生成（余分な "香川県 宿" 等を除去）
+const RAKUTEN_AFF = 'https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/';
+const JALAN_AFF   = 'https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=';
+
+function buildRakutenUrl(keyword: string): string {
+  const target = `https://travel.rakuten.co.jp/yado/japan.html?f_query=${encodeURIComponent(keyword)}`;
+  return `${RAKUTEN_AFF}?pc=${encodeURIComponent(target)}`;
+}
+function buildJalanUrl(keyword: string): string {
+  const target = `https://www.jalan.net/uw/uwp2011/uww2011init.do?keyword=${encodeURIComponent(keyword)}`;
+  return `${JALAN_AFF}${encodeURIComponent(target)}`;
+}
+
+const hotelKeyword = (dest as any).hotelSearch || dest.name;
+const rakutenHotelUrl = hotelLinks?.rakuten || buildRakutenUrl(hotelKeyword);
+const jalanHotelUrl = hotelLinks?.jalan || buildJalanUrl(hotelKeyword);
+
+// Fix2: 島系は自島＋ハブの2セクション
+const isIsland: boolean = !!(dest as any).isIsland;
+const showDualHotel = isIsland && !!hubName;
+
+let hubRakutenUrl = '';
+let hubJalanUrl   = '';
+if (showDualHotel) {
+  const hubDest = (destinations as any[]).find((d: any) => d.name === hubName && d.hotelLinks);
+  if (hubDest) {
+    const hubKeyword = hubDest.hotelSearch || hubDest.name;
+    hubRakutenUrl = hubDest.hotelLinks.rakuten || buildRakutenUrl(hubKeyword);
+    hubJalanUrl   = hubDest.hotelLinks.jalan || buildJalanUrl(hubName);
+  } else {
+    hubRakutenUrl = buildRakutenUrl(hubName);
+    hubJalanUrl   = buildJalanUrl(hubName);
+  }
+}
+
+const hotelSectionTitle = isDaytripOnly && hubName && !isIsland
   ? `${hubName}の宿を探す`
-  : isBusOnly && hubName
+  : isBusOnly && hubName && !isIsland
     ? `${hubName}周辺の宿を探す`
     : `${dest.name}の宿を探す`;
-const daytripNote = isDaytripOnly && hubName
+const daytripNote = isDaytripOnly && hubName && !isIsland
   ? `${dest.name}へは${hubName}から日帰りがおすすめ`
   : '';
 
@@ -739,31 +772,76 @@ const nearbyDests = (destinations as any[])
       )}
     </div>
 
-    <hr class="section-divider" />
+    <hr class="section-divider" id="hotel" />
 
     <!-- 宿泊 -->
-    {hotelLinks && (
-    <div class="hotel-section">
-      <h2 class="section-title">{hotelSectionTitle}</h2>
-      {daytripNote && <p class="hotel-description" style="font-size:13px;color:#888;">{daytripNote}</p>}
-      {stayNote && <p class="hotel-description">{stayNote}</p>}
-      <div class="hotel-cards">
-        <a href={rakutenHotelUrl} target="_blank" rel="noopener noreferrer" class="hotel-card hotel-card-rakuten">
-          <div>
-            <p class="hotel-card-name">楽天トラベル</p>
-            <p class="hotel-card-desc">ポイントが貯まる・使える</p>
+    {showDualHotel ? (
+      <>
+        <!-- 島系: 自島の宿 -->
+        <div class="hotel-section">
+          <h2 class="section-title">{dest.name}の宿を探す</h2>
+          {stayNote && <p class="hotel-description">{stayNote}</p>}
+          <div class="hotel-cards">
+            <a href={rakutenHotelUrl} target="_blank" rel="noopener noreferrer" class="hotel-card hotel-card-rakuten">
+              <div>
+                <p class="hotel-card-name">楽天トラベル</p>
+                <p class="hotel-card-desc">ポイントが貯まる・使える</p>
+              </div>
+              <span class="hotel-card-arrow">→</span>
+            </a>
+            <a href={jalanHotelUrl} target="_blank" rel="noopener noreferrer" class="hotel-card hotel-card-jalan">
+              <div>
+                <p class="hotel-card-name">じゃらん</p>
+                <p class="hotel-card-desc">国内旅行・宿泊予約</p>
+              </div>
+              <span class="hotel-card-arrow">→</span>
+            </a>
           </div>
-          <span class="hotel-card-arrow">→</span>
-        </a>
-        <a href={jalanHotelUrl} target="_blank" rel="noopener noreferrer" class="hotel-card hotel-card-jalan">
-          <div>
-            <p class="hotel-card-name">じゃらん</p>
-            <p class="hotel-card-desc">国内旅行・宿泊予約</p>
+        </div>
+        <!-- 島系: ハブ都市の宿 -->
+        <div class="hotel-section" style="margin-top:24px;">
+          <h2 class="section-title">{hubName}の宿を探す</h2>
+          <p class="hotel-description" style="font-size:13px;color:#888;">{hubName}を拠点に{dest.name}へ日帰り・宿泊の旅も人気です</p>
+          <div class="hotel-cards">
+            <a href={hubRakutenUrl} target="_blank" rel="noopener noreferrer" class="hotel-card hotel-card-rakuten">
+              <div>
+                <p class="hotel-card-name">楽天トラベル</p>
+                <p class="hotel-card-desc">ポイントが貯まる・使える</p>
+              </div>
+              <span class="hotel-card-arrow">→</span>
+            </a>
+            <a href={hubJalanUrl} target="_blank" rel="noopener noreferrer" class="hotel-card hotel-card-jalan">
+              <div>
+                <p class="hotel-card-name">じゃらん</p>
+                <p class="hotel-card-desc">国内旅行・宿泊予約</p>
+              </div>
+              <span class="hotel-card-arrow">→</span>
+            </a>
           </div>
-          <span class="hotel-card-arrow">→</span>
-        </a>
+        </div>
+      </>
+    ) : hotelLinks && (
+      <div class="hotel-section">
+        <h2 class="section-title">{hotelSectionTitle}</h2>
+        {daytripNote && <p class="hotel-description" style="font-size:13px;color:#888;">{daytripNote}</p>}
+        {stayNote && <p class="hotel-description">{stayNote}</p>}
+        <div class="hotel-cards">
+          <a href={rakutenHotelUrl} target="_blank" rel="noopener noreferrer" class="hotel-card hotel-card-rakuten">
+            <div>
+              <p class="hotel-card-name">楽天トラベル</p>
+              <p class="hotel-card-desc">ポイントが貯まる・使える</p>
+            </div>
+            <span class="hotel-card-arrow">→</span>
+          </a>
+          <a href={jalanHotelUrl} target="_blank" rel="noopener noreferrer" class="hotel-card hotel-card-jalan">
+            <div>
+              <p class="hotel-card-name">じゃらん</p>
+              <p class="hotel-card-desc">国内旅行・宿泊予約</p>
+            </div>
+            <span class="hotel-card-arrow">→</span>
+          </a>
+        </div>
       </div>
-    </div>
     )}
 
     <hr class="section-divider" />
