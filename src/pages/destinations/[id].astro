@@ -59,8 +59,22 @@ const hotelLinks = (dest as any).hotelLinks as { rakuten: string; jalan: string 
 const RAKUTEN_AFF = 'https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/';
 const JALAN_AFF   = 'https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=';
 
+const HUB_CITY_TO_PREF: Record<string, string> = {
+  '那覇': 'okinawa', '広島': 'hiroshima', '東京': 'tokyo', '鹿児島': 'kagoshima',
+  '岡山': 'okayama', '長崎': 'nagasaki', '札幌': 'hokkaido', '新潟': 'niigata',
+  '高知': 'kochi', '山形': 'yamagata', '大阪': 'osaka', '名古屋': 'aichi',
+  '松山': 'ehime', '高松': 'kagawa', '神戸': 'hyogo', '福岡': 'fukuoka',
+  '熊本': 'kumamoto', '宮崎': 'miyazaki', '大分': 'oita', '仙台': 'miyagi',
+  '盛岡': 'iwate', '秋田': 'akita', '青森': 'aomori', '函館': 'hokkaido',
+  '旭川': 'hokkaido', '釧路': 'hokkaido', '稚内': 'hokkaido',
+};
+
 function buildRakutenUrl(keyword: string): string {
   const target = `https://travel.rakuten.co.jp/yado/japan.html?f_query=${encodeURIComponent(keyword)}`;
+  return `${RAKUTEN_AFF}?pc=${encodeURIComponent(target)}`;
+}
+function buildRakutenPrefUrl(prefSlug: string): string {
+  const target = `https://travel.rakuten.co.jp/yado/${prefSlug}/`;
   return `${RAKUTEN_AFF}?pc=${encodeURIComponent(target)}`;
 }
 function buildJalanUrl(keyword: string): string {
@@ -85,7 +99,8 @@ if (showDualHotel) {
     hubRakutenUrl = hubDest.hotelLinks.rakuten || buildRakutenUrl(hubKeyword);
     hubJalanUrl   = hubDest.hotelLinks.jalan || buildJalanUrl(hubName);
   } else {
-    hubRakutenUrl = buildRakutenUrl(hubName);
+    const hubPref = HUB_CITY_TO_PREF[hubName];
+    hubRakutenUrl = hubPref ? buildRakutenPrefUrl(hubPref) : buildRakutenUrl(hubName);
     hubJalanUrl   = buildJalanUrl(hubName);
   }
 }
