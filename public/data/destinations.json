@@ -1013,7 +1013,7 @@
       "nagoya": 155,
       "fukuoka": 120,
       "takamatsu": 210,
-      "naha": 60,
+      "naha": 90,
       "wakayama": 150,
       "mito": 165,
       "maebashi": 180,
@@ -1859,7 +1859,8 @@
       "shimonoseki": 465,
       "saga": 465,
       "oita": 495,
-      "beppu": 505
+      "beppu": 505,
+      "sendai": 40
     },
     "stayRecommendation": "1night",
     "secondaryTransport": null,
@@ -2017,7 +2018,8 @@
       "shimonoseki": 135,
       "saga": 135,
       "oita": 165,
-      "beppu": 175
+      "beppu": 175,
+      "hiroshima": 30
     },
     "stayRecommendation": "daytrip",
     "secondaryTransport": null,
@@ -2333,7 +2335,7 @@
       "osaka": 105,
       "nagoya": 160,
       "fukuoka": 165,
-      "takamatsu": 5,
+      "takamatsu": 65,
       "mito": 290,
       "maebashi": 305,
       "takasaki": 305,
@@ -2605,7 +2607,7 @@
     },
     "hotelLinks": {
       "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Ftottori%2F",
-      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2592%25B9%258E%25E6%258C%25A7%2520%2595%25C4%258E%2571"
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2594%25FC%2595%25DB%258A%25D6"
     },
     "accessType": "car",
     "tier": "area",
@@ -2824,7 +2826,7 @@
       "nagoya": 155,
       "fukuoka": 155,
       "takamatsu": 155,
-      "naha": 30,
+      "naha": 65,
       "wakayama": 185,
       "mito": 200,
       "maebashi": 215,
@@ -3005,7 +3007,7 @@
       "nagoya": 155,
       "fukuoka": 155,
       "takamatsu": 155,
-      "naha": 30,
+      "naha": 70,
       "wakayama": 185,
       "mito": 200,
       "maebashi": 215,
@@ -3190,7 +3192,7 @@
       "nagoya": 155,
       "fukuoka": 120,
       "takamatsu": 210,
-      "naha": 60,
+      "naha": 80,
       "wakayama": 150,
       "mito": 165,
       "maebashi": 180,
@@ -3344,7 +3346,7 @@
     "airportHub": null,
     "railProvider": null,
     "travelTime": {
-      "tokyo": 20,
+      "tokyo": 145,
       "osaka": 160,
       "nagoya": 105,
       "fukuoka": 310,
@@ -4144,7 +4146,7 @@
     "airportHub": null,
     "railProvider": null,
     "travelTime": {
-      "tokyo": 20,
+      "tokyo": 115,
       "osaka": 160,
       "nagoya": 105,
       "fukuoka": 310,
@@ -5268,7 +5270,7 @@
     "travelTime": {
       "tokyo": 215,
       "osaka": 185,
-      "nagoya": 130,
+      "nagoya": 110,
       "fukuoka": 335,
       "takamatsu": 285,
       "mito": 260,
@@ -6168,7 +6170,7 @@
     },
     "hotelLinks": {
       "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fkumamoto%2Famakusa.html",
-      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%258C%2546%2596%257B%258C%25A7%2520%258C%2546%2596%257B%258E%2573"
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2593%2556%2591%2590"
     },
     "tier": "spot",
     "icCard": "nimoca",
@@ -7019,7 +7021,8 @@
       "shimonoseki": 230,
       "saga": 230,
       "oita": 260,
-      "beppu": 270
+      "beppu": 270,
+      "hiroshima": 45
     },
     "stayRecommendation": "1night",
     "secondaryTransport": null,
@@ -7107,7 +7110,7 @@
     "name": "直島",
     "type": "destination",
     "region": "四国",
-    "hub": "岡山",
+    "hub": "高松",
     "stayAllowed": [
       "1night"
     ],
@@ -7157,7 +7160,7 @@
       "osaka": 105,
       "nagoya": 160,
       "fukuoka": 165,
-      "takamatsu": 5,
+      "takamatsu": 50,
       "mito": 290,
       "maebashi": 305,
       "takasaki": 305,
@@ -7268,7 +7271,7 @@
     "tier": "spot",
     "icCard": "icoca",
     "tier2": "spot",
-    "hubName": "岡山"
+    "hubName": "高松"
   },
   {
     "id": "kotohira",
@@ -8199,7 +8202,7 @@
     },
     "hotelLinks": {
       "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fishikawa%2F",
-      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2590%25CE%2590%25EC%258C%25A7%2520%258B%25E0%2591%25F2%258E%2573"
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2597%25D6%2593%2587"
     },
     "tier": "spot",
     "icCard": "icoca",
@@ -8822,7 +8825,6 @@
     "region": "九州",
     "hub": "鹿児島",
     "stayAllowed": [
-      "daytrip",
       "1night"
     ],
     "departures": [
@@ -8869,7 +8871,7 @@
       "tokyo": 455,
       "osaka": 315,
       "nagoya": 370,
-      "fukuoka": 165,
+      "fukuoka": 128,
       "takamatsu": 325,
       "mito": 500,
       "maebashi": 515,
@@ -9020,7 +9022,7 @@
       "tokyo": 430,
       "osaka": 290,
       "nagoya": 345,
-      "fukuoka": 140,
+      "fukuoka": 90,
       "takamatsu": 300,
       "mito": 475,
       "maebashi": 490,
@@ -9905,7 +9907,7 @@
     "airportHub": null,
     "railProvider": "ekinet",
     "travelTime": {
-      "tokyo": 130,
+      "tokyo": 110,
       "osaka": 270,
       "nagoya": 215,
       "fukuoka": 420,
@@ -11173,7 +11175,7 @@
       "tokyo": 310,
       "osaka": 170,
       "nagoya": 225,
-      "fukuoka": 20,
+      "fukuoka": 90,
       "takamatsu": 180,
       "mito": 355,
       "maebashi": 370,
@@ -14055,7 +14057,8 @@
       "shimonoseki": 550,
       "saga": 550,
       "oita": 580,
-      "beppu": 590
+      "beppu": 590,
+      "sendai": 130
     },
     "stayRecommendation": "1night",
     "city": "福島大内宿",
@@ -18014,7 +18017,7 @@
     },
     "hotelLinks": {
       "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fhokkaido%2F",
-      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2596%256B%258A%2543%2593%25B9%2520%258F%25AC%2592%254D%258E%2573"
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2590%25CF%2592%254F"
     },
     "tier": "spot",
     "icCard": "suica",
@@ -18775,7 +18778,7 @@
       "nagoya": 185,
       "fukuoka": 150,
       "takamatsu": 240,
-      "naha": 90,
+      "naha": 155,
       "mito": 195,
       "maebashi": 210,
       "takasaki": 210,
@@ -18791,7 +18794,7 @@
       "saga": 180,
       "oita": 210,
       "beppu": 220,
-      "ishigaki": 150,
+      "ishigaki": 65,
       "miyako": 140
     },
     "stayRecommendation": "1night",
@@ -20391,7 +20394,7 @@
     },
     "hotelLinks": {
       "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Ffukuoka%2F",
-      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2595%259F%2589%25AA%258C%25A7%2520%2595%259F%2589%25AA%258E%2573"
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%258E%2585%2593%2587"
     },
     "tier": "spot",
     "icCard": "nimoca",
@@ -20563,7 +20566,7 @@
     },
     "hotelLinks": {
       "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fnagasaki%2F",
-      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%25E6%257C%2591%2581"
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2593%2587%258C%25B4"
     },
     "tier": "spot",
     "icCard": "nimoca",
@@ -20870,7 +20873,7 @@
     },
     "hotelLinks": {
       "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fkagawa%2F",
-      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%258D%2581%2590%25EC%258C%25A7%2520%258D%2582%258F%25BC%258E%2573"
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%258E%2575%2581%2558%2593%2587"
     },
     "accessType": "ferry",
     "tier": "spot",
@@ -21228,7 +21231,7 @@
     },
     "hotelLinks": {
       "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fhokkaido%2F",
-      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2597%25E7%2595%25B6"
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2597%25E7%2595%25B6%2593%2587"
     },
     "accessType": "ferry",
     "tier": "spot",
@@ -21408,7 +21411,7 @@
     },
     "hotelLinks": {
       "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fhokkaido%2F",
-      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2597%2598%2590%254B"
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2597%2598%2590%254B%2593%2587"
     },
     "accessType": "ferry",
     "tier": "spot",
@@ -22050,7 +22053,7 @@
     "name": "男鹿",
     "type": "destination",
     "region": "東北",
-    "hub": "仙台",
+    "hub": "秋田",
     "stayAllowed": [
       "1night"
     ],
@@ -22119,7 +22122,8 @@
       "shimonoseki": 580,
       "saga": 580,
       "oita": 610,
-      "beppu": 620
+      "beppu": 620,
+      "akita": 60
     },
     "stayRecommendation": "2night",
     "secondaryTransport": null,
@@ -22201,13 +22205,13 @@
     },
     "hotelLinks": {
       "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fakita%2F",
-      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%258F%2548%2593%2563%258C%25A7%2520%2592%256A%258E%25AD%2589%25B7%2590%25F2"
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2592%256A%258E%25AD"
     },
     "accessType": "car",
     "tier": "area",
     "icCard": "suica",
     "tier2": "area",
-    "hubName": "仙台"
+    "hubName": "秋田"
   },
   {
     "id": "yonezawa",
@@ -23631,7 +23635,7 @@
     "railProvider": null,
     "secondaryTransport": "ferry",
     "travelTime": {
-      "tokyo": 110,
+      "tokyo": 170,
       "osaka": 250,
       "nagoya": 195,
       "fukuoka": 400,
@@ -23742,7 +23746,7 @@
     },
     "hotelLinks": {
       "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fniigata%2Fsado.html",
-      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%258D%25B2%2593%256E"
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%258D%25B2%2593%256E%2593%2587"
     },
     "accessType": "ferry",
     "tier": "spot",
@@ -24806,7 +24810,7 @@
     },
     "hotelLinks": {
       "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fshizuoka%2F",
-      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2590%25C3%2589%25AA%258C%25A7%2520%2589%25BA%2593%2563%258E%2573"
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2593%25EC%2588%25C9%2593%25A4"
     },
     "tier": "spot",
     "icCard": "suica",
@@ -26716,7 +26720,8 @@
       "shimonoseki": 180,
       "saga": 180,
       "oita": 210,
-      "beppu": 220
+      "beppu": 220,
+      "hiroshima": 70
     },
     "stayRecommendation": "1night",
     "city": "周防大島町",
@@ -28383,7 +28388,7 @@
       "tokyo": 250,
       "osaka": 170,
       "nagoya": 225,
-      "fukuoka": 20,
+      "fukuoka": 50,
       "takamatsu": 180,
       "mito": 295,
       "maebashi": 310,
@@ -28561,7 +28566,7 @@
       "tokyo": 250,
       "osaka": 170,
       "nagoya": 225,
-      "fukuoka": 20,
+      "fukuoka": 75,
       "takamatsu": 180,
       "mito": 295,
       "maebashi": 310,
@@ -29069,7 +29074,7 @@
       "nagoya": 185,
       "fukuoka": 150,
       "takamatsu": 240,
-      "naha": 90,
+      "naha": 120,
       "mito": 195,
       "maebashi": 210,
       "takasaki": 210,
@@ -29085,7 +29090,7 @@
       "saga": 180,
       "oita": 210,
       "beppu": 220,
-      "ishigaki": 150,
+      "ishigaki": 30,
       "miyako": 140
     },
     "stayRecommendation": "1night",
@@ -29253,7 +29258,7 @@
       "nagoya": 185,
       "fukuoka": 150,
       "takamatsu": 240,
-      "naha": 120,
+      "naha": 150,
       "mito": 195,
       "maebashi": 210,
       "takasaki": 210,
@@ -29269,7 +29274,7 @@
       "saga": 180,
       "oita": 210,
       "beppu": 220,
-      "ishigaki": 180,
+      "ishigaki": 60,
       "miyako": 170
     },
     "stayRecommendation": "2night",
@@ -29448,7 +29453,8 @@
       "shimonoseki": 190,
       "saga": 190,
       "oita": 220,
-      "beppu": 230
+      "beppu": 230,
+      "naha": 100
     },
     "stayRecommendation": "1night",
     "city": "今帰仁村",
@@ -29523,7 +29529,7 @@
     },
     "hotelLinks": {
       "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fokinawa%2F",
-      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2589%25AB%2593%25EA%258C%25A7%2520%2593%25DF%2594%2565%258E%2573"
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%258D%25A1%258B%2541%2590%256D"
     },
     "tier": "spot",
     "icCard": null,
@@ -29679,7 +29685,7 @@
     },
     "hotelLinks": {
       "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fokinawa%2F",
-      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2589%25AB%2593%25EA%258C%25A7%2520%2593%25DF%2594%2565%258E%2573"
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2596%257B%2595%2594"
     },
     "tier": "spot",
     "icCard": null,
@@ -29756,7 +29762,7 @@
       "nagoya": 155,
       "fukuoka": 155,
       "takamatsu": 155,
-      "naha": 45,
+      "naha": 80,
       "wakayama": 185,
       "mito": 200,
       "maebashi": 215,
@@ -29939,7 +29945,7 @@
       "nagoya": 160,
       "fukuoka": 160,
       "takamatsu": 160,
-      "naha": 30,
+      "naha": 100,
       "mito": 205,
       "maebashi": 220,
       "takasaki": 220,
@@ -30122,7 +30128,7 @@
       "nagoya": 195,
       "fukuoka": 160,
       "takamatsu": 250,
-      "naha": 90,
+      "naha": 135,
       "mito": 205,
       "maebashi": 220,
       "takasaki": 220,
@@ -30138,7 +30144,7 @@
       "saga": 190,
       "oita": 220,
       "beppu": 230,
-      "ishigaki": 150,
+      "ishigaki": 45,
       "miyako": 140
     },
     "stayRecommendation": "1night",
@@ -37504,7 +37510,7 @@
       "tokyo": 285,
       "osaka": 200,
       "nagoya": 255,
-      "fukuoka": 165,
+      "fukuoka": 220,
       "takamatsu": 255,
       "mito": 330,
       "maebashi": 345,
@@ -38006,7 +38012,8 @@
       "shimonoseki": 145,
       "saga": 145,
       "oita": 175,
-      "beppu": 185
+      "beppu": 185,
+      "naha": 75
     },
     "stayRecommendation": "2night",
     "secondaryTransport": "bus",
@@ -38079,7 +38086,7 @@
     },
     "hotelLinks": {
       "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fokinawa%2F",
-      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2589%25AB%2593%25EA%258C%25A7%2520%2593%25DF%2594%2565%258E%2573"
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2589%25B6%2594%255B"
     },
     "tier": "spot",
     "icCard": null,
@@ -43780,7 +43787,7 @@
       "osaka": 105,
       "nagoya": 155,
       "fukuoka": 165,
-      "takamatsu": 15,
+      "takamatsu": 40,
       "mito": 300,
       "maebashi": 315,
       "takasaki": 315,
@@ -45329,7 +45336,7 @@
       "tokyo": 370,
       "osaka": 265,
       "nagoya": 315,
-      "fukuoka": 150,
+      "fukuoka": 240,
       "takamatsu": 260,
       "niigata": 180,
       "mito": 415,
@@ -45433,7 +45440,7 @@
     },
     "hotelLinks": {
       "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fnagasaki%2F",
-      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%258F%25AC%2592%256C%2589%25EA"
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%258F%25AC%2592%256C%2589%25EA%2593%2587"
     },
     "accessType": "ferry",
     "tier": "spot",
@@ -45507,7 +45514,7 @@
       "nagoya": 265,
       "fukuoka": 155,
       "takamatsu": 235,
-      "naha": 60,
+      "naha": 110,
       "wakayama": 265,
       "mito": 255,
       "maebashi": 270,
@@ -45524,8 +45531,8 @@
       "saga": 185,
       "oita": 215,
       "beppu": 225,
-      "ishigaki": 120,
-      "miyako": 110
+      "ishigaki": 95,
+      "miyako": 30
     },
     "hotelArea": "okinawa",
     "port": null,
@@ -146018,7 +146025,7 @@
       "nagoya": 330,
       "fukuoka": 180,
       "takamatsu": 290,
-      "naha": 120,
+      "naha": 170,
       "mito": 405,
       "maebashi": 420,
       "takasaki": 420,
@@ -146034,7 +146041,7 @@
       "saga": 210,
       "oita": 240,
       "beppu": 250,
-      "ishigaki": 180,
+      "ishigaki": 80,
       "miyako": 170
     },
     "stayRecommendation": "1night",
@@ -146107,7 +146114,7 @@
     },
     "hotelLinks": {
       "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fokinawa%2F",
-      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2589%25AB%2593%25EA%258C%25A7%2520%2590%25CE%258A%255F%258E%2573"
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2594%2567%258F%25C6%258A%25D4%2593%2587"
     },
     "accessType": "ferry",
     "tier": "spot",
@@ -146401,7 +146408,7 @@
     },
     "hotelLinks": {
       "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fkagoshima%2F",
-      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%258E%25AD%258E%2599%2593%2587%258C%25A7%2520%2589%2582%2594%25FC%258E%2573"
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2589%25C1%258C%2576%2598%2543%2596%2583%2593%2587"
     },
     "accessType": "ferry",
     "tier": "spot",
@@ -146487,7 +146494,8 @@
       "shimonoseki": 570,
       "saga": 570,
       "oita": 600,
-      "beppu": 610
+      "beppu": 610,
+      "yamagata": 175
     },
     "stayRecommendation": "1night",
     "city": "酒田市",
@@ -146560,7 +146568,7 @@
     },
     "hotelLinks": {
       "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fyamagata%2F",
-      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%258E%2552%258C%2560%258C%25A7%2520%258E%25F0%2593%2563%258E%2573"
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2594%25F2%2593%2587"
     },
     "accessType": "ferry",
     "tier": "spot",
@@ -146575,7 +146583,6 @@
     "region": "中部",
     "hub": "新潟",
     "stayAllowed": [
-      "daytrip",
       "1night"
     ],
     "departures": [
@@ -146630,7 +146637,7 @@
       "nagoya": 310,
       "fukuoka": 490,
       "takamatsu": 430,
-      "niigata": 120,
+      "niigata": 140,
       "mito": 205,
       "maebashi": 220,
       "takasaki": 220,
@@ -146720,7 +146727,7 @@
     },
     "hotelLinks": {
       "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fniigata%2F",
-      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2590%2556%258A%2583%258C%25A7%2520%2591%25BA%258F%25E3%258E%2573"
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2588%25BE%2593%2587"
     },
     "accessType": "ferry",
     "tier": "spot",
@@ -146790,7 +146797,7 @@
       "nagoya": 340,
       "fukuoka": 200,
       "takamatsu": 300,
-      "naha": 90,
+      "naha": 135,
       "mito": 395,
       "maebashi": 410,
       "takasaki": 410,
@@ -146806,8 +146813,8 @@
       "saga": 230,
       "oita": 260,
       "beppu": 270,
-      "ishigaki": 150,
-      "miyako": 140
+      "ishigaki": 120,
+      "miyako": 55
     },
     "stayRecommendation": "1night",
     "city": "多良間村",
@@ -146872,7 +146879,7 @@
     },
     "hotelLinks": {
       "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fokinawa%2F",
-      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2589%25AB%2593%25EA%258C%25A7%2520%258B%257B%258C%25C3%2593%2587%258E%2573"
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2591%25BD%2597%25C7%258A%25D4%2593%2587"
     },
     "accessType": "ferry",
     "tier": "spot",
@@ -146956,7 +146963,8 @@
       "shimonoseki": 150,
       "saga": 150,
       "oita": 180,
-      "beppu": 190
+      "beppu": 190,
+      "hiroshima": 200
     },
     "stayRecommendation": "1night",
     "city": "萩市",
@@ -147029,7 +147037,7 @@
     },
     "hotelLinks": {
       "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fyamaguchi%2F",
-      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%258E%2552%258C%25FB%258C%25A7%2520%2594%258B%258E%2573"
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%258C%25A9%2593%2587"
     },
     "accessType": "ferry",
     "tier": "spot",
@@ -147097,7 +147105,7 @@
       "nagoya": 440,
       "fukuoka": 570,
       "takamatsu": 520,
-      "sapporo": 240,
+      "sapporo": 300,
       "kushiro": 330,
       "obihiro": 300,
       "kitami": 330,
@@ -147347,7 +147355,7 @@
     },
     "hotelLinks": {
       "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fehime%2F",
-      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2588%25A4%2595%2551%258C%25A7%2520%258D%25A1%258E%25A1%258E%2573"
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2591%25E5%258E%254F%2593%2587"
     },
     "tier": "spot",
     "icCard": "icoca",
@@ -151109,7 +151117,7 @@
     "accessType": "ferry",
     "hotelLinks": {
       "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fkagawa%2F",
-      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%258D%2581%2590%25EC%258C%25A7%2520%258A%25CF%2589%25B9%258E%259B"
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2588%25C9%2590%2581%2593%2587"
     },
     "tier": "spot",
     "icCard": "icoca",
@@ -151276,7 +151284,7 @@
     "accessType": "ferry",
     "hotelLinks": {
       "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fkagawa%2F",
-      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%258D%2581%2590%25EC%258C%25A7%2520%258D%2582%258F%25BC%258E%2573"
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2592%256A%2596%25D8%2593%2587"
     },
     "tier": "spot",
     "icCard": "icoca",
@@ -151446,7 +151454,7 @@
     "accessType": "ferry",
     "hotelLinks": {
       "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fkagawa%2F",
-      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%258D%2581%2590%25EC%258C%25A7%2520%258D%2582%258F%25BC%258E%2573"
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%258F%2597%2596%25D8%2593%2587"
     },
     "tier": "spot",
     "icCard": "icoca",
@@ -151616,7 +151624,7 @@
     "accessType": "ferry",
     "hotelLinks": {
       "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fkagawa%2F",
-      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%258D%2581%2590%25EC%258C%25A7%2520%258A%25DB%258B%2554%258E%2573"
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2596%257B%2593%2587"
     },
     "tier": "spot",
     "icCard": "icoca",
@@ -151783,7 +151791,7 @@
     "accessType": "ferry",
     "hotelLinks": {
       "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fkagawa%2F",
-      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2591%25BD%2593%2578%2592%25C3"
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%258D%25B2%2596%25F6%2593%2587"
     },
     "tier": "spot",
     "icCard": "icoca",
@@ -151952,7 +151960,7 @@
     "accessType": "ferry",
     "hotelLinks": {
       "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fkagawa%2F",
-      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%258E%254F%2596%254C"
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2588%25BE%2593%2587"
     },
     "tier": "spot",
     "icCard": "icoca",
@@ -152034,7 +152042,8 @@
       "shimonoseki": 260,
       "saga": 260,
       "oita": 290,
-      "beppu": 300
+      "beppu": 300,
+      "hiroshima": 75
     },
     "stayRecommendation": "1night",
     "secondaryTransport": "ferry",
@@ -152374,7 +152383,8 @@
       "shimonoseki": 270,
       "saga": 270,
       "oita": 300,
-      "beppu": 310
+      "beppu": 310,
+      "hiroshima": 95
     },
     "stayRecommendation": "1night",
     "secondaryTransport": "ferry",
@@ -152546,7 +152556,8 @@
       "shimonoseki": 255,
       "saga": 255,
       "oita": 285,
-      "beppu": 295
+      "beppu": 295,
+      "hiroshima": 60
     },
     "stayRecommendation": "daytrip",
     "secondaryTransport": "ferry",
@@ -152632,7 +152643,7 @@
     "accessType": "ferry",
     "hotelLinks": {
       "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fhiroshima%2F",
-      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%258D%254C%2593%2587%258C%25A7%2520%2595%259F%258E%2552"
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2590%25E5%2590%258C%2593%2587"
     },
     "tier": "spot",
     "icCard": "icoca",
@@ -152977,7 +152988,7 @@
     "accessType": "ferry",
     "hotelLinks": {
       "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fokayama%2F",
-      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2589%25AA%258E%2552%258C%25A7%2520%258A%257D%2589%25AA%258E%2573"
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2590%255E%2593%25E7%2593%2587"
     },
     "tier": "spot",
     "icCard": "icoca",
