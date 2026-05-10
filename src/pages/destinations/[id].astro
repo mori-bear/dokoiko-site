@@ -499,6 +499,35 @@ const hubCity = hubName
   .travel-time-row:last-child { border-bottom: none; }
   .travel-time-row span:first-child { color: #888; }
   .travel-time-row span:last-child { font-weight: 500; color: #1a1a1a; }
+  .travel-time-block { padding: 8px 0; border-bottom: 1px solid #f0f0f0; }
+  .travel-time-block:last-child { border-bottom: none; }
+  .travel-time-block .travel-time-row { border-bottom: none; padding: 4px 0 8px; }
+  .travel-booking-row {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 6px;
+    margin-bottom: 4px;
+  }
+  .booking-btn {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 4px;
+    padding: 8px 10px;
+    border-radius: 6px;
+    font-size: 11px;
+    text-decoration: none;
+    transition: background 0.15s;
+    border: 1px solid transparent;
+  }
+  .booking-btn-label { font-weight: 500; letter-spacing: 0.04em; }
+  .booking-btn-arrow { font-size: 12px; opacity: 0.6; }
+  .booking-btn-route { background: #e8f1ee; color: #2A6049; border-color: #d0e8da; }
+  .booking-btn-route:hover { background: #d4e8df; }
+  .booking-btn-air { background: #fff3e6; color: #C45500; border-color: #ffe0c2; }
+  .booking-btn-air:hover { background: #ffe6cc; }
+  .booking-btn-bus { background: #f0f0fa; color: #5a5aaa; border-color: #ddddee; }
+  .booking-btn-bus:hover { background: #e0e0f0; }
   .access-steps { display: flex; flex-direction: column; gap: 3px; }
   .access-step {
     display: flex;
@@ -830,13 +859,34 @@ const hubCity = hubName
       )}
       {travelTimes.length > 0 && (
         <div class="travel-times">
-          <span class="travel-times-label">Access Time</span>
-          {travelTimes.map(({ city, min }: { city: string; min: number }) => (
-            <div class="travel-time-row">
-              <span>{city}から</span>
-              <span>{min >= 60 ? `約${Math.floor(min/60)}時間${min%60 > 0 ? min%60 + '分' : ''}` : `約${min}分`}</span>
-            </div>
-          ))}
+          <span class="travel-times-label">Access Time & 予約検索</span>
+          {travelTimes.map(({ city, min }: { city: string; min: number }) => {
+            const yahoo = `https://transit.yahoo.co.jp/search/result?from=${encodeURIComponent(city)}&to=${encodeURIComponent(dest.name)}`;
+            const rakutenAir = `https://travel.rakuten.co.jp/dom_air/search/?f_word=${encodeURIComponent(city + ' ' + dest.name)}`;
+            const rakutenBus = `https://travel.rakuten.co.jp/bus/search/?w=${encodeURIComponent(city + ' ' + dest.name)}`;
+            return (
+              <div class="travel-time-block">
+                <div class="travel-time-row">
+                  <span>{city}から</span>
+                  <span>{min >= 60 ? `約${Math.floor(min/60)}時間${min%60 > 0 ? min%60 + '分' : ''}` : `約${min}分`}</span>
+                </div>
+                <div class="travel-booking-row">
+                  <a href={yahoo} target="_blank" rel="noopener noreferrer" class="booking-btn booking-btn-route">
+                    <span class="booking-btn-label">乗換・JR</span>
+                    <span class="booking-btn-arrow">→</span>
+                  </a>
+                  <a href={rakutenAir} target="_blank" rel="noopener noreferrer" class="booking-btn booking-btn-air">
+                    <span class="booking-btn-label">飛行機</span>
+                    <span class="booking-btn-arrow">→</span>
+                  </a>
+                  <a href={rakutenBus} target="_blank" rel="noopener noreferrer" class="booking-btn booking-btn-bus">
+                    <span class="booking-btn-label">高速バス</span>
+                    <span class="booking-btn-arrow">→</span>
+                  </a>
+                </div>
+              </div>
+            );
+          })}
         </div>
       )}
       {dest.access?.steps && dest.access.steps.length > 0 ? (

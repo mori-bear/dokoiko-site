@@ -31,14 +31,35 @@ if (!KEY) {
 
 const IMAGES_DIR = path.join(__dirname, '../public/images');
 const DEST_FILE  = path.join(__dirname, '../src/data/destinations.json');
-const RATE_MS    = 1200; // Unsplash Free: ~50 req/hr
+const RATE_MS    = 72000; // Unsplash Free: 50 req/hr → 72秒間隔
 
 const dests = JSON.parse(fs.readFileSync(DEST_FILE, 'utf-8'));
+
+// 同じphotoID(URL中のphoto-xxxxx)を使い回している件数 → 3件以上は低クオリティ扱いで再取得
+function photoId(url) {
+  const m = url && url.match(/photo-([0-9a-f-]+)/);
+  return m ? m[1] : null;
+}
+const idCounts = {};
+for (const d of dests) {
+  const pid = photoId(d.unsplashUrl);
+  if (pid) idCounts[pid] = (idCounts[pid] || 0) + 1;
+}
+
 const targets = dests.filter(d => {
-  if (d.unsplashUrl) return false;                                 // 取得済み
   if (fs.existsSync(path.join(IMAGES_DIR, `${d.id}.jpg`))) return false; // ローカル画像あり
-  return true;
+  if (!d.unsplashUrl) return true;                                       // 未取得
+  const pid = photoId(d.unsplashUrl);
+  if (pid && idCounts[pid] >= 3) return true;                            // 重複多 → 再取得
+  return false;
 });
+
+// 代表スポット名 + name で検索（より特定の画像がヒットしやすい）
+function buildQuery(d) {
+  const spots = d.spots || [];
+  if (spots.length > 0 && spots[0]) return `${spots[0]} ${d.name}`;
+  return `${d.name} ${d.prefecture}`;
+}
 
 console.log(`🔍 Unsplash 画像取得開始: ${targets.length} 件 (スキップ: ${dests.length - targets.length} 件)\n`);
 
@@ -46,7 +67,7 @@ let fetched = 0;
 let failed  = 0;
 
 for (const dest of targets) {
-  const query = `${dest.name} ${dest.prefecture} 風景`;
+  const query = buildQuery(dest);
   const url   = `https://api.unsplash.com/search/photos?query=${encodeURIComponent(query)}&per_page=1&orientation=landscape`;
 
   try {
