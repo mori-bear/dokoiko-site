@@ -169261,9 +169261,9 @@
     "type": "destination",
     "region": "沖縄",
     "prefecture": "沖縄県",
-    "hub": "石垣",
-    "hubName": "石垣",
-    "hubCity": "石垣",
+    "hub": "宮古島",
+    "hubName": "宮古島",
+    "hubCity": "宮古島",
     "stayAllowed": [
       "daytrip",
       "1night"
@@ -169316,9 +169316,9 @@
     "type": "destination",
     "region": "沖縄",
     "prefecture": "沖縄県",
-    "hub": "石垣",
-    "hubName": "石垣",
-    "hubCity": "石垣",
+    "hub": "宮古島",
+    "hubName": "宮古島",
+    "hubCity": "宮古島",
     "stayAllowed": [
       "daytrip",
       "1night"
