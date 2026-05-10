@@ -5233,8 +5233,7 @@
     "tags": [
       "街歩き",
       "海",
-      "自然",
-      "離島"
+      "自然"
     ],
     "spots": [
       "鳥羽水族館",
@@ -170463,6 +170462,115 @@
     "hotelLinks": {
       "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E5%25A4%25A7%25E6%25AD%25A9%25E5%258D%25B1%2520%25E4%25B8%2589%25E5%25A5%25BD",
       "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2591%25E5%2595%25E0%258A%25EB%2520%258E%254F%258D%2544"
+    }
+  },
+  {
+    "id": "sugashima",
+    "name": "菅島",
+    "type": "destination",
+    "region": "近畿",
+    "prefecture": "三重県",
+    "hub": "鳥羽",
+    "hubName": "鳥羽",
+    "hubCity": "鳥羽",
+    "stayAllowed": [
+      "1night"
+    ],
+    "departures": [
+      "鳥羽"
+    ],
+    "weight": 1.0,
+    "description": "鳥羽湾に浮かぶ漁業の島。日本最古の現役洋式灯台「菅島灯台」と、急峻な地形を活かした港町の景観が魅力。海女文化が今も息づく。",
+    "tags": [
+      "離島",
+      "自然",
+      "街歩き"
+    ],
+    "spots": [
+      "菅島灯台",
+      "しろんご祭",
+      "大山展望台"
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": true,
+    "destType": "island",
+    "hotelSearch": "鳥羽",
+    "lat": 34.484,
+    "lng": 136.911,
+    "travelTime": {
+      "nagoya": 95,
+      "osaka": 135,
+      "tokyo": 230,
+      "fukuoka": 305
+    },
+    "stayRecommendation": "1night",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": [
+        "鳥羽佐田浜港"
+      ]
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E9%25B3%25A5%25E7%25BE%25BD",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2592%25B9%2589%2548"
+    }
+  },
+  {
+    "id": "sakatejima",
+    "name": "坂手島",
+    "type": "destination",
+    "region": "近畿",
+    "prefecture": "三重県",
+    "hub": "鳥羽",
+    "hubName": "鳥羽",
+    "hubCity": "鳥羽",
+    "stayAllowed": [
+      "daytrip",
+      "1night"
+    ],
+    "departures": [
+      "鳥羽"
+    ],
+    "weight": 1.0,
+    "description": "鳥羽駅から徒歩圏の桟橋から市営定期船10分で渡れる小さな漁村の島。江戸川乱歩ゆかりの地として知られ、静かな路地散策が楽しめる。",
+    "tags": [
+      "離島",
+      "自然",
+      "街歩き"
+    ],
+    "spots": [
+      "坂手島港",
+      "坂手神社",
+      "答志島展望地"
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": true,
+    "destType": "island",
+    "hotelSearch": "鳥羽",
+    "lat": 34.483,
+    "lng": 136.866,
+    "travelTime": {
+      "nagoya": 95,
+      "osaka": 135,
+      "tokyo": 230,
+      "fukuoka": 305
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": [
+        "鳥羽中之郷港"
+      ]
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E9%25B3%25A5%25E7%25BE%25BD",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2592%25B9%2589%2548"
     }
   }
 ]
