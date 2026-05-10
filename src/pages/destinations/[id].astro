@@ -507,10 +507,12 @@ const hubCity = hubName
   .travel-time-block { padding: 8px 0; border-bottom: 1px solid #f0f0f0; }
   .travel-time-block:last-child { border-bottom: none; }
   .travel-time-block .travel-time-row { border-bottom: none; padding: 4px 0 8px; }
-  .travel-booking-row-single {
+  .travel-booking-row-dual {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 6px;
     margin-bottom: 4px;
   }
-  .travel-booking-row-single .booking-btn { width: 100%; }
   .booking-btn {
     display: flex;
     align-items: center;
@@ -527,6 +529,8 @@ const hubCity = hubName
   .booking-btn-arrow { font-size: 12px; opacity: 0.6; }
   .booking-btn-route { background: #e8f1ee; color: #2A6049; border-color: #d0e8da; }
   .booking-btn-route:hover { background: #d4e8df; }
+  .booking-btn-navitime { background: #fff3e6; color: #C45500; border-color: #ffe0c2; }
+  .booking-btn-navitime:hover { background: #ffe6cc; }
   .access-steps { display: flex; flex-direction: column; gap: 3px; }
   .access-step {
     display: flex;
@@ -861,14 +865,19 @@ const hubCity = hubName
           <span class="travel-times-label">Access Time</span>
           {travelTimes.map(({ city, min }: { city: string; min: number }) => {
             const gmap = `https://www.google.com/maps/dir/${encodeURIComponent(city)}/${encodeURIComponent(dest.name)}/`;
+            const navitime = `https://www.navitime.co.jp/transfer/searchlist?orvStationName=${encodeURIComponent(city)}&dnvStationName=${encodeURIComponent(dest.name)}`;
             return (
               <div class="travel-time-block">
                 <div class="travel-time-row">
                   <span>{city}から</span>
                   <span>{min >= 60 ? `約${Math.floor(min/60)}時間${min%60 > 0 ? min%60 + '分' : ''}` : `約${min}分`}</span>
                 </div>
-                <div class="travel-booking-row-single">
+                <div class="travel-booking-row-dual">
                   <a href={gmap} target="_blank" rel="noopener noreferrer" class="booking-btn booking-btn-route">
+                    <span class="booking-btn-label">Googleマップ</span>
+                    <span class="booking-btn-arrow">→</span>
+                  </a>
+                  <a href={navitime} target="_blank" rel="noopener noreferrer" class="booking-btn booking-btn-navitime">
                     <span class="booking-btn-label">乗換案内</span>
                     <span class="booking-btn-arrow">→</span>
                   </a>

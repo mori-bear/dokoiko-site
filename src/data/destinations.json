@@ -43772,7 +43772,7 @@
     "type": "destination",
     "region": "中国",
     "hub": "岡山",
-    "hotelSearch": "犬島",
+    "hotelSearch": "岡山",
     "stayAllowed": [
       "daytrip",
       "1night"
@@ -43925,8 +43925,8 @@
       "jalan": "犬島"
     },
     "hotelLinks": {
-      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fokayama%2F",
-      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%258C%25A2%2593%2587"
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E5%25B2%25A1%25E5%25B1%25B1",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2589%25AA%258E%2552"
     },
     "accessType": "ferry",
     "tier": "spot",
@@ -43940,7 +43940,7 @@
     "type": "destination",
     "region": "四国",
     "hub": "高松",
-    "hotelSearch": "豊島",
+    "hotelSearch": "高松",
     "stayAllowed": [
       "daytrip",
       "1night"
@@ -44096,8 +44096,8 @@
       "jalan": "豊島"
     },
     "hotelLinks": {
-      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fkagawa%2F",
-      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2596%254C%2593%2587"
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E9%25AB%2598%25E6%259D%25BE",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%258D%2582%258F%25BC"
     },
     "accessType": "ferry",
     "tier": "spot",
@@ -153381,7 +153381,7 @@
       "和歌山"
     ],
     "weight": 1,
-    "description": "塩飽水軍の本拠地。重伝建の集落が残る。笠島集落など見どころが多い。",
+    "description": "塩飽水軍の本拠地。重伝建の集落・笠島が残る島。丸亀港からフェリーで約30分、瀬戸内国際芸術祭の会場としても知られる。",
     "tags": [
       "歴史",
       "街歩き",
@@ -154249,7 +154249,7 @@
     "shinkansenAccess": false,
     "requiresCar": true,
     "isIsland": true,
-    "hotelSearch": "大崎上島",
+    "hotelSearch": "竹原",
     "gateways": {
       "rail": [
         "竹原駅"
@@ -154383,8 +154383,8 @@
     },
     "accessType": "ferry",
     "hotelLinks": {
-      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fhiroshima%2F",
-      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2591%25E5%258D%25E8%258F%25E3%2593%2587"
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E7%25AB%25B9%25E5%258E%259F",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2592%257C%258C%25B4"
     },
     "tier": "spot",
     "icCard": "icoca",
@@ -168037,7 +168037,7 @@
     "requiresCar": false,
     "isIsland": true,
     "destType": "island",
-    "hotelSearch": "能登島",
+    "hotelSearch": "七尾 和倉温泉",
     "lat": 37.121,
     "lng": 136.953,
     "travelTime": {
@@ -168055,8 +168055,8 @@
       "ferry": []
     },
     "hotelLinks": {
-      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E8%2583%25BD%25E7%2599%25BB%25E5%25B3%25B6",
-      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2594%255C%2593%256F%2593%2587"
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E4%25B8%2583%25E5%25B0%25BE%2520%25E5%2592%258C%25E5%2580%2589%25E6%25B8%25A9%25E6%25B3%2589",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%258E%25B5%2594%25F6%2520%2598%2561%2591%2571%2589%25B7%2590%25F2"
     }
   },
   {
@@ -168091,7 +168091,7 @@
     "requiresCar": false,
     "isIsland": true,
     "destType": "island",
-    "hotelSearch": "紀伊大島",
+    "hotelSearch": "串本",
     "lat": 33.487,
     "lng": 135.864,
     "travelTime": {
@@ -168109,8 +168109,8 @@
       "ferry": []
     },
     "hotelLinks": {
-      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E7%25B4%2580%25E4%25BC%258A%25E5%25A4%25A7%25E5%25B3%25B6",
-      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%258B%2549%2588%25C9%2591%25E5%2593%2587"
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E4%25B8%25B2%25E6%259C%25AC",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%258B%25F8%2596%257B"
     }
   },
   {
@@ -168145,7 +168145,7 @@
     "requiresCar": false,
     "isIsland": true,
     "destType": "island",
-    "hotelSearch": "大根島",
+    "hotelSearch": "松江",
     "lat": 35.488,
     "lng": 133.187,
     "travelTime": {
@@ -168165,8 +168165,8 @@
       "ferry": []
     },
     "hotelLinks": {
-      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E5%25A4%25A7%25E6%25A0%25B9%25E5%25B3%25B6",
-      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2591%25E5%258D%25AA%2593%2587"
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E6%259D%25BE%25E6%25B1%259F",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%258F%25BC%258D%255D"
     }
   },
   {
@@ -168255,7 +168255,7 @@
     "requiresCar": false,
     "isIsland": true,
     "destType": "island",
-    "hotelSearch": "江田島",
+    "hotelSearch": "呉",
     "lat": 34.236,
     "lng": 132.456,
     "travelTime": {
@@ -168274,8 +168274,8 @@
       "ferry": []
     },
     "hotelLinks": {
-      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E6%25B1%259F%25E7%2594%25B0%25E5%25B3%25B6",
-      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%258D%255D%2593%2563%2593%2587"
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E5%2591%2589",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%258C%25E0"
     }
   },
   {
@@ -168310,7 +168310,7 @@
     "requiresCar": false,
     "isIsland": true,
     "destType": "island",
-    "hotelSearch": "青海島",
+    "hotelSearch": "長門 仙崎",
     "lat": 34.421,
     "lng": 131.241,
     "travelTime": {
@@ -168329,8 +168329,8 @@
       "ferry": []
     },
     "hotelLinks": {
-      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E9%259D%2592%25E6%25B5%25B7%25E5%25B3%25B6",
-      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2590%25C2%258A%2543%2593%2587"
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E9%2595%25B7%25E9%2596%2580%2520%25E4%25BB%2599%25E5%25B4%258E",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2592%25B7%2596%25E5%2520%2590%25E5%258D%25E8"
     }
   },
   {
@@ -168364,7 +168364,7 @@
     "requiresCar": false,
     "isIsland": true,
     "destType": "island",
-    "hotelSearch": "祝島",
+    "hotelSearch": "柳井",
     "lat": 33.793,
     "lng": 131.978,
     "travelTime": {
@@ -168383,8 +168383,8 @@
       "ferry": []
     },
     "hotelLinks": {
-      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E7%25A5%259D%25E5%25B3%25B6",
-      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%258F%256A%2593%2587"
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E6%259F%25B3%25E4%25BA%2595",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2596%25F6%2588%25E4"
     }
   },
   {
@@ -168636,7 +168636,7 @@
     "requiresCar": false,
     "isIsland": true,
     "destType": "island",
-    "hotelSearch": "志賀島",
+    "hotelSearch": "福岡 海の中道",
     "lat": 33.673,
     "lng": 130.279,
     "travelTime": {
@@ -168654,8 +168654,8 @@
       "ferry": []
     },
     "hotelLinks": {
-      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E5%25BF%2597%25E8%25B3%2580%25E5%25B3%25B6",
-      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%258E%2575%2589%25EA%2593%2587"
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E7%25A6%258F%25E5%25B2%25A1%2520%25E6%25B5%25B7%25E3%2581%25AE%25E4%25B8%25AD%25E9%2581%2593",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2595%259F%2589%25AA%2520%258A%2543%2582%25CC%2592%2586%2593%25B9"
     }
   },
   {
