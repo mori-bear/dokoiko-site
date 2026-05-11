@@ -1076,6 +1076,30 @@ const hubCity = hubName
       </div>
     )}
 
+    <!-- レンタカー（自然・絶景・秘境系のみ） -->
+    {(dest as any).rentalCarRecommended && (
+      <div class="hotel-section" style="margin-top:24px;">
+        <h2 class="section-title">{dest.name}はレンタカーがおすすめ</h2>
+        <p class="hotel-description" style="font-size:13px;color:#888;">現地で自由に動きたいならレンタカーが便利です</p>
+        <div class="hotel-cards">
+          <a href="https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fcars%2F" target="_blank" rel="noopener noreferrer" class="hotel-card hotel-card-rakuten">
+            <div>
+              <p class="hotel-card-name">楽天レンタカー</p>
+              <p class="hotel-card-desc">ポイントが貯まる・使える</p>
+            </div>
+            <span class="hotel-card-arrow">→</span>
+          </a>
+          <a href="https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Frentacar%2F" target="_blank" rel="noopener noreferrer" class="hotel-card hotel-card-jalan">
+            <div>
+              <p class="hotel-card-name">じゃらんレンタカー</p>
+              <p class="hotel-card-desc">国内旅行・レンタカー予約</p>
+            </div>
+            <span class="hotel-card-arrow">→</span>
+          </a>
+        </div>
+      </div>
+    )}
+
     <hr class="section-divider" />
 
     <!-- 近くの旅先（横スクロール） -->
