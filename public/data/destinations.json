@@ -179454,5 +179454,6119 @@
       "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2592%25B9%2589%2548"
     },
     "rentalCarRecommended": false
+  },
+  {
+    "id": "soja-okayama",
+    "name": "総社",
+    "type": "destination",
+    "region": "中国",
+    "prefecture": "岡山県",
+    "hub": "大阪",
+    "hubName": "大阪",
+    "hubCity": "大阪",
+    "stayAllowed": [
+      "daytrip",
+      "1night"
+    ],
+    "departures": [
+      "大阪"
+    ],
+    "weight": 1.0,
+    "description": "吉備路の中心。五重塔のある備中国分寺と作山古墳・鬼ノ城など、古代史が好きな人に響く穴場。",
+    "tags": [
+      "歴史",
+      "寺社",
+      "自然"
+    ],
+    "spots": [
+      {
+        "name": "備中国分寺"
+      },
+      {
+        "name": "作山古墳"
+      },
+      {
+        "name": "鬼ノ城"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "総社",
+    "lat": 34.674,
+    "lng": 133.745,
+    "travelTime": {
+      "osaka": 90,
+      "tokyo": 255,
+      "nagoya": 150,
+      "fukuoka": 255,
+      "hiroshima": 110,
+      "takamatsu": 195,
+      "sendai": 265,
+      "okayama": 25
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E7%25B7%258F%25E7%25A4%25BE",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2591%258D%258E%25D0"
+    },
+    "rentalCarRecommended": true
+  },
+  {
+    "id": "hiruzen",
+    "name": "蒜山高原",
+    "type": "destination",
+    "region": "中国",
+    "prefecture": "岡山県",
+    "hub": "大阪",
+    "hubName": "大阪",
+    "hubCity": "大阪",
+    "stayAllowed": [
+      "1night",
+      "2night"
+    ],
+    "departures": [
+      "大阪"
+    ],
+    "weight": 1.0,
+    "description": "蒜山三座の麓に広がる高原リゾート。ジャージー牛の放牧、サイクリング、温泉と多彩な楽しみ方ができる。",
+    "tags": [
+      "高原",
+      "自然",
+      "リゾート"
+    ],
+    "spots": [
+      {
+        "name": "蒜山ジャージーランド"
+      },
+      {
+        "name": "塩釜冷泉"
+      },
+      {
+        "name": "GREENable HIRUZEN"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "蒜山高原",
+    "lat": 35.302,
+    "lng": 133.652,
+    "travelTime": {
+      "osaka": 180,
+      "tokyo": 345,
+      "nagoya": 240,
+      "fukuoka": 345,
+      "hiroshima": 270,
+      "takamatsu": 285,
+      "sendai": 355
+    },
+    "stayRecommendation": "1night",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E8%2592%259C%25E5%25B1%25B1%25E9%25AB%2598%25E5%258E%259F",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2595%2566%258E%2552%258D%2582%258C%25B4"
+    },
+    "rentalCarRecommended": true
+  },
+  {
+    "id": "yubara-onsen",
+    "name": "湯原温泉",
+    "type": "destination",
+    "region": "中国",
+    "prefecture": "岡山県",
+    "hub": "大阪",
+    "hubName": "大阪",
+    "hubCity": "大阪",
+    "stayAllowed": [
+      "1night",
+      "2night"
+    ],
+    "departures": [
+      "大阪"
+    ],
+    "weight": 1.0,
+    "description": "日本一の露天風呂「砂湯」で知られる山間の温泉地。湯原ダムを背に湧く野湯は宿泊不要で楽しめる。",
+    "tags": [
+      "温泉",
+      "秘境",
+      "自然"
+    ],
+    "spots": [
+      {
+        "name": "砂湯"
+      },
+      {
+        "name": "湯原ダム"
+      },
+      {
+        "name": "はんざきセンター"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "湯原温泉",
+    "lat": 35.118,
+    "lng": 133.694,
+    "travelTime": {
+      "osaka": 165,
+      "tokyo": 330,
+      "nagoya": 225,
+      "fukuoka": 330,
+      "hiroshima": 255,
+      "takamatsu": 270,
+      "sendai": 340
+    },
+    "stayRecommendation": "1night",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E6%25B9%25AF%25E5%258E%259F%25E6%25B8%25A9%25E6%25B3%2589",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2593%2592%258C%25B4%2589%25B7%2590%25F2"
+    },
+    "rentalCarRecommended": true
+  },
+  {
+    "id": "yunogo",
+    "name": "湯郷温泉",
+    "type": "destination",
+    "region": "中国",
+    "prefecture": "岡山県",
+    "hub": "大阪",
+    "hubName": "大阪",
+    "hubCity": "大阪",
+    "stayAllowed": [
+      "1night"
+    ],
+    "departures": [
+      "大阪"
+    ],
+    "weight": 1.0,
+    "description": "美作三湯の一つ。1200年の歴史を持つ温泉街と、玩具博物館・大山池などの隠れスポット。",
+    "tags": [
+      "温泉",
+      "歴史"
+    ],
+    "spots": [
+      {
+        "name": "湯郷温泉街"
+      },
+      {
+        "name": "現代玩具博物館"
+      },
+      {
+        "name": "美作三湯"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "湯郷温泉",
+    "lat": 35.047,
+    "lng": 134.218,
+    "travelTime": {
+      "osaka": 130,
+      "tokyo": 295,
+      "nagoya": 190,
+      "fukuoka": 295,
+      "hiroshima": 220,
+      "takamatsu": 235,
+      "sendai": 305
+    },
+    "stayRecommendation": "1night",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E6%25B9%25AF%25E9%2583%25B7%25E6%25B8%25A9%25E6%25B3%2589",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2593%2592%258B%25BD%2589%25B7%2590%25F2"
+    },
+    "rentalCarRecommended": false
+  },
+  {
+    "id": "okutsu",
+    "name": "奥津温泉",
+    "type": "destination",
+    "region": "中国",
+    "prefecture": "岡山県",
+    "hub": "大阪",
+    "hubName": "大阪",
+    "hubCity": "大阪",
+    "stayAllowed": [
+      "1night"
+    ],
+    "departures": [
+      "大阪"
+    ],
+    "weight": 1.0,
+    "description": "美作三湯の一つ、苔むした奥津渓の紅葉と「足踏み洗濯」の風景が残る山間の秘湯。",
+    "tags": [
+      "温泉",
+      "秘境",
+      "紅葉"
+    ],
+    "spots": [
+      {
+        "name": "奥津渓"
+      },
+      {
+        "name": "足踏み洗濯"
+      },
+      {
+        "name": "花美人の里"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "奥津温泉",
+    "lat": 35.103,
+    "lng": 133.937,
+    "travelTime": {
+      "osaka": 165,
+      "tokyo": 330,
+      "nagoya": 225,
+      "fukuoka": 330,
+      "hiroshima": 255,
+      "takamatsu": 270,
+      "sendai": 340
+    },
+    "stayRecommendation": "1night",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E5%25A5%25A5%25E6%25B4%25A5%25E6%25B8%25A9%25E6%25B3%2589",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2589%259C%2592%25C3%2589%25B7%2590%25F2"
+    },
+    "rentalCarRecommended": true
+  },
+  {
+    "id": "hinase",
+    "name": "日生",
+    "type": "destination",
+    "region": "中国",
+    "prefecture": "岡山県",
+    "hub": "大阪",
+    "hubName": "大阪",
+    "hubCity": "大阪",
+    "stayAllowed": [
+      "daytrip",
+      "1night"
+    ],
+    "departures": [
+      "大阪"
+    ],
+    "weight": 1.0,
+    "description": "冬の名物カキオコ（カキ入りお好み焼き）の発祥地。五味の市の海鮮と頭島への大橋ドライブ。",
+    "tags": [
+      "グルメ",
+      "海"
+    ],
+    "spots": [
+      {
+        "name": "カキオコ"
+      },
+      {
+        "name": "五味の市"
+      },
+      {
+        "name": "頭島"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "日生",
+    "lat": 34.753,
+    "lng": 134.243,
+    "travelTime": {
+      "osaka": 110,
+      "tokyo": 275,
+      "nagoya": 170,
+      "fukuoka": 275,
+      "hiroshima": 200,
+      "takamatsu": 215,
+      "sendai": 285
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E6%2597%25A5%25E7%2594%259F",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2593%25FA%2590%25B6"
+    },
+    "rentalCarRecommended": false
+  },
+  {
+    "id": "fukiya",
+    "name": "吹屋ふるさと村",
+    "type": "destination",
+    "region": "中国",
+    "prefecture": "岡山県",
+    "hub": "大阪",
+    "hubName": "大阪",
+    "hubCity": "大阪",
+    "stayAllowed": [
+      "daytrip",
+      "1night"
+    ],
+    "departures": [
+      "大阪"
+    ],
+    "weight": 1.0,
+    "description": "ベンガラ色の町並みが残る山中の集落。映画「八つ墓村」のロケ地としても有名な穴場。",
+    "tags": [
+      "街歩き",
+      "歴史",
+      "秘境"
+    ],
+    "spots": [
+      {
+        "name": "ベンガラの町並み"
+      },
+      {
+        "name": "吹屋小学校"
+      },
+      {
+        "name": "広兼邸"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "備中高梁",
+    "lat": 34.84,
+    "lng": 133.473,
+    "travelTime": {
+      "osaka": 130,
+      "tokyo": 295,
+      "nagoya": 190,
+      "fukuoka": 295,
+      "hiroshima": 220,
+      "takamatsu": 235,
+      "sendai": 305
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E5%2582%2599%25E4%25B8%25AD%25E9%25AB%2598%25E6%25A2%2581",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2594%25F5%2592%2586%258D%2582%2597%25C0"
+    },
+    "rentalCarRecommended": true
+  },
+  {
+    "id": "nagi-okayama",
+    "name": "奈義町",
+    "type": "destination",
+    "region": "中国",
+    "prefecture": "岡山県",
+    "hub": "大阪",
+    "hubName": "大阪",
+    "hubCity": "大阪",
+    "stayAllowed": [
+      "daytrip",
+      "1night"
+    ],
+    "departures": [
+      "大阪"
+    ],
+    "weight": 1.0,
+    "description": "人口5000人の町に荒川修作のアート空間「奈義町現代美術館」。建築・アート好きの聖地。",
+    "tags": [
+      "アート",
+      "建築"
+    ],
+    "spots": [
+      {
+        "name": "奈義町現代美術館"
+      },
+      {
+        "name": "滝山キャンプ場"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "奈義 津山",
+    "lat": 35.097,
+    "lng": 134.196,
+    "travelTime": {
+      "osaka": 145,
+      "tokyo": 310,
+      "nagoya": 205,
+      "fukuoka": 310,
+      "hiroshima": 235,
+      "takamatsu": 250,
+      "sendai": 320
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E5%25A5%2588%25E7%25BE%25A9%2520%25E6%25B4%25A5%25E5%25B1%25B1",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2593%25DE%258B%2560%2520%2592%25C3%258E%2552"
+    },
+    "rentalCarRecommended": false
+  },
+  {
+    "id": "kasaoka-islands",
+    "name": "笠岡諸島",
+    "type": "destination",
+    "region": "中国",
+    "prefecture": "岡山県",
+    "hub": "大阪",
+    "hubName": "大阪",
+    "hubCity": "大阪",
+    "stayAllowed": [
+      "1night"
+    ],
+    "departures": [
+      "大阪"
+    ],
+    "weight": 1.0,
+    "description": "瀬戸内の小さな島々。アートと島時間が流れる、観光客が少ない真の穴場。",
+    "tags": [
+      "離島",
+      "海",
+      "秘境"
+    ],
+    "spots": [
+      {
+        "name": "白石島"
+      },
+      {
+        "name": "北木島"
+      },
+      {
+        "name": "真鍋島"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "笠岡 福山",
+    "lat": 34.475,
+    "lng": 133.473,
+    "travelTime": {
+      "osaka": 180,
+      "tokyo": 345,
+      "nagoya": 240,
+      "fukuoka": 345,
+      "hiroshima": 270,
+      "takamatsu": 285,
+      "sendai": 355
+    },
+    "stayRecommendation": "1night",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E7%25AC%25A0%25E5%25B2%25A1%2520%25E7%25A6%258F%25E5%25B1%25B1",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%258A%257D%2589%25AA%2520%2595%259F%258E%2552"
+    },
+    "rentalCarRecommended": true
+  },
+  {
+    "id": "ogose",
+    "name": "越生",
+    "type": "destination",
+    "region": "関東",
+    "prefecture": "埼玉県",
+    "hub": "東京",
+    "hubName": "東京",
+    "hubCity": "東京",
+    "stayAllowed": [
+      "daytrip"
+    ],
+    "departures": [
+      "東京"
+    ],
+    "weight": 1.0,
+    "description": "関東三大梅林の越生梅林と山間の五大尊・黒山三滝。春は梅まつりで賑わう。",
+    "tags": [
+      "自然",
+      "寺社"
+    ],
+    "spots": [
+      {
+        "name": "越生梅林"
+      },
+      {
+        "name": "五大尊"
+      },
+      {
+        "name": "黒山三滝"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "越生 川越",
+    "lat": 35.949,
+    "lng": 139.295,
+    "travelTime": {
+      "tokyo": 90,
+      "osaka": 255,
+      "nagoya": 195,
+      "fukuoka": 395,
+      "sapporo": 235,
+      "sendai": 185,
+      "hiroshima": 325
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E8%25B6%258A%25E7%2594%259F%2520%25E5%25B7%259D%25E8%25B6%258A",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2589%257A%2590%25B6%2520%2590%25EC%2589%257A"
+    },
+    "rentalCarRecommended": true
+  },
+  {
+    "id": "moroyama",
+    "name": "毛呂山",
+    "type": "destination",
+    "region": "関東",
+    "prefecture": "埼玉県",
+    "hub": "東京",
+    "hubName": "東京",
+    "hubCity": "東京",
+    "stayAllowed": [
+      "daytrip"
+    ],
+    "departures": [
+      "東京"
+    ],
+    "weight": 1.0,
+    "description": "低山ハイキングと湖畔キャンプの里。秩父山地の入口で、駅から徒歩圏のスポットが多い。",
+    "tags": [
+      "自然",
+      "秘境"
+    ],
+    "spots": [
+      {
+        "name": "宿谷の滝"
+      },
+      {
+        "name": "鎌北湖"
+      },
+      {
+        "name": "桂木観音"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "毛呂山 川越",
+    "lat": 35.943,
+    "lng": 139.303,
+    "travelTime": {
+      "tokyo": 80,
+      "osaka": 245,
+      "nagoya": 185,
+      "fukuoka": 385,
+      "sapporo": 225,
+      "sendai": 175,
+      "hiroshima": 315
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E6%25AF%259B%25E5%2591%2582%25E5%25B1%25B1%2520%25E5%25B7%259D%25E8%25B6%258A",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2596%25D1%2598%2543%258E%2552%2520%2590%25EC%2589%257A"
+    },
+    "rentalCarRecommended": true
+  },
+  {
+    "id": "ogawa-saitama",
+    "name": "小川町",
+    "type": "destination",
+    "region": "関東",
+    "prefecture": "埼玉県",
+    "hub": "東京",
+    "hubName": "東京",
+    "hubCity": "東京",
+    "stayAllowed": [
+      "daytrip",
+      "1night"
+    ],
+    "departures": [
+      "東京"
+    ],
+    "weight": 1.0,
+    "description": "細川紙（ユネスコ無形文化遺産）の伝統が残る紙の里。職人の手仕事を間近で見られる。",
+    "tags": [
+      "伝統",
+      "街歩き",
+      "歴史"
+    ],
+    "spots": [
+      {
+        "name": "和紙の里"
+      },
+      {
+        "name": "道の駅おがわまち"
+      },
+      {
+        "name": "埼玉伝統工芸会館"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "小川町",
+    "lat": 36.058,
+    "lng": 139.265,
+    "travelTime": {
+      "tokyo": 75,
+      "osaka": 240,
+      "nagoya": 180,
+      "fukuoka": 380,
+      "sapporo": 220,
+      "sendai": 170,
+      "hiroshima": 310
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E5%25B0%258F%25E5%25B7%259D%25E7%2594%25BA",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%258F%25AC%2590%25EC%2592%25AC"
+    },
+    "rentalCarRecommended": false
+  },
+  {
+    "id": "moroyama-tea",
+    "name": "ムーミンバレーパーク",
+    "type": "destination",
+    "region": "関東",
+    "prefecture": "埼玉県",
+    "hub": "東京",
+    "hubName": "東京",
+    "hubCity": "東京",
+    "stayAllowed": [
+      "daytrip",
+      "1night"
+    ],
+    "departures": [
+      "東京"
+    ],
+    "weight": 1.0,
+    "description": "フィンランド政府公認のムーミン公式テーマパーク。世界観に没入する1日が過ごせる。",
+    "tags": [
+      "テーマパーク",
+      "子連れ"
+    ],
+    "spots": [
+      {
+        "name": "コケムス"
+      },
+      {
+        "name": "エンマの劇場"
+      },
+      {
+        "name": "ムーミン屋敷"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "飯能",
+    "lat": 35.853,
+    "lng": 139.325,
+    "travelTime": {
+      "tokyo": 60,
+      "osaka": 225,
+      "nagoya": 165,
+      "fukuoka": 365,
+      "sapporo": 205,
+      "sendai": 155,
+      "hiroshima": 295
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E9%25A3%25AF%25E8%2583%25BD",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2594%25D1%2594%255C"
+    },
+    "rentalCarRecommended": false
+  },
+  {
+    "id": "osaka-castle",
+    "name": "大阪城",
+    "type": "destination",
+    "region": "近畿",
+    "prefecture": "大阪府",
+    "hub": "大阪",
+    "hubName": "大阪",
+    "hubCity": "大阪",
+    "stayAllowed": [
+      "daytrip"
+    ],
+    "departures": [
+      "大阪"
+    ],
+    "weight": 1.0,
+    "description": "太閤秀吉ゆかりの大阪のシンボル。天守閣からの眺望と桜・梅の名所。",
+    "tags": [
+      "歴史",
+      "寺社",
+      "街歩き"
+    ],
+    "spots": [
+      {
+        "name": "大阪城天守閣"
+      },
+      {
+        "name": "西の丸庭園"
+      },
+      {
+        "name": "豊國神社"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "大阪",
+    "lat": 34.687,
+    "lng": 135.526,
+    "travelTime": {
+      "osaka": 20,
+      "tokyo": 185,
+      "nagoya": 80,
+      "fukuoka": 185,
+      "hiroshima": 110,
+      "takamatsu": 125,
+      "sendai": 195
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E5%25A4%25A7%25E9%2598%25AA",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2591%25E5%258D%25E3"
+    },
+    "rentalCarRecommended": false
+  },
+  {
+    "id": "dotonbori",
+    "name": "道頓堀",
+    "type": "destination",
+    "region": "近畿",
+    "prefecture": "大阪府",
+    "hub": "大阪",
+    "hubName": "大阪",
+    "hubCity": "大阪",
+    "stayAllowed": [
+      "daytrip",
+      "1night"
+    ],
+    "departures": [
+      "大阪"
+    ],
+    "weight": 1.0,
+    "description": "大阪の食い倒れストリート。たこ焼き・お好み焼き・串カツの聖地、道頓堀川クルーズも人気。",
+    "tags": [
+      "街歩き",
+      "グルメ"
+    ],
+    "spots": [
+      {
+        "name": "グリコサイン"
+      },
+      {
+        "name": "戎橋"
+      },
+      {
+        "name": "法善寺横丁"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "道頓堀",
+    "lat": 34.668,
+    "lng": 135.501,
+    "travelTime": {
+      "osaka": 15,
+      "tokyo": 180,
+      "nagoya": 75,
+      "fukuoka": 180,
+      "hiroshima": 105,
+      "takamatsu": 120,
+      "sendai": 190
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E9%2581%2593%25E9%25A0%2593%25E5%25A0%2580",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2593%25B9%2593%25DA%2596%2578"
+    },
+    "rentalCarRecommended": false
+  },
+  {
+    "id": "osaka-bay",
+    "name": "ベイエリア大阪",
+    "type": "destination",
+    "region": "近畿",
+    "prefecture": "大阪府",
+    "hub": "大阪",
+    "hubName": "大阪",
+    "hubCity": "大阪",
+    "stayAllowed": [
+      "daytrip",
+      "1night"
+    ],
+    "departures": [
+      "大阪"
+    ],
+    "weight": 1.0,
+    "description": "大阪湾の都市リゾート。世界最大級の海遊館とサンタマリア号クルーズ。",
+    "tags": [
+      "街歩き",
+      "海"
+    ],
+    "spots": [
+      {
+        "name": "海遊館"
+      },
+      {
+        "name": "天保山"
+      },
+      {
+        "name": "コスモタワー"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "大阪 USJ",
+    "lat": 34.659,
+    "lng": 135.43,
+    "travelTime": {
+      "osaka": 30,
+      "tokyo": 195,
+      "nagoya": 90,
+      "fukuoka": 195,
+      "hiroshima": 120,
+      "takamatsu": 135,
+      "sendai": 205
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E5%25A4%25A7%25E9%2598%25AA%2520USJ",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2591%25E5%258D%25E3%2520%2555%2553%254A"
+    },
+    "rentalCarRecommended": false
+  },
+  {
+    "id": "katsuoji",
+    "name": "勝尾寺",
+    "type": "destination",
+    "region": "近畿",
+    "prefecture": "大阪府",
+    "hub": "大阪",
+    "hubName": "大阪",
+    "hubCity": "大阪",
+    "stayAllowed": [
+      "daytrip"
+    ],
+    "departures": [
+      "大阪"
+    ],
+    "weight": 1.0,
+    "description": "勝運の寺として有名。境内にずらり並ぶダルマと、秋の紅葉が圧巻の山間古刹。",
+    "tags": [
+      "寺社",
+      "紅葉",
+      "自然"
+    ],
+    "spots": [
+      {
+        "name": "勝尾寺本堂"
+      },
+      {
+        "name": "ダルマ群"
+      },
+      {
+        "name": "紅葉"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "箕面",
+    "lat": 34.857,
+    "lng": 135.495,
+    "travelTime": {
+      "osaka": 60,
+      "tokyo": 225,
+      "nagoya": 120,
+      "fukuoka": 225,
+      "hiroshima": 150,
+      "takamatsu": 165,
+      "sendai": 235
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E7%25AE%2595%25E9%259D%25A2",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2596%25A5%2596%25CA"
+    },
+    "rentalCarRecommended": true
+  },
+  {
+    "id": "sennan",
+    "name": "岬町",
+    "type": "destination",
+    "region": "近畿",
+    "prefecture": "大阪府",
+    "hub": "大阪",
+    "hubName": "大阪",
+    "hubCity": "大阪",
+    "stayAllowed": [
+      "daytrip",
+      "1night"
+    ],
+    "departures": [
+      "大阪"
+    ],
+    "weight": 1.0,
+    "description": "大阪府最南端、紀淡海峡を望む漁村。海水浴と新鮮な海の幸が楽しめる穴場。",
+    "tags": [
+      "海",
+      "秘境"
+    ],
+    "spots": [
+      {
+        "name": "みさき公園"
+      },
+      {
+        "name": "長松海岸"
+      },
+      {
+        "name": "岬町漁業協同組合"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "岬 関空",
+    "lat": 34.33,
+    "lng": 135.139,
+    "travelTime": {
+      "osaka": 75,
+      "tokyo": 240,
+      "nagoya": 135,
+      "fukuoka": 240,
+      "hiroshima": 165,
+      "takamatsu": 180,
+      "sendai": 250
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E5%25B2%25AC%2520%25E9%2596%25A2%25E7%25A9%25BA",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2596%25A6%2520%258A%25D6%258B%25F3"
+    },
+    "rentalCarRecommended": true
+  },
+  {
+    "id": "takatsuki",
+    "name": "高槻",
+    "type": "destination",
+    "region": "近畿",
+    "prefecture": "大阪府",
+    "hub": "大阪",
+    "hubName": "大阪",
+    "hubCity": "大阪",
+    "stayAllowed": [
+      "daytrip",
+      "1night"
+    ],
+    "departures": [
+      "大阪"
+    ],
+    "weight": 1.0,
+    "description": "大阪と京都の中間都市。今城塚古墳の大型埴輪復元と摂津峡渓谷ハイキング。",
+    "tags": [
+      "歴史",
+      "自然"
+    ],
+    "spots": [
+      {
+        "name": "今城塚古墳"
+      },
+      {
+        "name": "摂津峡"
+      },
+      {
+        "name": "高槻ジャズストリート"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "高槻",
+    "lat": 34.846,
+    "lng": 135.617,
+    "travelTime": {
+      "osaka": 30,
+      "tokyo": 195,
+      "nagoya": 90,
+      "fukuoka": 195,
+      "hiroshima": 120,
+      "takamatsu": 135,
+      "sendai": 205
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E9%25AB%2598%25E6%25A7%25BB",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%258D%2582%2592%25CE"
+    },
+    "rentalCarRecommended": true
+  },
+  {
+    "id": "izumiotsu",
+    "name": "泉佐野",
+    "type": "destination",
+    "region": "近畿",
+    "prefecture": "大阪府",
+    "hub": "大阪",
+    "hubName": "大阪",
+    "hubCity": "大阪",
+    "stayAllowed": [
+      "daytrip",
+      "1night"
+    ],
+    "departures": [
+      "大阪"
+    ],
+    "weight": 1.0,
+    "description": "関空のお膝元。犬鳴山温泉と日根荘遺跡、りんくうタウンのアウトレットなど多彩。",
+    "tags": [
+      "温泉",
+      "街歩き"
+    ],
+    "spots": [
+      {
+        "name": "犬鳴山"
+      },
+      {
+        "name": "日根神社"
+      },
+      {
+        "name": "りんくうタウン"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "泉佐野 関空",
+    "lat": 34.401,
+    "lng": 135.318,
+    "travelTime": {
+      "osaka": 50,
+      "tokyo": 215,
+      "nagoya": 110,
+      "fukuoka": 215,
+      "hiroshima": 140,
+      "takamatsu": 155,
+      "sendai": 225
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E6%25B3%2589%25E4%25BD%2590%25E9%2587%258E%2520%25E9%2596%25A2%25E7%25A9%25BA",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2590%25F2%258D%25B2%2596%25EC%2520%258A%25D6%258B%25F3"
+    },
+    "rentalCarRecommended": false
+  },
+  {
+    "id": "saga-city",
+    "name": "佐賀",
+    "type": "destination",
+    "region": "九州",
+    "prefecture": "佐賀県",
+    "hub": "福岡",
+    "hubName": "福岡",
+    "hubCity": "福岡",
+    "stayAllowed": [
+      "daytrip",
+      "1night"
+    ],
+    "departures": [
+      "福岡"
+    ],
+    "weight": 1.0,
+    "description": "佐賀の県庁所在地。バルーンフェスタの開催地で、佐賀牛・呼子イカなど食も豊富。",
+    "tags": [
+      "歴史",
+      "街歩き",
+      "祭"
+    ],
+    "spots": [
+      {
+        "name": "佐賀城本丸歴史館"
+      },
+      {
+        "name": "大隈重信記念館"
+      },
+      {
+        "name": "バルーンミュージアム"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "佐賀",
+    "lat": 33.249,
+    "lng": 130.299,
+    "travelTime": {
+      "fukuoka": 40,
+      "tokyo": 345,
+      "osaka": 205,
+      "nagoya": 255,
+      "hiroshima": 115,
+      "sapporo": 215
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E4%25BD%2590%25E8%25B3%2580",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%258D%25B2%2589%25EA"
+    },
+    "rentalCarRecommended": false
+  },
+  {
+    "id": "imari",
+    "name": "伊万里",
+    "type": "destination",
+    "region": "九州",
+    "prefecture": "佐賀県",
+    "hub": "福岡",
+    "hubName": "福岡",
+    "hubCity": "福岡",
+    "stayAllowed": [
+      "daytrip",
+      "1night"
+    ],
+    "departures": [
+      "福岡"
+    ],
+    "weight": 1.0,
+    "description": "秘窯の里・大川内山と、有田焼の積出港として栄えた歴史。鍋島焼の伝統が今も息づく。",
+    "tags": [
+      "伝統",
+      "歴史",
+      "街歩き"
+    ],
+    "spots": [
+      {
+        "name": "大川内山"
+      },
+      {
+        "name": "伊万里湾"
+      },
+      {
+        "name": "伊万里牛"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "伊万里",
+    "lat": 33.272,
+    "lng": 129.881,
+    "travelTime": {
+      "fukuoka": 100,
+      "tokyo": 405,
+      "osaka": 265,
+      "nagoya": 315,
+      "hiroshima": 175,
+      "sapporo": 275
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E4%25BC%258A%25E4%25B8%2587%25E9%2587%258C",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2588%25C9%2596%259C%2597%25A2"
+    },
+    "rentalCarRecommended": false
+  },
+  {
+    "id": "obama-fukui",
+    "name": "小浜",
+    "type": "destination",
+    "region": "中部",
+    "prefecture": "福井県",
+    "hub": "大阪",
+    "hubName": "大阪",
+    "hubCity": "大阪",
+    "stayAllowed": [
+      "daytrip",
+      "1night"
+    ],
+    "departures": [
+      "大阪"
+    ],
+    "weight": 1.0,
+    "description": "京都への鯖街道の起点。海の京都と呼ばれる古社寺と、若狭の海の幸が魅力。",
+    "tags": [
+      "歴史",
+      "海",
+      "街歩き"
+    ],
+    "spots": [
+      {
+        "name": "若狭おばま食文化館"
+      },
+      {
+        "name": "蘇洞門"
+      },
+      {
+        "name": "八百比丘尼伝説"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "若狭小浜",
+    "lat": 35.498,
+    "lng": 135.747,
+    "travelTime": {
+      "osaka": 130,
+      "tokyo": 295,
+      "nagoya": 190,
+      "fukuoka": 295,
+      "hiroshima": 220,
+      "takamatsu": 235,
+      "sendai": 305
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E8%258B%25A5%25E7%258B%25AD%25E5%25B0%258F%25E6%25B5%259C",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%258E%25E1%258B%25B7%258F%25AC%2595%256C"
+    },
+    "rentalCarRecommended": false
+  },
+  {
+    "id": "echizen-pottery",
+    "name": "越前焼の里",
+    "type": "destination",
+    "region": "中部",
+    "prefecture": "福井県",
+    "hub": "金沢",
+    "hubName": "金沢",
+    "hubCity": "金沢",
+    "stayAllowed": [
+      "daytrip"
+    ],
+    "departures": [
+      "金沢"
+    ],
+    "weight": 1.0,
+    "description": "日本六古窯の一つ越前焼の本場。緑豊かな陶芸村で作陶体験ができる。",
+    "tags": [
+      "伝統",
+      "街歩き"
+    ],
+    "spots": [
+      {
+        "name": "越前陶芸村"
+      },
+      {
+        "name": "福井県陶芸館"
+      },
+      {
+        "name": "越前焼工房"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "越前陶芸 武生",
+    "lat": 35.916,
+    "lng": 136.165,
+    "travelTime": {
+      "kanazawa": 100,
+      "tokyo": 275,
+      "osaka": 265,
+      "nagoya": 265,
+      "fukuoka": 420
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E8%25B6%258A%25E5%2589%258D%25E9%2599%25B6%25E8%258A%25B8%2520%25E6%25AD%25A6%25E7%2594%259F",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2589%257A%2591%254F%2593%25A9%258C%257C%2520%2595%2590%2590%25B6"
+    },
+    "rentalCarRecommended": false
+  },
+  {
+    "id": "boso-hills",
+    "name": "養老渓谷",
+    "type": "destination",
+    "region": "関東",
+    "prefecture": "千葉県",
+    "hub": "東京",
+    "hubName": "東京",
+    "hubCity": "東京",
+    "stayAllowed": [
+      "1night"
+    ],
+    "departures": [
+      "東京"
+    ],
+    "weight": 1.0,
+    "description": "房総半島の中央、紅葉の名所。トンネルと滝が連なるハイキングコースが人気。",
+    "tags": [
+      "紅葉",
+      "自然",
+      "秘境"
+    ],
+    "spots": [
+      {
+        "name": "養老の滝"
+      },
+      {
+        "name": "粟又の滝"
+      },
+      {
+        "name": "弘文洞跡"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "養老渓谷 大多喜",
+    "lat": 35.244,
+    "lng": 140.158,
+    "travelTime": {
+      "tokyo": 130,
+      "osaka": 295,
+      "nagoya": 235,
+      "fukuoka": 435,
+      "sapporo": 275,
+      "sendai": 225,
+      "hiroshima": 365
+    },
+    "stayRecommendation": "1night",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E9%25A4%258A%25E8%2580%2581%25E6%25B8%2593%25E8%25B0%25B7%2520%25E5%25A4%25A7%25E5%25A4%259A%25E5%2596%259C",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2597%257B%2598%2556%258C%256B%2592%254A%2520%2591%25E5%2591%25BD%258A%25EC"
+    },
+    "rentalCarRecommended": true
+  },
+  {
+    "id": "isumi",
+    "name": "いすみ鉄道沿線",
+    "type": "destination",
+    "region": "関東",
+    "prefecture": "千葉県",
+    "hub": "東京",
+    "hubName": "東京",
+    "hubCity": "東京",
+    "stayAllowed": [
+      "daytrip",
+      "1night"
+    ],
+    "departures": [
+      "東京"
+    ],
+    "weight": 1.0,
+    "description": "ローカル線いすみ鉄道で巡る菜の花畑と房総ライフ。鉄道ファンと写真家に愛される。",
+    "tags": [
+      "鉄道",
+      "棚田",
+      "街歩き"
+    ],
+    "spots": [
+      {
+        "name": "いすみ鉄道"
+      },
+      {
+        "name": "大原漁港"
+      },
+      {
+        "name": "菜の花畑"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "いすみ 大原",
+    "lat": 35.252,
+    "lng": 140.385,
+    "travelTime": {
+      "tokyo": 110,
+      "osaka": 275,
+      "nagoya": 215,
+      "fukuoka": 415,
+      "sapporo": 255,
+      "sendai": 205,
+      "hiroshima": 345
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E3%2581%2584%25E3%2581%2599%25E3%2581%25BF%2520%25E5%25A4%25A7%25E5%258E%259F",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2582%25A2%2582%25B7%2582%25DD%2520%2591%25E5%258C%25B4"
+    },
+    "rentalCarRecommended": false
+  },
+  {
+    "id": "shibayama",
+    "name": "芝山",
+    "type": "destination",
+    "region": "関東",
+    "prefecture": "千葉県",
+    "hub": "東京",
+    "hubName": "東京",
+    "hubCity": "東京",
+    "stayAllowed": [
+      "daytrip"
+    ],
+    "departures": [
+      "東京"
+    ],
+    "weight": 1.0,
+    "description": "成田空港のすぐ南、はにわの里。古墳群と巨大はにわ、航空博物館が見られる穴場。",
+    "tags": [
+      "歴史",
+      "博物館"
+    ],
+    "spots": [
+      {
+        "name": "芝山仁王尊"
+      },
+      {
+        "name": "芝山古墳"
+      },
+      {
+        "name": "航空科学博物館"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "芝山 成田",
+    "lat": 35.694,
+    "lng": 140.402,
+    "travelTime": {
+      "tokyo": 80,
+      "osaka": 245,
+      "nagoya": 185,
+      "fukuoka": 385,
+      "sapporo": 225,
+      "sendai": 175,
+      "hiroshima": 315
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E8%258A%259D%25E5%25B1%25B1%2520%25E6%2588%2590%25E7%2594%25B0",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%258E%25C5%258E%2552%2520%2590%25AC%2593%2563"
+    },
+    "rentalCarRecommended": false
+  },
+  {
+    "id": "sakura-city",
+    "name": "佐倉",
+    "type": "destination",
+    "region": "関東",
+    "prefecture": "千葉県",
+    "hub": "東京",
+    "hubName": "東京",
+    "hubCity": "東京",
+    "stayAllowed": [
+      "daytrip",
+      "1night"
+    ],
+    "departures": [
+      "東京"
+    ],
+    "weight": 1.0,
+    "description": "江戸時代の城下町。佐倉城址と国立歴史民俗博物館、武家屋敷の街歩きが楽しめる。",
+    "tags": [
+      "歴史",
+      "街歩き",
+      "博物館"
+    ],
+    "spots": [
+      {
+        "name": "佐倉城址公園"
+      },
+      {
+        "name": "国立歴史民俗博物館"
+      },
+      {
+        "name": "武家屋敷"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "佐倉",
+    "lat": 35.726,
+    "lng": 140.224,
+    "travelTime": {
+      "tokyo": 60,
+      "osaka": 225,
+      "nagoya": 165,
+      "fukuoka": 365,
+      "sapporo": 205,
+      "sendai": 155,
+      "hiroshima": 295
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E4%25BD%2590%25E5%2580%2589",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%258D%25B2%2591%2571"
+    },
+    "rentalCarRecommended": false
+  },
+  {
+    "id": "toyama-glass",
+    "name": "富山ガラス美術館",
+    "type": "destination",
+    "region": "中部",
+    "prefecture": "富山県",
+    "hub": "金沢",
+    "hubName": "金沢",
+    "hubCity": "金沢",
+    "stayAllowed": [
+      "daytrip",
+      "1night"
+    ],
+    "departures": [
+      "金沢"
+    ],
+    "weight": 1.0,
+    "description": "世界的な現代ガラス芸術の殿堂。隈研吾設計の建物自体がアート。",
+    "tags": [
+      "アート",
+      "建築",
+      "街歩き"
+    ],
+    "spots": [
+      {
+        "name": "富山市ガラス美術館"
+      },
+      {
+        "name": "TOYAMAキラリ"
+      },
+      {
+        "name": "富山中央通り"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "富山",
+    "lat": 36.696,
+    "lng": 137.214,
+    "travelTime": {
+      "kanazawa": 30,
+      "tokyo": 205,
+      "osaka": 195,
+      "nagoya": 195,
+      "fukuoka": 350
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E5%25AF%258C%25E5%25B1%25B1",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2595%2578%258E%2552"
+    },
+    "rentalCarRecommended": false
+  },
+  {
+    "id": "zuiryuji",
+    "name": "高岡",
+    "type": "destination",
+    "region": "中部",
+    "prefecture": "富山県",
+    "hub": "金沢",
+    "hubName": "金沢",
+    "hubCity": "金沢",
+    "stayAllowed": [
+      "daytrip",
+      "1night"
+    ],
+    "departures": [
+      "金沢"
+    ],
+    "weight": 1.0,
+    "description": "加賀前田家二代利長公ゆかりの城下町。国宝瑞龍寺と日本三大仏の高岡大仏。",
+    "tags": [
+      "歴史",
+      "寺社",
+      "街歩き"
+    ],
+    "spots": [
+      {
+        "name": "瑞龍寺"
+      },
+      {
+        "name": "高岡大仏"
+      },
+      {
+        "name": "高岡古城公園"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "高岡",
+    "lat": 36.755,
+    "lng": 137.026,
+    "travelTime": {
+      "kanazawa": 25,
+      "tokyo": 200,
+      "osaka": 190,
+      "nagoya": 190,
+      "fukuoka": 345
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E9%25AB%2598%25E5%25B2%25A1",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%258D%2582%2589%25AA"
+    },
+    "rentalCarRecommended": false
+  },
+  {
+    "id": "toyama-himi-bridge",
+    "name": "海王丸パーク",
+    "type": "destination",
+    "region": "中部",
+    "prefecture": "富山県",
+    "hub": "金沢",
+    "hubName": "金沢",
+    "hubCity": "金沢",
+    "stayAllowed": [
+      "daytrip"
+    ],
+    "departures": [
+      "金沢"
+    ],
+    "weight": 1.0,
+    "description": "射水市の海上パーク。帆船海王丸の見学と新湊大橋の高さ47mの絶景。",
+    "tags": [
+      "海",
+      "街歩き"
+    ],
+    "spots": [
+      {
+        "name": "帆船海王丸"
+      },
+      {
+        "name": "新湊大橋"
+      },
+      {
+        "name": "日本のベニス遊覧船"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "射水 富山",
+    "lat": 36.792,
+    "lng": 137.085,
+    "travelTime": {
+      "kanazawa": 30,
+      "tokyo": 205,
+      "osaka": 195,
+      "nagoya": 195,
+      "fukuoka": 350
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E5%25B0%2584%25E6%25B0%25B4%2520%25E5%25AF%258C%25E5%25B1%25B1",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%258E%25CB%2590%2585%2520%2595%2578%258E%2552"
+    },
+    "rentalCarRecommended": false
+  },
+  {
+    "id": "hakushu",
+    "name": "白州",
+    "type": "destination",
+    "region": "中部",
+    "prefecture": "山梨県",
+    "hub": "東京",
+    "hubName": "東京",
+    "hubCity": "東京",
+    "stayAllowed": [
+      "daytrip",
+      "1night"
+    ],
+    "departures": [
+      "東京"
+    ],
+    "weight": 1.0,
+    "description": "ウイスキー白州の故郷。蒸溜所見学とサントリーミュージアム、清流尾白川の透明度。",
+    "tags": [
+      "酒",
+      "自然",
+      "街歩き"
+    ],
+    "spots": [
+      {
+        "name": "サントリー白州蒸溜所"
+      },
+      {
+        "name": "尾白川渓谷"
+      },
+      {
+        "name": "道の駅はくしゅう"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "白州 北杜",
+    "lat": 35.818,
+    "lng": 138.297,
+    "travelTime": {
+      "tokyo": 130,
+      "osaka": 295,
+      "nagoya": 235,
+      "fukuoka": 435,
+      "sapporo": 275,
+      "sendai": 225,
+      "hiroshima": 365
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E7%2599%25BD%25E5%25B7%259E%2520%25E5%258C%2597%25E6%259D%259C",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2594%2592%258F%2542%2520%2596%256B%2593%256D"
+    },
+    "rentalCarRecommended": true
+  },
+  {
+    "id": "hayakawa",
+    "name": "早川町",
+    "type": "destination",
+    "region": "中部",
+    "prefecture": "山梨県",
+    "hub": "東京",
+    "hubName": "東京",
+    "hubCity": "東京",
+    "stayAllowed": [
+      "1night"
+    ],
+    "departures": [
+      "東京"
+    ],
+    "weight": 1.0,
+    "description": "人口900人の日本一小さな町。重要伝統的建造物群保存地区の赤沢宿と山岳秘境。",
+    "tags": [
+      "秘境",
+      "街歩き",
+      "歴史"
+    ],
+    "spots": [
+      {
+        "name": "赤沢宿"
+      },
+      {
+        "name": "奈良田の七不思議"
+      },
+      {
+        "name": "南アルプスの天然水"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "早川 身延",
+    "lat": 35.388,
+    "lng": 138.346,
+    "travelTime": {
+      "tokyo": 200,
+      "osaka": 365,
+      "nagoya": 305,
+      "fukuoka": 505,
+      "sapporo": 345,
+      "sendai": 295,
+      "hiroshima": 435
+    },
+    "stayRecommendation": "1night",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E6%2597%25A9%25E5%25B7%259D%2520%25E8%25BA%25AB%25E5%25BB%25B6",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2591%2581%2590%25EC%2520%2590%2567%2589%2584"
+    },
+    "rentalCarRecommended": true
+  },
+  {
+    "id": "inawashiro",
+    "name": "猪苗代湖",
+    "type": "destination",
+    "region": "東北",
+    "prefecture": "福島県",
+    "hub": "仙台",
+    "hubName": "仙台",
+    "hubCity": "仙台",
+    "stayAllowed": [
+      "1night"
+    ],
+    "departures": [
+      "仙台"
+    ],
+    "weight": 1.0,
+    "description": "日本第4位の湖。磐梯山を映す水鏡と、白鳥が飛来する冬の風景が美しい。",
+    "tags": [
+      "湖",
+      "自然"
+    ],
+    "spots": [
+      {
+        "name": "天鏡閣"
+      },
+      {
+        "name": "野口英世記念館"
+      },
+      {
+        "name": "磐梯山"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "猪苗代",
+    "lat": 37.503,
+    "lng": 140.108,
+    "travelTime": {
+      "sendai": 130,
+      "tokyo": 225,
+      "osaka": 305,
+      "nagoya": 275,
+      "fukuoka": 325,
+      "sapporo": 375
+    },
+    "stayRecommendation": "1night",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E7%258C%25AA%25E8%258B%2597%25E4%25BB%25A3",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2592%2596%2595%2563%2591%25E3"
+    },
+    "rentalCarRecommended": true
+  },
+  {
+    "id": "iwaki-spa",
+    "name": "いわき湯本温泉",
+    "type": "destination",
+    "region": "東北",
+    "prefecture": "福島県",
+    "hub": "仙台",
+    "hubName": "仙台",
+    "hubCity": "仙台",
+    "stayAllowed": [
+      "1night"
+    ],
+    "departures": [
+      "仙台"
+    ],
+    "weight": 1.0,
+    "description": "ハワイアンズで有名な太平洋側の温泉地。フラガールの里として復興のシンボル。",
+    "tags": [
+      "温泉",
+      "子連れ"
+    ],
+    "spots": [
+      {
+        "name": "スパリゾートハワイアンズ"
+      },
+      {
+        "name": "いわき市石炭・化石館"
+      },
+      {
+        "name": "勿来の関"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "いわき湯本",
+    "lat": 37.061,
+    "lng": 140.789,
+    "travelTime": {
+      "sendai": 170,
+      "tokyo": 265,
+      "osaka": 345,
+      "nagoya": 315,
+      "fukuoka": 365,
+      "sapporo": 415
+    },
+    "stayRecommendation": "1night",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E3%2581%2584%25E3%2582%258F%25E3%2581%258D%25E6%25B9%25AF%25E6%259C%25AC",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2582%25A2%2582%25ED%2582%25AB%2593%2592%2596%257B"
+    },
+    "rentalCarRecommended": false
+  },
+  {
+    "id": "miyama-kayabuki",
+    "name": "美山かやぶきの里",
+    "type": "destination",
+    "region": "近畿",
+    "prefecture": "京都府",
+    "hub": "大阪",
+    "hubName": "大阪",
+    "hubCity": "大阪",
+    "stayAllowed": [
+      "daytrip",
+      "1night"
+    ],
+    "departures": [
+      "大阪"
+    ],
+    "weight": 1.0,
+    "description": "北山に抱かれた茅葺集落。50戸ある民家の半分以上が茅葺で、田園風景と一体。",
+    "tags": [
+      "街歩き",
+      "秘境",
+      "歴史"
+    ],
+    "spots": [
+      {
+        "name": "北村"
+      },
+      {
+        "name": "かやぶき美術館"
+      },
+      {
+        "name": "由良川"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "美山",
+    "lat": 35.279,
+    "lng": 135.594,
+    "travelTime": {
+      "osaka": 140,
+      "tokyo": 305,
+      "nagoya": 200,
+      "fukuoka": 305,
+      "hiroshima": 230,
+      "takamatsu": 245,
+      "sendai": 315
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E7%25BE%258E%25E5%25B1%25B1",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2594%25FC%258E%2552"
+    },
+    "rentalCarRecommended": true
+  },
+  {
+    "id": "arashiyama-2",
+    "name": "嵐山奥地",
+    "type": "destination",
+    "region": "近畿",
+    "prefecture": "京都府",
+    "hub": "大阪",
+    "hubName": "大阪",
+    "hubCity": "大阪",
+    "stayAllowed": [
+      "daytrip",
+      "1night"
+    ],
+    "departures": [
+      "大阪"
+    ],
+    "weight": 1.0,
+    "description": "嵐山の有名スポットだけでなく、トロッコと保津川下り、奥嵯峨の隠れた古寺巡り。",
+    "tags": [
+      "街歩き",
+      "寺社",
+      "自然"
+    ],
+    "spots": [
+      {
+        "name": "竹林の道"
+      },
+      {
+        "name": "保津川下り"
+      },
+      {
+        "name": "嵯峨野トロッコ列車"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "嵐山",
+    "lat": 35.018,
+    "lng": 135.677,
+    "travelTime": {
+      "osaka": 70,
+      "tokyo": 235,
+      "nagoya": 130,
+      "fukuoka": 235,
+      "hiroshima": 160,
+      "takamatsu": 175,
+      "sendai": 245
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E5%25B5%2590%25E5%25B1%25B1",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2597%2592%258E%2552"
+    },
+    "rentalCarRecommended": true
+  },
+  {
+    "id": "ohara-2",
+    "name": "大原の里",
+    "type": "destination",
+    "region": "近畿",
+    "prefecture": "京都府",
+    "hub": "大阪",
+    "hubName": "大阪",
+    "hubCity": "大阪",
+    "stayAllowed": [
+      "daytrip",
+      "1night"
+    ],
+    "departures": [
+      "大阪"
+    ],
+    "weight": 1.0,
+    "description": "京都北部の隠れ里。建礼門院ゆかりの寂光院と、苔と紅葉の三千院。",
+    "tags": [
+      "寺社",
+      "秘境",
+      "紅葉"
+    ],
+    "spots": [
+      {
+        "name": "寂光院"
+      },
+      {
+        "name": "三千院"
+      },
+      {
+        "name": "宝泉院"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "大原 京都",
+    "lat": 35.118,
+    "lng": 135.836,
+    "travelTime": {
+      "osaka": 95,
+      "tokyo": 260,
+      "nagoya": 155,
+      "fukuoka": 260,
+      "hiroshima": 185,
+      "takamatsu": 200,
+      "sendai": 270
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E5%25A4%25A7%25E5%258E%259F%2520%25E4%25BA%25AC%25E9%2583%25BD",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2591%25E5%258C%25B4%2520%258B%259E%2593%2573"
+    },
+    "rentalCarRecommended": true
+  },
+  {
+    "id": "keihoku",
+    "name": "京北",
+    "type": "destination",
+    "region": "近畿",
+    "prefecture": "京都府",
+    "hub": "大阪",
+    "hubName": "大阪",
+    "hubCity": "大阪",
+    "stayAllowed": [
+      "daytrip",
+      "1night"
+    ],
+    "departures": [
+      "大阪"
+    ],
+    "weight": 1.0,
+    "description": "京都市内とは思えない山里。樹齢500年の御車返しの桜と、北山杉の里。",
+    "tags": [
+      "秘境",
+      "桜",
+      "自然"
+    ],
+    "spots": [
+      {
+        "name": "常照皇寺"
+      },
+      {
+        "name": "道の駅ウッディー京北"
+      },
+      {
+        "name": "黒田の百年桜"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "京北 京都",
+    "lat": 35.22,
+    "lng": 135.629,
+    "travelTime": {
+      "osaka": 130,
+      "tokyo": 295,
+      "nagoya": 190,
+      "fukuoka": 295,
+      "hiroshima": 220,
+      "takamatsu": 235,
+      "sendai": 305
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E4%25BA%25AC%25E5%258C%2597%2520%25E4%25BA%25AC%25E9%2583%25BD",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%258B%259E%2596%256B%2520%258B%259E%2593%2573"
+    },
+    "rentalCarRecommended": true
+  },
+  {
+    "id": "takeda-castle",
+    "name": "竹田城跡",
+    "type": "destination",
+    "region": "近畿",
+    "prefecture": "兵庫県",
+    "hub": "大阪",
+    "hubName": "大阪",
+    "hubCity": "大阪",
+    "stayAllowed": [
+      "daytrip",
+      "1night"
+    ],
+    "departures": [
+      "大阪"
+    ],
+    "weight": 1.0,
+    "description": "天空の城。雲海に浮かぶ竹田城跡は秋の早朝が見頃、立雲峡から眺めるのが定番。",
+    "tags": [
+      "歴史",
+      "絶景",
+      "秘境"
+    ],
+    "spots": [
+      {
+        "name": "竹田城跡"
+      },
+      {
+        "name": "立雲峡"
+      },
+      {
+        "name": "虎臥城公園"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "竹田城 朝来",
+    "lat": 35.3,
+    "lng": 134.829,
+    "travelTime": {
+      "osaka": 165,
+      "tokyo": 330,
+      "nagoya": 225,
+      "fukuoka": 330,
+      "hiroshima": 255,
+      "takamatsu": 270,
+      "sendai": 340
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E7%25AB%25B9%25E7%2594%25B0%25E5%259F%258E%2520%25E6%259C%259D%25E6%259D%25A5",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2592%257C%2593%2563%258F%25E9%2520%2592%25A9%2597%2588"
+    },
+    "rentalCarRecommended": true
+  },
+  {
+    "id": "takamatsu-ritsurin",
+    "name": "栗林公園",
+    "type": "destination",
+    "region": "四国",
+    "prefecture": "香川県",
+    "hub": "高松",
+    "hubName": "高松",
+    "hubCity": "高松",
+    "stayAllowed": [
+      "daytrip"
+    ],
+    "departures": [
+      "高松"
+    ],
+    "weight": 1.0,
+    "description": "一歩一景と称される回遊式庭園。ミシュラン3つ星の特別名勝、四季折々の景観が楽しめる。",
+    "tags": [
+      "庭園",
+      "歴史"
+    ],
+    "spots": [
+      {
+        "name": "栗林公園"
+      },
+      {
+        "name": "掬月亭"
+      },
+      {
+        "name": "飛来峰"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "高松",
+    "lat": 34.328,
+    "lng": 134.045,
+    "travelTime": {
+      "takamatsu": 15,
+      "tokyo": 260,
+      "osaka": 120,
+      "nagoya": 180,
+      "fukuoka": 190,
+      "hiroshima": 180
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E9%25AB%2598%25E6%259D%25BE",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%258D%2582%258F%25BC"
+    },
+    "rentalCarRecommended": false
+  },
+  {
+    "id": "manno",
+    "name": "まんのう",
+    "type": "destination",
+    "region": "四国",
+    "prefecture": "香川県",
+    "hub": "高松",
+    "hubName": "高松",
+    "hubCity": "高松",
+    "stayAllowed": [
+      "daytrip",
+      "1night"
+    ],
+    "departures": [
+      "高松"
+    ],
+    "weight": 1.0,
+    "description": "国営公園のチューリップと、空海ゆかりの満濃池。讃岐の田園風景の中心。",
+    "tags": [
+      "自然",
+      "子連れ"
+    ],
+    "spots": [
+      {
+        "name": "国営讃岐まんのう公園"
+      },
+      {
+        "name": "満濃池"
+      },
+      {
+        "name": "香川用水記念公園"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "まんのう 琴平",
+    "lat": 34.158,
+    "lng": 133.856,
+    "travelTime": {
+      "takamatsu": 50,
+      "tokyo": 295,
+      "osaka": 155,
+      "nagoya": 215,
+      "fukuoka": 225,
+      "hiroshima": 215
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E3%2581%25BE%25E3%2582%2593%25E3%2581%25AE%25E3%2581%2586%2520%25E7%2590%25B4%25E5%25B9%25B3",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2582%25DC%2582%25F1%2582%25CC%2582%25A4%2520%258B%25D5%2595%25BD"
+    },
+    "rentalCarRecommended": true
+  },
+  {
+    "id": "zentsuji",
+    "name": "善通寺",
+    "type": "destination",
+    "region": "四国",
+    "prefecture": "香川県",
+    "hub": "高松",
+    "hubName": "高松",
+    "hubCity": "高松",
+    "stayAllowed": [
+      "daytrip",
+      "1night"
+    ],
+    "departures": [
+      "高松"
+    ],
+    "weight": 1.0,
+    "description": "弘法大師空海の生誕地。四国八十八ヶ所霊場75番札所、五重塔と御影堂が見どころ。",
+    "tags": [
+      "寺社",
+      "歴史"
+    ],
+    "spots": [
+      {
+        "name": "善通寺"
+      },
+      {
+        "name": "善通寺市"
+      },
+      {
+        "name": "五岳山"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "善通寺",
+    "lat": 34.219,
+    "lng": 133.776,
+    "travelTime": {
+      "takamatsu": 55,
+      "tokyo": 300,
+      "osaka": 160,
+      "nagoya": 220,
+      "fukuoka": 230,
+      "hiroshima": 220
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E5%2596%2584%25E9%2580%259A%25E5%25AF%25BA",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2591%2550%2592%25CA%258E%259B"
+    },
+    "rentalCarRecommended": false
+  },
+  {
+    "id": "katsurahama",
+    "name": "桂浜",
+    "type": "destination",
+    "region": "四国",
+    "prefecture": "高知県",
+    "hub": "高松",
+    "hubName": "高松",
+    "hubCity": "高松",
+    "stayAllowed": [
+      "daytrip",
+      "1night"
+    ],
+    "departures": [
+      "高松"
+    ],
+    "weight": 1.0,
+    "description": "太平洋を見つめる坂本龍馬像。月の名所として知られる土佐の名勝海岸。",
+    "tags": [
+      "海",
+      "歴史",
+      "街歩き"
+    ],
+    "spots": [
+      {
+        "name": "坂本龍馬像"
+      },
+      {
+        "name": "桂浜水族館"
+      },
+      {
+        "name": "上龍頭岬"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "高知 桂浜",
+    "lat": 33.5,
+    "lng": 133.575,
+    "travelTime": {
+      "takamatsu": 130,
+      "tokyo": 375,
+      "osaka": 235,
+      "nagoya": 295,
+      "fukuoka": 305,
+      "hiroshima": 295
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E9%25AB%2598%25E7%259F%25A5%2520%25E6%25A1%2582%25E6%25B5%259C",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%258D%2582%2592%256D%2520%258C%256A%2595%256C"
+    },
+    "rentalCarRecommended": false
+  },
+  {
+    "id": "mugi",
+    "name": "牟岐",
+    "type": "destination",
+    "region": "四国",
+    "prefecture": "徳島県",
+    "hub": "高松",
+    "hubName": "高松",
+    "hubCity": "高松",
+    "stayAllowed": [
+      "1night"
+    ],
+    "departures": [
+      "高松"
+    ],
+    "weight": 1.0,
+    "description": "南阿波サンライン沿いの漁師町。出羽島と千羽海崖の海食崖が見どころ。",
+    "tags": [
+      "海",
+      "秘境"
+    ],
+    "spots": [
+      {
+        "name": "出羽島"
+      },
+      {
+        "name": "千羽海崖"
+      },
+      {
+        "name": "ウミガメ博物館"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "牟岐 阿南",
+    "lat": 33.671,
+    "lng": 134.421,
+    "travelTime": {
+      "takamatsu": 180,
+      "tokyo": 425,
+      "osaka": 285,
+      "nagoya": 345,
+      "fukuoka": 355,
+      "hiroshima": 345
+    },
+    "stayRecommendation": "1night",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E7%2589%259F%25E5%25B2%2590%2520%25E9%2598%25BF%25E5%258D%2597",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2596%25B4%258A%25F2%2520%2588%25A2%2593%25EC"
+    },
+    "rentalCarRecommended": true
+  },
+  {
+    "id": "takayama-2",
+    "name": "飛騨高山",
+    "type": "destination",
+    "region": "中部",
+    "prefecture": "岐阜県",
+    "hub": "名古屋",
+    "hubName": "名古屋",
+    "hubCity": "名古屋",
+    "stayAllowed": [
+      "1night",
+      "2night"
+    ],
+    "departures": [
+      "名古屋"
+    ],
+    "weight": 1.0,
+    "description": "飛騨の小京都。江戸時代の町並みと、毎日開催される朝市、飛騨牛と高山ラーメン。",
+    "tags": [
+      "街歩き",
+      "歴史",
+      "グルメ"
+    ],
+    "spots": [
+      {
+        "name": "古い町並み"
+      },
+      {
+        "name": "高山陣屋"
+      },
+      {
+        "name": "宮川朝市"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "高山",
+    "lat": 36.14,
+    "lng": 137.252,
+    "travelTime": {
+      "nagoya": 130,
+      "tokyo": 235,
+      "osaka": 190,
+      "fukuoka": 345,
+      "hiroshima": 265,
+      "sendai": 275
+    },
+    "stayRecommendation": "1night",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E9%25AB%2598%25E5%25B1%25B1",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%258D%2582%258E%2552"
+    },
+    "rentalCarRecommended": false
+  },
+  {
+    "id": "kumamoto-castle",
+    "name": "熊本城",
+    "type": "destination",
+    "region": "九州",
+    "prefecture": "熊本県",
+    "hub": "福岡",
+    "hubName": "福岡",
+    "hubCity": "福岡",
+    "stayAllowed": [
+      "daytrip",
+      "1night"
+    ],
+    "departures": [
+      "福岡"
+    ],
+    "weight": 1.0,
+    "description": "日本三名城の一つ。震災から復興中の天守と、加藤清正ゆかりの城下町。",
+    "tags": [
+      "歴史",
+      "寺社",
+      "街歩き"
+    ],
+    "spots": [
+      {
+        "name": "熊本城"
+      },
+      {
+        "name": "二の丸広場"
+      },
+      {
+        "name": "加藤神社"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "熊本",
+    "lat": 32.806,
+    "lng": 130.706,
+    "travelTime": {
+      "fukuoka": 90,
+      "tokyo": 395,
+      "osaka": 255,
+      "nagoya": 305,
+      "hiroshima": 165,
+      "sapporo": 265
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E7%2586%258A%25E6%259C%25AC",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%258C%2546%2596%257B"
+    },
+    "rentalCarRecommended": false
+  },
+  {
+    "id": "hitoyoshi-onsen",
+    "name": "人吉温泉",
+    "type": "destination",
+    "region": "九州",
+    "prefecture": "熊本県",
+    "hub": "福岡",
+    "hubName": "福岡",
+    "hubCity": "福岡",
+    "stayAllowed": [
+      "1night"
+    ],
+    "departures": [
+      "福岡"
+    ],
+    "weight": 1.0,
+    "description": "相良氏の城下町。国宝の青井阿蘇神社と、激流の球磨川下り。",
+    "tags": [
+      "温泉",
+      "寺社",
+      "歴史"
+    ],
+    "spots": [
+      {
+        "name": "人吉城"
+      },
+      {
+        "name": "青井阿蘇神社"
+      },
+      {
+        "name": "球磨川下り"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "人吉温泉",
+    "lat": 32.214,
+    "lng": 130.762,
+    "travelTime": {
+      "fukuoka": 150,
+      "tokyo": 455,
+      "osaka": 315,
+      "nagoya": 365,
+      "hiroshima": 225,
+      "sapporo": 325
+    },
+    "stayRecommendation": "1night",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E4%25BA%25BA%25E5%2590%2589%25E6%25B8%25A9%25E6%25B3%2589",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2590%256C%258B%2567%2589%25B7%2590%25F2"
+    },
+    "rentalCarRecommended": false
+  },
+  {
+    "id": "nichinan-coast",
+    "name": "日南海岸",
+    "type": "destination",
+    "region": "九州",
+    "prefecture": "宮崎県",
+    "hub": "福岡",
+    "hubName": "福岡",
+    "hubCity": "福岡",
+    "stayAllowed": [
+      "1night"
+    ],
+    "departures": [
+      "福岡"
+    ],
+    "weight": 1.0,
+    "description": "太平洋を望む海岸線。崖の中の鵜戸神宮と、イースター島モアイ像のサンメッセ。",
+    "tags": [
+      "寺社",
+      "海",
+      "絶景"
+    ],
+    "spots": [
+      {
+        "name": "鵜戸神宮"
+      },
+      {
+        "name": "堀切峠"
+      },
+      {
+        "name": "サンメッセ日南"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "日南",
+    "lat": 31.617,
+    "lng": 131.378,
+    "travelTime": {
+      "fukuoka": 145,
+      "tokyo": 450,
+      "osaka": 310,
+      "nagoya": 360,
+      "hiroshima": 220,
+      "sapporo": 320
+    },
+    "stayRecommendation": "1night",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E6%2597%25A5%25E5%258D%2597",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2593%25FA%2593%25EC"
+    },
+    "rentalCarRecommended": true
+  },
+  {
+    "id": "niigata-city",
+    "name": "新潟",
+    "type": "destination",
+    "region": "中部",
+    "prefecture": "新潟県",
+    "hub": "東京",
+    "hubName": "東京",
+    "hubCity": "東京",
+    "stayAllowed": [
+      "daytrip",
+      "1night"
+    ],
+    "departures": [
+      "東京"
+    ],
+    "weight": 1.0,
+    "description": "日本海側最大の港町。新鮮な日本海の海鮮と、信濃川の夜景。",
+    "tags": [
+      "街歩き",
+      "グルメ"
+    ],
+    "spots": [
+      {
+        "name": "ピアBandai"
+      },
+      {
+        "name": "白山神社"
+      },
+      {
+        "name": "水族館マリンピア日本海"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "新潟",
+    "lat": 37.916,
+    "lng": 139.036,
+    "travelTime": {
+      "tokyo": 130,
+      "osaka": 295,
+      "nagoya": 235,
+      "fukuoka": 435,
+      "sapporo": 275,
+      "sendai": 225,
+      "hiroshima": 365
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E6%2596%25B0%25E6%25BD%259F",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2590%2556%258A%2583"
+    },
+    "rentalCarRecommended": false
+  },
+  {
+    "id": "echigo-tsumari",
+    "name": "越後妻有",
+    "type": "destination",
+    "region": "中部",
+    "prefecture": "新潟県",
+    "hub": "東京",
+    "hubName": "東京",
+    "hubCity": "東京",
+    "stayAllowed": [
+      "1night",
+      "2night"
+    ],
+    "departures": [
+      "東京"
+    ],
+    "weight": 1.0,
+    "description": "世界最大級の芸術祭の舞台。山里に点在するアート作品と、清津峡のトンネル。",
+    "tags": [
+      "アート",
+      "秘境",
+      "自然"
+    ],
+    "spots": [
+      {
+        "name": "大地の芸術祭"
+      },
+      {
+        "name": "清津峡"
+      },
+      {
+        "name": "まつだい農舞台"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "越後妻有 十日町",
+    "lat": 37.08,
+    "lng": 138.76,
+    "travelTime": {
+      "tokyo": 170,
+      "osaka": 335,
+      "nagoya": 275,
+      "fukuoka": 475,
+      "sapporo": 315,
+      "sendai": 265,
+      "hiroshima": 405
+    },
+    "stayRecommendation": "1night",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E8%25B6%258A%25E5%25BE%258C%25E5%25A6%25BB%25E6%259C%2589%2520%25E5%258D%2581%25E6%2597%25A5%25E7%2594%25BA",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2589%257A%258C%25E3%258D%25C8%2597%254C%2520%258F%255C%2593%25FA%2592%25AC"
+    },
+    "rentalCarRecommended": true
+  },
+  {
+    "id": "nozawa-onsen-niigata",
+    "name": "湯沢",
+    "type": "destination",
+    "region": "中部",
+    "prefecture": "新潟県",
+    "hub": "東京",
+    "hubName": "東京",
+    "hubCity": "東京",
+    "stayAllowed": [
+      "1night",
+      "2night"
+    ],
+    "departures": [
+      "東京"
+    ],
+    "weight": 1.0,
+    "description": "川端康成「雪国」の舞台。冬はスキー、夏は湯沢高原の高山植物園が楽しめる。",
+    "tags": [
+      "温泉",
+      "スキー"
+    ],
+    "spots": [
+      {
+        "name": "湯沢高原"
+      },
+      {
+        "name": "湯沢温泉"
+      },
+      {
+        "name": "GALA湯沢"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "越後湯沢",
+    "lat": 36.937,
+    "lng": 138.821,
+    "travelTime": {
+      "tokyo": 75,
+      "osaka": 240,
+      "nagoya": 180,
+      "fukuoka": 380,
+      "sapporo": 220,
+      "sendai": 170,
+      "hiroshima": 310
+    },
+    "stayRecommendation": "1night",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E8%25B6%258A%25E5%25BE%258C%25E6%25B9%25AF%25E6%25B2%25A2",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2589%257A%258C%25E3%2593%2592%2591%25F2"
+    },
+    "rentalCarRecommended": false
+  },
+  {
+    "id": "kanazawa-castle",
+    "name": "金沢城",
+    "type": "destination",
+    "region": "中部",
+    "prefecture": "石川県",
+    "hub": "金沢",
+    "hubName": "金沢",
+    "hubCity": "金沢",
+    "stayAllowed": [
+      "daytrip"
+    ],
+    "departures": [
+      "金沢"
+    ],
+    "weight": 1.0,
+    "description": "加賀百万石の城跡。日本三名園の兼六園とセットで巡るのが定番。",
+    "tags": [
+      "歴史",
+      "庭園"
+    ],
+    "spots": [
+      {
+        "name": "金沢城"
+      },
+      {
+        "name": "兼六園"
+      },
+      {
+        "name": "21世紀美術館"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "金沢",
+    "lat": 36.565,
+    "lng": 136.659,
+    "travelTime": {
+      "kanazawa": 15,
+      "tokyo": 190,
+      "osaka": 180,
+      "nagoya": 180,
+      "fukuoka": 335
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E9%2587%2591%25E6%25B2%25A2",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%258B%25E0%2591%25F2"
+    },
+    "rentalCarRecommended": false
+  },
+  {
+    "id": "higashi-chaya",
+    "name": "ひがし茶屋街",
+    "type": "destination",
+    "region": "中部",
+    "prefecture": "石川県",
+    "hub": "金沢",
+    "hubName": "金沢",
+    "hubCity": "金沢",
+    "stayAllowed": [
+      "daytrip"
+    ],
+    "departures": [
+      "金沢"
+    ],
+    "weight": 1.0,
+    "description": "金沢の3つの茶屋街で最大規模。江戸時代の茶屋建築と、金箔スイーツの聖地。",
+    "tags": [
+      "街歩き",
+      "歴史"
+    ],
+    "spots": [
+      {
+        "name": "志摩"
+      },
+      {
+        "name": "懐華樓"
+      },
+      {
+        "name": "金箔ソフト"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "金沢",
+    "lat": 36.572,
+    "lng": 136.667,
+    "travelTime": {
+      "kanazawa": 15,
+      "tokyo": 190,
+      "osaka": 180,
+      "nagoya": 180,
+      "fukuoka": 335
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E9%2587%2591%25E6%25B2%25A2",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%258B%25E0%2591%25F2"
+    },
+    "rentalCarRecommended": false
+  },
+  {
+    "id": "biei-furano",
+    "name": "美瑛富良野",
+    "type": "destination",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "hub": "札幌",
+    "hubName": "札幌",
+    "hubCity": "札幌",
+    "stayAllowed": [
+      "1night",
+      "2night"
+    ],
+    "departures": [
+      "札幌"
+    ],
+    "weight": 1.0,
+    "description": "ラベンダー畑で有名な富良野と美瑛。夏の花のシーズンは別世界。",
+    "tags": [
+      "自然",
+      "絶景"
+    ],
+    "spots": [
+      {
+        "name": "ファーム富田"
+      },
+      {
+        "name": "北の国から"
+      },
+      {
+        "name": "ラベンダー"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "富良野",
+    "lat": 43.355,
+    "lng": 142.421,
+    "travelTime": {
+      "sapporo": 130,
+      "tokyo": 275,
+      "osaka": 295,
+      "nagoya": 295,
+      "fukuoka": 305,
+      "sendai": 375
+    },
+    "stayRecommendation": "1night",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E5%25AF%258C%25E8%2589%25AF%25E9%2587%258E",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2595%2578%2597%25C7%2596%25EC"
+    },
+    "rentalCarRecommended": true
+  },
+  {
+    "id": "soya-misaki",
+    "name": "宗谷岬",
+    "type": "destination",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "hub": "札幌",
+    "hubName": "札幌",
+    "hubCity": "札幌",
+    "stayAllowed": [
+      "1night",
+      "2night"
+    ],
+    "departures": [
+      "札幌"
+    ],
+    "weight": 1.0,
+    "description": "日本最北端の地。アザラシが見られる海と、宗谷丘陵の周氷河地形。",
+    "tags": [
+      "秘境",
+      "絶景"
+    ],
+    "spots": [
+      {
+        "name": "宗谷岬"
+      },
+      {
+        "name": "日本最北端の地の碑"
+      },
+      {
+        "name": "宗谷丘陵"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "稚内 宗谷",
+    "lat": 45.523,
+    "lng": 141.937,
+    "travelTime": {
+      "sapporo": 360,
+      "tokyo": 505,
+      "osaka": 525,
+      "nagoya": 525,
+      "fukuoka": 535
+    },
+    "stayRecommendation": "1night",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E7%25A8%259A%25E5%2586%2585%2520%25E5%25AE%2597%25E8%25B0%25B7",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2592%2574%2593%25E0%2520%258F%2540%2592%254A"
+    },
+    "rentalCarRecommended": true
+  },
+  {
+    "id": "rebun-no-tour",
+    "name": "礼文岳",
+    "type": "destination",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "hub": "札幌",
+    "hubName": "札幌",
+    "hubCity": "札幌",
+    "stayAllowed": [
+      "1night",
+      "2night"
+    ],
+    "departures": [
+      "札幌"
+    ],
+    "weight": 1.0,
+    "description": "礼文島の最高峰。高山植物と稚内・利尻島を一望できる絶景。",
+    "tags": [
+      "山",
+      "秘境",
+      "自然"
+    ],
+    "spots": [
+      {
+        "name": "礼文岳"
+      },
+      {
+        "name": "澄海岬"
+      },
+      {
+        "name": "スコトン岬"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "礼文島",
+    "lat": 45.371,
+    "lng": 141.034,
+    "travelTime": {
+      "sapporo": 480,
+      "tokyo": 625,
+      "osaka": 645,
+      "nagoya": 645,
+      "fukuoka": 655
+    },
+    "stayRecommendation": "1night",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E7%25A4%25BC%25E6%2596%2587%25E5%25B3%25B6",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2597%25E7%2595%25B6%2593%2587"
+    },
+    "rentalCarRecommended": true
+  },
+  {
+    "id": "senjojiki-aomori",
+    "name": "千畳敷海岸",
+    "type": "destination",
+    "region": "東北",
+    "prefecture": "青森県",
+    "hub": "仙台",
+    "hubName": "仙台",
+    "hubCity": "仙台",
+    "stayAllowed": [
+      "daytrip",
+      "1night"
+    ],
+    "departures": [
+      "仙台"
+    ],
+    "weight": 1.0,
+    "description": "日本海側の景勝海岸。白神山地と十二湖と合わせて巡る西津軽の絶景ルート。",
+    "tags": [
+      "絶景",
+      "海"
+    ],
+    "spots": [
+      {
+        "name": "千畳敷海岸"
+      },
+      {
+        "name": "白神山地"
+      },
+      {
+        "name": "十二湖"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "千畳敷 鯵ヶ沢",
+    "lat": 40.62,
+    "lng": 140.06,
+    "travelTime": {
+      "sendai": 240,
+      "tokyo": 335,
+      "osaka": 415,
+      "nagoya": 385,
+      "fukuoka": 435
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E5%258D%2583%25E7%2595%25B3%25E6%2595%25B7%2520%25E9%25AF%25B5%25E3%2583%25B6%25E6%25B2%25A2",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2590%25E7%258F%25F4%2595%257E%2520%2588%25B1%2583%2596%2591%25F2"
+    },
+    "rentalCarRecommended": true
+  },
+  {
+    "id": "morioka",
+    "name": "盛岡",
+    "type": "destination",
+    "region": "東北",
+    "prefecture": "岩手県",
+    "hub": "仙台",
+    "hubName": "仙台",
+    "hubCity": "仙台",
+    "stayAllowed": [
+      "daytrip",
+      "1night"
+    ],
+    "departures": [
+      "仙台"
+    ],
+    "weight": 1.0,
+    "description": "わんこそば・冷麺・じゃじゃ麺の三大麺の街。石割桜の花の季節も見もの。",
+    "tags": [
+      "街歩き",
+      "グルメ"
+    ],
+    "spots": [
+      {
+        "name": "盛岡冷麺"
+      },
+      {
+        "name": "じゃじゃ麺"
+      },
+      {
+        "name": "石割桜"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "盛岡",
+    "lat": 39.704,
+    "lng": 141.153,
+    "travelTime": {
+      "sendai": 100,
+      "tokyo": 195,
+      "osaka": 275,
+      "nagoya": 245,
+      "fukuoka": 295
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E7%259B%259B%25E5%25B2%25A1",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2590%25B7%2589%25AA"
+    },
+    "rentalCarRecommended": false
+  },
+  {
+    "id": "hanamaki-onsen",
+    "name": "花巻温泉郷",
+    "type": "destination",
+    "region": "東北",
+    "prefecture": "岩手県",
+    "hub": "仙台",
+    "hubName": "仙台",
+    "hubCity": "仙台",
+    "stayAllowed": [
+      "1night",
+      "2night"
+    ],
+    "departures": [
+      "仙台"
+    ],
+    "weight": 1.0,
+    "description": "宮沢賢治の故郷。大沢温泉の混浴露天風呂と、鉛温泉の立ち湯が秘湯ファンに人気。",
+    "tags": [
+      "温泉",
+      "秘境"
+    ],
+    "spots": [
+      {
+        "name": "鉛温泉"
+      },
+      {
+        "name": "大沢温泉"
+      },
+      {
+        "name": "宮沢賢治記念館"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "花巻温泉",
+    "lat": 39.376,
+    "lng": 141.029,
+    "travelTime": {
+      "sendai": 120,
+      "tokyo": 215,
+      "osaka": 295,
+      "nagoya": 265,
+      "fukuoka": 315
+    },
+    "stayRecommendation": "1night",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E8%258A%25B1%25E5%25B7%25BB%25E6%25B8%25A9%25E6%25B3%2589",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2589%25D4%258A%25AA%2589%25B7%2590%25F2"
+    },
+    "rentalCarRecommended": true
+  },
+  {
+    "id": "zao-snow-monsters",
+    "name": "蔵王樹氷",
+    "type": "destination",
+    "region": "東北",
+    "prefecture": "山形県",
+    "hub": "仙台",
+    "hubName": "仙台",
+    "hubCity": "仙台",
+    "stayAllowed": [
+      "1night",
+      "2night"
+    ],
+    "departures": [
+      "仙台"
+    ],
+    "weight": 1.0,
+    "description": "世界的にも珍しい雪と氷の芸術。1月下旬から3月上旬がベストシーズン。",
+    "tags": [
+      "雪",
+      "絶景"
+    ],
+    "spots": [
+      {
+        "name": "蔵王ロープウェイ"
+      },
+      {
+        "name": "地蔵山"
+      },
+      {
+        "name": "樹氷高原駅"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "蔵王温泉",
+    "lat": 38.181,
+    "lng": 140.401,
+    "travelTime": {
+      "sendai": 80,
+      "tokyo": 175,
+      "osaka": 255,
+      "nagoya": 225,
+      "fukuoka": 275
+    },
+    "stayRecommendation": "1night",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E8%2594%25B5%25E7%258E%258B%25E6%25B8%25A9%25E6%25B3%2589",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2591%25A0%2589%25A4%2589%25B7%2590%25F2"
+    },
+    "rentalCarRecommended": true
+  },
+  {
+    "id": "mogami-funakudari",
+    "name": "最上川舟下り",
+    "type": "destination",
+    "region": "東北",
+    "prefecture": "山形県",
+    "hub": "仙台",
+    "hubName": "仙台",
+    "hubCity": "仙台",
+    "stayAllowed": [
+      "daytrip",
+      "1night"
+    ],
+    "departures": [
+      "仙台"
+    ],
+    "weight": 1.0,
+    "description": "芭蕉も詠んだ最上川。船頭の舟唄と、四季折々の渓谷美。",
+    "tags": [
+      "川",
+      "自然"
+    ],
+    "spots": [
+      {
+        "name": "最上峡"
+      },
+      {
+        "name": "戸沢藩船番所"
+      },
+      {
+        "name": "義経弁慶コース"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "新庄 最上",
+    "lat": 38.764,
+    "lng": 140.271,
+    "travelTime": {
+      "sendai": 130,
+      "tokyo": 225,
+      "osaka": 305,
+      "nagoya": 275,
+      "fukuoka": 325
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E6%2596%25B0%25E5%25BA%2584%2520%25E6%259C%2580%25E4%25B8%258A",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2590%2556%258F%25AF%2520%258D%25C5%258F%25E3"
+    },
+    "rentalCarRecommended": true
+  },
+  {
+    "id": "aizu-bandaisan",
+    "name": "磐梯山",
+    "type": "destination",
+    "region": "東北",
+    "prefecture": "福島県",
+    "hub": "仙台",
+    "hubName": "仙台",
+    "hubCity": "仙台",
+    "stayAllowed": [
+      "1night"
+    ],
+    "departures": [
+      "仙台"
+    ],
+    "weight": 1.0,
+    "description": "会津富士と呼ばれる山と、青く染まる五色沼の絶景。トレッキングと紅葉。",
+    "tags": [
+      "山",
+      "絶景",
+      "紅葉"
+    ],
+    "spots": [
+      {
+        "name": "磐梯山"
+      },
+      {
+        "name": "五色沼"
+      },
+      {
+        "name": "桧原湖"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "磐梯 裏磐梯",
+    "lat": 37.598,
+    "lng": 140.075,
+    "travelTime": {
+      "sendai": 140,
+      "tokyo": 235,
+      "osaka": 315,
+      "nagoya": 285,
+      "fukuoka": 335
+    },
+    "stayRecommendation": "1night",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E7%25A3%2590%25E6%25A2%25AF%2520%25E8%25A3%258F%25E7%25A3%2590%25E6%25A2%25AF",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2594%25D6%2592%25F2%2520%2597%25A0%2594%25D6%2592%25F2"
+    },
+    "rentalCarRecommended": true
+  },
+  {
+    "id": "miharu-takizakura",
+    "name": "三春滝桜",
+    "type": "destination",
+    "region": "東北",
+    "prefecture": "福島県",
+    "hub": "仙台",
+    "hubName": "仙台",
+    "hubCity": "仙台",
+    "stayAllowed": [
+      "daytrip",
+      "1night"
+    ],
+    "departures": [
+      "仙台"
+    ],
+    "weight": 1.0,
+    "description": "日本三大桜の一つ。樹齢1000年超の枝垂れ桜は圧巻、開花時期は要事前確認。",
+    "tags": [
+      "桜",
+      "歴史"
+    ],
+    "spots": [
+      {
+        "name": "三春滝桜"
+      },
+      {
+        "name": "三春町歴史民俗資料館"
+      },
+      {
+        "name": "花見山公園"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "三春 郡山",
+    "lat": 37.435,
+    "lng": 140.499,
+    "travelTime": {
+      "sendai": 80,
+      "tokyo": 175,
+      "osaka": 255,
+      "nagoya": 225,
+      "fukuoka": 275
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E4%25B8%2589%25E6%2598%25A5%2520%25E9%2583%25A1%25E5%25B1%25B1",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%258E%254F%258F%2574%2520%258C%2553%258E%2552"
+    },
+    "rentalCarRecommended": false
+  },
+  {
+    "id": "soma-noma",
+    "name": "相馬野馬追",
+    "type": "destination",
+    "region": "東北",
+    "prefecture": "福島県",
+    "hub": "仙台",
+    "hubName": "仙台",
+    "hubCity": "仙台",
+    "stayAllowed": [
+      "daytrip",
+      "1night"
+    ],
+    "departures": [
+      "仙台"
+    ],
+    "weight": 1.0,
+    "description": "1000年以上続く国指定重要無形民俗文化財。7月の祭典は数百騎の騎馬武者が参集。",
+    "tags": [
+      "祭",
+      "歴史"
+    ],
+    "spots": [
+      {
+        "name": "雲雀ヶ原祭場地"
+      },
+      {
+        "name": "相馬中村神社"
+      },
+      {
+        "name": "野馬追通り"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "相馬",
+    "lat": 37.799,
+    "lng": 140.918,
+    "travelTime": {
+      "sendai": 90,
+      "tokyo": 185,
+      "osaka": 265,
+      "nagoya": 235,
+      "fukuoka": 285
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E7%259B%25B8%25E9%25A6%25AC",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2591%258A%2594%256E"
+    },
+    "rentalCarRecommended": false
+  },
+  {
+    "id": "hitachi-seaside",
+    "name": "ひたち海浜公園",
+    "type": "destination",
+    "region": "関東",
+    "prefecture": "茨城県",
+    "hub": "東京",
+    "hubName": "東京",
+    "hubCity": "東京",
+    "stayAllowed": [
+      "daytrip",
+      "1night"
+    ],
+    "departures": [
+      "東京"
+    ],
+    "weight": 1.0,
+    "description": "春のネモフィラと秋のコキアで世界的に有名な国営公園。一面青の絶景。",
+    "tags": [
+      "花",
+      "絶景"
+    ],
+    "spots": [
+      {
+        "name": "みはらしの丘"
+      },
+      {
+        "name": "ネモフィラ"
+      },
+      {
+        "name": "コキア"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "ひたち 大洗",
+    "lat": 36.402,
+    "lng": 140.595,
+    "travelTime": {
+      "tokyo": 100,
+      "osaka": 265,
+      "nagoya": 205,
+      "fukuoka": 405,
+      "sapporo": 245,
+      "sendai": 195
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E3%2581%25B2%25E3%2581%259F%25E3%2581%25A1%2520%25E5%25A4%25A7%25E6%25B4%2597",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2582%25D0%2582%25BD%2582%25BF%2520%2591%25E5%2590%25F4"
+    },
+    "rentalCarRecommended": true
+  },
+  {
+    "id": "tomioka-silk",
+    "name": "富岡製糸場",
+    "type": "destination",
+    "region": "関東",
+    "prefecture": "群馬県",
+    "hub": "東京",
+    "hubName": "東京",
+    "hubCity": "東京",
+    "stayAllowed": [
+      "daytrip",
+      "1night"
+    ],
+    "departures": [
+      "東京"
+    ],
+    "weight": 1.0,
+    "description": "日本初の本格的器械製糸工場、世界遺産。明治日本の近代化の象徴。",
+    "tags": [
+      "世界遺産",
+      "歴史"
+    ],
+    "spots": [
+      {
+        "name": "富岡製糸場"
+      },
+      {
+        "name": "西繭倉庫"
+      },
+      {
+        "name": "東繭倉庫"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "富岡 高崎",
+    "lat": 36.255,
+    "lng": 138.89,
+    "travelTime": {
+      "tokyo": 130,
+      "osaka": 295,
+      "nagoya": 235,
+      "fukuoka": 435,
+      "sapporo": 275,
+      "sendai": 225
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E5%25AF%258C%25E5%25B2%25A1%2520%25E9%25AB%2598%25E5%25B4%258E",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2595%2578%2589%25AA%2520%258D%2582%258D%25E8"
+    },
+    "rentalCarRecommended": false
+  },
+  {
+    "id": "matsumoto-castle-2",
+    "name": "松本城",
+    "type": "destination",
+    "region": "中部",
+    "prefecture": "長野県",
+    "hub": "名古屋",
+    "hubName": "名古屋",
+    "hubCity": "名古屋",
+    "stayAllowed": [
+      "daytrip",
+      "1night"
+    ],
+    "departures": [
+      "名古屋"
+    ],
+    "weight": 1.0,
+    "description": "国宝5天守の一つ。漆黒の城と、北アルプスを背景にした日本一美しい城。",
+    "tags": [
+      "歴史",
+      "街歩き"
+    ],
+    "spots": [
+      {
+        "name": "松本城"
+      },
+      {
+        "name": "松本市美術館"
+      },
+      {
+        "name": "旧開智学校"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "松本",
+    "lat": 36.238,
+    "lng": 137.969,
+    "travelTime": {
+      "nagoya": 200,
+      "tokyo": 305,
+      "osaka": 260,
+      "fukuoka": 415,
+      "hiroshima": 335
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E6%259D%25BE%25E6%259C%25AC",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%258F%25BC%2596%257B"
+    },
+    "rentalCarRecommended": false
+  },
+  {
+    "id": "nakasendo-tsumago",
+    "name": "妻籠宿",
+    "type": "destination",
+    "region": "中部",
+    "prefecture": "長野県",
+    "hub": "名古屋",
+    "hubName": "名古屋",
+    "hubCity": "名古屋",
+    "stayAllowed": [
+      "daytrip",
+      "1night"
+    ],
+    "departures": [
+      "名古屋"
+    ],
+    "weight": 1.0,
+    "description": "中山道の宿場町。江戸時代の街並みが今も残り、観光化を拒む保全モデル。",
+    "tags": [
+      "街歩き",
+      "歴史",
+      "秘境"
+    ],
+    "spots": [
+      {
+        "name": "妻籠宿"
+      },
+      {
+        "name": "妻籠宿本陣"
+      },
+      {
+        "name": "和智埜神社"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "妻籠 南木曽",
+    "lat": 35.583,
+    "lng": 137.598,
+    "travelTime": {
+      "nagoya": 130,
+      "tokyo": 235,
+      "osaka": 190,
+      "fukuoka": 345,
+      "hiroshima": 265
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E5%25A6%25BB%25E7%25B1%25A0%2520%25E5%258D%2597%25E6%259C%25A8%25E6%259B%25BD",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%258D%25C8%25E2%25C4%2520%2593%25EC%2596%25D8%2591%255D"
+    },
+    "rentalCarRecommended": true
+  },
+  {
+    "id": "wajima-asaichi",
+    "name": "輪島朝市",
+    "type": "destination",
+    "region": "中部",
+    "prefecture": "石川県",
+    "hub": "金沢",
+    "hubName": "金沢",
+    "hubCity": "金沢",
+    "stayAllowed": [
+      "daytrip",
+      "1night"
+    ],
+    "departures": [
+      "金沢"
+    ],
+    "weight": 1.0,
+    "description": "日本三大朝市の輪島朝市と、能登半島先端の白米千枚田の絶景。",
+    "tags": [
+      "街歩き",
+      "伝統",
+      "棚田"
+    ],
+    "spots": [
+      {
+        "name": "輪島朝市"
+      },
+      {
+        "name": "輪島塗"
+      },
+      {
+        "name": "千枚田"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "輪島",
+    "lat": 37.395,
+    "lng": 136.901,
+    "travelTime": {
+      "kanazawa": 130,
+      "tokyo": 305,
+      "osaka": 295,
+      "nagoya": 295,
+      "fukuoka": 450
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E8%25BC%25AA%25E5%25B3%25B6",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2597%25D6%2593%2587"
+    },
+    "rentalCarRecommended": false
+  },
+  {
+    "id": "noto-kiriko",
+    "name": "奥能登",
+    "type": "destination",
+    "region": "中部",
+    "prefecture": "石川県",
+    "hub": "金沢",
+    "hubName": "金沢",
+    "hubCity": "金沢",
+    "stayAllowed": [
+      "1night",
+      "2night"
+    ],
+    "departures": [
+      "金沢"
+    ],
+    "weight": 1.0,
+    "description": "能登半島最深部の絶景集合。千枚田と見附島、最果ての禄剛崎灯台。",
+    "tags": [
+      "秘境",
+      "絶景",
+      "棚田"
+    ],
+    "spots": [
+      {
+        "name": "白米千枚田"
+      },
+      {
+        "name": "見附島"
+      },
+      {
+        "name": "禄剛崎"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "輪島 珠洲",
+    "lat": 37.456,
+    "lng": 137.18,
+    "travelTime": {
+      "kanazawa": 180,
+      "tokyo": 355,
+      "osaka": 345,
+      "nagoya": 345,
+      "fukuoka": 500
+    },
+    "stayRecommendation": "1night",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E8%25BC%25AA%25E5%25B3%25B6%2520%25E7%258F%25A0%25E6%25B4%25B2",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2597%25D6%2593%2587%2520%258E%25EC%258F%2546"
+    },
+    "rentalCarRecommended": true
+  },
+  {
+    "id": "iseshima",
+    "name": "伊勢神宮",
+    "type": "destination",
+    "region": "近畿",
+    "prefecture": "三重県",
+    "hub": "名古屋",
+    "hubName": "名古屋",
+    "hubCity": "名古屋",
+    "stayAllowed": [
+      "1night"
+    ],
+    "departures": [
+      "名古屋"
+    ],
+    "weight": 1.0,
+    "description": "日本人の心のふるさと。20年に一度の式年遷宮、内宮・外宮の参拝順序が定番。",
+    "tags": [
+      "寺社",
+      "歴史",
+      "街歩き"
+    ],
+    "spots": [
+      {
+        "name": "内宮"
+      },
+      {
+        "name": "外宮"
+      },
+      {
+        "name": "おかげ横丁"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "伊勢",
+    "lat": 34.455,
+    "lng": 136.726,
+    "travelTime": {
+      "nagoya": 100,
+      "tokyo": 205,
+      "osaka": 160,
+      "fukuoka": 315,
+      "hiroshima": 235
+    },
+    "stayRecommendation": "1night",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E4%25BC%258A%25E5%258B%25A2",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2588%25C9%2590%25A8"
+    },
+    "rentalCarRecommended": false
+  },
+  {
+    "id": "miho-museum",
+    "name": "MIHO MUSEUM",
+    "type": "destination",
+    "region": "近畿",
+    "prefecture": "滋賀県",
+    "hub": "大阪",
+    "hubName": "大阪",
+    "hubCity": "大阪",
+    "stayAllowed": [
+      "daytrip"
+    ],
+    "departures": [
+      "大阪"
+    ],
+    "weight": 1.0,
+    "description": "I.M.ペイ設計の山中の美術館。トンネルを抜けた先の桃源郷的な建築。",
+    "tags": [
+      "アート",
+      "建築",
+      "秘境"
+    ],
+    "spots": [
+      {
+        "name": "MIHO MUSEUM"
+      },
+      {
+        "name": "信楽"
+      },
+      {
+        "name": "陶芸の森"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "信楽 草津滋賀",
+    "lat": 34.949,
+    "lng": 136.045,
+    "travelTime": {
+      "osaka": 110,
+      "tokyo": 275,
+      "nagoya": 170,
+      "fukuoka": 275,
+      "hiroshima": 200,
+      "takamatsu": 215
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E4%25BF%25A1%25E6%25A5%25BD%2520%25E8%258D%2589%25E6%25B4%25A5%25E6%25BB%258B%25E8%25B3%2580",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2590%254D%258A%2579%2520%2591%2590%2592%25C3%258E%25A0%2589%25EA"
+    },
+    "rentalCarRecommended": true
+  },
+  {
+    "id": "fushimi-2",
+    "name": "伏見稲荷",
+    "type": "destination",
+    "region": "近畿",
+    "prefecture": "京都府",
+    "hub": "大阪",
+    "hubName": "大阪",
+    "hubCity": "大阪",
+    "stayAllowed": [
+      "daytrip"
+    ],
+    "departures": [
+      "大阪"
+    ],
+    "weight": 1.0,
+    "description": "世界的に有名な千本鳥居。山頂まで巡拝する稲荷山一周は約2時間。",
+    "tags": [
+      "寺社",
+      "街歩き"
+    ],
+    "spots": [
+      {
+        "name": "千本鳥居"
+      },
+      {
+        "name": "奥社奉拝所"
+      },
+      {
+        "name": "稲荷山"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "伏見 京都",
+    "lat": 34.967,
+    "lng": 135.773,
+    "travelTime": {
+      "osaka": 50,
+      "tokyo": 215,
+      "nagoya": 110,
+      "fukuoka": 215,
+      "hiroshima": 140,
+      "takamatsu": 155
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E4%25BC%258F%25E8%25A6%258B%2520%25E4%25BA%25AC%25E9%2583%25BD",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2595%259A%258C%25A9%2520%258B%259E%2593%2573"
+    },
+    "rentalCarRecommended": false
+  },
+  {
+    "id": "kibune-kurama",
+    "name": "鞍馬",
+    "type": "destination",
+    "region": "近畿",
+    "prefecture": "京都府",
+    "hub": "大阪",
+    "hubName": "大阪",
+    "hubCity": "大阪",
+    "stayAllowed": [
+      "daytrip",
+      "1night"
+    ],
+    "departures": [
+      "大阪"
+    ],
+    "weight": 1.0,
+    "description": "牛若丸と天狗の里。鞍馬寺から貴船神社への山越えハイキングが人気。",
+    "tags": [
+      "寺社",
+      "秘境",
+      "歴史"
+    ],
+    "spots": [
+      {
+        "name": "鞍馬寺"
+      },
+      {
+        "name": "奥の院"
+      },
+      {
+        "name": "由岐神社"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "鞍馬 京都",
+    "lat": 35.118,
+    "lng": 135.77,
+    "travelTime": {
+      "osaka": 100,
+      "tokyo": 265,
+      "nagoya": 160,
+      "fukuoka": 265,
+      "hiroshima": 190,
+      "takamatsu": 205
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E9%259E%258D%25E9%25A6%25AC%2520%25E4%25BA%25AC%25E9%2583%25BD",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2588%25C6%2594%256E%2520%258B%259E%2593%2573"
+    },
+    "rentalCarRecommended": true
+  },
+  {
+    "id": "koshien",
+    "name": "甲子園",
+    "type": "destination",
+    "region": "近畿",
+    "prefecture": "兵庫県",
+    "hub": "大阪",
+    "hubName": "大阪",
+    "hubCity": "大阪",
+    "stayAllowed": [
+      "daytrip"
+    ],
+    "departures": [
+      "大阪"
+    ],
+    "weight": 1.0,
+    "description": "高校野球とプロ野球の聖地。歴史館と試合観戦が楽しめる。",
+    "tags": [
+      "街歩き"
+    ],
+    "spots": [
+      {
+        "name": "阪神甲子園球場"
+      },
+      {
+        "name": "歴史館"
+      },
+      {
+        "name": "甲子園歴史館"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "甲子園 西宮",
+    "lat": 34.722,
+    "lng": 135.362,
+    "travelTime": {
+      "osaka": 30,
+      "tokyo": 195,
+      "nagoya": 90,
+      "fukuoka": 195,
+      "hiroshima": 120,
+      "takamatsu": 135
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E7%2594%25B2%25E5%25AD%2590%25E5%259C%2592%2520%25E8%25A5%25BF%25E5%25AE%25AE",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%258D%2562%258E%2571%2589%2580%2520%2590%25BC%258B%257B"
+    },
+    "rentalCarRecommended": false
+  },
+  {
+    "id": "kobe-port",
+    "name": "神戸ハーバーランド",
+    "type": "destination",
+    "region": "近畿",
+    "prefecture": "兵庫県",
+    "hub": "大阪",
+    "hubName": "大阪",
+    "hubCity": "大阪",
+    "stayAllowed": [
+      "daytrip",
+      "1night"
+    ],
+    "departures": [
+      "大阪"
+    ],
+    "weight": 1.0,
+    "description": "神戸港の都市リゾート。観覧車と夜景、ショッピングが楽しめる。",
+    "tags": [
+      "街歩き",
+      "夜景"
+    ],
+    "spots": [
+      {
+        "name": "umie"
+      },
+      {
+        "name": "モザイク"
+      },
+      {
+        "name": "ハーバーランド"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "神戸",
+    "lat": 34.682,
+    "lng": 135.184,
+    "travelTime": {
+      "osaka": 30,
+      "tokyo": 195,
+      "nagoya": 90,
+      "fukuoka": 195,
+      "hiroshima": 120,
+      "takamatsu": 135
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E7%25A5%259E%25E6%2588%25B8",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2590%255F%258C%25CB"
+    },
+    "rentalCarRecommended": false
+  },
+  {
+    "id": "horyuji",
+    "name": "法隆寺",
+    "type": "destination",
+    "region": "近畿",
+    "prefecture": "奈良県",
+    "hub": "大阪",
+    "hubName": "大阪",
+    "hubCity": "大阪",
+    "stayAllowed": [
+      "daytrip",
+      "1night"
+    ],
+    "departures": [
+      "大阪"
+    ],
+    "weight": 1.0,
+    "description": "世界最古の木造建築、日本初の世界遺産。聖徳太子ゆかりの寺。",
+    "tags": [
+      "世界遺産",
+      "寺社",
+      "歴史"
+    ],
+    "spots": [
+      {
+        "name": "法隆寺"
+      },
+      {
+        "name": "五重塔"
+      },
+      {
+        "name": "夢殿"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "法隆寺 奈良",
+    "lat": 34.614,
+    "lng": 135.735,
+    "travelTime": {
+      "osaka": 70,
+      "tokyo": 235,
+      "nagoya": 130,
+      "fukuoka": 235,
+      "hiroshima": 160,
+      "takamatsu": 175
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E6%25B3%2595%25E9%259A%2586%25E5%25AF%25BA%2520%25E5%25A5%2588%25E8%2589%25AF",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2596%2540%2597%25B2%258E%259B%2520%2593%25DE%2597%25C7"
+    },
+    "rentalCarRecommended": false
+  },
+  {
+    "id": "kumano-kodo",
+    "name": "熊野古道",
+    "type": "destination",
+    "region": "近畿",
+    "prefecture": "和歌山県",
+    "hub": "大阪",
+    "hubName": "大阪",
+    "hubCity": "大阪",
+    "stayAllowed": [
+      "1night",
+      "2night"
+    ],
+    "departures": [
+      "大阪"
+    ],
+    "weight": 1.0,
+    "description": "世界遺産の参詣道。1000年以上の信仰の道、大門坂の杉並木が幻想的。",
+    "tags": [
+      "世界遺産",
+      "寺社",
+      "秘境"
+    ],
+    "spots": [
+      {
+        "name": "熊野本宮大社"
+      },
+      {
+        "name": "熊野速玉大社"
+      },
+      {
+        "name": "大門坂"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "熊野 田辺",
+    "lat": 33.836,
+    "lng": 135.776,
+    "travelTime": {
+      "osaka": 200,
+      "tokyo": 365,
+      "nagoya": 260,
+      "fukuoka": 365,
+      "hiroshima": 290,
+      "takamatsu": 305
+    },
+    "stayRecommendation": "1night",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E7%2586%258A%25E9%2587%258E%2520%25E7%2594%25B0%25E8%25BE%25BA",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%258C%2546%2596%25EC%2520%2593%2563%2595%25D3"
+    },
+    "rentalCarRecommended": true
+  },
+  {
+    "id": "nachi-falls",
+    "name": "那智の滝",
+    "type": "destination",
+    "region": "近畿",
+    "prefecture": "和歌山県",
+    "hub": "大阪",
+    "hubName": "大阪",
+    "hubCity": "大阪",
+    "stayAllowed": [
+      "1night"
+    ],
+    "departures": [
+      "大阪"
+    ],
+    "weight": 1.0,
+    "description": "日本三名瀑、落差133mの直瀑。三重塔と滝の組み合わせは絵になる絶景。",
+    "tags": [
+      "寺社",
+      "絶景",
+      "世界遺産"
+    ],
+    "spots": [
+      {
+        "name": "那智の滝"
+      },
+      {
+        "name": "熊野那智大社"
+      },
+      {
+        "name": "青岸渡寺"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "那智勝浦",
+    "lat": 33.668,
+    "lng": 135.89,
+    "travelTime": {
+      "osaka": 220,
+      "tokyo": 385,
+      "nagoya": 280,
+      "fukuoka": 385,
+      "hiroshima": 310,
+      "takamatsu": 325
+    },
+    "stayRecommendation": "1night",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E9%2582%25A3%25E6%2599%25BA%25E5%258B%259D%25E6%25B5%25A6",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2593%25DF%2592%2571%258F%259F%2589%2559"
+    },
+    "rentalCarRecommended": true
+  },
+  {
+    "id": "okayama-city",
+    "name": "岡山",
+    "type": "destination",
+    "region": "中国",
+    "prefecture": "岡山県",
+    "hub": "大阪",
+    "hubName": "大阪",
+    "hubCity": "大阪",
+    "stayAllowed": [
+      "daytrip",
+      "1night"
+    ],
+    "departures": [
+      "大阪"
+    ],
+    "weight": 1.0,
+    "description": "日本三名園の後楽園と、烏城の岡山城。桃太郎伝説の街。",
+    "tags": [
+      "歴史",
+      "庭園",
+      "街歩き"
+    ],
+    "spots": [
+      {
+        "name": "岡山城"
+      },
+      {
+        "name": "後楽園"
+      },
+      {
+        "name": "岡山桃太郎大通り"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "岡山",
+    "lat": 34.665,
+    "lng": 133.935,
+    "travelTime": {
+      "osaka": 50,
+      "tokyo": 215,
+      "nagoya": 110,
+      "fukuoka": 215,
+      "hiroshima": 140,
+      "takamatsu": 155
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E5%25B2%25A1%25E5%25B1%25B1",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2589%25AA%258E%2552"
+    },
+    "rentalCarRecommended": false
+  },
+  {
+    "id": "akiyoshido",
+    "name": "秋芳洞",
+    "type": "destination",
+    "region": "中国",
+    "prefecture": "山口県",
+    "hub": "広島",
+    "hubName": "広島",
+    "hubCity": "広島",
+    "stayAllowed": [
+      "daytrip",
+      "1night"
+    ],
+    "departures": [
+      "広島"
+    ],
+    "weight": 1.0,
+    "description": "日本最大級の鍾乳洞と、カルスト台地の秋吉台。地下と地上の絶景セット。",
+    "tags": [
+      "秘境",
+      "自然",
+      "絶景"
+    ],
+    "spots": [
+      {
+        "name": "秋芳洞"
+      },
+      {
+        "name": "秋吉台"
+      },
+      {
+        "name": "大正洞"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "秋芳洞 美祢",
+    "lat": 34.23,
+    "lng": 131.305,
+    "travelTime": {
+      "hiroshima": 180,
+      "tokyo": 415,
+      "osaka": 270,
+      "nagoya": 315,
+      "fukuoka": 255
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E7%25A7%258B%25E8%258A%25B3%25E6%25B4%259E%2520%25E7%25BE%258E%25E7%25A5%25A2",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%258F%2548%2596%2546%2593%25B4%2520%2594%25FC%2594%2549"
+    },
+    "rentalCarRecommended": true
+  },
+  {
+    "id": "dazaifu-2",
+    "name": "太宰府",
+    "type": "destination",
+    "region": "九州",
+    "prefecture": "福岡県",
+    "hub": "福岡",
+    "hubName": "福岡",
+    "hubCity": "福岡",
+    "stayAllowed": [
+      "daytrip",
+      "1night"
+    ],
+    "departures": [
+      "福岡"
+    ],
+    "weight": 1.0,
+    "description": "学問の神様・菅原道真公を祀る天満宮。受験生の聖地、梅の名所。",
+    "tags": [
+      "寺社",
+      "歴史",
+      "街歩き"
+    ],
+    "spots": [
+      {
+        "name": "太宰府天満宮"
+      },
+      {
+        "name": "九州国立博物館"
+      },
+      {
+        "name": "光明禅寺"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "太宰府",
+    "lat": 33.521,
+    "lng": 130.534,
+    "travelTime": {
+      "fukuoka": 50,
+      "tokyo": 355,
+      "osaka": 215,
+      "nagoya": 265,
+      "hiroshima": 125
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E5%25A4%25AA%25E5%25AE%25B0%25E5%25BA%259C",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2591%25BE%258D%25C9%2595%257B"
+    },
+    "rentalCarRecommended": false
+  },
+  {
+    "id": "saga-castle",
+    "name": "佐賀城",
+    "type": "destination",
+    "region": "九州",
+    "prefecture": "佐賀県",
+    "hub": "福岡",
+    "hubName": "福岡",
+    "hubCity": "福岡",
+    "stayAllowed": [
+      "daytrip"
+    ],
+    "departures": [
+      "福岡"
+    ],
+    "weight": 1.0,
+    "description": "幕末の佐賀藩主・鍋島直正ゆかりの城。本丸御殿の復元展示が見どころ。",
+    "tags": [
+      "歴史",
+      "街歩き"
+    ],
+    "spots": [
+      {
+        "name": "佐賀城本丸歴史館"
+      },
+      {
+        "name": "大隈重信記念館"
+      },
+      {
+        "name": "佐賀城公園"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "佐賀",
+    "lat": 33.243,
+    "lng": 130.3,
+    "travelTime": {
+      "fukuoka": 50,
+      "tokyo": 355,
+      "osaka": 215,
+      "nagoya": 265,
+      "hiroshima": 125
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E4%25BD%2590%25E8%25B3%2580",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%258D%25B2%2589%25EA"
+    },
+    "rentalCarRecommended": false
+  },
+  {
+    "id": "nagasaki-city",
+    "name": "長崎",
+    "type": "destination",
+    "region": "九州",
+    "prefecture": "長崎県",
+    "hub": "福岡",
+    "hubName": "福岡",
+    "hubCity": "福岡",
+    "stayAllowed": [
+      "1night"
+    ],
+    "departures": [
+      "福岡"
+    ],
+    "weight": 1.0,
+    "description": "南蛮貿易と原爆の街。世界三大夜景と長崎ちゃんぽん、卓袱料理。",
+    "tags": [
+      "歴史",
+      "世界遺産",
+      "街歩き"
+    ],
+    "spots": [
+      {
+        "name": "グラバー園"
+      },
+      {
+        "name": "大浦天主堂"
+      },
+      {
+        "name": "原爆資料館"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "長崎",
+    "lat": 32.751,
+    "lng": 129.879,
+    "travelTime": {
+      "fukuoka": 130,
+      "tokyo": 435,
+      "osaka": 295,
+      "nagoya": 345,
+      "hiroshima": 205
+    },
+    "stayRecommendation": "1night",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E9%2595%25B7%25E5%25B4%258E",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2592%25B7%258D%25E8"
+    },
+    "rentalCarRecommended": false
+  },
+  {
+    "id": "huis-ten-bosch",
+    "name": "ハウステンボス",
+    "type": "destination",
+    "region": "九州",
+    "prefecture": "長崎県",
+    "hub": "福岡",
+    "hubName": "福岡",
+    "hubCity": "福岡",
+    "stayAllowed": [
+      "1night",
+      "2night"
+    ],
+    "departures": [
+      "福岡"
+    ],
+    "weight": 1.0,
+    "description": "オランダの街並みを再現した日本最大のテーマパーク。1日では回りきれない規模。",
+    "tags": [
+      "テーマパーク",
+      "子連れ"
+    ],
+    "spots": [
+      {
+        "name": "ハウステンボス"
+      },
+      {
+        "name": "花の王国"
+      },
+      {
+        "name": "光の王国"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "ハウステンボス 佐世保",
+    "lat": 33.087,
+    "lng": 129.787,
+    "travelTime": {
+      "fukuoka": 130,
+      "tokyo": 435,
+      "osaka": 295,
+      "nagoya": 345,
+      "hiroshima": 205
+    },
+    "stayRecommendation": "1night",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E3%2583%258F%25E3%2582%25A6%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25B3%25E3%2583%259C%25E3%2582%25B9%2520%25E4%25BD%2590%25E4%25B8%2596%25E4%25BF%259D",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2583%256E%2583%2545%2583%2558%2583%2565%2583%2593%2583%257B%2583%2558%2520%258D%25B2%2590%25A2%2595%25DB"
+    },
+    "rentalCarRecommended": false
+  },
+  {
+    "id": "kumamoto-2",
+    "name": "阿蘇くじゅう",
+    "type": "destination",
+    "region": "九州",
+    "prefecture": "熊本県",
+    "hub": "福岡",
+    "hubName": "福岡",
+    "hubCity": "福岡",
+    "stayAllowed": [
+      "1night"
+    ],
+    "departures": [
+      "福岡"
+    ],
+    "weight": 1.0,
+    "description": "世界最大級のカルデラと九重連山。火口・草原・温泉が一体となった絶景。",
+    "tags": [
+      "山",
+      "絶景",
+      "自然"
+    ],
+    "spots": [
+      {
+        "name": "阿蘇山"
+      },
+      {
+        "name": "大観峰"
+      },
+      {
+        "name": "草千里"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "阿蘇",
+    "lat": 32.91,
+    "lng": 131.09,
+    "travelTime": {
+      "fukuoka": 150,
+      "tokyo": 455,
+      "osaka": 315,
+      "nagoya": 365,
+      "hiroshima": 225
+    },
+    "stayRecommendation": "1night",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E9%2598%25BF%25E8%2598%2587",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2588%25A2%2591%2568"
+    },
+    "rentalCarRecommended": true
+  },
+  {
+    "id": "beppu-2",
+    "name": "別府温泉",
+    "type": "destination",
+    "region": "九州",
+    "prefecture": "大分県",
+    "hub": "福岡",
+    "hubName": "福岡",
+    "hubCity": "福岡",
+    "stayAllowed": [
+      "1night",
+      "2night"
+    ],
+    "departures": [
+      "福岡"
+    ],
+    "weight": 1.0,
+    "description": "日本一の湧出量。地獄めぐりと、鉄輪温泉の湯けむりが昭和情緒を残す。",
+    "tags": [
+      "温泉",
+      "街歩き"
+    ],
+    "spots": [
+      {
+        "name": "海地獄"
+      },
+      {
+        "name": "血の池地獄"
+      },
+      {
+        "name": "明礬温泉"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "別府温泉",
+    "lat": 33.279,
+    "lng": 131.501,
+    "travelTime": {
+      "fukuoka": 130,
+      "tokyo": 435,
+      "osaka": 295,
+      "nagoya": 345,
+      "hiroshima": 205
+    },
+    "stayRecommendation": "1night",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E5%2588%25A5%25E5%25BA%259C%25E6%25B8%25A9%25E6%25B3%2589",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2595%25CA%2595%257B%2589%25B7%2590%25F2"
+    },
+    "rentalCarRecommended": false
+  },
+  {
+    "id": "yufuin-2",
+    "name": "由布院温泉",
+    "type": "destination",
+    "region": "九州",
+    "prefecture": "大分県",
+    "hub": "福岡",
+    "hubName": "福岡",
+    "hubCity": "福岡",
+    "stayAllowed": [
+      "1night",
+      "2night"
+    ],
+    "departures": [
+      "福岡"
+    ],
+    "weight": 1.0,
+    "description": "由布岳の麓のおしゃれな温泉地。金鱗湖の朝霧と、湯の坪街道のショッピング。",
+    "tags": [
+      "温泉",
+      "街歩き",
+      "自然"
+    ],
+    "spots": [
+      {
+        "name": "湯の坪街道"
+      },
+      {
+        "name": "金鱗湖"
+      },
+      {
+        "name": "由布岳"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "由布院",
+    "lat": 33.265,
+    "lng": 131.351,
+    "travelTime": {
+      "fukuoka": 130,
+      "tokyo": 435,
+      "osaka": 295,
+      "nagoya": 345,
+      "hiroshima": 205
+    },
+    "stayRecommendation": "1night",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E7%2594%25B1%25E5%25B8%2583%25E9%2599%25A2",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2597%2552%2595%257A%2589%2540"
+    },
+    "rentalCarRecommended": true
+  },
+  {
+    "id": "kuju-yamanami",
+    "name": "やまなみハイウェイ",
+    "type": "destination",
+    "region": "九州",
+    "prefecture": "大分県",
+    "hub": "福岡",
+    "hubName": "福岡",
+    "hubCity": "福岡",
+    "stayAllowed": [
+      "1night"
+    ],
+    "departures": [
+      "福岡"
+    ],
+    "weight": 1.0,
+    "description": "阿蘇から由布院をつなぐ絶景ロード。九重連山と草原の風景が広がる。",
+    "tags": [
+      "自然",
+      "絶景",
+      "山"
+    ],
+    "spots": [
+      {
+        "name": "長者原"
+      },
+      {
+        "name": "タデ原湿原"
+      },
+      {
+        "name": "久住山"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "やまなみ 九重",
+    "lat": 33.097,
+    "lng": 131.26,
+    "travelTime": {
+      "fukuoka": 165,
+      "tokyo": 470,
+      "osaka": 330,
+      "nagoya": 380,
+      "hiroshima": 240
+    },
+    "stayRecommendation": "1night",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E3%2582%2584%25E3%2581%25BE%25E3%2581%25AA%25E3%2581%25BF%2520%25E4%25B9%259D%25E9%2587%258D",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2582%25E2%2582%25DC%2582%25C8%2582%25DD%2520%258B%25E3%258F%2564"
+    },
+    "rentalCarRecommended": true
+  },
+  {
+    "id": "miyazaki-city",
+    "name": "宮崎",
+    "type": "destination",
+    "region": "九州",
+    "prefecture": "宮崎県",
+    "hub": "福岡",
+    "hubName": "福岡",
+    "hubCity": "福岡",
+    "stayAllowed": [
+      "1night"
+    ],
+    "departures": [
+      "福岡"
+    ],
+    "weight": 1.0,
+    "description": "南国宮崎の県庁所在地。チキン南蛮の発祥地と、フェニックス並木の南国情緒。",
+    "tags": [
+      "街歩き",
+      "子連れ"
+    ],
+    "spots": [
+      {
+        "name": "みやざき動物園"
+      },
+      {
+        "name": "宮崎神宮"
+      },
+      {
+        "name": "フェニックス自然動物園"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "宮崎",
+    "lat": 31.911,
+    "lng": 131.424,
+    "travelTime": {
+      "fukuoka": 130,
+      "tokyo": 435,
+      "osaka": 295,
+      "nagoya": 345,
+      "hiroshima": 205
+    },
+    "stayRecommendation": "1night",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E5%25AE%25AE%25E5%25B4%258E",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%258B%257B%258D%25E8"
+    },
+    "rentalCarRecommended": false
+  },
+  {
+    "id": "kagoshima-city",
+    "name": "鹿児島",
+    "type": "destination",
+    "region": "九州",
+    "prefecture": "鹿児島県",
+    "hub": "福岡",
+    "hubName": "福岡",
+    "hubCity": "福岡",
+    "stayAllowed": [
+      "daytrip",
+      "1night"
+    ],
+    "departures": [
+      "福岡"
+    ],
+    "weight": 1.0,
+    "description": "桜島を望む港町。仙厳園の借景庭園と、明治維新の英雄たちの故郷。",
+    "tags": [
+      "歴史",
+      "街歩き"
+    ],
+    "spots": [
+      {
+        "name": "仙厳園"
+      },
+      {
+        "name": "西郷隆盛銅像"
+      },
+      {
+        "name": "鹿児島中央駅"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "鹿児島",
+    "lat": 31.594,
+    "lng": 130.557,
+    "travelTime": {
+      "fukuoka": 75,
+      "tokyo": 380,
+      "osaka": 240,
+      "nagoya": 290,
+      "hiroshima": 150
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E9%25B9%25BF%25E5%2585%2590%25E5%25B3%25B6",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%258E%25AD%258E%2599%2593%2587"
+    },
+    "rentalCarRecommended": false
+  },
+  {
+    "id": "ibusuki-onsen",
+    "name": "指宿温泉",
+    "type": "destination",
+    "region": "九州",
+    "prefecture": "鹿児島県",
+    "hub": "福岡",
+    "hubName": "福岡",
+    "hubCity": "福岡",
+    "stayAllowed": [
+      "1night",
+      "2night"
+    ],
+    "departures": [
+      "福岡"
+    ],
+    "weight": 1.0,
+    "description": "世界的にも珍しい砂むし温泉。薩摩半島最南端の絶景と、開聞岳の眺望。",
+    "tags": [
+      "温泉",
+      "街歩き"
+    ],
+    "spots": [
+      {
+        "name": "砂むし温泉"
+      },
+      {
+        "name": "池田湖"
+      },
+      {
+        "name": "長崎鼻"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "指宿温泉",
+    "lat": 31.232,
+    "lng": 130.64,
+    "travelTime": {
+      "fukuoka": 130,
+      "tokyo": 435,
+      "osaka": 295,
+      "nagoya": 345,
+      "hiroshima": 205
+    },
+    "stayRecommendation": "1night",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E6%258C%2587%25E5%25AE%25BF%25E6%25B8%25A9%25E6%25B3%2589",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%258E%2577%258F%2568%2589%25B7%2590%25F2"
+    },
+    "rentalCarRecommended": false
+  },
+  {
+    "id": "okinawa-naha",
+    "name": "那覇",
+    "type": "destination",
+    "region": "沖縄",
+    "prefecture": "沖縄県",
+    "hub": "那覇",
+    "hubName": "那覇",
+    "hubCity": "那覇",
+    "stayAllowed": [
+      "1night",
+      "2night"
+    ],
+    "departures": [
+      "那覇"
+    ],
+    "weight": 1.0,
+    "description": "沖縄観光の中心地。国際通りと首里城、市場で沖縄グルメを満喫。",
+    "tags": [
+      "街歩き",
+      "歴史",
+      "グルメ"
+    ],
+    "spots": [
+      {
+        "name": "国際通り"
+      },
+      {
+        "name": "首里城"
+      },
+      {
+        "name": "牧志公設市場"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "那覇",
+    "lat": 26.213,
+    "lng": 127.679,
+    "travelTime": {
+      "naha": 30,
+      "tokyo": 230,
+      "osaka": 190,
+      "nagoya": 205,
+      "fukuoka": 165
+    },
+    "stayRecommendation": "1night",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E9%2582%25A3%25E8%25A6%2587",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2593%25DF%2594%2565"
+    },
+    "rentalCarRecommended": false
+  },
+  {
+    "id": "motobu-2",
+    "name": "本部 美ら海",
+    "type": "destination",
+    "region": "沖縄",
+    "prefecture": "沖縄県",
+    "hub": "那覇",
+    "hubName": "那覇",
+    "hubCity": "那覇",
+    "stayAllowed": [
+      "1night",
+      "2night"
+    ],
+    "departures": [
+      "那覇"
+    ],
+    "weight": 1.0,
+    "description": "世界最大級の水族館・美ら海と、備瀬のフクギ並木の癒しスポット。",
+    "tags": [
+      "海",
+      "子連れ",
+      "自然"
+    ],
+    "spots": [
+      {
+        "name": "美ら海水族館"
+      },
+      {
+        "name": "備瀬のフクギ並木"
+      },
+      {
+        "name": "エメラルドビーチ"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "本部 美ら海",
+    "lat": 26.694,
+    "lng": 127.88,
+    "travelTime": {
+      "naha": 90,
+      "tokyo": 290,
+      "osaka": 250,
+      "nagoya": 265,
+      "fukuoka": 225
+    },
+    "stayRecommendation": "1night",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E6%259C%25AC%25E9%2583%25A8%2520%25E7%25BE%258E%25E3%2582%2589%25E6%25B5%25B7",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2596%257B%2595%2594%2520%2594%25FC%2582%25E7%258A%2543"
+    },
+    "rentalCarRecommended": true
+  },
+  {
+    "id": "narita",
+    "name": "成田山",
+    "type": "destination",
+    "region": "関東",
+    "prefecture": "千葉県",
+    "hub": "東京",
+    "hubName": "東京",
+    "hubCity": "東京",
+    "stayAllowed": [
+      "daytrip",
+      "1night"
+    ],
+    "departures": [
+      "東京"
+    ],
+    "weight": 1.0,
+    "description": "成田空港のお膝元。新勝寺の参詣と、成田参道の鰻屋巡りが定番。",
+    "tags": [
+      "寺社",
+      "街歩き",
+      "グルメ"
+    ],
+    "spots": [
+      {
+        "name": "成田山新勝寺"
+      },
+      {
+        "name": "成田参道"
+      },
+      {
+        "name": "成田ゆめ牧場"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "成田",
+    "lat": 35.785,
+    "lng": 140.318,
+    "travelTime": {
+      "tokyo": 70,
+      "osaka": 235,
+      "nagoya": 175,
+      "fukuoka": 375,
+      "sapporo": 215,
+      "sendai": 165
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E6%2588%2590%25E7%2594%25B0",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2590%25AC%2593%2563"
+    },
+    "rentalCarRecommended": false
+  },
+  {
+    "id": "mother-farm",
+    "name": "マザー牧場",
+    "type": "destination",
+    "region": "関東",
+    "prefecture": "千葉県",
+    "hub": "東京",
+    "hubName": "東京",
+    "hubCity": "東京",
+    "stayAllowed": [
+      "daytrip",
+      "1night"
+    ],
+    "departures": [
+      "東京"
+    ],
+    "weight": 1.0,
+    "description": "房総半島の人気観光牧場。動物ふれあいと菜の花畑、家族連れに最適。",
+    "tags": [
+      "子連れ",
+      "自然"
+    ],
+    "spots": [
+      {
+        "name": "マザー牧場"
+      },
+      {
+        "name": "遊園地"
+      },
+      {
+        "name": "ジンギスカン"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "マザー牧場 富津",
+    "lat": 35.224,
+    "lng": 139.836,
+    "travelTime": {
+      "tokyo": 110,
+      "osaka": 275,
+      "nagoya": 215,
+      "fukuoka": 415,
+      "sapporo": 255,
+      "sendai": 205
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E3%2583%259E%25E3%2582%25B6%25E3%2583%25BC%25E7%2589%25A7%25E5%25A0%25B4%2520%25E5%25AF%258C%25E6%25B4%25A5",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2583%257D%2583%2555%2581%255B%2596%2571%258F%25EA%2520%2595%2578%2592%25C3"
+    },
+    "rentalCarRecommended": true
+  },
+  {
+    "id": "sankeien",
+    "name": "三溪園",
+    "type": "destination",
+    "region": "関東",
+    "prefecture": "神奈川県",
+    "hub": "東京",
+    "hubName": "東京",
+    "hubCity": "東京",
+    "stayAllowed": [
+      "daytrip"
+    ],
+    "departures": [
+      "東京"
+    ],
+    "weight": 1.0,
+    "description": "横浜に佇む日本庭園。京都・鎌倉から移築された歴史的建造物が点在。",
+    "tags": [
+      "庭園",
+      "歴史"
+    ],
+    "spots": [
+      {
+        "name": "三溪園"
+      },
+      {
+        "name": "内苑"
+      },
+      {
+        "name": "旧矢箆原家住宅"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "横浜",
+    "lat": 35.408,
+    "lng": 139.658,
+    "travelTime": {
+      "tokyo": 50,
+      "osaka": 215,
+      "nagoya": 155,
+      "fukuoka": 355,
+      "sapporo": 195,
+      "sendai": 145
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E6%25A8%25AA%25E6%25B5%259C",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2589%25A1%2595%256C"
+    },
+    "rentalCarRecommended": false
+  },
+  {
+    "id": "tokushima-city",
+    "name": "徳島",
+    "type": "destination",
+    "region": "四国",
+    "prefecture": "徳島県",
+    "hub": "高松",
+    "hubName": "高松",
+    "hubCity": "高松",
+    "stayAllowed": [
+      "daytrip",
+      "1night"
+    ],
+    "departures": [
+      "高松"
+    ],
+    "weight": 1.0,
+    "description": "阿波踊りの本場。8月の踊りは20万人を超える観光客で賑わう。",
+    "tags": [
+      "祭",
+      "街歩き"
+    ],
+    "spots": [
+      {
+        "name": "阿波踊り会館"
+      },
+      {
+        "name": "瑞巌寺"
+      },
+      {
+        "name": "眉山"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "sight",
+    "hotelSearch": "徳島",
+    "lat": 34.073,
+    "lng": 134.555,
+    "travelTime": {
+      "takamatsu": 70,
+      "tokyo": 315,
+      "osaka": 175,
+      "nagoya": 235,
+      "fukuoka": 245
+    },
+    "stayRecommendation": "daytrip",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E5%25BE%25B3%25E5%25B3%25B6",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2593%25BF%2593%2587"
+    },
+    "rentalCarRecommended": false
+  },
+  {
+    "id": "aharen",
+    "name": "あはれん",
+    "type": "destination",
+    "region": "沖縄",
+    "prefecture": "沖縄県",
+    "hub": "那覇",
+    "hubName": "那覇",
+    "hubCity": "那覇",
+    "stayAllowed": [
+      "1night"
+    ],
+    "departures": [
+      "那覇"
+    ],
+    "weight": 1.0,
+    "description": "ケラマ諸島の渡嘉敷島の絶景ビーチ。ケラマブルーが世界中の観光客を魅了。",
+    "tags": [
+      "海",
+      "離島",
+      "秘境"
+    ],
+    "spots": [
+      {
+        "name": "阿波連ビーチ"
+      },
+      {
+        "name": "阿波連園地"
+      },
+      {
+        "name": "古座間味ビーチ"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": true,
+    "destType": "island",
+    "hotelSearch": "渡嘉敷",
+    "lat": 26.19,
+    "lng": 127.354,
+    "travelTime": {
+      "naha": 90,
+      "tokyo": 290,
+      "osaka": 250,
+      "nagoya": 265,
+      "fukuoka": 225
+    },
+    "stayRecommendation": "1night",
+    "gateways": {
+      "rail": [],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E6%25B8%25A1%25E5%2598%2589%25E6%2595%25B7",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2593%256E%2589%25C3%2595%257E"
+    },
+    "rentalCarRecommended": true
   }
 ]
