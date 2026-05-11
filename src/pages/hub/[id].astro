@@ -20,27 +20,84 @@ const JALAN_AFF  = 'https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764
 const rakutenUrl = `${RAKUTEN_AFF}?pc=${encodeURIComponent('https://travel.rakuten.co.jp/yado/' + hub.prefSlug + '/')}`;
 const jalanUrl   = `${JALAN_AFF}${encodeURIComponent('https://www.jalan.net/uw/uwp2011/uww2011init.do?keyword=' + hub.name)}`;
 
-// このハブを使う目的地を取得
-const hubDests = (destinations as any[]).filter(d => d.hub === hub.name);
+// hub.id → travelTime key 変換（一部不一致あり）
+const HUB_TT_KEY: Record<string, string> = {
+  miyakojima: 'miyako',
+};
+const ttKey = HUB_TT_KEY[hub.id] || hub.id;
 
-// 画像あり優先でweightでソート
+// このハブからアクセス可能な目的地（travelTime優先、d.hub fallback）
+const hubDests = (destinations as any[])
+  .filter(d => d.id !== hub.id)  // hub自身は除外
+  .map(d => {
+    const tt = (d.travelTime || {})[ttKey];
+    const isExplicitHub = d.hub === hub.name;
+    return {
+      ...d,
+      _tt: tt,
+      _isHub: isExplicitHub,
+    };
+  })
+  .filter(d => d._tt !== undefined || d._isHub)
+  .sort((a, b) => (a._tt || 999) - (b._tt || 999));
+
 const imgDir = path.join(process.cwd(), 'public/images');
-const withImg = hubDests.filter(d => fs.existsSync(path.join(imgDir, `${d.id}.jpg`)));
-const withoutImg = hubDests.filter(d => !fs.existsSync(path.join(imgDir, `${d.id}.jpg`)));
+function destImageUrl(d: any): string | null {
+  if (fs.existsSync(path.join(imgDir, `${d.id}.jpg`))) return `/images/${d.id}.jpg`;
+  if (d.unsplashUrl) return d.unsplashUrl;
+  return null;
+}
 
-// tier分け: area(拠点) → spot(スポット)
-const areaDests = [...withImg.filter(d => d.tier === 'area'), ...withoutImg.filter(d => d.tier === 'area')]
-  .sort((a, b) => (b.weight || 0) - (a.weight || 0));
-const spotDests = [...withImg.filter(d => d.tier !== 'area'), ...withoutImg.filter(d => d.tier !== 'area')]
-  .sort((a, b) => (b.weight || 0) - (a.weight || 0));
+// === 1. stayAllowed タブ用カウント ===
+const daytripDests = hubDests.filter((d: any) => (d.stayAllowed || []).includes('daytrip') && (d._tt || 999) <= 120);
+const oneNightDests = hubDests.filter((d: any) => (d.stayAllowed || []).includes('1night'));
+const twoNightDests = hubDests.filter((d: any) =>
+  (d.stayAllowed || []).some((s: string) => s === '2night' || s === '3night+')
+);
 
-// ハブ自身の画像（/images/{hub.id}.jpg）
+// === 2. テーマ別 ===
+const THEMES = [
+  { key: '温泉',      label: '温泉',      emoji: '♨' },
+  { key: '離島',      label: '離島',      emoji: '🏝' },
+  { key: '絶景',      label: '絶景',      emoji: '🏞' },
+  { key: '歴史',      label: '歴史',      emoji: '🏯' },
+  { key: 'グルメ',    label: 'グルメ',    emoji: '🍣' },
+  { key: '自然',      label: '自然',      emoji: '🌳' },
+  { key: '街歩き',    label: '街歩き',    emoji: '🚶' },
+  { key: '世界遺産',  label: '世界遺産',  emoji: '🌏' },
+];
+const themeSections = THEMES.map(t => ({
+  ...t,
+  dests: hubDests.filter((d: any) => (d.tags || []).includes(t.key)).slice(0, 6),
+})).filter(t => t.dests.length > 0);
+
+// === 3. 距離ゾーン別 ===
+const zone1 = hubDests.filter((d: any) => d._tt > 0 && d._tt <= 60);
+const zone2 = hubDests.filter((d: any) => d._tt > 60 && d._tt <= 120);
+const zone3 = hubDests.filter((d: any) => d._tt > 120 && d._tt <= 180);
+
+// === 5. 季節おすすめ ===
+const SEASON_TAGS: Record<string, string[]> = {
+  spring: ['春', '桜', '花', '新緑'],
+  summer: ['夏', '海', '海水浴', '花火'],
+  autumn: ['秋', '紅葉', '紅葉狩り'],
+  winter: ['冬', '雪', 'スキー', '温泉', '雪見'],
+};
+const SEASON_LABEL: Record<string, string> = { spring: '春', summer: '夏', autumn: '秋', winter: '冬' };
+const seasonalDests: Record<string, any[]> = {};
+for (const [season, tags] of Object.entries(SEASON_TAGS)) {
+  seasonalDests[season] = hubDests
+    .filter((d: any) => (d.tags || []).some((t: string) => tags.includes(t)))
+    .slice(0, 3);
+}
+
+// ハブ自身の画像
 const hubImage = fs.existsSync(path.join(imgDir, `${hub.id}.jpg`))
   ? `https://tabidokoiko.com/images/${hub.id}.jpg`
   : null;
 
-const title = `${hub.name}を拠点に旅する｜${hub.prefecture}から行けるおすすめ旅先`;
-const description = `${hub.desc} ${hub.name}を起点に日帰り・宿泊で行けるおすすめ旅先${hubDests.length}か所を紹介。`;
+const title = `${hub.name}を拠点に旅する｜${hub.prefecture}から行けるおすすめ旅先${hubDests.length}選`;
+const description = `${hub.desc.slice(0, 100)} ${hub.name}を起点に日帰り・宿泊で行けるおすすめ旅先${hubDests.length}か所を紹介。`;
 
 const jsonLd = JSON.stringify({
   "@context": "https://schema.org",
@@ -61,197 +118,190 @@ const jsonLd = JSON.stringify({
   <style>
     .hub-hero {
       position: relative;
-      height: 52vw;
-      min-height: 200px;
-      max-height: 420px;
+      height: 200px;
       overflow: hidden;
       background: #1a2e20;
     }
     .hub-hero-img {
-      width: 100%;
-      height: 100%;
+      width: 100%; height: 100%;
       object-fit: cover;
       object-position: center 40%;
       opacity: 0.75;
     }
     .hub-hero-overlay {
-      position: absolute;
-      inset: 0;
+      position: absolute; inset: 0;
       background: linear-gradient(to top, rgba(0,0,0,0.65) 0%, rgba(0,0,0,0.1) 60%);
     }
     .hub-hero-text {
-      position: absolute;
-      bottom: 28px;
-      left: 24px;
-      right: 24px;
+      position: absolute; bottom: 0; left: 0; right: 0;
+      padding: 0 24px 24px;
     }
-    .hub-hero-pref {
-      font-size: 11px;
-      letter-spacing: 0.12em;
-      color: rgba(255,255,255,0.75);
-      margin-bottom: 6px;
-      font-family: 'Noto Sans JP', sans-serif;
+    .hub-hero-pref { color: rgba(255,255,255,0.8); font-size: 11px; letter-spacing: 0.18em; margin-bottom: 8px; text-transform: uppercase; }
+    .hub-hero-title { color: #fff; font-family: 'Noto Serif JP', serif; font-size: 28px; font-weight: 300; letter-spacing: 0.06em; margin-bottom: 6px; }
+    .hub-hero-count { color: rgba(255,255,255,0.85); font-size: 12px; letter-spacing: 0.05em; }
+
+    .hub-body { max-width: 680px; margin: 0 auto; padding: 28px 20px 60px; }
+
+    /* hub説明 */
+    .hub-desc {
+      padding: 20px 22px;
+      background: #f8fdf9;
+      border-left: 3px solid #2A6049;
+      border-radius: 0 6px 6px 0;
+      font-size: 14px;
+      color: #444;
+      line-height: 2;
+      letter-spacing: 0.02em;
+      margin-bottom: 36px;
     }
-    .hub-hero-title {
-      font-family: 'Noto Serif JP', serif;
-      font-size: clamp(22px, 5vw, 32px);
-      font-weight: 300;
-      color: #fff;
-      letter-spacing: 0.06em;
-      line-height: 1.3;
-      margin-bottom: 8px;
+
+    /* タブ */
+    .stay-tabs {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      gap: 6px;
+      margin-bottom: 28px;
+      background: #fff;
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      padding: 8px 0;
     }
-    .hub-hero-desc {
+    .stay-tab {
+      padding: 12px 8px;
+      border: 1px solid #e0e0e0;
+      border-radius: 8px;
+      background: #fff;
+      color: #777;
       font-size: 13px;
-      color: rgba(255,255,255,0.82);
-      line-height: 1.7;
-      max-width: 480px;
+      letter-spacing: 0.04em;
+      cursor: pointer;
+      transition: all 0.15s;
+      text-align: center;
+      font-family: inherit;
     }
+    .stay-tab.active {
+      background: #2A6049;
+      color: #fff;
+      border-color: #2A6049;
+    }
+    .stay-tab-label { display: block; font-weight: 500; }
+    .stay-tab-count { display: block; font-size: 10px; margin-top: 2px; opacity: 0.8; }
 
-    .hub-body { max-width: 640px; margin: 0 auto; padding: 0 20px 80px; }
-
+    /* セクション */
+    .section { margin: 0 0 48px; }
+    .section-eyebrow {
+      font-size: 10px;
+      letter-spacing: 0.22em;
+      color: #9a7c36;
+      text-transform: uppercase;
+      display: block;
+      margin-bottom: 6px;
+    }
     .section-title {
       font-family: 'Noto Serif JP', serif;
-      font-size: 18px;
+      font-size: 20px;
       font-weight: 400;
       color: #1a1a1a;
-      letter-spacing: 0.06em;
-      margin: 40px 0 16px;
-    }
-    .section-subtitle {
-      font-size: 12px;
-      color: #999;
-      letter-spacing: 0.08em;
-      text-transform: uppercase;
-      margin-bottom: 6px;
+      letter-spacing: 0.04em;
+      margin-bottom: 16px;
     }
 
-    /* 目的地カードグリッド */
-    .dest-grid {
-      display: grid;
-      grid-template-columns: repeat(2, 1fr);
-      gap: 12px;
-      margin-bottom: 8px;
-    }
-    @media (min-width: 480px) {
-      .dest-grid { grid-template-columns: repeat(3, 1fr); }
-    }
-    .dest-card {
-      text-decoration: none;
-      color: inherit;
-      border-radius: 8px;
-      overflow: hidden;
-      border: 1px solid #f0f0f0;
-      transition: box-shadow 0.2s;
-    }
-    .dest-card:hover { box-shadow: 0 4px 16px rgba(0,0,0,0.10); }
-    .dest-card-img-wrap {
-      aspect-ratio: 4/3;
-      background: #f0f0f0;
-      overflow: hidden;
-    }
-    .dest-card-img {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      transition: transform 0.3s;
-    }
-    .dest-card:hover .dest-card-img { transform: scale(1.04); }
-    .dest-card-body {
-      padding: 10px 12px 12px;
-    }
-    .dest-card-name {
-      font-size: 14px;
-      font-weight: 500;
-      color: #1a1a1a;
-      margin-bottom: 2px;
-    }
-    .dest-card-pref {
-      font-size: 11px;
-      color: #999;
-    }
-    .dest-card-tag {
-      display: inline-block;
-      font-size: 10px;
-      color: #888;
-      background: #f5f5f5;
-      border-radius: 3px;
-      padding: 1px 6px;
-      margin-top: 4px;
-    }
-
-    /* 宿リンク */
-    .hotel-section { margin: 40px 0 0; }
-    .hotel-cards { display: flex; flex-direction: column; gap: 12px; margin-top: 12px; }
-    .hotel-card {
+    /* 横スクロール card */
+    .h-scroll {
       display: flex;
-      align-items: center;
-      justify-content: space-between;
-      padding: 16px 18px;
-      border-radius: 8px;
-      border: 1px solid #e8e8e8;
-      text-decoration: none;
-      color: inherit;
-      transition: box-shadow 0.2s;
+      gap: 12px;
+      overflow-x: auto;
+      padding-bottom: 8px;
+      scrollbar-width: none;
+      -webkit-overflow-scrolling: touch;
+      margin: 0 -20px 0 0;
+      padding-right: 20px;
     }
-    .hotel-card:hover { box-shadow: 0 2px 12px rgba(0,0,0,0.08); }
-    .hotel-card-rakuten { border-left: 3px solid #bf0000; }
-    .hotel-card-jalan   { border-left: 3px solid #e8820c; }
-    .hotel-card-name { font-size: 15px; font-weight: 500; margin-bottom: 2px; }
-    .hotel-card-desc { font-size: 12px; color: #999; }
-    .hotel-card-arrow { font-size: 16px; color: #bbb; }
+    .h-scroll::-webkit-scrollbar { display: none; }
+    .h-card {
+      flex: 0 0 160px;
+      display: block;
+      text-decoration: none;
+      border-radius: 8px;
+      overflow: hidden;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.06);
+      background: #fff;
+      transition: transform 0.15s;
+    }
+    .h-card:hover { transform: translateY(-2px); }
+    .h-card-img-wrap { position: relative; height: 100px; background: #f0f0f0; }
+    .h-card-img { width: 100%; height: 100%; object-fit: cover; display: block; }
+    .h-card-body { padding: 10px 12px 14px; }
+    .h-card-name { font-size: 13px; font-weight: 500; color: #1a1a1a; margin-bottom: 4px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .h-card-meta { font-size: 10px; color: #999; letter-spacing: 0.04em; }
+    .h-card-time { color: #C9A84C; font-size: 10px; margin-top: 4px; }
 
-    /* more-link */
+    /* もっと見る */
     .more-link {
       display: block;
       text-align: right;
       font-size: 12px;
-      color: #888;
-      text-decoration: none;
-      margin-top: 4px;
-      letter-spacing: 0.04em;
+      color: #2A6049;
+      margin-top: 12px;
+      letter-spacing: 0.05em;
     }
-    .more-link:hover { color: #2A6049; }
 
-    /* セパレーター */
-    .section-divider {
-      border: none;
-      border-top: 1px solid #f0f0f0;
-      margin: 40px 0 0;
+    /* 季節セクション */
+    .season-grid {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 16px;
     }
+    @media (min-width: 640px) {
+      .season-grid { grid-template-columns: 1fr 1fr; }
+    }
+    .season-block { background: #fafafa; border-radius: 10px; padding: 16px; }
+    .season-title { font-size: 14px; color: #2A6049; font-weight: 500; margin-bottom: 10px; }
+    .season-list { display: flex; flex-direction: column; gap: 8px; }
+    .season-item {
+      display: flex; gap: 10px; align-items: center;
+      text-decoration: none;
+      padding: 8px;
+      background: #fff;
+      border-radius: 6px;
+      font-size: 13px;
+      color: #444;
+    }
+    .season-item img { width: 50px; height: 38px; object-fit: cover; border-radius: 4px; }
+
+    /* 宿セクション */
+    .hotel-section { margin-bottom: 40px; }
+    .hotel-cards { display: flex; flex-direction: column; gap: 10px; }
+    .hotel-card {
+      display: flex; justify-content: space-between; align-items: center;
+      padding: 18px 20px; border: 1px solid #e8e8e8; border-radius: 8px;
+      text-decoration: none; box-shadow: 0 1px 4px rgba(0,0,0,0.04);
+    }
+    .hotel-card-rakuten { border-left: 4px solid #BF0000; }
+    .hotel-card-jalan   { border-left: 4px solid #FF6B00; }
+    .hotel-card-name { font-size: 14px; color: #1a1a1a; }
+    .hotel-card-desc { font-size: 11px; color: #aaa; }
+    .hotel-card-arrow { color: #ccc; }
 
     /* CTA */
-    .cta-section {
-      margin-top: 56px;
-      padding: 40px 24px;
-      background: #f9f9f9;
+    .cta {
+      padding: 38px 24px;
+      background: linear-gradient(135deg, #1e4d38 0%, #2A6049 100%);
       border-radius: 12px;
       text-align: center;
-    }
-    .cta-label {
-      font-size: 10px;
-      letter-spacing: 0.2em;
-      text-transform: uppercase;
-      color: #aaa;
-    }
-    .cta-title {
-      font-family: 'Noto Serif JP', serif;
-      font-size: 20px;
-      font-weight: 300;
-      color: #1a1a1a;
-      margin: 10px 0 20px;
-      letter-spacing: 0.04em;
-    }
-    .cta-btn {
-      display: inline-block;
-      padding: 12px 28px;
-      background: #2A6049;
       color: #fff;
-      border-radius: 6px;
-      font-size: 14px;
-      text-decoration: none;
-      letter-spacing: 0.04em;
     }
+    .cta-title { font-size: 18px; margin-bottom: 18px; font-family: 'Noto Serif JP', serif; font-weight: 300; }
+    .cta-btn {
+      display: inline-block; padding: 12px 28px;
+      background: #fff; color: #2A6049;
+      border-radius: 6px; font-size: 13px; text-decoration: none;
+    }
+
+    /* タブ別表示制御 */
+    .tab-content { display: none; }
+    .tab-content.active { display: block; }
   </style>
 
   <!-- Hero -->
@@ -264,78 +314,214 @@ const jsonLd = JSON.stringify({
     <div class="hub-hero-text">
       <p class="hub-hero-pref">{hub.prefecture} / {hub.region}</p>
       <h1 class="hub-hero-title">{hub.name}を拠点に旅する</h1>
-      <p class="hub-hero-desc">{hub.desc}</p>
+      <p class="hub-hero-count">{hubDests.length}件の旅先</p>
     </div>
   </div>
 
   <div class="hub-body">
 
-    <!-- エリア目的地 -->
-    {areaDests.length > 0 && (
-      <section>
-        <p class="section-subtitle">Destinations</p>
-        <h2 class="section-title">{hub.name}から行けるおすすめ旅先</h2>
-        <div class="dest-grid">
-          {areaDests.slice(0, 12).map((d: any) => (
-            <a href={`/destinations/${d.id}/`} class="dest-card">
-              <div class="dest-card-img-wrap">
-                <img
-                  class="dest-card-img"
-                  src={`/images/${d.id}.jpg`}
-                  alt={d.name}
-                  loading="lazy"
-                  onerror="this.parentElement.style.background='#e8e8e8'"
-                />
+    <!-- Hub description -->
+    <p class="hub-desc">{hub.desc}</p>
+
+    <!-- Tabs: 日帰り/1泊/2泊以上 -->
+    <div class="stay-tabs">
+      <button class="stay-tab active" data-tab="daytrip">
+        <span class="stay-tab-label">日帰り</span>
+        <span class="stay-tab-count">{daytripDests.length}件</span>
+      </button>
+      <button class="stay-tab" data-tab="onenight">
+        <span class="stay-tab-label">1泊</span>
+        <span class="stay-tab-count">{oneNightDests.length}件</span>
+      </button>
+      <button class="stay-tab" data-tab="twonight">
+        <span class="stay-tab-label">2泊以上</span>
+        <span class="stay-tab-count">{twoNightDests.length}件</span>
+      </button>
+    </div>
+
+    <!-- タブ内容: 日帰り -->
+    <div class="tab-content active" data-tab-content="daytrip">
+      <p class="section-eyebrow">Day Trip</p>
+      <h2 class="section-title">日帰りで行ける旅先</h2>
+      {daytripDests.length > 0 ? (
+        <div class="h-scroll">
+          {daytripDests.slice(0, 12).map((d: any) => {
+            const img = destImageUrl(d);
+            return (
+              <a href={`/destinations/${d.id}/`} class="h-card">
+                <div class="h-card-img-wrap">
+                  {img && <img class="h-card-img" src={img} alt={d.name} loading="lazy" onerror="this.style.display='none'" />}
+                </div>
+                <div class="h-card-body">
+                  <div class="h-card-name">{d.name}</div>
+                  <div class="h-card-meta">{d.prefecture}</div>
+                  {d._tt && <div class="h-card-time">{d._tt}分</div>}
+                </div>
+              </a>
+            );
+          })}
+        </div>
+      ) : <p style="color:#999;font-size:13px;">日帰り対象の旅先がまだ登録されていません。</p>}
+    </div>
+
+    <!-- タブ内容: 1泊 -->
+    <div class="tab-content" data-tab-content="onenight">
+      <p class="section-eyebrow">1 Night Stay</p>
+      <h2 class="section-title">1泊でゆったり旅先</h2>
+      <div class="h-scroll">
+        {oneNightDests.slice(0, 12).map((d: any) => {
+          const img = destImageUrl(d);
+          return (
+            <a href={`/destinations/${d.id}/`} class="h-card">
+              <div class="h-card-img-wrap">
+                {img && <img class="h-card-img" src={img} alt={d.name} loading="lazy" onerror="this.style.display='none'" />}
               </div>
-              <div class="dest-card-body">
-                <div class="dest-card-name">{d.name}</div>
-                <div class="dest-card-pref">{d.prefecture}</div>
-                {d.primary?.[0] && <span class="dest-card-tag">{d.primary[0]}</span>}
+              <div class="h-card-body">
+                <div class="h-card-name">{d.name}</div>
+                <div class="h-card-meta">{d.prefecture}</div>
+                {d._tt && <div class="h-card-time">{d._tt}分</div>}
               </div>
             </a>
-          ))}
-        </div>
-        {areaDests.length > 12 && (
-          <a href={`/?region=${encodeURIComponent(hub.region)}`} class="more-link">
-            {hub.region}の旅先をすべて見る →
-          </a>
+          );
+        })}
+      </div>
+    </div>
+
+    <!-- タブ内容: 2泊以上 -->
+    <div class="tab-content" data-tab-content="twonight">
+      <p class="section-eyebrow">Long Stay</p>
+      <h2 class="section-title">2泊以上で楽しむ旅先</h2>
+      <div class="h-scroll">
+        {twoNightDests.slice(0, 12).map((d: any) => {
+          const img = destImageUrl(d);
+          return (
+            <a href={`/destinations/${d.id}/`} class="h-card">
+              <div class="h-card-img-wrap">
+                {img && <img class="h-card-img" src={img} alt={d.name} loading="lazy" onerror="this.style.display='none'" />}
+              </div>
+              <div class="h-card-body">
+                <div class="h-card-name">{d.name}</div>
+                <div class="h-card-meta">{d.prefecture}</div>
+                {d._tt && <div class="h-card-time">{d._tt}分</div>}
+              </div>
+            </a>
+          );
+        })}
+      </div>
+    </div>
+
+    <!-- 距離ゾーン別 -->
+    {(zone1.length > 0 || zone2.length > 0 || zone3.length > 0) && (
+      <section class="section" style="margin-top:48px;">
+        <p class="section-eyebrow">By Distance</p>
+        <h2 class="section-title">所要時間で選ぶ</h2>
+
+        {zone1.length > 0 && (
+          <div style="margin-bottom:24px;">
+            <h3 style="font-size:14px;color:#2A6049;margin-bottom:10px;">〜60分</h3>
+            <div class="h-scroll">
+              {zone1.slice(0, 8).map((d: any) => {
+                const img = destImageUrl(d);
+                return (
+                  <a href={`/destinations/${d.id}/`} class="h-card">
+                    <div class="h-card-img-wrap">{img && <img class="h-card-img" src={img} alt={d.name} loading="lazy" />}</div>
+                    <div class="h-card-body"><div class="h-card-name">{d.name}</div><div class="h-card-time">{d._tt}分</div></div>
+                  </a>
+                );
+              })}
+            </div>
+          </div>
+        )}
+        {zone2.length > 0 && (
+          <div style="margin-bottom:24px;">
+            <h3 style="font-size:14px;color:#2A6049;margin-bottom:10px;">1〜2時間</h3>
+            <div class="h-scroll">
+              {zone2.slice(0, 8).map((d: any) => {
+                const img = destImageUrl(d);
+                return (
+                  <a href={`/destinations/${d.id}/`} class="h-card">
+                    <div class="h-card-img-wrap">{img && <img class="h-card-img" src={img} alt={d.name} loading="lazy" />}</div>
+                    <div class="h-card-body"><div class="h-card-name">{d.name}</div><div class="h-card-time">{d._tt}分</div></div>
+                  </a>
+                );
+              })}
+            </div>
+          </div>
+        )}
+        {zone3.length > 0 && (
+          <div>
+            <h3 style="font-size:14px;color:#2A6049;margin-bottom:10px;">2〜3時間</h3>
+            <div class="h-scroll">
+              {zone3.slice(0, 8).map((d: any) => {
+                const img = destImageUrl(d);
+                return (
+                  <a href={`/destinations/${d.id}/`} class="h-card">
+                    <div class="h-card-img-wrap">{img && <img class="h-card-img" src={img} alt={d.name} loading="lazy" />}</div>
+                    <div class="h-card-body"><div class="h-card-name">{d.name}</div><div class="h-card-time">{d._tt}分</div></div>
+                  </a>
+                );
+              })}
+            </div>
+          </div>
         )}
       </section>
     )}
 
-    <!-- スポット目的地 -->
-    {spotDests.length > 0 && (
-      <section>
-        <p class="section-subtitle">Day Trips</p>
-        <h2 class="section-title">日帰りで行けるスポット</h2>
-        <div class="dest-grid">
-          {spotDests.slice(0, 9).map((d: any) => (
-            <a href={`/destinations/${d.id}/`} class="dest-card">
-              <div class="dest-card-img-wrap">
-                <img
-                  class="dest-card-img"
-                  src={`/images/${d.id}.jpg`}
-                  alt={d.name}
-                  loading="lazy"
-                  onerror="this.parentElement.style.background='#e8e8e8'"
-                />
+    <!-- テーマ別 -->
+    {themeSections.length > 0 && (
+      <section class="section">
+        <p class="section-eyebrow">By Theme</p>
+        <h2 class="section-title">テーマで選ぶ</h2>
+        {themeSections.map(t => (
+          <div style="margin-bottom:28px;">
+            <h3 style="font-size:14px;color:#444;margin-bottom:10px;">{t.emoji} {t.label}</h3>
+            <div class="h-scroll">
+              {t.dests.map((d: any) => {
+                const img = destImageUrl(d);
+                return (
+                  <a href={`/destinations/${d.id}/`} class="h-card">
+                    <div class="h-card-img-wrap">{img && <img class="h-card-img" src={img} alt={d.name} loading="lazy" />}</div>
+                    <div class="h-card-body"><div class="h-card-name">{d.name}</div><div class="h-card-meta">{d.prefecture}</div></div>
+                  </a>
+                );
+              })}
+            </div>
+          </div>
+        ))}
+      </section>
+    )}
+
+    <!-- 季節おすすめ -->
+    {(seasonalDests.spring.length > 0 || seasonalDests.summer.length > 0 || seasonalDests.autumn.length > 0 || seasonalDests.winter.length > 0) && (
+      <section class="section">
+        <p class="section-eyebrow">By Season</p>
+        <h2 class="section-title">季節で選ぶ</h2>
+        <div class="season-grid">
+          {(['spring','summer','autumn','winter'] as const).map(s => (
+            seasonalDests[s].length > 0 && (
+              <div class="season-block">
+                <h3 class="season-title">{SEASON_LABEL[s]}のおすすめ</h3>
+                <div class="season-list">
+                  {seasonalDests[s].map((d: any) => {
+                    const img = destImageUrl(d);
+                    return (
+                      <a href={`/destinations/${d.id}/`} class="season-item">
+                        {img && <img src={img} alt={d.name} loading="lazy" />}
+                        <span>{d.name}</span>
+                      </a>
+                    );
+                  })}
+                </div>
               </div>
-              <div class="dest-card-body">
-                <div class="dest-card-name">{d.name}</div>
-                <div class="dest-card-pref">{d.prefecture}</div>
-                {d.primary?.[0] && <span class="dest-card-tag">{d.primary[0]}</span>}
-              </div>
-            </a>
+            )
           ))}
         </div>
       </section>
     )}
 
-    <hr class="section-divider" />
-
     <!-- 宿リンク -->
     <section class="hotel-section">
-      <p class="section-subtitle">Stay</p>
+      <p class="section-eyebrow">Stay</p>
       <h2 class="section-title">{hub.name}の宿を探す</h2>
       <div class="hotel-cards">
         <a href={rakutenUrl} target="_blank" rel="noopener noreferrer" class="hotel-card hotel-card-rakuten">
@@ -356,11 +542,25 @@ const jsonLd = JSON.stringify({
     </section>
 
     <!-- CTA -->
-    <div class="cta-section">
-      <span class="cta-label">Travel Planning</span>
+    <div class="cta">
       <p class="cta-title">旅先を1分で決めてみる？</p>
       <a href="/" class="cta-btn">どこ行こ？で旅先を探す →</a>
     </div>
 
   </div>
+
+  <script>
+    const tabs = document.querySelectorAll<HTMLButtonElement>('.stay-tab');
+    const contents = document.querySelectorAll<HTMLElement>('.tab-content');
+    tabs.forEach(t => {
+      t.addEventListener('click', () => {
+        tabs.forEach(x => x.classList.remove('active'));
+        contents.forEach(c => c.classList.remove('active'));
+        t.classList.add('active');
+        const key = t.dataset.tab;
+        const c = document.querySelector(`[data-tab-content="${key}"]`);
+        if (c) c.classList.add('active');
+      });
+    });
+  </script>
 </DestinationLayout>

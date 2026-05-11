@@ -359,6 +359,24 @@ const hubCity = hubName
     border-bottom: 2px solid #1a1a1a;
   }
   .spot-section { margin-bottom: 60px; }
+  .spot-with-img {
+    display: flex;
+    gap: 16px;
+    align-items: flex-start;
+  }
+  .spot-thumb {
+    width: 100px;
+    height: 75px;
+    object-fit: cover;
+    border-radius: 6px;
+    flex-shrink: 0;
+    background: #f0f0f0;
+  }
+  .spot-content { flex: 1; min-width: 0; }
+  @media (max-width: 480px) {
+    .spot-with-img { flex-direction: column; gap: 12px; }
+    .spot-thumb { width: 100%; height: 160px; }
+  }
   .spot-num {
     font-size: 48px;
     font-weight: 300;
@@ -526,13 +544,13 @@ const hubCity = hubName
   .travel-time-row:last-child { border-bottom: none; }
   .travel-time-row span:first-child { color: #888; }
   .travel-time-row span:last-child { font-weight: 500; color: #1a1a1a; }
-  .travel-time-block { padding: 8px 0; border-bottom: 1px solid #f0f0f0; }
+  .travel-time-block { padding: 16px 0; border-bottom: 1px solid #f0f0f0; }
   .travel-time-block:last-child { border-bottom: none; }
-  .travel-time-block .travel-time-row { border-bottom: none; padding: 4px 0 8px; }
-  .travel-booking-row-dual {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 6px;
+  .travel-time-block .travel-time-row { border-bottom: none; padding: 4px 0 12px; }
+  .travel-booking-row-stack {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
     margin-bottom: 4px;
   }
   .booking-btn {
@@ -540,15 +558,15 @@ const hubCity = hubName
     align-items: center;
     justify-content: space-between;
     gap: 4px;
-    padding: 8px 10px;
-    border-radius: 6px;
-    font-size: 11px;
+    padding: 12px 16px;
+    border-radius: 8px;
+    font-size: 13px;
     text-decoration: none;
     transition: background 0.15s;
     border: 1px solid transparent;
   }
   .booking-btn-label { font-weight: 500; letter-spacing: 0.04em; }
-  .booking-btn-arrow { font-size: 12px; opacity: 0.6; }
+  .booking-btn-arrow { font-size: 14px; opacity: 0.6; }
   .booking-btn-route { background: #e8f1ee; color: #2A6049; border-color: #d0e8da; }
   .booking-btn-route:hover { background: #d4e8df; }
   .booking-btn-navitime { background: #fff3e6; color: #C45500; border-color: #ffe0c2; }
@@ -822,30 +840,62 @@ const hubCity = hubName
       </div>
     )}
 
-    <!-- スポット -->
-    {article?.sections && article.sections.length > 0 && (
+    <!-- スポット (article.sections優先、なければ dest.spots を簡易表示) -->
+    {article?.sections && article.sections.length > 0 ? (
       <div>
         <h2 class="spots-heading">{dest.name}のおすすめスポット</h2>
-        {article.sections.map((section: any, i: number) => (
-          <div class="spot-section">
-            <span class="spot-num">{String(i + 1).padStart(2, '0')}</span>
-            <h3 class="spot-title">{section.title || section.heading}</h3>
-            <div class="spot-body">
-              {section.body.split('\n').map((p: string) => p.trim()).filter(Boolean).map((p: string) => (
-                <p>{p}</p>
-              ))}
+        {article.sections.map((section: any, i: number) => {
+          const sectionTitle = section.title || section.heading || '';
+          // dest.spots から同名スポットの imageUrl を探す
+          const matchSpot = ((dest as any).spots || []).find((s: any) =>
+            (typeof s === 'object' && s.name && (sectionTitle.includes(s.name) || s.name.includes(sectionTitle)))
+          );
+          const spotImg = matchSpot?.imageUrl;
+          return (
+            <div class="spot-section">
+              <span class="spot-num">{String(i + 1).padStart(2, '0')}</span>
+              <div class={spotImg ? 'spot-with-img' : ''}>
+                {spotImg && (
+                  <img class="spot-thumb" src={spotImg} alt={sectionTitle} loading="lazy" onerror="this.style.display='none'" />
+                )}
+                <div class="spot-content">
+                  <h3 class="spot-title">{sectionTitle}</h3>
+                  <div class="spot-body">
+                    {section.body.split('\n').map((p: string) => p.trim()).filter(Boolean).map((p: string) => (
+                      <p>{p}</p>
+                    ))}
+                  </div>
+                  {section.info && <div class="spot-info">{section.info}</div>}
+                  <a href={`https://www.google.com/maps/search/${encodeURIComponent(sectionTitle + ' ' + dest.name)}`} target="_blank" rel="noopener noreferrer" class="spot-map">地図で見る →</a>
+                </div>
+              </div>
             </div>
-            {section.info && <div class="spot-info">{section.info}</div>}
-            <a
-              href={`https://www.google.com/maps/search/${encodeURIComponent((section.title || section.heading || '') + ' ' + dest.name)}`}
-              target="_blank"
-              rel="noopener noreferrer"
-              class="spot-map"
-            >地図で見る →</a>
-          </div>
-        ))}
+          );
+        })}
       </div>
-    )}
+    ) : (((dest as any).spots && (dest as any).spots.length > 0) && (
+      <div>
+        <h2 class="spots-heading">{dest.name}のおすすめスポット</h2>
+        {((dest as any).spots).map((spot: any, i: number) => {
+          const name = typeof spot === 'string' ? spot : spot.name;
+          const imageUrl = typeof spot === 'object' ? spot.imageUrl : null;
+          return (
+            <div class="spot-section">
+              <span class="spot-num">{String(i + 1).padStart(2, '0')}</span>
+              <div class={imageUrl ? 'spot-with-img' : ''}>
+                {imageUrl && (
+                  <img class="spot-thumb" src={imageUrl} alt={name} loading="lazy" onerror="this.style.display='none'" />
+                )}
+                <div class="spot-content">
+                  <h3 class="spot-title">{name}</h3>
+                  <a href={`https://www.google.com/maps/search/${encodeURIComponent(name + ' ' + dest.name)}`} target="_blank" rel="noopener noreferrer" class="spot-map">地図で見る →</a>
+                </div>
+              </div>
+            </div>
+          );
+        })}
+      </div>
+    ))}
 
     <!-- モデルコース -->
     {article?.modelCourse && (
@@ -894,13 +944,13 @@ const hubCity = hubName
                   <span>{city}から</span>
                   <span>{min >= 60 ? `約${Math.floor(min/60)}時間${min%60 > 0 ? min%60 + '分' : ''}` : `約${min}分`}</span>
                 </div>
-                <div class="travel-booking-row-dual">
+                <div class="travel-booking-row-stack">
                   <a href={gmap} target="_blank" rel="noopener noreferrer" class="booking-btn booking-btn-route">
-                    <span class="booking-btn-label">Googleマップ</span>
+                    <span class="booking-btn-label">地図で経路を見る</span>
                     <span class="booking-btn-arrow">→</span>
                   </a>
                   <a href={navitime} target="_blank" rel="noopener noreferrer" class="booking-btn booking-btn-navitime">
-                    <span class="booking-btn-label">乗換案内</span>
+                    <span class="booking-btn-label">電車・バスで行く</span>
                     <span class="booking-btn-arrow">→</span>
                   </a>
                 </div>

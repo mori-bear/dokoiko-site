@@ -57,7 +57,10 @@ const targets = dests.filter(d => {
 // 代表スポット名 + name で検索（より特定の画像がヒットしやすい）
 function buildQuery(d) {
   const spots = d.spots || [];
-  if (spots.length > 0 && spots[0]) return `${spots[0]} ${d.name}`;
+  if (spots.length > 0 && spots[0]) {
+    const spotName = typeof spots[0] === 'string' ? spots[0] : spots[0].name;
+    if (spotName) return `${spotName} ${d.name}`;
+  }
   return `${d.name} ${d.prefecture}`;
 }
 
