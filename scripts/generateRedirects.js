@@ -50,14 +50,41 @@ for (const d of destinations) {
 
 // 2. 旧スラッグ → 新スラッグの既知マッピング
 //    旧スラッグが現在のidと一致しないケースのみ追加。
-//    Search Console 404リスト173件（abashiri, furano, ashikaga, ... taketomi-island 等）は
-//    全て現在のdestinations.jsonの id と完全一致するため、Step 1 で自動カバー済み。
+//
+//    【照合済み】
+//    Search Console 404リスト173件（abashiri, furano, ashikaga, ... taketomi-island 等）
+//      → 全て現在のdestinations.jsonの id と完全一致 → Step 1 で自動カバー済み
+//    gen_系404リスト24件（gen_青森_馬門温泉, gen_北海_登別温泉, gen_北海_永山神社 等）
+//      → 全て現在のdestinations.jsonの id と完全一致 → Step 1 で自動カバー済み
+//      （destinations.json には gen_ 系IDが519件残存している）
+//
 //    ここには id が変更された/削除された場合のみ追加する。
 const KNOWN_SLUG_REDIRECTS = {
   // 例: 'old-slug': 'new-slug',
   // 'kozushima':       'kouzushima',
   // 'goto-islands':    'goto',
 };
+
+// 3. 完全に削除されたページ（リダイレクト先なし）→ トップページへ
+//    Search Console で具体URLが判明したら追加
+const DEAD_TO_HOMEPAGE = [
+  // 'old-removed-slug',
+];
+
+for (const oldSlug of DEAD_TO_HOMEPAGE) {
+  const targetUrl = '/';
+  const htmlPath = path.join(DIST_DIR, `${oldSlug}.html`);
+  if (!fs.existsSync(htmlPath)) {
+    fs.writeFileSync(htmlPath, buildRedirectHtml(targetUrl));
+    written++;
+  }
+  const dirPath = path.join(DIST_DIR, oldSlug);
+  if (!fs.existsSync(dirPath)) {
+    fs.mkdirSync(dirPath, { recursive: true });
+    fs.writeFileSync(path.join(dirPath, 'index.html'), buildRedirectHtml(targetUrl));
+    written++;
+  }
+}
 
 for (const [oldSlug, newSlug] of Object.entries(KNOWN_SLUG_REDIRECTS)) {
   const targetUrl = `/destinations/${newSlug}/`;
