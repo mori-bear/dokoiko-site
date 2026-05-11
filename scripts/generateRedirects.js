@@ -48,24 +48,15 @@ for (const d of destinations) {
   written++;
 }
 
-// 2. 旧スラッグ → 新スラッグの既知マッピング（手動で追加）
-//    Search Console で検出された具体的URLが判明したら追加
+// 2. 旧スラッグ → 新スラッグの既知マッピング
+//    旧スラッグが現在のidと一致しないケースのみ追加。
+//    Search Console 404リスト173件（abashiri, furano, ashikaga, ... taketomi-island 等）は
+//    全て現在のdestinations.jsonの id と完全一致するため、Step 1 で自動カバー済み。
+//    ここには id が変更された/削除された場合のみ追加する。
 const KNOWN_SLUG_REDIRECTS = {
   // 例: 'old-slug': 'new-slug',
   // 'kozushima':       'kouzushima',
   // 'goto-islands':    'goto',
-  // 'iki':             'iki-island',
-  // 'ejima':           'ie-island',
-  // 'shishijima':      'shijishima',
-  // 'mihogaseki':      'mihonoseki',
-  // 'kakeromajima':    'kakeroma-island',
-  // 'tobushima':       'tobishima-island',
-  // 'awashima':        'awashima-island',
-  // 'oshima-ehime':    'omishima-island',
-  // 'ibuki-island':    'ibukijima',
-  // 'motoshima':       'honjima',
-  // 'sensui-island':   'sensui-jima',
-  // 'manabe-island':   'manabeshima',
 };
 
 for (const [oldSlug, newSlug] of Object.entries(KNOWN_SLUG_REDIRECTS)) {
