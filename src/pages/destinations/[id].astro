@@ -140,6 +140,22 @@ const nearbyDests = (destinations as any[])
   .filter((d: any) => d.id !== dest.id && d.region === dest.region)
   .slice(0, 8);
 
+// 同じ都道府県の他目的地（最大8件）
+const samePrefDests = (destinations as any[])
+  .filter((d: any) => d.id !== dest.id && d.prefecture === dest.prefecture)
+  .slice(0, 8);
+
+// 同じタグを持つ他目的地（最大8件、まずは「離島」「温泉」「絶景」など主要タグ優先）
+const PRIMARY_TAGS = ['離島','温泉','絶景','世界遺産','寺社','街歩き','自然','海','山','湖','歴史'];
+const destTags: string[] = (dest as any).tags || [];
+const primaryTag = destTags.find(t => PRIMARY_TAGS.includes(t)) || destTags[0];
+const sameTagDests = primaryTag
+  ? (destinations as any[])
+      .filter((d: any) => d.id !== dest.id && (d.tags || []).includes(primaryTag))
+      .filter((d: any) => !samePrefDests.some(s => s.id === d.id))
+      .slice(0, 8)
+  : [];
+
 // JSON-LD (TouristAttraction)
 const jsonLd = JSON.stringify({
   "@context": "https://schema.org",
@@ -1021,6 +1037,46 @@ const hubCity = hubName
                   loading="lazy"
                   onerror="this.style.display='none'"
                 />
+              </div>
+              <div class="nearby-card-body">
+                <div class="nearby-card-name">{d.name}</div>
+                <div class="nearby-card-pref">{d.prefecture}</div>
+              </div>
+            </a>
+          ))}
+        </div>
+      </div>
+    )}
+
+    <!-- 同じ都道府県の旅先 -->
+    {samePrefDests.length > 0 && (
+      <div class="nearby-section">
+        <h2 class="section-title">{dest.prefecture}の他の旅先</h2>
+        <div class="nearby-scroll">
+          {samePrefDests.map((d: any) => (
+            <a href={`/destinations/${d.id}/`} class="nearby-card">
+              <div class="nearby-card-img-wrap">
+                <img class="nearby-card-img" src={`/images/${d.id}.jpg`} alt={d.name} loading="lazy" onerror="this.style.display='none'" />
+              </div>
+              <div class="nearby-card-body">
+                <div class="nearby-card-name">{d.name}</div>
+                <div class="nearby-card-pref">{d.prefecture}</div>
+              </div>
+            </a>
+          ))}
+        </div>
+      </div>
+    )}
+
+    <!-- 同じテーマの旅先 -->
+    {sameTagDests.length > 0 && primaryTag && (
+      <div class="nearby-section">
+        <h2 class="section-title">「{primaryTag}」の他の旅先</h2>
+        <div class="nearby-scroll">
+          {sameTagDests.map((d: any) => (
+            <a href={`/destinations/${d.id}/`} class="nearby-card">
+              <div class="nearby-card-img-wrap">
+                <img class="nearby-card-img" src={`/images/${d.id}.jpg`} alt={d.name} loading="lazy" onerror="this.style.display='none'" />
               </div>
               <div class="nearby-card-body">
                 <div class="nearby-card-name">{d.name}</div>
