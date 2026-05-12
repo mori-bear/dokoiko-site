@@ -544,6 +544,22 @@ const hubCity = hubName
   .travel-time-row:last-child { border-bottom: none; }
   .travel-time-row span:first-child { color: #888; }
   .travel-time-row span:last-child { font-weight: 500; color: #1a1a1a; }
+  .departure-picker { padding: 8px 0 18px; }
+  .departure-picker label { display: block; font-size: 11px; color: #888; margin-bottom: 8px; letter-spacing: 0.05em; }
+  .departure-select {
+    width: 100%; padding: 12px 14px;
+    border: 1px solid #d0e8da;
+    border-radius: 8px;
+    background: #f0faf4;
+    color: #1a1a1a;
+    font-size: 14px;
+    cursor: pointer;
+    -webkit-appearance: none; appearance: none;
+    background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'><path fill='%232A6049' d='M6 9L1 4h10z'/></svg>");
+    background-repeat: no-repeat;
+    background-position: right 14px center;
+  }
+  .travel-time-block.highlighted { background: #fffbe6; border-left: 3px solid #C9A84C; padding-left: 12px; }
   .travel-time-block { padding: 16px 0; border-bottom: 1px solid #f0f0f0; }
   .travel-time-block:last-child { border-bottom: none; }
   .travel-time-block .travel-time-row { border-bottom: none; padding: 4px 0 12px; }
@@ -939,11 +955,20 @@ const hubCity = hubName
       {travelTimes.length > 0 && (
         <div class="travel-times">
           <span class="travel-times-label">Access Time</span>
+          <div class="departure-picker">
+            <label for="departure-select">どこから出発？</label>
+            <select id="departure-select" class="departure-select" data-dest-name={dest.name}>
+              <option value="">— 出発地を選ぶ —</option>
+              {travelTimes.map(({ city }: { city: string; min: number }) => (
+                <option value={city}>{city}</option>
+              ))}
+            </select>
+          </div>
           {travelTimes.map(({ city, min }: { city: string; min: number }) => {
             const gmap = `https://www.google.com/maps/dir/${encodeURIComponent(city)}/${encodeURIComponent(dest.name)}/`;
             const navitime = `https://www.navitime.co.jp/transfer/searchlist?orvStationName=${encodeURIComponent(city)}&dnvStationName=${encodeURIComponent(dest.name)}`;
             return (
-              <div class="travel-time-block">
+              <div class="travel-time-block" data-city={city}>
                 <div class="travel-time-row">
                   <span>{city}から</span>
                   <span>{min >= 60 ? `約${Math.floor(min/60)}時間${min%60 > 0 ? min%60 + '分' : ''}` : `約${min}分`}</span>
@@ -1227,6 +1252,22 @@ const hubCity = hubName
 </DestinationLayout>
 
 <script>
+  // 出発地ピッカー: 選択した出発地の travel-time-block をハイライト+スクロール
+  const departureSelect = document.getElementById('departure-select') as HTMLSelectElement | null;
+  if (departureSelect) {
+    departureSelect.addEventListener('change', () => {
+      const city = departureSelect.value;
+      const blocks = document.querySelectorAll<HTMLElement>('.travel-time-block');
+      blocks.forEach(b => b.classList.remove('highlighted'));
+      if (!city) return;
+      const target = document.querySelector<HTMLElement>(`.travel-time-block[data-city="${city}"]`);
+      if (target) {
+        target.classList.add('highlighted');
+        target.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      }
+    });
+  }
+
   const nativeBtn = document.getElementById('share-native-btn') as HTMLButtonElement | null;
   const fallback  = document.getElementById('share-fallback') as HTMLElement | null;
 
