@@ -879,6 +879,7 @@ const hubCity = hubName
         {((dest as any).spots).map((spot: any, i: number) => {
           const name = typeof spot === 'string' ? spot : spot.name;
           const imageUrl = typeof spot === 'object' ? spot.imageUrl : null;
+          const spotDesc = typeof spot === 'object' ? spot.description : null;
           return (
             <div class="spot-section">
               <span class="spot-num">{String(i + 1).padStart(2, '0')}</span>
@@ -888,6 +889,9 @@ const hubCity = hubName
                 )}
                 <div class="spot-content">
                   <h3 class="spot-title">{name}</h3>
+                  {spotDesc && (
+                    <div class="spot-body"><p>{spotDesc}</p></div>
+                  )}
                   <a href={`https://www.google.com/maps/search/${encodeURIComponent(name + ' ' + dest.name)}`} target="_blank" rel="noopener noreferrer" class="spot-map">地図で見る →</a>
                 </div>
               </div>
