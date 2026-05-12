@@ -161,7 +161,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "東京",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/kamakura/main.jpg"
+    ]
   },
   {
     "id": "atami",
@@ -315,7 +318,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "東京",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/atami/main.jpg"
+    ]
   },
   {
     "id": "nikko",
@@ -515,7 +521,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "東京",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/nikko/main.jpg"
+    ]
   },
   {
     "id": "karuizawa",
@@ -684,7 +693,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "東京",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/karuizawa/main.jpg"
+    ]
   },
   {
     "id": "fujikawaguchiko",
@@ -848,7 +860,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "東京",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/fujikawaguchiko/main.jpg"
+    ]
   },
   {
     "id": "nara",
@@ -1016,7 +1031,10 @@
     "icCard": "icoca",
     "tier2": "hub",
     "hubName": "大阪",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/nara/main.jpg"
+    ]
   },
   {
     "id": "ishigaki",
@@ -1192,7 +1210,10 @@
     "icCard": null,
     "tier2": "spot",
     "hubName": "那覇",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/ishigaki/main.jpg"
+    ]
   },
   {
     "id": "ise",
@@ -1369,7 +1390,10 @@
     "icCard": "icoca",
     "tier2": "area",
     "hubName": "名古屋",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/ise/main.jpg"
+    ]
   },
   {
     "id": "beppu",
@@ -1542,7 +1566,10 @@
     "icCard": "nimoca",
     "tier2": "area",
     "hubName": "福岡",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/beppu/main.jpg"
+    ]
   },
   {
     "id": "otaru",
@@ -1714,7 +1741,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/otaru/main.jpg"
+    ]
   },
   {
     "id": "furano",
@@ -1892,7 +1922,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "旭川",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/furano/main.jpg"
+    ]
   },
   {
     "id": "matsushima",
@@ -2076,7 +2109,10 @@
     "tier2": "area",
     "hubName": "仙台",
     "rentalCarRecommended": false,
-    "isIsland": false
+    "isIsland": false,
+    "images": [
+      "/images/matsushima/main.jpg"
+    ]
   },
   {
     "id": "miyajima",
@@ -2253,7 +2289,10 @@
     "icCard": "icoca",
     "tier2": "spot",
     "hubName": "広島",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/miyajima/main.jpg"
+    ]
   },
   {
     "id": "onomichi",
@@ -2429,7 +2468,10 @@
     "icCard": "icoca",
     "tier2": "area",
     "hubName": "広島",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/onomichi/main.jpg"
+    ]
   },
   {
     "id": "shodoshima",
@@ -2606,7 +2648,10 @@
     "icCard": null,
     "tier2": "spot",
     "hubName": "高松",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/shodoshima/main.jpg"
+    ]
   },
   {
     "id": "mihonoseki",
@@ -2782,7 +2827,10 @@
     "tier2": "area",
     "hubName": "松江",
     "rentalCarRecommended": false,
-    "isIsland": false
+    "isIsland": false,
+    "images": [
+      "/images/mihonoseki/main.jpg"
+    ]
   },
   {
     "id": "ryujin-onsen",
@@ -2940,7 +2988,10 @@
     "icCard": "icoca",
     "tier2": "area",
     "hubName": "大阪",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/ryujin-onsen/main.jpg"
+    ]
   },
   {
     "id": "tokashiki-jima",
@@ -3133,7 +3184,10 @@
     "icCard": null,
     "tier2": "spot",
     "hubName": "那覇",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/tokashiki-jima/main.jpg"
+    ]
   },
   {
     "id": "kumejima",
@@ -3328,7 +3382,10 @@
     "icCard": null,
     "tier2": "spot",
     "hubName": "那覇",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/kumejima/main.jpg"
+    ]
   },
   {
     "id": "miyakojima",
@@ -3508,7 +3565,10 @@
     "icCard": null,
     "tier2": "spot",
     "hubName": "那覇",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/miyakojima/main.jpg"
+    ]
   },
   {
     "id": "kouzushima",
@@ -3678,7 +3738,10 @@
     "icCard": null,
     "tier2": "spot",
     "hubName": "東京",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/kouzushima/main.jpg"
+    ]
   },
   {
     "id": "hakone",
@@ -3849,7 +3912,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "東京",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/hakone/main.jpg"
+    ]
   },
   {
     "id": "shuzenji",
@@ -4011,7 +4077,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "東京",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/shuzenji/main.jpg"
+    ]
   },
   {
     "id": "kusatsu-onsen",
@@ -4178,7 +4247,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "東京",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/kusatsu-onsen/main.jpg"
+    ]
   },
   {
     "id": "shimoda",
@@ -4350,7 +4422,10 @@
     "tier2": "area",
     "hubName": "東京",
     "rentalCarRecommended": false,
-    "isIsland": false
+    "isIsland": false,
+    "images": [
+      "/images/shimoda/main.jpg"
+    ]
   },
   {
     "id": "izu-oshima",
@@ -4533,7 +4608,10 @@
     "icCard": null,
     "tier2": "spot",
     "hubName": "東京",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/izu-oshima/main.jpg"
+    ]
   },
   {
     "id": "shirakawago-t",
@@ -4706,7 +4784,10 @@
     "icCard": "icoca",
     "tier2": "spot",
     "hubName": "岐阜",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/shirakawago-t/main.jpg"
+    ]
   },
   {
     "id": "arima-onsen",
@@ -4884,7 +4965,10 @@
     "icCard": "icoca",
     "tier2": "area",
     "hubName": "神戸",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/arima-onsen/main.jpg"
+    ]
   },
   {
     "id": "kinosaki-onsen",
@@ -5055,7 +5139,10 @@
     "icCard": "icoca",
     "tier2": "area",
     "hubName": "大阪",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/kinosaki-onsen/main.jpg"
+    ]
   },
   {
     "id": "kurashiki-o",
@@ -5219,7 +5306,10 @@
     "icCard": "icoca",
     "tier2": "area",
     "hubName": "岡山",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/kurashiki-o/main.jpg"
+    ]
   },
   {
     "id": "shirahama-o",
@@ -5384,7 +5474,10 @@
     "icCard": "icoca",
     "tier2": "area",
     "hubName": "大阪",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/shirahama-o/main.jpg"
+    ]
   },
   {
     "id": "takayama-o",
@@ -5557,7 +5650,10 @@
     "icCard": "icoca",
     "tier2": "area",
     "hubName": "岐阜",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/takayama-o/main.jpg"
+    ]
   },
   {
     "id": "toba",
@@ -5725,7 +5821,10 @@
     "icCard": "icoca",
     "tier2": "area",
     "hubName": "名古屋",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/toba/main.jpg"
+    ]
   },
   {
     "id": "yufuin",
@@ -5905,7 +6004,10 @@
     "icCard": "nimoca",
     "tier2": "area",
     "hubName": "福岡",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/yufuin/main.jpg"
+    ]
   },
   {
     "id": "kurokawa-k",
@@ -6071,7 +6173,10 @@
     "icCard": "nimoca",
     "tier2": "spot",
     "hubName": "熊本",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/kurokawa-k/main.jpg"
+    ]
   },
   {
     "id": "aso",
@@ -6235,7 +6340,10 @@
     "icCard": "nimoca",
     "tier2": "spot",
     "hubName": "熊本",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/aso/main.jpg"
+    ]
   },
   {
     "id": "yakushima",
@@ -6434,7 +6542,10 @@
     "icCard": null,
     "tier2": "spot",
     "hubName": "鹿児島",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/yakushima/main.jpg"
+    ]
   },
   {
     "id": "amakusa",
@@ -6585,7 +6696,10 @@
     "icCard": "nimoca",
     "tier2": "spot",
     "hubName": "熊本",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/amakusa/main.jpg"
+    ]
   },
   {
     "id": "hiraizumi",
@@ -6751,7 +6865,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "盛岡",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/hiraizumi/main.jpg"
+    ]
   },
   {
     "id": "kakunodate",
@@ -6914,7 +7031,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "盛岡",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/kakunodate/main.jpg"
+    ]
   },
   {
     "id": "aizu",
@@ -7087,7 +7207,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "仙台",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/aizu/main.jpg"
+    ]
   },
   {
     "id": "zaosan",
@@ -7247,7 +7370,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "山形",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/zaosan/main.jpg"
+    ]
   },
   {
     "id": "hagi",
@@ -7415,7 +7541,10 @@
     "icCard": "icoca",
     "tier2": "area",
     "hubName": "広島",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/hagi/main.jpg"
+    ]
   },
   {
     "id": "shimonoseki",
@@ -7582,7 +7711,10 @@
     "tier2": "area",
     "hubName": "広島",
     "rentalCarRecommended": false,
-    "isIsland": false
+    "isIsland": false,
+    "images": [
+      "/images/shimonoseki/main.jpg"
+    ]
   },
   {
     "id": "naoshima",
@@ -7760,7 +7892,10 @@
     "icCard": "icoca",
     "tier2": "spot",
     "hubName": "高松",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/naoshima/main.jpg"
+    ]
   },
   {
     "id": "kotohira",
@@ -7926,7 +8061,10 @@
     "icCard": "icoca",
     "tier2": "area",
     "hubName": "高松",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/kotohira/main.jpg"
+    ]
   },
   {
     "id": "uwajima",
@@ -8091,7 +8229,10 @@
     "tier2": "area",
     "hubName": "松山",
     "rentalCarRecommended": false,
-    "isIsland": false
+    "isIsland": false,
+    "images": [
+      "/images/uwajima/main.jpg"
+    ]
   },
   {
     "id": "toyako",
@@ -8256,7 +8397,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/toyako/main.jpg"
+    ]
   },
   {
     "id": "noboribetsu",
@@ -8412,7 +8556,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/noboribetsu/main.jpg"
+    ]
   },
   {
     "id": "shiretoko",
@@ -8589,7 +8736,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "釧路",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/shiretoko/main.jpg"
+    ]
   },
   {
     "id": "wajima",
@@ -8758,7 +8908,10 @@
     "tier2": "spot",
     "hubName": "金沢",
     "rentalCarRecommended": false,
-    "isIsland": false
+    "isIsland": false,
+    "images": [
+      "/images/wajima/main.jpg"
+    ]
   },
   {
     "id": "kaga-onsen",
@@ -8915,7 +9068,10 @@
     "icCard": "icoca",
     "tier2": "area",
     "hubName": "金沢",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/kaga-onsen/main.jpg"
+    ]
   },
   {
     "id": "hakuba",
@@ -9080,7 +9236,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "松本",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/hakuba/main.jpg"
+    ]
   },
   {
     "id": "amanohashidate",
@@ -9238,7 +9397,10 @@
     "icCard": "icoca",
     "tier2": "spot",
     "hubName": "大阪",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/amanohashidate/main.jpg"
+    ]
   },
   {
     "id": "ine",
@@ -9405,7 +9567,10 @@
     "tier2": "area",
     "hubName": "大阪",
     "rentalCarRecommended": false,
-    "isIsland": false
+    "isIsland": false,
+    "images": [
+      "/images/ine/main.jpg"
+    ]
   },
   {
     "id": "ibusuki",
@@ -9564,7 +9729,10 @@
     "tier2": "area",
     "hubName": "鹿児島",
     "rentalCarRecommended": false,
-    "isIsland": false
+    "isIsland": false,
+    "images": [
+      "/images/ibusuki/main.jpg"
+    ]
   },
   {
     "id": "sasebo",
@@ -9722,7 +9890,10 @@
     "tier2": "area",
     "hubName": "長崎",
     "rentalCarRecommended": false,
-    "isIsland": false
+    "isIsland": false,
+    "images": [
+      "/images/sasebo/main.jpg"
+    ]
   },
   {
     "id": "hirado",
@@ -9876,7 +10047,10 @@
     "icCard": "nimoca",
     "tier2": "area",
     "hubName": "長崎",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/hirado/main.jpg"
+    ]
   },
   {
     "id": "tottori",
@@ -10024,7 +10198,10 @@
     "icCard": "icoca",
     "tier2": "hub",
     "hubName": "松江",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/tottori/main.jpg"
+    ]
   },
   {
     "id": "akita",
@@ -10180,7 +10357,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "盛岡",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/akita/main.jpg"
+    ]
   },
   {
     "id": "awaji",
@@ -10342,7 +10522,10 @@
     "icCard": "icoca",
     "tier2": "spot",
     "hubName": "神戸",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/awaji/main.jpg"
+    ]
   },
   {
     "id": "takao",
@@ -10504,7 +10687,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "東京",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/takao/main.jpg"
+    ]
   },
   {
     "id": "tateyama-chiba",
@@ -10666,7 +10852,10 @@
     "tier2": "spot",
     "hubName": "東京",
     "rentalCarRecommended": false,
-    "isIsland": false
+    "isIsland": false,
+    "images": [
+      "/images/tateyama-chiba/main.jpg"
+    ]
   },
   {
     "id": "gokayama",
@@ -10826,7 +11015,10 @@
     "icCard": "icoca",
     "tier2": "spot",
     "hubName": "金沢",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gokayama/main.jpg"
+    ]
   },
   {
     "id": "jozankei",
@@ -10999,7 +11191,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/jozankei/main.jpg"
+    ]
   },
   {
     "id": "biei",
@@ -11168,7 +11363,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "旭川",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/biei/main.jpg"
+    ]
   },
   {
     "id": "miyako-iwate",
@@ -11340,7 +11538,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "盛岡",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/miyako-iwate/main.jpg"
+    ]
   },
   {
     "id": "sakata",
@@ -11509,7 +11710,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "山形",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/sakata/main.jpg"
+    ]
   },
   {
     "id": "takachiho",
@@ -11670,7 +11874,10 @@
     "icCard": "nimoca",
     "tier2": "spot",
     "hubName": "宮崎",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/takachiho/main.jpg"
+    ]
   },
   {
     "id": "amami",
@@ -11852,7 +12059,10 @@
     "icCard": null,
     "tier2": "spot",
     "hubName": "鹿児島",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/amami/main.jpg"
+    ]
   },
   {
     "id": "goto",
@@ -12034,7 +12244,10 @@
     "icCard": null,
     "tier2": "spot",
     "hubName": "長崎",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/goto/main.jpg"
+    ]
   },
   {
     "id": "unzen",
@@ -12188,7 +12401,10 @@
     "icCard": "nimoca",
     "tier2": "area",
     "hubName": "長崎",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/unzen/main.jpg"
+    ]
   },
   {
     "id": "ashizuri",
@@ -12348,7 +12564,10 @@
     "icCard": "icoca",
     "tier2": "spot",
     "hubName": "高知",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/ashizuri/main.jpg"
+    ]
   },
   {
     "id": "oboke",
@@ -12517,7 +12736,10 @@
     "icCard": "icoca",
     "tier2": "spot",
     "hubName": "高松",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/oboke/main.jpg"
+    ]
   },
   {
     "id": "tsuwano",
@@ -12680,7 +12902,10 @@
     "icCard": "icoca",
     "tier2": "area",
     "hubName": "広島",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/tsuwano/main.jpg"
+    ]
   },
   {
     "id": "inuyama",
@@ -12843,7 +13068,10 @@
     "icCard": null,
     "tier2": "area",
     "hubName": "名古屋",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/inuyama/main.jpg"
+    ]
   },
   {
     "id": "kiso",
@@ -13009,7 +13237,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "松本",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/kiso/main.jpg"
+    ]
   },
   {
     "id": "miyama",
@@ -13162,7 +13393,10 @@
     "icCard": "icoca",
     "tier2": "spot",
     "hubName": "京都",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/miyama/main.jpg"
+    ]
   },
   {
     "id": "tateyama-kurobe",
@@ -13331,7 +13565,10 @@
     "icCard": "icoca",
     "tier2": "spot",
     "hubName": "金沢",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/tateyama-kurobe/main.jpg"
+    ]
   },
   {
     "id": "himi",
@@ -13497,7 +13734,10 @@
     "icCard": "icoca",
     "tier2": "area",
     "hubName": "金沢",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/himi/main.jpg"
+    ]
   },
   {
     "id": "nyuto-onsen",
@@ -13655,7 +13895,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "盛岡",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/nyuto-onsen/main.jpg"
+    ]
   },
   {
     "id": "yuda-onsen",
@@ -13811,7 +14054,10 @@
     "icCard": "icoca",
     "tier2": "area",
     "hubName": "広島",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/yuda-onsen/main.jpg"
+    ]
   },
   {
     "id": "ureshino-onsen",
@@ -13958,7 +14204,10 @@
     "icCard": "nimoca",
     "tier2": "area",
     "hubName": "佐賀",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/ureshino-onsen/main.jpg"
+    ]
   },
   {
     "id": "obuse",
@@ -14120,7 +14369,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "松本",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/obuse/main.jpg"
+    ]
   },
   {
     "id": "uchiko",
@@ -14275,7 +14527,10 @@
     "icCard": "icoca",
     "tier2": "area",
     "hubName": "松山",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/uchiko/main.jpg"
+    ]
   },
   {
     "id": "muroto",
@@ -14426,7 +14681,10 @@
     "icCard": "icoca",
     "tier2": "area",
     "hubName": "高知",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/muroto/main.jpg"
+    ]
   },
   {
     "id": "iya",
@@ -14588,7 +14846,10 @@
     "icCard": "icoca",
     "tier2": "spot",
     "hubName": "高松",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/iya/main.jpg"
+    ]
   },
   {
     "id": "oku-izumo",
@@ -14747,7 +15008,10 @@
     "icCard": "icoca",
     "tier2": "spot",
     "hubName": "松江",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/oku-izumo/main.jpg"
+    ]
   },
   {
     "id": "ginzan-onsen",
@@ -14906,7 +15170,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "山形",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/ginzan-onsen/main.jpg"
+    ]
   },
   {
     "id": "ouchi-juku",
@@ -15064,7 +15331,10 @@
     "tier2": "area",
     "hubName": "仙台",
     "rentalCarRecommended": false,
-    "isIsland": false
+    "isIsland": false,
+    "images": [
+      "/images/ouchi-juku/main.jpg"
+    ]
   },
   {
     "id": "nozawa-onsen",
@@ -15217,7 +15487,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "松本",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/nozawa-onsen/main.jpg"
+    ]
   },
   {
     "id": "takehara",
@@ -15379,7 +15652,10 @@
     "icCard": "icoca",
     "tier2": "area",
     "hubName": "広島",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/takehara/main.jpg"
+    ]
   },
   {
     "id": "tsumago",
@@ -15544,7 +15820,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "名古屋",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/tsumago/main.jpg"
+    ]
   },
   {
     "id": "magome",
@@ -15710,7 +15989,10 @@
     "tier2": "area",
     "hubName": "名古屋",
     "rentalCarRecommended": false,
-    "isIsland": false
+    "isIsland": false,
+    "images": [
+      "/images/magome/main.jpg"
+    ]
   },
   {
     "id": "nagahama",
@@ -15873,7 +16155,10 @@
     "icCard": "icoca",
     "tier2": "area",
     "hubName": "大阪",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/nagahama/main.jpg"
+    ]
   },
   {
     "id": "hikone",
@@ -16218,7 +16503,10 @@
     "icCard": "icoca",
     "tier2": "spot",
     "hubName": "大阪",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/koyasan/main.jpg"
+    ]
   },
   {
     "id": "gero-onsen",
@@ -16388,7 +16676,10 @@
     "icCard": "icoca",
     "tier2": "area",
     "hubName": "名古屋",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/gero-onsen/main.jpg"
+    ]
   },
   {
     "id": "naruko-onsen",
@@ -16549,7 +16840,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "仙台",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/naruko-onsen/main.jpg"
+    ]
   },
   {
     "id": "shima-onsen",
@@ -16705,7 +16999,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "東京",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/shima-onsen/main.jpg"
+    ]
   },
   {
     "id": "hirosaki",
@@ -16884,7 +17181,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "盛岡",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/hirosaki/main.jpg"
+    ]
   },
   {
     "id": "oirase",
@@ -17065,7 +17365,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "盛岡",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/oirase/main.jpg"
+    ]
   },
   {
     "id": "mashiko",
@@ -17229,7 +17532,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "東京",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/mashiko/main.jpg"
+    ]
   },
   {
     "id": "bessho-onsen",
@@ -17396,7 +17702,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "松本",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/bessho-onsen/main.jpg"
+    ]
   },
   {
     "id": "izushi",
@@ -17554,7 +17863,10 @@
     "icCard": "icoca",
     "tier2": "area",
     "hubName": "大阪",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/izushi/main.jpg"
+    ]
   },
   {
     "id": "wakura-onsen",
@@ -17703,7 +18015,10 @@
     "tier2": "area",
     "hubName": "金沢",
     "rentalCarRecommended": false,
-    "isIsland": false
+    "isIsland": false,
+    "images": [
+      "/images/wakura-onsen/main.jpg"
+    ]
   },
   {
     "id": "misasa-onsen",
@@ -17861,7 +18176,10 @@
     "icCard": "icoca",
     "tier2": "area",
     "hubName": "松江",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/misasa-onsen/main.jpg"
+    ]
   },
   {
     "id": "obi",
@@ -18018,7 +18336,10 @@
     "icCard": "nimoca",
     "tier2": "area",
     "hubName": "宮崎",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/obi/main.jpg"
+    ]
   },
   {
     "id": "hitoyoshi",
@@ -18182,7 +18503,10 @@
     "icCard": "nimoca",
     "tier2": "area",
     "hubName": "熊本",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/hitoyoshi/main.jpg"
+    ]
   },
   {
     "id": "kamikochi",
@@ -18346,7 +18670,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "松本",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/kamikochi/main.jpg"
+    ]
   },
   {
     "id": "minakami-onsen",
@@ -18511,7 +18838,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "東京",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/minakami-onsen/main.jpg"
+    ]
   },
   {
     "id": "minami-aso",
@@ -18670,7 +19000,10 @@
     "icCard": "nimoca",
     "tier2": "spot",
     "hubName": "熊本",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/minami-aso/main.jpg"
+    ]
   },
   {
     "id": "imabari",
@@ -18844,7 +19177,10 @@
     "tier2": "area",
     "hubName": "松山",
     "rentalCarRecommended": false,
-    "isIsland": false
+    "isIsland": false,
+    "images": [
+      "/images/imabari/main.jpg"
+    ]
   },
   {
     "id": "ozu",
@@ -19023,7 +19359,10 @@
     "icCard": "icoca",
     "tier2": "area",
     "hubName": "松山",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/ozu/main.jpg"
+    ]
   },
   {
     "id": "shakotan",
@@ -19207,7 +19546,10 @@
     "tier2": "spot",
     "hubName": "札幌",
     "rentalCarRecommended": false,
-    "isIsland": false
+    "isIsland": false,
+    "images": [
+      "/images/shakotan/main.jpg"
+    ]
   },
   {
     "id": "izumo",
@@ -19393,7 +19735,10 @@
     "icCard": "icoca",
     "tier2": "area",
     "hubName": "松江",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/izumo/main.jpg"
+    ]
   },
   {
     "id": "suzu",
@@ -19554,7 +19899,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "金沢",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/suzu/main.jpg"
+    ]
   },
   {
     "id": "yoshino",
@@ -19752,7 +20100,10 @@
     "icCard": "icoca",
     "tier2": "spot",
     "hubName": "大阪",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/yoshino/main.jpg"
+    ]
   },
   {
     "id": "kumano",
@@ -19924,7 +20275,10 @@
     "icCard": "icoca",
     "tier2": "spot",
     "hubName": "名古屋",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/kumano/main.jpg"
+    ]
   },
   {
     "id": "iriomote",
@@ -20128,7 +20482,10 @@
     "icCard": null,
     "tier2": "spot",
     "hubName": "那覇",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/iriomote/main.jpg"
+    ]
   },
   {
     "id": "takahashi",
@@ -20312,7 +20669,10 @@
     "icCard": "icoca",
     "tier2": "spot",
     "hubName": "岡山",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/takahashi/main.jpg"
+    ]
   },
   {
     "id": "hida-furukawa",
@@ -20490,7 +20850,10 @@
     "icCard": "icoca",
     "tier2": "spot",
     "hubName": "岐阜",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/hida-furukawa/main.jpg"
+    ]
   },
   {
     "id": "bungo-takada",
@@ -20852,7 +21215,10 @@
     "tier2": "area",
     "hubName": "東京",
     "rentalCarRecommended": false,
-    "isIsland": false
+    "isIsland": false,
+    "images": [
+      "/images/izu-kogen/main.jpg"
+    ]
   },
   {
     "id": "tanabe",
@@ -21034,7 +21400,10 @@
     "icCard": "icoca",
     "tier2": "area",
     "hubName": "大阪",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/tanabe/main.jpg"
+    ]
   },
   {
     "id": "tosa-shimizu",
@@ -21380,7 +21749,10 @@
     "tier2": "area",
     "hubName": "宮崎",
     "rentalCarRecommended": false,
-    "isIsland": false
+    "isIsland": false,
+    "images": [
+      "/images/nichinan/main.jpg"
+    ]
   },
   {
     "id": "mojiko",
@@ -21731,7 +22103,10 @@
     "tier2": "spot",
     "hubName": "福岡",
     "rentalCarRecommended": false,
-    "isIsland": false
+    "isIsland": false,
+    "images": [
+      "/images/itoshima/main.jpg"
+    ]
   },
   {
     "id": "shimabara",
@@ -21912,7 +22287,10 @@
     "tier2": "spot",
     "hubName": "長崎",
     "rentalCarRecommended": false,
-    "isIsland": false
+    "isIsland": false,
+    "images": [
+      "/images/shimabara/main.jpg"
+    ]
   },
   {
     "id": "tsuruga",
@@ -22079,7 +22457,10 @@
     "icCard": "icoca",
     "tier2": "area",
     "hubName": "福井",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/tsuruga/main.jpg"
+    ]
   },
   {
     "id": "shijishima",
@@ -22237,7 +22618,10 @@
     "icCard": "icoca",
     "tier2": "spot",
     "hubName": "高松",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/shijishima/main.jpg"
+    ]
   },
   {
     "id": "sounkyo",
@@ -22418,7 +22802,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "旭川",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/sounkyo/main.jpg"
+    ]
   },
   {
     "id": "rebun-island",
@@ -22810,7 +23197,10 @@
     "icCard": null,
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/rishiri-island/main.jpg"
+    ]
   },
   {
     "id": "akan",
@@ -22974,7 +23364,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "釧路",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/akan/main.jpg"
+    ]
   },
   {
     "id": "abashiri",
@@ -23141,7 +23534,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "釧路",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/abashiri/main.jpg"
+    ]
   },
   {
     "id": "shikotsu",
@@ -23315,7 +23711,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/shikotsu/main.jpg"
+    ]
   },
   {
     "id": "tono",
@@ -23480,7 +23879,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "盛岡",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/tono/main.jpg"
+    ]
   },
   {
     "id": "oga",
@@ -23654,7 +24056,10 @@
     "tier2": "area",
     "hubName": "秋田",
     "rentalCarRecommended": false,
-    "isIsland": false
+    "isIsland": false,
+    "images": [
+      "/images/oga/main.jpg"
+    ]
   },
   {
     "id": "yonezawa",
@@ -23804,7 +24209,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "山形",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/yonezawa/main.jpg"
+    ]
   },
   {
     "id": "dewa-sanzan",
@@ -23973,7 +24381,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "山形",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/dewa-sanzan/main.jpg"
+    ]
   },
   {
     "id": "sakunami-onsen",
@@ -24136,7 +24547,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "仙台",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/sakunami-onsen/main.jpg"
+    ]
   },
   {
     "id": "goshogawara",
@@ -24306,7 +24720,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "仙台",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/goshogawara/main.jpg"
+    ]
   },
   {
     "id": "kawagoe",
@@ -24472,7 +24889,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "東京",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/kawagoe/main.jpg"
+    ]
   },
   {
     "id": "nasu",
@@ -24632,7 +25052,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "東京",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/nasu/main.jpg"
+    ]
   },
   {
     "id": "choshi",
@@ -25115,7 +25538,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "東京",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/shiobara-onsen/main.jpg"
+    ]
   },
   {
     "id": "sado-island",
@@ -25297,7 +25723,10 @@
     "icCard": null,
     "tier2": "spot",
     "hubName": "新潟",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/sado-island/main.jpg"
+    ]
   },
   {
     "id": "kiyosato",
@@ -25781,7 +26210,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "松本",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/suwa/main.jpg"
+    ]
   },
   {
     "id": "eiheiji",
@@ -26779,7 +27211,10 @@
     "tier2": "area",
     "hubName": "静岡",
     "rentalCarRecommended": false,
-    "isIsland": false
+    "isIsland": false,
+    "images": [
+      "/images/ito/main.jpg"
+    ]
   },
   {
     "id": "iga",
@@ -26931,7 +27366,10 @@
     "icCard": "icoca",
     "tier2": "area",
     "hubName": "大阪",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/iga/main.jpg"
+    ]
   },
   {
     "id": "kashihara",
@@ -27929,7 +28367,10 @@
     "icCard": "icoca",
     "tier2": "area",
     "hubName": "松江",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/yunotsu-onsen/main.jpg"
+    ]
   },
   {
     "id": "iwami-ginzan",
@@ -28608,7 +29049,10 @@
     "icCard": "icoca",
     "tier2": "spot",
     "hubName": "広島",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/suo-oshima/main.jpg"
+    ]
   },
   {
     "id": "shimanto",
@@ -28933,7 +29377,10 @@
     "icCard": "icoca",
     "tier2": "spot",
     "hubName": "高知",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/kashiwajima/main.jpg"
+    ]
   },
   {
     "id": "saijo",
@@ -29427,7 +29874,10 @@
     "icCard": "nimoca",
     "tier2": "area",
     "hubName": "熊本",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/taketa/main.jpg"
+    ]
   },
   {
     "id": "usuki",
@@ -29772,7 +30222,10 @@
     "icCard": "nimoca",
     "tier2": "area",
     "hubName": "福岡",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/hita/main.jpg"
+    ]
   },
   {
     "id": "hasami",
@@ -30079,7 +30532,10 @@
     "icCard": "nimoca",
     "tier2": "area",
     "hubName": "佐賀",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/takeo-onsen/main.jpg"
+    ]
   },
   {
     "id": "kitsuki",
@@ -30427,7 +30883,10 @@
     "icCard": null,
     "tier2": "spot",
     "hubName": "福岡",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/tsushima/main.jpg"
+    ]
   },
   {
     "id": "iki-island",
@@ -31157,7 +31616,10 @@
     "icCard": null,
     "tier2": "spot",
     "hubName": "那覇",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/taketomi-island/main.jpg"
+    ]
   },
   {
     "id": "yonaguni-island",
@@ -31353,7 +31815,10 @@
     "icCard": null,
     "tier2": "spot",
     "hubName": "那覇",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/yonaguni-island/main.jpg"
+    ]
   },
   {
     "id": "nakijin",
@@ -31521,7 +31986,10 @@
     "tier2": "spot",
     "hubName": "那覇",
     "rentalCarRecommended": false,
-    "isIsland": false
+    "isIsland": false,
+    "images": [
+      "/images/nakijin/main.jpg"
+    ]
   },
   {
     "id": "motobu",
@@ -31893,7 +32361,10 @@
     "icCard": null,
     "tier2": "spot",
     "hubName": "那覇",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/zamami-island/main.jpg"
+    ]
   },
   {
     "id": "ie-island",
@@ -32086,7 +32557,10 @@
     "icCard": null,
     "tier2": "spot",
     "hubName": "那覇",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/ie-island/main.jpg"
+    ]
   },
   {
     "id": "kohama-island",
@@ -32259,7 +32733,10 @@
     "icCard": null,
     "tier2": "spot",
     "hubName": "那覇",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/kohama-island/main.jpg"
+    ]
   },
   {
     "id": "matsushiro",
@@ -32737,7 +33214,10 @@
     "icCard": "icoca",
     "tier2": "area",
     "hubName": "岡山",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/yakake/main.jpg"
+    ]
   },
   {
     "id": "tsuyama",
@@ -33074,7 +33554,10 @@
     "icCard": "icoca",
     "tier2": "spot",
     "hubName": "徳島",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/tsurugi-san/main.jpg"
+    ]
   },
   {
     "id": "nobeoka",
@@ -33248,7 +33731,10 @@
     "icCard": "nimoca",
     "tier2": "area",
     "hubName": "宮崎",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/nobeoka/main.jpg"
+    ]
   },
   {
     "id": "kamaishi",
@@ -33391,7 +33877,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "盛岡",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/kamaishi/main.jpg"
+    ]
   },
   {
     "id": "ofunato",
@@ -33538,7 +34027,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "盛岡",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/ofunato/main.jpg"
+    ]
   },
   {
     "id": "kuji",
@@ -34744,7 +35236,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "盛岡",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/hachimantai/main.jpg"
+    ]
   },
   {
     "id": "tazawako",
@@ -34912,7 +35407,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "盛岡",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/tazawako/main.jpg"
+    ]
   },
   {
     "id": "yamadera",
@@ -35253,7 +35751,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "仙台",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/kesennuma/main.jpg"
+    ]
   },
   {
     "id": "ikaho",
@@ -35421,7 +35922,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "東京",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/ikaho/main.jpg"
+    ]
   },
   {
     "id": "enoshima",
@@ -35595,7 +36099,10 @@
     "tier2": "spot",
     "hubName": "東京",
     "isIsland": true,
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/enoshima/main.jpg"
+    ]
   },
   {
     "id": "chichibu",
@@ -35935,7 +36442,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "水戸",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/oarai/main.jpg"
+    ]
   },
   {
     "id": "sano",
@@ -36262,7 +36772,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "名古屋",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gujo-hachiman/main.jpg"
+    ]
   },
   {
     "id": "narai-juku",
@@ -36425,7 +36938,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "松本",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/narai-juku/main.jpg"
+    ]
   },
   {
     "id": "itoigawa",
@@ -36584,7 +37100,10 @@
     "icCard": "icoca",
     "tier2": "area",
     "hubName": "新潟",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/itoigawa/main.jpg"
+    ]
   },
   {
     "id": "murakami",
@@ -39389,7 +39908,10 @@
     "icCard": "icoca",
     "tier2": "area",
     "hubName": "松山",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/dogo-onsen/main.jpg"
+    ]
   },
   {
     "id": "marugame",
@@ -40408,7 +40930,10 @@
     "icCard": "nimoca",
     "tier2": "area",
     "hubName": "鹿児島",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/kirishima/main.jpg"
+    ]
   },
   {
     "id": "ebino-kogen",
@@ -40747,7 +41272,10 @@
     "tier2": "spot",
     "hubName": "那覇",
     "rentalCarRecommended": false,
-    "isIsland": false
+    "isIsland": false,
+    "images": [
+      "/images/onna/main.jpg"
+    ]
   },
   {
     "id": "nago",
@@ -42096,7 +42624,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "盛岡",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/osorezan/main.jpg"
+    ]
   },
   {
     "id": "urabandai",
@@ -42757,7 +43288,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "東京",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/kinugawa-onsen/main.jpg"
+    ]
   },
   {
     "id": "oze",
@@ -42929,7 +43463,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "東京",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/oze/main.jpg"
+    ]
   },
   {
     "id": "tsukuba",
@@ -43083,7 +43620,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "東京",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/tsukuba/main.jpg"
+    ]
   },
   {
     "id": "kasama",
@@ -43234,7 +43774,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "水戸",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/kasama/main.jpg"
+    ]
   },
   {
     "id": "naritasan",
@@ -43384,7 +43927,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "東京",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/naritasan/main.jpg"
+    ]
   },
   {
     "id": "kujukuri",
@@ -43554,7 +44100,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "東京",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/kujukuri/main.jpg"
+    ]
   },
   {
     "id": "miura",
@@ -43708,7 +44257,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "横浜",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/miura/main.jpg"
+    ]
   },
   {
     "id": "oku-tama",
@@ -44021,7 +44573,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "松本",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/jigokudani/main.jpg"
+    ]
   },
   {
     "id": "tateshina",
@@ -44190,7 +44745,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "松本",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/tateshina/main.jpg"
+    ]
   },
   {
     "id": "echigo-yuzawa",
@@ -44338,7 +44896,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "新潟",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/echigo-yuzawa/main.jpg"
+    ]
   },
   {
     "id": "fujinomiya",
@@ -44488,7 +45049,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "静岡",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/fujinomiya/main.jpg"
+    ]
   },
   {
     "id": "norikura",
@@ -44658,7 +45222,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "松本",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/norikura/main.jpg"
+    ]
   },
   {
     "id": "tokoname",
@@ -44808,7 +45375,10 @@
     "icCard": null,
     "tier2": "area",
     "hubName": "名古屋",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/tokoname/main.jpg"
+    ]
   },
   {
     "id": "korankei",
@@ -44979,7 +45549,10 @@
     "icCard": null,
     "tier2": "spot",
     "hubName": "名古屋",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/korankei/main.jpg"
+    ]
   },
   {
     "id": "minamichita",
@@ -45132,7 +45705,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "名古屋",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/minamichita/main.jpg"
+    ]
   },
   {
     "id": "arashiyama",
@@ -45287,7 +45863,10 @@
     "icCard": "icoca",
     "tier2": "area",
     "hubName": "京都",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/arashiyama/main.jpg"
+    ]
   },
   {
     "id": "shigaraki",
@@ -45436,7 +46015,10 @@
     "icCard": "icoca",
     "tier2": "area",
     "hubName": "京都",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/shigaraki/main.jpg"
+    ]
   },
   {
     "id": "dorogawa-onsen",
@@ -45605,7 +46187,10 @@
     "icCard": "icoca",
     "tier2": "area",
     "hubName": "大阪",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/dorogawa-onsen/main.jpg"
+    ]
   },
   {
     "id": "matsusaka",
@@ -45757,7 +46342,10 @@
     "icCard": "icoca",
     "tier2": "area",
     "hubName": "名古屋",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/matsusaka/main.jpg"
+    ]
   },
   {
     "id": "sakai",
@@ -46097,7 +46685,10 @@
     "icCard": null,
     "tier2": "spot",
     "hubName": "松江",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/ama-island/main.jpg"
+    ]
   },
   {
     "id": "akiyoshidai",
@@ -46264,7 +46855,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "広島",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/akiyoshidai/main.jpg"
+    ]
   },
   {
     "id": "yanai",
@@ -46413,7 +47007,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "広島",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/yanai/main.jpg"
+    ]
   },
   {
     "id": "oki-island",
@@ -46604,7 +47201,10 @@
     "icCard": null,
     "tier2": "spot",
     "hubName": "松江",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/oki-island/main.jpg"
+    ]
   },
   {
     "id": "inujima",
@@ -46782,7 +47382,10 @@
     "icCard": null,
     "tier2": "spot",
     "hubName": "岡山",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/inujima/main.jpg"
+    ]
   },
   {
     "id": "teshima",
@@ -46962,7 +47565,10 @@
     "icCard": null,
     "tier2": "spot",
     "hubName": "高松",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/teshima/main.jpg"
+    ]
   },
   {
     "id": "niyodogawa",
@@ -47127,7 +47733,10 @@
     "icCard": "icoca",
     "tier2": "spot",
     "hubName": "高知",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/niyodogawa/main.jpg"
+    ]
   },
   {
     "id": "yusuhara",
@@ -47445,7 +48054,10 @@
     "icCard": "icoca",
     "tier2": "spot",
     "hubName": "徳島",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/anan/main.jpg"
+    ]
   },
   {
     "id": "shikoku-karst",
@@ -47617,7 +48229,10 @@
     "icCard": "icoca",
     "tier2": "spot",
     "hubName": "松山",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/shikoku-karst/main.jpg"
+    ]
   },
   {
     "id": "aoshima",
@@ -47764,7 +48379,10 @@
     "icCard": "nimoca",
     "tier2": "spot",
     "hubName": "宮崎",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/aoshima/main.jpg"
+    ]
   },
   {
     "id": "yamaga",
@@ -47933,7 +48551,10 @@
     "icCard": "nimoca",
     "tier2": "area",
     "hubName": "熊本",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/yamaga/main.jpg"
+    ]
   },
   {
     "id": "yoshinogari",
@@ -48084,7 +48705,10 @@
     "icCard": "nimoca",
     "tier2": "area",
     "hubName": "福岡",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/yoshinogari/main.jpg"
+    ]
   },
   {
     "id": "kunisaki",
@@ -48259,7 +48883,10 @@
     "icCard": "nimoca",
     "tier2": "spot",
     "hubName": "福岡",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/kunisaki/main.jpg"
+    ]
   },
   {
     "id": "chiran",
@@ -48426,7 +49053,10 @@
     "icCard": "nimoca",
     "tier2": "area",
     "hubName": "鹿児島",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/chiran/main.jpg"
+    ]
   },
   {
     "id": "ojika-island",
@@ -49160,7 +49790,10 @@
     "icCard": null,
     "tier2": "area",
     "hubName": "那覇",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/itoman/main.jpg"
+    ]
   },
   {
     "id": "kijoka",
@@ -49332,7 +49965,10 @@
     "icCard": null,
     "tier2": "area",
     "hubName": "那覇",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/kijoka/main.jpg"
+    ]
   },
   {
     "id": "miyakejima",
@@ -49706,7 +50342,10 @@
     "icCard": null,
     "tier2": "spot",
     "hubName": "東京",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/hachijojima/main.jpg"
+    ]
   },
   {
     "id": "niijima",
@@ -50067,7 +50706,10 @@
     "icCard": null,
     "tier2": "spot",
     "hubName": "東京",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/shikinejima/main.jpg"
+    ]
   },
   {
     "id": "shirakawa",
@@ -50660,7 +51302,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": null,
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/ryusendo/main.jpg"
+    ]
   },
   {
     "id": "ichinoseki",
@@ -50960,7 +51605,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": null,
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/akita-oga/main.jpg"
+    ]
   },
   {
     "id": "kisakata",
@@ -51106,7 +51754,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": null,
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/kisakata/main.jpg"
+    ]
   },
   {
     "id": "gassan",
@@ -51255,7 +51906,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": null,
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gassan/main.jpg"
+    ]
   },
   {
     "id": "higashine",
@@ -51699,7 +52353,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": null,
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/yugawara-onsen/main.jpg"
+    ]
   },
   {
     "id": "yokosuka",
@@ -51844,7 +52501,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": null,
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/yokosuka/main.jpg"
+    ]
   },
   {
     "id": "mishima",
@@ -53734,7 +54394,10 @@
     "tier2": "spot",
     "hubName": null,
     "isIsland": true,
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/innoshima/main.jpg"
+    ]
   },
   {
     "id": "mihara",
@@ -57464,7 +58127,10 @@
     "icCard": "icoca",
     "tier2": "area",
     "hubName": null,
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/nanao/main.jpg"
+    ]
   },
   {
     "id": "fukuchiyama",
@@ -57606,7 +58272,10 @@
     "icCard": "icoca",
     "tier2": "area",
     "hubName": null,
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/fukuchiyama/main.jpg"
+    ]
   },
   {
     "id": "koka",
@@ -57892,7 +58561,10 @@
     "icCard": "icoca",
     "tier2": "area",
     "hubName": null,
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/tondabayashi/main.jpg"
+    ]
   },
   {
     "id": "kishiwada",
@@ -58174,7 +58846,10 @@
     "icCard": "icoca",
     "tier2": "area",
     "hubName": null,
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/amagasaki/main.jpg"
+    ]
   },
   {
     "id": "nishiwaki",
@@ -58463,7 +59138,10 @@
     "icCard": "icoca",
     "tier2": "spot",
     "hubName": null,
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/nagi/main.jpg"
+    ]
   },
   {
     "id": "higashihiroshima",
@@ -59040,7 +59718,10 @@
     "icCard": "icoca",
     "tier2": "area",
     "hubName": null,
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/sukumo/main.jpg"
+    ]
   },
   {
     "id": "miyoshi-tokushima",
@@ -59481,7 +60162,10 @@
     "icCard": "icoca",
     "tier2": "area",
     "hubName": null,
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/yuwaku-onsen/main.jpg"
+    ]
   },
   {
     "id": "yura-wakayama",
@@ -64271,7 +64955,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": null,
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/kanagawa-yokohama/main.jpg"
+    ]
   },
   {
     "id": "ibaraki-mito",
@@ -65168,7 +65855,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": null,
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/nokogiriyama/main.jpg"
+    ]
   },
   {
     "id": "katsuura-chiba",
@@ -65462,7 +66152,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": null,
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/azumino/main.jpg"
+    ]
   },
   {
     "id": "nagano-iida",
@@ -69744,7 +70437,10 @@
     "icCard": "nimoca",
     "tier2": "spot",
     "hubName": null,
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/makurazaki/main.jpg"
+    ]
   },
   {
     "id": "miyakonojo",
@@ -70174,7 +70870,10 @@
     "icCard": "icoca",
     "tier2": "spot",
     "hubName": null,
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/aogashima/main.jpg"
+    ]
   },
   {
     "id": "kugashima",
@@ -70309,7 +71008,10 @@
     "icCard": "nimoca",
     "tier2": "spot",
     "hubName": null,
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/kugashima/main.jpg"
+    ]
   },
   {
     "id": "nakatosa",
@@ -70596,7 +71298,10 @@
     "icCard": "icoca",
     "tier2": "spot",
     "hubName": null,
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/ikata/main.jpg"
+    ]
   },
   {
     "id": "muroto-cape",
@@ -70738,7 +71443,10 @@
     "icCard": "icoca",
     "tier2": "spot",
     "hubName": null,
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/muroto-cape/main.jpg"
+    ]
   },
   {
     "id": "oshima-yamaguchi",
@@ -71491,7 +72199,10 @@
     "icCard": "icoca",
     "tier2": "area",
     "hubName": null,
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/mimasaka/main.jpg"
+    ]
   },
   {
     "id": "kochi-shimanto",
@@ -71934,7 +72645,10 @@
     "icCard": "icoca",
     "tier2": "area",
     "hubName": null,
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/kaga-onsen2/main.jpg"
+    ]
   },
   {
     "id": "takayama-kogen",
@@ -72371,7 +73085,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": null,
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/miyanoshita/main.jpg"
+    ]
   },
   {
     "id": "shibu-onsen",
@@ -72515,7 +73232,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": null,
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/shibu-onsen/main.jpg"
+    ]
   },
   {
     "id": "togatta-onsen",
@@ -72665,7 +73385,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": null,
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/togatta-onsen/main.jpg"
+    ]
   },
   {
     "id": "hachimantai-onsen",
@@ -74476,7 +75199,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": null,
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/towada-lake/main.jpg"
+    ]
   },
   {
     "id": "rikuchu-coast",
@@ -78063,7 +78789,10 @@
     "icCard": "nimoca",
     "tier2": "area",
     "hubName": null,
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/unzen2/main.jpg"
+    ]
   },
   {
     "id": "kochi-ino",
@@ -78933,7 +79662,10 @@
     "icCard": "icoca",
     "tier2": "spot",
     "hubName": null,
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/tomari-okinawa/main.jpg"
+    ]
   },
   {
     "id": "ogimi",
@@ -79226,7 +79958,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_愛山渓温泉/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_阿寒湖温泉",
@@ -79368,7 +80103,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_阿寒湖温泉/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_旭岳温泉",
@@ -79510,7 +80248,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_旭岳温泉/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_朝里川温泉",
@@ -79652,7 +80393,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_朝里川温泉/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_芦別温泉",
@@ -79794,7 +80538,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_芦別温泉/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_網走湖畔温泉",
@@ -80666,7 +81413,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_盃温泉/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_然別湖畔温泉",
@@ -80808,7 +81558,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_然別湖畔温泉/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_支笏湖温泉",
@@ -80950,7 +81703,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_支笏湖温泉/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_定山渓温泉",
@@ -81092,7 +81848,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_定山渓温泉/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_知内温泉",
@@ -81234,7 +81993,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_知内温泉/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_層雲峡温泉",
@@ -81376,7 +82138,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_層雲峡温泉/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_天人峡温泉",
@@ -81518,7 +82283,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_天人峡温泉/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_洞爺湖温泉",
@@ -81660,7 +82428,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_洞爺湖温泉/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_十勝岳温泉",
@@ -81802,7 +82573,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_十勝岳温泉/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_豊富温泉",
@@ -81944,7 +82718,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_豊富温泉/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_中岳温泉",
@@ -82816,7 +83593,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_二股ラヂウム温泉/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_水無海浜温泉",
@@ -82958,7 +83738,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_水無海浜温泉/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_雌阿寒温泉",
@@ -83100,7 +83883,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_雌阿寒温泉/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_谷地頭温泉",
@@ -83242,7 +84028,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_谷地頭温泉/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_由仁温泉",
@@ -83817,7 +84606,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_北海道/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_焼尻島",
@@ -85568,7 +86360,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_恵庭岳/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_雄阿寒岳",
@@ -88355,7 +89150,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_クマネシリ岳/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_隈根尻山",
@@ -88938,7 +89736,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_小天狗岳/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_木挽山",
@@ -89222,7 +90023,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_昆布岳/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_佐幌岳",
@@ -89364,7 +90168,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_佐幌岳/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_サマッケヌプリ山",
@@ -90682,7 +91489,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_白旗山/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_尻別岳",
@@ -91995,7 +92805,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_天塩富士/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_天都山",
@@ -92137,7 +92950,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_天都山/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_十勝岳",
@@ -92279,7 +93095,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_十勝岳/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_突哨山",
@@ -92421,7 +93240,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_突哨山/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_泊山",
@@ -92563,7 +93385,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_泊山/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_トムラウシ山",
@@ -92705,7 +93530,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_トムラウシ山/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_泣面山",
@@ -92847,7 +93675,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_泣面山/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_新冠泥火山",
@@ -92989,7 +93820,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_新冠泥火山/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_西別岳",
@@ -93131,7 +93965,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_西別岳/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_ニセイカウシュッペ山",
@@ -93273,7 +94110,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_ニセイカウシュッペ山/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_ニセコアンヌプリ",
@@ -93415,7 +94255,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_ニセコアンヌプリ/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_ニトヌプリ",
@@ -93557,7 +94400,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_ニトヌプリ/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_ニペソツ山",
@@ -93699,7 +94545,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_ニペソツ山/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_袴腰岳",
@@ -93841,7 +94690,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_袴腰岳/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_白雲岳",
@@ -93983,7 +94835,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_白雲岳/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_函館山",
@@ -94125,7 +94980,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_函館山/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_春香山",
@@ -94267,7 +95125,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_春香山/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_盤渓山",
@@ -94409,7 +95270,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_盤渓山/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_美瑛富士",
@@ -94551,7 +95415,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_美瑛富士/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_ピヤシリ山",
@@ -94693,7 +95560,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_ピヤシリ山/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_上野ファーム",
@@ -94831,7 +95701,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_上野ファーム/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_うらかわ優駿ビレッジAERU",
@@ -95255,7 +96128,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_小樽運河/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_オホーツクとっかりセンター",
@@ -96106,7 +96982,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_就実の丘/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_知床国立公園",
@@ -96244,7 +97123,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_知床国立公園/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_チキウ岬",
@@ -96382,7 +97264,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_チキウ岬/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_トラピスト修道院",
@@ -96520,7 +97405,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_トラピスト修道院/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_トロッコ王国美深",
@@ -97939,7 +98827,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_戸切地陣屋/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_弁天台場",
@@ -98358,7 +99249,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_北海道神宮/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_蘆別神社",
@@ -102094,7 +102988,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_江鳶山/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_オッカバケ岳",
@@ -102236,7 +103133,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_オッカバケ岳/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_音威富士",
@@ -102378,7 +103278,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_音威富士/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_音更山",
@@ -102662,7 +103565,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_オプタテシケヌプリ/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_オムシャヌプリ",
@@ -102804,7 +103710,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_オムシャヌプリ/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_オロフレ山",
@@ -102946,7 +103855,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_オロフレ山/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_化雲岳",
@@ -103088,7 +104000,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_化雲岳/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_カルルス山",
@@ -103230,7 +104145,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_カルルス山/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_木禽岳",
@@ -103372,7 +104290,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_木禽岳/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_北戸蔦別岳",
@@ -103514,7 +104435,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_北戸蔦別岳/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_五天山",
@@ -103656,7 +104580,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_五天山/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_コトニヌプリ",
@@ -103798,7 +104725,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_コトニヌプリ/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_狭薄山",
@@ -103940,7 +104870,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_狭薄山/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_サシルイ岳",
@@ -104082,7 +105015,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_サシルイ岳/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_察来山",
@@ -104224,7 +105160,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_察来山/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_札内岳",
@@ -104366,7 +105305,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_札内岳/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_札幌岳",
@@ -104508,7 +105450,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_札幌岳/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_サマッカリヌプリ",
@@ -104650,7 +105595,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_サマッカリヌプリ/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_サワンチサップ",
@@ -104792,7 +105740,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_サワンチサップ/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_シートートムシメヌ山",
@@ -104934,7 +105885,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_シートートムシメヌ山/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_島松山",
@@ -105076,7 +106030,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_島松山/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_定山渓天狗岳",
@@ -105218,7 +106175,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_定山渓天狗岳/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_渚滑岳",
@@ -105360,7 +106320,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_渚滑岳/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_神社山",
@@ -105502,7 +106465,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_神社山/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_銭函天狗山",
@@ -105644,7 +106610,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_銭函天狗山/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_ソエマツ岳",
@@ -105786,7 +106755,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_ソエマツ岳/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_空沼岳",
@@ -105928,7 +106900,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_空沼岳/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_大千軒岳",
@@ -106070,7 +107045,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_大千軒岳/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_チセヌプリ",
@@ -106212,7 +107190,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_チセヌプリ/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_チトカニウシ山",
@@ -106353,7 +107334,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_チトカニウシ山/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_トーノシケヌプリ",
@@ -106495,7 +107479,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_トーノシケヌプリ/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_十勝幌尻岳",
@@ -106637,7 +107624,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_十勝幌尻岳/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_徳舜瞥山",
@@ -106779,7 +107769,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_徳舜瞥山/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_戸蔦別岳",
@@ -106921,7 +107914,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_戸蔦別岳/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_豊似岳",
@@ -107063,7 +108059,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_豊似岳/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_七飯岳",
@@ -107205,7 +108204,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_七飯岳/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_西クマネシリ岳",
@@ -107347,7 +108349,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_西クマネシリ岳/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_西ヌプカウシヌプリ",
@@ -107489,7 +108494,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_西ヌプカウシヌプリ/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_ニシュオマナイ岳",
@@ -107631,7 +108639,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_ニシュオマナイ岳/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_ニセイチャロマップ岳",
@@ -107773,7 +108784,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_ニセイチャロマップ岳/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_ニレシ岳",
@@ -107915,7 +108929,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_ニレシ岳/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_函岳",
@@ -108057,7 +109074,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_函岳/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_パンケヌーシ岳",
@@ -108199,7 +109219,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_パンケヌーシ岳/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_パンケ山",
@@ -108340,7 +109363,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_パンケ山/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_盤の沢山",
@@ -108776,7 +109802,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_東ヌプカウシヌプリ/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_美幌岳",
@@ -108918,7 +109947,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_美幌岳/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_百松沢山",
@@ -109632,7 +110664,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_天に続く道/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_十勝千年の森",
@@ -115183,7 +116218,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_オサッペヌプリ/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_オションナイ山",
@@ -115325,7 +116363,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_オションナイ山/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_帯広岳",
@@ -115467,7 +116508,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_帯広岳/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_小平蘂岳",
@@ -115609,7 +116653,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_小平蘂岳/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_雄冬山",
@@ -115751,7 +116798,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_雄冬山/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_オロエナイ",
@@ -115893,7 +116943,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_オロエナイ/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_狩勝山",
@@ -116035,7 +117088,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_狩勝山/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_狩振岳",
@@ -116177,7 +117233,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_狩振岳/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_川流布山",
@@ -116319,7 +117378,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_川流布山/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_錐山",
@@ -116461,7 +117523,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_錐山/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_クテクンベツ岳",
@@ -120696,7 +121761,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_清水円山展望台/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_長節湖",
@@ -120834,7 +121902,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_長節湖/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_十勝岳望岳台",
@@ -120972,7 +122043,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_十勝岳望岳台/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_十勝ヒルズ",
@@ -121110,7 +122184,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_十勝ヒルズ/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_中札内美術村",
@@ -121248,7 +122325,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_中札内美術村/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_二風谷ファミリーランド",
@@ -121528,7 +122608,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_のぼりべつクマ牧場/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_花の拠点「はなふる」",
@@ -121666,7 +122749,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_花の拠点「はなふる」/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_日高山岳ビラパーク",
@@ -121804,7 +122890,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_日高山岳ビラパーク/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_深川市桜山公園",
@@ -121944,7 +123033,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_深川市桜山公園/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_丸瀬布森林公園いこいの森",
@@ -122082,7 +123174,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_丸瀬布森林公園いこいの森/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_メルヘン交差点",
@@ -124534,7 +125629,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_樹海温泉/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_初山別温泉",
@@ -127583,7 +128681,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "水戸",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_茨城_偕楽園/main.jpg"
+    ]
   },
   {
     "id": "gen_茨城_国営ひたち海浜公園",
@@ -127721,7 +128822,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "水戸",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_茨城_国営ひたち海浜公園/main.jpg"
+    ]
   },
   {
     "id": "gen_茨城_こもれび森のイバライド",
@@ -127859,7 +128963,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "水戸",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_茨城_こもれび森のイバライド/main.jpg"
+    ]
   },
   {
     "id": "gen_茨城_水郷筑波国定公園",
@@ -127997,7 +129104,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "水戸",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_茨城_水郷筑波国定公園/main.jpg"
+    ]
   },
   {
     "id": "gen_茨城_西山荘",
@@ -128135,7 +129245,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "水戸",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_茨城_西山荘/main.jpg"
+    ]
   },
   {
     "id": "gen_茨城_袋田の滝",
@@ -128273,7 +129386,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "水戸",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_茨城_袋田の滝/main.jpg"
+    ]
   },
   {
     "id": "gen_茨城_伊佐城",
@@ -128411,7 +129527,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "水戸",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_茨城_伊佐城/main.jpg"
+    ]
   },
   {
     "id": "gen_茨城_小田城",
@@ -128549,7 +129668,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "水戸",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_茨城_小田城/main.jpg"
+    ]
   },
   {
     "id": "gen_茨城_笠間城",
@@ -128687,7 +129809,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "水戸",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_茨城_笠間城/main.jpg"
+    ]
   },
   {
     "id": "gen_茨城_古河城",
@@ -128825,7 +129950,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "水戸",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_茨城_古河城/main.jpg"
+    ]
   },
   {
     "id": "gen_茨城_土浦城",
@@ -129816,7 +130944,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "水戸",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_茨城_笠間稲荷神社/main.jpg"
+    ]
   },
   {
     "id": "gen_茨城_鹿島神宮",
@@ -130240,7 +131371,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "水戸",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_茨城_酒列磯前神社/main.jpg"
+    ]
   },
   {
     "id": "gen_茨城_静神社",
@@ -130378,7 +131512,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "水戸",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_茨城_静神社/main.jpg"
+    ]
   },
   {
     "id": "gen_茨城_常磐神社",
@@ -130516,7 +131653,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "水戸",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_茨城_常磐神社/main.jpg"
+    ]
   },
   {
     "id": "gen_茨城_水戸東照宮",
@@ -131526,7 +132666,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "宇都宮",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_栃木_那須温泉郷/main.jpg"
+    ]
   },
   {
     "id": "gen_栃木_日光湯元温泉",
@@ -131668,7 +132811,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "宇都宮",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_栃木_日光湯元温泉/main.jpg"
+    ]
   },
   {
     "id": "gen_栃木_益子温泉",
@@ -132251,7 +133397,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "宇都宮",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_栃木_皇海山/main.jpg"
+    ]
   },
   {
     "id": "gen_栃木_高原山",
@@ -132393,7 +133542,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "宇都宮",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_栃木_高原山/main.jpg"
+    ]
   },
   {
     "id": "gen_栃木_那須岳",
@@ -132535,7 +133687,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "宇都宮",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_栃木_那須岳/main.jpg"
+    ]
   },
   {
     "id": "gen_栃木_男体山",
@@ -132824,7 +133979,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "宇都宮",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_栃木_日光白根山/main.jpg"
+    ]
   },
   {
     "id": "gen_栃木_女峰山",
@@ -133113,7 +134271,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "宇都宮",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_栃木_谷倉山/main.jpg"
+    ]
   },
   {
     "id": "gen_栃木_あしかがフラワーパーク",
@@ -133251,7 +134412,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "宇都宮",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_栃木_あしかがフラワーパーク/main.jpg"
+    ]
   },
   {
     "id": "gen_栃木_大瀬観光やな",
@@ -133816,7 +134980,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "宇都宮",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_栃木_殺生石/main.jpg"
+    ]
   },
   {
     "id": "gen_栃木_那須高原",
@@ -134234,7 +135401,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "宇都宮",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_栃木_日光杉並木/main.jpg"
+    ]
   },
   {
     "id": "gen_栃木_益子町",
@@ -134372,7 +135542,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "宇都宮",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_栃木_益子町/main.jpg"
+    ]
   },
   {
     "id": "gen_栃木_宇都宮城",
@@ -134510,7 +135683,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "宇都宮",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_栃木_宇都宮城/main.jpg"
+    ]
   },
   {
     "id": "gen_栃木_榎本城",
@@ -134648,7 +135824,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "宇都宮",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_栃木_榎本城/main.jpg"
+    ]
   },
   {
     "id": "gen_栃木_唐沢山城",
@@ -134786,7 +135965,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "宇都宮",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_栃木_唐沢山城/main.jpg"
+    ]
   },
   {
     "id": "gen_栃木_烏山城",
@@ -134924,7 +136106,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "宇都宮",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_栃木_烏山城/main.jpg"
+    ]
   },
   {
     "id": "gen_栃木_神田城",
@@ -135062,7 +136247,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "宇都宮",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_栃木_神田城/main.jpg"
+    ]
   },
   {
     "id": "gen_栃木_多功城",
@@ -135200,7 +136388,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "宇都宮",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_栃木_多功城/main.jpg"
+    ]
   },
   {
     "id": "gen_栃木_中久喜城",
@@ -135338,7 +136529,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "宇都宮",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_栃木_中久喜城/main.jpg"
+    ]
   },
   {
     "id": "gen_栃木_福原城",
@@ -135476,7 +136670,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "宇都宮",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_栃木_福原城/main.jpg"
+    ]
   },
   {
     "id": "gen_栃木_壬生城",
@@ -138908,7 +140105,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "前橋",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_群馬_赤城山/main.jpg"
+    ]
   },
   {
     "id": "gen_群馬_浅間山",
@@ -139050,7 +140250,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "前橋",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_群馬_浅間山/main.jpg"
+    ]
   },
   {
     "id": "gen_群馬_四阿山",
@@ -139192,7 +140395,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "前橋",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_群馬_四阿山/main.jpg"
+    ]
   },
   {
     "id": "gen_群馬_荒船山",
@@ -139334,7 +140540,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "前橋",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_群馬_荒船山/main.jpg"
+    ]
   },
   {
     "id": "gen_群馬_岩櫃山",
@@ -139476,7 +140685,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "前橋",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_群馬_岩櫃山/main.jpg"
+    ]
   },
   {
     "id": "gen_群馬_草津白根山",
@@ -139618,7 +140830,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "前橋",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_群馬_草津白根山/main.jpg"
+    ]
   },
   {
     "id": "gen_群馬_栗生山",
@@ -139760,7 +140975,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "前橋",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_群馬_栗生山/main.jpg"
+    ]
   },
   {
     "id": "gen_群馬_至仏山",
@@ -139902,7 +141120,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "前橋",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_群馬_至仏山/main.jpg"
+    ]
   },
   {
     "id": "gen_群馬_白砂山",
@@ -140044,7 +141265,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "前橋",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_群馬_白砂山/main.jpg"
+    ]
   },
   {
     "id": "gen_群馬_谷川岳",
@@ -140186,7 +141410,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "前橋",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_群馬_谷川岳/main.jpg"
+    ]
   },
   {
     "id": "gen_群馬_榛名山",
@@ -142072,7 +143299,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_美利河温泉/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_利尻ふれあい温泉",
@@ -144258,7 +145488,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_オヤコツ/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_カンジウシ山",
@@ -144400,7 +145633,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_カンジウシ山/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_久山岳",
@@ -147024,7 +148260,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_トッカリムイ岳/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_ヌ牛別岳",
@@ -147895,7 +149134,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_浜益岳/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_馬髭岳",
@@ -148037,7 +149279,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_馬髭岳/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_東三国山",
@@ -148178,7 +149423,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_東三国山/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_ピシカチナイ山",
@@ -148320,7 +149568,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_ピシカチナイ山/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_ピセナイ山",
@@ -148462,7 +149713,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_ピセナイ山/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_ピッシリ山",
@@ -148604,7 +149858,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_ピッシリ山/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_ピパイロ岳",
@@ -148746,7 +150003,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_ピパイロ岳/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_美比内山",
@@ -148888,7 +150148,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_美比内山/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_美羅尾山",
@@ -149030,7 +150293,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_美羅尾山/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_ピラトコミ山",
@@ -149172,7 +150438,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_ピラトコミ山/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_ピョウタンの滝",
@@ -149596,7 +150865,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_山彦の滝/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_白老仙台藩陣屋跡",
@@ -149734,7 +151006,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_白老仙台藩陣屋跡/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_飯生神社",
@@ -149872,7 +151147,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_飯生神社/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_石狩弁天社",
@@ -150010,7 +151288,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_石狩弁天社/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_浦臼神社",
@@ -150148,7 +151429,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_浦臼神社/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_浦河神社",
@@ -150286,7 +151570,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_浦河神社/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_江別神社",
@@ -150424,7 +151711,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_江別神社/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_釜加神社",
@@ -150562,7 +151852,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_釜加神社/main.jpg"
+    ]
   },
   {
     "id": "gen_北海_札幌八幡宮",
@@ -150700,7 +151993,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_北海_札幌八幡宮/main.jpg"
+    ]
   },
   {
     "id": "gen_青森_相乗温泉",
@@ -150843,7 +152139,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "青森",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_青森_相乗温泉/main.jpg"
+    ]
   },
   {
     "id": "gen_青森_青荷温泉",
@@ -151284,7 +152583,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "青森",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_青森_浅虫温泉/main.jpg"
+    ]
   },
   {
     "id": "gen_青森_板留温泉",
@@ -151427,7 +152729,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "青森",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/gen_青森_板留温泉/main.jpg"
+    ]
   },
   {
     "id": "gen_青森_稲垣温泉",
@@ -154497,7 +155802,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "新潟",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/matsunoyama-onsen/main.jpg"
+    ]
   },
   {
     "id": "hijori-onsen",
@@ -155374,7 +156682,10 @@
     "icCard": null,
     "tier2": "spot",
     "hubName": "那覇",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/hateruma-island/main.jpg"
+    ]
   },
   {
     "id": "yoron-island",
@@ -155525,7 +156836,10 @@
     "icCard": null,
     "tier2": "spot",
     "hubName": "鹿児島",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/yoron-island/main.jpg"
+    ]
   },
   {
     "id": "kakeroma-island",
@@ -157248,7 +158562,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "仙台",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/yunokami-onsen/main.jpg"
+    ]
   },
   {
     "id": "saiki",
@@ -158219,7 +159536,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "甲府",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/shosenkyo/main.jpg"
+    ]
   },
   {
     "id": "isawa-onsen",
@@ -158521,7 +159841,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "甲府",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/minobu/main.jpg"
+    ]
   },
   {
     "id": "nagatoro",
@@ -160484,7 +161807,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "福井",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/mikatagoko/main.jpg"
+    ]
   },
   {
     "id": "hakuto",
@@ -160631,7 +161957,10 @@
     "icCard": "icoca",
     "tier2": "spot",
     "hubName": "鳥取",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/hakuto/main.jpg"
+    ]
   },
   {
     "id": "ibukijima",
@@ -162072,7 +163401,10 @@
     "icCard": "icoca",
     "tier2": "spot",
     "hubName": "広島",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/ikuchijima/main.jpg"
+    ]
   },
   {
     "id": "osakikamijima",
@@ -162252,7 +163584,10 @@
     "icCard": "icoca",
     "tier2": "spot",
     "hubName": "広島",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/osakikamijima/main.jpg"
+    ]
   },
   {
     "id": "sensui-jima",
@@ -162431,7 +163766,10 @@
     "icCard": "icoca",
     "tier2": "spot",
     "hubName": "広島",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/sensui-jima/main.jpg"
+    ]
   },
   {
     "id": "shiraishijima",
@@ -162614,7 +163952,10 @@
     "icCard": "icoca",
     "tier2": "spot",
     "hubName": "岡山",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/shiraishijima/main.jpg"
+    ]
   },
   {
     "id": "manabeshima",
@@ -162795,7 +164136,10 @@
     "icCard": "icoca",
     "tier2": "spot",
     "hubName": "岡山",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/manabeshima/main.jpg"
+    ]
   },
   {
     "id": "kofu-city",
@@ -164220,7 +165564,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": null,
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/tsubamesanjo/main.jpg"
+    ]
   },
   {
     "id": "kashiwazaki",
@@ -165025,7 +166372,10 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": null,
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/yugawara/main.jpg"
+    ]
   },
   {
     "id": "ikuno",
@@ -165661,7 +167011,10 @@
     "icCard": "nimoca",
     "tier2": "spot",
     "hubName": null,
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/sakurajima/main.jpg"
+    ]
   },
   {
     "id": "shimekappu",
@@ -170437,7 +171790,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "盛岡",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/chokai-san/main.jpg"
+    ]
   },
   {
     "id": "eshima-miyagi",
@@ -170963,7 +172319,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "松本",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/nyukasa/main.jpg"
+    ]
   },
   {
     "id": "ontake",
@@ -171132,7 +172491,10 @@
     "icCard": "icoca",
     "tier2": "spot",
     "hubName": "名古屋",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/ontake/main.jpg"
+    ]
   },
   {
     "id": "mitsuke-jima",
@@ -174088,7 +175450,10 @@
     "tier2": "spot",
     "hubName": "那覇",
     "isIsland": true,
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/kudakajima/main.jpg"
+    ]
   },
   {
     "id": "sefa-utaki",
@@ -174385,7 +175750,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "盛岡",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/hakkoda/main.jpg"
+    ]
   },
   {
     "id": "sannai-maruyama",
@@ -174508,7 +175876,10 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "盛岡",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/sannai-maruyama/main.jpg"
+    ]
   },
   {
     "id": "mikurajima",
@@ -174583,7 +175954,10 @@
     "tier2": "spot",
     "hubName": "東京",
     "hotelSearch": "八丈島 東京",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/mikurajima/main.jpg"
+    ]
   },
   {
     "id": "hiburi",
@@ -174656,7 +176030,10 @@
     "icCard": null,
     "tier2": "spot",
     "hubName": "広島",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/hiburi/main.jpg"
+    ]
   },
   {
     "id": "toshima-uwajima",
@@ -174806,7 +176183,10 @@
     "tier2": "spot",
     "hubName": "那覇",
     "hotelSearch": "那覇",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/tonaki/main.jpg"
+    ]
   },
   {
     "id": "yorojima",
@@ -174879,7 +176259,10 @@
     "icCard": null,
     "tier2": "spot",
     "hubName": "鹿児島",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/yorojima/main.jpg"
+    ]
   },
   {
     "id": "kuchinoerabu",
@@ -174954,7 +176337,10 @@
     "tier2": "spot",
     "hubName": "鹿児島",
     "hotelSearch": "屋久島",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/kuchinoerabu/main.jpg"
+    ]
   },
   {
     "id": "nishinoshima",
@@ -175029,7 +176415,10 @@
     "icCard": null,
     "tier2": "spot",
     "hubName": "大阪",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "images": [
+      "/images/nishinoshima/main.jpg"
+    ]
   },
   {
     "id": "minamidaitojima",
@@ -175102,7 +176491,10 @@
     "icCard": null,
     "tier2": "spot",
     "hubName": "那覇",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/minamidaitojima/main.jpg"
+    ]
   },
   {
     "id": "kitadaitojima",
@@ -175172,7 +176564,10 @@
     "icCard": null,
     "tier2": "spot",
     "hubName": "那覇",
-    "rentalCarRecommended": true
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/kitadaitojima/main.jpg"
+    ]
   },
   {
     "id": "sakushima",
