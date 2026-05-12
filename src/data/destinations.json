@@ -1916,8 +1916,7 @@
     "tags": [
       "街歩き",
       "海",
-      "寺社",
-      "離島"
+      "寺社"
     ],
     "spots": [
       {
@@ -2076,7 +2075,8 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "仙台",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "isIsland": false
   },
   {
     "id": "miyajima",
@@ -2628,8 +2628,7 @@
     "tags": [
       "街歩き",
       "海",
-      "寺社",
-      "離島"
+      "寺社"
     ],
     "spots": [
       {
@@ -2782,7 +2781,8 @@
     "icCard": "icoca",
     "tier2": "area",
     "hubName": "松江",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "isIsland": false
   },
   {
     "id": "ryujin-onsen",
@@ -4200,7 +4200,6 @@
       "歴史",
       "海",
       "寺社",
-      "離島",
       "春",
       "夏"
     ],
@@ -4350,7 +4349,8 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "東京",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "isIsland": false
   },
   {
     "id": "izu-oshima",
@@ -5566,7 +5566,6 @@
     "region": "中部",
     "hub": "名古屋",
     "stayAllowed": [
-      "daytrip",
       "1night"
     ],
     "departures": [
@@ -7439,8 +7438,7 @@
     "tags": [
       "海",
       "歴史",
-      "街歩き",
-      "離島"
+      "街歩き"
     ],
     "spots": [
       {
@@ -7583,7 +7581,8 @@
     "icCard": "nimoca",
     "tier2": "area",
     "hubName": "広島",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "isIsland": false
   },
   {
     "id": "naoshima",
@@ -7949,8 +7948,7 @@
       "温泉",
       "海",
       "山",
-      "歴史",
-      "離島"
+      "歴史"
     ],
     "spots": [
       {
@@ -8092,7 +8090,8 @@
     "icCard": "icoca",
     "tier2": "area",
     "hubName": "松山",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "isIsland": false
   },
   {
     "id": "toyako",
@@ -8608,7 +8607,6 @@
     "weight": 0.98,
     "description": "潮の匂いに混じって、売り声が朝霧を裂く。漆塗りの深い艶は、何百年もの手の記憶だ。ここでは暮らしそのものが、美しい。",
     "tags": [
-      "離島",
       "歴史",
       "海",
       "寺社"
@@ -8759,7 +8757,8 @@
     "icCard": "icoca",
     "tier2": "spot",
     "hubName": "金沢",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "isIsland": false
   },
   {
     "id": "kaga-onsen",
@@ -9258,8 +9257,7 @@
     "tags": [
       "街歩き",
       "海",
-      "寺社",
-      "離島"
+      "寺社"
     ],
     "spots": [
       {
@@ -9406,7 +9404,8 @@
     "icCard": "icoca",
     "tier2": "area",
     "hubName": "大阪",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "isIsland": false
   },
   {
     "id": "ibusuki",
@@ -9425,7 +9424,6 @@
     "tags": [
       "温泉",
       "自然",
-      "離島",
       "冬"
     ],
     "spots": [
@@ -9565,7 +9563,8 @@
     "icCard": "nimoca",
     "tier2": "area",
     "hubName": "鹿児島",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "isIsland": false
   },
   {
     "id": "sasebo",
@@ -9584,7 +9583,6 @@
     "weight": 1.11,
     "description": "島影が重なるたびに、息を呑む。潮の香りに混じる異国の気配、錆びた砲台に刻まれた時間。静けさの中で、自分がひどく小さく、そして自由に感じられる街。",
     "tags": [
-      "離島",
       "海",
       "歴史"
     ],
@@ -9723,7 +9721,8 @@
     "icCard": "nimoca",
     "tier2": "area",
     "hubName": "長崎",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "isIsland": false
   },
   {
     "id": "hirado",
@@ -10530,7 +10529,6 @@
       "自然",
       "山",
       "城",
-      "離島",
       "夏"
     ],
     "spots": [
@@ -10667,7 +10665,8 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "東京",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "isIsland": false
   },
   {
     "id": "gokayama",
@@ -14930,8 +14929,7 @@
     "description": "雪に静まり返る茅葺きの集落。箸代わりのネギで手繰る蕎麦の温もりが、どこか懐かしい記憶を呼び覚ます。",
     "tags": [
       "歴史",
-      "街歩き",
-      "離島"
+      "街歩き"
     ],
     "spots": [
       {
@@ -15065,7 +15063,8 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "仙台",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "isIsland": false
   },
   {
     "id": "nozawa-onsen",
@@ -15567,8 +15566,7 @@
     "description": "石畳を踏むたびに、どこか懐かしい音がする。藤村が見上げた同じ空、同じ山の匂い。時代が剥がれ落ちて、ただ今だけが静かに残る場所。",
     "tags": [
       "歴史",
-      "山",
-      "離島"
+      "山"
     ],
     "spots": [
       {
@@ -15711,7 +15709,8 @@
     "icCard": "icoca",
     "tier2": "area",
     "hubName": "名古屋",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "isIsland": false
   },
   {
     "id": "nagahama",
@@ -17576,7 +17575,6 @@
     "tags": [
       "温泉",
       "海",
-      "離島",
       "冬"
     ],
     "spots": [
@@ -17704,7 +17702,8 @@
     "icCard": "icoca",
     "tier2": "area",
     "hubName": "金沢",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "isIsland": false
   },
   {
     "id": "misasa-onsen",
@@ -18693,8 +18692,7 @@
     "tags": [
       "街歩き",
       "海",
-      "城",
-      "離島"
+      "城"
     ],
     "spots": [
       {
@@ -18845,7 +18843,8 @@
     "icCard": "icoca",
     "tier2": "area",
     "hubName": "松山",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "isIsland": false
   },
   {
     "id": "ozu",
@@ -19046,8 +19045,7 @@
     "description": "神威岬の先端に立つと、風が言葉を奪っていく。目の前に広がるのは、見たことのない青。名前をつけたくなる色が、ここにある。",
     "tags": [
       "海",
-      "街歩き",
-      "離島"
+      "街歩き"
     ],
     "spots": [
       {
@@ -19208,7 +19206,8 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "isIsland": false
   },
   {
     "id": "izumo",
@@ -20696,7 +20695,6 @@
       "海",
       "山",
       "城",
-      "離島",
       "春",
       "冬"
     ],
@@ -20853,7 +20851,8 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "東京",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "isIsland": false
   },
   {
     "id": "tanabe",
@@ -21220,8 +21219,7 @@
       "海",
       "歴史",
       "城",
-      "寺社",
-      "離島"
+      "寺社"
     ],
     "spots": [
       {
@@ -21381,7 +21379,8 @@
     "icCard": "nimoca",
     "tier2": "area",
     "hubName": "宮崎",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "isIsland": false
   },
   {
     "id": "mojiko",
@@ -21575,7 +21574,6 @@
     "tags": [
       "海",
       "街歩き",
-      "離島",
       "夏"
     ],
     "spots": [
@@ -21732,7 +21730,8 @@
     "icCard": "nimoca",
     "tier2": "spot",
     "hubName": "福岡",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "isIsland": false
   },
   {
     "id": "shimabara",
@@ -21754,8 +21753,7 @@
       "歴史",
       "城",
       "自然",
-      "山",
-      "離島"
+      "山"
     ],
     "spots": [
       {
@@ -21913,7 +21911,8 @@
     "icCard": "nimoca",
     "tier2": "spot",
     "hubName": "長崎",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "isIsland": false
   },
   {
     "id": "tsuruga",
@@ -23505,7 +23504,6 @@
       "海",
       "自然",
       "山",
-      "離島",
       "冬"
     ],
     "spots": [
@@ -23655,7 +23653,8 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "秋田",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "isIsland": false
   },
   {
     "id": "yonezawa",
@@ -26309,8 +26308,7 @@
     "tags": [
       "海",
       "温泉",
-      "自然",
-      "離島"
+      "自然"
     ],
     "spots": [
       {
@@ -26448,7 +26446,8 @@
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1752027634847-f898a2a6cae2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclOUYlQjMlRTUlQkIlOEElRTUlQjQlOEUlMjAlRTUlOEQlOTclRTQlQkMlOEElRTglQjElODZ8ZW58MHwwfHx8MTc3ODQyMDAxOXww&ixlib=rb-4.1.0&q=80&w=400",
     "unsplashCredit": "王 开心",
     "unsplashCreditUrl": "https://unsplash.com/@wbbz?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/cliffside-scenery-meets-the-beautiful-vast-ocean-Ck0nprqu3wo?utm_source=dokoiko&utm_medium=referral"
+    "unsplashPhotoUrl": "https://unsplash.com/photos/cliffside-scenery-meets-the-beautiful-vast-ocean-Ck0nprqu3wo?utm_source=dokoiko&utm_medium=referral",
+    "isIsland": false
   },
   {
     "id": "echizen",
@@ -26635,7 +26634,6 @@
       "街歩き",
       "山",
       "城",
-      "離島",
       "冬",
       "夏"
     ],
@@ -26780,7 +26778,8 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "静岡",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "isIsland": false
   },
   {
     "id": "iga",
@@ -31376,8 +31375,7 @@
     "tags": [
       "城",
       "歴史",
-      "自然",
-      "離島"
+      "自然"
     ],
     "spots": [
       {
@@ -31522,7 +31520,8 @@
     "icCard": null,
     "tier2": "spot",
     "hubName": "那覇",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "isIsland": false
   },
   {
     "id": "motobu",
@@ -31543,8 +31542,7 @@
     "description": "透き通る海の青さに、時間の感覚が溶けていく。風に揺れるフクギの葉音、巨大な水槽の向こうに広がる命の静けさ。ここでは、息を吸うたびに何かが軽くなる。",
     "tags": [
       "海",
-      "自然",
-      "離島"
+      "自然"
     ],
     "spots": [
       {
@@ -31694,7 +31692,8 @@
     "unsplashCredit": "Hiroko Yoshii",
     "unsplashCreditUrl": "https://unsplash.com/@hiro0718?utm_source=dokoiko&utm_medium=referral",
     "unsplashPhotoUrl": "https://unsplash.com/photos/white-and-blue-sky-over-city-and-sea-during-daytime-qbl9o0iU4X8?utm_source=dokoiko&utm_medium=referral",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "isIsland": false
   },
   {
     "id": "zamami-island",
@@ -40606,8 +40605,7 @@
     "description": "風が耳元を通り抜けるたび、コバルトブルーが視界いっぱいに広がる。断崖の縁に立てば、自分がどれだけ小さいか、そしてどれだけ自由かを同時に思い知る。",
     "tags": [
       "海",
-      "自然",
-      "離島"
+      "自然"
     ],
     "spots": [
       {
@@ -40748,7 +40746,8 @@
     "icCard": null,
     "tier2": "spot",
     "hubName": "那覇",
-    "rentalCarRecommended": false
+    "rentalCarRecommended": false,
+    "isIsland": false
   },
   {
     "id": "nago",
@@ -158531,7 +158530,6 @@
     "region": "関東",
     "hub": "東京",
     "stayAllowed": [
-      "daytrip",
       "1night"
     ],
     "departures": [
@@ -166000,7 +165998,6 @@
     "region": "関東",
     "hub": null,
     "stayAllowed": [
-      "daytrip",
       "1night"
     ],
     "departures": [
@@ -180550,7 +180547,6 @@
     "hubName": "大阪",
     "hubCity": "大阪",
     "stayAllowed": [
-      "daytrip",
       "1night"
     ],
     "departures": [
@@ -180618,7 +180614,6 @@
     "hubName": "大阪",
     "hubCity": "大阪",
     "stayAllowed": [
-      "daytrip",
       "1night"
     ],
     "departures": [
@@ -181564,7 +181559,6 @@
     "hubName": "大阪",
     "hubCity": "大阪",
     "stayAllowed": [
-      "daytrip",
       "1night"
     ],
     "departures": [
@@ -182141,7 +182135,6 @@
     "hubName": "東京",
     "hubCity": "東京",
     "stayAllowed": [
-      "daytrip",
       "1night"
     ],
     "departures": [
@@ -182386,7 +182379,6 @@
     "hubName": "大阪",
     "hubCity": "大阪",
     "stayAllowed": [
-      "daytrip",
       "1night"
     ],
     "departures": [
@@ -182590,7 +182582,6 @@
     "hubName": "大阪",
     "hubCity": "大阪",
     "stayAllowed": [
-      "daytrip",
       "1night"
     ],
     "departures": [
@@ -182658,7 +182649,6 @@
     "hubName": "大阪",
     "hubCity": "大阪",
     "stayAllowed": [
-      "daytrip",
       "1night"
     ],
     "departures": [
@@ -182913,7 +182903,6 @@
     "hubName": "高松",
     "hubCity": "高松",
     "stayAllowed": [
-      "daytrip",
       "1night"
     ],
     "departures": [
@@ -183296,7 +183285,6 @@
     "hubName": "東京",
     "hubCity": "東京",
     "stayAllowed": [
-      "daytrip",
       "1night"
     ],
     "departures": [
@@ -183818,7 +183806,6 @@
     "hubName": "仙台",
     "hubCity": "仙台",
     "stayAllowed": [
-      "daytrip",
       "1night"
     ],
     "departures": [
@@ -184068,7 +184055,6 @@
     "hubName": "仙台",
     "hubCity": "仙台",
     "stayAllowed": [
-      "daytrip",
       "1night"
     ],
     "departures": [
@@ -184374,7 +184360,6 @@
     "hubName": "東京",
     "hubCity": "東京",
     "stayAllowed": [
-      "daytrip",
       "1night"
     ],
     "departures": [
@@ -184440,7 +184425,6 @@
     "hubName": "名古屋",
     "hubCity": "名古屋",
     "stayAllowed": [
-      "daytrip",
       "1night"
     ],
     "departures": [
@@ -184505,7 +184489,6 @@
     "hubName": "名古屋",
     "hubCity": "名古屋",
     "stayAllowed": [
-      "daytrip",
       "1night"
     ],
     "departures": [
@@ -184571,7 +184554,6 @@
     "hubName": "金沢",
     "hubCity": "金沢",
     "stayAllowed": [
-      "daytrip",
       "1night"
     ],
     "departures": [
@@ -185328,7 +185310,6 @@
     "hubName": "広島",
     "hubCity": "広島",
     "stayAllowed": [
-      "daytrip",
       "1night"
     ],
     "departures": [
@@ -187901,7 +187882,6 @@
     "hubName": "大阪",
     "hubCity": "大阪",
     "stayAllowed": [
-      "daytrip",
       "1night"
     ],
     "departures": [
@@ -188029,7 +188009,6 @@
     "hubName": "大阪",
     "hubCity": "大阪",
     "stayAllowed": [
-      "daytrip",
       "1night"
     ],
     "departures": [
@@ -188090,7 +188069,7 @@
     "hubName": "大阪",
     "hubCity": "大阪",
     "stayAllowed": [
-      "daytrip"
+      "1night"
     ],
     "departures": [
       "大阪"
@@ -188155,7 +188134,6 @@
     "hubName": "大阪",
     "hubCity": "大阪",
     "stayAllowed": [
-      "daytrip",
       "1night"
     ],
     "departures": [
@@ -188216,7 +188194,7 @@
     "hubName": "大阪",
     "hubCity": "大阪",
     "stayAllowed": [
-      "daytrip"
+      "1night"
     ],
     "departures": [
       "大阪"
@@ -189018,7 +188996,6 @@
     "hubName": "東京",
     "hubCity": "東京",
     "stayAllowed": [
-      "daytrip",
       "1night"
     ],
     "departures": [
@@ -189085,7 +189062,6 @@
     "hubName": "東京",
     "hubCity": "東京",
     "stayAllowed": [
-      "daytrip",
       "1night"
     ],
     "departures": [
@@ -189152,7 +189128,6 @@
     "hubName": "東京",
     "hubCity": "東京",
     "stayAllowed": [
-      "daytrip",
       "1night"
     ],
     "departures": [
@@ -189218,7 +189193,6 @@
     "hubName": "東京",
     "hubCity": "東京",
     "stayAllowed": [
-      "daytrip",
       "1night",
       "2night"
     ],
@@ -189286,7 +189260,6 @@
     "hubName": "東京",
     "hubCity": "東京",
     "stayAllowed": [
-      "daytrip",
       "1night"
     ],
     "departures": [
@@ -189600,7 +189573,6 @@
     "hubName": "名古屋",
     "hubCity": "名古屋",
     "stayAllowed": [
-      "daytrip",
       "1night"
     ],
     "departures": [
@@ -192794,7 +192766,6 @@
     "hubName": "名古屋",
     "hubCity": "名古屋",
     "stayAllowed": [
-      "daytrip",
       "1night"
     ],
     "departures": [
@@ -193049,7 +193020,6 @@
     "hubName": "福岡",
     "hubCity": "福岡",
     "stayAllowed": [
-      "daytrip",
       "1night"
     ],
     "departures": [
@@ -193115,7 +193085,7 @@
     "hubName": "福岡",
     "hubCity": "福岡",
     "stayAllowed": [
-      "daytrip"
+      "1night"
     ],
     "departures": [
       "福岡"
@@ -193174,7 +193144,6 @@
     "hubName": "福岡",
     "hubCity": "福岡",
     "stayAllowed": [
-      "daytrip",
       "1night"
     ],
     "departures": [
@@ -193239,7 +193208,6 @@
     "hubName": "福岡",
     "hubCity": "福岡",
     "stayAllowed": [
-      "daytrip",
       "1night"
     ],
     "departures": [
@@ -193369,7 +193337,6 @@
     "hubName": "福岡",
     "hubCity": "福岡",
     "stayAllowed": [
-      "daytrip",
       "1night"
     ],
     "departures": [
@@ -193435,7 +193402,6 @@
     "hubName": "福岡",
     "hubCity": "福岡",
     "stayAllowed": [
-      "daytrip",
       "1night"
     ],
     "departures": [
@@ -193807,7 +193773,6 @@
     "hubName": "東京",
     "hubCity": "東京",
     "stayAllowed": [
-      "daytrip",
       "1night"
     ],
     "departures": [
@@ -193999,7 +193964,6 @@
     "hubName": "広島",
     "hubCity": "広島",
     "stayAllowed": [
-      "daytrip",
       "1night"
     ],
     "departures": [
@@ -194703,7 +194667,6 @@
     "hubName": "東京",
     "hubCity": "東京",
     "stayAllowed": [
-      "daytrip",
       "1night"
     ],
     "departures": [
@@ -194836,7 +194799,6 @@
     "hubName": "仙台",
     "hubCity": "仙台",
     "stayAllowed": [
-      "daytrip",
       "1night"
     ],
     "departures": [
@@ -195025,7 +194987,6 @@
     "hubName": "仙台",
     "hubCity": "仙台",
     "stayAllowed": [
-      "daytrip",
       "1night"
     ],
     "departures": [
@@ -195090,7 +195051,6 @@
     "hubName": "仙台",
     "hubCity": "仙台",
     "stayAllowed": [
-      "daytrip",
       "1night"
     ],
     "departures": [
@@ -195155,7 +195115,6 @@
     "hubName": "仙台",
     "hubCity": "仙台",
     "stayAllowed": [
-      "daytrip",
       "1night"
     ],
     "departures": [
@@ -195342,7 +195301,6 @@
     "hubName": "高松",
     "hubCity": "高松",
     "stayAllowed": [
-      "daytrip",
       "1night"
     ],
     "departures": [
@@ -195407,7 +195365,6 @@
     "hubName": "高松",
     "hubCity": "高松",
     "stayAllowed": [
-      "daytrip",
       "1night"
     ],
     "departures": [
@@ -195472,7 +195429,6 @@
     "hubName": "高松",
     "hubCity": "高松",
     "stayAllowed": [
-      "daytrip",
       "1night"
     ],
     "departures": [
@@ -195537,7 +195493,6 @@
     "hubName": "福岡",
     "hubCity": "福岡",
     "stayAllowed": [
-      "daytrip",
       "1night"
     ],
     "departures": [
@@ -196436,7 +196391,7 @@
     "hubName": "大阪",
     "hubCity": "大阪",
     "stayAllowed": [
-      "daytrip"
+      "1night"
     ],
     "departures": [
       "大阪"
@@ -197320,7 +197275,7 @@
     "hubName": "仙台",
     "hubCity": "仙台",
     "stayAllowed": [
-      "daytrip"
+      "1night"
     ],
     "departures": [
       "仙台"
@@ -197385,7 +197340,6 @@
     "hubName": "東京",
     "hubCity": "東京",
     "stayAllowed": [
-      "daytrip",
       "1night"
     ],
     "departures": [
@@ -197451,7 +197405,6 @@
     "hubName": "札幌",
     "hubCity": "札幌",
     "stayAllowed": [
-      "daytrip",
       "1night"
     ],
     "departures": [
@@ -197642,7 +197595,6 @@
     "hubName": "大阪",
     "hubCity": "大阪",
     "stayAllowed": [
-      "daytrip",
       "1night"
     ],
     "departures": [
@@ -198012,5 +197964,103 @@
     "unsplashCredit": "Takafumi Yamashita",
     "unsplashCreditUrl": "https://unsplash.com/@yamashita0129?utm_source=dokoiko&utm_medium=referral",
     "unsplashPhotoUrl": "https://unsplash.com/photos/a-close-up-of-a-street-in-front-of-a-building-RDsG7h1Frg4?utm_source=dokoiko&utm_medium=referral"
+  },
+  {
+    "id": "matsuyama",
+    "name": "松山",
+    "type": "destination",
+    "region": "四国",
+    "prefecture": "愛媛県",
+    "hub": "松山",
+    "hubName": "松山",
+    "hubCity": "松山",
+    "stayAllowed": [
+      "1night",
+      "2night"
+    ],
+    "departures": [
+      "松山"
+    ],
+    "weight": 1.5,
+    "description": "道後の湯気が朝の路地をぼかし、坂の上にゆらりと雲の影。3000年の湯と現存天守の城下町を、路面電車が一日かけて結ぶ、そんな街。",
+    "tags": [
+      "温泉",
+      "歴史",
+      "城",
+      "街歩き"
+    ],
+    "reasonChips": [
+      "温泉がおすすめ",
+      "城下町散策",
+      "ひとり旅向け"
+    ],
+    "spots": [
+      {
+        "name": "道後温泉本館",
+        "description": "日本最古とされる温泉。明治27年築の木造楼閣建築は国の重要文化財、夏目漱石「坊っちゃん」ゆかりの湯。",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/D%C5%8Dgo_Onsen.jpg/500px-D%C5%8Dgo_Onsen.jpg"
+      },
+      {
+        "name": "松山城",
+        "description": "標高132mの勝山に建つ現存12天守の一つ。ロープウェイ・リフトで気軽に登城でき、瀬戸内海と市街を一望。",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/%E6%9D%BE%E5%B1%B1%E5%9F%8E%E5%A4%A9%E5%AE%88_%282372904566%29.jpg/500px-%E6%9D%BE%E5%B1%B1%E5%9F%8E%E5%A4%A9%E5%AE%88_%282372904566%29.jpg"
+      },
+      {
+        "name": "坂の上の雲ミュージアム",
+        "description": "司馬遼太郎の同名小説を軸に明治期の松山と日本近代化を辿る博物館。建築は安藤忠雄設計の三角形。",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Saka-no-ue-no-kumo_Museum.jpg/500px-Saka-no-ue-no-kumo_Museum.jpg"
+      },
+      {
+        "name": "大街道商店街",
+        "description": "路面電車の通る松山市中心のアーケード商店街。鯛めし・坊っちゃん団子・じゃこ天など愛媛グルメも揃う。",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ichiban-cho_Street_%28Matsuyama_City%29_20250416.jpg/500px-Ichiban-cho_Street_%28Matsuyama_City%29_20250416.jpg"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "isIsland": false,
+    "destType": "city",
+    "hotelSearch": "道後温泉",
+    "lat": 33.846,
+    "lng": 132.766,
+    "travelTime": {
+      "tokyo": 180,
+      "osaka": 130,
+      "nagoya": 135,
+      "fukuoka": 160,
+      "sapporo": 280,
+      "sendai": 240,
+      "hiroshima": 100,
+      "takamatsu": 165,
+      "naha": 320,
+      "kanazawa": 270,
+      "shimonoseki": 145,
+      "kitakyushu": 155,
+      "oita": 240,
+      "beppu": 240
+    },
+    "stayRecommendation": "1night",
+    "gateways": {
+      "rail": [
+        "松山駅"
+      ],
+      "airport": [
+        "松山空港"
+      ],
+      "bus": [],
+      "ferry": [
+        "松山観光港"
+      ]
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E9%2581%2593%25E5%25BE%258C%25E6%25B8%25A9%25E6%25B3%2589",
+      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2593%25B9%258C%25E3%2589%25B7%2590%25F2"
+    },
+    "rentalCarRecommended": false,
+    "unsplashUrl": "https://images.unsplash.com/photo-1764057145780-3ba9929822ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTYlOUQlQkUlRTUlQjElQjElMjAlRTklODElOTMlRTUlQkUlOEMlRTYlQjglQTklRTYlQjMlODl8ZW58MHwwfHx8MTc3ODU4Mzk2OXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "unsplashThumbUrl": "https://images.unsplash.com/photo-1764057145780-3ba9929822ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTYlOUQlQkUlRTUlQjElQjElMjAlRTklODElOTMlRTUlQkUlOEMlRTYlQjglQTklRTYlQjMlODl8ZW58MHwwfHx8MTc3ODU4Mzk2OXww&ixlib=rb-4.1.0&q=80&w=400",
+    "unsplashCredit": "waa towaw",
+    "unsplashCreditUrl": "https://unsplash.com/@toowaaw?utm_source=dokoiko&utm_medium=referral",
+    "unsplashPhotoUrl": "https://unsplash.com/photos/traditional-japanese-hot-springs-with-steam-rising-PTa2YyqPc0s?utm_source=dokoiko&utm_medium=referral"
   }
 ]
