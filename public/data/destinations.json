@@ -1503,12 +1503,14 @@
       "別府"
     ],
     "weight": 1.8,
-    "description": "湯けむりが、町ごと白く染まる。別府に着いた瞬間、空気が違うとわかった。硫黄のにおいが鼻をついて、あ、来た、。温泉地はたくさんあるけれど、ここまで「温泉が町に滲み出ている」場所はなかなかない。地面の至るところから湯気が立ち、川沿いにも路地にも、蒸気が漂っている。それだけで、もう十分すぎるほど特別な場所だ。湯けむりが路地を包み、硫黄の匂いが鼻をかすめる。地の底から湧き上がる熱が、冷えた体の芯まで溶かしていく、そんな街。",
+    "description": "別府の地獄めぐりは、地球の鼓動を感じる旅だ。海地獄の湖のような湯は、コバルトブルーに輝き、その深さから立ち昇る硫黄の匂いが鼻をついる。血の池地獄は赤茶色に煮え立ち、龍巻地噴は数分ごとに温泉を吹き出す。江戸時代から人々を驚かせてきた七つの地獄のうち、最も古い記録は1300年前にさかのぼる。地獄巡りを創出した別府は、観光地化される前から「死と再生」の物語を語っていた。湯けむりの中で時間の感覚が消え、ここは異世界だと思い知らされる。そんな街。",
     "tags": [
       "温泉",
-      "海",
+      "街歩き",
+      "子連れ",
       "冬",
-      "夏"
+      "夏",
+      "海"
     ],
     "spots": [
       {
@@ -1524,6 +1526,18 @@
         "name": "湯布院",
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Yuhudake.jpg/500px-Yuhudake.jpg",
         "description": "別府から車で30分ほど山を上がると、湯布院に出る。"
+      },
+      {
+        "name": "海地獄",
+        "description": "別府温泉を代表するスポット。海地獄は必見の場所です。"
+      },
+      {
+        "name": "血の池地獄",
+        "description": "別府温泉を代表するスポット。血の池地獄は必見の場所です。"
+      },
+      {
+        "name": "明礬温泉",
+        "description": "別府温泉を代表するスポット。明礬温泉は必見の場所です。"
       }
     ],
     "shinkansenAccess": false,
@@ -1672,6 +1686,16 @@
       "温泉がおすすめ",
       "海を眺める",
       "1泊がおすすめ"
+    ],
+    "alternateNames": [
+      "別府地獄めぐり",
+      "別府温泉"
+    ],
+    "keywords": [
+      "beppu-2",
+      "beppu-jigoku",
+      "別府地獄めぐり",
+      "別府温泉"
     ]
   },
   {
@@ -6601,8 +6625,10 @@
     "weight": 1.32,
     "description": "熊本空港を出た瞬間、空が広い。それだけで、もう阿蘇に来た実感がある。九州の真ん中に、世界最大級のカルデラがある。その事実を、地図で見るのと、実際に立つのとでは全然違う。大地が生きている。それを肌で感じたくて、また来てしまう場所だ。風が草原をなでるたび、緑の波が地平線まで走っていく。足元の大地は今もくすぶっていて、生きている星の上に立っている実感が、じわりと全身に広がる。火口は天候・火山活動で突然閉鎖される。行く当日の朝、必ず公式サイトを確認する。標高1,000m超えの場所が多い。夏でも上着は必須だ。レンタカーがあると圧倒的に動きやすい。バスは本数が少なく、待ち時間が長い。",
     "tags": [
-      "山",
-      "自然"
+      "秘境",
+      "自然",
+      "絶景",
+      "山"
     ],
     "spots": [
       {
@@ -6619,6 +6645,14 @@
         "name": "大観峰",
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Mount_Aso_kabuto-iwa_viewpoint.JPG/500px-Mount_Aso_kabuto-iwa_viewpoint.JPG",
         "description": "草千里や火口は「中から」見る体験だ。大観峰は「外から」眺める場所。この違いが、想像以上に大きかった。展望台に立つ。阿蘇五..."
+      },
+      {
+        "name": "阿蘇山",
+        "description": "阿蘇くじゅうを代表するスポット。阿蘇山は必見の場所です。"
+      },
+      {
+        "name": "米塚",
+        "description": "阿蘇中岳火口を代表するスポット。米塚は必見の場所です。"
       }
     ],
     "shinkansenAccess": false,
@@ -6759,6 +6793,16 @@
     "reasonChips": [
       "山岳ハイキング",
       "日帰り最適"
+    ],
+    "alternateNames": [
+      "阿蘇中岳火口",
+      "阿蘇くじゅう"
+    ],
+    "keywords": [
+      "kumamoto-2",
+      "阿蘇中岳火口",
+      "阿蘇くじゅう",
+      "aso-volcano"
     ]
   },
   {
@@ -11947,8 +11991,9 @@
     "weight": 1.06,
     "description": "丘がこんなに美しいなんて、知らない。北海道の内陸、旭川から車で30分ほど走ると、急に景色が変わる。なだらかな丘が続いて、空が近くなって、色鮮やかな畑がパズルのようにつながっていく。美瑛はただの「田舎」じゃない。計算された絵みたいな風景が、本物として広がっている場所だ。風が丘を渡るたび、麦の波が光る。息を呑むほどの青、燃えるような黄、この大地の色は、言葉より先に胸に届く。美瑛は車かレンタサイクルがないと正直きつい。電車とバスだけでは回れるスポットが限られる。レンタカーは旭川空港か旭川駅で借りるのが便利。夏の週末はかなり混むので、宿は早めに押さえること。農作業中の畑への立ち入りは絶対にNG。",
     "tags": [
+      "観光地",
       "自然",
-      "観光地"
+      "絶景"
     ],
     "spots": [
       {
@@ -11965,6 +12010,18 @@
         "name": "パッチワークの路",
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/%E5%9B%9B%E5%AD%A3%E5%BD%A9%E3%81%AE%E4%B8%98-01.JPG/500px-%E5%9B%9B%E5%AD%A3%E5%BD%A9%E3%81%AE%E4%B8%98-01.JPG",
         "description": "レンタカーで走っていたら、突然「あ、ここだ」。"
+      },
+      {
+        "name": "ファーム富田",
+        "description": "美瑛富良野を代表するスポット。ファーム富田は必見の場所です。"
+      },
+      {
+        "name": "北の国から",
+        "description": "美瑛富良野を代表するスポット。北の国からは必見の場所です。"
+      },
+      {
+        "name": "ラベンダー",
+        "description": "美瑛富良野を代表するスポット。ラベンダーは必見の場所です。"
       }
     ],
     "shinkansenAccess": false,
@@ -12107,6 +12164,13 @@
     ],
     "reasonChips": [
       "日帰り最適"
+    ],
+    "alternateNames": [
+      "美瑛富良野"
+    ],
+    "keywords": [
+      "美瑛富良野",
+      "biei-furano"
     ]
   },
   {
@@ -18521,8 +18585,12 @@
     "weight": 1.11,
     "description": "益子に来ると、なぜか時間の流れが変わる。東京から車で2時間ちょっと。たどり着くのは、土と炎でできた町。窯の煙が上がる細い路地を歩いていると、ここで何かを買わなくていい、ただ歩きたい、。そういう気持ちにさせる場所。素朴な器がずらりと並ぶ窯元の路地を歩くと、土の匂いと炎の記憶が肌に触れる。自分だけの一枚を探しながら、いつの間にか時間を忘れている。春（4〜5月）と秋（11月）の「益子陶器市」は全国から数万人が訪れる。駐車場は朝8時台でも埋まり始める。平日の訪問が断然ゆっくりできる。器は割れ物なので、新聞紙か緩衝材を車に積んでおくと安心。",
     "tags": [
+      "温泉",
+      "観光地",
       "街歩き",
-      "観光地"
+      "自然",
+      "観光",
+      "冬"
     ],
     "spots": [
       {
@@ -18538,6 +18606,16 @@
         "name": "益子焼窯元共販センター",
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Mashiko_Station_in_2018.jpg/500px-Mashiko_Station_in_2018.jpg",
         "description": "益子に来たら、ここは外せない。窯元が共同で運営する販売施設で、益子焼の「市場」みたいな場所だ。大きなたぬきの置物が目印。..."
+      },
+      {
+        "name": "益子温泉",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Mashikokan.jpg/500px-Mashikokan.jpg",
+        "description": "正直、観光の「おまけ」くらいに思っている。"
+      },
+      {
+        "name": "益子町",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/2023%E5%B9%B4%EF%BC%88%E4%BB%A4%E5%92%8C5%E5%B9%B4%EF%BC%89%E6%98%A5%E3%81%AE%E7%9B%8A%E5%AD%90%E9%99%B6%E5%99%A8%E5%B8%82%E3%80%8C%E7%9B%8A%E5%AD%90%E7%84%BC%E7%AA%AF%E5%85%83%E5%85%B1%E8%B2%A9%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%80%8D%E3%80%82.jpg/500px-2023%E5%B9%B4%EF%BC%88%E4%BB%A4%E5%92%8C5%E5%B9%B4%EF%BC%89%E6%98%A5%E3%81%AE%E7%9B%8A%E5%AD%90%E9%99%B6%E5%99%A8%E5%B8%82%E3%80%8C%E7%9B%8A%E5%AD%90%E7%84%BC%E7%AA%AF%E5%85%83%E5%85%B1%E8%B2%A9%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%80%8D%E3%80%82.jpg",
+        "description": "益子町を代表するスポット。益子町は必見の場所です。"
       }
     ],
     "shinkansenAccess": false,
@@ -18677,6 +18755,16 @@
     "reasonChips": [
       "街歩き向け",
       "日帰り最適"
+    ],
+    "alternateNames": [
+      "益子町",
+      "益子温泉"
+    ],
+    "keywords": [
+      "gen_栃木_益子温泉",
+      "益子町",
+      "gen_栃木_益子町",
+      "益子温泉"
     ]
   },
   {
@@ -24305,10 +24393,12 @@
     "weight": 1.36,
     "description": "フェリーが稚内を離れた瞬間、もう引き返せない。礼文島まで約2時間。海の色が、本土とは明らかに違う。「花の浮島」という言葉を聞いても、正直ピンとこない。でも島に降り立って、風を吸い込んだ瞬間にわかった。ここはそういう場所だ。風が花の匂いを運んでくる。足元には見たことのない色の命が揺れ、遠くには果てしない海。ここに立つと、自分がひどく小さくて、それがなぜか心地いい。フェリーは稚内から1日2〜3便。繁忙期は早めに予約を。島内はバスか自転車かタクシーしかない。レンタサイクルは電動がおすすめ、坂が多い。6月でも防風ジャケットは必須。半袖では後悔する。",
     "tags": [
+      "温泉",
       "離島",
+      "街歩き",
       "自然",
       "山",
-      "海"
+      "冬"
     ],
     "spots": [
       {
@@ -24325,6 +24415,11 @@
         "name": "レブンアツモリソウ",
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Cypripedium_macranthum_var._rebunense_%287763469244%29.jpg/500px-Cypripedium_macranthum_var._rebunense_%287763469244%29.jpg",
         "description": "礼文島固有種。世界でここにしか咲かない。6月上旬から中旬の約2週間だけ。その情報を知ってから、この島に来ることを決めた。..."
+      },
+      {
+        "name": "礼文島温泉",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Usuyuki_no_yu_2011.JPG/500px-Usuyuki_no_yu_2011.JPG",
+        "description": "稚内からフェリーで約2時間。香深港に着いたのは、もう夕方近かった。宿に荷物を置いてすぐ、温泉へ向かった。「うすゆきの湯」..."
       }
     ],
     "shinkansenAccess": false,
@@ -24495,6 +24590,13 @@
       "離島の絶景",
       "山岳ハイキング",
       "海を眺める"
+    ],
+    "alternateNames": [
+      "礼文島温泉"
+    ],
+    "keywords": [
+      "礼文島温泉",
+      "gen_北海_礼文島温泉"
     ]
   },
   {
@@ -24515,10 +24617,12 @@
     "weight": 1.36,
     "description": "フェリーの甲板に立った瞬間、見える。海の向こうに、円錐形の山がただそこにある。雲もなく、波もおだやか。利尻島は、近づくほどに大きくなる。観光地らしい派手さは何もない。それなのに、なぜかもう一度来たいと思わせる島だ。海の果てに浮かぶ一枚岩のような島。頂まで続く山の稜線が潮風に霞み、ウニの甘さが舌の上でとろける。ここにいると、余分なものがすべて落ちていく。レンタカーは要予約。台数が少なくすぐ埋まる。コンビニはない。稚内のセイコーマートで食料を買い込んでおくと安心。フェリーは欠航することがある。帰りの便に余裕を持たせたスケジュールが正解だ。",
     "tags": [
+      "温泉",
       "離島",
+      "街歩き",
+      "自然",
       "山",
-      "海",
-      "自然"
+      "冬"
     ],
     "spots": [
       {
@@ -24535,6 +24639,16 @@
         "name": "姫沼",
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mt_Rishiri.jpg/500px-Mt_Rishiri.jpg",
         "description": "鴛泊港から歩いて約20分。その距離感がちょうどいい。宿を出て、朝食前に向かった。沼に着いたのは7時15分。誰もいない。ほ..."
+      },
+      {
+        "name": "利尻富士温泉",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Rishirifuhi_spa_2011.JPG/500px-Rishirifuhi_spa_2011.JPG",
+        "description": "鴛泊港から歩いて15分ほど。住宅街を抜けた先に、こじんまりした建物がある。入浴料は600円。シャンプーは持参か、フロント..."
+      },
+      {
+        "name": "利尻ふれあい温泉",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Rishiri_Fureai_spa_roten.JPG/500px-Rishiri_Fureai_spa_roten.JPG",
+        "description": "入浴料は600円。フロントで料金を払って、脱衣所に向かう。建物自体は大きくない。でも窓の外に広がる景色が、すべてをひっく..."
       }
     ],
     "shinkansenAccess": false,
@@ -24700,6 +24814,16 @@
       "離島の絶景",
       "山岳ハイキング",
       "海を眺める"
+    ],
+    "alternateNames": [
+      "利尻ふれあい温泉",
+      "利尻富士温泉"
+    ],
+    "keywords": [
+      "gen_北海_利尻ふれあい温泉",
+      "利尻ふれあい温泉",
+      "gen_北海_利尻富士温泉",
+      "利尻富士温泉"
     ]
   },
   {
@@ -24721,8 +24845,9 @@
     "description": "釧路空港から車で1時間ちょっと。気づいたら、霧の中にいた。阿寒湖は、そういう場所だ。ただ湖があるだけじゃない。アイヌの文化が生きていて、マリモがいて、硫黄の匂いがして。冬に来ると、もっと深くなる。凍てつく空気の中に、確かに温かいものがある。静まり返った湖の底で、マリモはひっそりと時を重ねる。焚き火の煙とアイヌの歌声が、胸の奥に眠っていた何かを揺り動かす場所。冬の阿寒湖は−20℃を下回る日もある。防寒は本気でやること。温泉街の宿は小さい宿が多く、早めに埋まる。特に冬の週末は1ヶ月前には予約を。遊覧船は季節で運航日が変わるので、必ず公式サイトで確認してから行くこと。",
     "tags": [
       "温泉",
+      "冬",
       "自然",
-      "冬"
+      "街歩き"
     ],
     "spots": [
       {
@@ -24739,6 +24864,11 @@
         "name": "双湖台",
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Lake_pennke2.jpg/500px-Lake_pennke2.jpg",
         "description": "阿寒横断道路を走ると、突然現れる展望台。道路沿いに車を止めて、階段を少し上るだけ。5分もかからない。でも、ここからじゃな..."
+      },
+      {
+        "name": "阿寒湖温泉",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Mt._Oakan_from_Akanko_spa.JPG/500px-Mt._Oakan_from_Akanko_spa.JPG",
+        "description": "阿寒湖温泉を代表するスポット。阿寒湖温泉は必見の場所です。"
       }
     ],
     "shinkansenAccess": false,
@@ -24878,6 +25008,13 @@
       "温泉がおすすめ",
       "1泊がおすすめ",
       "ゆっくり滞在"
+    ],
+    "alternateNames": [
+      "阿寒湖温泉"
+    ],
+    "keywords": [
+      "gen_北海_阿寒湖温泉",
+      "阿寒湖温泉"
     ]
   },
   {
@@ -77815,164 +77952,6 @@
     ]
   },
   {
-    "id": "takayama-kogen",
-    "name": "飛騨高山（北アルプス側）",
-    "type": "destination",
-    "region": "中部",
-    "hub": "岐阜",
-    "stayAllowed": [
-      "1night"
-    ],
-    "departures": [
-      "岐阜"
-    ],
-    "weight": 1.45,
-    "description": "寒いのに、来てしまった。標高2,156mの稜線を目指して、真冬の飛騨へ。北アルプスの懐に入ると、空気が変わる。白く静まり返った山並みを前にすると、なぜかほっとする自分がいた。温泉があって、山があって、古い宿がある。それだけで十分だと気づく旅だ。奥飛騨エリアは公共交通機関が少ない。冬は特に本数が減る。濃飛バスの時刻表は事前に印刷しておくこと。ロープウェイは悪天候で急運休になる。宿泊は早めに予約しないと冬季は埋まる。防寒具は東京の冬より2ランク上を想定して。",
-    "tags": [
-      "自然",
-      "温泉",
-      "冬"
-    ],
-    "spots": [
-      {
-        "name": "新穂高ロープウェイ",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Shinhotaka_Ropeway_logo.svg/500px-Shinhotaka_Ropeway_logo.svg.png",
-        "description": "第1ロープウェイで鍋平高原まで上がり、歩いて乗り継ぎ、第2ロープウェイへ。"
-      },
-      {
-        "name": "平湯温泉",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Hirayu_onsen02n3872.jpg/500px-Hirayu_onsen02n3872.jpg",
-        "description": "新穂高から戻ってくると、身体が冷え切っている。"
-      },
-      {
-        "name": "福地温泉",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Japan_Gifu_hida_relief_location_map.webp/500px-Japan_Gifu_hida_relief_location_map.webp.png",
-        "description": "平湯から車で10分。福地温泉は、知らないと通り過ぎる集落だ。旅館が数軒、小さな公衆浴場、そして「朝市」。ここの朝市は朝7..."
-      }
-    ],
-    "shinkansenAccess": false,
-    "requiresCar": true,
-    "hotelSearch": "飛騨高山（北アルプス側）",
-    "gateways": {
-      "rail": [
-        "高山駅"
-      ],
-      "airport": [],
-      "bus": [],
-      "ferry": []
-    },
-    "accessHub": null,
-    "railNote": null,
-    "secondaryTransport": "car",
-    "destType": "mountain",
-    "railGateway": "高山駅",
-    "busGateway": null,
-    "ferryGateway": null,
-    "airportGateway": null,
-    "prefecture": "岐阜県",
-    "lat": 36.2048,
-    "lng": 137.1897,
-    "stayBias": 1,
-    "airportHub": null,
-    "railProvider": "ekinet",
-    "travelTime": {
-      "tokyo": 280,
-      "osaka": 200,
-      "nagoya": 150,
-      "fukuoka": 430,
-      "takamatsu": 355,
-      "mito": 325,
-      "maebashi": 340,
-      "takasaki": 340,
-      "hamamatsu": 180,
-      "gifu": 170,
-      "kofu": 370,
-      "shingu": 320,
-      "tanabe": 290,
-      "shirahama": 300,
-      "kushimoto": 320,
-      "tottori": 320,
-      "shimonoseki": 460,
-      "saga": 460,
-      "oita": 490,
-      "beppu": 500
-    },
-    "stayRecommendation": "1night",
-    "city": "高山市",
-    "hubStation": "高山駅",
-    "accessStation": "高山駅",
-    "hotelArea": "gifu",
-    "hotelKeyword": "飛騨高山（北アルプス側）",
-    "finalPoint": "新穂高ロープウェイ",
-    "access": {
-      "steps": [
-        {
-          "type": "rail",
-          "to": "高山駅",
-          "provider": "えきねっと"
-        }
-      ]
-    },
-    "fallbackCity": "高山",
-    "gateway": null,
-    "situations": [
-      "solo",
-      "couple",
-      "friends"
-    ],
-    "catch": "新穂高の露天風呂から北アルプスを見て、山が全部目に入った。",
-    "primary": [
-      "自然",
-      "温泉"
-    ],
-    "secondary": [
-      "冬"
-    ],
-    "onsenLevel": 1,
-    "hasDirectFlight": false,
-    "mapPoint": "新穂高ロープウェイ",
-    "subType": "mountain",
-    "stayDescription": "山の宿で温泉に2回入って、部屋から星を見ながら眠る。",
-    "hubCity": "岐阜",
-    "stayPriority": "low",
-    "representativeStation": "高山駅",
-    "finalAccess": {
-      "type": "walk"
-    },
-    "accessPoint": {
-      "type": "station",
-      "name": "高山"
-    },
-    "staySearchUrl": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%E9%A3%9B%E9%A8%A8%E9%AB%98%E5%B1%B1%EF%BC%88%E5%8C%97%E3%82%A2%E3%83%AB%E3%83%97%E3%82%B9%E5%81%B4%EF%BC%89&m=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%E9%A3%9B%E9%A8%A8%E9%AB%98%E5%B1%B1%EF%BC%88%E5%8C%97%E3%82%A2%E3%83%AB%E3%83%97%E3%82%B9%E5%81%B4%EF%BC%89",
-    "bookingStation": {
-      "name": "高山駅",
-      "company": "JR"
-    },
-    "mainSpot": "新穂高ロープウェイ",
-    "stayArea": {
-      "rakuten": "飛騨高山（北アルプス側）",
-      "jalan": "飛騨高山（北アルプス側）"
-    },
-    "hotelLinks": {
-      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fgifu%2F",
-      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2594%25F2%2591%25CB%258D%2582%258E%2552%2581%2569%2596%256B%2583%2541%2583%258B%2583%2576%2583%2558%2591%25A4%2581%256A"
-    },
-    "tier": "spot",
-    "icCard": "suica",
-    "tier2": "spot",
-    "hubName": "岐阜",
-    "rentalCarRecommended": true,
-    "images": [
-      "/images/takayama-kogen/spot-1.jpg",
-      "/images/takayama-kogen/spot-2.jpg",
-      "/images/takayama-kogen/spot-3.jpg"
-    ],
-    "reasonChips": [
-      "温泉がおすすめ",
-      "1泊がおすすめ"
-    ]
-  },
-  {
     "id": "iga-ueno",
     "name": "伊賀上野",
     "type": "destination",
@@ -85729,158 +85708,6 @@
     "images": [
       "/images/gen_北海_愛山渓温泉/main.jpg",
       "/images/gen_北海_愛山渓温泉/spot-1.jpg"
-    ],
-    "reasonChips": [
-      "温泉がおすすめ",
-      "街歩き向け",
-      "ゆっくり滞在"
-    ]
-  },
-  {
-    "id": "gen_北海_阿寒湖温泉",
-    "name": "阿寒湖温泉",
-    "displayName": "阿寒湖温泉",
-    "prefecture": "北海道",
-    "region": "北海道",
-    "lat": 43.43333333,
-    "lng": 144.09444444,
-    "destType": "onsen",
-    "hubCity": "札幌",
-    "fallbackCity": "札幌",
-    "isStayable": true,
-    "_generated": true,
-    "_source": "wikipedia",
-    "stayDescription": "温泉に2回入って、部屋でゆっくりして寝る",
-    "tags": [
-      "温泉",
-      "自然",
-      "街歩き",
-      "冬"
-    ],
-    "primary": [
-      "温泉"
-    ],
-    "secondary": [
-      "自然",
-      "街歩き",
-      "冬"
-    ],
-    "weight": 1.55,
-    "stayPriority": "high",
-    "onsenLevel": 3,
-    "accessStation": "札幌駅",
-    "representativeStation": "札幌駅",
-    "railProvider": "ekinet",
-    "jrArea": "east",
-    "finalAccess": {
-      "type": "train",
-      "line": "在来線",
-      "to": "阿寒湖温泉"
-    },
-    "transportHubs": {
-      "rail": "札幌駅",
-      "city": "札幌"
-    },
-    "gateway": null,
-    "departures": [
-      "札幌",
-      "仙台",
-      "東京",
-      "名古屋",
-      "大阪",
-      "広島",
-      "福岡",
-      "和歌山",
-      "釧路",
-      "帯広",
-      "北見"
-    ],
-    "isIsland": false,
-    "hub": "札幌",
-    "stayAllowed": [
-      "2night"
-    ],
-    "spots": [
-      {
-        "name": "阿寒湖温泉",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Mt._Oakan_from_Akanko_spa.JPG/500px-Mt._Oakan_from_Akanko_spa.JPG",
-        "description": "阿寒湖温泉を代表するスポット。阿寒湖温泉は必見の場所です。"
-      }
-    ],
-    "description": "マイナス15度の朝、湖面から白い霧が立ち上っている。阿寒湖は、冬こそ本気を出す場所だ。温泉街の路地を歩けば、アイヌの木彫りの匂いがする。湖を渡る風は刺さるように冷たいのに、なぜか離れたくない。そういう場所が、ここにある。レンタカーがあると動きやすいが、温泉街自体は徒歩で十分まわれる。冬は路面凍結が激しいので、スパイクブーツ必須。宿は小さな旅館のほうが温泉街の空気に近い。大型ホテルは便利だが、街歩きから遠くなる。",
-    "catch": "阿寒湖温泉で温泉に2回入って、部屋でゆっくりして寝る",
-    "requiresCar": false,
-    "type": "destination",
-    "subType": "onsen",
-    "city": "札幌",
-    "hubStation": "札幌駅",
-    "hotelArea": "北海道",
-    "hotelSearch": "阿寒湖温泉",
-    "hotelKeyword": "阿寒湖温泉",
-    "travelTime": {
-      "tokyo": 623,
-      "nagoya": 724,
-      "osaka": 793,
-      "takamatsu": 859,
-      "fukuoka": 1028,
-      "wakayama": 823,
-      "mito": 668,
-      "maebashi": 683,
-      "takasaki": 683,
-      "hamamatsu": 754,
-      "gifu": 744,
-      "kofu": 713,
-      "shingu": 913,
-      "tanabe": 883,
-      "shirahama": 893,
-      "kushimoto": 913,
-      "tottori": 913,
-      "shimonoseki": 1058,
-      "saga": 1058,
-      "oita": 1088,
-      "beppu": 1098
-    },
-    "stayRecommendation": "1night",
-    "secondaryTransport": "bus",
-    "stayBias": "destination",
-    "airportHub": null,
-    "situations": [
-      "solo",
-      "couple",
-      "friends"
-    ],
-    "mapPoint": "阿寒湖温泉",
-    "railGateway": "札幌駅",
-    "railNote": "バス",
-    "hasDirectFlight": false,
-    "airportGateway": null,
-    "busGateway": null,
-    "ferryGateway": null,
-    "gateways": [],
-    "access": {
-      "steps": []
-    },
-    "localAccess": null,
-    "_enriched": true,
-    "staySearchUrl": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%E9%98%BF%E5%AF%92%E6%B9%96%E6%B8%A9%E6%B3%89&m=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%E9%98%BF%E5%AF%92%E6%B9%96%E6%B8%A9%E6%B3%89",
-    "bookingStation": null,
-    "mainSpot": "阿寒湖温泉",
-    "stayArea": {
-      "rakuten": "阿寒湖温泉",
-      "jalan": "阿寒湖温泉"
-    },
-    "hotelLinks": {
-      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fhokkaido%2F",
-      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2596%256B%258A%2543%2593%25B9%2520%258E%2544%2596%2579%258E%2573"
-    },
-    "tier": "area",
-    "icCard": "suica",
-    "tier2": "area",
-    "hubName": "札幌",
-    "rentalCarRecommended": true,
-    "images": [
-      "/images/gen_北海_阿寒湖温泉/main.jpg",
-      "/images/gen_北海_阿寒湖温泉/spot-1.jpg"
     ],
     "reasonChips": [
       "温泉がおすすめ",
@@ -135528,163 +135355,6 @@
     ]
   },
   {
-    "id": "gen_北海_利尻富士温泉",
-    "name": "利尻富士温泉",
-    "displayName": "利尻富士温泉",
-    "prefecture": "北海道",
-    "region": "北海道",
-    "lat": 45.24002778,
-    "lng": 141.21625,
-    "destType": "onsen",
-    "hubCity": "札幌",
-    "fallbackCity": "札幌",
-    "isStayable": true,
-    "_generated": true,
-    "_source": "wikipedia",
-    "stayDescription": "温泉に2回入って、部屋でゆっくりして寝る",
-    "tags": [
-      "温泉",
-      "自然",
-      "街歩き",
-      "冬"
-    ],
-    "primary": [
-      "温泉"
-    ],
-    "secondary": [
-      "自然",
-      "街歩き",
-      "冬"
-    ],
-    "weight": 1.55,
-    "stayPriority": "high",
-    "onsenLevel": 3,
-    "accessStation": "札幌駅",
-    "representativeStation": "札幌駅",
-    "railProvider": "ekinet",
-    "jrArea": "east",
-    "finalAccess": {
-      "type": "train",
-      "line": "在来線",
-      "to": "利尻富士温泉"
-    },
-    "transportHubs": {
-      "rail": "札幌駅",
-      "city": "札幌"
-    },
-    "gateway": null,
-    "departures": [
-      "札幌",
-      "仙台",
-      "東京",
-      "名古屋",
-      "大阪",
-      "広島",
-      "福岡",
-      "和歌山",
-      "釧路",
-      "帯広",
-      "北見"
-    ],
-    "isIsland": false,
-    "hub": "札幌",
-    "stayAllowed": [
-      "2night"
-    ],
-    "spots": [
-      {
-        "name": "利尻富士温泉",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Rishirifuhi_spa_2011.JPG/500px-Rishirifuhi_spa_2011.JPG",
-        "description": "鴛泊港から歩いて15分ほど。住宅街を抜けた先に、こじんまりした建物がある。入浴料は600円。シャンプーは持参か、フロント..."
-      }
-    ],
-    "description": "フェリーを降りた瞬間、目の前にドンと利尻富士が現れた。島全体が、あの山の足元に広がっている。冬の利尻は、観光客がほとんどいない。その静けさの中に、島の本音がある。温泉に浸かりながら、雪をかぶった利尻富士を眺める。そんな時間を求めて、また来てしまった。冬のフェリーは欠航が多い。稚内〜鴛泊は約1時間40分。天候次第で急に止まるから、日程には必ず余裕を持つこと。レンタカーは台数が少なく、冬季は要予約。防寒着は本州の感覚より1段階厚めにするのが正解。",
-    "catch": "利尻富士温泉で温泉に2回入って、部屋でゆっくりして寝る",
-    "requiresCar": false,
-    "type": "destination",
-    "subType": "onsen",
-    "city": "札幌",
-    "hubStation": "札幌駅",
-    "hotelArea": "北海道",
-    "hotelSearch": "利尻富士温泉",
-    "hotelKeyword": "利尻富士温泉",
-    "travelTime": {
-      "tokyo": 702,
-      "nagoya": 766,
-      "osaka": 822,
-      "takamatsu": 874,
-      "fukuoka": 1015,
-      "wakayama": 852,
-      "mito": 747,
-      "maebashi": 762,
-      "takasaki": 762,
-      "hamamatsu": 796,
-      "gifu": 786,
-      "kofu": 792,
-      "shingu": 942,
-      "tanabe": 912,
-      "shirahama": 922,
-      "kushimoto": 942,
-      "tottori": 942,
-      "shimonoseki": 1045,
-      "saga": 1045,
-      "oita": 1075,
-      "beppu": 1085
-    },
-    "stayRecommendation": "1night",
-    "secondaryTransport": "bus",
-    "stayBias": "destination",
-    "airportHub": null,
-    "situations": [
-      "solo",
-      "couple",
-      "friends"
-    ],
-    "mapPoint": "利尻富士温泉",
-    "railGateway": "札幌駅",
-    "railNote": "バス",
-    "hasDirectFlight": false,
-    "airportGateway": null,
-    "busGateway": null,
-    "ferryGateway": null,
-    "gateways": [],
-    "access": {
-      "steps": []
-    },
-    "localAccess": null,
-    "_enriched": true,
-    "staySearchUrl": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%E5%88%A9%E5%B0%BB%E5%AF%8C%E5%A3%AB%E6%B8%A9%E6%B3%89&m=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%E5%88%A9%E5%B0%BB%E5%AF%8C%E5%A3%AB%E6%B8%A9%E6%B3%89",
-    "bookingStation": null,
-    "mainSpot": "利尻富士温泉",
-    "stayArea": {
-      "rakuten": "利尻富士温泉",
-      "jalan": "利尻富士温泉"
-    },
-    "hotelLinks": {
-      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fhokkaido%2F",
-      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2596%256B%258A%2543%2593%25B9%2520%258E%2544%2596%2579%258E%2573"
-    },
-    "tier": "area",
-    "icCard": "suica",
-    "tier2": "area",
-    "hubName": "札幌",
-    "unsplashUrl": "https://images.unsplash.com/photo-1579243914286-61970046900f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlODglQTklRTUlQjAlQkIlRTUlQUYlOEMlRTUlQTMlQUIlRTYlQjglQTklRTYlQjMlODklMjAlRTUlODglQTklRTUlQjAlQkIlRTUlQUYlOEMlRTUlQTMlQUIlRTYlQjglQTklRTYlQjMlODl8ZW58MHwwfHx8MTc3ODQ1NzY0NXww&ixlib=rb-4.1.0&q=80&w=1080",
-    "unsplashThumbUrl": "https://images.unsplash.com/photo-1579243914286-61970046900f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlODglQTklRTUlQjAlQkIlRTUlQUYlOEMlRTUlQTMlQUIlRTYlQjglQTklRTYlQjMlODklMjAlRTUlODglQTklRTUlQjAlQkIlRTUlQUYlOEMlRTUlQTMlQUIlRTYlQjglQTklRTYlQjMlODl8ZW58MHwwfHx8MTc3ODQ1NzY0NXww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Natalie Fung",
-    "unsplashCreditUrl": "https://unsplash.com/@nataliefmw?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/gray-house-under-brown-mountain-during-daytime-5v7jux4wZWI?utm_source=dokoiko&utm_medium=referral",
-    "rentalCarRecommended": true,
-    "images": [
-      "/images/gen_北海_利尻富士温泉/main.jpg",
-      "/images/gen_北海_利尻富士温泉/spot-1.jpg"
-    ],
-    "reasonChips": [
-      "温泉がおすすめ",
-      "街歩き向け",
-      "ゆっくり滞在"
-    ]
-  },
-  {
     "id": "gen_茨城_加波山",
     "name": "加波山",
     "displayName": "加波山",
@@ -141552,163 +141222,6 @@
     ]
   },
   {
-    "id": "gen_栃木_益子温泉",
-    "name": "益子温泉",
-    "displayName": "益子温泉",
-    "prefecture": "栃木県",
-    "region": "関東",
-    "lat": 36.45116667,
-    "lng": 140.10277778,
-    "destType": "onsen",
-    "hubCity": "宇都宮",
-    "fallbackCity": "宇都宮",
-    "isStayable": true,
-    "_generated": true,
-    "_source": "wikipedia",
-    "stayDescription": "温泉に2回入って、部屋でゆっくりして寝る",
-    "tags": [
-      "温泉",
-      "自然",
-      "街歩き",
-      "冬"
-    ],
-    "primary": [
-      "温泉"
-    ],
-    "secondary": [
-      "自然",
-      "街歩き",
-      "冬"
-    ],
-    "weight": 1.55,
-    "stayPriority": "high",
-    "onsenLevel": 3,
-    "accessStation": "宇都宮駅",
-    "representativeStation": "宇都宮駅",
-    "railProvider": "ekinet",
-    "jrArea": "east",
-    "finalAccess": {
-      "type": "train",
-      "line": "在来線",
-      "to": "益子温泉"
-    },
-    "transportHubs": {
-      "rail": "宇都宮駅",
-      "city": "宇都宮"
-    },
-    "gateway": null,
-    "departures": [
-      "札幌",
-      "仙台",
-      "東京",
-      "名古屋",
-      "大阪",
-      "広島",
-      "福岡",
-      "和歌山",
-      "水戸",
-      "前橋",
-      "高崎"
-    ],
-    "isIsland": false,
-    "hub": "宇都宮",
-    "stayAllowed": [
-      "2night"
-    ],
-    "spots": [
-      {
-        "name": "益子温泉",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Mashikokan.jpg/500px-Mashikokan.jpg",
-        "description": "正直、観光の「おまけ」くらいに思っている。"
-      }
-    ],
-    "description": "益子焼の町に湧いた温泉。陶芸の里に新しく生まれたこの湯は、江戸情緒と現代が交わる不思議な空間だ。町を歩けば、登窯の煙と温泉の湯気が絡み合う。益子焼の工房では、職人の手がろくろを回し、土の触感が指に残る。そして温泉に浸かると、その土の温もりがじんわり肌に戻ってくるようだ。冬、雪が降り積もる中での外湯は、焼き物の冷たさと湯の温かさの対比が生きる。ここで時間は、ゆっくりと形作られていく。",
-    "catch": "益子温泉で温泉に2回入って、部屋でゆっくりして寝る",
-    "requiresCar": false,
-    "type": "destination",
-    "subType": "onsen",
-    "city": "宇都宮",
-    "hubStation": "宇都宮駅",
-    "hotelArea": "栃木県",
-    "hotelSearch": "益子温泉",
-    "hotelKeyword": "益子温泉",
-    "travelTime": {
-      "tokyo": 114,
-      "nagoya": 253,
-      "osaka": 336,
-      "takamatsu": 418,
-      "fukuoka": 623,
-      "wakayama": 366,
-      "mito": 159,
-      "maebashi": 174,
-      "takasaki": 174,
-      "hamamatsu": 283,
-      "gifu": 273,
-      "kofu": 204,
-      "shingu": 456,
-      "tanabe": 426,
-      "shirahama": 436,
-      "kushimoto": 456,
-      "tottori": 456,
-      "shimonoseki": 653,
-      "saga": 653,
-      "oita": 683,
-      "beppu": 693
-    },
-    "stayRecommendation": "1night",
-    "secondaryTransport": "bus",
-    "stayBias": "destination",
-    "airportHub": null,
-    "situations": [
-      "solo",
-      "couple",
-      "friends"
-    ],
-    "mapPoint": "益子温泉",
-    "railGateway": "宇都宮駅",
-    "railNote": "バス",
-    "hasDirectFlight": false,
-    "airportGateway": null,
-    "busGateway": null,
-    "ferryGateway": null,
-    "gateways": [],
-    "access": {
-      "steps": []
-    },
-    "localAccess": null,
-    "_enriched": true,
-    "staySearchUrl": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%E7%9B%8A%E5%AD%90%E6%B8%A9%E6%B3%89&m=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%E7%9B%8A%E5%AD%90%E6%B8%A9%E6%B3%89",
-    "bookingStation": null,
-    "mainSpot": "益子温泉",
-    "stayArea": {
-      "rakuten": "益子温泉",
-      "jalan": "益子温泉"
-    },
-    "hotelLinks": {
-      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Ftochigi%2F",
-      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2593%25C8%2596%25D8%258C%25A7%2520%2589%2546%2593%2573%258B%257B"
-    },
-    "tier": "area",
-    "icCard": "suica",
-    "tier2": "area",
-    "hubName": "宇都宮",
-    "rentalCarRecommended": true,
-    "unsplashUrl": "https://images.unsplash.com/photo-1734244362875-3c1ce4090e0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclOUIlOEElRTUlQUQlOTAlRTYlQjglQTklRTYlQjMlODklMjAlRTclOUIlOEElRTUlQUQlOTAlRTYlQjglQTklRTYlQjMlODl8ZW58MHwwfHx8MTc3ODQ1OTM4NXww&ixlib=rb-4.1.0&q=80&w=1080",
-    "unsplashThumbUrl": "https://images.unsplash.com/photo-1734244362875-3c1ce4090e0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclOUIlOEElRTUlQUQlOTAlRTYlQjglQTklRTYlQjMlODklMjAlRTclOUIlOEElRTUlQUQlOTAlRTYlQjglQTklRTYlQjMlODl8ZW58MHwwfHx8MTc3ODQ1OTM4NXww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Kouji Tsuru",
-    "unsplashCreditUrl": "https://unsplash.com/@pafuxu?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-spa-with-a-large-blue-pool-surrounded-by-rocks-Oof_9jsexWo?utm_source=dokoiko&utm_medium=referral",
-    "images": [
-      "/images/gen_栃木_益子温泉/main.jpg",
-      "/images/gen_栃木_益子温泉/spot-1.jpg"
-    ],
-    "reasonChips": [
-      "温泉がおすすめ",
-      "街歩き向け",
-      "ゆっくり滞在"
-    ]
-  },
-  {
     "id": "gen_栃木_湯西川温泉",
     "name": "湯西川温泉",
     "displayName": "湯西川温泉",
@@ -144272,152 +143785,6 @@
     "images": [
       "/images/gen_栃木_日光杉並木/main.jpg",
       "/images/gen_栃木_日光杉並木/spot-1.jpg"
-    ],
-    "reasonChips": [
-      "ゆっくり滞在"
-    ]
-  },
-  {
-    "id": "gen_栃木_益子町",
-    "name": "益子町",
-    "displayName": "益子町",
-    "prefecture": "栃木県",
-    "region": "関東",
-    "lat": 36.46733,
-    "lng": 140.09336,
-    "destType": "sight",
-    "hubCity": "宇都宮",
-    "fallbackCity": "宇都宮",
-    "isStayable": true,
-    "_generated": true,
-    "_source": "wikipedia",
-    "stayDescription": "見どころが多く、1泊してゆっくり巡る",
-    "tags": [
-      "観光",
-      "自然"
-    ],
-    "primary": [
-      "観光"
-    ],
-    "secondary": [
-      "自然"
-    ],
-    "weight": 0.9,
-    "stayPriority": "medium",
-    "onsenLevel": 0,
-    "accessStation": "宇都宮駅",
-    "representativeStation": "宇都宮駅",
-    "railProvider": "ekinet",
-    "jrArea": "east",
-    "finalAccess": {
-      "type": "bus",
-      "line": null,
-      "to": "益子町"
-    },
-    "transportHubs": {
-      "rail": "宇都宮駅",
-      "city": "宇都宮"
-    },
-    "gateway": null,
-    "departures": [
-      "札幌",
-      "仙台",
-      "東京",
-      "名古屋",
-      "大阪",
-      "広島",
-      "福岡",
-      "和歌山",
-      "水戸",
-      "前橋",
-      "高崎"
-    ],
-    "isIsland": false,
-    "hub": "宇都宮",
-    "stayAllowed": [
-      "2night"
-    ],
-    "spots": [
-      {
-        "name": "益子町",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/2023%E5%B9%B4%EF%BC%88%E4%BB%A4%E5%92%8C5%E5%B9%B4%EF%BC%89%E6%98%A5%E3%81%AE%E7%9B%8A%E5%AD%90%E9%99%B6%E5%99%A8%E5%B8%82%E3%80%8C%E7%9B%8A%E5%AD%90%E7%84%BC%E7%AA%AF%E5%85%83%E5%85%B1%E8%B2%A9%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%80%8D%E3%80%82.jpg/500px-2023%E5%B9%B4%EF%BC%88%E4%BB%A4%E5%92%8C5%E5%B9%B4%EF%BC%89%E6%98%A5%E3%81%AE%E7%9B%8A%E5%AD%90%E9%99%B6%E5%99%A8%E5%B8%82%E3%80%8C%E7%9B%8A%E5%AD%90%E7%84%BC%E7%AA%AF%E5%85%83%E5%85%B1%E8%B2%A9%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%80%8D%E3%80%82.jpg",
-        "description": "益子町を代表するスポット。益子町は必見の場所です。"
-      }
-    ],
-    "description": "焼きもの好きなら、ここは聖地だ。益子町の土は、陶工たちの指を通して何百年も呼吸してきた。民芸の巨匠・濱田庄司が築いた伝統は、今も200軒以上の窯元に受け継がれている。工房の中に足を踏み入れると、土の匂いと焼成の温もりが全身を包む。毎年春と秋に開かれる陶芸市では、職人の手から生まれたばかりの器が並ぶ。赤土に白い釉薬が映える益子焼は、使い込むほどに味わい深くなる。そんな職人たちの時間が流れる町。",
-    "catch": "益子町で見どころが多く、1泊してゆっくり巡る",
-    "requiresCar": false,
-    "type": "destination",
-    "subType": "sight",
-    "city": "宇都宮",
-    "hubStation": "宇都宮駅",
-    "hotelArea": "栃木県",
-    "hotelSearch": "益子町",
-    "hotelKeyword": "益子町",
-    "travelTime": {
-      "tokyo": 115,
-      "nagoya": 253,
-      "osaka": 336,
-      "takamatsu": 418,
-      "fukuoka": 623,
-      "wakayama": 366,
-      "mito": 160,
-      "maebashi": 175,
-      "takasaki": 175,
-      "hamamatsu": 283,
-      "gifu": 273,
-      "kofu": 205,
-      "shingu": 456,
-      "tanabe": 426,
-      "shirahama": 436,
-      "kushimoto": 456,
-      "tottori": 456,
-      "shimonoseki": 653,
-      "saga": 653,
-      "oita": 683,
-      "beppu": 693
-    },
-    "stayRecommendation": "1night",
-    "secondaryTransport": "bus",
-    "stayBias": "hub",
-    "airportHub": null,
-    "situations": [
-      "solo",
-      "couple",
-      "friends"
-    ],
-    "mapPoint": "益子町",
-    "railGateway": "宇都宮駅",
-    "railNote": "バス",
-    "hasDirectFlight": false,
-    "airportGateway": null,
-    "busGateway": null,
-    "ferryGateway": null,
-    "gateways": [],
-    "access": {
-      "steps": []
-    },
-    "localAccess": null,
-    "_enriched": true,
-    "staySearchUrl": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%E5%AE%87%E9%83%BD%E5%AE%AE&m=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%E5%AE%87%E9%83%BD%E5%AE%AE",
-    "bookingStation": null,
-    "mainSpot": "益子町",
-    "stayArea": {
-      "rakuten": "益子町",
-      "jalan": "益子町"
-    },
-    "hotelLinks": {
-      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Ftochigi%2F",
-      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2593%25C8%2596%25D8%258C%25A7%2520%2589%2546%2593%2573%258B%257B"
-    },
-    "tier": "spot",
-    "icCard": "suica",
-    "tier2": "spot",
-    "hubName": "宇都宮",
-    "rentalCarRecommended": true,
-    "images": [
-      "/images/gen_栃木_益子町/main.jpg",
-      "/images/gen_栃木_益子町/spot-1.jpg"
     ],
     "reasonChips": [
       "ゆっくり滞在"
@@ -152472,314 +151839,6 @@
     "images": [
       "/images/gen_北海_美利河温泉/main.jpg",
       "/images/gen_北海_美利河温泉/spot-1.jpg"
-    ],
-    "reasonChips": [
-      "温泉がおすすめ",
-      "街歩き向け",
-      "ゆっくり滞在"
-    ]
-  },
-  {
-    "id": "gen_北海_利尻ふれあい温泉",
-    "name": "利尻ふれあい温泉",
-    "displayName": "利尻ふれあい温泉",
-    "prefecture": "北海道",
-    "region": "北海道",
-    "lat": 45.18483333,
-    "lng": 141.13358333,
-    "destType": "onsen",
-    "hubCity": "札幌",
-    "fallbackCity": "札幌",
-    "isStayable": true,
-    "_generated": true,
-    "_source": "wikipedia",
-    "stayDescription": "温泉に2回入って、部屋でゆっくりして寝る",
-    "tags": [
-      "温泉",
-      "自然",
-      "街歩き",
-      "冬"
-    ],
-    "primary": [
-      "温泉"
-    ],
-    "secondary": [
-      "自然",
-      "街歩き",
-      "冬"
-    ],
-    "weight": 1.55,
-    "stayPriority": "high",
-    "onsenLevel": 3,
-    "accessStation": "札幌駅",
-    "representativeStation": "札幌駅",
-    "railProvider": "ekinet",
-    "jrArea": "east",
-    "finalAccess": {
-      "type": "train",
-      "line": "在来線",
-      "to": "利尻ふれあい温泉"
-    },
-    "transportHubs": {
-      "rail": "札幌駅",
-      "city": "札幌"
-    },
-    "gateway": null,
-    "departures": [
-      "札幌",
-      "仙台",
-      "東京",
-      "名古屋",
-      "大阪",
-      "広島",
-      "福岡",
-      "和歌山",
-      "釧路",
-      "帯広",
-      "北見"
-    ],
-    "isIsland": false,
-    "hub": "札幌",
-    "stayAllowed": [
-      "2night"
-    ],
-    "spots": [
-      {
-        "name": "利尻ふれあい温泉",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Rishiri_Fureai_spa_roten.JPG/500px-Rishiri_Fureai_spa_roten.JPG",
-        "description": "入浴料は600円。フロントで料金を払って、脱衣所に向かう。建物自体は大きくない。でも窓の外に広がる景色が、すべてをひっく..."
-      }
-    ],
-    "description": "利尻島の北端、日本海に身を投げ出すような場所に湯は湧く。利尻ふれあい温泉から眺める利尻富士は、冬の晴れた日に、雪化粧をして凛々しい姿を見せる。露天風呂に浸かれば、塩辛い潮風が頬を撫で、温泉の鉱物臭と海の磯の香りが混ざり合う。昭和五十年代に開発された比較的新しい温泉だが、秘境の湯という趣は変わらない。島民の生活を支える温泉として、観光客も地元の人も同じ湯に身を委ねる。冬の北海道の静寂の中で、湯気が物語る時間がある。",
-    "catch": "利尻ふれあい温泉で温泉に2回入って、部屋でゆっくりして寝る",
-    "requiresCar": false,
-    "type": "destination",
-    "subType": "onsen",
-    "city": "札幌",
-    "hubStation": "札幌駅",
-    "hotelArea": "北海道",
-    "hotelSearch": "利尻ふれあい温泉",
-    "hotelKeyword": "利尻ふれあい温泉",
-    "travelTime": {
-      "tokyo": 698,
-      "nagoya": 762,
-      "osaka": 817,
-      "takamatsu": 869,
-      "fukuoka": 1009,
-      "wakayama": 847,
-      "mito": 743,
-      "maebashi": 758,
-      "takasaki": 758,
-      "hamamatsu": 792,
-      "gifu": 782,
-      "kofu": 788,
-      "shingu": 937,
-      "tanabe": 907,
-      "shirahama": 917,
-      "kushimoto": 937,
-      "tottori": 937,
-      "shimonoseki": 1039,
-      "saga": 1039,
-      "oita": 1069,
-      "beppu": 1079
-    },
-    "stayRecommendation": "1night",
-    "secondaryTransport": "bus",
-    "stayBias": "destination",
-    "airportHub": null,
-    "situations": [
-      "solo",
-      "couple",
-      "friends"
-    ],
-    "mapPoint": "利尻ふれあい温泉",
-    "railGateway": "札幌駅",
-    "railNote": "バス",
-    "hasDirectFlight": false,
-    "airportGateway": null,
-    "busGateway": null,
-    "ferryGateway": null,
-    "gateways": [],
-    "access": {
-      "steps": []
-    },
-    "localAccess": null,
-    "_enriched": true,
-    "staySearchUrl": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%E5%88%A9%E5%B0%BB%E3%81%B5%E3%82%8C%E3%81%82%E3%81%84%E6%B8%A9%E6%B3%89&m=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%E5%88%A9%E5%B0%BB%E3%81%B5%E3%82%8C%E3%81%82%E3%81%84%E6%B8%A9%E6%B3%89",
-    "bookingStation": null,
-    "mainSpot": "利尻ふれあい温泉",
-    "stayArea": {
-      "rakuten": "利尻ふれあい温泉",
-      "jalan": "利尻ふれあい温泉"
-    },
-    "hotelLinks": {
-      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fhokkaido%2F",
-      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2596%256B%258A%2543%2593%25B9%2520%258E%2544%2596%2579%258E%2573"
-    },
-    "tier": "area",
-    "icCard": "suica",
-    "tier2": "area",
-    "hubName": "札幌",
-    "unsplashUrl": "https://images.unsplash.com/photo-1734244362875-3c1ce4090e0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlODglQTklRTUlQjAlQkIlRTMlODElQjUlRTMlODIlOEMlRTMlODElODIlRTMlODElODQlRTYlQjglQTklRTYlQjMlODklMjAlRTUlODglQTklRTUlQjAlQkIlRTMlODElQjUlRTMlODIlOEMlRTMlODElODIlRTMlODElODQlRTYlQjglQTklRTYlQjMlODl8ZW58MHwwfHx8MTc3ODQ2MjM1OHww&ixlib=rb-4.1.0&q=80&w=1080",
-    "unsplashThumbUrl": "https://images.unsplash.com/photo-1734244362875-3c1ce4090e0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlODglQTklRTUlQjAlQkIlRTMlODElQjUlRTMlODIlOEMlRTMlODElODIlRTMlODElODQlRTYlQjglQTklRTYlQjMlODklMjAlRTUlODglQTklRTUlQjAlQkIlRTMlODElQjUlRTMlODIlOEMlRTMlODElODIlRTMlODElODQlRTYlQjglQTklRTYlQjMlODl8ZW58MHwwfHx8MTc3ODQ2MjM1OHww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Kouji Tsuru",
-    "unsplashCreditUrl": "https://unsplash.com/@pafuxu?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-spa-with-a-large-blue-pool-surrounded-by-rocks-Oof_9jsexWo?utm_source=dokoiko&utm_medium=referral",
-    "rentalCarRecommended": true,
-    "images": [
-      "/images/gen_北海_利尻ふれあい温泉/main.jpg",
-      "/images/gen_北海_利尻ふれあい温泉/spot-1.jpg"
-    ],
-    "reasonChips": [
-      "温泉がおすすめ",
-      "街歩き向け",
-      "ゆっくり滞在"
-    ]
-  },
-  {
-    "id": "gen_北海_礼文島温泉",
-    "name": "礼文島温泉",
-    "displayName": "礼文島温泉",
-    "prefecture": "北海道",
-    "region": "北海道",
-    "lat": 45.30013889,
-    "lng": 141.04752778,
-    "destType": "onsen",
-    "hubCity": "札幌",
-    "fallbackCity": "札幌",
-    "isStayable": true,
-    "_generated": true,
-    "_source": "wikipedia",
-    "stayDescription": "温泉に2回入って、部屋でゆっくりして寝る",
-    "tags": [
-      "温泉",
-      "自然",
-      "街歩き",
-      "冬"
-    ],
-    "primary": [
-      "温泉"
-    ],
-    "secondary": [
-      "自然",
-      "街歩き",
-      "冬"
-    ],
-    "weight": 1.55,
-    "stayPriority": "high",
-    "onsenLevel": 3,
-    "accessStation": "札幌駅",
-    "representativeStation": "札幌駅",
-    "railProvider": "ekinet",
-    "jrArea": "east",
-    "finalAccess": {
-      "type": "train",
-      "line": "在来線",
-      "to": "礼文島温泉"
-    },
-    "transportHubs": {
-      "rail": "札幌駅",
-      "city": "札幌"
-    },
-    "gateway": null,
-    "departures": [
-      "札幌",
-      "仙台",
-      "東京",
-      "名古屋",
-      "大阪",
-      "広島",
-      "福岡",
-      "和歌山",
-      "釧路",
-      "帯広",
-      "北見"
-    ],
-    "isIsland": false,
-    "hub": "札幌",
-    "stayAllowed": [
-      "2night"
-    ],
-    "spots": [
-      {
-        "name": "礼文島温泉",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Usuyuki_no_yu_2011.JPG/500px-Usuyuki_no_yu_2011.JPG",
-        "description": "稚内からフェリーで約2時間。香深港に着いたのは、もう夕方近かった。宿に荷物を置いてすぐ、温泉へ向かった。「うすゆきの湯」..."
-      }
-    ],
-    "description": "フェリーを降りた瞬間、風が違う。本土とは明らかに空気の密度が違う。礼文島は、北緯45度。冬になると観光客はほぼいなくなる。そこに温泉がある。荒れた日本海を窓越しに見ながら、ひとりで湯に浸かる時間。それだけで、来た意味があった。冬のフェリーは欠航率が高い。帰りの便は必ず1〜2日の余裕を持つこと。コンビニはないので、稚内で食料・飲み物を調達しておくと安心。防寒は本気で準備すること。ダウン＋防風アウターの二重が最低ライン。",
-    "catch": "礼文島温泉で温泉に2回入って、部屋でゆっくりして寝る",
-    "requiresCar": false,
-    "type": "destination",
-    "subType": "onsen",
-    "city": "札幌",
-    "hubStation": "札幌駅",
-    "hotelArea": "北海道",
-    "hotelSearch": "礼文島温泉",
-    "hotelKeyword": "礼文島温泉",
-    "travelTime": {
-      "tokyo": 705,
-      "nagoya": 768,
-      "osaka": 822,
-      "takamatsu": 874,
-      "fukuoka": 1013,
-      "wakayama": 852,
-      "mito": 750,
-      "maebashi": 765,
-      "takasaki": 765,
-      "hamamatsu": 798,
-      "gifu": 788,
-      "kofu": 795,
-      "shingu": 942,
-      "tanabe": 912,
-      "shirahama": 922,
-      "kushimoto": 942,
-      "tottori": 942,
-      "shimonoseki": 1043,
-      "saga": 1043,
-      "oita": 1073,
-      "beppu": 1083
-    },
-    "stayRecommendation": "1night",
-    "secondaryTransport": "bus",
-    "stayBias": "destination",
-    "airportHub": null,
-    "situations": [
-      "solo",
-      "couple",
-      "friends"
-    ],
-    "mapPoint": "礼文島温泉",
-    "railGateway": "札幌駅",
-    "railNote": "バス",
-    "hasDirectFlight": false,
-    "airportGateway": null,
-    "busGateway": null,
-    "ferryGateway": null,
-    "gateways": [],
-    "access": {
-      "steps": []
-    },
-    "localAccess": null,
-    "_enriched": true,
-    "staySearchUrl": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%E7%A4%BC%E6%96%87%E5%B3%B6%E6%B8%A9%E6%B3%89&m=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%E7%A4%BC%E6%96%87%E5%B3%B6%E6%B8%A9%E6%B3%89",
-    "bookingStation": null,
-    "mainSpot": "礼文島温泉",
-    "stayArea": {
-      "rakuten": "礼文島温泉",
-      "jalan": "礼文島温泉"
-    },
-    "hotelLinks": {
-      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fhokkaido%2F",
-      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2596%256B%258A%2543%2593%25B9%2520%258E%2544%2596%2579%258E%2573"
-    },
-    "tier": "area",
-    "icCard": "suica",
-    "tier2": "area",
-    "hubName": "札幌",
-    "rentalCarRecommended": true,
-    "images": [
-      "/images/gen_北海_礼文島温泉/spot-1.jpg"
     ],
     "reasonChips": [
       "温泉がおすすめ",
@@ -197413,9 +196472,12 @@
       "名古屋"
     ],
     "weight": 1,
-    "description": "飛騨高山の古い町並みを歩けば、江戸から明治へ移りゆく時間を足で感じられる。宮川朝市の声と活気に包まれ、農家の朝の営みが今も続いていることに驚く。高山陣屋の門を潜れば、徳川の権力がこの山深い地に及んでいたことが分かる。朝の空気の冷たさ、醤油と味噌の熟成した香りが町全体を包む。格子戸越しに見える暮らしぶりは、懐かしさというより、何か現在の生活が一時的なものに思える瞬間さえ与える。ここは、古さが現在と並存する、そんな街だ。",
+    "description": "寒いのに、来てしまった。標高2,156mの稜線を目指して、真冬の飛騨へ。北アルプスの懐に入ると、空気が変わる。白く静まり返った山並みを前にすると、なぜかほっとする自分がいた。温泉があって、山があって、古い宿がある。それだけで十分だと気づく旅だ。奥飛騨エリアは公共交通機関が少ない。冬は特に本数が減る。濃飛バスの時刻表は事前に印刷しておくこと。ロープウェイは悪天候で急運休になる。宿泊は早めに予約しないと冬季は埋まる。防寒具は東京の冬より2ランク上を想定して。",
     "tags": [
+      "温泉",
       "街歩き",
+      "自然",
+      "冬",
       "歴史",
       "グルメ"
     ],
@@ -197431,6 +196493,21 @@
       {
         "name": "宮川朝市",
         "description": "飛騨高山を代表するスポット。宮川朝市は必見の場所です。"
+      },
+      {
+        "name": "新穂高ロープウェイ",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Shinhotaka_Ropeway_logo.svg/500px-Shinhotaka_Ropeway_logo.svg.png",
+        "description": "第1ロープウェイで鍋平高原まで上がり、歩いて乗り継ぎ、第2ロープウェイへ。"
+      },
+      {
+        "name": "平湯温泉",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Hirayu_onsen02n3872.jpg/500px-Hirayu_onsen02n3872.jpg",
+        "description": "新穂高から戻ってくると、身体が冷え切っている。"
+      },
+      {
+        "name": "福地温泉",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Japan_Gifu_hida_relief_location_map.webp/500px-Japan_Gifu_hida_relief_location_map.webp.png",
+        "description": "平湯から車で10分。福地温泉は、知らないと通り過ぎる集落だ。旅館が数軒、小さな公衆浴場、そして「朝市」。ここの朝市は朝7..."
       }
     ],
     "shinkansenAccess": false,
@@ -197472,6 +196549,13 @@
       "街歩き向け",
       "歴史を辿る",
       "グルメ目当て"
+    ],
+    "alternateNames": [
+      "飛騨高山（北アルプス側）"
+    ],
+    "keywords": [
+      "飛騨高山（北アルプス側）",
+      "takayama-kogen"
     ]
   },
   {
@@ -198071,83 +197155,6 @@
       "街歩き向け",
       "歴史を辿る",
       "日帰り最適"
-    ]
-  },
-  {
-    "id": "biei-furano",
-    "name": "美瑛富良野",
-    "type": "destination",
-    "region": "北海道",
-    "prefecture": "北海道",
-    "hub": "札幌",
-    "hubName": "札幌",
-    "hubCity": "札幌",
-    "stayAllowed": [
-      "1night",
-      "2night"
-    ],
-    "departures": [
-      "札幌"
-    ],
-    "weight": 1,
-    "description": "丘を越えるたびに、風景が変わる。北海道の大地は平坦ではなく、波のように起伏している。ファーム富田のラベンダー畑は季節によって色を変え、その香りは北の空気に混じって遠くまで運ばれる。北の国から、ドラマの舞台になったこの地域は、映像と現実が曖昧に重なる。夏の光は眩しく、秋の光は透明だ。丘の上から見下ろす景色は、心がどこか高い場所にあることを思い出させる。ここは夢を見ている間に目覚めるような、そんな地。",
-    "tags": [
-      "自然",
-      "絶景"
-    ],
-    "spots": [
-      {
-        "name": "ファーム富田",
-        "description": "美瑛富良野を代表するスポット。ファーム富田は必見の場所です。"
-      },
-      {
-        "name": "北の国から",
-        "description": "美瑛富良野を代表するスポット。北の国からは必見の場所です。"
-      },
-      {
-        "name": "ラベンダー",
-        "description": "美瑛富良野を代表するスポット。ラベンダーは必見の場所です。"
-      }
-    ],
-    "shinkansenAccess": false,
-    "requiresCar": false,
-    "isIsland": false,
-    "destType": "sight",
-    "hotelSearch": "富良野",
-    "lat": 43.355,
-    "lng": 142.421,
-    "travelTime": {
-      "sapporo": 130,
-      "tokyo": 275,
-      "osaka": 295,
-      "nagoya": 295,
-      "fukuoka": 305,
-      "sendai": 375
-    },
-    "stayRecommendation": "1night",
-    "gateways": {
-      "rail": [],
-      "airport": [],
-      "bus": [],
-      "ferry": []
-    },
-    "hotelLinks": {
-      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E5%25AF%258C%25E8%2589%25AF%25E9%2587%258E",
-      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2595%2578%2597%25C7%2596%25EC"
-    },
-    "rentalCarRecommended": true,
-    "unsplashUrl": "https://images.unsplash.com/photo-1659656127183-0eddbf806b87?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTMlODMlOTUlRTMlODIlQTElRTMlODMlQkMlRTMlODMlQTAlRTUlQUYlOEMlRTclOTQlQjAlMjAlRTclQkUlOEUlRTclOTElOUIlRTUlQUYlOEMlRTglODklQUYlRTklODclOEV8ZW58MHwwfHx8MTc3ODU1Njk2Nnww&ixlib=rb-4.1.0&q=80&w=1080",
-    "unsplashThumbUrl": "https://images.unsplash.com/photo-1659656127183-0eddbf806b87?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTMlODMlOTUlRTMlODIlQTElRTMlODMlQkMlRTMlODMlQTAlRTUlQUYlOEMlRTclOTQlQjAlMjAlRTclQkUlOEUlRTclOTElOUIlRTUlQUYlOEMlRTglODklQUYlRTklODclOEV8ZW58MHwwfHx8MTc3ODU1Njk2Nnww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Ryo Nagisa",
-    "unsplashCreditUrl": "https://unsplash.com/@ryo_nagisa?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-field-of-flowers-SbZ9uF-830w?utm_source=dokoiko&utm_medium=referral",
-    "images": [
-      "/images/biei-furano/main.jpg"
-    ],
-    "reasonChips": [
-      "絶景スポット",
-      "1泊がおすすめ",
-      "ゆっくり滞在"
     ]
   },
   {
@@ -200418,158 +199425,6 @@
       "家族で楽しめる",
       "1泊がおすすめ",
       "ゆっくり滞在"
-    ]
-  },
-  {
-    "id": "kumamoto-2",
-    "name": "阿蘇くじゅう",
-    "type": "destination",
-    "region": "九州",
-    "prefecture": "熊本県",
-    "hub": "福岡",
-    "hubName": "福岡",
-    "hubCity": "福岡",
-    "stayAllowed": [
-      "1night"
-    ],
-    "departures": [
-      "福岡"
-    ],
-    "weight": 1,
-    "description": "雲の上に立っている。阿蘇くじゅう国立公園の大観峰から眺めると、世界が一変する。五つのカルデラが織りなす雄大な風景は、地球の息吹を感じさせる。阿蘇山の火口近くに立つと、硫黄の香りが鼻をつく。噴気があがり、大地が生きていることを実感させる。草千里では、緑の絨毯が広がり、馬が悠然と歩む光景が江戸時代から変わらずに続いている。山道を登るにつれ、気温が下がり、空気が澄んでいく。阿蘇くじゅうは、日本が火山国であることを全身で教えてくれる。そんな大自然の前では、人間は謙虚にならざるを得ない。",
-    "tags": [
-      "山",
-      "絶景",
-      "自然"
-    ],
-    "spots": [
-      {
-        "name": "阿蘇山",
-        "description": "阿蘇くじゅうを代表するスポット。阿蘇山は必見の場所です。"
-      },
-      {
-        "name": "大観峰",
-        "description": "阿蘇くじゅうを代表するスポット。大観峰は必見の場所です。"
-      },
-      {
-        "name": "草千里",
-        "description": "阿蘇くじゅうを代表するスポット。草千里は必見の場所です。"
-      }
-    ],
-    "shinkansenAccess": false,
-    "requiresCar": false,
-    "isIsland": false,
-    "destType": "sight",
-    "hotelSearch": "阿蘇",
-    "lat": 32.91,
-    "lng": 131.09,
-    "travelTime": {
-      "fukuoka": 150,
-      "tokyo": 455,
-      "osaka": 315,
-      "nagoya": 365,
-      "hiroshima": 225
-    },
-    "stayRecommendation": "1night",
-    "gateways": {
-      "rail": [],
-      "airport": [],
-      "bus": [],
-      "ferry": []
-    },
-    "hotelLinks": {
-      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E9%2598%25BF%25E8%2598%2587",
-      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2588%25A2%2591%2568"
-    },
-    "rentalCarRecommended": true,
-    "unsplashUrl": "https://images.unsplash.com/photo-1748264106391-1cfc996b9d28?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTklOTglQkYlRTglOTglODclRTUlQjElQjElMjAlRTklOTglQkYlRTglOTglODclRTMlODElOEYlRTMlODElOTglRTMlODIlODUlRTMlODElODZ8ZW58MHwwfHx8MTc3ODU1OTI5NXww&ixlib=rb-4.1.0&q=80&w=1080",
-    "unsplashThumbUrl": "https://images.unsplash.com/photo-1748264106391-1cfc996b9d28?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTklOTglQkYlRTglOTglODclRTUlQjElQjElMjAlRTklOTglQkYlRTglOTglODclRTMlODElOEYlRTMlODElOTglRTMlODIlODUlRTMlODElODZ8ZW58MHwwfHx8MTc3ODU1OTI5NXww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "K Soma",
-    "unsplashCreditUrl": "https://unsplash.com/@ksoma?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/green-mountain-overlooks-a-lush-grassy-landscape-Ia0xIIjgmYs?utm_source=dokoiko&utm_medium=referral",
-    "images": [
-      "/images/kumamoto-2/main.jpg"
-    ],
-    "reasonChips": [
-      "山岳ハイキング",
-      "絶景スポット",
-      "1泊がおすすめ"
-    ]
-  },
-  {
-    "id": "beppu-2",
-    "name": "別府温泉",
-    "type": "destination",
-    "region": "九州",
-    "prefecture": "大分県",
-    "hub": "福岡",
-    "hubName": "福岡",
-    "hubCity": "福岡",
-    "stayAllowed": [
-      "1night",
-      "2night"
-    ],
-    "departures": [
-      "福岡"
-    ],
-    "weight": 1,
-    "description": "湯けむりが立ち上る別府は、地獄めぐりという名の巡礼路を持つ、日本随一の温泉都市だ。海地獄の深い青、血の池地獄の赤。自然が示す色彩に圧倒される。明礬温泉の湯の花小屋では、江戸時代から変わらぬ製法で、職人たちが白い結晶を掬い上げている。その手際を眺めていると、温泉という恵みがどれほど深く街に根付いているか、皮膚の温かさとともに伝わってくる。硫黄の匂いが染み込んだこの街は、地球の息吹を肌で感じられる場所。温泉地として完成された、そんな街。",
-    "tags": [
-      "温泉",
-      "街歩き"
-    ],
-    "spots": [
-      {
-        "name": "海地獄",
-        "description": "別府温泉を代表するスポット。海地獄は必見の場所です。"
-      },
-      {
-        "name": "血の池地獄",
-        "description": "別府温泉を代表するスポット。血の池地獄は必見の場所です。"
-      },
-      {
-        "name": "明礬温泉",
-        "description": "別府温泉を代表するスポット。明礬温泉は必見の場所です。"
-      }
-    ],
-    "shinkansenAccess": false,
-    "requiresCar": false,
-    "isIsland": false,
-    "destType": "sight",
-    "hotelSearch": "別府温泉",
-    "lat": 33.279,
-    "lng": 131.501,
-    "travelTime": {
-      "fukuoka": 130,
-      "tokyo": 435,
-      "osaka": 295,
-      "nagoya": 345,
-      "hiroshima": 205
-    },
-    "stayRecommendation": "1night",
-    "gateways": {
-      "rail": [],
-      "airport": [],
-      "bus": [],
-      "ferry": []
-    },
-    "hotelLinks": {
-      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E5%2588%25A5%25E5%25BA%259C%25E6%25B8%25A9%25E6%25B3%2589",
-      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2595%25CA%2595%257B%2589%25B7%2590%25F2"
-    },
-    "rentalCarRecommended": false,
-    "unsplashUrl": "https://images.unsplash.com/photo-1751980002057-2564cd9bd197?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTYlQjUlQjclRTUlOUMlQjAlRTclOEQlODQlMjAlRTUlODglQTUlRTUlQkElOUMlRTYlQjglQTklRTYlQjMlODl8ZW58MHwwfHx8MTc3ODU1OTM2OHww&ixlib=rb-4.1.0&q=80&w=1080",
-    "unsplashThumbUrl": "https://images.unsplash.com/photo-1751980002057-2564cd9bd197?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTYlQjUlQjclRTUlOUMlQjAlRTclOEQlODQlMjAlRTUlODglQTUlRTUlQkElOUMlRTYlQjglQTklRTYlQjMlODl8ZW58MHwwfHx8MTc3ODU1OTM2OHww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "XinYing Lin",
-    "unsplashCreditUrl": "https://unsplash.com/@xinyinglin?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/coastal-buildings-are-near-a-beach-and-mountains-qmtOArNJuLM?utm_source=dokoiko&utm_medium=referral",
-    "images": [
-      "/images/beppu-2/main.jpg"
-    ],
-    "reasonChips": [
-      "温泉がおすすめ",
-      "街歩き向け",
-      "1泊がおすすめ"
     ]
   },
   {
@@ -208803,82 +207658,6 @@
     ]
   },
   {
-    "id": "beppu-jigoku",
-    "name": "別府地獄めぐり",
-    "type": "destination",
-    "region": "九州",
-    "prefecture": "大分県",
-    "hub": "福岡",
-    "hubName": "福岡",
-    "hubCity": "福岡",
-    "stayAllowed": [
-      "1night"
-    ],
-    "departures": [
-      "福岡"
-    ],
-    "weight": 1,
-    "description": "別府の地獄めぐりは、地球の鼓動を感じる旅だ。海地獄の湖のような湯は、コバルトブルーに輝き、その深さから立ち昇る硫黄の匂いが鼻をついる。血の池地獄は赤茶色に煮え立ち、龍巻地噴は数分ごとに温泉を吹き出す。江戸時代から人々を驚かせてきた七つの地獄のうち、最も古い記録は1300年前にさかのぼる。地獄巡りを創出した別府は、観光地化される前から「死と再生」の物語を語っていた。湯けむりの中で時間の感覚が消え、ここは異世界だと思い知らされる。そんな街。",
-    "tags": [
-      "温泉",
-      "街歩き",
-      "子連れ"
-    ],
-    "spots": [
-      {
-        "name": "海地獄",
-        "description": "別府地獄めぐりを代表するスポット。海地獄は必見の場所です。"
-      },
-      {
-        "name": "血の池地獄",
-        "description": "別府地獄めぐりを代表するスポット。血の池地獄は必見の場所です。"
-      },
-      {
-        "name": "龍巻地獄",
-        "description": "別府地獄めぐりを代表するスポット。龍巻地獄は必見の場所です。"
-      }
-    ],
-    "shinkansenAccess": false,
-    "requiresCar": false,
-    "isIsland": false,
-    "destType": "sight",
-    "hotelSearch": "別府",
-    "lat": 33.305,
-    "lng": 131.481,
-    "travelTime": {
-      "fukuoka": 130,
-      "tokyo": 435,
-      "osaka": 295,
-      "nagoya": 345,
-      "hiroshima": 205
-    },
-    "stayRecommendation": "daytrip",
-    "gateways": {
-      "rail": [],
-      "airport": [],
-      "bus": [],
-      "ferry": []
-    },
-    "hotelLinks": {
-      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E5%2588%25A5%25E5%25BA%259C",
-      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2595%25CA%2595%257B"
-    },
-    "rentalCarRecommended": false,
-    "unsplashUrl": "https://images.unsplash.com/photo-1691481490312-d30e75a393e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTYlQjUlQjclRTUlOUMlQjAlRTclOEQlODQlMjAlRTUlODglQTUlRTUlQkElOUMlRTUlOUMlQjAlRTclOEQlODQlRTMlODIlODElRTMlODElOTAlRTMlODIlOEF8ZW58MHwwfHx8MTc3ODU2Nzg2Mnww&ixlib=rb-4.1.0&q=80&w=1080",
-    "unsplashThumbUrl": "https://images.unsplash.com/photo-1691481490312-d30e75a393e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTYlQjUlQjclRTUlOUMlQjAlRTclOEQlODQlMjAlRTUlODglQTUlRTUlQkElOUMlRTUlOUMlQjAlRTclOEQlODQlRTMlODIlODElRTMlODElOTAlRTMlODIlOEF8ZW58MHwwfHx8MTc3ODU2Nzg2Mnww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "hung chi chen",
-    "unsplashCreditUrl": "https://unsplash.com/@k_wi_ck?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-large-body-of-water-next-to-a-rocky-shore-l0LYQR976PY?utm_source=dokoiko&utm_medium=referral",
-    "images": [
-      "/images/beppu-jigoku/main.jpg"
-    ],
-    "reasonChips": [
-      "温泉がおすすめ",
-      "街歩き向け",
-      "家族で楽しめる"
-    ]
-  },
-  {
     "id": "takasakiyama",
     "name": "高崎山自然動物園",
     "type": "destination",
@@ -211510,157 +210289,6 @@
       "家族で楽しめる",
       "博物館・美術館",
       "1泊がおすすめ"
-    ]
-  },
-  {
-    "id": "matsuyama-2",
-    "name": "松山城",
-    "type": "destination",
-    "region": "四国",
-    "prefecture": "愛媛県",
-    "hub": "高松",
-    "hubName": "高松",
-    "hubCity": "高松",
-    "stayAllowed": [
-      "1night"
-    ],
-    "departures": [
-      "高松"
-    ],
-    "weight": 1,
-    "description": "加藤嘉明が築いた松山城は、江戸時代のままの姿で、坂の町を見守り続けている。城郭へ向かう急坂を登るたび、足が重くなるのは、時間の層を一段一段遡っているからだろう。天守から見える景色は、『坂の上の雲』に描かれた秋山兄弟たちが眺めたものと変わらない。夜間ライトアップされた城は、瓦の質感が浮かび上がり、まるで400年前の夜景がそのまま蘇ったようだ。麓の道後温泉で湯に浸かれば、武士も商人も歩んだ同じ石畳の温かさが、身体に沁み込んでくる。時間がここにある。",
-    "tags": [
-      "歴史",
-      "街歩き"
-    ],
-    "spots": [
-      {
-        "name": "松山城",
-        "description": "松山城を代表するスポット。松山城は必見の場所です。"
-      },
-      {
-        "name": "道後温泉",
-        "description": "松山城を代表するスポット。道後温泉は必見の場所です。"
-      },
-      {
-        "name": "坂の上の雲ミュージアム",
-        "description": "松山城を代表するスポット。坂の上の雲ミュージアムは必見の場所です。"
-      }
-    ],
-    "shinkansenAccess": false,
-    "requiresCar": false,
-    "isIsland": false,
-    "destType": "sight",
-    "hotelSearch": "松山",
-    "lat": 33.846,
-    "lng": 132.766,
-    "travelTime": {
-      "takamatsu": 150,
-      "tokyo": 395,
-      "osaka": 255,
-      "nagoya": 315,
-      "fukuoka": 325
-    },
-    "stayRecommendation": "daytrip",
-    "gateways": {
-      "rail": [],
-      "airport": [],
-      "bus": [],
-      "ferry": []
-    },
-    "hotelLinks": {
-      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E6%259D%25BE%25E5%25B1%25B1",
-      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%258F%25BC%258E%2552"
-    },
-    "rentalCarRecommended": false,
-    "unsplashUrl": "https://images.unsplash.com/photo-1712475890862-b63d5a9c6c7f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTYlOUQlQkUlRTUlQjElQjElRTUlOUYlOEUlMjAlRTYlOUQlQkUlRTUlQjElQjElRTUlOUYlOEV8ZW58MHwwfHx8MTc3ODU3MDYxOXww&ixlib=rb-4.1.0&q=80&w=1080",
-    "unsplashThumbUrl": "https://images.unsplash.com/photo-1712475890862-b63d5a9c6c7f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTYlOUQlQkUlRTUlQjElQjElRTUlOUYlOEUlMjAlRTYlOUQlQkUlRTUlQjElQjElRTUlOUYlOEV8ZW58MHwwfHx8MTc3ODU3MDYxOXww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Kuu Lotus",
-    "unsplashCreditUrl": "https://unsplash.com/@365_new_chances?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-tree-with-pink-flowers-and-a-blue-sky-in-the-background-8OeirJXs5Jw?utm_source=dokoiko&utm_medium=referral",
-    "images": [
-      "/images/matsuyama-2/main.jpg"
-    ],
-    "reasonChips": [
-      "歴史を辿る",
-      "街歩き向け",
-      "1泊がおすすめ"
-    ]
-  },
-  {
-    "id": "aso-volcano",
-    "name": "阿蘇中岳火口",
-    "type": "destination",
-    "region": "九州",
-    "prefecture": "熊本県",
-    "hub": "福岡",
-    "hubName": "福岡",
-    "hubCity": "福岡",
-    "stayAllowed": [
-      "1night"
-    ],
-    "departures": [
-      "福岡"
-    ],
-    "weight": 1,
-    "description": "阿蘇中岳火口へ向かう道は、世界の外縁へ続いている。2000年以上、地球の息吹を吐き続ける火口に近づくにつれて、硫黄の香りが濃くなり、足下の黒い火山灰がザラつく。火口縁に立つと、直径1200メートルの巨大な陥没地が眼前に開く。湯気の合間に見える赤い火口壁は、この惑星がいかに若々しいかを物語っている。草千里の丘陵地では、数百頭の馬が悠然と草を食む光景が広がり、人間とはひとことも言葉を交わさぬ大地の声が聞こえる。日本を超えた、火と草の秘境がそこにある。",
-    "tags": [
-      "秘境",
-      "山",
-      "絶景"
-    ],
-    "spots": [
-      {
-        "name": "中岳火口",
-        "description": "阿蘇中岳火口を代表するスポット。中岳火口は必見の場所です。"
-      },
-      {
-        "name": "草千里",
-        "description": "阿蘇中岳火口を代表するスポット。草千里は必見の場所です。"
-      },
-      {
-        "name": "米塚",
-        "description": "阿蘇中岳火口を代表するスポット。米塚は必見の場所です。"
-      }
-    ],
-    "shinkansenAccess": false,
-    "requiresCar": false,
-    "isIsland": false,
-    "destType": "sight",
-    "hotelSearch": "阿蘇",
-    "lat": 32.884,
-    "lng": 131.105,
-    "travelTime": {
-      "fukuoka": 140,
-      "tokyo": 445,
-      "osaka": 305,
-      "nagoya": 355,
-      "hiroshima": 215
-    },
-    "stayRecommendation": "daytrip",
-    "gateways": {
-      "rail": [],
-      "airport": [],
-      "bus": [],
-      "ferry": []
-    },
-    "hotelLinks": {
-      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E9%2598%25BF%25E8%2598%2587",
-      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2588%25A2%2591%2568"
-    },
-    "rentalCarRecommended": true,
-    "unsplashUrl": "https://images.unsplash.com/photo-1635252273211-d0d5fb502c8a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTQlQjglQUQlRTUlQjIlQjMlRTclODElQUIlRTUlOEYlQTMlMjAlRTklOTglQkYlRTglOTglODclRTQlQjglQUQlRTUlQjIlQjMlRTclODElQUIlRTUlOEYlQTN8ZW58MHwwfHx8MTc3ODU3MDY5Mnww&ixlib=rb-4.1.0&q=80&w=1080",
-    "unsplashThumbUrl": "https://images.unsplash.com/photo-1635252273211-d0d5fb502c8a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTQlQjglQUQlRTUlQjIlQjMlRTclODElQUIlRTUlOEYlQTMlMjAlRTklOTglQkYlRTglOTglODclRTQlQjglQUQlRTUlQjIlQjMlRTclODElQUIlRTUlOEYlQTN8ZW58MHwwfHx8MTc3ODU3MDY5Mnww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Freezer",
-    "unsplashCreditUrl": "https://unsplash.com/@freezer_nico?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-view-of-the-mountains-from-a-high-point-of-view-Op4CE6iBTDU?utm_source=dokoiko&utm_medium=referral",
-    "images": [
-      "/images/aso-volcano/main.jpg"
-    ],
-    "reasonChips": [
-      "秘境感あり",
-      "山岳ハイキング",
-      "絶景スポット"
     ]
   },
   {
@@ -214407,13 +213035,13 @@
       "松山"
     ],
     "weight": 1.5,
-    "description": "道後の湯気が朝の路地をぼかし、坂の上にゆらりと雲の影。3000年の湯と現存天守の城下町を、路面電車が一日かけて結ぶ、そんな松山。冬の道後は、湯気がすごい。路地の奥からも本館の屋根の上からも、白い煙がもくもく立ち上っている。夏目漱石が『坊っちゃん』を書いた時代から、この湯は変わっていない。城山にそびえる連立式天守は瀬戸内を見下ろし、坂の上には司馬遼太郎が描いた明治の青年たちの志。湯と城と物語が、この街では一日の中に同居する。",
+    "description": "加藤嘉明が築いた松山城は、江戸時代のままの姿で、坂の町を見守り続けている。城郭へ向かう急坂を登るたび、足が重くなるのは、時間の層を一段一段遡っているからだろう。天守から見える景色は、『坂の上の雲』に描かれた秋山兄弟たちが眺めたものと変わらない。夜間ライトアップされた城は、瓦の質感が浮かび上がり、まるで400年前の夜景がそのまま蘇ったようだ。麓の道後温泉で湯に浸かれば、武士も商人も歩んだ同じ石畳の温かさが、身体に沁み込んでくる。時間がここにある。",
     "tags": [
-      "歴史",
-      "冬",
-      "街歩き",
+      "温泉",
       "城",
-      "温泉"
+      "街歩き",
+      "冬",
+      "歴史"
     ],
     "reasonChips": [
       "温泉がおすすめ",
@@ -214506,18 +213134,20 @@
       "/images/matsuyama/spot-4.jpg"
     ],
     "alternateNames": [
+      "松山城",
       "道後温泉",
-      "松山市",
-      "坊っちゃんの街"
+      "坊っちゃんの街",
+      "松山市"
     ],
     "keywords": [
-      "松山",
-      "道後温泉",
-      "dogo-onsen",
-      "道後",
       "松山城",
+      "matsuyama",
+      "道後",
+      "matsuyama-2",
+      "dogo-onsen",
+      "松山",
       "坊っちゃん",
-      "matsuyama"
+      "道後温泉"
     ]
   },
   {
