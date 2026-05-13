@@ -191,12 +191,12 @@ const hubCity = hubName
   ═══════════════════════════════════════ */
   .dest-hero {
     position: relative;
-    width: 100% !important;
-    height: 200px !important;
-    max-height: 200px !important;
-    min-height: 200px !important;
+    width: 100%;
+    height: 60vh;
+    min-height: 360px;
+    max-height: 580px;
     overflow: hidden;
-    background: #1a2e20;
+    background: linear-gradient(135deg, #1a2e20, #2A6049);
   }
   .dest-hero-img {
     width: 100%;
@@ -316,13 +316,68 @@ const hubCity = hubName
 
   /* Lead text */
   .lead {
-    font-size: 16px;
-    line-height: 2.3;
-    color: #333;
+    font-size: 17px;
+    line-height: 2.4;
+    color: #2d2d2d;
     margin: 40px 0 56px;
     white-space: pre-line;
-    letter-spacing: 0.02em;
+    letter-spacing: 0.03em;
   }
+  .dest-description {
+    font-size: 17px;
+    line-height: 2.4;
+    color: #2d2d2d;
+    margin: 40px 0 48px;
+    letter-spacing: 0.03em;
+    white-space: pre-line;
+  }
+
+  /* 実用情報カード */
+  .info-cards {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+    margin: 0 0 36px;
+  }
+  .info-card {
+    padding: 18px 16px;
+    background: #f8fdf9;
+    border: 1px solid #e0eee5;
+    border-radius: 10px;
+  }
+  .info-card-label {
+    font-size: 10px;
+    letter-spacing: 0.18em;
+    color: #9a7c36;
+    text-transform: uppercase;
+    margin-bottom: 8px;
+    font-weight: 500;
+  }
+  .info-card-value {
+    font-size: 14px;
+    color: #1a1a1a;
+    line-height: 1.7;
+  }
+
+  /* どこから行く？ショートカット */
+  .access-shortcut {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    padding: 16px 24px;
+    background: #2A6049;
+    color: #fff;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 14px;
+    letter-spacing: 0.05em;
+    margin: 0 0 56px;
+    transition: background 0.15s;
+    width: 100%;
+  }
+  .access-shortcut:hover { background: #1e4d38; }
+  .access-shortcut-arrow { font-size: 16px; }
 
   /* Best season */
   .season-box {
@@ -358,24 +413,23 @@ const hubCity = hubName
     padding-bottom: 16px;
     border-bottom: 2px solid #1a1a1a;
   }
-  .spot-section { margin-bottom: 60px; }
+  .spot-section { margin-bottom: 72px; }
   .spot-with-img {
     display: flex;
-    gap: 16px;
-    align-items: flex-start;
+    flex-direction: column;
+    gap: 18px;
   }
   .spot-thumb {
-    width: 100px;
-    height: 75px;
+    width: 100%;
+    height: 240px;
     object-fit: cover;
-    border-radius: 6px;
-    flex-shrink: 0;
+    border-radius: 10px;
     background: #f0f0f0;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.08);
   }
-  .spot-content { flex: 1; min-width: 0; }
-  @media (max-width: 480px) {
-    .spot-with-img { flex-direction: column; gap: 12px; }
-    .spot-thumb { width: 100%; height: 160px; }
+  .spot-content { width: 100%; }
+  @media (min-width: 720px) {
+    .spot-thumb { height: 280px; }
   }
   .spot-num {
     font-size: 48px;
@@ -845,11 +899,46 @@ const hubCity = hubName
       <span>{dest.name}</span>
     </nav>
 
-    <!-- リード文 -->
-    {article?.lead && <p class="lead">{article.lead}</p>}
+    <!-- リード文（記事ありなら article.lead、なければ dest.description） -->
+    {article?.lead ? (
+      <p class="lead">{article.lead}</p>
+    ) : dest.description && (
+      <p class="dest-description">{dest.description}</p>
+    )}
 
-    <!-- おすすめシーズン -->
-    {article?.bestSeason && (
+    <!-- 実用情報カード -->
+    <div class="info-cards">
+      {article?.bestSeason ? (
+        <div class="info-card">
+          <div class="info-card-label">Best Season</div>
+          <div class="info-card-value">{article.bestSeason.slice(0, 40)}</div>
+        </div>
+      ) : (
+        <div class="info-card">
+          <div class="info-card-label">Best Season</div>
+          <div class="info-card-value">通年OK・四季それぞれの魅力</div>
+        </div>
+      )}
+      <div class="info-card">
+        <div class="info-card-label">Stay</div>
+        <div class="info-card-value">
+          {(dest as any).stayAllowed?.includes('daytrip') ? '日帰り可能' : ''}
+          {(dest as any).stayAllowed?.includes('1night') ? (((dest as any).stayAllowed?.includes('daytrip') ? '・' : '') + '1泊おすすめ') : ''}
+          {(dest as any).stayAllowed?.some((s: string) => s === '2night' || s === '3night+') ? '・2泊以上' : ''}
+        </div>
+      </div>
+    </div>
+
+    <!-- どこから行く？ショートカット -->
+    {travelTimes.length > 0 && (
+      <a href="#access" class="access-shortcut">
+        <span>📍 どこから行く？アクセス情報を見る</span>
+        <span class="access-shortcut-arrow">↓</span>
+      </a>
+    )}
+
+    <!-- おすすめシーズン（詳細版・記事ありの場合のみ） -->
+    {article?.bestSeason && article.bestSeason.length > 40 && (
       <div class="season-box">
         <span class="season-label">Best Season</span>
         {article.bestSeason}
@@ -947,7 +1036,7 @@ const hubCity = hubName
     <hr class="section-divider" />
 
     <!-- 行き方 -->
-    <div class="access-section">
+    <div class="access-section" id="access">
       <h2 class="section-title">{dest.name}への行き方</h2>
       {(dest as any).icCard && (
         <div class="ic-badge">ICカード利用可</div>

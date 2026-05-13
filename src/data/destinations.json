@@ -161665,6 +161665,9 @@
       "温泉がおすすめ",
       "街歩き向け",
       "ゆっくり滞在"
+    ],
+    "images": [
+      "/images/gen_青森_稲垣温泉/main.jpg"
     ]
   },
   {
@@ -194198,6 +194201,9 @@
       "歴史を辿る",
       "寺社めぐり",
       "街歩き向け"
+    ],
+    "images": [
+      "/images/osaka-castle/main.jpg"
     ]
   },
   {
@@ -194268,6 +194274,9 @@
       "街歩き向け",
       "グルメ目当て",
       "日帰り最適"
+    ],
+    "images": [
+      "/images/dotonbori/main.jpg"
     ]
   },
   {
@@ -194416,6 +194425,9 @@
       "寺社めぐり",
       "秋の紅葉名所",
       "日帰り最適"
+    ],
+    "images": [
+      "/images/katsuoji/main.jpg"
     ]
   },
   {
@@ -194563,6 +194575,9 @@
     "reasonChips": [
       "歴史を辿る",
       "日帰り最適"
+    ],
+    "images": [
+      "/images/takatsuki/main.jpg"
     ]
   },
   {
@@ -194633,6 +194648,9 @@
       "温泉がおすすめ",
       "街歩き向け",
       "日帰り最適"
+    ],
+    "images": [
+      "/images/izumiotsu/main.jpg"
     ]
   },
   {
@@ -194703,6 +194721,9 @@
       "歴史を辿る",
       "街歩き向け",
       "祭りで賑わう"
+    ],
+    "images": [
+      "/images/saga-city/main.jpg"
     ]
   },
   {
@@ -194851,6 +194872,9 @@
       "歴史を辿る",
       "海を眺める",
       "街歩き向け"
+    ],
+    "images": [
+      "/images/obama-fukui/main.jpg"
     ]
   },
   {
@@ -196664,6 +196688,9 @@
       "歴史を辿る",
       "寺社めぐり",
       "街歩き向け"
+    ],
+    "images": [
+      "/images/kumamoto-castle/main.jpg"
     ]
   },
   {
