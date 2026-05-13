@@ -144716,152 +144716,6 @@
     ]
   },
   {
-    "id": "gen_栃木_唐沢山城",
-    "name": "唐沢山城",
-    "displayName": "唐沢山城",
-    "prefecture": "栃木県",
-    "region": "関東",
-    "lat": 36.35363889,
-    "lng": 139.60094444,
-    "destType": "sight",
-    "hubCity": "宇都宮",
-    "fallbackCity": "宇都宮",
-    "isStayable": true,
-    "_generated": true,
-    "_source": "wikipedia",
-    "stayDescription": "見どころが多く、1泊してゆっくり巡る",
-    "tags": [
-      "観光",
-      "自然"
-    ],
-    "primary": [
-      "観光"
-    ],
-    "secondary": [
-      "自然"
-    ],
-    "weight": 0.9,
-    "stayPriority": "medium",
-    "onsenLevel": 0,
-    "accessStation": "宇都宮駅",
-    "representativeStation": "宇都宮駅",
-    "railProvider": "ekinet",
-    "jrArea": "east",
-    "finalAccess": {
-      "type": "bus",
-      "line": null,
-      "to": "唐沢山城"
-    },
-    "transportHubs": {
-      "rail": "宇都宮駅",
-      "city": "宇都宮"
-    },
-    "gateway": null,
-    "departures": [
-      "札幌",
-      "仙台",
-      "東京",
-      "名古屋",
-      "大阪",
-      "広島",
-      "福岡",
-      "和歌山",
-      "水戸",
-      "前橋",
-      "高崎"
-    ],
-    "isIsland": false,
-    "hub": "宇都宮",
-    "stayAllowed": [
-      "2night"
-    ],
-    "spots": [
-      {
-        "name": "唐沢山城",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karasawayama_Shrine.JPG/500px-Karasawayama_Shrine.JPG",
-        "description": "駐車場から歩き始めると、すぐに雰囲気が変わる。"
-      }
-    ],
-    "description": "山の上に、城があった。それも、ちゃんと「城址」じゃなくて、石垣がごろごろ残っている城が。栃木県佐野市の唐沢山城は、関東七名城のひとつ。でも観光地っぽさが全然ない。猫がいて、木漏れ日があって、静かな風が吹いている。そういう場所だ。駐車場は山頂近くまで車で行ける。ただし道は細い。対向車に注意。春の桜シーズンは早朝到着がおすすめ。10時以降は駐車場が埋まりやすい。飲み物は持参必須。山内に自販機はほぼない。",
-    "catch": "唐沢山城で見どころが多く、1泊してゆっくり巡る",
-    "requiresCar": false,
-    "type": "destination",
-    "subType": "sight",
-    "city": "宇都宮",
-    "hubStation": "宇都宮駅",
-    "hotelArea": "栃木県",
-    "hotelSearch": "唐沢山城",
-    "hotelKeyword": "唐沢山城",
-    "travelTime": {
-      "tokyo": 106,
-      "nagoya": 226,
-      "osaka": 309,
-      "takamatsu": 391,
-      "fukuoka": 595,
-      "wakayama": 339,
-      "mito": 151,
-      "maebashi": 166,
-      "takasaki": 166,
-      "hamamatsu": 256,
-      "gifu": 246,
-      "kofu": 196,
-      "shingu": 429,
-      "tanabe": 399,
-      "shirahama": 409,
-      "kushimoto": 429,
-      "tottori": 429,
-      "shimonoseki": 625,
-      "saga": 625,
-      "oita": 655,
-      "beppu": 665
-    },
-    "stayRecommendation": "1night",
-    "secondaryTransport": "bus",
-    "stayBias": "hub",
-    "airportHub": null,
-    "situations": [
-      "solo",
-      "couple",
-      "friends"
-    ],
-    "mapPoint": "唐沢山城",
-    "railGateway": "宇都宮駅",
-    "railNote": "バス",
-    "hasDirectFlight": false,
-    "airportGateway": null,
-    "busGateway": null,
-    "ferryGateway": null,
-    "gateways": [],
-    "access": {
-      "steps": []
-    },
-    "localAccess": null,
-    "_enriched": true,
-    "staySearchUrl": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%E5%AE%87%E9%83%BD%E5%AE%AE&m=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%E5%AE%87%E9%83%BD%E5%AE%AE",
-    "bookingStation": null,
-    "mainSpot": "唐沢山城",
-    "stayArea": {
-      "rakuten": "唐沢山城",
-      "jalan": "唐沢山城"
-    },
-    "hotelLinks": {
-      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Ftochigi%2F",
-      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2593%25C8%2596%25D8%258C%25A7%2520%2589%2546%2593%2573%258B%257B"
-    },
-    "tier": "spot",
-    "icCard": "suica",
-    "tier2": "spot",
-    "hubName": "宇都宮",
-    "rentalCarRecommended": true,
-    "images": [
-      "/images/gen_栃木_唐沢山城/main.jpg",
-      "/images/gen_栃木_唐沢山城/spot-1.jpg"
-    ],
-    "reasonChips": [
-      "ゆっくり滞在"
-    ]
-  },
-  {
     "id": "gen_栃木_烏山城",
     "name": "烏山城",
     "displayName": "烏山城",
@@ -146399,6 +146253,11 @@
         "name": "唐沢山神社",
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Karasawayamajinja.JPG/500px-Karasawayamajinja.JPG",
         "description": "駐車場から歩き始める。舗装された道が続くかと思いきや、すぐに石畳になる。両脇に木が迫ってくる。標高は242メートルしかな..."
+      },
+      {
+        "name": "唐沢山城",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karasawayama_Shrine.JPG/500px-Karasawayama_Shrine.JPG",
+        "description": "駐車場から歩き始めると、すぐに雰囲気が変わる。"
       }
     ],
     "description": "山の上に、城跡がある。その石垣の奥に、神社がある。猫が、いる。唐沢山神社は、そういう場所だ。栃木県佐野市の山中に突如現れる、戦国時代の面影と神域が混在した空間。観光地らしさがほとんどない。だから逆に、忘れられない。駐車場は無料で広い。車で行くのが断然ラク。電車なら佐野駅からタクシーで約1500円前後。境内の猫には給餌禁止の看板あり。触るのはOKだが、食べ物を与えないこと。社務所は16時には閉まることが多いのでお守りは早めに。",
@@ -146483,6 +146342,14 @@
     ],
     "reasonChips": [
       "ゆっくり滞在"
+    ],
+    "alternateNames": [
+      "唐沢山城"
+    ],
+    "keywords": [
+      "唐沢山神社",
+      "gen_栃木_唐沢山城",
+      "唐沢山城"
     ]
   },
   {
@@ -193120,7 +192987,8 @@
     "tags": [
       "寺社",
       "自然",
-      "グルメ"
+      "グルメ",
+      "街歩き"
     ],
     "spots": [
       {
@@ -193137,6 +193005,14 @@
         "name": "奥宮",
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Fujisan_Hongu_Sengen_okunomiya.jpg/500px-Fujisan_Hongu_Sengen_okunomiya.jpg",
         "description": "貴船を代表するスポット。奥宮は必見の場所です。"
+      },
+      {
+        "name": "貴船川床",
+        "description": "貴船神社を代表するスポット。貴船川床は必見の場所です。"
+      },
+      {
+        "name": "貴船奥宮",
+        "description": "貴船神社を代表するスポット。貴船奥宮は必見の場所です。"
       }
     ],
     "shinkansenAccess": false,
@@ -193180,6 +193056,14 @@
       "寺社めぐり",
       "グルメ目当て",
       "日帰り最適"
+    ],
+    "alternateNames": [
+      "貴船神社"
+    ],
+    "keywords": [
+      "貴船神社",
+      "kyoto-kibune",
+      "貴船"
     ]
   },
   {
@@ -199436,8 +199320,8 @@
     "description": "五十鈴川の清流を渡る。内宮への参道は、樹齢千年を超える杉の木々に守られている。朝日が、その隙間から差し込む時、二千年の信仰が、肌で感じられる。外宮から内宮へ。伊勢神宮は、日本の心臓部だ。おかげ横丁では、江戸と昭和が交差する。伊勢うどんの汁の香ばしさ、石畳の冷たさ——参拝者たちは、食べ、歩き、祈ってきた。式年遷宮で二十年ごと建て直されるこの聖地は、永遠と現在が重なる場所だ。伊勢への参宮は、個人の旅ではなく、日本そのものへの回帰である。",
     "tags": [
       "寺社",
-      "歴史",
-      "街歩き"
+      "街歩き",
+      "歴史"
     ],
     "spots": [
       {
@@ -199451,6 +199335,14 @@
       {
         "name": "おかげ横丁",
         "description": "伊勢神宮を代表するスポット。おかげ横丁は必見の場所です。"
+      },
+      {
+        "name": "宇治橋",
+        "description": "伊勢神宮内宮を代表するスポット。宇治橋は必見の場所です。"
+      },
+      {
+        "name": "五十鈴川",
+        "description": "伊勢神宮内宮を代表するスポット。五十鈴川は必見の場所です。"
       }
     ],
     "shinkansenAccess": false,
@@ -199491,6 +199383,14 @@
       "寺社めぐり",
       "歴史を辿る",
       "街歩き向け"
+    ],
+    "alternateNames": [
+      "伊勢神宮内宮"
+    ],
+    "keywords": [
+      "伊勢神宮",
+      "ise-grand-shrine",
+      "伊勢神宮内宮"
     ]
   },
   {
@@ -199509,7 +199409,7 @@
       "大阪"
     ],
     "weight": 1,
-    "description": "山裾をくりぬいた建築。I.M.ペイが設計した美術館へ向かう道のりが既に作品だ。トンネルを抜けると、信楽の丘陵に浮かぶガラスと石の殿堂が現れる。館内には、古代ペルシャから日本の茶碗まで、時間と距離を超えた美が静かに呼吸している。陶芸の森では、職人たちの手が粘土を撫でる音が聞こえ、焼き物の香りが漂う。秘境と呼ぶには洗練されすぎているが、この谷間にたたずむ美術館は、訪れる者を別の時間へ導く。そんな場所。",
+    "description": "ミホミュージアムへの道のりは、秘境への参詣路のようだ。信楽の陶芸の里を抜け、茂土山の山々が深くなるにつれ、俗世との距離が遠ざかる。石畳の参道を歩むと、樹間からミホミュージアムの白亜の建築が突然現れる。I.M.ペイが設計したこの建築は、山と建築が対話する空間だ。館内に響く足音は磨かれた床に吸収され、古代美術と現代建築の融合を体験できる。窓から琵琶湖を眺めると、美術品と風景が重なり合う。秘密の美術館と呼ばれるこの場所は、訪れる者の美意識を静かに研ぎ澄ます。",
     "tags": [
       "アート",
       "建築",
@@ -199527,6 +199427,10 @@
       {
         "name": "陶芸の森",
         "description": "MIHO MUSEUMを代表するスポット。陶芸の森は必見の場所です。"
+      },
+      {
+        "name": "茂土山",
+        "description": "ミホミュージアムを代表するスポット。茂土山は必見の場所です。"
       }
     ],
     "shinkansenAccess": false,
@@ -199560,6 +199464,19 @@
       "アートの島",
       "建築の名作",
       "秘境感あり"
+    ],
+    "alternateNames": [
+      "MIHO MUSEUM",
+      "ミホミュージアム",
+      "信楽の美術館"
+    ],
+    "keywords": [
+      "MIHO MUSEUM",
+      "ミホミュージアム",
+      "miho-museum",
+      "miho-mountain",
+      "信楽",
+      "安藤忠雄"
     ]
   },
   {
@@ -205624,8 +205541,10 @@
     "weight": 1,
     "description": "朝倉市の原鶴温泉は、筑後川の清流を間近に感じながら湯に浸かれる。白濁した湯が肌に触れた瞬間、山奥の秘湯にいることを実感する。道の駅からは、川床で繰り広げられる「うかい」の篝火が夜闇に浮かぶ。鵜匠たちは江戸期から変わらぬ技で鮎を獲る。その火の揺らぎと、川音が時間を止める。近代化された温泉地ではなく、純粋に「湯治」の場として機能する原鶴。ここには、観光地化されない自然への敬虔さと、職人の静かな営みが、そっと在る。",
     "tags": [
+      "街歩き",
       "温泉",
-      "秘境"
+      "秘境",
+      "歴史"
     ],
     "spots": [
       {
@@ -205639,6 +205558,14 @@
       {
         "name": "うかい",
         "description": "原鶴温泉を代表するスポット。うかいは必見の場所です。"
+      },
+      {
+        "name": "秋月城下町",
+        "description": "原鶴を代表するスポット。秋月城下町は必見の場所です。"
+      },
+      {
+        "name": "三連水車",
+        "description": "原鶴を代表するスポット。三連水車は必見の場所です。"
       }
     ],
     "shinkansenAccess": false,
@@ -205679,6 +205606,14 @@
       "温泉がおすすめ",
       "秘境感あり",
       "1泊がおすすめ"
+    ],
+    "alternateNames": [
+      "原鶴"
+    ],
+    "keywords": [
+      "fukuoka-asakura",
+      "原鶴温泉",
+      "原鶴"
     ]
   },
   {
@@ -208423,75 +208358,6 @@
     ]
   },
   {
-    "id": "miho-mountain",
-    "name": "ミホミュージアム",
-    "type": "destination",
-    "region": "近畿",
-    "prefecture": "滋賀県",
-    "hub": "大阪",
-    "hubName": "大阪",
-    "hubCity": "大阪",
-    "stayAllowed": [
-      "daytrip"
-    ],
-    "departures": [
-      "大阪"
-    ],
-    "weight": 1,
-    "description": "ミホミュージアムへの道のりは、秘境への参詣路のようだ。信楽の陶芸の里を抜け、茂土山の山々が深くなるにつれ、俗世との距離が遠ざかる。石畳の参道を歩むと、樹間からミホミュージアムの白亜の建築が突然現れる。I.M.ペイが設計したこの建築は、山と建築が対話する空間だ。館内に響く足音は磨かれた床に吸収され、古代美術と現代建築の融合を体験できる。窓から琵琶湖を眺めると、美術品と風景が重なり合う。秘密の美術館と呼ばれるこの場所は、訪れる者の美意識を静かに研ぎ澄ます。",
-    "tags": [
-      "アート",
-      "建築",
-      "秘境"
-    ],
-    "spots": [
-      {
-        "name": "MIHO MUSEUM",
-        "description": "ミホミュージアムを代表するスポット。MIHO MUSEUMは必見の場所です。"
-      },
-      {
-        "name": "信楽",
-        "description": "ミホミュージアムを代表するスポット。信楽は必見の場所です。"
-      },
-      {
-        "name": "茂土山",
-        "description": "ミホミュージアムを代表するスポット。茂土山は必見の場所です。"
-      }
-    ],
-    "shinkansenAccess": false,
-    "requiresCar": false,
-    "isIsland": false,
-    "destType": "sight",
-    "hotelSearch": "信楽",
-    "lat": 34.949,
-    "lng": 136.045,
-    "travelTime": {
-      "osaka": 110,
-      "tokyo": 275,
-      "nagoya": 170,
-      "fukuoka": 275,
-      "hiroshima": 200,
-      "takamatsu": 215
-    },
-    "stayRecommendation": "daytrip",
-    "gateways": {
-      "rail": [],
-      "airport": [],
-      "bus": [],
-      "ferry": []
-    },
-    "hotelLinks": {
-      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E4%25BF%25A1%25E6%25A5%25BD",
-      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2590%254D%258A%2579"
-    },
-    "rentalCarRecommended": true,
-    "reasonChips": [
-      "アートの島",
-      "建築の名作",
-      "秘境感あり"
-    ]
-  },
-  {
     "id": "hira",
     "name": "比良山系",
     "type": "destination",
@@ -208565,82 +208431,6 @@
     "reasonChips": [
       "山岳ハイキング",
       "絶景スポット",
-      "日帰り最適"
-    ]
-  },
-  {
-    "id": "ise-grand-shrine",
-    "name": "伊勢神宮内宮",
-    "type": "destination",
-    "region": "近畿",
-    "prefecture": "三重県",
-    "hub": "名古屋",
-    "hubName": "名古屋",
-    "hubCity": "名古屋",
-    "stayAllowed": [
-      "daytrip",
-      "1night"
-    ],
-    "departures": [
-      "名古屋"
-    ],
-    "weight": 1,
-    "description": "宇治橋を渡る前に、一度立ち止まる。五十鈴川の水音が変わったのは、2000年前からずっと同じ音だからだ。檜の香気が鼻をくすぐり、苔むした石が足の感覚を研ぎ澄ます。内宮の社叢は、昼間だというのに薄暗く、まるで海底に沈んでいるような浮遊感がある。1300年続く「式年遷宮」——20年ごとに社を建て替える儀式は、完全性への執着ではなく、時間への降伏だ。垂仁天皇の時代から、何度繰り返されたか。そこに、日本人の祈りの本質がある。",
-    "tags": [
-      "寺社",
-      "歴史"
-    ],
-    "spots": [
-      {
-        "name": "内宮",
-        "description": "伊勢神宮内宮を代表するスポット。内宮は必見の場所です。"
-      },
-      {
-        "name": "宇治橋",
-        "description": "伊勢神宮内宮を代表するスポット。宇治橋は必見の場所です。"
-      },
-      {
-        "name": "五十鈴川",
-        "description": "伊勢神宮内宮を代表するスポット。五十鈴川は必見の場所です。"
-      }
-    ],
-    "shinkansenAccess": false,
-    "requiresCar": false,
-    "isIsland": false,
-    "destType": "sight",
-    "hotelSearch": "伊勢",
-    "lat": 34.455,
-    "lng": 136.726,
-    "travelTime": {
-      "nagoya": 110,
-      "tokyo": 215,
-      "osaka": 170,
-      "fukuoka": 325,
-      "hiroshima": 245
-    },
-    "stayRecommendation": "daytrip",
-    "gateways": {
-      "rail": [],
-      "airport": [],
-      "bus": [],
-      "ferry": []
-    },
-    "hotelLinks": {
-      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E4%25BC%258A%25E5%258B%25A2",
-      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2588%25C9%2590%25A8"
-    },
-    "rentalCarRecommended": false,
-    "unsplashUrl": "https://images.unsplash.com/photo-1718343289912-3c205dcb825e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlODYlODUlRTUlQUUlQUUlMjAlRTQlQkMlOEElRTUlOEIlQTIlRTclQTUlOUUlRTUlQUUlQUUlRTUlODYlODUlRTUlQUUlQUV8ZW58MHwwfHx8MTc3ODU2NzQyN3ww&ixlib=rb-4.1.0&q=80&w=1080",
-    "unsplashThumbUrl": "https://images.unsplash.com/photo-1718343289912-3c205dcb825e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlODYlODUlRTUlQUUlQUUlMjAlRTQlQkMlOEElRTUlOEIlQTIlRTclQTUlOUUlRTUlQUUlQUUlRTUlODYlODUlRTUlQUUlQUV8ZW58MHwwfHx8MTc3ODU2NzQyN3ww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Naoki Suzuki",
-    "unsplashCreditUrl": "https://unsplash.com/@naopp?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-group-of-people-walking-around-a-park-IJcpb3gesCM?utm_source=dokoiko&utm_medium=referral",
-    "images": [
-      "/images/ise-grand-shrine/main.jpg"
-    ],
-    "reasonChips": [
-      "寺社めぐり",
-      "歴史を辿る",
       "日帰り最適"
     ]
   },
@@ -210388,83 +210178,6 @@
       "寺社めぐり",
       "絶景スポット",
       "秘境感あり"
-    ]
-  },
-  {
-    "id": "kyoto-kibune",
-    "name": "貴船神社",
-    "type": "destination",
-    "region": "近畿",
-    "prefecture": "京都府",
-    "hub": "大阪",
-    "hubName": "大阪",
-    "hubCity": "大阪",
-    "stayAllowed": [
-      "daytrip",
-      "1night"
-    ],
-    "departures": [
-      "大阪"
-    ],
-    "weight": 1,
-    "description": "京都の北山奥、貴船川の水音が迎える。水の冷たさを肌に感じながら、参道を進むと貴船神社が現れる。本宮から奥宮へ向かう山道は、杉の香りに満ちている。夏、川床料理の店先から京都の夜風を感じるのは、特別だ。江戸時代から続く床の上で食事をするとき、川のせせらぎが人生の時間を洗い流すような心地になる。流れる水に願いを託す丑の刻参り。そんな古い儀式が今も息づく、時間が静寂を保ち続ける街だ。",
-    "tags": [
-      "寺社",
-      "街歩き"
-    ],
-    "spots": [
-      {
-        "name": "貴船神社",
-        "description": "貴船神社を代表するスポット。貴船神社は必見の場所です。"
-      },
-      {
-        "name": "貴船川床",
-        "description": "貴船神社を代表するスポット。貴船川床は必見の場所です。"
-      },
-      {
-        "name": "貴船奥宮",
-        "description": "貴船神社を代表するスポット。貴船奥宮は必見の場所です。"
-      }
-    ],
-    "shinkansenAccess": false,
-    "requiresCar": false,
-    "isIsland": false,
-    "destType": "sight",
-    "hotelSearch": "貴船 京都",
-    "lat": 35.123,
-    "lng": 135.762,
-    "travelTime": {
-      "osaka": 100,
-      "tokyo": 265,
-      "nagoya": 160,
-      "fukuoka": 265,
-      "hiroshima": 190,
-      "takamatsu": 205
-    },
-    "stayRecommendation": "daytrip",
-    "gateways": {
-      "rail": [],
-      "airport": [],
-      "bus": [],
-      "ferry": []
-    },
-    "hotelLinks": {
-      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E8%25B2%25B4%25E8%2588%25B9%2520%25E4%25BA%25AC%25E9%2583%25BD",
-      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%258B%254D%2591%2544%2520%258B%259E%2593%2573"
-    },
-    "rentalCarRecommended": false,
-    "unsplashUrl": "https://images.unsplash.com/photo-1721436361702-08ab23015e50?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTglQjIlQjQlRTglODglQjklRTclQTUlOUUlRTclQTQlQkUlMjAlRTglQjIlQjQlRTglODglQjklRTclQTUlOUUlRTclQTQlQkV8ZW58MHwwfHx8MTc3ODU2OTI0MHww&ixlib=rb-4.1.0&q=80&w=1080",
-    "unsplashThumbUrl": "https://images.unsplash.com/photo-1721436361702-08ab23015e50?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTglQjIlQjQlRTglODglQjklRTclQTUlOUUlRTclQTQlQkUlMjAlRTglQjIlQjQlRTglODglQjklRTclQTUlOUUlRTclQTQlQkV8ZW58MHwwfHx8MTc3ODU2OTI0MHww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Kouji Tsuru",
-    "unsplashCreditUrl": "https://unsplash.com/@pafuxu?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-wooden-structure-with-a-bunch-of-ribbons-hanging-from-it-2VhoktIZmpY?utm_source=dokoiko&utm_medium=referral",
-    "images": [
-      "/images/kyoto-kibune/main.jpg"
-    ],
-    "reasonChips": [
-      "寺社めぐり",
-      "街歩き向け",
-      "日帰り最適"
     ]
   },
   {
@@ -214235,82 +213948,6 @@
       "歴史を辿る",
       "家族で楽しめる",
       "日帰り最適"
-    ]
-  },
-  {
-    "id": "fukuoka-asakura",
-    "name": "原鶴",
-    "type": "destination",
-    "region": "九州",
-    "prefecture": "福岡県",
-    "hub": "福岡",
-    "hubName": "福岡",
-    "hubCity": "福岡",
-    "stayAllowed": [
-      "1night"
-    ],
-    "departures": [
-      "福岡"
-    ],
-    "weight": 1,
-    "description": "朝倉市の原鶴温泉に着くと、湯の香りが立ちこめている。台地を流れる筑後川沿いに、古い旅館がそっと建つ。三連水車はいま、秋月城下町への入口の象徴として回っている。江戸時代、領主が治めた城下町は、今も石畳と樹齢の深い並木で往時を守っている。温泉街の狭い路地を抜けると、秋月醗酵の香りが漂い、名産の朝倉甘柿の露店が目に入る。小城羊羹の看板も。この地は、歴史の流れをゆっくり受け入れながら、静かに自分たちの時間を保つ。そんな街。",
-    "tags": [
-      "温泉",
-      "街歩き",
-      "歴史"
-    ],
-    "spots": [
-      {
-        "name": "原鶴温泉",
-        "description": "原鶴を代表するスポット。原鶴温泉は必見の場所です。"
-      },
-      {
-        "name": "秋月城下町",
-        "description": "原鶴を代表するスポット。秋月城下町は必見の場所です。"
-      },
-      {
-        "name": "三連水車",
-        "description": "原鶴を代表するスポット。三連水車は必見の場所です。"
-      }
-    ],
-    "shinkansenAccess": false,
-    "requiresCar": false,
-    "isIsland": false,
-    "destType": "sight",
-    "hotelSearch": "原鶴 朝倉",
-    "lat": 33.385,
-    "lng": 130.766,
-    "travelTime": {
-      "fukuoka": 80,
-      "tokyo": 385,
-      "osaka": 245,
-      "nagoya": 295,
-      "hiroshima": 155
-    },
-    "stayRecommendation": "1night",
-    "gateways": {
-      "rail": [],
-      "airport": [],
-      "bus": [],
-      "ferry": []
-    },
-    "hotelLinks": {
-      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A//travel.rakuten.co.jp/yado/japan.html%3Ff_query%3D%25E5%258E%259F%25E9%25B6%25B4%2520%25E6%259C%259D%25E5%2580%2589",
-      "jalan": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=https%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%258C%25B4%2592%25DF%2520%2592%25A9%2591%2571"
-    },
-    "rentalCarRecommended": false,
-    "unsplashUrl": "https://images.unsplash.com/photo-1734244362875-3c1ce4090e0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlOEUlOUYlRTklQjYlQjQlRTYlQjglQTklRTYlQjMlODklMjAlRTUlOEUlOUYlRTklQjYlQjR8ZW58MHwwfHx8MTc3ODU3MzAyN3ww&ixlib=rb-4.1.0&q=80&w=1080",
-    "unsplashThumbUrl": "https://images.unsplash.com/photo-1734244362875-3c1ce4090e0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlOEUlOUYlRTklQjYlQjQlRTYlQjglQTklRTYlQjMlODklMjAlRTUlOEUlOUYlRTklQjYlQjR8ZW58MHwwfHx8MTc3ODU3MzAyN3ww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Kouji Tsuru",
-    "unsplashCreditUrl": "https://unsplash.com/@pafuxu?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-spa-with-a-large-blue-pool-surrounded-by-rocks-Oof_9jsexWo?utm_source=dokoiko&utm_medium=referral",
-    "images": [
-      "/images/fukuoka-asakura/main.jpg"
-    ],
-    "reasonChips": [
-      "温泉がおすすめ",
-      "街歩き向け",
-      "歴史を辿る"
     ]
   },
   {
