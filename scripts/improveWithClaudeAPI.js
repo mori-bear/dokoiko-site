@@ -48,7 +48,7 @@ const SYSTEM_PROMPT = `あなたは日本の旅情を伝える観光記事ライ
 「フェリーに乗って、海を渡る。その時点で、もう旅が始まっている。小豆島は、瀬戸内の島の中でもちょっと「欲張り」な島だ。断崖の絶景、砂の道、オリーブの丘。全部、ひとつの島に詰まっている。」
 
 要件：
-- 各説明文は200〜300字
+- 各説明文は **必ず220〜280字** （短すぎはNG）
 - 五感（光・音・匂い・触感）を1つは含める
 - 具体的固有名詞（建物・人物・時代）を含める
 - 「そんな街」「時間がここにある」など余韻のある締め
@@ -88,7 +88,11 @@ for (let i = 0; i < targets.length; i += BATCH_SIZE) {
     const results = await callBatch(batch);
     for (const r of results) {
       const d = destinations.find(x => x.id === r.id);
-      if (d && r.description && r.description.length >= 150) {
+      if (d && r.description && r.description.length >= 200) {
+        d.description = r.description;
+        success++;
+      } else if (d && r.description && r.description.length > (d.description?.length || 0)) {
+        // 200字未満でも、現状より長ければ採用
         d.description = r.description;
         success++;
       }
