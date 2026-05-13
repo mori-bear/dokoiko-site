@@ -196760,6 +196760,9 @@
       "温泉がおすすめ",
       "寺社めぐり",
       "歴史を辿る"
+    ],
+    "images": [
+      "/images/hitoyoshi-onsen/main.jpg"
     ]
   },
   {
@@ -197652,6 +197655,9 @@
       "雪景色が楽しめる",
       "絶景スポット",
       "1泊がおすすめ"
+    ],
+    "images": [
+      "/images/zao-snow-monsters/main.jpg"
     ]
   },
   {
@@ -197854,6 +197860,9 @@
       "春の桜名所",
       "歴史を辿る",
       "日帰り最適"
+    ],
+    "images": [
+      "/images/miharu-takizakura/main.jpg"
     ]
   },
   {
@@ -197999,6 +198008,9 @@
       "花の名所",
       "絶景スポット",
       "日帰り最適"
+    ],
+    "images": [
+      "/images/hitachi-seaside/main.jpg"
     ]
   },
   {
@@ -198695,6 +198707,9 @@
       "寺社めぐり",
       "秘境感あり",
       "歴史を辿る"
+    ],
+    "images": [
+      "/images/kibune-kurama/main.jpg"
     ]
   },
   {
@@ -198762,6 +198777,9 @@
     "reasonChips": [
       "街歩き向け",
       "日帰り最適"
+    ],
+    "images": [
+      "/images/koshien/main.jpg"
     ]
   },
   {
@@ -198831,6 +198849,9 @@
       "街歩き向け",
       "夜景の名所",
       "日帰り最適"
+    ],
+    "images": [
+      "/images/kobe-port/main.jpg"
     ]
   },
   {
@@ -198901,6 +198922,9 @@
       "世界遺産あり",
       "寺社めぐり",
       "歴史を辿る"
+    ],
+    "images": [
+      "/images/horyuji/main.jpg"
     ]
   },
   {
@@ -199048,6 +199072,9 @@
       "寺社めぐり",
       "絶景スポット",
       "世界遺産あり"
+    ],
+    "images": [
+      "/images/nachi-falls/main.jpg"
     ]
   },
   {
@@ -199346,6 +199373,9 @@
       "歴史を辿る",
       "街歩き向け",
       "日帰り最適"
+    ],
+    "images": [
+      "/images/saga-castle/main.jpg"
     ]
   },
   {
@@ -200299,6 +200329,9 @@
       "祭りで賑わう",
       "街歩き向け",
       "日帰り最適"
+    ],
+    "images": [
+      "/images/tokushima-city/main.jpg"
     ]
   },
   {
@@ -200368,6 +200401,9 @@
       "海を眺める",
       "離島の絶景",
       "秘境感あり"
+    ],
+    "images": [
+      "/images/aharen/main.jpg"
     ]
   },
   {
