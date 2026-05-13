@@ -45,10 +45,20 @@ const CITY_NAMES: Record<string, string> = {
 };
 
 
+// 主要都市を優先的に含める（東京・大阪・名古屋・福岡・札幌・仙台・広島・高松・那覇・金沢）
+const PRIORITY_CITIES = ['tokyo','osaka','nagoya','fukuoka','sapporo','sendai','hiroshima','takamatsu','naha','kanazawa'];
 const travelTimes = Object.entries(dest.travelTime || {})
-  .filter(([_, v]) => v && v > 0 && (v as number) <= 180)
-  .sort(([, a], [, b]) => a - b)
-  .slice(0, 5)
+  .filter(([_, v]) => v && v > 0 && (v as number) <= 240)
+  .sort(([a, va], [b, vb]) => {
+    const ai = PRIORITY_CITIES.indexOf(a);
+    const bi = PRIORITY_CITIES.indexOf(b);
+    // 優先都市は前に
+    if (ai >= 0 && bi >= 0) return ai - bi;
+    if (ai >= 0) return -1;
+    if (bi >= 0) return 1;
+    return (va as number) - (vb as number);
+  })
+  .slice(0, 10)
   .map(([city, min]) => ({
     city: CITY_NAMES[city] || city,
     min
