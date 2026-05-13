@@ -7,6 +7,13 @@ const byRegion = regions.map(region => ({
   region,
   items: (destinations as any[]).filter(d => d.region === region)
 })).filter(r => r.items.length > 0);
+
+// 都道府県別の件数集計
+const prefCounts: Record<string, number> = {};
+for (const d of (destinations as any[])) {
+  if (d.prefecture) prefCounts[d.prefecture] = (prefCounts[d.prefecture] || 0) + 1;
+}
+const prefList = Object.entries(prefCounts).sort((a, b) => b[1] - a[1]);
 ---
 
 <DestinationLayout
@@ -92,6 +99,33 @@ const byRegion = regions.map(region => ({
     letter-spacing: 0.05em;
   }
   .empty-msg.is-visible { display: block; }
+
+  .pref-picker {
+    padding: 16px 0 8px;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }
+  .pref-picker-label {
+    font-size: 11px;
+    color: #888;
+    letter-spacing: 0.05em;
+  }
+  .pref-select {
+    width: 100%;
+    padding: 12px 14px;
+    border: 1px solid #d0e8da;
+    border-radius: 8px;
+    background: #f0faf4;
+    color: #1a1a1a;
+    font-size: 14px;
+    cursor: pointer;
+    -webkit-appearance: none; appearance: none;
+    background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'><path fill='%232A6049' d='M6 9L1 4h10z'/></svg>");
+    background-repeat: no-repeat;
+    background-position: right 14px center;
+  }
+  .dest-item[hidden] { display: none; }
 </style>
 
   <div class="list-hero">
@@ -109,6 +143,16 @@ const byRegion = regions.map(region => ({
       ))}
     </nav>
 
+    <div class="pref-picker">
+      <span class="pref-picker-label">🔍 都道府県で絞り込む</span>
+      <select id="pref-select" class="pref-select">
+        <option value="">— すべての都道府県 —</option>
+        {prefList.map(([pref, count]) => (
+          <option value={pref}>{pref}（{count}件）</option>
+        ))}
+      </select>
+    </div>
+
     <p class="empty-msg" id="empty-msg">条件に一致する目的地がありません</p>
 
     {byRegion.map(({ region, items }) => (
@@ -116,7 +160,7 @@ const byRegion = regions.map(region => ({
         <h2 class="region-block-title">{region}</h2>
         <div class="dest-list">
           {items.map((d: any) => (
-            <a href={`/destinations/${d.id}/`} class="dest-item">
+            <a href={`/destinations/${d.id}/`} class="dest-item" data-pref={d.prefecture}>
               <div class="dest-item-left">
                 <span class="dest-item-name">{d.name}</span>
                 <div class="dest-item-tags">
@@ -137,40 +181,64 @@ const byRegion = regions.map(region => ({
 <script>
   const params = new URLSearchParams(window.location.search);
   const regionParam = params.get('region') || '';
+  const prefParam = params.get('prefecture') || '';
 
   const blocks = document.querySelectorAll<HTMLElement>('.region-block');
+  const items = document.querySelectorAll<HTMLElement>('.dest-item');
   const buttons = document.querySelectorAll<HTMLButtonElement>('.region-nav-btn');
+  const prefSelect = document.getElementById('pref-select') as HTMLSelectElement | null;
   const emptyMsg = document.getElementById('empty-msg')!;
 
-  function filter(region: string) {
-    let visibleCount = 0;
-    blocks.forEach(block => {
-      const match = !region || block.dataset.region === region;
-      block.hidden = !match;
-      if (match) visibleCount++;
-    });
-    emptyMsg.classList.toggle('is-visible', visibleCount === 0);
-
-    buttons.forEach(btn => {
-      btn.classList.toggle('is-active', btn.dataset.region === region);
-    });
-
-    // Update URL without reload
-    const url = new URL(window.location.href);
-    if (region) {
-      url.searchParams.set('region', region);
+  function applyFilter(region: string, pref: string) {
+    // 都道府県フィルタが優先
+    if (pref) {
+      blocks.forEach(b => b.hidden = false);
+      let visible = 0;
+      items.forEach(it => {
+        const match = it.dataset.pref === pref;
+        it.hidden = !match;
+        if (match) visible++;
+      });
+      // 各region blockで全itemsが非表示ならblockも非表示
+      blocks.forEach(b => {
+        const visibleInBlock = b.querySelectorAll<HTMLElement>('.dest-item:not([hidden])').length;
+        b.hidden = visibleInBlock === 0;
+      });
+      emptyMsg.classList.toggle('is-visible', visible === 0);
+      buttons.forEach(btn => btn.classList.toggle('is-active', false));
     } else {
-      url.searchParams.delete('region');
+      items.forEach(it => it.hidden = false);
+      let visibleBlocks = 0;
+      blocks.forEach(b => {
+        const match = !region || b.dataset.region === region;
+        b.hidden = !match;
+        if (match) visibleBlocks++;
+      });
+      emptyMsg.classList.toggle('is-visible', visibleBlocks === 0);
+      buttons.forEach(btn => btn.classList.toggle('is-active', btn.dataset.region === region));
     }
+    // URL更新
+    const url = new URL(window.location.href);
+    if (region) url.searchParams.set('region', region); else url.searchParams.delete('region');
+    if (pref) url.searchParams.set('prefecture', pref); else url.searchParams.delete('prefecture');
     history.replaceState(null, '', url.toString());
   }
 
-  // Initial state from URL param
-  filter(regionParam);
+  // 初期状態
+  if (prefSelect && prefParam) prefSelect.value = prefParam;
+  applyFilter(regionParam, prefParam);
 
   buttons.forEach(btn => {
-    btn.addEventListener('click', () => filter(btn.dataset.region || ''));
+    btn.addEventListener('click', () => {
+      if (prefSelect) prefSelect.value = '';
+      applyFilter(btn.dataset.region || '', '');
+    });
   });
+  if (prefSelect) {
+    prefSelect.addEventListener('change', () => {
+      applyFilter('', prefSelect.value);
+    });
+  }
 </script>
 
 </DestinationLayout>
