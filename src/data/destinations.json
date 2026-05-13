@@ -85243,6 +85243,9 @@
       "歴史を辿る",
       "1泊がおすすめ",
       "ゆっくり滞在"
+    ],
+    "images": [
+      "/images/tsuruoka-kinzan/main.jpg"
     ]
   },
   {
@@ -96076,7 +96079,9 @@
     "tier2": "spot",
     "hubName": "札幌",
     "rentalCarRecommended": true,
-    "images": [],
+    "images": [
+      "/images/gen_北海_木挽山/main.jpg"
+    ],
     "reasonChips": [
       "山岳ハイキング",
       "絶景スポット",
@@ -120281,7 +120286,9 @@
     "tier2": "area",
     "hubName": "札幌",
     "rentalCarRecommended": true,
-    "images": [],
+    "images": [
+      "/images/gen_北海_滝の湯温泉/main.jpg"
+    ],
     "reasonChips": [
       "温泉がおすすめ",
       "街歩き向け",
@@ -120587,7 +120594,9 @@
     "tier2": "area",
     "hubName": "札幌",
     "rentalCarRecommended": true,
-    "images": [],
+    "images": [
+      "/images/gen_北海_天塩川温泉/main.jpg"
+    ],
     "reasonChips": [
       "温泉がおすすめ",
       "街歩き向け",
@@ -120887,7 +120896,9 @@
     "tier2": "area",
     "hubName": "札幌",
     "rentalCarRecommended": true,
-    "images": [],
+    "images": [
+      "/images/gen_北海_浜頓別温泉/main.jpg"
+    ],
     "reasonChips": [
       "温泉がおすすめ",
       "街歩き向け",
@@ -154787,6 +154798,9 @@
       "山岳ハイキング",
       "絶景スポット",
       "ゆっくり滞在"
+    ],
+    "images": [
+      "/images/gen_北海_黒松内岳/main.jpg"
     ]
   },
   {
@@ -195208,6 +195222,9 @@
       "歴史を辿る",
       "街歩き向け",
       "博物館・美術館"
+    ],
+    "images": [
+      "/images/sakura-city/main.jpg"
     ]
   },
   {
@@ -195277,6 +195294,9 @@
       "アートの島",
       "建築の名作",
       "街歩き向け"
+    ],
+    "images": [
+      "/images/toyama-glass/main.jpg"
     ]
   },
   {
@@ -195499,6 +195519,9 @@
       "酒蔵巡り",
       "街歩き向け",
       "1泊がおすすめ"
+    ],
+    "images": [
+      "/images/hakushu/main.jpg"
     ]
   },
   {
@@ -195569,6 +195592,9 @@
       "秘境感あり",
       "街歩き向け",
       "歴史を辿る"
+    ],
+    "images": [
+      "/images/hayakawa/main.jpg"
     ]
   },
   {
@@ -195636,6 +195662,9 @@
     "reasonChips": [
       "湖畔のんびり",
       "1泊がおすすめ"
+    ],
+    "images": [
+      "/images/inawashiro/main.jpg"
     ]
   },
   {
@@ -195704,6 +195733,9 @@
       "温泉がおすすめ",
       "家族で楽しめる",
       "1泊がおすすめ"
+    ],
+    "images": [
+      "/images/iwaki-spa/main.jpg"
     ]
   },
   {
@@ -196088,6 +196120,9 @@
       "歴史を辿る",
       "絶景スポット",
       "秘境感あり"
+    ],
+    "images": [
+      "/images/takeda-castle/main.jpg"
     ]
   },
   {
@@ -196231,6 +196266,9 @@
     "reasonChips": [
       "家族で楽しめる",
       "日帰り最適"
+    ],
+    "images": [
+      "/images/manno/main.jpg"
     ]
   },
   {
@@ -199349,6 +199387,9 @@
       "歴史を辿る",
       "世界遺産あり",
       "街歩き向け"
+    ],
+    "images": [
+      "/images/nagasaki-city/main.jpg"
     ]
   },
   {
@@ -199570,6 +199611,9 @@
       "絶景スポット",
       "山岳ハイキング",
       "1泊がおすすめ"
+    ],
+    "images": [
+      "/images/kuju-yamanami/main.jpg"
     ]
   },
   {
@@ -199713,6 +199757,9 @@
       "歴史を辿る",
       "街歩き向け",
       "日帰り最適"
+    ],
+    "images": [
+      "/images/kagoshima-city/main.jpg"
     ]
   },
   {
@@ -199781,6 +199828,9 @@
       "温泉がおすすめ",
       "街歩き向け",
       "1泊がおすすめ"
+    ],
+    "images": [
+      "/images/ibusuki-onsen/main.jpg"
     ]
   },
   {
@@ -199850,6 +199900,9 @@
       "街歩き向け",
       "歴史を辿る",
       "グルメ目当て"
+    ],
+    "images": [
+      "/images/okinawa-naha/main.jpg"
     ]
   },
   {
@@ -199997,6 +200050,9 @@
       "寺社めぐり",
       "街歩き向け",
       "グルメ目当て"
+    ],
+    "images": [
+      "/images/narita/main.jpg"
     ]
   },
   {
@@ -202508,6 +202564,9 @@
       "歴史を辿る",
       "街歩き向け",
       "日帰り最適"
+    ],
+    "images": [
+      "/images/mikuni-minato/main.jpg"
     ]
   },
   {
@@ -202575,6 +202634,9 @@
     "reasonChips": [
       "歴史を辿る",
       "日帰り最適"
+    ],
+    "images": [
+      "/images/hyo-sho/main.jpg"
     ]
   },
   {
@@ -202719,6 +202781,9 @@
       "海を眺める",
       "温泉がおすすめ",
       "日帰り最適"
+    ],
+    "images": [
+      "/images/mihama-fukui/main.jpg"
     ]
   },
   {
@@ -202861,6 +202926,9 @@
       "伝統工芸の里",
       "街歩き向け",
       "日帰り最適"
+    ],
+    "images": [
+      "/images/echizen-cliff/main.jpg"
     ]
   },
   {
@@ -202928,6 +202996,9 @@
       "歴史を辿る",
       "街歩き向け",
       "日帰り最適"
+    ],
+    "images": [
+      "/images/nagoya-castle/main.jpg"
     ]
   },
   {
@@ -203070,6 +203141,9 @@
       "高原リゾート",
       "秘境感あり",
       "1泊がおすすめ"
+    ],
+    "images": [
+      "/images/shitara/main.jpg"
     ]
   },
   {
@@ -203597,6 +203671,9 @@
       "伝統工芸の里",
       "歴史を辿る",
       "日帰り最適"
+    ],
+    "images": [
+      "/images/seki/main.jpg"
     ]
   },
   {
@@ -203815,6 +203892,9 @@
       "秘境感あり",
       "アートの島",
       "日帰り最適"
+    ],
+    "images": [
+      "/images/yoro-falls/main.jpg"
     ]
   },
   {
@@ -206266,6 +206346,9 @@
       "温泉がおすすめ",
       "秘境感あり",
       "1泊がおすすめ"
+    ],
+    "images": [
+      "/images/totsukawa-2/main.jpg"
     ]
   },
   {
@@ -206334,6 +206417,9 @@
       "温泉がおすすめ",
       "秘境感あり",
       "1泊がおすすめ"
+    ],
+    "images": [
+      "/images/kawayu/main.jpg"
     ]
   },
   {
@@ -206551,6 +206637,9 @@
       "歴史を辿る",
       "街歩き向け",
       "日帰り最適"
+    ],
+    "images": [
+      "/images/sendai-2/main.jpg"
     ]
   },
   {
@@ -206772,6 +206861,9 @@
       "温泉がおすすめ",
       "街歩き向け",
       "日帰り最適"
+    ],
+    "images": [
+      "/images/hakone-2/main.jpg"
     ]
   },
   {
@@ -206994,6 +207086,9 @@
       "海を眺める",
       "街歩き向け",
       "日帰り最適"
+    ],
+    "images": [
+      "/images/zushi/main.jpg"
     ]
   },
   {
@@ -207141,6 +207236,9 @@
       "歴史を辿る",
       "街歩き向け",
       "日帰り最適"
+    ],
+    "images": [
+      "/images/hikone-2/main.jpg"
     ]
   },
   {
@@ -207210,6 +207308,9 @@
       "伝統工芸の里",
       "街歩き向け",
       "日帰り最適"
+    ],
+    "images": [
+      "/images/shigaraki-2-pottery/main.jpg"
     ]
   },
   {
@@ -211690,6 +211791,9 @@
       "世界遺産あり",
       "寺社めぐり",
       "山岳ハイキング"
+    ],
+    "images": [
+      "/images/shiga-otsu/main.jpg"
     ]
   },
   {
@@ -212137,6 +212241,9 @@
     "reasonChips": [
       "街歩き向け",
       "日帰り最適"
+    ],
+    "images": [
+      "/images/chiba-narashino/main.jpg"
     ]
   },
   {
@@ -212205,6 +212312,9 @@
     "reasonChips": [
       "街歩き向け",
       "日帰り最適"
+    ],
+    "images": [
+      "/images/chiba-mobara/main.jpg"
     ]
   },
   {
@@ -212576,6 +212686,9 @@
       "歴史を辿る",
       "家族で楽しめる",
       "日帰り最適"
+    ],
+    "images": [
+      "/images/saga-yoshino/main.jpg"
     ]
   },
   {
@@ -212719,6 +212832,9 @@
     "reasonChips": [
       "街歩き向け",
       "日帰り最適"
+    ],
+    "images": [
+      "/images/miyagi-rifu/main.jpg"
     ]
   },
   {
@@ -212788,6 +212904,9 @@
       "寺社めぐり",
       "グルメ目当て",
       "街歩き向け"
+    ],
+    "images": [
+      "/images/miyagi-matsushima-2/main.jpg"
     ]
   },
   {
