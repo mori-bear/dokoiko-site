@@ -184,6 +184,8 @@ export function buildShuffledPool(destinations, stayType, theme, departure = '',
 
   const withStars = destinations
     .filter(d => d.type !== 'spot')
+    // 出発地と同じ都市・同名destinationを除外
+    .filter(d => d.name !== departure && d.hubCity !== departure && d.city !== departure)
     .map(d => {
       let travelTimeMinutes = calculateTravelTimeMinutes(departure, d);
       if (departure === '札幌' && travelTimeMinutes <= 60 && d.lat && d.lng) {

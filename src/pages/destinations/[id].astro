@@ -2,6 +2,7 @@
 import DestinationLayout from '../../layouts/DestinationLayout.astro';
 import destinations from '../../data/destinations.json';
 import hubCities from '../../data/hubCities.json';
+import { pickJRService, jrServiceUrl, jrServiceLabel } from '../../../scripts/jrServiceMap.js';
 import fs from 'fs';
 import path from 'path';
 
@@ -19,8 +20,16 @@ const article = fs.existsSync(articlePath)
   ? JSON.parse(fs.readFileSync(articlePath, 'utf8'))
   : null;
 
-const hasImage = fs.existsSync(path.join(process.cwd(), 'public/images', `${dest.id}.jpg`));
-const localImageUrl  = hasImage ? `https://tabidokoiko.com/images/${dest.id}.jpg` : null;
+// 画像判定: 1) public/images/{id}/main.jpg フォルダ形式 2) public/images/{id}.jpg 旧形式 3) destinations.json の images[0] が外部URL
+const hasMainImg = fs.existsSync(path.join(process.cwd(), 'public/images', dest.id, 'main.jpg'));
+const hasSingleImg = fs.existsSync(path.join(process.cwd(), 'public/images', `${dest.id}.jpg`));
+const firstImageField = ((dest as any).images && (dest as any).images[0]) || null;
+const hasImage = hasMainImg || hasSingleImg || (firstImageField && !firstImageField.startsWith('/images/'));
+const localImageUrl = hasMainImg
+  ? `/images/${dest.id}/main.jpg`
+  : hasSingleImg
+    ? `/images/${dest.id}.jpg`
+    : (firstImageField && !firstImageField.startsWith('/images/') ? firstImageField : null);
 const unsplashUrl    = !hasImage ? ((dest as any).unsplashUrl ?? null) : null;
 const imageUrl       = localImageUrl ?? unsplashUrl;
 const unsplashCredit    = unsplashUrl ? ((dest as any).unsplashCredit ?? null) : null;
@@ -45,24 +54,50 @@ const CITY_NAMES: Record<string, string> = {
 };
 
 
-// 主要都市を優先的に含める（東京・大阪・名古屋・福岡・札幌・仙台・広島・高松・那覇・金沢）
+// city(日本語)→prefecture map (JR予約サービス判定用)
+const CITY_TO_PREF: Record<string, string> = {
+  '札幌':'北海道','函館':'北海道','旭川':'北海道','釧路':'北海道','帯広':'北海道','北見':'北海道','稚内':'北海道',
+  '青森':'青森県','八戸':'青森県','盛岡':'岩手県','秋田':'秋田県','山形':'山形県','仙台':'宮城県','福島':'福島県',
+  '水戸':'茨城県','宇都宮':'栃木県','前橋':'群馬県','高崎':'群馬県','大宮':'埼玉県','千葉':'千葉県',
+  '東京':'東京都','横浜':'神奈川県','新潟':'新潟県','金沢':'石川県','富山':'富山県','福井':'福井県',
+  '甲府':'山梨県','長野':'長野県','松本':'長野県','岐阜':'岐阜県','名古屋':'愛知県','浜松':'静岡県','静岡':'静岡県',
+  '京都':'京都府','大阪':'大阪府','神戸':'兵庫県','姫路':'兵庫県','尼崎':'兵庫県','高槻':'大阪府','泉佐野':'大阪府',
+  '津':'三重県','大津':'滋賀県','奈良':'奈良県','和歌山':'和歌山県','新宮':'和歌山県','田辺':'和歌山県','白浜':'和歌山県','串本':'和歌山県',
+  '鳥取':'鳥取県','松江':'島根県','岡山':'岡山県','倉敷':'岡山県','広島':'広島県','福山':'広島県','下関':'山口県','山口':'山口県','北九州':'福岡県',
+  '高松':'香川県','松山':'愛媛県','高知':'高知県','徳島':'徳島県',
+  '福岡':'福岡県','佐賀':'佐賀県','長崎':'長崎県','熊本':'熊本県','大分':'大分県','別府':'大分県','宮崎':'宮崎県','鹿児島':'鹿児島県',
+  '那覇':'沖縄県','宮古':'沖縄県','石垣':'沖縄県',
+};
+
+// 出発都市を「全都市常時表示」: travelTimeデータの有無に関わらず主要都市は常に選択肢に出す
+// 主要都市（札幌・仙台・東京・横浜・名古屋・京都・大阪・神戸・広島・松山・高松・福岡・長崎・熊本・鹿児島・那覇 等）を網羅
+const ALL_DEPARTURE_CITIES_JP = [
+  '札幌','函館','旭川','釧路','帯広','北見',
+  '青森','八戸','盛岡','秋田','山形','仙台','福島','水戸',
+  '前橋','高崎','東京','横浜','新潟','金沢','富山','甲府','長野','岐阜',
+  '名古屋','浜松','京都','大阪','神戸','姫路','和歌山','新宮','田辺','白浜','串本',
+  '鳥取','岡山','倉敷','広島','福山','下関','山口','北九州',
+  '高松','松山','高知','徳島',
+  '福岡','佐賀','長崎','熊本','大分','別府','宮崎','鹿児島','那覇','宮古','石垣',
+];
+// travelTimeデータがある(0<v<=240) cityのみ block 生成（変換: cityキー→日本語名）
 const PRIORITY_CITIES = ['tokyo','osaka','nagoya','fukuoka','sapporo','sendai','hiroshima','takamatsu','naha','kanazawa'];
 const travelTimes = Object.entries(dest.travelTime || {})
-  .filter(([_, v]) => v && v > 0 && (v as number) <= 240)
+  .filter(([_, v]) => v && (v as number) > 0 && (v as number) <= 480)
   .sort(([a, va], [b, vb]) => {
     const ai = PRIORITY_CITIES.indexOf(a);
     const bi = PRIORITY_CITIES.indexOf(b);
-    // 優先都市は前に
     if (ai >= 0 && bi >= 0) return ai - bi;
     if (ai >= 0) return -1;
     if (bi >= 0) return 1;
     return (va as number) - (vb as number);
   })
-  .slice(0, 10)
   .map(([city, min]) => ({
     city: CITY_NAMES[city] || city,
     min
   }));
+// travelTimeデータがある city の Set（select 表示判定用）
+const travelTimeCitySet = new Set(travelTimes.map(t => t.city));
 
 const STEP_TYPE_LABEL: Record<string, string> = {
   rail: '鉄道', ferry: '船', flight: '航空', bus: 'バス', car: '車', local: '移動',
@@ -107,32 +142,58 @@ const hotelKeyword = (dest as any).hotelSearch || dest.name;
 const rakutenHotelUrl = hotelLinks?.rakuten || buildRakutenUrl(hotelKeyword);
 const jalanHotelUrl = hotelLinks?.jalan || buildJalanUrl(hotelKeyword);
 
-// Fix2: 島系は自島＋ハブの2セクション
+// 宿セクション: 現地泊・hub泊・prefecture fallbackの三段構え
 const isIsland: boolean = !!(dest as any).isIsland;
-const showDualHotel = isIsland && !!hubName;
+const hubCityName: string = (dest as any).hubCity || hubName || '';
+const hasOvernight = stayAllowed.includes('1night') || stayAllowed.includes('2night') || stayAllowed.includes('3night+');
+const isOwnHub = hubCityName === dest.name;
+// 現地宿ボタン表示 (hotelLinksあれば表示・daytrip専用でも近隣の宿提案として有用)
+const showLocalHotel = !!hotelLinks?.rakuten;
+// hubに泊まる選択肢を必ず提供 (現地で泊まれても・hub != 自分なら提供)
+const showHubHotel = !!hubCityName && !isOwnHub;
 
 let hubRakutenUrl = '';
 let hubJalanUrl   = '';
-if (showDualHotel) {
-  const hubDest = (destinations as any[]).find((d: any) => d.name === hubName && d.hotelLinks);
+if (showHubHotel) {
+  const hubDest = (destinations as any[]).find((d: any) => d.name === hubCityName && d.hotelLinks);
   if (hubDest) {
     const hubKeyword = hubDest.hotelSearch || hubDest.name;
     hubRakutenUrl = hubDest.hotelLinks.rakuten || buildRakutenUrl(hubKeyword);
-    hubJalanUrl   = hubDest.hotelLinks.jalan || buildJalanUrl(hubName);
+    hubJalanUrl   = hubDest.hotelLinks.jalan || buildJalanUrl(hubCityName);
   } else {
-    const hubPref = HUB_CITY_TO_PREF[hubName];
-    hubRakutenUrl = hubPref ? buildRakutenPrefUrl(hubPref) : buildRakutenUrl(hubName);
-    hubJalanUrl   = buildJalanUrl(hubName);
+    const hubPref = HUB_CITY_TO_PREF[hubCityName];
+    hubRakutenUrl = hubPref ? buildRakutenPrefUrl(hubPref) : buildRakutenUrl(hubCityName);
+    hubJalanUrl   = buildJalanUrl(hubCityName);
   }
 }
 
-const hotelSectionTitle = isDaytripOnly && hubName && !isIsland
-  ? `${hubName}の宿を探す`
-  : isBusOnly && hubName && !isIsland
-    ? `${hubName}周辺の宿を探す`
-    : `${dest.name}の宿を探す`;
-const daytripNote = isDaytripOnly && hubName && !isIsland
-  ? `${dest.name}へは${hubName}から日帰りがおすすめ`
+// fallback: 現地もhubも宿が出せない場合 → 県庁所在地
+const PREF_CAPITAL: Record<string, string> = {
+  '北海道':'札幌','青森県':'青森','岩手県':'盛岡','宮城県':'仙台','秋田県':'秋田','山形県':'山形','福島県':'福島',
+  '茨城県':'水戸','栃木県':'宇都宮','群馬県':'前橋','埼玉県':'さいたま','千葉県':'千葉','東京都':'東京','神奈川県':'横浜',
+  '新潟県':'新潟','富山県':'富山','石川県':'金沢','福井県':'福井','山梨県':'甲府','長野県':'長野','岐阜県':'岐阜','静岡県':'静岡','愛知県':'名古屋',
+  '三重県':'津','滋賀県':'大津','京都府':'京都','大阪府':'大阪','兵庫県':'神戸','奈良県':'奈良','和歌山県':'和歌山',
+  '鳥取県':'鳥取','島根県':'松江','岡山県':'岡山','広島県':'広島','山口県':'山口',
+  '徳島県':'徳島','香川県':'高松','愛媛県':'松山','高知県':'高知',
+  '福岡県':'福岡','佐賀県':'佐賀','長崎県':'長崎','熊本県':'熊本','大分県':'大分','宮崎県':'宮崎','鹿児島県':'鹿児島','沖縄県':'那覇',
+};
+const showPrefHotel = !showLocalHotel && !showHubHotel;
+let prefCapital = '';
+let prefRakutenUrl = '';
+let prefJalanUrl   = '';
+if (showPrefHotel && PREF_CAPITAL[dest.prefecture]) {
+  prefCapital = PREF_CAPITAL[dest.prefecture];
+  if (prefCapital !== dest.name) {
+    prefRakutenUrl = buildRakutenUrl(prefCapital);
+    prefJalanUrl   = buildJalanUrl(prefCapital);
+  }
+}
+
+// 後方互換用
+const showDualHotel = showLocalHotel && showHubHotel;
+const hotelSectionTitle = `${dest.name}の宿を探す`;
+const daytripNote = isDaytripOnly && hubCityName && !isOwnHub
+  ? `${dest.name}へは${hubCityName}から日帰りがおすすめ`
   : '';
 
 const STAY_DESC: Record<string, string> = {
@@ -187,9 +248,10 @@ const jsonLd = JSON.stringify({
   },
 });
 
-// ハブ都市ページリンク
-const hubCity = hubName
-  ? (hubCities as any[]).find(h => h.name === hubName)
+// ハブ都市ページリンク (自身がhubCityの場合は表示しない)
+const _destHubCity = (dest as any).hubCity || hubName || '';
+const hubCity = _destHubCity && _destHubCity !== dest.name
+  ? (hubCities as any[]).find(h => h.name === _destHubCity)
   : null;
 ---
 
@@ -202,11 +264,14 @@ const hubCity = hubName
   .dest-hero {
     position: relative;
     width: 100%;
-    height: 60vh;
-    min-height: 360px;
-    max-height: 580px;
+    height: 45vh;
+    min-height: 280px;
+    max-height: 440px;
     overflow: hidden;
     background: linear-gradient(135deg, #1a2e20, #2A6049);
+  }
+  @media (min-width: 768px) {
+    .dest-hero { height: 55vh; min-height: 360px; max-height: 560px; }
   }
   .dest-hero-img {
     width: 100%;
@@ -661,6 +726,30 @@ const hubCity = hubName
   .booking-btn-route:hover { background: #d4e8df; }
   .booking-btn-navitime { background: #fff3e6; color: #C45500; border-color: #ffe0c2; }
   .booking-btn-navitime:hover { background: #ffe6cc; }
+  .booking-btn-jr { background: #e6f3ff; color: #1B5BA0; border-color: #b8daff; }
+  .booking-btn-jr:hover { background: #d0e7ff; }
+  .midori-note {
+    display: block;
+    padding: 10px 14px;
+    background: #f1fff4;
+    color: #2A6049;
+    border: 1px solid #c8e6d0;
+    border-radius: 8px;
+    font-size: 13px;
+    text-align: center;
+    letter-spacing: 0.03em;
+  }
+  .air-note {
+    display: block;
+    padding: 10px 14px;
+    background: #eaf4ff;
+    color: #1B4F8C;
+    border: 1px solid #c3dcf5;
+    border-radius: 8px;
+    font-size: 13px;
+    text-align: center;
+    letter-spacing: 0.03em;
+  }
   .access-steps { display: flex; flex-direction: column; gap: 3px; }
   .access-step {
     display: flex;
@@ -701,28 +790,33 @@ const hubCity = hubName
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 22px 24px;
-    border: 1px solid #e8e8e8;
-    border-radius: 8px;
+    padding: 18px 22px;
+    border-radius: 10px;
     text-decoration: none;
-    transition: box-shadow 0.15s, transform 0.15s;
-    box-shadow: 0 1px 6px rgba(0,0,0,0.04);
+    transition: box-shadow 0.15s, transform 0.15s, filter 0.15s;
+    background: #2d6a4f;
+    color: #fff;
+    box-shadow: 0 2px 8px rgba(45, 106, 79, 0.18);
   }
   .hotel-card:hover {
-    box-shadow: 0 4px 18px rgba(0,0,0,0.10);
+    box-shadow: 0 6px 18px rgba(45, 106, 79, 0.28);
     transform: translateY(-1px);
+    filter: brightness(1.05);
   }
-  .hotel-card-rakuten { border-left: 4px solid #BF0000; }
-  .hotel-card-jalan   { border-left: 4px solid #FF6B00; }
+  .hotel-card-rakuten { background: #2d6a4f; }
+  .hotel-card-jalan   { background: #40916c; }
+  .rentacar-section { margin-top: 12px; margin-bottom: 56px; }
+  .rentacar-card { background: #C45500; box-shadow: 0 2px 8px rgba(196, 85, 0, 0.18); }
+  .rentacar-card:hover { box-shadow: 0 6px 18px rgba(196, 85, 0, 0.28); }
   .hotel-card-name {
     font-size: 15px;
-    font-weight: 500;
-    color: #1a1a1a;
-    letter-spacing: 0.03em;
-    margin-bottom: 4px;
+    font-weight: 600;
+    color: #fff;
+    letter-spacing: 0.04em;
+    margin-bottom: 2px;
   }
-  .hotel-card-desc { font-size: 12px; color: #bbb; }
-  .hotel-card-arrow { font-size: 16px; color: #ccc; }
+  .hotel-card-desc { font-size: 12px; color: rgba(255,255,255,0.85); }
+  .hotel-card-arrow { font-size: 18px; color: #fff; font-weight: 500; }
 
   /* ═══════════════════════════════════════
      NEARBY (横スクロール)
@@ -750,14 +844,28 @@ const hubCity = hubName
   .nearby-card-img-wrap {
     position: relative;
     height: 90px;
-    background: #2A6049;
+    background: linear-gradient(135deg, #5e9b7d, #2A6049 70%);
     overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .nearby-card-placeholder {
+    color: rgba(255,255,255,0.85);
+    font-family: 'Noto Serif JP', serif;
+    font-size: 28px;
+    font-weight: 500;
+    letter-spacing: 0.05em;
+    z-index: 0;
   }
   .nearby-card-img {
+    position: absolute;
+    inset: 0;
     width: 100%;
     height: 100%;
     object-fit: cover;
     display: block;
+    z-index: 1;
   }
   .nearby-card-body {
     padding: 10px 12px 12px;
@@ -1051,46 +1159,62 @@ const hubCity = hubName
     <!-- 行き方 -->
     <div class="access-section" id="access">
       <h2 class="section-title">{dest.name}への行き方</h2>
-      {(dest as any).icCard && (
-        <div class="ic-badge">ICカード利用可</div>
-      )}
-      {travelTimes.length > 0 && (
-        <div class="travel-times">
-          <span class="travel-times-label">Access Time</span>
-          <div class="departure-picker">
-            <label for="departure-select">どこから出発？</label>
-            <select id="departure-select" class="departure-select" data-dest-name={dest.name}>
-              <option value="">— 出発地を選んでください —</option>
-              {travelTimes.map(({ city }: { city: string; min: number }) => (
-                <option value={city}>{city}</option>
-              ))}
-            </select>
-          </div>
-          <div class="access-empty-msg" id="access-empty-msg">出発地を選ぶと、ここに所要時間と経路が表示されます</div>
-          {travelTimes.map(({ city, min }: { city: string; min: number }) => {
+      <div class="travel-times">
+        <span class="travel-times-label">Access Time</span>
+        <div class="departure-picker">
+          <label for="departure-select">どこから出発？</label>
+          <select id="departure-select" class="departure-select" data-dest-name={dest.name}>
+            <option value="">— 出発地を選んでください —</option>
+            {ALL_DEPARTURE_CITIES_JP.filter(city => city !== dest.hubCity && city !== dest.name && city !== dest.city).map(city => (
+              <option value={city} data-has-data={travelTimeCitySet.has(city) ? '1' : '0'}>{city}</option>
+            ))}
+          </select>
+        </div>
+        <div class="access-empty-msg" id="access-empty-msg">出発地を選ぶと、ここに所要時間と経路が表示されます</div>
+          {ALL_DEPARTURE_CITIES_JP.filter((city: string) => city !== dest.hubCity && city !== dest.name && city !== dest.city).map((city: string) => {
+            const tt = travelTimes.find(t => t.city === city);
+            const min = tt?.min;
             const gmap = `https://www.google.com/maps/dir/${encodeURIComponent(city)}/${encodeURIComponent(dest.name)}/`;
-            const navitime = `https://www.navitime.co.jp/transfer/searchlist?orvStationName=${encodeURIComponent(city)}&dnvStationName=${encodeURIComponent(dest.name)}`;
+            const yahooTransit = `https://transit.yahoo.co.jp/search/result?from=${encodeURIComponent(city)}&to=${encodeURIComponent(dest.name)}`;
+            const origPref = CITY_TO_PREF[city] || '';
+            const destPref = dest.prefecture || '';
+            const service = pickJRService(origPref, destPref);
+            const jrHref = jrServiceUrl(service);
+            const jrLabelText = jrServiceLabel(service);
+            const timeText = (typeof min === 'number')
+              ? (min >= 60 ? `約${Math.floor(min/60)}時間${min%60 > 0 ? min%60 + '分' : ''}` : `約${min}分`)
+              : '';
             return (
               <div class="travel-time-block" data-city={city}>
                 <div class="travel-time-row">
                   <span>{city}から</span>
-                  <span>{min >= 60 ? `約${Math.floor(min/60)}時間${min%60 > 0 ? min%60 + '分' : ''}` : `約${min}分`}</span>
+                  <span>{timeText}</span>
                 </div>
                 <div class="travel-booking-row-stack">
                   <a href={gmap} target="_blank" rel="noopener noreferrer" class="booking-btn booking-btn-route">
                     <span class="booking-btn-label">地図で経路を見る</span>
                     <span class="booking-btn-arrow">→</span>
                   </a>
-                  <a href={navitime} target="_blank" rel="noopener noreferrer" class="booking-btn booking-btn-navitime">
+                  <a href={yahooTransit} target="_blank" rel="noopener noreferrer" class="booking-btn booking-btn-navitime">
                     <span class="booking-btn-label">電車・バスで行く</span>
                     <span class="booking-btn-arrow">→</span>
                   </a>
+                  {service === 'air' ? (
+                    <span class="air-note">✈️ 飛行機でのアクセスをおすすめします</span>
+                  ) : service === 'midori' ? (
+                    <span class="midori-note">🟢 みどりの窓口での購入をおすすめします</span>
+                  ) : (
+                    <a href={jrHref} target="_blank" rel="noopener noreferrer" class="booking-btn booking-btn-jr">
+                      <span class="booking-btn-label">{jrLabelText}で予約</span>
+                      <span class="booking-btn-arrow">→</span>
+                    </a>
+                  )}
                 </div>
               </div>
             );
           })}
-        </div>
-      )}
+        <div class="access-no-data-msg" id="access-no-data-msg" style="display:none;font-size:13px;color:#888;padding:12px 0;"></div>
+      </div>
       {dest.access?.steps && dest.access.steps.length > 0 ? (
         <div class="access-steps">
           {dest.access.steps.map((step: any, i: number) => (
@@ -1138,68 +1262,66 @@ const hubCity = hubName
 
     <hr class="section-divider" id="hotel" />
 
-    <!-- 宿泊 -->
-    {showDualHotel ? (
-      <>
-        <!-- 島系: 自島の宿 -->
-        <div class="hotel-section">
-          <h2 class="section-title">{dest.name}の宿を探す</h2>
-          {stayNote && <p class="hotel-description">{stayNote}</p>}
-          <div class="hotel-cards">
-            <a href={rakutenHotelUrl} target="_blank" rel="noopener noreferrer" class="hotel-card hotel-card-rakuten">
-              <div>
-                <p class="hotel-card-name">楽天トラベル</p>
-                <p class="hotel-card-desc">ポイントが貯まる・使える</p>
-              </div>
-              <span class="hotel-card-arrow">→</span>
-            </a>
-            <a href={jalanHotelUrl} target="_blank" rel="noopener noreferrer" class="hotel-card hotel-card-jalan">
-              <div>
-                <p class="hotel-card-name">じゃらん</p>
-                <p class="hotel-card-desc">国内旅行・宿泊予約</p>
-              </div>
-              <span class="hotel-card-arrow">→</span>
-            </a>
-          </div>
-        </div>
-        <!-- 島系: ハブ都市の宿 -->
-        <div class="hotel-section" style="margin-top:24px;">
-          <h2 class="section-title">{hubName}の宿を探す</h2>
-          <p class="hotel-description" style="font-size:13px;color:#888;">{hubName}を拠点に{dest.name}へ日帰り・宿泊の旅も人気です</p>
-          <div class="hotel-cards">
-            <a href={hubRakutenUrl} target="_blank" rel="noopener noreferrer" class="hotel-card hotel-card-rakuten">
-              <div>
-                <p class="hotel-card-name">楽天トラベル</p>
-                <p class="hotel-card-desc">ポイントが貯まる・使える</p>
-              </div>
-              <span class="hotel-card-arrow">→</span>
-            </a>
-            <a href={hubJalanUrl} target="_blank" rel="noopener noreferrer" class="hotel-card hotel-card-jalan">
-              <div>
-                <p class="hotel-card-name">じゃらん</p>
-                <p class="hotel-card-desc">国内旅行・宿泊予約</p>
-              </div>
-              <span class="hotel-card-arrow">→</span>
-            </a>
-          </div>
-        </div>
-      </>
-    ) : hotelLinks && (
+    <!-- 宿泊: 現地泊 / hub泊 / 県庁所在地fallback の三段 -->
+    {showLocalHotel && (
       <div class="hotel-section">
-        <h2 class="section-title">{hotelSectionTitle}</h2>
-        {daytripNote && <p class="hotel-description" style="font-size:13px;color:#888;">{daytripNote}</p>}
+        <h2 class="section-title">{dest.name}の宿を探す</h2>
         {stayNote && <p class="hotel-description">{stayNote}</p>}
         <div class="hotel-cards">
           <a href={rakutenHotelUrl} target="_blank" rel="noopener noreferrer" class="hotel-card hotel-card-rakuten">
             <div>
-              <p class="hotel-card-name">楽天トラベル</p>
+              <p class="hotel-card-name">楽天トラベルで探す</p>
               <p class="hotel-card-desc">ポイントが貯まる・使える</p>
             </div>
             <span class="hotel-card-arrow">→</span>
           </a>
           <a href={jalanHotelUrl} target="_blank" rel="noopener noreferrer" class="hotel-card hotel-card-jalan">
             <div>
-              <p class="hotel-card-name">じゃらん</p>
+              <p class="hotel-card-name">じゃらんで探す</p>
+              <p class="hotel-card-desc">国内旅行・宿泊予約</p>
+            </div>
+            <span class="hotel-card-arrow">→</span>
+          </a>
+        </div>
+      </div>
+    )}
+    {showHubHotel && (
+      <div class="hotel-section" style={showLocalHotel ? 'margin-top:24px;' : ''}>
+        <h2 class="section-title">{hubCityName}で宿を探す（{dest.name}の拠点）</h2>
+        <p class="hotel-description" style="font-size:13px;color:#888;">{hubCityName}を拠点に{dest.name}へ日帰り・宿泊の旅も便利です</p>
+        <div class="hotel-cards">
+          <a href={hubRakutenUrl} target="_blank" rel="noopener noreferrer" class="hotel-card hotel-card-rakuten">
+            <div>
+              <p class="hotel-card-name">楽天トラベルで探す</p>
+              <p class="hotel-card-desc">ポイントが貯まる・使える</p>
+            </div>
+            <span class="hotel-card-arrow">→</span>
+          </a>
+          <a href={hubJalanUrl} target="_blank" rel="noopener noreferrer" class="hotel-card hotel-card-jalan">
+            <div>
+              <p class="hotel-card-name">じゃらんで探す</p>
+              <p class="hotel-card-desc">国内旅行・宿泊予約</p>
+            </div>
+            <span class="hotel-card-arrow">→</span>
+          </a>
+        </div>
+      </div>
+    )}
+    {showPrefHotel && prefCapital && (
+      <div class="hotel-section">
+        <h2 class="section-title">{prefCapital}で宿を探す（{dest.name}の拠点）</h2>
+        <p class="hotel-description" style="font-size:13px;color:#888;">{prefCapital}を拠点に{dest.name}へ日帰り・宿泊の旅も便利です</p>
+        <div class="hotel-cards">
+          <a href={prefRakutenUrl} target="_blank" rel="noopener noreferrer" class="hotel-card hotel-card-rakuten">
+            <div>
+              <p class="hotel-card-name">楽天トラベルで探す</p>
+              <p class="hotel-card-desc">ポイントが貯まる・使える</p>
+            </div>
+            <span class="hotel-card-arrow">→</span>
+          </a>
+          <a href={prefJalanUrl} target="_blank" rel="noopener noreferrer" class="hotel-card hotel-card-jalan">
+            <div>
+              <p class="hotel-card-name">じゃらんで探す</p>
               <p class="hotel-card-desc">国内旅行・宿泊予約</p>
             </div>
             <span class="hotel-card-arrow">→</span>
@@ -1232,6 +1354,40 @@ const hubCity = hubName
       </div>
     )}
 
+    <!-- 楽天レンタカー & じゃらん体験 -->
+    {(showLocalHotel || showHubHotel || showPrefHotel) && (
+      <>
+        <div class="rentacar-section">
+          <a
+            href="https://hb.afl.rakuten.co.jp/hgc/53ec8786.4481081e.53ec8787.6242ff45/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fcars%2F&link_type=text&ut=eyJwYWdlIjoidXJsIiwidHlwZSI6InRleHQiLCJjb2wiOjF9"
+            target="_blank"
+            rel="nofollow sponsored noopener"
+            class="hotel-card rentacar-card"
+          >
+            <div>
+              <p class="hotel-card-name">🚗 レンタカーを探す</p>
+              <p class="hotel-card-desc">現地でクルマ移動するなら楽天レンタカー</p>
+            </div>
+            <span class="hotel-card-arrow">→</span>
+          </a>
+        </div>
+        <div class="activity-section">
+          <a
+            href={`https://www.jalan.net/activity/?keyword=${encodeURIComponent(dest.name)}`}
+            target="_blank"
+            rel="nofollow sponsored noopener"
+            class="hotel-card activity-card"
+          >
+            <div>
+              <p class="hotel-card-name">🎫 体験・アクティビティを探す</p>
+              <p class="hotel-card-desc">{dest.name}周辺の体験プラン・観光チケット</p>
+            </div>
+            <span class="hotel-card-arrow">→</span>
+          </a>
+        </div>
+      </>
+    )}
+
     <hr class="section-divider" />
 
     <!-- 近くの旅先（横スクロール） -->
@@ -1242,9 +1398,10 @@ const hubCity = hubName
           {nearbyDests.map((d: any) => (
             <a href={`/destinations/${d.id}/`} class="nearby-card">
               <div class="nearby-card-img-wrap">
+                <span class="nearby-card-placeholder">{d.name.slice(0, 1)}</span>
                 <img
                   class="nearby-card-img"
-                  src={`/images/${d.id}.jpg`}
+                  src={`/images/${d.id}/main.jpg`}
                   alt={d.name}
                   loading="lazy"
                   onerror="this.style.display='none'"
@@ -1268,7 +1425,8 @@ const hubCity = hubName
           {samePrefDests.map((d: any) => (
             <a href={`/destinations/${d.id}/`} class="nearby-card">
               <div class="nearby-card-img-wrap">
-                <img class="nearby-card-img" src={`/images/${d.id}.jpg`} alt={d.name} loading="lazy" onerror="this.style.display='none'" />
+                <span class="nearby-card-placeholder">{d.name.slice(0, 1)}</span>
+                <img class="nearby-card-img" src={`/images/${d.id}/main.jpg`} alt={d.name} loading="lazy" onerror="this.style.display='none'" />
               </div>
               <div class="nearby-card-body">
                 <div class="nearby-card-name">{d.name}</div>
@@ -1288,7 +1446,8 @@ const hubCity = hubName
           {sameTagDests.map((d: any) => (
             <a href={`/destinations/${d.id}/`} class="nearby-card">
               <div class="nearby-card-img-wrap">
-                <img class="nearby-card-img" src={`/images/${d.id}.jpg`} alt={d.name} loading="lazy" onerror="this.style.display='none'" />
+                <span class="nearby-card-placeholder">{d.name.slice(0, 1)}</span>
+                <img class="nearby-card-img" src={`/images/${d.id}/main.jpg`} alt={d.name} loading="lazy" onerror="this.style.display='none'" />
               </div>
               <div class="nearby-card-body">
                 <div class="nearby-card-name">{d.name}</div>
@@ -1326,7 +1485,7 @@ const hubCity = hubName
       </button>
       <div class="share-fallback" id="share-fallback">
         <a
-          href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(`【どこ行こ？】${dest.name}への旅｜tabidokoiko.com`)}&url=${encodeURIComponent(`https://tabidokoiko.com/destinations/${dest.id}/`)}`}
+          href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(`${dest.name}に行ってみたい！ #どこ行こ`)}&url=${encodeURIComponent(`https://tabidokoiko.com/destinations/${dest.id}/`)}`}
           target="_blank" rel="noopener noreferrer"
           class="share-x-btn"
         >
@@ -1355,14 +1514,16 @@ const hubCity = hubName
 </DestinationLayout>
 
 <script>
-  // 出発地ピッカー: 選択時のみ該当ブロックを表示
+  // 出発地ピッカー: 全都市blockが既に静的生成済み。selectで該当blockを表示する。
   const departureSelect = document.getElementById('departure-select') as HTMLSelectElement | null;
   const emptyMsg = document.getElementById('access-empty-msg');
+  const noDataMsg = document.getElementById('access-no-data-msg');
   if (departureSelect) {
     departureSelect.addEventListener('change', () => {
       const city = departureSelect.value;
       const blocks = document.querySelectorAll<HTMLElement>('.travel-time-block');
       blocks.forEach(b => b.classList.remove('selected'));
+      if (noDataMsg) { noDataMsg.style.display = 'none'; noDataMsg.textContent = ''; }
       if (!city) {
         if (emptyMsg) emptyMsg.classList.remove('hidden');
         return;
@@ -1372,6 +1533,9 @@ const hubCity = hubName
         target.classList.add('selected');
         if (emptyMsg) emptyMsg.classList.add('hidden');
         target.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      } else {
+        if (emptyMsg) emptyMsg.classList.add('hidden');
+        // 「未登録」テキストは表示しない (ユーザー要求)
       }
     });
   }
