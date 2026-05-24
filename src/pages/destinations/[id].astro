@@ -264,11 +264,14 @@ const hubCity = _destHubCity && _destHubCity !== dest.name
   .dest-hero {
     position: relative;
     width: 100%;
-    height: 45vh;
-    min-height: 280px;
-    max-height: 440px;
+    height: 35vh;
+    min-height: 240px;
+    max-height: 400px;
     overflow: hidden;
     background: linear-gradient(135deg, #1a2e20, #2A6049);
+  }
+  @media (min-width: 391px) {
+    .dest-hero { height: 45vh; min-height: 280px; max-height: 440px; }
   }
   @media (min-width: 768px) {
     .dest-hero { height: 55vh; min-height: 360px; max-height: 560px; }
@@ -674,6 +677,7 @@ const hubCity = _destHubCity && _destHubCity !== dest.name
   .travel-time-row:last-child { border-bottom: none; }
   .travel-time-row span:first-child { color: #888; }
   .travel-time-row span:last-child { font-weight: 500; color: #1a1a1a; }
+  .travel-time-note { font-size: 11px; color: #aaa; margin-top: -4px; margin-bottom: 8px; letter-spacing: 0.04em; }
   .departure-picker { padding: 8px 0 18px; }
   .departure-picker label { display: block; font-size: 11px; color: #888; margin-bottom: 8px; letter-spacing: 0.05em; }
   .departure-select {
@@ -990,7 +994,7 @@ const hubCity = _destHubCity && _destHubCity !== dest.name
         <h1 class="dest-hero-title">{dest.name}</h1>
         {dest.tags && dest.tags.length > 0 && (
           <div class="dest-hero-tags">
-            {dest.tags.slice(0, 5).map((tag: string) => (
+            {dest.tags.filter((t: any) => typeof t === 'string').slice(0, 5).map((tag: string) => (
               <span class="dest-hero-tag">{tag}</span>
             ))}
           </div>
@@ -1003,7 +1007,7 @@ const hubCity = _destHubCity && _destHubCity !== dest.name
       <h1 class="dest-noimg-title">{dest.name}</h1>
       {dest.tags && dest.tags.length > 0 && (
         <div class="dest-noimg-tags">
-          {dest.tags.slice(0, 5).map((tag: string) => (
+          {dest.tags.filter((t: any) => typeof t === 'string').slice(0, 5).map((tag: string) => (
             <span class="dest-noimg-tag">{tag}</span>
           ))}
         </div>
@@ -1027,12 +1031,9 @@ const hubCity = _destHubCity && _destHubCity !== dest.name
       <span>{dest.name}</span>
     </nav>
 
-    <!-- リード文（記事ありなら article.lead、なければ dest.description） -->
-    {article?.lead ? (
-      <p class="lead">{article.lead}</p>
-    ) : dest.description && (
-      <p class="dest-description">{dest.description}</p>
-    )}
+    <!-- リード文: article.lead は導入詩として短い（最大163字）ため dest.description を併記 -->
+    {article?.lead && <p class="lead">{article.lead}</p>}
+    {dest.description && <p class="dest-description">{dest.description}</p>}
 
     <!-- 実用情報カード -->
     <div class="info-cards">
@@ -1187,9 +1188,12 @@ const hubCity = _destHubCity && _destHubCity !== dest.name
             return (
               <div class="travel-time-block" data-city={city}>
                 <div class="travel-time-row">
-                  <span>{city}から</span>
+                  <span>🚃 {city}から</span>
                   <span>{timeText}</span>
                 </div>
+                {timeText && (
+                  <div class="travel-time-note">電車・バス利用目安</div>
+                )}
                 <div class="travel-booking-row-stack">
                   <a href={gmap} target="_blank" rel="noopener noreferrer" class="booking-btn booking-btn-route">
                     <span class="booking-btn-label">地図で経路を見る</span>
