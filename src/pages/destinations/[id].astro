@@ -212,6 +212,13 @@ const STAY_DESC: Record<string, string> = {
 };
 const stayNote: string = article?.bestStay || STAY_DESC[(dest as any).destType] || '';
 
+// 鉄道完結アクセスかを判定 (false → Yahoo乗換ボタン非表示)
+const _accessStepTypes = new Set(((dest as any).access?.steps || []).map((s: any) => s.type));
+const _hasNonRailStep = _accessStepTypes.has('flight') || _accessStepTypes.has('ferry');
+const _hasAirportGateway = ((dest as any).gateways?.airport || []).length > 0;
+const _hasFerryGateway = ((dest as any).gateways?.ferry || []).length > 0;
+const isRailReachable: boolean = !isIsland && !_hasNonRailStep && !_hasAirportGateway && !_hasFerryGateway;
+
 const nearbyDests = (destinations as any[])
   .filter((d: any) => d.id !== dest.id && d.region === dest.region)
   .slice(0, 8);
@@ -777,6 +784,10 @@ const hubCity = _destHubCity && _destHubCity !== dest.name
     letter-spacing: 0.03em;
   }
   .access-steps { display: flex; flex-direction: column; gap: 3px; }
+  .access-step-middle { border: 1px dashed #d4d4d4; border-radius: 6px; padding: 6px 10px; background: #fafafa; }
+  .access-step-middle > summary { cursor: pointer; font-size: 13px; color: #666; padding: 2px 0; list-style: revert; }
+  .access-step-middle > summary:hover { color: #2d2d2d; }
+  .access-step-middle .access-step-middle-inner { display: flex; flex-direction: column; gap: 3px; margin-top: 8px; }
   .access-step {
     display: flex;
     align-items: center;
@@ -1247,10 +1258,12 @@ const hubCity = _destHubCity && _destHubCity !== dest.name
                     <span class="booking-btn-label">地図で経路を見る</span>
                     <span class="booking-btn-arrow">→</span>
                   </a>
-                  <a href={yahooTransit} target="_blank" rel="noopener noreferrer" class="booking-btn booking-btn-navitime">
-                    <span class="booking-btn-label">電車・バスで行く</span>
-                    <span class="booking-btn-arrow">→</span>
-                  </a>
+                  {isRailReachable && (
+                    <a href={yahooTransit} target="_blank" rel="noopener noreferrer" class="booking-btn booking-btn-navitime">
+                      <span class="booking-btn-label">電車・バスで行く</span>
+                      <span class="booking-btn-arrow">→</span>
+                    </a>
+                  )}
                   {service === 'air' ? (
                     skyscannerUrl(city, dest) ? (
                       <a href={skyscannerUrl(city, dest)} target="_blank" rel="noopener noreferrer" class="booking-btn booking-btn-sky">
@@ -1276,15 +1289,44 @@ const hubCity = _destHubCity && _destHubCity !== dest.name
       </div>
       {dest.access?.steps && dest.access.steps.length > 0 ? (
         <div class="access-steps">
-          {dest.access.steps.map((step: any, i: number) => (
+          {dest.access.steps.length <= 2 ? (
+            dest.access.steps.map((step: any, i: number) => (
+              <>
+                <div class="access-step">
+                  <span class="step-type">{STEP_TYPE_LABEL[step.type] || '移動'}</span>
+                  <span>{(step.to || step.from) + 'へ'}</span>
+                </div>
+                {i < dest.access.steps.length - 1 && <div class="step-arrow">↓</div>}
+              </>
+            ))
+          ) : (
             <>
               <div class="access-step">
-                <span class="step-type">{STEP_TYPE_LABEL[step.type] || '移動'}</span>
-                <span>{(step.to || step.from) + 'へ'}</span>
+                <span class="step-type">{STEP_TYPE_LABEL[dest.access.steps[0].type] || '移動'}</span>
+                <span>{(dest.access.steps[0].to || dest.access.steps[0].from) + 'へ'}</span>
               </div>
-              {i < dest.access.steps.length - 1 && <div class="step-arrow">↓</div>}
+              <div class="step-arrow">↓</div>
+              <details class="access-step-middle">
+                <summary>途中の乗換 {dest.access.steps.length - 2} 件を表示</summary>
+                <div class="access-step-middle-inner">
+                  {dest.access.steps.slice(1, -1).map((step: any, i: number, arr: any[]) => (
+                    <>
+                      <div class="access-step">
+                        <span class="step-type">{STEP_TYPE_LABEL[step.type] || '移動'}</span>
+                        <span>{(step.to || step.from) + 'へ'}</span>
+                      </div>
+                      {i < arr.length - 1 && <div class="step-arrow">↓</div>}
+                    </>
+                  ))}
+                </div>
+              </details>
+              <div class="step-arrow">↓</div>
+              <div class="access-step">
+                <span class="step-type">{STEP_TYPE_LABEL[dest.access.steps[dest.access.steps.length-1].type] || '移動'}</span>
+                <span>{(dest.access.steps[dest.access.steps.length-1].to || dest.access.steps[dest.access.steps.length-1].from) + 'へ'}</span>
+              </div>
             </>
-          ))}
+          )}
         </div>
       ) : (
         <div class="access-steps">

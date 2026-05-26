@@ -3029,9 +3029,7 @@
       "rail": [
         "境港駅"
       ],
-      "airport": [
-        "米子空港"
-      ],
+      "airport": [],
       "bus": [],
       "ferry": []
     },
@@ -3080,10 +3078,6 @@
     "hotelKeyword": "美保関",
     "access": {
       "steps": [
-        {
-          "type": "flight",
-          "to": "米子空港"
-        },
         {
           "type": "local",
           "from": "米子空港",
@@ -3175,7 +3169,8 @@
       "街歩き向け",
       "海を眺める"
     ],
-    "bestSeason": "通年"
+    "bestSeason": "通年",
+    "_accessAutoFixed": "honshuFlightRemoved"
   },
   {
     "id": "ryujin-onsen",
@@ -18931,9 +18926,7 @@
       "rail": [
         "弘前駅"
       ],
-      "airport": [
-        "青森空港"
-      ],
+      "airport": [],
       "bus": [],
       "ferry": []
     },
@@ -18982,10 +18975,6 @@
     "hotelKeyword": "弘前",
     "access": {
       "steps": [
-        {
-          "type": "flight",
-          "to": "青森空港"
-        },
         {
           "type": "local",
           "from": "青森空港",
@@ -19077,7 +19066,8 @@
       "1泊がおすすめ",
       "ひとり旅向け"
     ],
-    "bestSeason": "春"
+    "bestSeason": "春",
+    "_accessAutoFixed": "honshuFlightRemoved"
   },
   {
     "id": "oirase",
@@ -19136,9 +19126,7 @@
       "rail": [
         "八戸駅"
       ],
-      "airport": [
-        "青森空港"
-      ],
+      "airport": [],
       "bus": [],
       "ferry": []
     },
@@ -19188,10 +19176,6 @@
     "hotelKeyword": "奥入瀬",
     "access": {
       "steps": [
-        {
-          "type": "flight",
-          "to": "青森空港"
-        },
         {
           "type": "local",
           "from": "青森空港",
@@ -19280,7 +19264,8 @@
       "友達と",
       "滝の絶景"
     ],
-    "bestSeason": "秋"
+    "bestSeason": "秋",
+    "_accessAutoFixed": "honshuFlightRemoved"
   },
   {
     "id": "mashiko",
@@ -21750,9 +21735,7 @@
       "rail": [
         "出雲市駅"
       ],
-      "airport": [
-        "出雲縁結び空港"
-      ],
+      "airport": [],
       "bus": [],
       "ferry": []
     },
@@ -21812,10 +21795,6 @@
     "hotelKeyword": "出雲",
     "access": {
       "steps": [
-        {
-          "type": "flight",
-          "to": "出雲縁結び空港"
-        },
         {
           "type": "local",
           "from": "出雲縁結び空港",
@@ -21907,7 +21886,8 @@
       "カップル向け",
       "友達と"
     ],
-    "bestSeason": "通年"
+    "bestSeason": "通年",
+    "_accessAutoFixed": "honshuFlightRemoved"
   },
   {
     "id": "suzu",
@@ -23576,9 +23556,7 @@
       "rail": [
         "紀伊田辺駅"
       ],
-      "airport": [
-        "南紀白浜空港"
-      ],
+      "airport": [],
       "bus": [],
       "ferry": []
     },
@@ -23639,10 +23617,6 @@
     "hotelKeyword": "田辺",
     "access": {
       "steps": [
-        {
-          "type": "flight",
-          "to": "南紀白浜空港"
-        },
         {
           "type": "local",
           "from": "南紀白浜空港",
@@ -23724,7 +23698,8 @@
       "カップル向け",
       "友達と"
     ],
-    "bestSeason": "冬"
+    "bestSeason": "冬",
+    "_accessAutoFixed": "honshuFlightRemoved"
   },
   {
     "id": "tosa-shimizu",
@@ -26914,9 +26889,7 @@
       "rail": [
         "鶴岡駅"
       ],
-      "airport": [
-        "庄内空港"
-      ],
+      "airport": [],
       "bus": [],
       "ferry": []
     },
@@ -26964,10 +26937,6 @@
     "hotelKeyword": "鶴岡",
     "access": {
       "steps": [
-        {
-          "type": "flight",
-          "to": "庄内空港"
-        },
         {
           "type": "local",
           "from": "庄内空港",
@@ -27051,7 +27020,8 @@
       "友達と",
       "山岳ハイキング"
     ],
-    "bestSeason": "秋"
+    "bestSeason": "秋",
+    "_accessAutoFixed": "honshuFlightRemoved"
   },
   {
     "id": "sakunami-onsen",
@@ -27100,9 +27070,7 @@
       "rail": [
         "仙台駅"
       ],
-      "airport": [
-        "仙台空港"
-      ],
+      "airport": [],
       "bus": [],
       "ferry": []
     },
@@ -27150,10 +27118,6 @@
     "hotelKeyword": "秋保温泉",
     "access": {
       "steps": [
-        {
-          "type": "flight",
-          "to": "仙台空港"
-        },
         {
           "type": "local",
           "from": "仙台空港",
@@ -27234,7 +27198,8 @@
       "温泉がおすすめ",
       "滝の絶景"
     ],
-    "bestSeason": "冬"
+    "bestSeason": "冬",
+    "_accessAutoFixed": "honshuFlightRemoved"
   },
   {
     "id": "goshogawara",
@@ -27281,9 +27246,7 @@
       "rail": [
         "五所川原駅"
       ],
-      "airport": [
-        "青森空港"
-      ],
+      "airport": [],
       "bus": [],
       "ferry": []
     },
@@ -27332,10 +27295,6 @@
     "hotelKeyword": "五所川原",
     "access": {
       "steps": [
-        {
-          "type": "flight",
-          "to": "青森空港"
-        },
         {
           "type": "local",
           "from": "青森空港",
@@ -27423,7 +27382,8 @@
       "カップル向け",
       "友達と"
     ],
-    "bestSeason": "冬"
+    "bestSeason": "冬",
+    "_accessAutoFixed": "honshuFlightRemoved"
   },
   {
     "id": "kawagoe",
@@ -29503,9 +29463,7 @@
       "rail": [
         "高山駅"
       ],
-      "airport": [
-        "松本空港"
-      ],
+      "airport": [],
       "bus": [],
       "ferry": []
     },
@@ -29553,10 +29511,6 @@
     "hotelKeyword": "奥飛騨温泉",
     "access": {
       "steps": [
-        {
-          "type": "flight",
-          "to": "松本空港"
-        },
         {
           "type": "local",
           "from": "松本空港",
@@ -29650,7 +29604,8 @@
       "温泉がおすすめ",
       "山岳ハイキング"
     ],
-    "bestSeason": "冬"
+    "bestSeason": "冬",
+    "_accessAutoFixed": "honshuFlightRemoved"
   },
   {
     "id": "minami-izu",
@@ -31163,9 +31118,7 @@
       "rail": [
         "米子駅"
       ],
-      "airport": [
-        "米子空港"
-      ],
+      "airport": [],
       "bus": [],
       "ferry": []
     },
@@ -31214,10 +31167,6 @@
     "hotelKeyword": "大山",
     "access": {
       "steps": [
-        {
-          "type": "flight",
-          "to": "米子空港"
-        },
         {
           "type": "local",
           "from": "米子空港",
@@ -31300,7 +31249,8 @@
       "友達と",
       "山岳ハイキング"
     ],
-    "bestSeason": "夏"
+    "bestSeason": "夏",
+    "_accessAutoFixed": "honshuFlightRemoved"
   },
   {
     "id": "yunotsu-onsen",
@@ -31712,9 +31662,7 @@
       "rail": [
         "岩国駅"
       ],
-      "airport": [
-        "岩国錦帯橋空港"
-      ],
+      "airport": [],
       "bus": [],
       "ferry": []
     },
@@ -31763,10 +31711,6 @@
     "hotelKeyword": "岩国",
     "access": {
       "steps": [
-        {
-          "type": "flight",
-          "to": "岩国錦帯橋空港"
-        },
         {
           "type": "local",
           "from": "岩国錦帯橋空港",
@@ -31860,7 +31804,8 @@
       "カップル向け",
       "友達と"
     ],
-    "bestSeason": "春"
+    "bestSeason": "春",
+    "_accessAutoFixed": "honshuFlightRemoved"
   },
   {
     "id": "kurayoshi",
@@ -31907,9 +31852,7 @@
       "rail": [
         "倉吉駅"
       ],
-      "airport": [
-        "米子空港"
-      ],
+      "airport": [],
       "bus": [],
       "ferry": []
     },
@@ -31958,10 +31901,6 @@
     "hotelKeyword": "倉吉",
     "access": {
       "steps": [
-        {
-          "type": "flight",
-          "to": "米子空港"
-        },
         {
           "type": "local",
           "from": "米子空港",
@@ -32048,7 +31987,8 @@
       "カップル向け",
       "友達と"
     ],
-    "bestSeason": "冬"
+    "bestSeason": "冬",
+    "_accessAutoFixed": "honshuFlightRemoved"
   },
   {
     "id": "suo-oshima",
@@ -36712,9 +36652,7 @@
       "rail": [
         "矢掛駅"
       ],
-      "airport": [
-        "岡山桃太郎空港"
-      ],
+      "airport": [],
       "bus": [],
       "ferry": []
     },
@@ -36764,10 +36702,6 @@
     "hotelKeyword": "矢掛",
     "access": {
       "steps": [
-        {
-          "type": "flight",
-          "to": "岡山桃太郎空港"
-        },
         {
           "type": "local",
           "from": "岡山桃太郎空港",
@@ -36844,7 +36778,8 @@
       "1泊がおすすめ",
       "ひとり旅向け"
     ],
-    "bestSeason": "通年"
+    "bestSeason": "通年",
+    "_accessAutoFixed": "honshuFlightRemoved"
   },
   {
     "id": "tsuyama",
@@ -36889,9 +36824,7 @@
       "rail": [
         "津山駅"
       ],
-      "airport": [
-        "岡山桃太郎空港"
-      ],
+      "airport": [],
       "bus": [],
       "ferry": []
     },
@@ -36942,10 +36875,6 @@
     "hotelKeyword": "津山",
     "access": {
       "steps": [
-        {
-          "type": "flight",
-          "to": "岡山桃太郎空港"
-        },
         {
           "type": "local",
           "from": "岡山桃太郎空港",
@@ -37041,7 +36970,8 @@
       "1泊がおすすめ",
       "ひとり旅向け"
     ],
-    "bestSeason": "春"
+    "bestSeason": "春",
+    "_accessAutoFixed": "honshuFlightRemoved"
   },
   {
     "id": "tsurugi-san",
@@ -38760,9 +38690,7 @@
       "rail": [
         "新花巻駅"
       ],
-      "airport": [
-        "花巻空港"
-      ],
+      "airport": [],
       "bus": [],
       "ferry": []
     },
@@ -38811,10 +38739,6 @@
     "hotelKeyword": "花巻",
     "access": {
       "steps": [
-        {
-          "type": "flight",
-          "to": "花巻空港"
-        },
         {
           "type": "local",
           "from": "花巻空港",
@@ -38897,7 +38821,8 @@
       "カップル向け",
       "友達と"
     ],
-    "bestSeason": "冬"
+    "bestSeason": "冬",
+    "_accessAutoFixed": "honshuFlightRemoved"
   },
   {
     "id": "hachimantai",
@@ -38948,9 +38873,7 @@
       "rail": [
         "盛岡駅"
       ],
-      "airport": [
-        "花巻空港"
-      ],
+      "airport": [],
       "bus": [],
       "ferry": []
     },
@@ -38999,10 +38922,6 @@
     "hotelKeyword": "八幡平",
     "access": {
       "steps": [
-        {
-          "type": "flight",
-          "to": "花巻空港"
-        },
         {
           "type": "local",
           "from": "花巻空港",
@@ -39096,7 +39015,8 @@
       "温泉がおすすめ",
       "山岳ハイキング"
     ],
-    "bestSeason": "冬"
+    "bestSeason": "冬",
+    "_accessAutoFixed": "honshuFlightRemoved"
   },
   {
     "id": "tazawako",
@@ -39146,9 +39066,7 @@
       "rail": [
         "田沢湖駅"
       ],
-      "airport": [
-        "秋田空港"
-      ],
+      "airport": [],
       "bus": [],
       "ferry": []
     },
@@ -39196,10 +39114,6 @@
     "hotelKeyword": "田沢湖",
     "access": {
       "steps": [
-        {
-          "type": "flight",
-          "to": "秋田空港"
-        },
         {
           "type": "local",
           "from": "秋田空港",
@@ -39284,7 +39198,8 @@
       "温泉がおすすめ",
       "山岳ハイキング"
     ],
-    "bestSeason": "冬"
+    "bestSeason": "冬",
+    "_accessAutoFixed": "honshuFlightRemoved"
   },
   {
     "id": "yamadera",
@@ -39334,9 +39249,7 @@
       "rail": [
         "山寺駅"
       ],
-      "airport": [
-        "山形空港"
-      ],
+      "airport": [],
       "bus": [],
       "ferry": []
     },
@@ -39385,10 +39298,6 @@
     "hotelKeyword": "山寺",
     "access": {
       "steps": [
-        {
-          "type": "flight",
-          "to": "山形空港"
-        },
         {
           "type": "local",
           "from": "山形空港",
@@ -39485,7 +39394,8 @@
       "カップル向け",
       "友達と"
     ],
-    "bestSeason": "夏"
+    "bestSeason": "夏",
+    "_accessAutoFixed": "honshuFlightRemoved"
   },
   {
     "id": "kesennuma",
@@ -39533,9 +39443,7 @@
       "rail": [
         "気仙沼駅"
       ],
-      "airport": [
-        "仙台空港"
-      ],
+      "airport": [],
       "bus": [],
       "ferry": []
     },
@@ -39583,10 +39491,6 @@
     "hotelKeyword": "気仙沼",
     "access": {
       "steps": [
-        {
-          "type": "flight",
-          "to": "仙台空港"
-        },
         {
           "type": "local",
           "from": "仙台空港",
@@ -39665,7 +39569,8 @@
       "友達と",
       "海を眺める"
     ],
-    "bestSeason": "通年"
+    "bestSeason": "通年",
+    "_accessAutoFixed": "honshuFlightRemoved"
   },
   {
     "id": "ikaho",
@@ -39906,7 +39811,9 @@
       ],
       "airport": [],
       "bus": [],
-      "ferry": []
+      "ferry": [
+        "江の島"
+      ]
     },
     "accessHub": null,
     "railNote": null,
@@ -39953,15 +39860,8 @@
     "access": {
       "steps": [
         {
-          "type": "rail",
-          "to": "片瀬江ノ島駅",
-          "provider": "えきねっと"
-        },
-        {
-          "type": "local",
-          "from": "片瀬江ノ島駅",
-          "to": "江の島",
-          "method": "徒歩"
+          "type": "ferry",
+          "to": "江の島"
         }
       ]
     },
@@ -40044,7 +39944,8 @@
       "カップル向け",
       "友達と"
     ],
-    "bestSeason": "夏"
+    "bestSeason": "夏",
+    "_accessAutoFixed": "islandFix"
   },
   {
     "id": "chichibu",
@@ -43387,9 +43288,7 @@
       "rail": [
         "境港駅"
       ],
-      "airport": [
-        "米子空港"
-      ],
+      "airport": [],
       "bus": [],
       "ferry": []
     },
@@ -43437,10 +43336,6 @@
     "hotelKeyword": "境港",
     "access": {
       "steps": [
-        {
-          "type": "flight",
-          "to": "米子空港"
-        },
         {
           "type": "local",
           "from": "米子空港",
@@ -43529,7 +43424,8 @@
       "友達と",
       "街歩き向け"
     ],
-    "bestSeason": "夏"
+    "bestSeason": "夏",
+    "_accessAutoFixed": "honshuFlightRemoved"
   },
   {
     "id": "ushimado",
@@ -43950,7 +43846,9 @@
       ],
       "airport": [],
       "bus": [],
-      "ferry": []
+      "ferry": [
+        "角島"
+      ]
     },
     "accessHub": null,
     "railNote": "特牛駅からタクシーまたはレンタカー",
@@ -43998,15 +43896,8 @@
     "access": {
       "steps": [
         {
-          "type": "rail",
-          "to": "特牛駅",
-          "provider": "e5489"
-        },
-        {
-          "type": "local",
-          "from": "特牛駅",
-          "to": "角島大橋",
-          "method": "レンタカー"
+          "type": "ferry",
+          "to": "角島"
         }
       ]
     },
@@ -44092,7 +43983,8 @@
       "広島に泊まるのがおすすめ",
       "離島の絶景"
     ],
-    "bestSeason": "夏"
+    "bestSeason": "夏",
+    "_accessAutoFixed": "islandFix"
   },
   {
     "id": "marugame",
@@ -60056,7 +59948,9 @@
       ],
       "airport": [],
       "bus": [],
-      "ferry": []
+      "ferry": [
+        "因島"
+      ]
     },
     "accessHub": null,
     "railNote": "バス",
@@ -60107,9 +60001,8 @@
     "access": {
       "steps": [
         {
-          "type": "rail",
-          "to": "福山駅",
-          "provider": "e5489"
+          "type": "ferry",
+          "to": "因島"
         }
       ]
     },
@@ -60177,7 +60070,8 @@
       "友達と",
       "広島に泊まるのがおすすめ"
     ],
-    "bestSeason": "夏"
+    "bestSeason": "夏",
+    "_accessAutoFixed": "islandFix"
   },
   {
     "id": "mihara",
@@ -92426,7 +92320,16 @@
     "ferryGateway": null,
     "gateways": [],
     "access": {
-      "steps": []
+      "steps": [
+        {
+          "type": "flight",
+          "to": "稚内空港"
+        },
+        {
+          "type": "ferry",
+          "to": "奥尻島"
+        }
+      ]
     },
     "localAccess": null,
     "_enriched": true,
@@ -92465,7 +92368,8 @@
       "札幌に泊まるのがおすすめ",
       "離島の絶景"
     ],
-    "bestSeason": "秋"
+    "bestSeason": "秋",
+    "_accessAutoFixed": "islandFix"
   },
   {
     "id": "gen_北海_北海道",
@@ -92776,7 +92680,16 @@
     "ferryGateway": null,
     "gateways": [],
     "access": {
-      "steps": []
+      "steps": [
+        {
+          "type": "flight",
+          "to": "稚内空港"
+        },
+        {
+          "type": "ferry",
+          "to": "焼尻島"
+        }
+      ]
     },
     "localAccess": null,
     "_enriched": true,
@@ -92809,7 +92722,8 @@
       "友達と",
       "札幌に泊まるのがおすすめ"
     ],
-    "bestSeason": "夏・冬"
+    "bestSeason": "夏・冬",
+    "_accessAutoFixed": "islandFix"
   },
   {
     "id": "gen_北海_襟裳岬",
@@ -123061,7 +122975,9 @@
       "bus": [
         "大三島BS"
       ],
-      "ferry": []
+      "ferry": [
+        "大三島"
+      ]
     },
     "accessHub": "今治",
     "railNote": "バス",
@@ -123110,15 +123026,8 @@
     "access": {
       "steps": [
         {
-          "type": "rail",
-          "to": "今治駅",
-          "provider": "e5489"
-        },
-        {
-          "type": "local",
-          "from": "今治駅",
-          "to": "大三島BS",
-          "method": "バス"
+          "type": "ferry",
+          "to": "大三島"
         }
       ]
     },
@@ -123205,7 +123114,8 @@
       "友達と",
       "松山に泊まるのがおすすめ"
     ],
-    "bestSeason": "通年"
+    "bestSeason": "通年",
+    "_accessAutoFixed": "islandFix"
   },
   {
     "id": "futamata-onsen",
@@ -145529,7 +145439,9 @@
       "rail": [],
       "airport": [],
       "bus": [],
-      "ferry": []
+      "ferry": [
+        "田代島"
+      ]
     },
     "hotelLinks": {
       "rakuten": "https://travel.rakuten.co.jp/yado/miyagi/",
@@ -145556,7 +145468,16 @@
       "jalan": "田代島"
     },
     "staySearchUrl": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%25E7%2594%25B0%25E4%25BB%25A3%25E5%25B3%25B6",
-    "bestSeason": "通年"
+    "bestSeason": "通年",
+    "access": {
+      "steps": [
+        {
+          "type": "ferry",
+          "to": "田代島"
+        }
+      ]
+    },
+    "_accessAutoFixed": "islandFix"
   },
   {
     "id": "kinkasan",
@@ -145611,7 +145532,9 @@
       "rail": [],
       "airport": [],
       "bus": [],
-      "ferry": []
+      "ferry": [
+        "金華山"
+      ]
     },
     "hotelLinks": {
       "rakuten": "https://travel.rakuten.co.jp/yado/miyagi/",
@@ -145638,7 +145561,16 @@
       "jalan": "金華山"
     },
     "staySearchUrl": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%25E9%2587%2591%25E8%258F%25AF%25E5%25B1%25B1",
-    "bestSeason": "通年"
+    "bestSeason": "通年",
+    "access": {
+      "steps": [
+        {
+          "type": "ferry",
+          "to": "金華山"
+        }
+      ]
+    },
+    "_accessAutoFixed": "islandFix"
   },
   {
     "id": "chichijima",
@@ -145698,7 +145630,9 @@
       "rail": [],
       "airport": [],
       "bus": [],
-      "ferry": []
+      "ferry": [
+        "東京港"
+      ]
     },
     "hotelLinks": {
       "rakuten": "https://travel.rakuten.co.jp/yado/tokyo/",
@@ -145728,7 +145662,20 @@
       "jalan": "父島"
     },
     "staySearchUrl": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%25E7%2588%25B6%25E5%25B3%25B6",
-    "bestSeason": "通年"
+    "bestSeason": "通年",
+    "access": {
+      "steps": [
+        {
+          "type": "flight",
+          "to": "調布飛行場"
+        },
+        {
+          "type": "ferry",
+          "to": "父島"
+        }
+      ]
+    },
+    "_accessAutoFixed": "islandFix"
   },
   {
     "id": "hahajima",
@@ -145788,7 +145735,9 @@
       "rail": [],
       "airport": [],
       "bus": [],
-      "ferry": []
+      "ferry": [
+        "東京港"
+      ]
     },
     "hotelLinks": {
       "rakuten": "https://travel.rakuten.co.jp/yado/tokyo/",
@@ -145821,7 +145770,20 @@
       "jalan": "母島"
     },
     "staySearchUrl": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%25E6%25AF%258D%25E5%25B3%25B6",
-    "bestSeason": "通年"
+    "bestSeason": "通年",
+    "access": {
+      "steps": [
+        {
+          "type": "flight",
+          "to": "調布飛行場"
+        },
+        {
+          "type": "ferry",
+          "to": "母島"
+        }
+      ]
+    },
+    "_accessAutoFixed": "islandFix"
   },
   {
     "id": "jogashima",
@@ -145882,7 +145844,9 @@
       "rail": [],
       "airport": [],
       "bus": [],
-      "ferry": []
+      "ferry": [
+        "城ヶ島"
+      ]
     },
     "hotelLinks": {
       "rakuten": "https://travel.rakuten.co.jp/yado/kanagawa/",
@@ -145911,7 +145875,16 @@
       "jalan": "城ヶ島"
     },
     "staySearchUrl": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%25E5%259F%258E%25E3%2583%25B6%25E5%25B3%25B6",
-    "bestSeason": "通年"
+    "bestSeason": "通年",
+    "access": {
+      "steps": [
+        {
+          "type": "ferry",
+          "to": "城ヶ島"
+        }
+      ]
+    },
+    "_accessAutoFixed": "islandFix"
   },
   {
     "id": "toushijima",
@@ -145972,7 +145945,9 @@
       "rail": [],
       "airport": [],
       "bus": [],
-      "ferry": []
+      "ferry": [
+        "答志島"
+      ]
     },
     "hotelLinks": {
       "rakuten": "https://travel.rakuten.co.jp/yado/mie/",
@@ -146001,7 +145976,16 @@
       "jalan": "答志島"
     },
     "staySearchUrl": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%25E7%25AD%2594%25E5%25BF%2597%25E5%25B3%25B6",
-    "bestSeason": "通年"
+    "bestSeason": "通年",
+    "access": {
+      "steps": [
+        {
+          "type": "ferry",
+          "to": "答志島"
+        }
+      ]
+    },
+    "_accessAutoFixed": "islandFix"
   },
   {
     "id": "kamishima",
@@ -146061,7 +146045,9 @@
       "rail": [],
       "airport": [],
       "bus": [],
-      "ferry": []
+      "ferry": [
+        "神島"
+      ]
     },
     "hotelLinks": {
       "rakuten": "https://travel.rakuten.co.jp/yado/mie/",
@@ -146094,7 +146080,16 @@
       "jalan": "神島"
     },
     "staySearchUrl": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%25E7%25A5%259E%25E5%25B3%25B6",
-    "bestSeason": "夏"
+    "bestSeason": "夏",
+    "access": {
+      "steps": [
+        {
+          "type": "ferry",
+          "to": "神島"
+        }
+      ]
+    },
+    "_accessAutoFixed": "islandFix"
   },
   {
     "id": "okishima",
@@ -146154,7 +146149,9 @@
       "rail": [],
       "airport": [],
       "bus": [],
-      "ferry": []
+      "ferry": [
+        "沖島"
+      ]
     },
     "hotelLinks": {
       "rakuten": "https://travel.rakuten.co.jp/yado/shiga/",
@@ -146180,7 +146177,16 @@
       "jalan": "大阪"
     },
     "staySearchUrl": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%25E5%25A4%25A7%25E9%2598%25AA",
-    "bestSeason": "通年"
+    "bestSeason": "通年",
+    "access": {
+      "steps": [
+        {
+          "type": "ferry",
+          "to": "沖島"
+        }
+      ]
+    },
+    "_accessAutoFixed": "islandFix"
   },
   {
     "id": "notojima",
@@ -146241,7 +146247,9 @@
       "rail": [],
       "airport": [],
       "bus": [],
-      "ferry": []
+      "ferry": [
+        "能登島"
+      ]
     },
     "hotelLinks": {
       "rakuten": "https://travel.rakuten.co.jp/yado/ishikawa/",
@@ -146269,7 +146277,16 @@
       "jalan": "能登島"
     },
     "staySearchUrl": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%25E8%2583%25BD%25E7%2599%25BB%25E5%25B3%25B6",
-    "bestSeason": "通年"
+    "bestSeason": "通年",
+    "access": {
+      "steps": [
+        {
+          "type": "ferry",
+          "to": "能登島"
+        }
+      ]
+    },
+    "_accessAutoFixed": "islandFix"
   },
   {
     "id": "kii-oshima",
@@ -146330,7 +146347,9 @@
       "rail": [],
       "airport": [],
       "bus": [],
-      "ferry": []
+      "ferry": [
+        "紀伊大島"
+      ]
     },
     "hotelLinks": {
       "rakuten": "https://travel.rakuten.co.jp/yado/wakayama/",
@@ -146359,7 +146378,16 @@
       "jalan": "紀伊大島"
     },
     "staySearchUrl": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%25E7%25B4%2580%25E4%25BC%258A%25E5%25A4%25A7%25E5%25B3%25B6",
-    "bestSeason": "通年"
+    "bestSeason": "通年",
+    "access": {
+      "steps": [
+        {
+          "type": "ferry",
+          "to": "紀伊大島"
+        }
+      ]
+    },
+    "_accessAutoFixed": "islandFix"
   },
   {
     "id": "daikonshima",
@@ -146422,7 +146450,9 @@
       "rail": [],
       "airport": [],
       "bus": [],
-      "ferry": []
+      "ferry": [
+        "大根島"
+      ]
     },
     "hotelLinks": {
       "rakuten": "https://travel.rakuten.co.jp/yado/shimane/",
@@ -146454,7 +146484,16 @@
       "jalan": "大根島"
     },
     "staySearchUrl": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%25E5%25A4%25A7%25E6%25A0%25B9%25E5%25B3%25B6",
-    "bestSeason": "春・夏"
+    "bestSeason": "春・夏",
+    "access": {
+      "steps": [
+        {
+          "type": "ferry",
+          "to": "大根島"
+        }
+      ]
+    },
+    "_accessAutoFixed": "islandFix"
   },
   {
     "id": "nakanoshima-oki",
@@ -146515,7 +146554,9 @@
       "rail": [],
       "airport": [],
       "bus": [],
-      "ferry": []
+      "ferry": [
+        "中ノ島"
+      ]
     },
     "hotelLinks": {
       "rakuten": "https://travel.rakuten.co.jp/yado/shimane/",
@@ -146549,7 +146590,16 @@
       "jalan": "中ノ島"
     },
     "staySearchUrl": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%25E4%25B8%25AD%25E3%2583%258E%25E5%25B3%25B6",
-    "bestSeason": "通年"
+    "bestSeason": "通年",
+    "access": {
+      "steps": [
+        {
+          "type": "ferry",
+          "to": "中ノ島"
+        }
+      ]
+    },
+    "_accessAutoFixed": "islandFix"
   },
   {
     "id": "etajima",
@@ -146612,7 +146662,9 @@
       "rail": [],
       "airport": [],
       "bus": [],
-      "ferry": []
+      "ferry": [
+        "江田島"
+      ]
     },
     "hotelLinks": {
       "rakuten": "https://travel.rakuten.co.jp/yado/hiroshima/",
@@ -146646,7 +146698,16 @@
       "jalan": "江田島"
     },
     "staySearchUrl": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%25E6%25B1%259F%25E7%2594%25B0%25E5%25B3%25B6",
-    "bestSeason": "通年"
+    "bestSeason": "通年",
+    "access": {
+      "steps": [
+        {
+          "type": "ferry",
+          "to": "江田島"
+        }
+      ]
+    },
+    "_accessAutoFixed": "islandFix"
   },
   {
     "id": "omijima",
@@ -146708,7 +146769,9 @@
       "rail": [],
       "airport": [],
       "bus": [],
-      "ferry": []
+      "ferry": [
+        "青海島"
+      ]
     },
     "hotelLinks": {
       "rakuten": "https://travel.rakuten.co.jp/yado/yamaguchi/",
@@ -146742,7 +146805,16 @@
       "jalan": "青海島"
     },
     "staySearchUrl": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%25E9%259D%2592%25E6%25B5%25B7%25E5%25B3%25B6",
-    "bestSeason": "冬"
+    "bestSeason": "冬",
+    "access": {
+      "steps": [
+        {
+          "type": "ferry",
+          "to": "青海島"
+        }
+      ]
+    },
+    "_accessAutoFixed": "islandFix"
   },
   {
     "id": "iwaishima",
@@ -146803,7 +146875,9 @@
       "rail": [],
       "airport": [],
       "bus": [],
-      "ferry": []
+      "ferry": [
+        "祝島"
+      ]
     },
     "hotelLinks": {
       "rakuten": "https://travel.rakuten.co.jp/yado/yamaguchi/",
@@ -146832,7 +146906,16 @@
       "jalan": "祝島"
     },
     "staySearchUrl": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%25E7%25A5%259D%25E5%25B3%25B6",
-    "bestSeason": "冬"
+    "bestSeason": "冬",
+    "access": {
+      "steps": [
+        {
+          "type": "ferry",
+          "to": "祝島"
+        }
+      ]
+    },
+    "_accessAutoFixed": "islandFix"
   },
   {
     "id": "hakatajima",
@@ -146895,7 +146978,9 @@
       "rail": [],
       "airport": [],
       "bus": [],
-      "ferry": []
+      "ferry": [
+        "伯方島"
+      ]
     },
     "hotelLinks": {
       "rakuten": "https://travel.rakuten.co.jp/yado/ehime/",
@@ -146921,7 +147006,16 @@
       "jalan": "伯方島"
     },
     "staySearchUrl": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%25E4%25BC%25AF%25E6%2596%25B9%25E5%25B3%25B6",
-    "bestSeason": "夏"
+    "bestSeason": "夏",
+    "access": {
+      "steps": [
+        {
+          "type": "ferry",
+          "to": "伯方島"
+        }
+      ]
+    },
+    "_accessAutoFixed": "islandFix"
   },
   {
     "id": "yugeshima",
@@ -146983,7 +147077,9 @@
       "rail": [],
       "airport": [],
       "bus": [],
-      "ferry": []
+      "ferry": [
+        "弓削島"
+      ]
     },
     "hotelLinks": {
       "rakuten": "https://travel.rakuten.co.jp/yado/ehime/",
@@ -147017,7 +147113,16 @@
       "jalan": "弓削島"
     },
     "staySearchUrl": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%25E5%25BC%2593%25E5%2589%258A%25E5%25B3%25B6",
-    "bestSeason": "夏・秋"
+    "bestSeason": "夏・秋",
+    "access": {
+      "steps": [
+        {
+          "type": "ferry",
+          "to": "弓削島"
+        }
+      ]
+    },
+    "_accessAutoFixed": "islandFix"
   },
   {
     "id": "gogoshima",
@@ -147078,7 +147183,9 @@
       "rail": [],
       "airport": [],
       "bus": [],
-      "ferry": []
+      "ferry": [
+        "興居島"
+      ]
     },
     "hotelLinks": {
       "rakuten": "https://travel.rakuten.co.jp/yado/ehime/",
@@ -147106,7 +147213,16 @@
       "jalan": "興居島"
     },
     "staySearchUrl": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%25E8%2588%2588%25E5%25B1%2585%25E5%25B3%25B6",
-    "bestSeason": "夏"
+    "bestSeason": "夏",
+    "access": {
+      "steps": [
+        {
+          "type": "ferry",
+          "to": "興居島"
+        }
+      ]
+    },
+    "_accessAutoFixed": "islandFix"
   },
   {
     "id": "nakajima",
@@ -147167,7 +147283,9 @@
       "rail": [],
       "airport": [],
       "bus": [],
-      "ferry": []
+      "ferry": [
+        "中島"
+      ]
     },
     "hotelLinks": {
       "rakuten": "https://travel.rakuten.co.jp/yado/ehime/",
@@ -147199,7 +147317,16 @@
       "jalan": "中島"
     },
     "staySearchUrl": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%25E4%25B8%25AD%25E5%25B3%25B6",
-    "bestSeason": "夏"
+    "bestSeason": "夏",
+    "access": {
+      "steps": [
+        {
+          "type": "ferry",
+          "to": "中島"
+        }
+      ]
+    },
+    "_accessAutoFixed": "islandFix"
   },
   {
     "id": "shikanoshima",
@@ -147260,7 +147387,9 @@
       "rail": [],
       "airport": [],
       "bus": [],
-      "ferry": []
+      "ferry": [
+        "志賀島"
+      ]
     },
     "hotelLinks": {
       "rakuten": "https://travel.rakuten.co.jp/yado/fukuoka/",
@@ -147294,7 +147423,16 @@
       "jalan": "志賀島"
     },
     "staySearchUrl": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%25E5%25BF%2597%25E8%25B3%2580%25E5%25B3%25B6",
-    "bestSeason": "通年"
+    "bestSeason": "通年",
+    "access": {
+      "steps": [
+        {
+          "type": "ferry",
+          "to": "志賀島"
+        }
+      ]
+    },
+    "_accessAutoFixed": "islandFix"
   },
   {
     "id": "hirado-island",
@@ -147352,9 +147490,13 @@
     "stayRecommendation": "1night",
     "gateways": {
       "rail": [],
-      "airport": [],
+      "airport": [
+        "長崎空港"
+      ],
       "bus": [],
-      "ferry": []
+      "ferry": [
+        "長崎港"
+      ]
     },
     "hotelLinks": {
       "rakuten": "https://travel.rakuten.co.jp/yado/nagasaki/",
@@ -147383,7 +147525,20 @@
       "jalan": "平戸島"
     },
     "staySearchUrl": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%25E5%25B9%25B3%25E6%2588%25B8%25E5%25B3%25B6",
-    "bestSeason": "夏"
+    "bestSeason": "夏",
+    "access": {
+      "steps": [
+        {
+          "type": "flight",
+          "to": "長崎空港"
+        },
+        {
+          "type": "ferry",
+          "to": "平戸島"
+        }
+      ]
+    },
+    "_accessAutoFixed": "islandFix"
   },
   {
     "id": "ikitsukijima",
@@ -147441,9 +147596,13 @@
     "stayRecommendation": "1night",
     "gateways": {
       "rail": [],
-      "airport": [],
+      "airport": [
+        "長崎空港"
+      ],
       "bus": [],
-      "ferry": []
+      "ferry": [
+        "長崎港"
+      ]
     },
     "hotelLinks": {
       "rakuten": "https://travel.rakuten.co.jp/yado/nagasaki/",
@@ -147476,7 +147635,20 @@
       "jalan": "生月島"
     },
     "staySearchUrl": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%25E7%2594%259F%25E6%259C%2588%25E5%25B3%25B6",
-    "bestSeason": "通年"
+    "bestSeason": "通年",
+    "access": {
+      "steps": [
+        {
+          "type": "flight",
+          "to": "長崎空港"
+        },
+        {
+          "type": "ferry",
+          "to": "生月島"
+        }
+      ]
+    },
+    "_accessAutoFixed": "islandFix"
   },
   {
     "id": "fukue-island",
@@ -147535,9 +147707,13 @@
     "stayRecommendation": "1night",
     "gateways": {
       "rail": [],
-      "airport": [],
+      "airport": [
+        "長崎空港"
+      ],
       "bus": [],
-      "ferry": []
+      "ferry": [
+        "長崎港"
+      ]
     },
     "hotelLinks": {
       "rakuten": "https://travel.rakuten.co.jp/yado/nagasaki/",
@@ -147566,7 +147742,20 @@
       "jalan": "福江島"
     },
     "staySearchUrl": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%25E7%25A6%258F%25E6%25B1%259F%25E5%25B3%25B6",
-    "bestSeason": "夏"
+    "bestSeason": "夏",
+    "access": {
+      "steps": [
+        {
+          "type": "flight",
+          "to": "長崎空港"
+        },
+        {
+          "type": "ferry",
+          "to": "福江島"
+        }
+      ]
+    },
+    "_accessAutoFixed": "islandFix"
   },
   {
     "id": "ikeshima",
@@ -147624,9 +147813,13 @@
     "stayRecommendation": "daytrip",
     "gateways": {
       "rail": [],
-      "airport": [],
+      "airport": [
+        "長崎空港"
+      ],
       "bus": [],
-      "ferry": []
+      "ferry": [
+        "長崎港"
+      ]
     },
     "hotelLinks": {
       "rakuten": "https://travel.rakuten.co.jp/yado/nagasaki/",
@@ -147653,7 +147846,20 @@
       "jalan": "池島"
     },
     "staySearchUrl": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%25E6%25B1%25A0%25E5%25B3%25B6",
-    "bestSeason": "通年"
+    "bestSeason": "通年",
+    "access": {
+      "steps": [
+        {
+          "type": "flight",
+          "to": "長崎空港"
+        },
+        {
+          "type": "ferry",
+          "to": "池島"
+        }
+      ]
+    },
+    "_accessAutoFixed": "islandFix"
   },
   {
     "id": "kikai-island",
@@ -147712,9 +147918,13 @@
     "stayRecommendation": "1night",
     "gateways": {
       "rail": [],
-      "airport": [],
+      "airport": [
+        "鹿児島空港"
+      ],
       "bus": [],
-      "ferry": []
+      "ferry": [
+        "鹿児島港"
+      ]
     },
     "hotelLinks": {
       "rakuten": "https://travel.rakuten.co.jp/yado/kagoshima/",
@@ -147743,7 +147953,20 @@
       "jalan": "喜界島"
     },
     "staySearchUrl": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%25E5%2596%259C%25E7%2595%258C%25E5%25B3%25B6",
-    "bestSeason": "夏"
+    "bestSeason": "夏",
+    "access": {
+      "steps": [
+        {
+          "type": "flight",
+          "to": "鹿児島空港"
+        },
+        {
+          "type": "ferry",
+          "to": "喜界島"
+        }
+      ]
+    },
+    "_accessAutoFixed": "islandFix"
   },
   {
     "id": "tokunoshima",
@@ -147802,9 +148025,13 @@
     "stayRecommendation": "1night",
     "gateways": {
       "rail": [],
-      "airport": [],
+      "airport": [
+        "鹿児島空港"
+      ],
       "bus": [],
-      "ferry": []
+      "ferry": [
+        "鹿児島港"
+      ]
     },
     "hotelLinks": {
       "rakuten": "https://travel.rakuten.co.jp/yado/kagoshima/",
@@ -147832,7 +148059,20 @@
       "jalan": "徳之島"
     },
     "staySearchUrl": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%25E5%25BE%25B3%25E4%25B9%258B%25E5%25B3%25B6",
-    "bestSeason": "通年"
+    "bestSeason": "通年",
+    "access": {
+      "steps": [
+        {
+          "type": "flight",
+          "to": "鹿児島空港"
+        },
+        {
+          "type": "ferry",
+          "to": "徳之島"
+        }
+      ]
+    },
+    "_accessAutoFixed": "islandFix"
   },
   {
     "id": "okinoerabu",
@@ -147891,9 +148131,13 @@
     "stayRecommendation": "1night",
     "gateways": {
       "rail": [],
-      "airport": [],
+      "airport": [
+        "鹿児島空港"
+      ],
       "bus": [],
-      "ferry": []
+      "ferry": [
+        "鹿児島港"
+      ]
     },
     "hotelLinks": {
       "rakuten": "https://travel.rakuten.co.jp/yado/kagoshima/",
@@ -147924,7 +148168,20 @@
       "jalan": "沖永良部島"
     },
     "staySearchUrl": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%25E6%25B2%2596%25E6%25B0%25B8%25E8%2589%25AF%25E9%2583%25A8%25E5%25B3%25B6",
-    "bestSeason": "通年"
+    "bestSeason": "通年",
+    "access": {
+      "steps": [
+        {
+          "type": "flight",
+          "to": "鹿児島空港"
+        },
+        {
+          "type": "ferry",
+          "to": "沖永良部島"
+        }
+      ]
+    },
+    "_accessAutoFixed": "islandFix"
   },
   {
     "id": "aka-island",
@@ -147987,9 +148244,13 @@
     "stayRecommendation": "1night",
     "gateways": {
       "rail": [],
-      "airport": [],
+      "airport": [
+        "那覇空港"
+      ],
       "bus": [],
-      "ferry": []
+      "ferry": [
+        "那覇港"
+      ]
     },
     "hotelLinks": {
       "rakuten": "https://travel.rakuten.co.jp/yado/okinawa/",
@@ -148022,7 +148283,20 @@
       "jalan": "阿嘉島"
     },
     "staySearchUrl": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%25E9%2598%25BF%25E5%2598%2589%25E5%25B3%25B6",
-    "bestSeason": "夏"
+    "bestSeason": "夏",
+    "access": {
+      "steps": [
+        {
+          "type": "flight",
+          "to": "那覇空港"
+        },
+        {
+          "type": "ferry",
+          "to": "阿嘉島"
+        }
+      ]
+    },
+    "_accessAutoFixed": "islandFix"
   },
   {
     "id": "hatoma-island",
@@ -148081,9 +148355,13 @@
     "stayRecommendation": "1night",
     "gateways": {
       "rail": [],
-      "airport": [],
+      "airport": [
+        "那覇空港"
+      ],
       "bus": [],
-      "ferry": []
+      "ferry": [
+        "那覇港"
+      ]
     },
     "hotelLinks": {
       "rakuten": "https://travel.rakuten.co.jp/yado/okinawa/",
@@ -148110,7 +148388,20 @@
       "jalan": "鳩間島"
     },
     "staySearchUrl": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%25E9%25B3%25A9%25E9%2596%2593%25E5%25B3%25B6",
-    "bestSeason": "夏"
+    "bestSeason": "夏",
+    "access": {
+      "steps": [
+        {
+          "type": "flight",
+          "to": "那覇空港"
+        },
+        {
+          "type": "ferry",
+          "to": "鳩間島"
+        }
+      ]
+    },
+    "_accessAutoFixed": "islandFix"
   },
   {
     "id": "yubu-island",
@@ -148170,9 +148461,13 @@
     "stayRecommendation": "daytrip",
     "gateways": {
       "rail": [],
-      "airport": [],
+      "airport": [
+        "那覇空港"
+      ],
       "bus": [],
-      "ferry": []
+      "ferry": [
+        "那覇港"
+      ]
     },
     "hotelLinks": {
       "rakuten": "https://travel.rakuten.co.jp/yado/okinawa/",
@@ -148206,7 +148501,20 @@
       "jalan": "由布島"
     },
     "staySearchUrl": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%25E7%2594%25B1%25E5%25B8%2583%25E5%25B3%25B6",
-    "bestSeason": "夏"
+    "bestSeason": "夏",
+    "access": {
+      "steps": [
+        {
+          "type": "flight",
+          "to": "那覇空港"
+        },
+        {
+          "type": "ferry",
+          "to": "由布島"
+        }
+      ]
+    },
+    "_accessAutoFixed": "islandFix"
   },
   {
     "id": "kuroshima-yaeyama",
@@ -148266,9 +148574,13 @@
     "stayRecommendation": "daytrip",
     "gateways": {
       "rail": [],
-      "airport": [],
+      "airport": [
+        "那覇空港"
+      ],
       "bus": [],
-      "ferry": []
+      "ferry": [
+        "那覇港"
+      ]
     },
     "hotelLinks": {
       "rakuten": "https://travel.rakuten.co.jp/yado/okinawa/",
@@ -148296,7 +148608,20 @@
       "jalan": "黒島"
     },
     "staySearchUrl": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%25E9%25BB%2592%25E5%25B3%25B6",
-    "bestSeason": "夏"
+    "bestSeason": "夏",
+    "access": {
+      "steps": [
+        {
+          "type": "flight",
+          "to": "那覇空港"
+        },
+        {
+          "type": "ferry",
+          "to": "黒島"
+        }
+      ]
+    },
+    "_accessAutoFixed": "islandFix"
   },
   {
     "id": "kurima-island",
@@ -148356,9 +148681,13 @@
     "stayRecommendation": "daytrip",
     "gateways": {
       "rail": [],
-      "airport": [],
+      "airport": [
+        "那覇空港"
+      ],
       "bus": [],
-      "ferry": []
+      "ferry": [
+        "那覇港"
+      ]
     },
     "hotelLinks": {
       "rakuten": "https://travel.rakuten.co.jp/yado/okinawa/",
@@ -148384,7 +148713,20 @@
       "jalan": "来間島"
     },
     "staySearchUrl": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%25E6%259D%25A5%25E9%2596%2593%25E5%25B3%25B6",
-    "bestSeason": "夏"
+    "bestSeason": "夏",
+    "access": {
+      "steps": [
+        {
+          "type": "flight",
+          "to": "那覇空港"
+        },
+        {
+          "type": "ferry",
+          "to": "来間島"
+        }
+      ]
+    },
+    "_accessAutoFixed": "islandFix"
   },
   {
     "id": "ikema-island",
@@ -148444,9 +148786,13 @@
     "stayRecommendation": "daytrip",
     "gateways": {
       "rail": [],
-      "airport": [],
+      "airport": [
+        "那覇空港"
+      ],
       "bus": [],
-      "ferry": []
+      "ferry": [
+        "那覇港"
+      ]
     },
     "hotelLinks": {
       "rakuten": "https://travel.rakuten.co.jp/yado/okinawa/",
@@ -148480,7 +148826,20 @@
       "jalan": "池間島"
     },
     "staySearchUrl": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%25E6%25B1%25A0%25E9%2596%2593%25E5%25B3%25B6",
-    "bestSeason": "夏"
+    "bestSeason": "夏",
+    "access": {
+      "steps": [
+        {
+          "type": "flight",
+          "to": "那覇空港"
+        },
+        {
+          "type": "ferry",
+          "to": "池間島"
+        }
+      ]
+    },
+    "_accessAutoFixed": "islandFix"
   },
   {
     "id": "kouri-island",
@@ -148543,9 +148902,13 @@
     "stayRecommendation": "daytrip",
     "gateways": {
       "rail": [],
-      "airport": [],
+      "airport": [
+        "那覇空港"
+      ],
       "bus": [],
-      "ferry": []
+      "ferry": [
+        "那覇港"
+      ]
     },
     "hotelLinks": {
       "rakuten": "https://travel.rakuten.co.jp/yado/okinawa/",
@@ -148577,7 +148940,20 @@
       "jalan": "古宇利島"
     },
     "staySearchUrl": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%25E5%258F%25A4%25E5%25AE%2587%25E5%2588%25A9%25E5%25B3%25B6",
-    "bestSeason": "夏"
+    "bestSeason": "夏",
+    "access": {
+      "steps": [
+        {
+          "type": "flight",
+          "to": "那覇空港"
+        },
+        {
+          "type": "ferry",
+          "to": "古宇利島"
+        }
+      ]
+    },
+    "_accessAutoFixed": "islandFix"
   },
   {
     "id": "izena-island",
@@ -148640,9 +149016,13 @@
     "stayRecommendation": "1night",
     "gateways": {
       "rail": [],
-      "airport": [],
+      "airport": [
+        "那覇空港"
+      ],
       "bus": [],
-      "ferry": []
+      "ferry": [
+        "那覇港"
+      ]
     },
     "hotelLinks": {
       "rakuten": "https://travel.rakuten.co.jp/yado/okinawa/",
@@ -148668,7 +149048,20 @@
       "jalan": "伊是名島"
     },
     "staySearchUrl": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%25E4%25BC%258A%25E6%2598%25AF%25E5%2590%258D%25E5%25B3%25B6",
-    "bestSeason": "夏"
+    "bestSeason": "夏",
+    "access": {
+      "steps": [
+        {
+          "type": "flight",
+          "to": "那覇空港"
+        },
+        {
+          "type": "ferry",
+          "to": "伊是名島"
+        }
+      ]
+    },
+    "_accessAutoFixed": "islandFix"
   },
   {
     "id": "shirakami-sanchi",
@@ -157471,9 +157864,13 @@
     "stayRecommendation": "1night",
     "gateways": {
       "rail": [],
-      "airport": [],
+      "airport": [
+        "那覇空港"
+      ],
       "bus": [],
-      "ferry": []
+      "ferry": [
+        "那覇港"
+      ]
     },
     "hotelLinks": {
       "rakuten": "https://travel.rakuten.co.jp/yado/okinawa/",
@@ -157499,7 +157896,20 @@
       "jalan": "あはれん"
     },
     "staySearchUrl": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%25E3%2581%2582%25E3%2581%25AF%25E3%2582%258C%25E3%2582%2593",
-    "bestSeason": "夏"
+    "bestSeason": "夏",
+    "access": {
+      "steps": [
+        {
+          "type": "flight",
+          "to": "那覇空港"
+        },
+        {
+          "type": "ferry",
+          "to": "阿波連ビーチ"
+        }
+      ]
+    },
+    "_accessAutoFixed": "islandFix"
   },
   {
     "id": "omiya-bonsai",
@@ -205819,9 +206229,13 @@
       "rail": [
         "長崎駅"
       ],
-      "airport": [],
+      "airport": [
+        "長崎空港"
+      ],
       "bus": [],
-      "ferry": []
+      "ferry": [
+        "長崎港"
+      ]
     },
     "accessHub": null,
     "railNote": null,
@@ -205852,9 +206266,12 @@
     "access": {
       "steps": [
         {
-          "type": "rail",
-          "to": "長崎駅",
-          "provider": "e5489"
+          "type": "flight",
+          "to": "長崎空港"
+        },
+        {
+          "type": "ferry",
+          "to": "高島炭鉱遺跡"
         }
       ]
     },
@@ -205930,7 +206347,8 @@
       "友達と"
     ],
     "bestSeason": "通年",
-    "isIsland": true
+    "isIsland": true,
+    "_accessAutoFixed": "islandFix"
   },
   {
     "id": "niche_長崎_8",
@@ -206608,7 +207026,9 @@
       ],
       "airport": [],
       "bus": [],
-      "ferry": []
+      "ferry": [
+        "湯之児島の炭鉱遺跡"
+      ]
     },
     "accessHub": null,
     "railNote": null,
@@ -206642,9 +207062,8 @@
     "access": {
       "steps": [
         {
-          "type": "rail",
-          "to": "熊本駅",
-          "provider": "e5489"
+          "type": "ferry",
+          "to": "湯之児島の炭鉱遺跡"
         }
       ]
     },
@@ -206722,7 +207141,8 @@
       "カップル向け"
     ],
     "bestSeason": "通年",
-    "isIsland": true
+    "isIsland": true,
+    "_accessAutoFixed": "islandFix"
   },
   {
     "id": "niche_熊本_5",
@@ -210229,9 +210649,13 @@
       "rail": [
         "那覇空港駅"
       ],
-      "airport": [],
+      "airport": [
+        "那覇空港"
+      ],
       "bus": [],
-      "ferry": []
+      "ferry": [
+        "那覇港"
+      ]
     },
     "accessHub": null,
     "railNote": null,
@@ -210263,9 +210687,12 @@
     "access": {
       "steps": [
         {
-          "type": "rail",
-          "to": "那覇空港駅",
-          "provider": "e5489"
+          "type": "flight",
+          "to": "那覇空港"
+        },
+        {
+          "type": "ferry",
+          "to": "瀬長島"
         }
       ]
     },
@@ -210341,7 +210768,8 @@
       "友達と"
     ],
     "bestSeason": "夏",
-    "isIsland": true
+    "isIsland": true,
+    "_accessAutoFixed": "islandFix"
   },
   {
     "id": "niche_沖縄_3",
