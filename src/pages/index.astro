@@ -401,11 +401,17 @@ try {
   .rc-photo-wrap {
     position: relative;
     width: 100%;
-    height: 260px;
+    height: 160px;
     border-radius: 12px;
     overflow: hidden;
     margin-bottom: 28px;
     background: #eee;
+  }
+  @media (min-width: 391px) {
+    .rc-photo-wrap { height: 220px; }
+  }
+  @media (min-width: 768px) {
+    .rc-photo-wrap { height: 260px; }
   }
   .rc-hero-img {
     width: 100%;
@@ -1045,7 +1051,7 @@ function showResult(city: any) {
            loading="lazy" />
       ${city.unsplashCredit ? `<p class="rc-unsplash-credit">Photo by <a href="${city.unsplashCreditUrl}" target="_blank" rel="noopener">${city.unsplashCredit}</a> on Unsplash</p>` : ''}
     </div>
-    <span class="rc-eyebrow">${timeStr ? `${state.departure}から ${timeStr}` : ''}</span>
+    <span class="rc-eyebrow"></span>
     <h2 class="rc-name">${name}</h2>
     <p class="rc-pref">${city.prefecture || ''}${city.region ? '　' + city.region : ''}</p>
     ${allTags.length ? `<div class="rc-tags">${allTags.slice(0, 5).map(t => `<span class="rc-tag">${t}</span>`).join('')}</div>` : ''}
