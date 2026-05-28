@@ -1056,7 +1056,7 @@ function showResult(city: any) {
     <p class="rc-pref">${city.prefecture || ''}${city.region ? '　' + city.region : ''}</p>
     ${allTags.length ? `<div class="rc-tags">${allTags.slice(0, 5).map(t => `<span class="rc-tag">${t}</span>`).join('')}</div>` : ''}
     ${city.description ? `<p class="rc-desc">${city.description}</p>` : ''}
-    ${city.spots?.length ? `<p class="rc-spots">${(city.spots as string[]).slice(0, 3).join(' · ')}</p>` : ''}
+    ${city.spots?.length ? `<p class="rc-spots">${(city.spots as any[]).slice(0, 3).map(s => typeof s === 'string' ? s : (s?.name ?? '')).filter(Boolean).join(' · ')}</p>` : ''}
     <div class="rc-actions">
       <a href="/destinations/${city.id}/" class="rc-btn-primary">${name}を旅する →</a>
     </div>
