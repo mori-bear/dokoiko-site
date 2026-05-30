@@ -24,7 +24,7 @@ export const PREF_TO_COMPANY = {
   '青森県':   'east', '岩手県': 'east', '宮城県': 'east', '秋田県': 'east', '山形県': 'east', '福島県': 'east',
   '茨城県':   'east', '栃木県': 'east', '群馬県': 'east', '埼玉県': 'east', '千葉県': 'east',
   '東京都':   'east', '神奈川県': 'east', '新潟県': 'east',
-  '富山県':   'west', '石川県': 'west', '福井県': 'west',  // 北陸エリア(JR西日本)
+  '富山県':   'hokuriku', '石川県': 'hokuriku', '福井県': 'hokuriku',  // 北陸エリア(独立ゾーン / 西日本から分離)
   '山梨県':   'east',  // JR東日本 中央本線
   '長野県':   'east',  // 主に東日本
   '岐阜県':   'central', '静岡県': 'central', '愛知県': 'central', '三重県': 'central',  // JR東海
@@ -77,18 +77,29 @@ export function pickJRService(origPref, destPref) {
     if (o === 'east' || o === 'hokkaido') return 'ekinet';  // JR北海道は2017年統合済
     if (o === 'central')                   return 'smartex';  // 東海道新幹線中心
     if (o === 'west' || o === 'shikoku')   return 'e5489';
+    if (o === 'hokuriku')                  return 'e5489';   // 北陸内(JR西日本エリア)
     if (o === 'kyushu')                    return 'jrkyushu';
+  }
+
+  // ── 北陸がらみ (最優先で処理) ──
+  // 北陸新幹線(東京-金沢-敦賀)はえきねっと全区間対応。
+  // 北陸-東日本=ekinet / 北陸-北海道=飛ばしすぎmidori / それ以外(西/東海/九州/四国)=e5489
+  if (o === 'hokuriku' || d === 'hokuriku') {
+    const other = o === 'hokuriku' ? d : o;
+    if (other === 'east')     return 'ekinet';   // 北陸新幹線 (えきねっと)
+    if (other === 'hokkaido') return 'midori';    // 札幌↔金沢等 極端な飛ばし
+    return 'e5489';                               // 西日本/東海/九州/四国/北陸 → e5489 (サンダーバード等)
   }
 
   const pair = [o, d].sort().join('-');
 
   // ── 北海道がらみ (東日本以外) ──
-  // 北海道-東日本: 北海道新幹線 → ekinet
+  // 北海道-東日本: 北海道新幹線(えきねっと管内通し) → ekinet
   if (pair === 'east-hokkaido')    return 'ekinet';
-  // 北海道-中部/西: 東京経由でえきねっと一括予約可
-  if (pair === 'central-hokkaido') return 'ekinet';
-  if (pair === 'hokkaido-west')    return 'ekinet';
-  // 北海道-四国/九州: 直通新幹線なし → みどりの窓口で複数会社券
+  // 北海道-中部/西/四国/九州: 本州縦断で東海道新幹線(他社)をまたぐため通し予約不可
+  //   → みどりの窓口で複数会社券
+  if (pair === 'central-hokkaido') return 'midori';
+  if (pair === 'hokkaido-west')    return 'midori';
   if (pair === 'hokkaido-shikoku') return 'midori';
   if (pair === 'hokkaido-kyushu')  return 'midori';
 
@@ -125,4 +136,4 @@ export function jrServiceLabel(service) {
   return SERVICE_LABEL[service] || 'みどりの窓口';
 }
 
-export const VALID_PROVIDERS = ['e5489', 'ekinet', 'east', 'kyushu', 'jrkyushu', 'central', 'hokkaido', 'west', 'shikoku'];
+export const VALID_PROVIDERS = ['e5489', 'ekinet', 'east', 'kyushu', 'jrkyushu', 'central', 'hokkaido', 'west', 'shikoku', 'hokuriku'];
