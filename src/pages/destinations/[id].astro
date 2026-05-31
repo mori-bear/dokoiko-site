@@ -139,9 +139,24 @@ function buildJalanUrl(keyword: string): string {
   return `${JALAN_AFF}${encodeURIComponent(target)}`;
 }
 
+// ソースデータの宿URLが素リンクでも、ビルド時に必ずアフィリエイトを付与する。
+// 既にアフィリ形式のものはそのまま維持（キュレート済みの地域別ディープリンクを保持）。
+function toRakutenAffiliate(url: string): string {
+  if (!url) return url;
+  if (url.startsWith('https://hb.afl.rakuten.co.jp/')) return url; // 既にアフィリ
+  if (url.includes('rakuten.co.jp')) return `${RAKUTEN_AFF}?pc=${encodeURIComponent(url)}`;
+  return url;
+}
+function toJalanAffiliate(url: string): string {
+  if (!url) return url;
+  if (url.startsWith('https://ck.jp.ap.valuecommerce.com/')) return url; // 既にアフィリ
+  if (url.includes('jalan.net')) return `${JALAN_AFF}${encodeURIComponent(url)}`;
+  return url;
+}
+
 const hotelKeyword = (dest as any).hotelSearch || dest.name;
-const rakutenHotelUrl = hotelLinks?.rakuten || buildRakutenUrl(hotelKeyword);
-const jalanHotelUrl = hotelLinks?.jalan || buildJalanUrl(hotelKeyword);
+const rakutenHotelUrl = hotelLinks?.rakuten ? toRakutenAffiliate(hotelLinks.rakuten) : buildRakutenUrl(hotelKeyword);
+const jalanHotelUrl = hotelLinks?.jalan ? toJalanAffiliate(hotelLinks.jalan) : buildJalanUrl(hotelKeyword);
 
 // 宿セクション: 現地泊・hub泊・prefecture fallbackの三段構え
 const isIsland: boolean = !!(dest as any).isIsland || (dest as any).destType === 'island' || (dest as any).subType === 'island';
@@ -163,8 +178,8 @@ if (showHubHotel) {
   const hubDest = (destinations as any[]).find((d: any) => d.name === hubCityName && d.hotelLinks);
   if (hubDest) {
     const hubKeyword = hubDest.hotelSearch || hubDest.name;
-    hubRakutenUrl = hubDest.hotelLinks.rakuten || buildRakutenUrl(hubKeyword);
-    hubJalanUrl   = hubDest.hotelLinks.jalan || buildJalanUrl(hubCityName);
+    hubRakutenUrl = hubDest.hotelLinks.rakuten ? toRakutenAffiliate(hubDest.hotelLinks.rakuten) : buildRakutenUrl(hubKeyword);
+    hubJalanUrl   = hubDest.hotelLinks.jalan ? toJalanAffiliate(hubDest.hotelLinks.jalan) : buildJalanUrl(hubCityName);
   } else {
     const hubPref = HUB_CITY_TO_PREF[hubCityName];
     hubRakutenUrl = hubPref ? buildRakutenPrefUrl(hubPref) : buildRakutenUrl(hubCityName);
