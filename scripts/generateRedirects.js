@@ -66,8 +66,15 @@ const KNOWN_SLUG_REDIRECTS = {
 };
 
 // 3. 完全に削除されたページ（リダイレクト先なし）→ トップページへ
-//    Search Console で具体URLが判明したら追加
+//    削除済みdestinationのslugは src/data/deletedIds.json から自動取り込み。
+//    Search Console で個別URLが判明した場合はここに追記。
+const DELETED_IDS_FILE = path.join(__dirname, '../src/data/deletedIds.json');
+let deletedIds = [];
+if (fs.existsSync(DELETED_IDS_FILE)) {
+  try { deletedIds = JSON.parse(fs.readFileSync(DELETED_IDS_FILE, 'utf-8')); } catch {}
+}
 const DEAD_TO_HOMEPAGE = [
+  ...deletedIds,
   // 'old-removed-slug',
 ];
 
