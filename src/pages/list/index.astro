@@ -1,0 +1,175 @@
+---
+import DestinationLayout from '../../layouts/DestinationLayout.astro';
+import destinations from '../../data/destinations.json';
+
+// 47都道府県（北→南の地理順）
+const PREF_ORDER: string[] = [
+  '北海道',
+  '青森県','岩手県','宮城県','秋田県','山形県','福島県',
+  '茨城県','栃木県','群馬県','埼玉県','千葉県','東京都','神奈川県',
+  '新潟県','富山県','石川県','福井県','山梨県','長野県','岐阜県','静岡県','愛知県',
+  '三重県','滋賀県','京都府','大阪府','兵庫県','奈良県','和歌山県',
+  '鳥取県','島根県','岡山県','広島県','山口県',
+  '徳島県','香川県','愛媛県','高知県',
+  '福岡県','佐賀県','長崎県','熊本県','大分県','宮崎県','鹿児島県',
+  '沖縄県',
+];
+
+const all = destinations as any[];
+const total = all.length;
+
+// 複数県にまたがる場合（例「長野県・岐阜県」）は先頭の県で代表させる
+function primaryPref(d: any): string {
+  return String(d.prefecture || '').split(/[・／/,、]/)[0].trim();
+}
+
+// 都道府県ごとにグルーピング（空は除外）
+const groups = PREF_ORDER
+  .map(pref => ({
+    pref,
+    items: all
+      .filter(d => primaryPref(d) === pref)
+      .sort((a, b) => (b.weight || 0) - (a.weight || 0)),
+  }))
+  .filter(g => g.items.length > 0);
+
+// reasonChips（なければ tags）から先頭1〜2個をタグに
+function pickTags(d: any): string[] {
+  const src = Array.isArray(d.reasonChips) && d.reasonChips.length ? d.reasonChips : (d.tags || []);
+  return src.slice(0, 2);
+}
+
+const prefId = (p: string) => 'pref-' + encodeURIComponent(p);
+---
+
+<DestinationLayout
+  title="全国の旅先一覧 | どこ行こ？"
+  description={`日本全国${total}か所の旅先を都道府県別に一覧。気になる街を見つけて、次の旅先を決めよう。`}
+  image="https://tabidokoiko.com/images/naoshima.jpg"
+>
+<style>
+  .list-hero {
+    padding: 52px 24px 36px;
+    text-align: center;
+    border-bottom: 1px solid #ebebeb;
+  }
+  .list-hero-label {
+    font-size: 10px; letter-spacing: 0.2em;
+    color: #bbb; display: block; margin-bottom: 14px;
+  }
+  .list-hero-title {
+    font-family: 'Noto Serif JP', serif;
+    font-size: 24px; font-weight: 400;
+    color: #1a1a1a; letter-spacing: 0.06em;
+  }
+  .list-hero-count { font-size: 12px; color: #bbb; margin-top: 8px; }
+
+  .list-content { max-width: 720px; margin: 0 auto; padding: 0 24px 80px; }
+
+  /* 都道府県ジャンプナビ */
+  .pref-jump {
+    display: flex; flex-wrap: wrap; gap: 6px;
+    padding: 24px 0 28px;
+    border-bottom: 1px solid #f0f0f0;
+    margin-bottom: 36px;
+  }
+  .pref-jump a {
+    padding: 5px 12px;
+    border: 1px solid #d0e8da;
+    border-radius: 16px;
+    font-size: 12px;
+    color: #2A6049;
+    background: #f0faf4;
+    transition: all 0.15s;
+    white-space: nowrap;
+  }
+  .pref-jump a:hover { background: #2A6049; color: #fff; border-color: #2A6049; }
+  .pref-jump a .cnt { font-size: 10px; opacity: 0.7; margin-left: 3px; }
+
+  .pref-block { margin-bottom: 48px; scroll-margin-top: 16px; }
+  .pref-block-title {
+    font-family: 'Noto Serif JP', serif;
+    font-size: 17px; font-weight: 400;
+    color: #1a1a1a; letter-spacing: 0.06em;
+    padding-bottom: 12px;
+    border-bottom: 1px solid #1a1a1a;
+    margin-bottom: 4px;
+    display: flex; justify-content: space-between; align-items: baseline;
+  }
+  .pref-block-title .pref-cnt { font-size: 11px; color: #bbb; font-family: 'Noto Sans JP', sans-serif; }
+
+  .dest-list { display: flex; flex-direction: column; }
+  .dest-item {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 12px 2px;
+    border-bottom: 1px solid #f5f5f5;
+    font-size: 14px;
+    transition: background 0.1s;
+  }
+  .dest-item:hover { background: #fafafa; }
+  .dest-item-left { display: flex; align-items: center; gap: 10px; min-width: 0; }
+  .dest-item-name { color: #1a1a1a; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .dest-item-tags { display: flex; gap: 4px; flex-shrink: 0; }
+  .dest-item-tag {
+    font-size: 10px; color: #2A6049;
+    border: 1px solid #e0f0e7;
+    background: #f6fbf8;
+    padding: 1px 7px; border-radius: 10px;
+    white-space: nowrap;
+  }
+  .dest-item-arrow { font-size: 12px; color: #ccc; flex-shrink: 0; margin-left: 8px; }
+
+  .back-top {
+    display: inline-block; margin-top: 8px;
+    font-size: 11px; color: #bbb; letter-spacing: 0.05em;
+  }
+  .back-top:hover { color: #2A6049; }
+
+  @media (max-width: 480px) {
+    .dest-item-tags .dest-item-tag:nth-child(2) { display: none; }
+    .list-hero-title { font-size: 21px; }
+  }
+</style>
+
+  <div class="list-hero">
+    <span class="list-hero-label">ALL DESTINATIONS</span>
+    <h1 class="list-hero-title">全国の旅先一覧</h1>
+    <p class="list-hero-count">全{total}か所・{groups.length}都道府県</p>
+  </div>
+
+  <div class="list-content" id="top">
+
+    <nav class="pref-jump" aria-label="都道府県ジャンプ">
+      {groups.map(g => (
+        <a href={`#${prefId(g.pref)}`}>{g.pref}<span class="cnt">({g.items.length})</span></a>
+      ))}
+    </nav>
+
+    {groups.map(g => (
+      <section class="pref-block" id={prefId(g.pref)}>
+        <h2 class="pref-block-title">
+          {g.pref}
+          <span class="pref-cnt">{g.items.length}か所</span>
+        </h2>
+        <div class="dest-list">
+          {g.items.map((d: any) => (
+            <a href={`/destinations/${d.id}/`} class="dest-item">
+              <span class="dest-item-left">
+                <span class="dest-item-name">{d.name}</span>
+                <span class="dest-item-tags">
+                  {pickTags(d).map((tag: string) => (
+                    <span class="dest-item-tag">{tag}</span>
+                  ))}
+                </span>
+              </span>
+              <span class="dest-item-arrow">→</span>
+            </a>
+          ))}
+        </div>
+        <a href="#top" class="back-top">↑ ページ上部へ</a>
+      </section>
+    ))}
+
+  </div>
+
+</DestinationLayout>
