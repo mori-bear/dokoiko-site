@@ -1172,8 +1172,8 @@ function makeCardHtml(d: any): string {
   return (
     `<a href="/destinations/${d.id}/" class="dest-card">` +
     `<div class="dest-card-img-wrap">` +
-    `<img class="dest-card-bg" src="/images/${d.id}.jpg" alt="${d.name}" loading="lazy"` +
-    ` onerror="this.parentElement.classList.add('no-img');this.remove()">` +
+    `<img class="dest-card-bg" src="/images/${d.id}/main.jpg" alt="${d.name}" loading="lazy"` +
+    ` onerror="if(!this.dataset.f){this.dataset.f='1';this.src='/images/${d.id}.jpg'}else{this.parentElement.classList.add('no-img');this.remove()}">` +
     `</div>` +
     `<div class="dest-card-body">` +
     `<div class="dest-card-name">${d.name}</div>` +
