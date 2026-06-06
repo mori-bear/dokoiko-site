@@ -1,0 +1,2971 @@
+{
+ "atami": {
+  "status": "ok",
+  "name": "熱海",
+  "src": "Panorama from Atami Castle.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Panorama_from_Atami_Castle.jpg/1920px-Panorama_from_Atami_Castle.jpg",
+  "dim": "1920x873",
+  "vision": "桜咲く高台から海と港、市街地を見下ろすパノラマ写真で、熱海の街並みと相模湾を望む典型的な景観と一致。日本国内の風景として問題なし。"
+ },
+ "kouzushima": {
+  "status": "ok",
+  "name": "神津島",
+  "src": "Kozushima airport.JPG",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Kozushima_airport.JPG/1920px-Kozushima_airport.JPG",
+  "dim": "1920x1277",
+  "vision": "日本国内の公共施設と思われる建物で、離島（神津島）の施設として矛盾しない。"
+ },
+ "shuzenji": {
+  "status": "ok",
+  "name": "修善寺",
+  "src": "181124 Shuzenji Onsen Izu Shizuoka pref Japan01s3.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/181124_Shuzenji_Onsen_Izu_Shizuoka_pref_Japan01s3.jpg/1920px-181124_Shuzenji_Onsen_Izu_Shizuoka_pref_Japan01s3.jpg",
+  "dim": "1920x1280",
+  "vision": "川沿いの温泉街の風景で、石積みの川岸、日本建築の建物、紅葉が見られ、修善寺温泉街（桂川沿い）の景観と合致する。"
+ },
+ "shirahama-o": {
+  "status": "ok",
+  "name": "白浜",
+  "src": "Approach Lighting System（Nanki-Shirahama Airport）-01.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Approach_Lighting_System%EF%BC%88Nanki-Shirahama_Airport%EF%BC%89-01.jpg/1920px-Approach_Lighting_System%EF%BC%88Nanki-Shirahama_Airport%EF%BC%89-01.jpg",
+  "dim": "1920x1272",
+  "vision": "日本国内の風景で、海沿いの緑豊かな丘陵地帯と赤い構造物（クレーンまたは橋梁）が写っており、白浜周辺の海岸沿いの景観と矛盾しない。"
+ },
+ "ibusuki": {
+  "status": "ok",
+  "name": "指宿",
+  "src": "Ibusuki Golf Club, Ibusuki Kagoshima Aerial photograph.2018.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Ibusuki_Golf_Club%2C_Ibusuki_Kagoshima_Aerial_photograph.2018.jpg/1920px-Ibusuki_Golf_Club%2C_Ibusuki_Kagoshima_Aerial_photograph.2018.jpg",
+  "dim": "1920x1440",
+  "vision": "日本国内の航空写真で、海岸線・港・集落・ゴルフ場・農地が確認でき、指宿周辺の地形と矛盾しない。"
+ },
+ "kaga-onsen": {
+  "status": "ok",
+  "name": "加賀温泉郷",
+  "src": "Kaga-Onsen Station ac (2).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kaga-Onsen_Station_ac_%282%29.jpg/1920px-Kaga-Onsen_Station_ac_%282%29.jpg",
+  "dim": "1920x1277",
+  "vision": "JR加賀温泉駅の駅舎が明確に写っており、石川県加賀温泉郷の玄関口として直接関連する画像。"
+ },
+ "oboke": {
+  "status": "ok",
+  "name": "大歩危",
+  "src": "Ōboke and Koboke Valleys 20170122.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/%C5%8Cboke_and_Koboke_Valleys_20170122.jpg/1920px-%C5%8Cboke_and_Koboke_Valleys_20170122.jpg",
+  "dim": "1920x1280",
+  "vision": "エメラルドグリーンの川と岩場の渓谷風景で、大歩危の吉野川渓谷の景観と合致する。日本の山間部の建物も確認でき、国内風景として妥当。"
+ },
+ "gokayama": {
+  "status": "ok",
+  "name": "五箇山",
+  "src": "Gokayama traditional houses, Toyama Prefecture; September 2019 (12).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Gokayama_traditional_houses%2C_Toyama_Prefecture%3B_September_2019_%2812%29.jpg/1920px-Gokayama_traditional_houses%2C_Toyama_Prefecture%3B_September_2019_%2812%29.jpg",
+  "dim": "1920x1280",
+  "vision": "合掌造りの茅葺き屋根の古民家が山間に建つ風景で、五箇山の歴史的集落と一致する。日本の伝統的農村景観であり妥当。"
+ },
+ "wakura-onsen": {
+  "status": "ok",
+  "name": "和倉温泉",
+  "src": "Hanayome Noren train at Wakura-Onsen Station.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Hanayome_Noren_train_at_Wakura-Onsen_Station.jpg/1920px-Hanayome_Noren_train_at_Wakura-Onsen_Station.jpg",
+  "dim": "1920x933",
+  "vision": "「花嫁のれん」は和倉温泉・能登方面へ向かうJR七尾線の観光列車であり、石川県・和倉温泉と直接関連する日本の鉄道風景として妥当。"
+ },
+ "gero-onsen": {
+  "status": "ok",
+  "name": "下呂温泉",
+  "src": "Gero Hot Springs Museum ac.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Gero_Hot_Springs_Museum_ac.jpg/1920px-Gero_Hot_Springs_Museum_ac.jpg",
+  "dim": "1920x1277",
+  "vision": "「下呂温泉博物館」と「薬師の足湯」の看板が画像に明記されており、下呂温泉（岐阜県）のメイン画像として完全に適切。"
+ },
+ "shakotan": {
+  "status": "ok",
+  "name": "積丹",
+  "src": "Islet in the Sea of Japan, Shakotan Peninsula, Hokkaido.jpg? Islet in the Sea of Japan, Shakotan Peninsula, Hokkaido 2.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Islet_in_the_Sea_of_Japan%2C_Shakotan_Peninsula%2C_Hokkaido.jpg%3F_Islet_in_the_Sea_of_Japan%2C_Shakotan_Peninsula%2C_Hokkaido_2.jpg/1920px-Islet_in_the_Sea_of_Japan%2C_Shakotan_Peninsula%2C_Hokkaido.jpg%3F_Islet_in_the_Sea_of_Japan%2C_Shakotan_Peninsula%2C_Hokkaido_2.jpg",
+  "dim": "1920x1369",
+  "vision": "積丹の青い海（積丹ブルー）と岩礁を空撮した画像として矛盾なし。日本の海岸風景と一致する。"
+ },
+ "miyako-iwate": {
+  "status": "ok",
+  "name": "宮古",
+  "src": "Miyako Station Platform 1 - 3 in Miyako City, Iwate Pref.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Miyako_Station_Platform_1_-_3_in_Miyako_City%2C_Iwate_Pref.jpg/1920px-Miyako_Station_Platform_1_-_3_in_Miyako_City%2C_Iwate_Pref.jpg",
+  "dim": "1920x1280",
+  "vision": "日本の地方鉄道駅のホームと線路が写っており、日本国内の風景として問題ない。宮古駅（三陸鉄道・JR山田線）と思われる駅舎で、宮古市の玄関口として旅先メイン画像として妥当。"
+ },
+ "tanabe": {
+  "status": "ok",
+  "name": "田辺",
+  "src": "Tanabe Haiji, garan.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Tanabe_Haiji%2C_garan.jpg/1920px-Tanabe_Haiji%2C_garan.jpg",
+  "dim": "1920x1277",
+  "vision": "日本国内の森林・山道の風景であり、田辺（和歌山県）の自然・歴史エリア（熊野古道周辺など）のイメージとして矛盾しない。"
+ },
+ "tono": {
+  "status": "ok",
+  "name": "遠野",
+  "src": "Tono city center area Aerial photograph.2015.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tono_city_center_area_Aerial_photograph.2015.jpg/1920px-Tono_city_center_area_Aerial_photograph.2015.jpg",
+  "dim": "1920x1440",
+  "vision": "日本の地方都市・農村地帯の航空写真で、山に囲まれた盆地状の集落・田畑・川が確認でき、遠野盆地の景観と矛盾しない。"
+ },
+ "suzu": {
+  "status": "ok",
+  "name": "珠洲",
+  "src": "Suzu Onsen Notojiso.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Suzu_Onsen_Notojiso.jpg/1920px-Suzu_Onsen_Notojiso.jpg",
+  "dim": "1920x960",
+  "vision": "日本の地方都市らしい建物（宿泊施設や公共施設風）で、日本国内の風景として矛盾なし。珠洲市の施設として不自然ではない。"
+ },
+ "kiyosato": {
+  "status": "ok",
+  "name": "清里",
+  "src": "The Kiyosato country festa - Flickr - odako1 (1).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/The_Kiyosato_country_festa_-_Flickr_-_odako1_%281%29.jpg/1920px-The_Kiyosato_country_festa_-_Flickr_-_odako1_%281%29.jpg",
+  "dim": "1920x1080",
+  "vision": "日本の屋外マーケット・イベントの風景で、秋の木々と山岳地帯の雰囲気が清里（高原リゾート地）のイベントと合致する。日本国内の風景として妥当。"
+ },
+ "maizuru": {
+  "status": "ok",
+  "name": "舞鶴",
+  "src": "JMSDF MaizuruBase KitasuiQuay.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/JMSDF_MaizuruBase_KitasuiQuay.jpg/1920px-JMSDF_MaizuruBase_KitasuiQuay.jpg",
+  "dim": "1920x1358",
+  "vision": "海上自衛隊の護衛艦が港に停泊している冬景色。舞鶴は海上自衛隊の基地があり、歴史・海のテーマと合致する日本国内の風景。"
+ },
+ "shimanto": {
+  "status": "ok",
+  "name": "四万十",
+  "src": "四万十町大正 - panoramio.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/%E5%9B%9B%E4%B8%87%E5%8D%81%E7%94%BA%E5%A4%A7%E6%AD%A3_-_panoramio.jpg/1920px-%E5%9B%9B%E4%B8%87%E5%8D%81%E7%94%BA%E5%A4%A7%E6%AD%A3_-_panoramio.jpg",
+  "dim": "1920x1280",
+  "vision": "日本の農村・山間集落の路地風景で、石垣や日本家屋が確認でき、高知県四万十エリアの自然豊かな里山の雰囲気と合致する。"
+ },
+ "usuki": {
+  "status": "ok",
+  "name": "臼杵",
+  "src": "Usuki city center area Aerial photograph.2018.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Usuki_city_center_area_Aerial_photograph.2018.jpg/1920px-Usuki_city_center_area_Aerial_photograph.2018.jpg",
+  "dim": "1920x1440",
+  "vision": "日本の地方都市の航空写真で、河川・港湾・市街地が確認でき、臼杵市（大分県）の地形と合致する。日本国内の風景であり、歴史/城下町のテーマとも矛盾しない。"
+ },
+ "taketa": {
+  "status": "ok",
+  "name": "竹田",
+  "src": "Ono Taketa Bus ac.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Ono_Taketa_Bus_ac.jpg/1920px-Ono_Taketa_Bus_ac.jpg",
+  "dim": "1920x1276",
+  "vision": "日本の地方都市の街並みに路線バスが走る風景で、日本国内の景観として自然。竹田市の歴史的な町並みと矛盾しない。"
+ },
+ "kohama-island": {
+  "status": "ok",
+  "name": "小浜島",
+  "src": "Kohamajima Island, Taketomi Okinawa Aerial photograph.2019.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Kohamajima_Island%2C_Taketomi_Okinawa_Aerial_photograph.2019.jpg/1920px-Kohamajima_Island%2C_Taketomi_Okinawa_Aerial_photograph.2019.jpg",
+  "dim": "1920x1440",
+  "vision": "沖縄の離島を上空から撮影した航空・衛星写真。サンゴ礁に囲まれた小さな島と碧いラグーンが写っており、小浜島の空撮画像として形状・環境ともに合致。離島・海・自然のテーマと完全に一致。"
+ },
+ "yonaguni-island": {
+  "status": "ok",
+  "name": "与那国島",
+  "src": "Yonaguni Island Aerial photograph.2012.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Yonaguni_Island_Aerial_photograph.2012.jpg/1920px-Yonaguni_Island_Aerial_photograph.2012.jpg",
+  "dim": "1920x880",
+  "vision": "小さな離島の航空・衛星写真で、滑走路や集落、周囲の青い海が確認でき、与那国島の俯瞰画像として矛盾なし。"
+ },
+ "hasami": {
+  "status": "ok",
+  "name": "波佐見",
+  "src": "Hasami hasami-chuo ES2.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Hasami_hasami-chuo_ES2.jpg/1920px-Hasami_hasami-chuo_ES2.jpg",
+  "dim": "1920x1276",
+  "vision": "波佐見町立中央小学校と読める表札が確認でき、長崎県波佐見町の施設であることが明確。日本国内の建物として妥当。"
+ },
+ "hita": {
+  "status": "skip",
+  "name": "日田",
+  "pref": "大分県",
+  "reason": "3候補NG",
+  "tried": [
+   {
+    "title": "Hita panorama aéreo..jpg",
+    "r": "Vision NG: ヨーロッパ（スペイン風）の城壁都市の俯瞰映像であり、日本の景観ではない。大分県日"
+   },
+   {
+    "title": "Hita desde Taragudo.jpg",
+    "r": "Vision NG: 乾燥した褐色の大地と丘の上の石造り集落が見られ、スペインやイタリアなど地中海性気"
+   },
+   {
+    "title": "Hita desde Taragudo, camino de Hita.jpg",
+    "r": "Vision NG: スペイン語の道路標識「CAMINO de HITA」が写っており、明らかに海外（"
+   }
+  ]
+ },
+ "tomonoura": {
+  "status": "ok",
+  "name": "鞆の浦",
+  "src": "Tomonoura viewed from Taishiden.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Tomonoura_viewed_from_Taishiden.jpg/1920px-Tomonoura_viewed_from_Taishiden.jpg",
+  "dim": "1920x1277",
+  "vision": "瀬戸内海の島と港町を見下ろす俯瞰風景で、鞆の浦の典型的な景観（仙酔島・弁天島方面）と一致。歴史ある港町・海のテーマに合致する。"
+ },
+ "tsuyama": {
+  "status": "ok",
+  "name": "津山",
+  "src": "津山城 津山さくらまつり (46573751582).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/%E6%B4%A5%E5%B1%B1%E5%9F%8E_%E6%B4%A5%E5%B1%B1%E3%81%95%E3%81%8F%E3%82%89%E3%81%BE%E3%81%A4%E3%82%8A_%2846573751582%29.jpg/1920px-%E6%B4%A5%E5%B1%B1%E5%9F%8E_%E6%B4%A5%E5%B1%B1%E3%81%95%E3%81%8F%E3%82%89%E3%81%BE%E3%81%A4%E3%82%8A_%2846573751582%29.jpg",
+  "dim": "1920x1275",
+  "vision": "日本の城と石垣、夜桜のライトアップが写っており、津山城（鶴山公園）の春の夜景として矛盾なく合致する。"
+ },
+ "shima": {
+  "status": "ok",
+  "name": "志摩",
+  "src": "Shima 志摩 (MIE-JAPAN) (4950780573).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Shima_%E5%BF%97%E6%91%A9_%28MIE-JAPAN%29_%284950780573%29.jpg/1920px-Shima_%E5%BF%97%E6%91%A9_%28MIE-JAPAN%29_%284950780573%29.jpg",
+  "dim": "1920x1177",
+  "vision": "緑豊かな森と水辺に浮かぶ筏小屋（海女小屋や漁業用の筏）が写っており、志摩・三重県の英虞湾や五ヶ所湾周辺の自然・海/湾の景観として矛盾しない。日本の風景として自然。"
+ },
+ "tsurugi-san": {
+  "status": "ok",
+  "name": "剣山",
+  "src": "Leontopodium japonicum (Mount Tsurugi).JPG",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Leontopodium_japonicum_%28Mount_Tsurugi%29.JPG/1920px-Leontopodium_japonicum_%28Mount_Tsurugi%29.JPG",
+  "dim": "1920x1280",
+  "vision": "日本の山岳地帯に自生するヒナヤブコウジ類や高山植物と思われる植物のクローズアップ。剣山は高山植物で知られており、山の自然・植物テーマと矛盾しない。"
+ },
+ "misaki-sadamisaki": {
+  "status": "ok",
+  "name": "佐田岬",
+  "src": "Sadamisaki-no4-Battery.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Sadamisaki-no4-Battery.jpg/1920px-Sadamisaki-no4-Battery.jpg",
+  "dim": "1920x1280",
+  "vision": "海に面した石造りの砲台と大砲が写っており、佐田岬には旧陸軍の砲台跡（佐田岬砲台）が残存しているため、テーマ・場所と矛盾しない。"
+ },
+ "sakaiminato": {
+  "status": "ok",
+  "name": "境港",
+  "src": "Sakaiminato city center area Aerial photograph.2009.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Sakaiminato_city_center_area_Aerial_photograph.2009.jpg/1920px-Sakaiminato_city_center_area_Aerial_photograph.2009.jpg",
+  "dim": "1920x910",
+  "vision": "水に囲まれた半島状の港町の航空写真で、境港市の地形（中海と境水道に挟まれた細長い市街地）と合致する。日本の港湾都市の景観として妥当。"
+ },
+ "kasaoka": {
+  "status": "ok",
+  "name": "笠岡",
+  "src": "Kasaoka sta gate 20240407.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Kasaoka_sta_gate_20240407.jpg/1920px-Kasaoka_sta_gate_20240407.jpg",
+  "dim": "1920x1440",
+  "vision": "日本の鉄道駅（笠岡駅と思われる）の改札口。発車標に「倉敷・岡山」「福山・広島」方面の表示があり、岡山県笠岡の駅として整合性がある。"
+ },
+ "marugame": {
+  "status": "ok",
+  "name": "丸亀",
+  "src": "Marugame city center area Aerial photograph.2007.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Marugame_city_center_area_Aerial_photograph.2007.jpg/1920px-Marugame_city_center_area_Aerial_photograph.2007.jpg",
+  "dim": "1920x1426",
+  "vision": "日本の沿岸都市の航空・衛星写真で、港湾施設・市街地・河川が確認でき、丸亀市（香川県）の俯瞰図として矛盾なし。"
+ },
+ "dorogawa-onsen": {
+  "status": "ok",
+  "name": "洞川温泉",
+  "src": "洞川温泉 山上川.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/%E6%B4%9E%E5%B7%9D%E6%B8%A9%E6%B3%89_%E5%B1%B1%E4%B8%8A%E5%B7%9D.jpg/1920px-%E6%B4%9E%E5%B7%9D%E6%B8%A9%E6%B3%89_%E5%B1%B1%E4%B8%8A%E5%B7%9D.jpg",
+  "dim": "1920x1280",
+  "vision": "山間の渓流沿いに旅館・宿泊施設が並ぶ日本の温泉街の風景で、洞川温泉のような奈良県山間部の温泉地と矛盾しない。"
+ },
+ "inujima": {
+  "status": "ok",
+  "name": "犬島",
+  "src": "岡山市 犬島 - panoramio.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/%E5%B2%A1%E5%B1%B1%E5%B8%82_%E7%8A%AC%E5%B3%B6_-_panoramio.jpg/1920px-%E5%B2%A1%E5%B1%B1%E5%B8%82_%E7%8A%AC%E5%B3%B6_-_panoramio.jpg",
+  "dim": "1920x1104",
+  "vision": "蔦に覆われた煙突は犬島精錬所跡の象徴的な構造物と一致し、背景の海・緑の丘も瀬戸内の離島の景観と整合する。"
+ },
+ "yomitanson": {
+  "status": "ok",
+  "name": "読谷村",
+  "src": "Yomitan from bus 120 6.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Yomitan_from_bus_120_6.jpg/1920px-Yomitan_from_bus_120_6.jpg",
+  "dim": "1920x1440",
+  "vision": "日本語の看板（～共同販売センター）が見え、沖縄風の赤瓦屋根の建物が確認できる。読谷村周辺の沖縄らしい道路沿い風景として妥当。"
+ },
+ "ama-island": {
+  "status": "ok",
+  "name": "海士町",
+  "src": "海士町後鳥羽院資料館 ac.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/%E6%B5%B7%E5%A3%AB%E7%94%BA%E5%BE%8C%E9%B3%A5%E7%BE%BD%E9%99%A2%E8%B3%87%E6%96%99%E9%A4%A8_ac.jpg/1920px-%E6%B5%B7%E5%A3%AB%E7%94%BA%E5%BE%8C%E9%B3%A5%E7%BE%BD%E9%99%A2%E8%B3%87%E6%96%99%E9%A4%A8_ac.jpg",
+  "dim": "1920x1277",
+  "vision": "日本語の看板が掲げられた白壁の建物（隠岐島前歴史民俗資料館と読める）で、海士町に実在する施設と一致し、離島の文化・歴史テーマと合致する。"
+ },
+ "shikinejima": {
+  "status": "ok",
+  "name": "式根島",
+  "src": "Shikine-jima 2023 Jan 29 01-11PM.jpeg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Shikine-jima_2023_Jan_29_01-11PM.jpeg/1920px-Shikine-jima_2023_Jan_29_01-11PM.jpeg",
+  "dim": "1920x1440",
+  "vision": "空撮で離島と青い海が映っており、式根島（東京都・伊豆諸島）の離島・海・自然というテーマと合致する。日本の島嶼の俯瞰写真として妥当。"
+ },
+ "ryusendo": {
+  "status": "ok",
+  "name": "龍泉洞",
+  "src": "Ryusendo Cave Underground Lake R0012465 20201115101018.JPG",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Ryusendo_Cave_Underground_Lake_R0012465_20201115101018.JPG/1920px-Ryusendo_Cave_Underground_Lake_R0012465_20201115101018.JPG",
+  "dim": "1920x960",
+  "vision": "照明で美しく演出された洞窟内部の遊歩道が写っており、龍泉洞のような鍾乳洞の内部風景として矛盾なく、自然/絶景テーマにも合致する。"
+ },
+ "kitakata": {
+  "status": "ok",
+  "name": "喜多方",
+  "src": "喜多方駅.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/%E5%96%9C%E5%A4%9A%E6%96%B9%E9%A7%85.jpg/1920px-%E5%96%9C%E5%A4%9A%E6%96%B9%E9%A7%85.jpg",
+  "dim": "1920x1280",
+  "vision": "雪に覆われた日本のローカル鉄道駅ホームの風景。喜多方は福島県の豪雪地帯であり、冬の駅風景として矛盾しない。"
+ },
+ "shirakawa": {
+  "status": "ok",
+  "name": "白河",
+  "src": "Shirakawa-go from above.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Shirakawa-go_from_above.jpg/1920px-Shirakawa-go_from_above.jpg",
+  "dim": "1920x774",
+  "vision": "日本の山間部の雪景色・冬の集落を空撮したパノラマ写真で、国内の自然・風景として問題なし。白河周辺の自然テーマとも矛盾しない。"
+ },
+ "kisakata": {
+  "status": "ok",
+  "name": "象潟",
+  "src": "Scenery of Kisakata 20180526b.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Scenery_of_Kisakata_20180526b.jpg/1920px-Scenery_of_Kisakata_20180526b.jpg",
+  "dim": "1920x1080",
+  "vision": "日本の水田と松林、丘陵が広がる農村風景で、象潟周辺の田園・自然景観と合致する。"
+ },
+ "akakura-onsen": {
+  "status": "ok",
+  "name": "赤倉温泉",
+  "src": "JR East Akakura-Onsen Station Inside, Yamagata Pref.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/JR_East_Akakura-Onsen_Station_Inside%2C_Yamagata_Pref.jpg/1920px-JR_East_Akakura-Onsen_Station_Inside%2C_Yamagata_Pref.jpg",
+  "dim": "1920x1280",
+  "vision": "日本国内の施設内部（観光案内所または温泉施設のロビー）で、「赤倉温泉」と読める旗や地図が確認でき、赤倉温泉のテーマと合致する。"
+ },
+ "higashine": {
+  "status": "ok",
+  "name": "東根",
+  "src": "220428 Yamagata Airport Yamagata Yamagata pref Japan01s3.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/220428_Yamagata_Airport_Yamagata_Yamagata_pref_Japan01s3.jpg/1920px-220428_Yamagata_Airport_Yamagata_Yamagata_pref_Japan01s3.jpg",
+  "dim": "1920x1280",
+  "vision": "日本国内の駅舎またはバスターミナルと思われる建物で、東根市周辺の施設（さくらんぼ東根駅など）として矛盾なく、旅先のメイン画像として妥当。"
+ },
+ "takarazuka": {
+  "status": "ok",
+  "name": "宝塚",
+  "src": "宝塚カレー (49157449807).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/%E5%AE%9D%E5%A1%9A%E3%82%AB%E3%83%AC%E3%83%BC_%2849157449807%29.jpg/1920px-%E5%AE%9D%E5%A1%9A%E3%82%AB%E3%83%AC%E3%83%BC_%2849157449807%29.jpg",
+  "dim": "1920x1440",
+  "vision": "「宝塚カレー」の看板が見える宝塚の飲食店内で、日本国内の施設・街の様子として妥当。"
+ },
+ "rikuzentakata": {
+  "status": "ok",
+  "name": "陸前高田",
+  "src": "Rikuzentakata city center area Aerial photograph.2019.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Rikuzentakata_city_center_area_Aerial_photograph.2019.jpg/1920px-Rikuzentakata_city_center_area_Aerial_photograph.2019.jpg",
+  "dim": "1920x1440",
+  "vision": "日本の沿岸部の航空写真で、湾と市街地・丘陵地が確認でき、陸前高田市の地形（広田湾周辺）と合致する日本国内の風景として妥当。"
+ },
+ "nakatsu": {
+  "status": "ok",
+  "name": "中津",
+  "src": "Nakatsu-bansho-en Marugame Kagawa pref01n4350.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Nakatsu-bansho-en_Marugame_Kagawa_pref01n4350.jpg/1920px-Nakatsu-bansho-en_Marugame_Kagawa_pref01n4350.jpg",
+  "dim": "1920x1280",
+  "vision": "日本庭園の朱塗りの橋と池が写っており、日本国内の風景として適切。中津（大分県）の歴史・文化的テーマと矛盾しない。"
+ },
+ "nemuro": {
+  "status": "ok",
+  "name": "根室",
+  "src": "Nemuro city center area Aerial photograph.2019.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Nemuro_city_center_area_Aerial_photograph.2019.jpg/1920px-Nemuro_city_center_area_Aerial_photograph.2019.jpg",
+  "dim": "1920x1668",
+  "vision": "航空写真/衛星画像で港湾・市街地・緑地・海岸線が確認でき、根室市の地形（半島状の海岸線と港）と合致する日本国内の風景として妥当。"
+ },
+ "innoshima": {
+  "status": "ok",
+  "name": "因島",
+  "src": "Innoshima 107.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Innoshima_107.jpg/1920px-Innoshima_107.jpg",
+  "dim": "1920x1446",
+  "vision": "日本の神社（石灯籠・鳥居・瓦屋根の社殿）が写っており、因島の歴史・離島テーマと合致する日本国内の風景として妥当。"
+ },
+ "nagi": {
+  "status": "ok",
+  "name": "奈義",
+  "src": "Nagi-jinja shaden.JPG",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Nagi-jinja_shaden.JPG/1920px-Nagi-jinja_shaden.JPG",
+  "dim": "1920x1277",
+  "vision": "日本の神社建築が写っており、国内の歴史・文化スポットとして妥当。奈義町周辺の神社である可能性もあり、明らかな矛盾はない。"
+ },
+ "ichinoseki-geibikei": {
+  "status": "ok",
+  "name": "猊鼻渓",
+  "src": "230729 Geibikei Ichinoseki Iwate pref Japan04s3.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/230729_Geibikei_Ichinoseki_Iwate_pref_Japan04s3.jpg/1920px-230729_Geibikei_Ichinoseki_Iwate_pref_Japan04s3.jpg",
+  "dim": "1920x1280",
+  "vision": "猊鼻渓の舟下りそのもの。石灰岩の断崖・緑の渓谷・平底舟が写っており、岩手県の自然絶景スポットとして完全に合致する。"
+ },
+ "mizusawa": {
+  "status": "ok",
+  "name": "奥州",
+  "src": "Mizusawa district Oshu city center area Aerial photograph.2011.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Mizusawa_district_Oshu_city_center_area_Aerial_photograph.2011.jpg/1920px-Mizusawa_district_Oshu_city_center_area_Aerial_photograph.2011.jpg",
+  "dim": "1920x1520",
+  "vision": "日本の地方都市・農村地帯の航空/衛星写真で、田畑と市街地が混在する典型的な東北地方の景観に合致する。奥州（岩手県）の風景として矛盾なし。"
+ },
+ "akita-semboku": {
+  "status": "ok",
+  "name": "仙北",
+  "src": "Semboku city Hinokinai elementary school.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Semboku_city_Hinokinai_elementary_school.jpg/1920px-Semboku_city_Hinokinai_elementary_school.jpg",
+  "dim": "1920x1080",
+  "vision": "日本の農村地帯の秋景色。紅葉した山々を背景に田畑と建物が写っており、秋田県仙北地域の自然・農村風景として矛盾なし。"
+ },
+ "tendo": {
+  "status": "ok",
+  "name": "天童",
+  "src": "Tendo Station East Exit and Tendo City Shogi Museum.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Tendo_Station_East_Exit_and_Tendo_City_Shogi_Museum.jpg/1920px-Tendo_Station_East_Exit_and_Tendo_City_Shogi_Museum.jpg",
+  "dim": "1920x1280",
+  "vision": "JR天童駅（山形県天童市）の駅舎が明確に写っており、天童のメイン画像として妥当。"
+ },
+ "yuwaku-onsen": {
+  "status": "ok",
+  "name": "湯涌温泉",
+  "src": "131109 Yuwaku Onsen Kanazawa Ishikawa pref Japan02s3.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/131109_Yuwaku_Onsen_Kanazawa_Ishikawa_pref_Japan02s3.jpg/1920px-131109_Yuwaku_Onsen_Kanazawa_Ishikawa_pref_Japan02s3.jpg",
+  "dim": "1920x1276",
+  "vision": "日本の郵便局と温泉街の建物が写っており、山に囲まれた湯涌温泉のような温泉地の街並みとして矛盾しない。日本国内の風景として適切。"
+ },
+ "kitakyushu": {
+  "status": "ok",
+  "name": "北九州",
+  "src": "Kitakyushu (北九州), Fukuoka Prefecture, Japan 🇯🇵 - 55076202654.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Kitakyushu_%28%E5%8C%97%E4%B9%9D%E5%B7%9E%29%2C_Fukuoka_Prefecture%2C_Japan_%F0%9F%87%AF%F0%9F%87%B5_-_55076202654.jpg/1920px-Kitakyushu_%28%E5%8C%97%E4%B9%9D%E5%B7%9E%29%2C_Fukuoka_Prefecture%2C_Japan_%F0%9F%87%AF%F0%9F%87%B5_-_55076202654.jpg",
+  "dim": "1920x1440",
+  "vision": "日本の美術館・文化施設と思われる吹き抜けロビーの内観。北九州市立美術館等の施設と矛盾なく、日本国内の建物として妥当。"
+ },
+ "ebino": {
+  "status": "skip",
+  "name": "えびの",
+  "pref": "宮崎県",
+  "reason": "3候補NG",
+  "tried": [
+   {
+    "title": "Ebino city map 1.png",
+    "r": "Vision NG: えびの市の地区区分地図（真幸地区・加久藤地区・飯野地区）であり、風景・自然・建物"
+   },
+   {
+    "title": "Ebino city map 2.png",
+    "r": "Vision NG: 地図のイラストであり、風景・自然・建物等の実写画像ではない。旅先のメイン画像とし"
+   },
+   {
+    "title": "Ebino city center area Aerial photograph.2009.jpg",
+    "r": "Vision NG: 衛星・航空写真による俯瞰地図画像であり、えびのの自然・温泉・冬などの観光テーマを"
+   }
+  ]
+ },
+ "monbetsu": {
+  "status": "ok",
+  "name": "紋別",
+  "src": "Monbetsu Airport Aerial photograph.2014.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Monbetsu_Airport_Aerial_photograph.2014.jpg/1920px-Monbetsu_Airport_Aerial_photograph.2014.jpg",
+  "dim": "1920x1440",
+  "vision": "北海道沿岸部の空港（紋別空港）と思われる航空写真。日本国内の施設・自然景観であり、紋別の観光・地域情報として妥当。"
+ },
+ "kitami": {
+  "status": "ok",
+  "name": "北見",
+  "src": "Kitami city center area Aerial photograph.2015.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kitami_city_center_area_Aerial_photograph.2015.jpg/1920px-Kitami_city_center_area_Aerial_photograph.2015.jpg",
+  "dim": "1920x1526",
+  "vision": "上空からの衛星/航空写真で、北見市街地と周辺農地・河川が写った俯瞰画像。北海道の平野部都市として矛盾なく、北見の地域紹介画像として妥当。"
+ },
+ "uruma": {
+  "status": "ok",
+  "name": "うるま",
+  "src": "Parasailing in Uruma 202311.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Parasailing_in_Uruma_202311.jpg/1920px-Parasailing_in_Uruma_202311.jpg",
+  "dim": "1920x1280",
+  "vision": "沖縄らしいエメラルドグリーンの海とパラセーリングの風景で、うるま市（沖縄県）の海のテーマと合致する。"
+ },
+ "miyoshi-tokushima": {
+  "status": "skip",
+  "name": "三好",
+  "pref": "徳島県",
+  "reason": "3候補NG",
+  "tried": [
+   {
+    "title": "Tokushima Miyoshi City Central Library ac (6).jpg",
+    "r": "Vision NG: 駅前の道路・建物・駐車場エリアが主体で、三好の自然/絶景テーマと合わない都市イン"
+   },
+   {
+    "title": "Tokushima Miyoshi City Central Library ac (4).jpg",
+    "r": "Vision NG: 三好市中央図書館の建物と商店街アーケードの街並みであり、自然/絶景テーマのメイン"
+   },
+   {
+    "title": "Tokushima Miyoshi City Central Library ac (5).jpg",
+    "r": "Vision NG: 駅前の建物・駐車場・道路のみで、自然/絶景テーマのメイン画像として不適切"
+   }
+  ]
+ },
+ "utsunomiya": {
+  "status": "ok",
+  "name": "宇都宮",
+  "src": "宇都宮駅前 - panoramio.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/%E5%AE%87%E9%83%BD%E5%AE%AE%E9%A7%85%E5%89%8D_-_panoramio.jpg/1920px-%E5%AE%87%E9%83%BD%E5%AE%AE%E9%A7%85%E5%89%8D_-_panoramio.jpg",
+  "dim": "1920x1280",
+  "vision": "「餃子」の看板が見え、宇都宮餃子の飲食店エリア（来らっせ周辺等）と思われる日本国内のグルメスポットで、宇都宮のテーマと合致する。"
+ },
+ "gamagori": {
+  "status": "ok",
+  "name": "蒲郡",
+  "src": "Gamagori City Museum1.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Gamagori_City_Museum1.jpg/1920px-Gamagori_City_Museum1.jpg",
+  "dim": "1920x1277",
+  "vision": "日本の伝統的な木造門（蒲郡市博物館と思われる看板も確認できる）で、日本国内の風景として妥当。海/自然テーマとは直接合致しないが、地域の観光スポットとして許容範囲内。"
+ },
+ "hokkaido-kushiro": {
+  "status": "ok",
+  "name": "釧路",
+  "src": "Harutori falls - Kushiro Hokkaido - 2024 May 12 various.jpeg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Harutori_falls_-_Kushiro_Hokkaido_-_2024_May_12_various.jpeg/1920px-Harutori_falls_-_Kushiro_Hokkaido_-_2024_May_12_various.jpeg",
+  "dim": "1920x932",
+  "vision": "断崖と荒波の海岸風景で、北海道釧路周辺の太平洋岸の自然景観として矛盾なし。"
+ },
+ "hakusan": {
+  "status": "ok",
+  "name": "白山",
+  "src": "Mount Haku (Peak 2021-08-27).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Mount_Haku_%28Peak_2021-08-27%29.jpg/1920px-Mount_Haku_%28Peak_2021-08-27%29.jpg",
+  "dim": "1920x1280",
+  "vision": "「霊峰白山 御前峰」と刻まれた山頂標柱が写っており、白山（石川県）の山頂そのものの画像で完全に妥当。"
+ },
+ "toyota-city": {
+  "status": "ok",
+  "name": "豊田",
+  "src": "Toyohaku1.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Toyohaku1.jpg/1920px-Toyohaku1.jpg",
+  "dim": "1920x1277",
+  "vision": "木造建築様式の現代的な公共施設と緑地が写っており、日本国内の建物として自然。豊田市に関連する施設の可能性があり、特に矛盾なし。"
+ },
+ "nokogiriyama": {
+  "status": "ok",
+  "name": "鋸山",
+  "src": "Quarry remains at Mt Nokogiriyama, Chiba, Japan4.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Quarry_remains_at_Mt_Nokogiriyama%2C_Chiba%2C_Japan4.jpg/1920px-Quarry_remains_at_Mt_Nokogiriyama%2C_Chiba%2C_Japan4.jpg",
+  "dim": "1920x1080",
+  "vision": "鋸山の切り立った岩壁と東京湾を見渡す絶景が写っており、鋸山の代表的な景観と合致する。日本国内の風景で問題なし。"
+ },
+ "katsuura-chiba": {
+  "status": "ok",
+  "name": "勝浦",
+  "src": "Around Katsuura beach 2.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Around_Katsuura_beach_2.jpg/1920px-Around_Katsuura_beach_2.jpg",
+  "dim": "1920x1446",
+  "vision": "「KATSUURA SEASIDE BASE」と明記された小屋が写っており、勝浦の海辺施設と確認できる。海沿いのホテル・ヤシの木・砂浜が映り、勝浦（千葉県）の海テーマと合致する。"
+ },
+ "sawara": {
+  "status": "skip",
+  "name": "佐原",
+  "pref": "千葉県",
+  "reason": "3候補NG",
+  "tried": [
+   {
+    "title": "Sahara satellite hires.jpg",
+    "r": "Vision NG: アフリカ大陸（サハラ砂漠周辺）の衛星画像であり、日本国内の風景ではない。"
+   },
+   {
+    "title": "Western Sahara - West-Sahara - 2.jpg",
+    "r": "Vision NG: 砂漠と海岸の航空・衛星写真で、中東やアフリカ等の乾燥地帯と思われる。日本の風景で"
+   },
+   {
+    "title": "Western Sahara West-Sahara (31152720538).jpg",
+    "r": "Vision NG: 砂漠と海岸線の航空/衛星写真で、中東やアフリカ等の乾燥地帯と思われる。日本の佐原"
+   }
+  ]
+ },
+ "nakatsugawa": {
+  "status": "ok",
+  "name": "中津川",
+  "src": "JR Nakatsugawa Station 2021-10 ac.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/JR_Nakatsugawa_Station_2021-10_ac.jpg/1920px-JR_Nakatsugawa_Station_2021-10_ac.jpg",
+  "dim": "1920x1277",
+  "vision": "画像にはJR中津川駅の駅舎が写っており、岐阜県中津川市の代表的な施設として妥当。日本国内の風景であり、テーマとも矛盾しない。"
+ },
+ "tango-kyoto": {
+  "status": "ok",
+  "name": "丹後",
+  "src": "WUL-bunko31 e0544 丹後国天橋立之図 (cropped).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/WUL-bunko31_e0544_%E4%B8%B9%E5%BE%8C%E5%9B%BD%E5%A4%A9%E6%A9%8B%E7%AB%8B%E4%B9%8B%E5%9B%B3_%28cropped%29.jpg/1920px-WUL-bunko31_e0544_%E4%B8%B9%E5%BE%8C%E5%9B%BD%E5%A4%A9%E6%A9%8B%E7%AB%8B%E4%B9%8B%E5%9B%B3_%28cropped%29.jpg",
+  "dim": "1920x1189",
+  "vision": "「丹後天橋立之図」と題された江戸時代の絵図で、丹後（京都府）の天橋立と海景を描いたもの。テーマ（海・歴史）と合致する。"
+ },
+ "takashima-shiga": {
+  "status": "ok",
+  "name": "高島",
+  "src": "Ōmi-Takashima (Shiga) hdsr Station S5 01.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/%C5%8Cmi-Takashima_%28Shiga%29_hdsr_Station_S5_01.jpg/1920px-%C5%8Cmi-Takashima_%28Shiga%29_hdsr_Station_S5_01.jpg",
+  "dim": "1920x1441",
+  "vision": "日本の地方都市の街並みと山の風景で、国内の景色として問題なし。高島市周辺の駅前通りと思われる。"
+ },
+ "hamada-shimane": {
+  "status": "skip",
+  "name": "浜田",
+  "pref": "島根県",
+  "reason": "3候補NG",
+  "tried": [
+   {
+    "title": "Cyana hamata (25646948766).jpg",
+    "r": "Vision NG: 蛾（昆虫）のクローズアップ写真であり、浜田（島根県）の海・グルメ・風景とは無関係"
+   },
+   {
+    "title": "Cyana hamata (25580451431).jpg",
+    "r": "Vision NG: 蛾（昆虫）のクローズアップ写真であり、浜田（島根県）の海・グルメ・風景・建物等の"
+   },
+   {
+    "title": "Cyana hamata hamata (31542696628).jpg",
+    "r": "Vision NG: 画像は木の表面に止まった蛾のクローズアップであり、浜田（島根県）の海・グルメ・風"
+   }
+  ]
+ },
+ "miyoshi-hiroshima": {
+  "status": "ok",
+  "name": "三次",
+  "src": "Miyoshi Kinsai Stadium facade.JPG",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Miyoshi_Kinsai_Stadium_facade.JPG/1920px-Miyoshi_Kinsai_Stadium_facade.JPG",
+  "dim": "1920x993",
+  "vision": "日本国内の公共施設・文化施設と思われる建物で、三次市の施設（市民ホールや体育館等）として矛盾しない日本の風景。"
+ },
+ "kure": {
+  "status": "ok",
+  "name": "呉",
+  "src": "Kure city center area Aerial photograph.2009.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Kure_city_center_area_Aerial_photograph.2009.jpg/1920px-Kure_city_center_area_Aerial_photograph.2009.jpg",
+  "dim": "1920x1504",
+  "vision": "山に囲まれた港湾都市の航空写真で、造船所・港湾施設が確認でき、呉市の地形・都市構造と合致する日本国内の風景。"
+ },
+ "yatsushiro": {
+  "status": "ok",
+  "name": "八代",
+  "src": "Yatsushiro city center area Aerial photograph.2016.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Yatsushiro_city_center_area_Aerial_photograph.2016.jpg/1920px-Yatsushiro_city_center_area_Aerial_photograph.2016.jpg",
+  "dim": "1920x1440",
+  "vision": "日本の都市部と河川を捉えた航空/衛星写真で、八代市周辺（球磨川河口付近）の地形と一致する。日本国内の風景として妥当。"
+ },
+ "mine-yamaguchi": {
+  "status": "skip",
+  "name": "美祢",
+  "pref": "山口県",
+  "reason": "3候補NG",
+  "tried": [
+   {
+    "title": "Mine city center area Aerial photograph.2013.jpg",
+    "r": "Vision NG: 航空写真・衛星画像であり、旅先のメイン画像として不適切。観光地の魅力を伝える写真"
+   },
+   {
+    "title": "Oilshale mine 01.jpg",
+    "r": "Vision NG: 人物（作業員）のアップが主体で風景・建物・自然が写っておらず、美祢の観光地として"
+   },
+   {
+    "title": "Cerussite - Nakhlak mine, Anarak, Esfahan, Iran.jpg",
+    "r": "Vision NG: 鉱物・結晶標本のスタジオ撮影画像であり、旅先の風景・建物・自然景観ではなく、美祢"
+   }
+  ]
+ },
+ "tsuchiura": {
+  "status": "ok",
+  "name": "土浦",
+  "src": "A view of Tsuchiura City from the highest point of Asahi Pass in Ishioka City, Ibaraki Prefecture.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/A_view_of_Tsuchiura_City_from_the_highest_point_of_Asahi_Pass_in_Ishioka_City%2C_Ibaraki_Prefecture.jpg/1920px-A_view_of_Tsuchiura_City_from_the_highest_point_of_Asahi_Pass_in_Ishioka_City%2C_Ibaraki_Prefecture.jpg",
+  "dim": "1920x1280",
+  "vision": "山上からの眺望で、関東平野と遠方に霞ヶ浦・海が見える日本の自然風景。土浦周辺（筑波山系）からの景色として矛盾なし。"
+ },
+ "miyakonojo": {
+  "status": "ok",
+  "name": "都城",
+  "src": "Miyakonojo City from train of Nippo Main Line.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Miyakonojo_City_from_train_of_Nippo_Main_Line.jpg/1920px-Miyakonojo_City_from_train_of_Nippo_Main_Line.jpg",
+  "dim": "1920x1440",
+  "vision": "日本の地方都市の街並みと山々が写っており、都城（宮崎県）の風景として矛盾しない。"
+ },
+ "niimi": {
+  "status": "ok",
+  "name": "新見",
+  "src": "Niimi-City Tourist-Information-Center.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Niimi-City_Tourist-Information-Center.jpg/1920px-Niimi-City_Tourist-Information-Center.jpg",
+  "dim": "1920x1280",
+  "vision": "新見市観光案内所(Niimi City Tourist Information Center)の看板が明確に写っており、新見（岡山県）の施設として適切"
+ },
+ "nanjo-okinawa": {
+  "status": "ok",
+  "name": "南城",
+  "src": "Nanjo Manhole hdsr BL90001 06.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Nanjo_Manhole_hdsr_BL90001_06.jpg/1920px-Nanjo_Manhole_hdsr_BL90001_06.jpg",
+  "dim": "1920x1440",
+  "vision": "日本語（トカゲハゼ）が刻まれた沖縄らしいマンホール蓋で、南城市（沖縄県）の地域文化・ご当地マンホールとして妥当。"
+ },
+ "hioki": {
+  "status": "ok",
+  "name": "日置",
+  "src": "Ijuin CityView From Joyama Park.JPG",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Ijuin_CityView_From_Joyama_Park.JPG/1920px-Ijuin_CityView_From_Joyama_Park.JPG",
+  "dim": "1920x1280",
+  "vision": "日本の地方都市の俯瞰風景で、緑豊かな丘陵と市街地が広がる典型的な日本の景観。鹿児島県日置市の町並みとして矛盾なし。"
+ },
+ "togatta-onsen": {
+  "status": "ok",
+  "name": "遠刈田温泉",
+  "src": "Kattamine-jinja satomiya Haiden.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Kattamine-jinja_satomiya_Haiden.jpg/1920px-Kattamine-jinja_satomiya_Haiden.jpg",
+  "dim": "1920x1280",
+  "vision": "日本の神社建築（拝殿・狛犬・注連縄・赤い扉）が写っており、日本国内の風景として妥当。遠刈田温泉周辺の神社である可能性があり、温泉地の観光スポットとして矛盾しない。"
+ },
+ "hachimantai-onsen": {
+  "status": "ok",
+  "name": "後生掛温泉",
+  "src": "Mount Hachimantai and its surroundings, Japan; October 2017 (12).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Mount_Hachimantai_and_its_surroundings%2C_Japan%3B_October_2017_%2812%29.jpg/1920px-Mount_Hachimantai_and_its_surroundings%2C_Japan%3B_October_2017_%2812%29.jpg",
+  "dim": "1920x1280",
+  "vision": "山間の温泉旅館と紅葉・火山地形が写っており、東北の山岳温泉地（後生掛温泉）の景観と合致する。日本国内の風景で温泉・自然テーマに適切。"
+ },
+ "shimokitazawa-nyuto": {
+  "status": "ok",
+  "name": "乳頭温泉郷",
+  "src": "Magoroku Onsen 20201122.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Magoroku_Onsen_20201122.jpg/1920px-Magoroku_Onsen_20201122.jpg",
+  "dim": "1920x1280",
+  "vision": "日本語の看板（「温泉」の文字が確認できる）が掲げられた古い木造建築物で、山林に囲まれた温泉宿の雰囲気と一致。乳頭温泉郷の素朴な湯治場の景観と矛盾しない。"
+ },
+ "fukaura": {
+  "status": "ok",
+  "name": "深浦",
+  "src": "Fukaura Station 20200607.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Fukaura_Station_20200607.jpg/1920px-Fukaura_Station_20200607.jpg",
+  "dim": "1920x1280",
+  "vision": "「深浦駅」と明記された駅舎が写っており、青森県深浦町の拠点施設として妥当。日本国内の風景と確認できる。"
+ },
+ "hirakawa": {
+  "status": "ok",
+  "name": "平川",
+  "src": "140914 Ikarigaseki Onsen Hirakawa Aomori pref Japan02s3.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/140914_Ikarigaseki_Onsen_Hirakawa_Aomori_pref_Japan02s3.jpg/1920px-140914_Ikarigaseki_Onsen_Hirakawa_Aomori_pref_Japan02s3.jpg",
+  "dim": "1920x1280",
+  "vision": "日本の地方都市の川沿い風景で、山・河川・建物が写っており、青森県平川市の自然・風景テーマと合致する。"
+ },
+ "shimokita": {
+  "status": "ok",
+  "name": "下北半島",
+  "src": "Tsugaru and Shimokita Peninsulas viewed from Mutsu Bay.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Tsugaru_and_Shimokita_Peninsulas_viewed_from_Mutsu_Bay.jpg/1920px-Tsugaru_and_Shimokita_Peninsulas_viewed_from_Mutsu_Bay.jpg",
+  "dim": "1920x1280",
+  "vision": "船の航跡と海・空の風景で、下北半島周辺の海域（津軽海峡など）のフェリー航行シーンとして矛盾しない。日本国内の自然風景として許容範囲内。"
+ },
+ "ube": {
+  "status": "ok",
+  "name": "宇部",
+  "src": "Ube City Hall ac (1).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Ube_City_Hall_ac_%281%29.jpg/1920px-Ube_City_Hall_ac_%281%29.jpg",
+  "dim": "1920x1277",
+  "vision": "日本国内の近代的な公共・行政系建物と思われる外観で、宇部市の施設（市役所や公共施設）として矛盾しない。海外要素や無関係な被写体もない。"
+ },
+ "suo-sanbe": {
+  "status": "ok",
+  "name": "三瓶山",
+  "src": "Sanbe-panorama2015.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Sanbe-panorama2015.jpg/1920px-Sanbe-panorama2015.jpg",
+  "dim": "1920x414",
+  "vision": "日本の山岳風景で、緑豊かな山並みと遊歩道が写っており、三瓶山（島根県）の自然景観として矛盾しない。"
+ },
+ "unzen2": {
+  "status": "ok",
+  "name": "雲仙温泉",
+  "src": "140322 Unzen Onsen Nagasaki pref Japan01s3.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/140322_Unzen_Onsen_Nagasaki_pref_Japan01s3.jpg/1920px-140322_Unzen_Onsen_Nagasaki_pref_Japan01s3.jpg",
+  "dim": "1920x1280",
+  "vision": "山間に温泉街と湖（仁田峠付近から望む雲仙温泉街と湖）が映っており、日本の山岳温泉地の風景として矛盾しない。"
+ },
+ "gen_北海_支笏湖温泉": {
+  "status": "ok",
+  "name": "支笏湖温泉",
+  "src": "Lake Shikotsu25n4272.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Lake_Shikotsu25n4272.jpg/1920px-Lake_Shikotsu25n4272.jpg",
+  "dim": "1920x1280",
+  "vision": "日本の自然に囲まれた温泉宿・ホテルと思われる建物が秋の木々の中に佇んでおり、支笏湖温泉の宿泊施設として矛盾しない。"
+ },
+ "kochi-ino": {
+  "status": "ok",
+  "name": "いの",
+  "src": "Sugiyama-Shrine Ino, Kochi.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Sugiyama-Shrine_Ino%2C_Kochi.jpg/1920px-Sugiyama-Shrine_Ino%2C_Kochi.jpg",
+  "dim": "1920x1440",
+  "vision": "日本の神社建築で、緑豊かな山を背景にした伝統的な社殿。高知県いの町周辺の神社として自然・歴史テーマに合致する。"
+ },
+ "gen_北海_納沙布岬": {
+  "status": "ok",
+  "name": "納沙布岬",
+  "src": "Nosappu.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Nosappu.jpg/1920px-Nosappu.jpg",
+  "dim": "1920x1272",
+  "vision": "北海道の岬らしい海岸沿いの街並みと灯台、記念碑（四島のかけ橋モニュメント）が確認でき、納沙布岬の風景として合致する。"
+ },
+ "gen_北海_ぬかびら温泉": {
+  "status": "ok",
+  "name": "糠平温泉",
+  "src": "糠平温泉 - panoramio (1).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/%E7%B3%A0%E5%B9%B3%E6%B8%A9%E6%B3%89_-_panoramio_%281%29.jpg/1920px-%E7%B3%A0%E5%B9%B3%E6%B8%A9%E6%B3%89_-_panoramio_%281%29.jpg",
+  "dim": "1920x1440",
+  "vision": "「ぬかびら源泉郷」と書かれた看板が明確に写っており、糠平温泉（ぬかびら源泉郷）の入口標識として合致。日本国内の温泉地の風景で内容も妥当。"
+ },
+ "gen_北海_旭岳温泉": {
+  "status": "ok",
+  "name": "旭岳温泉",
+  "src": "Remote views of Mount Asahi from Asahidake Onsen.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Remote_views_of_Mount_Asahi_from_Asahidake_Onsen.jpg/1920px-Remote_views_of_Mount_Asahi_from_Asahidake_Onsen.jpg",
+  "dim": "1920x1280",
+  "vision": "雪が残る火山性の山（旭岳と思われる）と針葉樹・白樺林が写っており、北海道の自然景観として旭岳温泉エリアと合致する。"
+ },
+ "gen_北海_豊富温泉": {
+  "status": "ok",
+  "name": "豊富温泉",
+  "src": "Toyotomi-fureai-center 20171026.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Toyotomi-fureai-center_20171026.jpg/1920px-Toyotomi-fureai-center_20171026.jpg",
+  "dim": "1920x1280",
+  "vision": "日本語の看板「ふれあいセンター」が見える地方の施設で、北海道の温泉地にある公共施設・温泉施設として矛盾なし。日本国内の風景と判断できる。"
+ },
+ "gen_北海_天塩温泉": {
+  "status": "ok",
+  "name": "天塩温泉",
+  "src": "Asahi spa gaikan 2011.JPG",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Asahi_spa_gaikan_2011.JPG/1920px-Asahi_spa_gaikan_2011.JPG",
+  "dim": "1920x1440",
+  "vision": "日本国内の温泉施設と思われる建物（「温泉」の看板が見える）、駐車場、緑の山々が写っており、北海道の天塩温泉のメイン画像として妥当。"
+ },
+ "gen_北海_菅野温泉": {
+  "status": "ok",
+  "name": "菅野温泉",
+  "src": "かんの温泉全景.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/%E3%81%8B%E3%82%93%E3%81%AE%E6%B8%A9%E6%B3%89%E5%85%A8%E6%99%AF.jpg/1920px-%E3%81%8B%E3%82%93%E3%81%AE%E6%B8%A9%E6%B3%89%E5%85%A8%E6%99%AF.jpg",
+  "dim": "1920x1278",
+  "vision": "緑豊かな山に囲まれた温泉旅館と駐車場の風景で、北海道の山間温泉地として矛盾なく適切。"
+ },
+ "gen_北海_麓郷の森": {
+  "status": "ok",
+  "name": "麓郷の森",
+  "src": "Goro's First House.JPG",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Goro%27s_First_House.JPG/1920px-Goro%27s_First_House.JPG",
+  "dim": "1920x1277",
+  "vision": "北海道の森の中にある古い木造小屋群で、麓郷の森（北の国からロケ地）の雰囲気と合致する。日本国内の自然・観光スポットとして妥当。"
+ },
+ "gen_北海_大雪高原温泉": {
+  "status": "ok",
+  "name": "大雪高原温泉",
+  "src": "登山口の大雪高原温泉.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/%E7%99%BB%E5%B1%B1%E5%8F%A3%E3%81%AE%E5%A4%A7%E9%9B%AA%E9%AB%98%E5%8E%9F%E6%B8%A9%E6%B3%89.jpg/1920px-%E7%99%BB%E5%B1%B1%E5%8F%A3%E3%81%AE%E5%A4%A7%E9%9B%AA%E9%AB%98%E5%8E%9F%E6%B8%A9%E6%B3%89.jpg",
+  "dim": "1920x1280",
+  "vision": "建物に「大雪高原山荘」と明記されており、大雪高原温泉の施設そのものが写っている。山と緑に囲まれた北海道の自然・温泉テーマに合致。"
+ },
+ "gen_北海_多和平": {
+  "status": "ok",
+  "name": "多和平",
+  "src": "TawadairaS.JPG",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/TawadairaS.JPG/1920px-TawadairaS.JPG",
+  "dim": "1920x422",
+  "vision": "広大な緑の牧草地と丘陵が広がるパノラマ風景で、北海道・多和平の展望台からの眺めとして矛盾しない。"
+ },
+ "gen_北海_十勝千年の森": {
+  "status": "ok",
+  "name": "十勝千年の森",
+  "src": "Tokachi Millennium Forest.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Tokachi_Millennium_Forest.jpg/1920px-Tokachi_Millennium_Forest.jpg",
+  "dim": "1920x1440",
+  "vision": "広大な緑の草原と小道、標識が写っており、北海道の自然公園・ガーデン系の風景として十勝千年の森のテーマと合致する。"
+ },
+ "gen_北海_初山別温泉": {
+  "status": "ok",
+  "name": "初山別温泉",
+  "src": "Shosanbetsu spa 2011.JPG",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Shosanbetsu_spa_2011.JPG/1920px-Shosanbetsu_spa_2011.JPG",
+  "dim": "1920x1440",
+  "vision": "日本国内の公共施設・温泉施設と思われる建物の入口で、初山別温泉の施設として矛盾しない。"
+ },
+ "gen_北海_北見温泉": {
+  "status": "ok",
+  "name": "北見温泉",
+  "src": "KitamiOnsen.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/KitamiOnsen.jpg/1920px-KitamiOnsen.jpg",
+  "dim": "1920x1446",
+  "vision": "日本の旅館・温泉施設と思われる建物外観で、冬の北海道らしい雪が残る駐車場と建物が写っており、北見温泉のメイン画像として妥当。"
+ },
+ "gen_北海_黒松内温泉": {
+  "status": "skip",
+  "name": "黒松内温泉",
+  "reason": "Commons候補なし"
+ },
+ "gen_北海_花の拠点「はなふる」": {
+  "status": "skip",
+  "name": "花の拠点 はなふる",
+  "reason": "Commons候補なし"
+ },
+ "gen_北海_沙流川温泉": {
+  "status": "ok",
+  "name": "沙流川温泉",
+  "src": "Hidaka kogenso 2011.JPG",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Hidaka_kogenso_2011.JPG/1920px-Hidaka_kogenso_2011.JPG",
+  "dim": "1920x1440",
+  "vision": "日本国内の温泉施設・道の駅風の建物と駐車場、背景に緑の丘（スキー場のゲレンデ跡）が見え、北海道の温泉施設として矛盾しない。"
+ },
+ "gen_北海_丸瀬布森林公園いこいの森": {
+  "status": "ok",
+  "name": "丸瀬布森林公園いこいの森",
+  "src": "Ikasa Railway Hoha 19.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ikasa_Railway_Hoha_19.jpg/1920px-Ikasa_Railway_Hoha_19.jpg",
+  "dim": "1920x1280",
+  "vision": "丸瀬布森林公園いこいの森には蒸気機関車（雨宮21号）が走ることで有名であり、この画像は森林公園内の客車と思われる。北海道の自然を背景にした鉄道車両で、観光・自然テーマと合致する。"
+ },
+ "gen_北海_中札内美術村": {
+  "status": "ok",
+  "name": "中札内美術村",
+  "src": "131013 Nakasatsunai Art Village Hokkaido Japan00s3.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/131013_Nakasatsunai_Art_Village_Hokkaido_Japan00s3.jpg/1920px-131013_Nakasatsunai_Art_Village_Hokkaido_Japan00s3.jpg",
+  "dim": "1920x1276",
+  "vision": "木々に囲まれた美術館・文化施設風の建物で、中札内美術村のような北海道の美術村施設と矛盾しない。日本国内の風景として妥当。"
+ },
+ "gen_茨城_西山荘": {
+  "status": "ok",
+  "name": "西山荘",
+  "src": "Seizanso, Ibaraki 01.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Seizanso%2C_Ibaraki_01.jpg/1920px-Seizanso%2C_Ibaraki_01.jpg",
+  "dim": "1920x1280",
+  "vision": "茅葺き屋根の門と日本庭園風の景観で、日本の歴史的建造物・西山荘のイメージと合致する。"
+ },
+ "gen_茨城_水戸八幡宮": {
+  "status": "ok",
+  "name": "水戸八幡宮",
+  "src": "Shirahatayama Hachimangu no Ohatsuki Icho. Natural monument stone monument.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Shirahatayama_Hachimangu_no_Ohatsuki_Icho._Natural_monument_stone_monument.jpg/1920px-Shirahatayama_Hachimangu_no_Ohatsuki_Icho._Natural_monument_stone_monument.jpg",
+  "dim": "1920x1280",
+  "vision": "日本語の石碑と案内板が写っており、「白旗山八幡宮のオハツキイチョウ」と読める。水戸八幡宮の境内にある天然記念物の銀杏に関する標柱で、神社境内の風景として妥当。"
+ },
+ "gen_茨城_大杉神社": {
+  "status": "ok",
+  "name": "大杉神社",
+  "src": "大杉神社虚空蔵尊 - panoramio (1).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/%E5%A4%A7%E6%9D%89%E7%A5%9E%E7%A4%BE%E8%99%9A%E7%A9%BA%E8%94%B5%E5%B0%8A_-_panoramio_%281%29.jpg/1920px-%E5%A4%A7%E6%9D%89%E7%A5%9E%E7%A4%BE%E8%99%9A%E7%A9%BA%E8%94%B5%E5%B0%8A_-_panoramio_%281%29.jpg",
+  "dim": "1920x1261",
+  "vision": "日本の神社建築（色鮮やかな社殿）と大杉に囲まれた境内の風景で、大杉神社のテーマと合致する。"
+ },
+ "gen_群馬_川中温泉": {
+  "status": "ok",
+  "name": "川中温泉",
+  "src": "Agatsuma Gorge Aerial photograph.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Agatsuma_Gorge_Aerial_photograph.jpg/1920px-Agatsuma_Gorge_Aerial_photograph.jpg",
+  "dim": "1920x1442",
+  "vision": "日本の山間部の空撮画像で、群馬県の山岳地帯と渓谷沿いの集落が確認でき、川中温泉の自然環境と矛盾しない。"
+ },
+ "gen_栃木_日光湯元温泉": {
+  "status": "ok",
+  "name": "日光湯元温泉",
+  "src": "Nikko Yumoto Onsen (51988636050).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Nikko_Yumoto_Onsen_%2851988636050%29.jpg/1920px-Nikko_Yumoto_Onsen_%2851988636050%29.jpg",
+  "dim": "1920x1280",
+  "vision": "温泉地の源泉湯畑と思われる木造建造物、湯煙、紅葉の山々、温泉旅館が写っており、日光湯元温泉の景観と合致する。"
+ },
+ "gen_栃木_中禅寺温泉": {
+  "status": "ok",
+  "name": "中禅寺温泉",
+  "src": "中禅寺温泉バスターミナル - panoramio (2).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/%E4%B8%AD%E7%A6%85%E5%AF%BA%E6%B8%A9%E6%B3%89%E3%83%90%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB_-_panoramio_%282%29.jpg/1920px-%E4%B8%AD%E7%A6%85%E5%AF%BA%E6%B8%A9%E6%B3%89%E3%83%90%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB_-_panoramio_%282%29.jpg",
+  "dim": "1920x1280",
+  "vision": "「中禅寺温泉バスターミナル」と明記された看板が写っており、栃木県・中禅寺温泉の玄関口として合致する日本国内の風景。"
+ },
+ "gen_栃木_那須温泉郷": {
+  "status": "ok",
+  "name": "那須温泉郷",
+  "src": "Deer's Spa, Nasu-Yumoto.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deer%27s_Spa%2C_Nasu-Yumoto.jpg/1920px-Deer%27s_Spa%2C_Nasu-Yumoto.jpg",
+  "dim": "1920x1440",
+  "vision": "山間の木造建物群（温泉旅館や湯治場風の施設）が緑の山に囲まれており、那須温泉郷の雰囲気と合致する日本の風景。"
+ },
+ "gen_北海_オホーツクオムイ温泉": {
+  "status": "ok",
+  "name": "オホーツクオムイ温泉",
+  "src": "Hotel Hinode gaikan.JPG",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Hotel_Hinode_gaikan.JPG/1920px-Hotel_Hinode_gaikan.JPG",
+  "dim": "1920x1440",
+  "vision": "日本国内の温泉施設・ホテルと思われる建物で、北海道の海沿いの平坦な地形と曇り空の雰囲気に合致しており、オホーツクオムイ温泉のメイン画像として妥当。"
+ },
+ "gen_群馬_老神温泉": {
+  "status": "ok",
+  "name": "老神温泉",
+  "src": "Oigami Onsen view from Nairaku Bridge.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Oigami_Onsen_view_from_Nairaku_Bridge.jpg/1920px-Oigami_Onsen_view_from_Nairaku_Bridge.jpg",
+  "dim": "1920x1440",
+  "vision": "渓谷沿いに温泉旅館らしき建物が立ち並ぶ日本の山間温泉地の風景で、老神温泉（片品川渓谷沿い）のイメージと合致する。"
+ },
+ "gen_栃木_湯西川温泉": {
+  "status": "ok",
+  "name": "湯西川温泉",
+  "src": "樹間から湯西川温泉駅に入る列車.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/%E6%A8%B9%E9%96%93%E3%81%8B%E3%82%89%E6%B9%AF%E8%A5%BF%E5%B7%9D%E6%B8%A9%E6%B3%89%E9%A7%85%E3%81%AB%E5%85%A5%E3%82%8B%E5%88%97%E8%BB%8A.jpg/1920px-%E6%A8%B9%E9%96%93%E3%81%8B%E3%82%89%E6%B9%AF%E8%A5%BF%E5%B7%9D%E6%B8%A9%E6%B3%89%E9%A7%85%E3%81%AB%E5%85%A5%E3%82%8B%E5%88%97%E8%BB%8A.jpg",
+  "dim": "1920x1440",
+  "vision": "雪が積もった落葉樹林と川沿いの冬景色で、湯西川温泉の自然・冬のテーマと合致する。日本国内の風景として矛盾なし。"
+ },
+ "gen_群馬_法師温泉": {
+  "status": "ok",
+  "name": "法師温泉",
+  "src": "Hoshi Onsen.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Hoshi_Onsen.jpg/1920px-Hoshi_Onsen.jpg",
+  "dim": "1920x1441",
+  "vision": "日本の山間部にある温泉旅館の入口と思われる風景。秋の紅葉、和風建築、木製看板（「法師」の文字が確認できる）など、法師温泉の雰囲気と合致している。"
+ },
+ "gen_青森_相乗温泉": {
+  "status": "skip",
+  "name": "相乗温泉",
+  "reason": "Commons候補なし"
+ },
+ "gen_北海_真鍋庭園": {
+  "status": "ok",
+  "name": "真鍋庭園",
+  "src": "JAPANESE-GARDEN201605-MANABE-garden.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/JAPANESE-GARDEN201605-MANABE-garden.jpg/1920px-JAPANESE-GARDEN201605-MANABE-garden.jpg",
+  "dim": "1920x1080",
+  "vision": "日本庭園の池・岩・松・赤い傘が写っており、北海道の真鍋庭園として矛盾なく妥当な風景画像。"
+ },
+ "gen_北海_平田内温泉": {
+  "status": "ok",
+  "name": "平田内温泉",
+  "src": "Hiratanai spa kumanoyu.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Hiratanai_spa_kumanoyu.jpg",
+  "dim": "1190x893",
+  "vision": "岩場に囲まれた野趣あふれる露天風呂（川湯）の様子で、ホースで温泉を引き込む設備も見られ、平田内温泉（熊の湯）のような北海道の野湯・秘湯の雰囲気と合致する。日本国内の自然景観であり矛盾なし。"
+ },
+ "gen_青森_青荷温泉": {
+  "status": "ok",
+  "name": "青荷温泉",
+  "src": "Aoni Onsen (52085534392).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Aoni_Onsen_%2852085534392%29.jpg/1920px-Aoni_Onsen_%2852085534392%29.jpg",
+  "dim": "1920x823",
+  "vision": "木造の風情ある内湯浴場で、ランプ照明や古い木組みの建物が見られ、青荷温泉のランプの宿として知られる温泉施設の内部と合致する。日本の温泉テーマに適合。"
+ },
+ "gen_青森_城ヶ倉温泉": {
+  "status": "ok",
+  "name": "城ヶ倉温泉",
+  "src": "Jogakura 140919.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Jogakura_140919.jpg",
+  "dim": "1600x1200",
+  "vision": "山間部に立地する日本の温泉宿・ホテル建物と思われ、城ヶ倉温泉の施設として矛盾なし。日本国内の風景と判断できる。"
+ },
+ "gen_青森_下風呂温泉": {
+  "status": "ok",
+  "name": "下風呂温泉",
+  "src": "Shimofuro Kaikyo-no-yu.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Shimofuro_Kaikyo-no-yu.jpg/1920px-Shimofuro_Kaikyo-no-yu.jpg",
+  "dim": "1920x1440",
+  "vision": "「海峡の湯」と書かれた温泉施設の外観。日本国内の建物であり、下風呂温泉（青森県・津軽海峡沿い）の温泉テーマと合致する。"
+ },
+ "gen_青森_谷地温泉": {
+  "status": "ok",
+  "name": "谷地温泉",
+  "src": "Yationsen Kûsatu 1.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Yationsen_K%C3%BBsatu_1.jpg/1920px-Yationsen_K%C3%BBsatu_1.jpg",
+  "dim": "1920x1080",
+  "vision": "雪深い山間部に建つ温泉旅館風の建物と背後の山が写っており、青森県の山岳温泉地（谷地温泉）のイメージと合致する。日本国内の冬景色・温泉施設として妥当。"
+ },
+ "utsukushigahara": {
+  "status": "ok",
+  "name": "美ヶ原",
+  "src": "250426 At Utsukushigahara Nagano pref Japan17s3.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/250426_At_Utsukushigahara_Nagano_pref_Japan17s3.jpg/1920px-250426_At_Utsukushigahara_Nagano_pref_Japan17s3.jpg",
+  "dim": "1920x1280",
+  "vision": "日本語の石碑（記念碑）が複数立っており、背景に段状の地形と木々が見える。「美ヶ原スカイライン」関連の記念碑と読め、美ヶ原（長野県）の高原・山岳エリアの景観と合致する。"
+ },
+ "gen_青森_板留温泉": {
+  "status": "skip",
+  "name": "板留温泉",
+  "reason": "Commons候補なし"
+ },
+ "oyu-onsen-akita": {
+  "status": "ok",
+  "name": "大湯温泉",
+  "src": "Roadside Station Oyu 20180915c.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Roadside_Station_Oyu_20180915c.jpg/1920px-Roadside_Station_Oyu_20180915c.jpg",
+  "dim": "1920x1080",
+  "vision": "日本の山間部の施設（縄文遺跡関連の博物館・ビジターセンター等）と思われる建物と緑の広場。大湯環状列石（鹿角市）周辺の施設と合致し、テーマ（縄文・秘境・温泉地）と矛盾しない。"
+ },
+ "takayu-onsen": {
+  "status": "ok",
+  "name": "高湯温泉",
+  "src": "Tamago-yu, Takayu Onsen 01.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Tamago-yu%2C_Takayu_Onsen_01.jpg/1920px-Tamago-yu%2C_Takayu_Onsen_01.jpg",
+  "dim": "1920x1272",
+  "vision": "雪景色の温泉街が写っており、左側の灯籠に「湯」の文字も確認できる。日本の冬の温泉地（高湯温泉）のテーマと合致する。"
+ },
+ "gen_青森_嶽温泉": {
+  "status": "skip",
+  "name": "嶽温泉",
+  "pref": "青森県",
+  "reason": "3候補NG",
+  "tried": [
+   {
+    "title": "Kamioka Onsen.jpg",
+    "r": "Vision NG: 日本国内の建物（公共施設や道の駅風）であり海外ではないが、嶽温泉の温泉・自然・山"
+   }
+  ]
+ },
+ "isawa-onsen": {
+  "status": "ok",
+  "name": "石和温泉",
+  "src": "JREast-Chuo-main-line-CO41-Isawa-onsen-station-building-south-20220806-113920.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/JREast-Chuo-main-line-CO41-Isawa-onsen-station-building-south-20220806-113920.jpg/1920px-JREast-Chuo-main-line-CO41-Isawa-onsen-station-building-south-20220806-113920.jpg",
+  "dim": "1920x1080",
+  "vision": "建物に「石和温泉駅」の文字が確認でき、石和温泉（山梨県）の駅舎そのものであり、destinationと完全に一致する。"
+ },
+ "yobuko": {
+  "status": "ok",
+  "name": "呼子",
+  "src": "Yobuko Asa-ichi (Yobuko, Karatsu, Saga, Japan).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Yobuko_Asa-ichi_%28Yobuko%2C_Karatsu%2C_Saga%2C_Japan%29.jpg/1920px-Yobuko_Asa-ichi_%28Yobuko%2C_Karatsu%2C_Saga%2C_Japan%29.jpg",
+  "dim": "1920x1280",
+  "vision": "日本の港町らしい屋外市場・露店の風景で、イカの一夜干しと思われる干物が並んでおり、呼子の港町・グルメのテーマと合致する。"
+ },
+ "hijori-onsen": {
+  "status": "ok",
+  "name": "肘折温泉",
+  "src": "Hijiori onsen 3.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Hijiori_onsen_3.jpg/1920px-Hijiori_onsen_3.jpg",
+  "dim": "1920x1440",
+  "vision": "日本の温泉街らしい木造旅館が並ぶ通り、雪の残る冬の景観で、肘折温泉の湯治・秘境温泉のテーマと合致する。"
+ },
+ "hanno": {
+  "status": "ok",
+  "name": "飯能",
+  "src": "Hanno City Library exterior ac (1).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Hanno_City_Library_exterior_ac_%281%29.jpg/1920px-Hanno_City_Library_exterior_ac_%281%29.jpg",
+  "dim": "1920x1277",
+  "vision": "日本国内の公共施設・文化施設と思われる建物で、飯能市の施設（メッツァや市民センター等）の可能性があり、国内風景として矛盾なし。"
+ },
+ "mikatagoko": {
+  "status": "ok",
+  "name": "三方五湖",
+  "src": "Mikata Five Lakes ac.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Mikata_Five_Lakes_ac.jpg/1920px-Mikata_Five_Lakes_ac.jpg",
+  "dim": "1920x1277",
+  "vision": "山に囲まれた複数の湖沼が広がる俯瞰景観で、三方五湖の絶景・自然テーマと合致。日本の風景として妥当。"
+ },
+ "gojo-nara": {
+  "status": "ok",
+  "name": "五條",
+  "src": "Gojo Shuzo 2021-09 ac.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Gojo_Shuzo_2021-09_ac.jpg/1920px-Gojo_Shuzo_2021-09_ac.jpg",
+  "dim": "1920x1277",
+  "vision": "日本の古い木造建築と「五條酒造株式会社」と読める表札が確認でき、奈良県五條市の歴史的な街並み・酒蔵に関連する風景として妥当。"
+ },
+ "yamatokoriyama": {
+  "status": "ok",
+  "name": "大和郡山",
+  "src": "Yamatokoriyama City Library ac.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Yamatokoriyama_City_Library_ac.jpg/1920px-Yamatokoriyama_City_Library_ac.jpg",
+  "dim": "1920x1277",
+  "vision": "日本の瓦屋根を持つ公共施設（博物館・文化施設風）の建物で、大和郡山の歴史・文化テーマと矛盾しない日本国内の風景。"
+ },
+ "minami-tokushima": {
+  "status": "ok",
+  "name": "美波",
+  "src": "Minami Town, View from Yakuo-ji Temple 02.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Minami_Town%2C_View_from_Yakuo-ji_Temple_02.jpg/1920px-Minami_Town%2C_View_from_Yakuo-ji_Temple_02.jpg",
+  "dim": "1920x1440",
+  "vision": "日本の地方都市の町並みと緑の丘（山上に社寺建築）が写っており、背景に海も見える。日本国内の港町・自然のテーマと合致する。"
+ },
+ "mitsuminejinja": {
+  "status": "ok",
+  "name": "三峯神社",
+  "src": "Zuishinmon Gate, Mitsumine Shrine, Chichibu - Sep 23, 2022.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Zuishinmon_Gate%2C_Mitsumine_Shrine%2C_Chichibu_-_Sep_23%2C_2022.jpg/1920px-Zuishinmon_Gate%2C_Mitsumine_Shrine%2C_Chichibu_-_Sep_23%2C_2022.jpg",
+  "dim": "1920x1280",
+  "vision": "「三峯山」の扁額が掲げられた朱塗りの随身門が写っており、三峯神社の建造物として合致する。日本の神社建築・パワースポットのテーマとも一致。"
+ },
+ "tsubamesanjo": {
+  "status": "ok",
+  "name": "燕三条",
+  "src": "Tsubame-Sanjo Station 2020.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Tsubame-Sanjo_Station_2020.jpg/1920px-Tsubame-Sanjo_Station_2020.jpg",
+  "dim": "1920x1282",
+  "vision": "画像に「燕三条駅（TSUBAMESANJO STATION）」と明記されており、燕三条（新潟県）のメイン画像として適切。"
+ },
+ "ikuno": {
+  "status": "ok",
+  "name": "生野",
+  "src": "Trains at Ikuno Station.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Trains_at_Ikuno_Station.jpg/1920px-Trains_at_Ikuno_Station.jpg",
+  "dim": "1920x1280",
+  "vision": "日本の地方鉄道駅（山間部の風景と典型的なキハ系気動車）で、生野がある兵庫県の山間地域の交通・風景として矛盾しない日本国内の写真。"
+ },
+ "fuchu-hiroshima": {
+  "status": "ok",
+  "name": "府中",
+  "src": "Fuchu city Hiroshima prefecture center area Aerial photograph.2018.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Fuchu_city_Hiroshima_prefecture_center_area_Aerial_photograph.2018.jpg/1920px-Fuchu_city_Hiroshima_prefecture_center_area_Aerial_photograph.2018.jpg",
+  "dim": "1920x1443",
+  "vision": "日本の山間部に位置する市街地の航空/衛星写真で、緑豊かな山々と河川沿いの町並みが確認でき、広島県府中市の地形・景観と矛盾しない。"
+ },
+ "shimonada": {
+  "status": "ok",
+  "name": "下灘",
+  "src": "下灘駅 - panoramio.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/%E4%B8%8B%E7%81%98%E9%A7%85_-_panoramio.jpg/1920px-%E4%B8%8B%E7%81%98%E9%A7%85_-_panoramio.jpg",
+  "dim": "1920x1440",
+  "vision": "「下灘」駅名標が写り込んでおり、海を背景にした下灘駅ホームの絶景として完全に合致する。"
+ },
+ "misaki-kochi": {
+  "status": "ok",
+  "name": "三崎",
+  "src": "Ashizuri Cape 01.JPG",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Ashizuri_Cape_01.JPG/1920px-Ashizuri_Cape_01.JPG",
+  "dim": "1920x1275",
+  "vision": "断崖絶壁の上に立つ白い灯台と海の風景で、愛媛県三崎エリアの佐田岬灯台に合致する日本の海岸絶景。"
+ },
+ "tobe": {
+  "status": "ok",
+  "name": "砥部",
+  "src": "Tobe-Town Bunkakaikan 20240530 (1).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tobe-Town_Bunkakaikan_20240530_%281%29.jpg/1920px-Tobe-Town_Bunkakaikan_20240530_%281%29.jpg",
+  "dim": "1920x1282",
+  "vision": "日本国内の公共施設（文化会館等）と思われる建物で、砥部町の施設の可能性があり、日本の街歩き・文化テーマと矛盾しない。"
+ },
+ "otaki": {
+  "status": "ok",
+  "name": "大多喜",
+  "src": "Chiba Prefectural Road Route 231 (Otaki Station Line) in Otaki, Otaki Town 02.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Chiba_Prefectural_Road_Route_231_%28Otaki_Station_Line%29_in_Otaki%2C_Otaki_Town_02.jpg/1920px-Chiba_Prefectural_Road_Route_231_%28Otaki_Station_Line%29_in_Otaki%2C_Otaki_Town_02.jpg",
+  "dim": "1920x1278",
+  "vision": "日本の地方住宅街の道路・横断歩道の風景で、国内であることは明確。大多喜の街歩きテーマと矛盾しない。"
+ },
+ "notsuke-hanto": {
+  "status": "ok",
+  "name": "野付半島",
+  "src": "野付半島ネイチャーセンター - panoramio.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/%E9%87%8E%E4%BB%98%E5%8D%8A%E5%B3%B6%E3%83%8D%E3%82%A4%E3%83%81%E3%83%A3%E3%83%BC%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC_-_panoramio.jpg/1920px-%E9%87%8E%E4%BB%98%E5%8D%8A%E5%B3%B6%E3%83%8D%E3%82%A4%E3%83%81%E3%83%A3%E3%83%BC%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC_-_panoramio.jpg",
+  "dim": "1920x1440",
+  "vision": "北海道らしい低木植生（ハマナスなど）が広がる平坦な湿地帯と、奥に丸太造りの施設（野付半島ネイチャーセンターと思われる）が見える。日本国内の自然風景として妥当。"
+ },
+ "shishikui": {
+  "status": "ok",
+  "name": "宍喰",
+  "src": "Shishikui Station 2017-09-21 (36743108703).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Shishikui_Station_2017-09-21_%2836743108703%29.jpg/1920px-Shishikui_Station_2017-09-21_%2836743108703%29.jpg",
+  "dim": "1920x1282",
+  "vision": "日本語の標識（立入禁止）や日本式の鉄道設備・カーブミラーが確認でき、緑豊かな山々を背景にした日本国内の鉄道駅（宍喰駅と思われる）のホーム風景。日本国内の風景として妥当。海・港町テーマとは直接一致しないが、地域の交通インフラとして許容範囲内。"
+ },
+ "tsumagoi": {
+  "status": "ok",
+  "name": "嬬恋",
+  "src": "Gunma Nagano Prefectural Border Display at Jizo Pass.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Gunma_Nagano_Prefectural_Border_Display_at_Jizo_Pass.jpg/1920px-Gunma_Nagano_Prefectural_Border_Display_at_Jizo_Pass.jpg",
+  "dim": "1920x1280",
+  "vision": "「群馬県・嬬恋村」の標識が明示されており、嬬恋の自然・緑の風景と一致する。"
+ },
+ "nyukasa": {
+  "status": "ok",
+  "name": "入笠山",
+  "src": "Mt.8 20141030 155234.JPG",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Mt.8_20141030_155234.JPG/1920px-Mt.8_20141030_155234.JPG",
+  "dim": "1920x1079",
+  "vision": "山頂付近からの広大な眺望で、手前に針葉樹林、奥に山並みと盆地が広がる日本の高山の風景として妥当。入笠山（長野県）からの景観と矛盾しない。"
+ },
+ "ikoma-kogen": {
+  "status": "ok",
+  "name": "生駒高原",
+  "src": "Miyazaki Ikoma-plateau Hinamori-mountain.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Miyazaki_Ikoma-plateau_Hinamori-mountain.jpg/1920px-Miyazaki_Ikoma-plateau_Hinamori-mountain.jpg",
+  "dim": "1920x1280",
+  "vision": "高原の広大な花畑と背景の山（えびの高原付近の霧島連山と思われる）が写っており、宮崎県・生駒高原の花畑風景として矛盾しない。日本国内の自然景観。"
+ },
+ "sefa-utaki": {
+  "status": "ok",
+  "name": "斎場御嶽",
+  "src": "Okinawa Nanjo Sefa-utaki Gusuku site Yuinchi 01.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Okinawa_Nanjo_Sefa-utaki_Gusuku_site_Yuinchi_01.jpg/1920px-Okinawa_Nanjo_Sefa-utaki_Gusuku_site_Yuinchi_01.jpg",
+  "dim": "1920x1440",
+  "vision": "斎場御嶽（Sefa-utaki）の説明板が写っており、日本語・英語で斎場御嶽に関する解説が記載されている。沖縄の世界遺産である斎場御嶽の現地案内板として妥当。"
+ },
+ "mikurajima": {
+  "status": "ok",
+  "name": "御蔵島",
+  "src": "View of Mikurajima from aircraft.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/View_of_Mikurajima_from_aircraft.jpg/1920px-View_of_Mikurajima_from_aircraft.jpg",
+  "dim": "1920x1280",
+  "vision": "航空写真で撮影された緑に覆われた孤立した離島の俯瞰画像。御蔵島の特徴（山がちな地形、急峻な斜面、小さな離島）と一致しており、離島・自然・秘境のテーマに合致する。"
+ },
+ "gokase": {
+  "status": "ok",
+  "name": "五ヶ瀬",
+  "src": "Gokase Town Office 2022 01.JPG",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Gokase_Town_Office_2022_01.JPG/1920px-Gokase_Town_Office_2022_01.JPG",
+  "dim": "1920x1440",
+  "vision": "日本国内の公共建築物（役場・公民館等）と思われる建物で、日本の国旗も確認できる。五ヶ瀬町の施設として矛盾なし。ただし山・自然景観ではなく行政施設の外観のため、旅先メイン画像としてはやや地味だが許容範囲内。"
+ },
+ "keta-taisha": {
+  "status": "ok",
+  "name": "気多大社",
+  "src": "気多大社拝殿.JPG",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/%E6%B0%97%E5%A4%9A%E5%A4%A7%E7%A4%BE%E6%8B%9D%E6%AE%BF.JPG/1920px-%E6%B0%97%E5%A4%9A%E5%A4%A7%E7%A4%BE%E6%8B%9D%E6%AE%BF.JPG",
+  "dim": "1920x1280",
+  "vision": "日本の伝統的な神社建築（拝殿）が写っており、鳥居も確認できる。気多大社のテーマ（神社/歴史/文化）と合致している。"
+ },
+ "nushima": {
+  "status": "ok",
+  "name": "沼島",
+  "src": "Hyogo prefway 482.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Hyogo_prefway_482.jpg/1920px-Hyogo_prefway_482.jpg",
+  "dim": "1920x1280",
+  "vision": "日本の漁村・島集落の街並みで、奥に神社の鳥居と階段が見える。沼島の神話・島・自然テーマと合致する日本国内の風景。"
+ },
+ "kasadojima": {
+  "status": "ok",
+  "name": "笠戸島",
+  "src": "KudamatsuKasadoBridge.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/KudamatsuKasadoBridge.jpg/1920px-KudamatsuKasadoBridge.jpg",
+  "dim": "1920x1080",
+  "vision": "赤いアーチ橋と青い海・緑の丘が写っており、笠戸島大橋と思われる日本の島・海景観に合致する"
+ },
+ "okinoshima-kochi": {
+  "status": "ok",
+  "name": "沖ノ島",
+  "src": "Kochi Okinoshima Island.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Kochi_Okinoshima_Island.jpg/1920px-Kochi_Okinoshima_Island.jpg",
+  "dim": "1920x1440",
+  "vision": "海上から撮影した緑豊かな島の全景で、沖ノ島（高知県）のような日本の離島・秘境島テーマと合致する。"
+ },
+ "yorojima": {
+  "status": "ok",
+  "name": "与路島",
+  "src": "Yoroshima and Ukejima ISS045.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Yoroshima_and_Ukejima_ISS045.jpg/1920px-Yoroshima_and_Ukejima_ISS045.jpg",
+  "dim": "1920x1365",
+  "vision": "宇宙/航空機からの島々の俯瞰写真で、珊瑚礁に囲まれた複数の島が映っており、与路島を含む南西諸島（鹿児島県）の島嶼群と矛盾しない。島・海・自然のテーマに合致。"
+ },
+ "minamidaitojima": {
+  "status": "ok",
+  "name": "南大東島",
+  "src": "Minamidaitojima Island Aerial photograph.2012.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Minamidaitojima_Island_Aerial_photograph.2012.jpg/1920px-Minamidaitojima_Island_Aerial_photograph.2012.jpg",
+  "dim": "1920x1907",
+  "vision": "南大東島の航空・衛星写真と思われる。島全体の俯瞰図で、滑走路・農地・湖沼・断崖が確認でき、南大東島の地形的特徴（隆起珊瑚礁の平坦な島、環状道路、中央の池など）と一致する。島・自然・秘境テーマに合致。"
+ },
+ "ikeshima": {
+  "status": "ok",
+  "name": "池島",
+  "src": "池島炭鉱 - panoramio.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/%E6%B1%A0%E5%B3%B6%E7%82%AD%E9%89%B1_-_panoramio.jpg/1920px-%E6%B1%A0%E5%B3%B6%E7%82%AD%E9%89%B1_-_panoramio.jpg",
+  "dim": "1920x1280",
+  "vision": "日本語の表示（ガス検知器等）が確認でき、池島炭鉱の坑内設備と考えられる。池島は炭鉱観光が主要コンテンツであり、離島・産業遺産テーマと合致する。"
+ },
+ "kinkasan": {
+  "status": "skip",
+  "name": "金華山",
+  "pref": "宮城県",
+  "reason": "3候補NG",
+  "tried": [
+   {
+    "title": "Mount Kinka (Gifu) VLux5 hdsr 01.jpg",
+    "r": "Vision NG: ロープウェー乗り場の施設画像であり、金華山（宮城県・離島/自然）のメイン画像とし"
+   },
+   {
+    "title": "Mount Kinka (Gifu) VLux5 hdsr 03.jpg",
+    "r": "Vision NG: 画像には「岐阜城」「明智光秀」などの幟が確認でき、岐阜県の岐阜城（金華山）の参道"
+   },
+   {
+    "title": "Mount Kinka (Gifu) VLux5 hdsr 04.jpg",
+    "r": "Vision NG: これは岐阜県の金華山（岐阜城のある山）の案内板であり、宮城県の金華山とは別の場所"
+   }
+  ]
+ },
+ "yatsugatake": {
+  "status": "ok",
+  "name": "八ヶ岳",
+  "src": "Yatsugatake Mountains (53108707645).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Yatsugatake_Mountains_%2853108707645%29.jpg/1920px-Yatsugatake_Mountains_%2853108707645%29.jpg",
+  "dim": "1920x970",
+  "vision": "緑豊かな高山の稜線・岩場・登山道が写っており、八ヶ岳の山岳景観と合致する日本の山岳風景として妥当。"
+ },
+ "omijima": {
+  "status": "ok",
+  "name": "青海島",
+  "src": "Nagato 20201212150912 (50852961333).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Nagato_20201212150912_%2850852961333%29.jpg/1920px-Nagato_20201212150912_%2850852961333%29.jpg",
+  "dim": "1920x1440",
+  "vision": "日本国内の町並み・ロータリーのモニュメントで、波をモチーフにしたデザインが青海島（海・自然）のテーマと矛盾しない。日本の地方都市の景観として妥当。"
+ },
+ "nakanoshima-oki": {
+  "status": "ok",
+  "name": "中ノ島",
+  "src": "Dozen Caldera seen from Mt. Akahage, Chiburijima (looking to the north).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Dozen_Caldera_seen_from_Mt._Akahage%2C_Chiburijima_%28looking_to_the_north%29.jpg/1920px-Dozen_Caldera_seen_from_Mt._Akahage%2C_Chiburijima_%28looking_to_the_north%29.jpg",
+  "dim": "1920x618",
+  "vision": "緑の丘と青い海・複数の島が広がるパノラマ風景で、島根県の離島（隠岐諸島など）の展望台からの眺めと合致する。日本国内の離島・海・自然のテーマに適合。"
+ },
+ "etajima": {
+  "status": "ok",
+  "name": "江田島",
+  "src": "Ogaki district Etajima city Aerial photograph.2008.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Ogaki_district_Etajima_city_Aerial_photograph.2008.jpg/1920px-Ogaki_district_Etajima_city_Aerial_photograph.2008.jpg",
+  "dim": "1920x1153",
+  "vision": "島を上空から撮影した衛星/航空写真で、緑豊かな丘陵と周囲の海が確認できる。江田島のような瀬戸内海の離島の景観と一致しており、テーマと矛盾しない。"
+ },
+ "kikai-island": {
+  "status": "ok",
+  "name": "喜界島",
+  "src": "Kikai Island Aerial photograph.2008.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Kikai_Island_Aerial_photograph.2008.jpg/1920px-Kikai_Island_Aerial_photograph.2008.jpg",
+  "dim": "1920x1059",
+  "vision": "衛星写真で撮影された島の全景。サンゴ礁に囲まれた離島の形状・規模・農地パターンが喜界島と合致し、日本の離島・海・自然のテーマに合致する。"
+ },
+ "yubu-island": {
+  "status": "ok",
+  "name": "由布島",
+  "src": "Yubu island Elementary and junior high schools.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Yubu_island_Elementary_and_junior_high_schools.jpg/1920px-Yubu_island_Elementary_and_junior_high_schools.jpg",
+  "dim": "1920x1440",
+  "vision": "看板に「由布島小中学校の跡地」と明記されており、由布島（沖縄県）の島内風景そのもの。亜熱帯の植生と砂道が離島・自然のテーマと合致する。"
+ },
+ "hatoma-island": {
+  "status": "ok",
+  "name": "鳩間島",
+  "src": "Hatoma remote view wide.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Hatoma_remote_view_wide.jpg/1920px-Hatoma_remote_view_wide.jpg",
+  "dim": "1920x1012",
+  "vision": "海上から小島全体を望む構図で、沖縄の離島・鳩間島のような亜熱帯の緑豊かな小島と穏やかな青い海が写っており、テーマと合致する。"
+ },
+ "okinoerabu": {
+  "status": "ok",
+  "name": "沖永良部島",
+  "src": "Okinoerabu-airport2206b.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Okinoerabu-airport2206b.jpg/1920px-Okinoerabu-airport2206b.jpg",
+  "dim": "1920x1080",
+  "vision": "JALグループのプロペラ機が離島の小規模空港に駐機している様子。沖永良部島空港に就航するJAC(日本エアコミューター)のATR機と一致し、離島アクセスの文脈として妥当。"
+ },
+ "kuroshima-yaeyama": {
+  "status": "ok",
+  "name": "黒島",
+  "src": "Kuroishima Island, Taketomi Okinawa Aerial photograph.2009.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Kuroishima_Island%2C_Taketomi_Okinawa_Aerial_photograph.2009.jpg/1920px-Kuroishima_Island%2C_Taketomi_Okinawa_Aerial_photograph.2009.jpg",
+  "dim": "1920x1440",
+  "vision": "珊瑚礁に囲まれた小さな離島の航空写真で、沖縄県の黒島と一致する地形・景観。離島・海・自然テーマと合致。"
+ },
+ "fukiya": {
+  "status": "ok",
+  "name": "吹屋ふるさと村",
+  "src": "Fukiya 23-Oct-2021.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Fukiya_23-Oct-2021.jpg/1920px-Fukiya_23-Oct-2021.jpg",
+  "dim": "1920x1282",
+  "vision": "日本の伝統的な街並み（古い町家・瓦屋根が並ぶ歴史的街道）が写っており、吹屋ふるさと村の歴史的景観テーマと合致する。"
+ },
+ "hinase": {
+  "status": "ok",
+  "name": "日生",
+  "src": "FerryHinase SetouchiKankoKisen Hinase 20231123.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/FerryHinase_SetouchiKankoKisen_Hinase_20231123.jpg/1920px-FerryHinase_SetouchiKankoKisen_Hinase_20231123.jpg",
+  "dim": "1920x1280",
+  "vision": "日本語表記「フェリーひなせ」と読めるフェリー船が日生港付近の海に停泊しており、日生（岡山県）の海・フェリーテーマに合致する日本国内の風景。"
+ },
+ "soja-okayama": {
+  "status": "ok",
+  "name": "総社",
+  "src": "総社商店街通り03.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/%E7%B7%8F%E7%A4%BE%E5%95%86%E5%BA%97%E8%A1%97%E9%80%9A%E3%82%8A03.jpg/1920px-%E7%B7%8F%E7%A4%BE%E5%95%86%E5%BA%97%E8%A1%97%E9%80%9A%E3%82%8A03.jpg",
+  "dim": "1920x1440",
+  "vision": "日本の神社の鳥居と参道が写っており、岡山県総社市の寺社・歴史テーマと合致する。"
+ },
+ "sakura-city": {
+  "status": "ok",
+  "name": "佐倉",
+  "src": "佐倉城址 両町橋 2015.1.02 - panoramio.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/%E4%BD%90%E5%80%89%E5%9F%8E%E5%9D%80_%E4%B8%A1%E7%94%BA%E6%A9%8B_2015.1.02_-_panoramio.jpg/1920px-%E4%BD%90%E5%80%89%E5%9F%8E%E5%9D%80_%E4%B8%A1%E7%94%BA%E6%A9%8B_2015.1.02_-_panoramio.jpg",
+  "dim": "1920x1272",
+  "vision": "日本式の橋と整備された公園の風景で、国内の歴史的公園・城址等に見られる景観と合致。佐倉城址公園などのテーマと矛盾しない。"
+ },
+ "ogose": {
+  "status": "ok",
+  "name": "越生",
+  "src": "Kiha 110 at Ogose station.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Kiha_110_at_Ogose_station.jpg/1920px-Kiha_110_at_Ogose_station.jpg",
+  "dim": "1920x1280",
+  "vision": "JRロゴの付いた日本の列車と緑豊かな山を背景にした地方路線の風景で、日本国内の風景として妥当。越生は八高線が通る埼玉県の町であり、矛盾なし。"
+ },
+ "miyama-kayabuki": {
+  "status": "ok",
+  "name": "美山かやぶきの里",
+  "src": "North of Kyoto, Kayakbuki no sato open air museum with several houses.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/North_of_Kyoto%2C_Kayakbuki_no_sato_open_air_museum_with_several_houses.jpg/1920px-North_of_Kyoto%2C_Kayakbuki_no_sato_open_air_museum_with_several_houses.jpg",
+  "dim": "1920x1336",
+  "vision": "茅葺き屋根の古民家が複数並び、山間の緑豊かな景観が背景に写っており、美山かやぶきの里の風景として合致する。日本国内の歴史的集落の景観として妥当。"
+ },
+ "tottori-sakyu": {
+  "status": "ok",
+  "name": "鳥取砂丘",
+  "src": "Tottori Sakyū -02.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Tottori_Saky%C5%AB_-02.jpg/1920px-Tottori_Saky%C5%AB_-02.jpg",
+  "dim": "1920x466",
+  "vision": "広大な砂丘と曇り空のパノラマ写真で、鳥取砂丘の景観と一致する。日本国内の自然風景として妥当。"
+ },
+ "nichinan-coast": {
+  "status": "ok",
+  "name": "日南海岸",
+  "src": "KoigauraBeach.JPG",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KoigauraBeach.JPG/1920px-KoigauraBeach.JPG",
+  "dim": "1920x1440",
+  "vision": "日本の海岸風景で、砂浜・岬・緑の山が写っており、日南海岸のような南九州の海岸景観と矛盾しない。"
+ },
+ "izumiotsu": {
+  "status": "ok",
+  "name": "泉佐野",
+  "src": "Rinku Pleasure Town Seacle 2020-01-23.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Rinku_Pleasure_Town_Seacle_2020-01-23.jpg/1920px-Rinku_Pleasure_Town_Seacle_2020-01-23.jpg",
+  "dim": "1920x1283",
+  "vision": "日本の都市風景（観覧車・高層ビル・日本語看板・マクドナルド等）が写っており、大阪府の街並みとして矛盾しない。"
+ },
+ "katsurahama": {
+  "status": "ok",
+  "name": "桂浜",
+  "src": "桂浜周辺 - panoramio.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/%E6%A1%82%E6%B5%9C%E5%91%A8%E8%BE%BA_-_panoramio.jpg/1920px-%E6%A1%82%E6%B5%9C%E5%91%A8%E8%BE%BA_-_panoramio.jpg",
+  "dim": "1920x1280",
+  "vision": "日本の海岸線・島・山が見える海上からの眺めで、桂浜周辺の太平洋沿岸の風景と矛盾しない。"
+ },
+ "osaka-bay": {
+  "status": "ok",
+  "name": "大阪ベイエリア",
+  "src": "Check out of a Hotel Osaka Bay Tower. (33923346065).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Check_out_of_a_Hotel_Osaka_Bay_Tower._%2833923346065%29.jpg/1920px-Check_out_of_a_Hotel_Osaka_Bay_Tower._%2833923346065%29.jpg",
+  "dim": "1920x900",
+  "vision": "日本の都市部の高層ビル群と湾岸エリアが広がるパノラマ写真。大阪湾方面の水辺や港湾施設、高速道路が見え、大阪ベイエリアの街並みと海の景観に合致する。"
+ },
+ "miharu-takizakura": {
+  "status": "ok",
+  "name": "三春滝桜",
+  "src": "Miharu Takizakura 09.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Miharu_Takizakura_09.jpg/1920px-Miharu_Takizakura_09.jpg",
+  "dim": "1920x390",
+  "vision": "日本国内の公園・丘陵地帯に大きな桜の木が咲いており、三春滝桜周辺の景観と矛盾しない。"
+ },
+ "rebun-no-tour": {
+  "status": "ok",
+  "name": "礼文島",
+  "src": "Rebun Island Banner.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Rebun_Island_Banner.jpg/1920px-Rebun_Island_Banner.jpg",
+  "dim": "1920x275",
+  "vision": "緑豊かな丘陵と海岸線のパノラマ風景で、礼文島の高山植物帯・島の地形と合致する日本の離島風景として妥当。"
+ },
+ "nakasendo-tsumago": {
+  "status": "ok",
+  "name": "妻籠宿",
+  "src": "Tsumago-juku 妻籠宿 aerial panorama.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Tsumago-juku_%E5%A6%BB%E7%B1%A0%E5%AE%BF_aerial_panorama.jpg/1920px-Tsumago-juku_%E5%A6%BB%E7%B1%A0%E5%AE%BF_aerial_panorama.jpg",
+  "dim": "1920x777",
+  "vision": "山間の谷あいに集落が連なる俯瞰空撮で、妻籠宿のような中山道の宿場町の景観と合致する。日本の山村風景であり、歴史・街歩きテーマと矛盾しない。"
+ },
+ "wajima-asaichi": {
+  "status": "ok",
+  "name": "輪島朝市",
+  "src": "Wajima Asaichi ac (5).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Wajima_Asaichi_ac_%285%29.jpg/1920px-Wajima_Asaichi_ac_%285%29.jpg",
+  "dim": "1920x1277",
+  "vision": "日本語の値札が付いたカラフルな塗り箸が並ぶ露店の様子で、輪島塗で有名な輪島朝市の土産物店として矛盾なく合致する。"
+ },
+ "kumano-kodo": {
+  "status": "ok",
+  "name": "熊野古道",
+  "src": "Kumano Kodo Ukairo 20160322.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Kumano_Kodo_Ukairo_20160322.jpg/1920px-Kumano_Kodo_Ukairo_20160322.jpg",
+  "dim": "1920x647",
+  "vision": "日本の山岳・森林地帯のパノラマ風景で、熊野古道が通る紀伊山地の深い山並みと杉林の雰囲気と合致する。"
+ },
+ "horyuji": {
+  "status": "ok",
+  "name": "法隆寺",
+  "src": "Horyu-ji10s3200.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Horyu-ji10s3200.jpg/1920px-Horyu-ji10s3200.jpg",
+  "dim": "1920x1280",
+  "vision": "日本の古代寺院建築（五重塔と金堂が見える伽藍配置）が写っており、法隆寺の西院伽藍と一致する。世界遺産・寺社・歴史テーマと完全に合致する。"
+ },
+ "saga-castle": {
+  "status": "ok",
+  "name": "佐賀城",
+  "src": "Saga castle 20170222.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Saga_castle_20170222.jpg/1920px-Saga_castle_20170222.jpg",
+  "dim": "1920x1280",
+  "vision": "日本の城郭建築（石垣・白壁・瓦屋根）が写っており、佐賀城の鯱の門と一致する特徴を持つ。歴史/街歩きテーマと合致。"
+ },
+ "narita": {
+  "status": "skip",
+  "name": "成田山新勝寺",
+  "pref": "千葉県",
+  "reason": "3候補NG",
+  "tried": [
+   {
+    "title": "Toyoko Inn Narita Airport Shinkan seen from Narita International Airport Terminal 3, April 2023.jpg",
+    "r": "Vision NG: 空港の駐機エプロン・貨物エリアの画像であり、成田山新勝寺（寺社）のメイン画像とし"
+   },
+   {
+    "title": "Narita City Hall, 2020.jpg",
+    "r": "Vision NG: 画像は現代的な公共施設・行政庁舎のような建物と広場で、寺社仏閣の成田山新勝寺とは"
+   },
+   {
+    "title": "Shinshō-ji (Higashi-Ueno, Taito) 02.jpg",
+    "r": "Vision NG: 石碑に「真照寺」と刻まれており、成田山新勝寺とは別の寺院の入口であることが明確な"
+   }
+  ]
+ },
+ "tottori-sakyu-2": {
+  "status": "ok",
+  "name": "砂の美術館",
+  "src": "Tottori Sakyū -02.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Tottori_Saky%C5%AB_-02.jpg/1920px-Tottori_Saky%C5%AB_-02.jpg",
+  "dim": "1920x466",
+  "vision": "鳥取砂丘の砂丘風景と思われ、砂の美術館がある鳥取県の象徴的な景観として矛盾しない。日本国内の風景。"
+ },
+ "mihama-fukui": {
+  "status": "ok",
+  "name": "美浜",
+  "src": "Mihama Lake Center in Mihama Town, Fukui Prefecture.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mihama_Lake_Center_in_Mihama_Town%2C_Fukui_Prefecture.jpg/1920px-Mihama_Lake_Center_in_Mihama_Town%2C_Fukui_Prefecture.jpg",
+  "dim": "1920x1280",
+  "vision": "「MIHAMA LAKE CENTER（美浜レイクビーセンター）」と読める看板があり、福井県美浜町の施設と確認できる。日本国内の建物で海・湖畔エリアのテーマとも合致する。"
+ },
+ "mihashira": {
+  "status": "ok",
+  "name": "三十槌の氷柱",
+  "src": "Chichibu Misotsuchi-Tsurara.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Chichibu_Misotsuchi-Tsurara.jpg/1920px-Chichibu_Misotsuchi-Tsurara.jpg",
+  "dim": "1920x1283",
+  "vision": "岩壁に大きな氷柱が発達した冬の絶景で、三十槌の氷柱（埼玉県）の特徴と合致する。日本国内の冬景色として妥当。"
+ },
+ "saiko": {
+  "status": "ok",
+  "name": "西湖",
+  "src": "《漂海录》西湖图象.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/%E3%80%8A%E6%BC%82%E6%B5%B7%E5%BD%95%E3%80%8B%E8%A5%BF%E6%B9%96%E5%9B%BE%E8%B1%A1.jpg/1920px-%E3%80%8A%E6%BC%82%E6%B5%B7%E5%BD%95%E3%80%8B%E8%A5%BF%E6%B9%96%E5%9B%BE%E8%B1%A1.jpg",
+  "dim": "1920x1278",
+  "vision": "右ページに「西湖図」と読める漢字が記されており、山梨県西湖を描いた江戸期の古地図・絵図と思われる。西湖の歴史・文化的資料として旅先の紹介画像として妥当。"
+ },
+ "naruto-uzu": {
+  "status": "ok",
+  "name": "鳴門の渦潮",
+  "src": "Naruto whirlpools 20170609-2.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Naruto_whirlpools_20170609-2.jpg/1920px-Naruto_whirlpools_20170609-2.jpg",
+  "dim": "1920x1280",
+  "vision": "大鳴門橋と渦潮・観潮船が写っており、鳴門の渦潮（徳島県）のメイン画像として適切。"
+ },
+ "umi-jigoku": {
+  "status": "ok",
+  "name": "宇美八幡宮",
+  "src": "Umi-hachimangu ac (1).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Umi-hachimangu_ac_%281%29.jpg/1920px-Umi-hachimangu_ac_%281%29.jpg",
+  "dim": "1920x1276",
+  "vision": "日本の神社建築と「七五三祝」の幟が写っており、寺社テーマと合致する日本国内の風景として妥当。"
+ },
+ "gokayama-2": {
+  "status": "ok",
+  "name": "五箇山・相倉合掌集落",
+  "src": "Gokayama traditional houses, Toyama Prefecture; September 2019 (01).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Gokayama_traditional_houses%2C_Toyama_Prefecture%3B_September_2019_%2801%29.jpg/1920px-Gokayama_traditional_houses%2C_Toyama_Prefecture%3B_September_2019_%2801%29.jpg",
+  "dim": "1920x1280",
+  "vision": "合掌造りの茅葺き屋根の建物が写っており、五箇山・相倉合掌集落の特徴的な建築様式と一致。日本の世界遺産集落の風景として妥当。"
+ },
+ "shirotori": {
+  "status": "ok",
+  "name": "白鳥",
+  "src": "Michinoeki Hakusan Bunkanosato Nagataki s2.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Michinoeki_Hakusan_Bunkanosato_Nagataki_s2.jpg/1920px-Michinoeki_Hakusan_Bunkanosato_Nagataki_s2.jpg",
+  "dim": "1920x1120",
+  "vision": "日本の山間部にある道の駅や観光施設と思われる建物・駐車場・山の風景で、岐阜県白鳥の自然環境と矛盾しない。"
+ },
+ "shigaraki-2-pottery": {
+  "status": "skip",
+  "name": "信楽焼の里",
+  "reason": "Commons候補なし"
+ },
+ "izu-jogasaki": {
+  "status": "ok",
+  "name": "城ヶ崎海岸",
+  "src": "Izu peninsula UNESCO geopark 2022 Sept 12 various 18 32 48 999000.jpeg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Izu_peninsula_UNESCO_geopark_2022_Sept_12_various_18_32_48_999000.jpeg/1920px-Izu_peninsula_UNESCO_geopark_2022_Sept_12_various_18_32_48_999000.jpeg",
+  "dim": "1920x698",
+  "vision": "溶岩質の断崖と海、吊り橋が写っており、城ヶ崎海岸の門脇吊橋と一致する景観。日本国内の海岸絶景として妥当。"
+ },
+ "nabari": {
+  "status": "ok",
+  "name": "名張",
+  "src": "Aerial view of Nabari City.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Aerial_view_of_Nabari_City.jpg/1920px-Aerial_view_of_Nabari_City.jpg",
+  "dim": "1920x1280",
+  "vision": "日本の地方都市の航空写真で、住宅地・田畑・工業施設が混在する典型的な日本の中小都市の景観。名張市の俯瞰写真として矛盾なし。"
+ },
+ "zushi": {
+  "status": "ok",
+  "name": "逗子",
+  "src": "Zushi - 01.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Zushi_-_01.jpg/1920px-Zushi_-_01.jpg",
+  "dim": "1920x1280",
+  "vision": "山の上からの俯瞰で、緑の丘陵に囲まれた街並みと奥に海が見える日本の沿岸都市の風景。逗子・葉山エリアの雰囲気と合致し、海・街歩きのテーマとも矛盾しない。"
+ },
+ "yamaguchi-city": {
+  "status": "ok",
+  "name": "山口市",
+  "src": "山口県岩国市 鞍掛山.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/%E5%B1%B1%E5%8F%A3%E7%9C%8C%E5%B2%A9%E5%9B%BD%E5%B8%82_%E9%9E%8D%E6%8E%9B%E5%B1%B1.jpg/1920px-%E5%B1%B1%E5%8F%A3%E7%9C%8C%E5%B2%A9%E5%9B%BD%E5%B8%82_%E9%9E%8D%E6%8E%9B%E5%B1%B1.jpg",
+  "dim": "1920x1280",
+  "vision": "日本の地方都市の住宅街と緑豊かな山が写っており、山口市の風景として矛盾しない。"
+ },
+ "toba-pearl": {
+  "status": "ok",
+  "name": "ミキモト真珠島",
+  "src": "Pamphlet of Mikimoto Pearl Island, Japan, 1959 front side.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Pamphlet_of_Mikimoto_Pearl_Island%2C_Japan%2C_1959_front_side.jpg/1920px-Pamphlet_of_Mikimoto_Pearl_Island%2C_Japan%2C_1959_front_side.jpg",
+  "dim": "1920x1357",
+  "vision": "「MIKIMOTO PEARL ISLAND 御木本真珠島」と明記されたパンフレット。三重県の観光地と一致し、海女・真珠・島の航空写真など関連コンテンツを含む日本語資料であり妥当。"
+ },
+ "motonosumi": {
+  "status": "ok",
+  "name": "元乃隅稲成神社",
+  "src": "Motonosumi-jinja 20190322.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Motonosumi-jinja_20190322.jpg/1920px-Motonosumi-jinja_20190322.jpg",
+  "dim": "1920x1280",
+  "vision": "連続する赤い鳥居が海岸沿いの崖に並ぶ光景で、元乃隅稲成神社の特徴的な風景と一致。日本国内の神社・絶景テーマに合致。"
+ },
+ "akita-yokote": {
+  "status": "ok",
+  "name": "横手",
+  "src": "横手駅 - panoramio.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/%E6%A8%AA%E6%89%8B%E9%A7%85_-_panoramio.jpg/1920px-%E6%A8%AA%E6%89%8B%E9%A7%85_-_panoramio.jpg",
+  "dim": "1920x1280",
+  "vision": "JR横手駅の駅舎が写っており、横手（秋田県）の旅先メイン画像として妥当。"
+ },
+ "mt-yatsugatake": {
+  "status": "ok",
+  "name": "蓼科高原",
+  "src": "蓼科高原 紅葉.JPG",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/%E8%93%BC%E7%A7%91%E9%AB%98%E5%8E%9F_%E7%B4%85%E8%91%89.JPG/1920px-%E8%93%BC%E7%A7%91%E9%AB%98%E5%8E%9F_%E7%B4%85%E8%91%89.JPG",
+  "dim": "1920x1280",
+  "vision": "秋の紅葉に包まれた高原の森と小さな池が写っており、蓼科高原の秋景色として矛盾なし。日本の山岳高原風景と判断できる。"
+ },
+ "akita-oga-peninsula": {
+  "status": "ok",
+  "name": "男鹿半島",
+  "src": "Akita Prefectural road Route 59 (Oga-hantou line) in Funagawaminato-Masugawa, Oga city.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Akita_Prefectural_road_Route_59_%28Oga-hantou_line%29_in_Funagawaminato-Masugawa%2C_Oga_city.jpg/1920px-Akita_Prefectural_road_Route_59_%28Oga-hantou_line%29_in_Funagawaminato-Masugawa%2C_Oga_city.jpg",
+  "dim": "1920x1280",
+  "vision": "日本の地方道路（国道59号標識あり）と山・集落の風景で、日本国内の景観として矛盾なし。男鹿半島周辺の道路風景として妥当。"
+ },
+ "iso": {
+  "status": "ok",
+  "name": "仙巌園",
+  "src": "Sengan-en 02.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Sengan-en_02.jpg/1920px-Sengan-en_02.jpg",
+  "dim": "1920x1280",
+  "vision": "日本の伝統的な瓦屋根の建物群と石積みの石段、背景に海が見える風景で、仙巌園（鹿児島）の庭園・歴史的建造物のテーマと合致する。"
+ },
+ "okinawa-chinen": {
+  "status": "ok",
+  "name": "知念岬公園",
+  "src": "Panorama from Cape Chinen Park.JPG",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Panorama_from_Cape_Chinen_Park.JPG/1920px-Panorama_from_Cape_Chinen_Park.JPG",
+  "dim": "1920x440",
+  "vision": "青い海と空を望む岬の展望エリアで、沖縄の海岸公園として矛盾なし。"
+ },
+ "nara-park-2": {
+  "status": "ok",
+  "name": "若草山",
+  "src": "Nara Park from Nara prefectural government office 20141001.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Nara_Park_from_Nara_prefectural_government_office_20141001.jpg/1920px-Nara_Park_from_Nara_prefectural_government_office_20141001.jpg",
+  "dim": "1920x156",
+  "vision": "日本の古都奈良らしい五重塔と緑の山並みが広がるパノラマ風景で、若草山周辺の景観と合致する。"
+ },
+ "tottori-mt-mitoku": {
+  "status": "ok",
+  "name": "三徳山投入堂",
+  "src": "投入堂遠望.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/%E6%8A%95%E5%85%A5%E5%A0%82%E9%81%A0%E6%9C%9B.jpg/1920px-%E6%8A%95%E5%85%A5%E5%A0%82%E9%81%A0%E6%9C%9B.jpg",
+  "dim": "1920x1281",
+  "vision": "断崖絶壁の岩窟に建てられた木造建築が確認でき、三徳山投入堂の特徴的な景観と一致。日本の山岳寺院・秘境テーマに合致。"
+ },
+ "cape-zampa": {
+  "status": "ok",
+  "name": "残波岬",
+  "src": "Cliff of Cape Zampa.JPG",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Cliff_of_Cape_Zampa.JPG/1920px-Cliff_of_Cape_Zampa.JPG",
+  "dim": "1920x1440",
+  "vision": "琉球石灰岩の断崖と青い海が映っており、残波岬の景観と合致する。日本国内の沖縄らしい絶景・海のテーマに合致。"
+ },
+ "niche_秋田_4": {
+  "status": "skip",
+  "name": "小坂鉄道遺産と銀山跡",
+  "pref": "秋田県",
+  "reason": "3候補NG",
+  "tried": [
+   {
+    "title": "Four versions of a floodlight through rain on a window.jpg",
+    "r": "Vision NG: 黒背景に光のエフェクト/抽象的なデジタルアート画像であり、産業遺産・鉱山跡・鉄道"
+   },
+   {
+    "title": "Four pears.jpg",
+    "r": "Vision NG: 画像は梨（果物）のみで、産業遺産・鉱山跡・鉄道遺産等のテーマと全く無関係"
+   },
+   {
+    "title": "OL ONAL DIGIT FOUR.jpg",
+    "r": "Vision NG: 白背景にロゴ/文字記号のみで、旅先の風景・建物・自然が一切写っていない"
+   }
+  ]
+ },
+ "ryugado": {
+  "status": "ok",
+  "name": "龍河洞",
+  "src": "Ryuga-do, tsubo.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Ryuga-do%2C_tsubo.jpg/1920px-Ryuga-do%2C_tsubo.jpg",
+  "dim": "1920x1277",
+  "vision": "日本語の説明板に「昭和12年より鍾乳石に包まれるか実験中の壺」と記載されており、龍河洞の名物展示「神の壺」そのもの。鍾乳洞内部の撮影で龍河洞のテーマと完全一致。"
+ },
+ "niche_群馬_1": {
+  "status": "skip",
+  "name": "佐野の門前町",
+  "pref": "栃木県",
+  "reason": "3候補NG",
+  "tried": [
+   {
+    "title": "Pluvialis squatarola on one foot at Caspersen Beach.jpg",
+    "r": "Vision NG: 画像は砂浜にいる鳥（シギ・チドリ類）のアップ写真であり、佐野の門前町（古い町並み"
+   },
+   {
+    "title": "'One of the wards in the hospital at Scutari'. Wellcome M0007724 - restoration, cropped.jpg",
+    "r": "Vision NG: 西洋風の歴史的病院内部を描いたイラスト（絵画）であり、日本の風景・建物・自然では"
+   },
+   {
+    "title": "OL ONAL DIGIT ONE.jpg",
+    "r": "Vision NG: 画像はロゴマーク（アルファベット「le」の組み合わせ）のみで、佐野の門前町に関連"
+   }
+  ]
+ },
+ "niche_山形_1": {
+  "status": "skip",
+  "name": "白鷹町べにばな温泉郷",
+  "pref": "山形県",
+  "reason": "3候補NG",
+  "tried": [
+   {
+    "title": "Pluvialis squatarola on one foot at Caspersen Beach.jpg",
+    "r": "Vision NG: 画像は鳥（シギ・チドリ類）のアップ写真であり、温泉郷・最上川・紅花・山形の風景・"
+   },
+   {
+    "title": "'One of the wards in the hospital at Scutari'. Wellcome M0007724 - restoration, cropped.jpg",
+    "r": "Vision NG: 西洋の歴史的な病院・野戦病院を描いたイラスト（版画）であり、日本の風景・建物・自"
+   },
+   {
+    "title": "OL ONAL DIGIT ONE.jpg",
+    "r": "Vision NG: ロゴマーク（文字「le」）のみの画像であり、風景・建物・自然など旅先に関連するビ"
+   }
+  ]
+ },
+ "niche_栃木_2": {
+  "status": "skip",
+  "name": "新湯温泉",
+  "pref": "栃木県",
+  "reason": "3候補NG",
+  "tried": [
+   {
+    "title": "Kaminoyama Onsen, Aug 2023 (2).jpg",
+    "r": "Vision NG: 日本の町並みであるが、新湯温泉（栃木県塩原の山間にある小規模秘湯）のイメージと合"
+   },
+   {
+    "title": "Kaminoyama Onsen, Aug 2023 (1).jpg",
+    "r": "Vision NG: 看板に「あづま屋」と読める旅館が写っており日本国内の温泉街の建物として矛盾はない"
+   },
+   {
+    "title": "Kaminoyama Onsen, Aug 2023 (3).jpg",
+    "r": "Vision NG: 画像には「かみのやま温泉 新湯通り」と書かれたアーチがあり、山形県上山温泉の風景"
+   }
+  ]
+ },
+ "niche_東京_1": {
+  "status": "ok",
+  "name": "檜原村",
+  "src": "Inside the Hinohara Village Kobayashi Residence.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Inside_the_Hinohara_Village_Kobayashi_Residence.jpg/1920px-Inside_the_Hinohara_Village_Kobayashi_Residence.jpg",
+  "dim": "1920x1440",
+  "vision": "日本の古民家風の内装で、障子や黒い木造建築、一枚板のテーブルが見られ、檜原村の蕎麦店や秘境の古民家施設として矛盾しない。"
+ },
+ "niche_福島_5": {
+  "status": "skip",
+  "name": "棚倉城跡",
+  "pref": "福島県",
+  "reason": "3候補NG",
+  "tried": [
+   {
+    "title": "Five children on a motorcycle.jpg",
+    "r": "Vision NG: 東南アジアと思われる地域での人物・バイクの写真であり、日本の城跡とは無関係"
+   },
+   {
+    "title": "Duisburger Innenhafen Five Boats Abend 2014.jpg",
+    "r": "Vision NG: 欧州風の近代的な港湾・オフィスビル群の夜景であり、海外の都市景観と判断される。日"
+   },
+   {
+    "title": "Toho Bank Tanagura Branch.jpg",
+    "r": "Vision NG: 画像は銀行（東邦銀行と思われる）の建物であり、城跡・古建築とは無関係な現代商業施"
+   }
+  ]
+ },
+ "niche_千葉_5": {
+  "status": "skip",
+  "name": "御宿中央海岸",
+  "pref": "千葉県",
+  "reason": "3候補NG",
+  "tried": [
+   {
+    "title": "Five children on a motorcycle.jpg",
+    "r": "Vision NG: 東南アジアと思われる農村風景で人物が主体の画像。日本国内の風景ではなく、御宿中央"
+   },
+   {
+    "title": "Duisburger Innenhafen Five Boats Abend 2014.jpg",
+    "r": "Vision NG: ヨーロッパ風の近代的な都市型マリーナ・夜景で、千葉県の海岸景観とは全く異なる。海"
+   },
+   {
+    "title": "Gummi Bären 3.JPG",
+    "r": "Vision NG: グミキャンディの接写画像であり、御宿中央海岸（海岸景観）と全く無関係な物体のみが"
+   }
+  ]
+ },
+ "niche_山形_6": {
+  "status": "skip",
+  "name": "白鷹大橋渓谷",
+  "pref": "山形県",
+  "reason": "3候補NG",
+  "tried": [
+   {
+    "title": "MTA NYC Subway 6-express train passing Elder Ave.jpg",
+    "r": "Vision NG: ニューヨーク市地下鉄の6番線電車が写っており、明らかに海外（米国）の風景。日本の"
+   },
+   {
+    "title": "Röbel Pferdemarkt 6 Postamt.jpg",
+    "r": "Vision NG: 画像はドイツ語で「POSTAMT（郵便局）」と書かれたレンガ造りの欧州風建物であ"
+   },
+   {
+    "title": "Rhodiesia Endangered Species Hyena 6 cents.jpg",
+    "r": "Vision NG: ローデシア（アフリカ）の切手であり、日本国内の風景・自然とは無関係"
+   }
+  ]
+ },
+ "niche_富山_6": {
+  "status": "ok",
+  "name": "五箇山平村",
+  "src": "Gokayama traditional houses, Toyama Prefecture; September 2019 (12).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Gokayama_traditional_houses%2C_Toyama_Prefecture%3B_September_2019_%2812%29.jpg/1920px-Gokayama_traditional_houses%2C_Toyama_Prefecture%3B_September_2019_%2812%29.jpg",
+  "dim": "1920x1280",
+  "vision": "合掌造りの茅葺き屋根の古民家と山村の風景が写っており、五箇山平村（富山県）の合掌造り・山村集落のテーマと合致する。日本国内の風景として問題なし。"
+ },
+ "niche_埼玉_1": {
+  "status": "skip",
+  "name": "寄居町の荒川渓谷",
+  "pref": "埼玉県",
+  "reason": "3候補NG",
+  "tried": [
+   {
+    "title": "Pluvialis squatarola on one foot at Caspersen Beach.jpg",
+    "r": "Vision NG: 画像は鳥（シギ・チドリ類）のアップ写真であり、渓谷・清流・自然景観を示すものでは"
+   },
+   {
+    "title": "'One of the wards in the hospital at Scutari'. Wellcome M0007724 - restoration, cropped.jpg",
+    "r": "Vision NG: 歴史的な病院内部を描いた西洋の絵画・版画であり、日本の渓谷・自然風景とは全く無関"
+   },
+   {
+    "title": "OL ONAL DIGIT ONE.jpg",
+    "r": "Vision NG: ロゴ/アイコン画像であり、渓谷・自然風景と無関係"
+   }
+  ]
+ },
+ "niche_千葉_1": {
+  "status": "ok",
+  "name": "飯岡刑部岬",
+  "src": "Cape Gyobu - panoramio.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Cape_Gyobu_-_panoramio.jpg/1920px-Cape_Gyobu_-_panoramio.jpg",
+  "dim": "1920x1272",
+  "vision": "高台（断崖）からの俯瞰で、漁港・砂浜海岸・漁村集落が広がる典型的な飯岡刑部岬からの眺望と一致。日本国内の海岸景観で矛盾なし。"
+ },
+ "niche_石川_3": {
+  "status": "skip",
+  "name": "木場潟",
+  "pref": "石川県",
+  "reason": "3候補NG",
+  "tried": [
+   {
+    "title": "Juvenile Hippos Running Stream2 Lupande Jul23 A7R 06412.jpg",
+    "r": "Vision NG: カバが走っているアフリカのサバンナ風景であり、日本国内の風景ではなく、木場潟（湖"
+   },
+   {
+    "title": "Portrait photograph at bust length of three Lao girls joining their palms for the Thai greeting, front view, in Don Khon, Laos.jpg",
+    "r": "Vision NG: 人物（子供たち）のアップ写真であり、木場潟の風景・自然・湖沼とは無関係。また東南"
+   },
+   {
+    "title": "Pont-Alexandre-III-et-Invalides.jpg",
+    "r": "Vision NG: パリのアレクサンドル3世橋とエッフェル塔が写っており、明らかに海外（フランス）の"
+   }
+  ]
+ },
+ "niche_静岡_4": {
+  "status": "ok",
+  "name": "ヒリゾ浜",
+  "src": "Underwater scenery of Hirizo Beach, in Minami-Izu, Shizuoka.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Underwater_scenery_of_Hirizo_Beach%2C_in_Minami-Izu%2C_Shizuoka.jpg/1920px-Underwater_scenery_of_Hirizo_Beach%2C_in_Minami-Izu%2C_Shizuoka.jpg",
+  "dim": "1920x1080",
+  "vision": "青い熱帯魚の群れと岩礁の水中写真で、ヒリゾ浜のシュノーケリング・水中生物テーマと合致する。"
+ },
+ "niche_東京_3": {
+  "status": "skip",
+  "name": "青梅赤塚不二夫会館",
+  "pref": "東京都",
+  "reason": "3候補NG",
+  "tried": [
+   {
+    "title": "Juvenile Hippos Running Stream2 Lupande Jul23 A7R 06412.jpg",
+    "r": "Vision NG: アフリカのサバンナでカバが走っている画像であり、日本国内の風景でなく、赤塚不二夫"
+   },
+   {
+    "title": "Portrait photograph at bust length of three Lao girls joining their palms for the Thai greeting, front view, in Don Khon, Laos.jpg",
+    "r": "Vision NG: 人物（子供）のアップ写真であり、青梅赤塚不二夫会館の建物・展示・昭和レトロな街並"
+   },
+   {
+    "title": "Pont-Alexandre-III-et-Invalides.jpg",
+    "r": "Vision NG: パリのアレクサンドル3世橋とエッフェル塔が写る海外（フランス）の夜景であり、日本"
+   }
+  ]
+ },
+ "niche_長野_1": {
+  "status": "ok",
+  "name": "昼神温泉",
+  "src": "Hirugami onsen001.JPG",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Hirugami_onsen001.JPG/1920px-Hirugami_onsen001.JPG",
+  "dim": "1920x1440",
+  "vision": "日本の山間部に位置する温泉街の風景で、川沿いに旅館・ホテル群が並び緑豊かな山を背景にしており、昼神温泉のテーマ（温泉・秘境・静寂）と合致する。"
+ },
+ "niche_富山_2": {
+  "status": "ok",
+  "name": "利賀村",
+  "src": "利賀村.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/%E5%88%A9%E8%B3%80%E6%9D%91.jpg/1920px-%E5%88%A9%E8%B3%80%E6%9D%91.jpg",
+  "dim": "1920x1280",
+  "vision": "日本の山村風景で鯉のぼりが飾られており、利賀村のような富山県の山村文化と合致する。残雪の山、針葉樹林、田園風景も適切。"
+ },
+ "niche_岐阜_6": {
+  "status": "ok",
+  "name": "太田宿",
+  "src": "Ota-juku Nakasendo Hall 2021-10 ac (1).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Ota-juku_Nakasendo_Hall_2021-10_ac_%281%29.jpg/1920px-Ota-juku_Nakasendo_Hall_2021-10_ac_%281%29.jpg",
+  "dim": "1920x1276",
+  "vision": "日本の伝統的な木造建築・蔵造りの建物が写っており、宿場町・古建築・歴史というテーマと合致する。"
+ },
+ "niche_福井_4": {
+  "status": "skip",
+  "name": "九頭竜湖・西野ダム展望台",
+  "pref": "福井県",
+  "reason": "3候補NG",
+  "tried": [
+   {
+    "title": "Four versions of a floodlight through rain on a window.jpg",
+    "r": "Vision NG: 抽象的な光のエフェクト/デジタルアート画像であり、九頭竜湖・西野ダム展望台の風景"
+   },
+   {
+    "title": "Four pears.jpg",
+    "r": "Vision NG: 画像は梨の果物を撮影したもので、ダム・展望台・山岳景観・湖などの風景と全く無関係"
+   },
+   {
+    "title": "OL ONAL DIGIT FOUR.jpg",
+    "r": "Vision NG: 風景・建物・自然の写真ではなく、装飾的な文字/ロゴマークのみの画像であり、旅先の"
+   }
+  ]
+ },
+ "niche_山梨_2": {
+  "status": "skip",
+  "name": "南部町・湯船温泉",
+  "pref": "山梨県",
+  "reason": "3候補NG",
+  "tried": [
+   {
+    "title": "Two brown domestic ducks with orange beak in a pond at golden hour in Don Det Laos.jpg",
+    "r": "Vision NG: 画像はカモ2羽が水面を泳ぐアップ写真で、温泉・山里・南部町の風景と無関係な動物ク"
+   },
+   {
+    "title": "OL ONAL DIGIT TWO.jpg",
+    "r": "Vision NG: 数字の「2」のみの画像であり、旅先の風景・建物・自然など一切含まれておらず、無関"
+   },
+   {
+    "title": "2 number (Helvetica Neue LT Std 83 Heavy 2).png",
+    "r": "Vision NG: 画像はロゴ・数字のグラフィックであり、風景・建物・自然など旅先に関連するコンテン"
+   }
+  ]
+ },
+ "niche_福井_3": {
+  "status": "skip",
+  "name": "芦原温泉共同浴場群",
+  "pref": "福井県",
+  "reason": "3候補NG",
+  "tried": [
+   {
+    "title": "Juvenile Hippos Running Stream2 Lupande Jul23 A7R 06412.jpg",
+    "r": "Vision NG: アフリカのサバンナと思われる環境でカバが走っている画像であり、日本国内の風景でも"
+   },
+   {
+    "title": "Portrait photograph at bust length of three Lao girls joining their palms for the Thai greeting, front view, in Don Khon, Laos.jpg",
+    "r": "Vision NG: 人物（子供たち）のアップ写真であり、温泉・共同浴場・建物・風景等のテーマと無関係"
+   },
+   {
+    "title": "Pont-Alexandre-III-et-Invalides.jpg",
+    "r": "Vision NG: パリのアレクサンドル3世橋とエッフェル塔が写る典型的なフランス・パリの夜景であり"
+   }
+  ]
+ },
+ "niche_愛知_2": {
+  "status": "skip",
+  "name": "奥三河温泉郷",
+  "pref": "愛知県",
+  "reason": "3候補NG",
+  "tried": [
+   {
+    "title": "Two brown domestic ducks with orange beak in a pond at golden hour in Don Det Laos.jpg",
+    "r": "Vision NG: 鴨のクローズアップ写真であり、奥三河温泉郷（秘湯・山村・温泉地）のメイン画像とし"
+   },
+   {
+    "title": "OL ONAL DIGIT TWO.jpg",
+    "r": "Vision NG: 数字の「2」のみが表示された画像であり、風景・建物・自然など旅先のメイン画像とし"
+   },
+   {
+    "title": "2 number (Helvetica Neue LT Std 83 Heavy 2).png",
+    "r": "Vision NG: 画像はロゴ・数字「2」のグラフィックであり、奥三河温泉郷の風景・自然・建物と無関"
+   }
+  ]
+ },
+ "niche_京都_6": {
+  "status": "skip",
+  "name": "北の宿温泉",
+  "pref": "京都府",
+  "reason": "3候補NG",
+  "tried": [
+   {
+    "title": "MTA NYC Subway 6-express train passing Elder Ave.jpg",
+    "r": "Vision NG: ニューヨーク市地下鉄（6系統）の高架線を走る車両が写っており、明らかに海外（米国"
+   },
+   {
+    "title": "Röbel Pferdemarkt 6 Postamt.jpg",
+    "r": "Vision NG: 画像には「POSTAMT」（ドイツ語で郵便局）と記された赤レンガ造りのヨーロッパ"
+   },
+   {
+    "title": "Rhodiesia Endangered Species Hyena 6 cents.jpg",
+    "r": "Vision NG: ローデシア（アフリカ）発行の切手画像であり、日本国内の風景・建物・自然とは無関係"
+   }
+  ]
+ },
+ "niche_滋賀_1": {
+  "status": "skip",
+  "name": "日野商人の町並み",
+  "pref": "滋賀県",
+  "reason": "3候補NG",
+  "tried": [
+   {
+    "title": "Pluvialis squatarola on one foot at Caspersen Beach.jpg",
+    "r": "Vision NG: 画像は鳥（シギ・チドリ類）のアップ写真であり、日野商人の町並み・歴史的建造物・商"
+   },
+   {
+    "title": "'One of the wards in the hospital at Scutari'. Wellcome M0007724 - restoration, cropped.jpg",
+    "r": "Vision NG: 西洋の病院内部を描いた歴史的版画であり、日本の商人町並みや歴史的街道とは全く無関"
+   },
+   {
+    "title": "OL ONAL DIGIT ONE.jpg",
+    "r": "Vision NG: ロゴマーク/文字のみの画像であり、風景・建物・自然など旅先の情景が全く含まれてい"
+   }
+  ]
+ },
+ "niche_山梨_7": {
+  "status": "skip",
+  "name": "塩山梅林",
+  "pref": "山梨県",
+  "reason": "3候補NG",
+  "tried": [
+   {
+    "title": "Seven Sisters Panorama, East Sussex, England - May 2009.jpg",
+    "r": "Vision NG: 白い断崖絶壁と海岸線はイギリスのセブン・シスターズ（Seven Sisters）"
+   },
+   {
+    "title": "Seven Sisters 3.jpg",
+    "r": "Vision NG: イギリスのホワイトクリフス（白亜の断崖）と灯台と思われる海外の風景であり、日本の"
+   },
+   {
+    "title": "7 Melbourne, Docklands.jpg",
+    "r": "Vision NG: オーストラリア・メルボルンのChannel 7スタジオおよびMarvel Sta"
+   }
+  ]
+ },
+ "niche_愛知_4": {
+  "status": "skip",
+  "name": "内子町の三間町並み",
+  "pref": "愛媛県",
+  "reason": "3候補NG",
+  "tried": [
+   {
+    "title": "Four versions of a floodlight through rain on a window.jpg",
+    "r": "Vision NG: 抽象的な光のアート/エフェクト画像であり、町並み・古民家・歴史的建造物とは無関係"
+   },
+   {
+    "title": "Four pears.jpg",
+    "r": "Vision NG: 画像はナシ（洋梨）の果物のみで、日本の町並み・古民家・歴史的建造物と全く無関係"
+   },
+   {
+    "title": "OL ONAL DIGIT FOUR.jpg",
+    "r": "Vision NG: 風景・建物・自然が一切なく、ロゴ/文字記号のみの画像であり、内子町の町並みとは無"
+   }
+  ]
+ },
+ "niche_滋賀_3": {
+  "status": "skip",
+  "name": "永源寺門前と愛知川",
+  "pref": "滋賀県",
+  "reason": "3候補NG",
+  "tried": [
+   {
+    "title": "Juvenile Hippos Running Stream2 Lupande Jul23 A7R 06412.jpg",
+    "r": "Vision NG: アフリカのサバンナと思われる環境でカバが走っている画像であり、日本国内の風景でも"
+   },
+   {
+    "title": "Portrait photograph at bust length of three Lao girls joining their palms for the Thai greeting, front view, in Don Khon, Laos.jpg",
+    "r": "Vision NG: 人物（子供たち）のアップ写真であり、永源寺門前・愛知川の風景・建物・自然と全く無"
+   },
+   {
+    "title": "Pont-Alexandre-III-et-Invalides.jpg",
+    "r": "Vision NG: パリのアレクサンドル3世橋とエッフェル塔が写る典型的なフランス・パリの夜景であり"
+   }
+  ]
+ },
+ "niche_愛知_3": {
+  "status": "skip",
+  "name": "鳳来峡",
+  "pref": "愛知県",
+  "reason": "3候補NG",
+  "tried": [
+   {
+    "title": "Juvenile Hippos Running Stream2 Lupande Jul23 A7R 06412.jpg",
+    "r": "Vision NG: カバが走っているアフリカのサバンナ風景であり、日本の渓谷・清流をテーマとする鳳来"
+   },
+   {
+    "title": "Portrait photograph at bust length of three Lao girls joining their palms for the Thai greeting, front view, in Don Khon, Laos.jpg",
+    "r": "Vision NG: 人物（子供たち）のアップ写真であり、鳳来峡の渓谷・清流・ハイキング・吊橋といった"
+   },
+   {
+    "title": "Horaikyo interchange. Prefectural road connection.jpg",
+    "r": "Vision NG: 道路交差点と案内標識が主体の画像であり、鳳来峡の渓谷・清流・吊橋などのテーマを代"
+   }
+  ]
+ },
+ "niche_京都_1": {
+  "status": "ok",
+  "name": "加悦谷",
+  "src": "加悦谷祭・加悦天満宮１.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/%E5%8A%A0%E6%82%A6%E8%B0%B7%E7%A5%AD%E3%83%BB%E5%8A%A0%E6%82%A6%E5%A4%A9%E6%BA%80%E5%AE%AE%EF%BC%91.jpg/1920px-%E5%8A%A0%E6%82%A6%E8%B0%B7%E7%A5%AD%E3%83%BB%E5%8A%A0%E6%82%A6%E5%A4%A9%E6%BA%80%E5%AE%AE%EF%BC%91.jpg",
+  "dim": "1920x1080",
+  "vision": "日本の地方町並みで神輿を担ぐ祭りの光景。日本国内の風景であり、加悦谷の伝統文化・地域の祭礼と矛盾しない。"
+ },
+ "niche_奈良_2": {
+  "status": "skip",
+  "name": "野迫川村の深山と秘湯群",
+  "pref": "奈良県",
+  "reason": "3候補NG",
+  "tried": [
+   {
+    "title": "Two brown domestic ducks with orange beak in a pond at golden hour in Don Det Laos.jpg",
+    "r": "Vision NG: 鴨のアップ写真であり、野迫川村の深山・秘湯・自然風景のテーマと合致しない。旅先の"
+   },
+   {
+    "title": "OL ONAL DIGIT TWO.jpg",
+    "r": "Vision NG: 数字の「2」のみの画像であり、風景・自然・建物等の旅先コンテンツが一切含まれてい"
+   },
+   {
+    "title": "2 number (Helvetica Neue LT Std 83 Heavy 2).png",
+    "r": "Vision NG: 画像はロゴ・数字グラフィックであり、旅先の風景・自然・建物等と無関係"
+   }
+  ]
+ },
+ "niche_愛知_5": {
+  "status": "skip",
+  "name": "南木曽宿場町",
+  "pref": "長野県",
+  "reason": "3候補NG",
+  "tried": [
+   {
+    "title": "Five children on a motorcycle.jpg",
+    "r": "Vision NG: 東南アジアと思われる海外の風景で、人物（バイクに乗る子供たち）のアップ画像であり"
+   },
+   {
+    "title": "Duisburger Innenhafen Five Boats Abend 2014.jpg",
+    "r": "Vision NG: 欧州風の近代的な港湾都市夜景であり、日本国内の景観ではない。南木曽宿場町の歴史的"
+   },
+   {
+    "title": "Gummi Bären 3.JPG",
+    "r": "Vision NG: 画像はグミキャンディ（グミベア）であり、南木曽宿場町の風景・建物・自然と全く無関"
+   }
+  ]
+ },
+ "niche_三重_2": {
+  "status": "skip",
+  "name": "宮川渓谷",
+  "pref": "三重県",
+  "reason": "3候補NG",
+  "tried": [
+   {
+    "title": "Two brown domestic ducks with orange beak in a pond at golden hour in Don Det Laos.jpg",
+    "r": "Vision NG: 水面を泳ぐカモのアップ写真であり、宮川渓谷の渓谷・森林・林業といったテーマと無関"
+   },
+   {
+    "title": "OL ONAL DIGIT TWO.jpg",
+    "r": "Vision NG: 数字「2」のみが表示された画像であり、風景・建物・自然など旅先に関連するコンテン"
+   },
+   {
+    "title": "2 number (Helvetica Neue LT Std 83 Heavy 2).png",
+    "r": "Vision NG: 画像は数字「2」のロゴ/グラフィックであり、宮川渓谷の風景・自然・建物等と無関係"
+   }
+  ]
+ },
+ "niche_愛知_7": {
+  "status": "skip",
+  "name": "吉良町漁村",
+  "pref": "愛知県",
+  "reason": "3候補NG",
+  "tried": [
+   {
+    "title": "Seven Sisters Panorama, East Sussex, England - May 2009.jpg",
+    "r": "Vision NG: 白亜の断崖（イギリス・セブンシスターズのような地形）が写っており、明らかに海外の"
+   },
+   {
+    "title": "Seven Sisters 3.jpg",
+    "r": "Vision NG: 白亜の断崖と灯台の景観はイギリス・セブンシスターズ（ビーチーヘッド周辺）と見られ"
+   },
+   {
+    "title": "7 Melbourne, Docklands.jpg",
+    "r": "Vision NG: 画像にはオーストラリア・メルボルンのChannel 7スタジオおよびMarvel"
+   }
+  ]
+ },
+ "niche_奈良_4": {
+  "status": "ok",
+  "name": "上北山村",
+  "src": "Kamikitayama kawai.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Kamikitayama_kawai.jpg/1920px-Kamikitayama_kawai.jpg",
+  "dim": "1920x1440",
+  "vision": "日本の山間集落と清流が写っており、奈良県上北山村の渓谷・山村風景と一致する。"
+ },
+ "niche_鳥取_1": {
+  "status": "ok",
+  "name": "東郷湖",
+  "src": "Lake Togo from Kitayama Kofun.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Lake_Togo_from_Kitayama_Kofun.jpg/1920px-Lake_Togo_from_Kitayama_Kofun.jpg",
+  "dim": "1920x1265",
+  "vision": "湖と周囲の山々・緑を望む風景で、東郷湖（鳥取県）の湖景と矛盾しない日本国内の自然風景。"
+ },
+ "niche_奈良_3": {
+  "status": "skip",
+  "name": "月ヶ瀬温泉と梅林の里",
+  "pref": "奈良県",
+  "reason": "3候補NG",
+  "tried": [
+   {
+    "title": "Juvenile Hippos Running Stream2 Lupande Jul23 A7R 06412.jpg",
+    "r": "Vision NG: アフリカのサバンナを走るカバの群れであり、日本国内の風景でなく、月ヶ瀬温泉・梅林"
+   },
+   {
+    "title": "Portrait photograph at bust length of three Lao girls joining their palms for the Thai greeting, front view, in Don Khon, Laos.jpg",
+    "r": "Vision NG: 人物（子供たち）のアップ写真であり、月ヶ瀬温泉・梅林の風景・自然・建物と無関係。"
+   },
+   {
+    "title": "Pont-Alexandre-III-et-Invalides.jpg",
+    "r": "Vision NG: エッフェル塔とアレクサンドル3世橋が写っており、明らかにフランス・パリの夜景で海"
+   }
+  ]
+ },
+ "niche_和歌山_8": {
+  "status": "skip",
+  "name": "印南くじらの浜",
+  "pref": "和歌山県",
+  "reason": "3候補NG",
+  "tried": [
+   {
+    "title": "Painting of Characters on Eight-panel Folding Screen.jpg",
+    "r": "Vision NG: 東アジアの書画・絵画作品であり、印南くじらの浜（漁港・ウミガメ・海岸）とは無関係"
+   },
+   {
+    "title": "Bangkok - Rama VIII Bridge at sunrise Jan 2024.jpg",
+    "r": "Vision NG: タイ・バンコクのラマ8世橋と思われる斜張橋が写っており、海外の風景であるため不適"
+   },
+   {
+    "title": "SSIF ABe 8-8 23 Trontano - Creggio.jpg",
+    "r": "Vision NG: アルプス山脈を背景にした欧州風の登山鉄道で、海外（スイス・イタリア周辺）の風景と"
+   }
+  ]
+ },
+ "niche_和歌山_6": {
+  "status": "ok",
+  "name": "高野龍神スカイライン",
+  "src": "高野龍神スカイライン入口(中の橋交差点) Koyaryujin Skyline (Nakanohashi) - panoramio.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/%E9%AB%98%E9%87%8E%E9%BE%8D%E7%A5%9E%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%B3%E5%85%A5%E5%8F%A3%28%E4%B8%AD%E3%81%AE%E6%A9%8B%E4%BA%A4%E5%B7%AE%E7%82%B9%29_Koyaryujin_Skyline_%28Nakanohashi%29_-_panoramio.jpg/1920px-%E9%AB%98%E9%87%8E%E9%BE%8D%E7%A5%9E%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%B3%E5%85%A5%E5%8F%A3%28%E4%B8%AD%E3%81%AE%E6%A9%8B%E4%BA%A4%E5%B7%AE%E7%82%B9%29_Koyaryujin_Skyline_%28Nakanohashi%29_-_panoramio.jpg",
+  "dim": "1920x1440",
+  "vision": "標識に「高野龍神スカイライン(Koyaryujin Sky...)」「龍神(Ryujin)」の文字が確認でき、高野龍神スカイライン沿いの交差点・道路風景として合致する日本国内の画像。"
+ },
+ "niche_鳥取_5": {
+  "status": "ok",
+  "name": "小松温泉",
+  "src": "椿温泉こまつ.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/%E6%A4%BF%E6%B8%A9%E6%B3%89%E3%81%93%E3%81%BE%E3%81%A4.jpg/1920px-%E6%A4%BF%E6%B8%A9%E6%B3%89%E3%81%93%E3%81%BE%E3%81%A4.jpg",
+  "dim": "1920x1440",
+  "vision": "日本国内の建物（日本語の看板「火気厳禁」が確認でき、温泉施設・宿泊施設と思われる建物）であり、温泉地のメイン画像として矛盾しない。"
+ },
+ "niche_和歌山_3": {
+  "status": "skip",
+  "name": "北山村いかだ下り",
+  "pref": "和歌山県",
+  "reason": "3候補NG",
+  "tried": [
+   {
+    "title": "Juvenile Hippos Running Stream2 Lupande Jul23 A7R 06412.jpg",
+    "r": "Vision NG: カバが走っているアフリカのサバンナ風景であり、日本国内の風景でも北山村いかだ下り"
+   },
+   {
+    "title": "Portrait photograph at bust length of three Lao girls joining their palms for the Thai greeting, front view, in Don Khon, Laos.jpg",
+    "r": "Vision NG: 人物（子供たち）のアップ画像であり、いかだ下り・秘境・自然体験のテーマと無関係。"
+   },
+   {
+    "title": "Pont-Alexandre-III-et-Invalides.jpg",
+    "r": "Vision NG: パリのアレクサンドル3世橋とエッフェル塔が写っており、明らかにフランス・パリの夜"
+   }
+  ]
+ },
+ "niche_大阪_3": {
+  "status": "skip",
+  "name": "山崎の古い町並み",
+  "pref": "京都府",
+  "reason": "3候補NG",
+  "tried": [
+   {
+    "title": "Juvenile Hippos Running Stream2 Lupande Jul23 A7R 06412.jpg",
+    "r": "Vision NG: アフリカのサバンナでカバが走っている画像であり、日本国内の風景でも山崎の古い町並"
+   },
+   {
+    "title": "Portrait photograph at bust length of three Lao girls joining their palms for the Thai greeting, front view, in Don Khon, Laos.jpg",
+    "r": "Vision NG: 人物（子供たち）のアップ写真であり、山崎の古い町並みとは無関係。また東南アジア系"
+   },
+   {
+    "title": "Pont-Alexandre-III-et-Invalides.jpg",
+    "r": "Vision NG: パリのアレクサンドル3世橋とエッフェル塔が写る典型的なパリの夜景であり、日本国内"
+   }
+  ]
+ },
+ "niche_山口_2": {
+  "status": "skip",
+  "name": "錦川峡谷",
+  "pref": "山口県",
+  "reason": "3候補NG",
+  "tried": [
+   {
+    "title": "Two brown domestic ducks with orange beak in a pond at golden hour in Don Det Laos.jpg",
+    "r": "Vision NG: 鴨のアップ写真であり、錦川峡谷の渓谷・ローカル線・紅葉・山里といったテーマを表し"
+   },
+   {
+    "title": "OL ONAL DIGIT TWO.jpg",
+    "r": "Vision NG: 数字の「2」のみで、風景・自然・建物等の旅先コンテンツが一切含まれていない"
+   },
+   {
+    "title": "2 number (Helvetica Neue LT Std 83 Heavy 2).png",
+    "r": "Vision NG: 画像は数字「2」のロゴ/アイコンであり、錦川峡谷の風景・自然・建物とは無関係"
+   }
+  ]
+ },
+ "niche_兵庫_2": {
+  "status": "skip",
+  "name": "湯村温泉・荒湯地獄",
+  "pref": "兵庫県",
+  "reason": "3候補NG",
+  "tried": [
+   {
+    "title": "Two brown domestic ducks with orange beak in a pond at golden hour in Don Det Laos.jpg",
+    "r": "Vision NG: 画像は水面を泳ぐカモのみで、湯村温泉・荒湯地獄（温泉・地獄谷・湯煙など）とは無関"
+   },
+   {
+    "title": "OL ONAL DIGIT TWO.jpg",
+    "r": "Vision NG: 数字の「2」のみが表示された画像であり、温泉・地獄谷・風景等と無関係な無効画像"
+   },
+   {
+    "title": "2 number (Helvetica Neue LT Std 83 Heavy 2).png",
+    "r": "Vision NG: 画像はロゴ・数字のグラフィックであり、湯村温泉・荒湯地獄の風景や温泉と無関係"
+   }
+  ]
+ },
+ "niche_広島_6": {
+  "status": "skip",
+  "name": "世羅ラベンダー畑",
+  "pref": "広島県",
+  "reason": "3候補NG",
+  "tried": [
+   {
+    "title": "MTA NYC Subway 6-express train passing Elder Ave.jpg",
+    "r": "Vision NG: ニューヨーク市地下鉄6番線の高架列車が写っており、明らかに海外（米国）の風景。日"
+   },
+   {
+    "title": "Röbel Pferdemarkt 6 Postamt.jpg",
+    "r": "Vision NG: 画像には「POSTAMT」（ドイツ語で郵便局）と記された赤レンガ造りの建物が写っ"
+   },
+   {
+    "title": "Rhodiesia Endangered Species Hyena 6 cents.jpg",
+    "r": "Vision NG: ローデシア（アフリカ）発行の切手画像であり、日本国内の風景・自然ではなく、世羅ラ"
+   }
+  ]
+ },
+ "niche_兵庫_1": {
+  "status": "ok",
+  "name": "武庫川渓谷",
+  "src": "Fukuchiyama Line old route Mukogawa Valley (31014824461).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Fukuchiyama_Line_old_route_Mukogawa_Valley_%2831014824461%29.jpg/1920px-Fukuchiyama_Line_old_route_Mukogawa_Valley_%2831014824461%29.jpg",
+  "dim": "1920x1440",
+  "vision": "渓谷沿いの橋とハイキングコース、紅葉の山並みが写っており、武庫川渓谷のテーマ（渓谷・ハイキング・紅葉）と合致。日本国内の風景として矛盾なし。"
+ },
+ "niche_香川_2": {
+  "status": "skip",
+  "name": "仁尾の町並みと造り酒屋",
+  "pref": "香川県",
+  "reason": "3候補NG",
+  "tried": [
+   {
+    "title": "Two brown domestic ducks with orange beak in a pond at golden hour in Don Det Laos.jpg",
+    "r": "Vision NG: 画像は水面を泳ぐカモ2羽のアップであり、仁尾の町並みや造り酒屋・古町・塩田遺産な"
+   },
+   {
+    "title": "OL ONAL DIGIT TWO.jpg",
+    "r": "Vision NG: 数字の「2」のみが表示された画像であり、旅先の風景・建物・自然等の要素が一切含ま"
+   },
+   {
+    "title": "2 number (Helvetica Neue LT Std 83 Heavy 2).png",
+    "r": "Vision NG: 画像はロゴ・数字「2」のグラフィックであり、日本の旅先（仁尾の町並みや造り酒屋）"
+   }
+  ]
+ },
+ "niche_山口_4": {
+  "status": "skip",
+  "name": "仙崎漁港",
+  "pref": "山口県",
+  "reason": "3候補NG",
+  "tried": [
+   {
+    "title": "Four versions of a floodlight through rain on a window.jpg",
+    "r": "Vision NG: 抽象的な光のエフェクト画像であり、仙崎漁港や日本の風景・建物・自然とは無関係"
+   },
+   {
+    "title": "Four pears.jpg",
+    "r": "Vision NG: 梨（洋梨）のみを撮影した静物写真であり、仙崎漁港（漁港・イカ・北前船・古町並み）"
+   },
+   {
+    "title": "OL ONAL DIGIT FOUR.jpg",
+    "r": "Vision NG: 画像はロゴ・記号・文字のみで、仙崎漁港の風景・建物・自然など観光地を示す要素が一"
+   }
+  ]
+ },
+ "niche_島根_6": {
+  "status": "skip",
+  "name": "黒淵の滝",
+  "pref": "島根県",
+  "reason": "3候補NG",
+  "tried": [
+   {
+    "title": "MTA NYC Subway 6-express train passing Elder Ave.jpg",
+    "r": "Vision NG: ニューヨーク市地下鉄の6番線列車が写っており、明らかに海外（米国）の風景。島根県"
+   },
+   {
+    "title": "Röbel Pferdemarkt 6 Postamt.jpg",
+    "r": "Vision NG: 画像はドイツ語で「POSTAMT（郵便局）」と書かれたレンガ造りの建物で、明らか"
+   },
+   {
+    "title": "Rhodiesia Endangered Species Hyena 6 cents.jpg",
+    "r": "Vision NG: ローデシア（アフリカ）発行の切手画像であり、日本国内の風景・自然・建物とは無関係"
+   }
+  ]
+ },
+ "niche_鳥取_8": {
+  "status": "skip",
+  "name": "琴浦町の漁村風景",
+  "pref": "鳥取県",
+  "reason": "3候補NG",
+  "tried": [
+   {
+    "title": "Painting of Characters on Eight-panel Folding Screen.jpg",
+    "r": "Vision NG: 画像は漢字を絵画的に描いた掛け軸・書画作品であり、琴浦町の漁村風景（海・港・漁船"
+   },
+   {
+    "title": "Bangkok - Rama VIII Bridge at sunrise Jan 2024.jpg",
+    "r": "Vision NG: タイ・バンコクのラマ8世橋と思われる斜張橋が写っており、明らかに海外の風景。日本"
+   },
+   {
+    "title": "SSIF ABe 8-8 23 Trontano - Creggio.jpg",
+    "r": "Vision NG: 欧州風の山岳鉄道（スイス・イタリア系と思われる青白の車両）が写っており、日本国内"
+   }
+  ]
+ },
+ "niche_徳島_2": {
+  "status": "skip",
+  "name": "勝浦川峡谷",
+  "pref": "徳島県",
+  "reason": "3候補NG",
+  "tried": [
+   {
+    "title": "Two brown domestic ducks with orange beak in a pond at golden hour in Don Det Laos.jpg",
+    "r": "Vision NG: 鴨のアップ写真であり、峡谷・清流・自然景観を示すメイン画像として不適切。被写体が"
+   },
+   {
+    "title": "OL ONAL DIGIT TWO.jpg",
+    "r": "Vision NG: 数字の「2」のみが表示された画像であり、峡谷・自然・風景など旅先に関連するコンテ"
+   },
+   {
+    "title": "2 number (Helvetica Neue LT Std 83 Heavy 2).png",
+    "r": "Vision NG: 画像はロゴ・数字のグラフィックであり、峡谷や自然風景とは無関係"
+   }
+  ]
+ },
+ "niche_愛媛_1": {
+  "status": "skip",
+  "name": "鬼北町の仁淀川沿い渓谷",
+  "pref": "愛媛県",
+  "reason": "3候補NG",
+  "tried": [
+   {
+    "title": "Pluvialis squatarola on one foot at Caspersen Beach.jpg",
+    "r": "Vision NG: 画像は砂浜に立つ小鳥のアップであり、渓谷・清流・ハイキング・秘境・沢遊びといった"
+   },
+   {
+    "title": "'One of the wards in the hospital at Scutari'. Wellcome M0007724 - restoration, cropped.jpg",
+    "r": "Vision NG: 歴史的な病院/兵舎の室内を描いた西洋の絵画であり、日本の渓谷・清流・自然景観とは"
+   },
+   {
+    "title": "OL ONAL DIGIT ONE.jpg",
+    "r": "Vision NG: ロゴ・アイコン画像であり、風景・自然・建物等の旅先コンテンツではない"
+   }
+  ]
+ },
+ "niche_徳島_6": {
+  "status": "ok",
+  "name": "神山町",
+  "src": "Seibanzan Myōō-ji Temple 20210308 03.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Seibanzan_My%C5%8D%C5%8D-ji_Temple_20210308_03.jpg/1920px-Seibanzan_My%C5%8D%C5%8D-ji_Temple_20210308_03.jpg",
+  "dim": "1920x1440",
+  "vision": "日本の寺院（石碑・石灯籠・仏像）の境内と思われる風景で、日本国内の宗教施設として神山町の古い歴史・文化的雰囲気と矛盾しない。"
+ },
+ "niche_山口_6": {
+  "status": "ok",
+  "name": "須佐ホルンフェルス",
+  "src": "Susa Bay from train of San'in Main Line.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Susa_Bay_from_train_of_San%27in_Main_Line.jpg/1920px-Susa_Bay_from_train_of_San%27in_Main_Line.jpg",
+  "dim": "1920x1440",
+  "vision": "日本の海岸風景で、緑の山と穏やかな海が写っており、山口県の日本海沿岸の景観と矛盾しない。須佐ホルンフェルス周辺の海岸エリアとして妥当。"
+ },
+ "niche_大分_1": {
+  "status": "skip",
+  "name": "佐賀関漁港と三浦海岸",
+  "pref": "大分県",
+  "reason": "3候補NG",
+  "tried": [
+   {
+    "title": "Pluvialis squatarola on one foot at Caspersen Beach.jpg",
+    "r": "Vision NG: 海岸の鳥（シギ・チドリ類）のクローズアップ写真であり、佐賀関漁港や三浦海岸の風景"
+   },
+   {
+    "title": "'One of the wards in the hospital at Scutari'. Wellcome M0007724 - restoration, cropped.jpg",
+    "r": "Vision NG: 歴史的な病院/病棟の絵画（版画）であり、日本の漁村・海岸・海鮮とは全く無関係。日"
+   },
+   {
+    "title": "OL ONAL DIGIT ONE.jpg",
+    "r": "Vision NG: ロゴマーク画像であり、漁港・海岸・風景と無関係"
+   }
+  ]
+ },
+ "niche_高知_1": {
+  "status": "skip",
+  "name": "佐川町の酒蔵と古い町並み",
+  "pref": "高知県",
+  "reason": "3候補NG",
+  "tried": [
+   {
+    "title": "Pluvialis squatarola on one foot at Caspersen Beach.jpg",
+    "r": "Vision NG: 画像は鳥（チドリ類）のアップ写真であり、酒蔵・古い町並み・日本酒とは無関係な内容"
+   },
+   {
+    "title": "'One of the wards in the hospital at Scutari'. Wellcome M0007724 - restoration, cropped.jpg",
+    "r": "Vision NG: 西洋風の歴史的病院内部を描いた絵画であり、日本の酒蔵・古い町並みとは全く無関係。"
+   },
+   {
+    "title": "OL ONAL DIGIT ONE.jpg",
+    "r": "Vision NG: ロゴ・テキストのみの画像であり、佐川町の酒蔵や古い町並みに関連する風景・建物・自"
+   }
+  ]
+ },
+ "niche_高知_6": {
+  "status": "skip",
+  "name": "日高村",
+  "pref": "高知県",
+  "reason": "3候補NG",
+  "tried": [
+   {
+    "title": "MTA NYC Subway 6-express train passing Elder Ave.jpg",
+    "r": "Vision NG: ニューヨーク市地下鉄（6系統）の高架列車であり、明らかに海外（米国）の風景。日本"
+   },
+   {
+    "title": "JR Hidaka-Main-Line Hidaka-Mombetsu Station Premises railroad crossing.jpg",
+    "r": "Vision NG: 日本の鉄道風景ではあるが、日高村（高知県）のテーマ（ユズ・温泉・里山）と関連性が"
+   },
+   {
+    "title": "JR Hidaka-Main-Line Hidaka-Horobetsu Station building.jpg",
+    "r": "Vision NG: 「STATION POST」と書かれた建物で北海道風の外観・景観であり、高知県日"
+   }
+  ]
+ },
+ "niche_熊本_6": {
+  "status": "skip",
+  "name": "白糸台地の棚田",
+  "pref": "熊本県",
+  "reason": "3候補NG",
+  "tried": [
+   {
+    "title": "MTA NYC Subway 6-express train passing Elder Ave.jpg",
+    "r": "Vision NG: ニューヨーク地下鉄の6番線列車が写っており、明らかに海外（米国）の都市風景。日本"
+   },
+   {
+    "title": "Röbel Pferdemarkt 6 Postamt.jpg",
+    "r": "Vision NG: 「POSTAMT」(ドイツ語で郵便局)と書かれたレンガ造りの建物で、明らかにドイ"
+   },
+   {
+    "title": "山都白糸の滝 - panoramio.jpg",
+    "r": "Vision NG: 画像は渓谷沿いの滝と川を写した風景で、棚田・農村風景とは一致しない。"
+   }
+  ]
+ },
+ "niche_福岡_2": {
+  "status": "ok",
+  "name": "うきは市",
+  "src": "Ukiha city main areas Aerial photograph.2018.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Ukiha_city_main_areas_Aerial_photograph.2018.jpg/1920px-Ukiha_city_main_areas_Aerial_photograph.2018.jpg",
+  "dim": "1920x753",
+  "vision": "日本の農村・市街地の空撮衛星画像で、河川・田畑・集落が広がる筑後平野的な景観。うきは市の果樹園地帯・城下町・川景観のテーマと矛盾しない。"
+ },
+ "niche_長崎_3": {
+  "status": "skip",
+  "name": "鶴御崎灯台",
+  "pref": "大分県",
+  "reason": "3候補NG",
+  "tried": [
+   {
+    "title": "Juvenile Hippos Running Stream2 Lupande Jul23 A7R 06412.jpg",
+    "r": "Vision NG: カバが走っているアフリカのサバンナ風景であり、日本国内の風景でも鶴御崎灯台のテー"
+   },
+   {
+    "title": "Portrait photograph at bust length of three Lao girls joining their palms for the Thai greeting, front view, in Don Khon, Laos.jpg",
+    "r": "Vision NG: 人物（子供たち）のアップ写真であり、鶴御崎灯台の風景・建物・自然と無関係。また東"
+   },
+   {
+    "title": "Pont-Alexandre-III-et-Invalides.jpg",
+    "r": "Vision NG: パリのセーヌ川とアレクサンドル3世橋、エッフェル塔が写っており、明らかにフランス"
+   }
+  ]
+ },
+ "niche_大分_3": {
+  "status": "skip",
+  "name": "長湯温泉",
+  "pref": "大分県",
+  "reason": "3候補NG",
+  "tried": [
+   {
+    "title": "Juvenile Hippos Running Stream2 Lupande Jul23 A7R 06412.jpg",
+    "r": "Vision NG: アフリカのサバンナでカバが走っている画像であり、日本国内の風景でも温泉・炭酸泉・"
+   },
+   {
+    "title": "Portrait photograph at bust length of three Lao girls joining their palms for the Thai greeting, front view, in Don Khon, Laos.jpg",
+    "r": "Vision NG: 人物（子供）のアップ写真であり、長湯温泉の風景・建物・自然とは無関係。また東南ア"
+   },
+   {
+    "title": "Pont-Alexandre-III-et-Invalides.jpg",
+    "r": "Vision NG: パリのアレクサンドル3世橋とエッフェル塔が写っており、明らかにフランス・パリの夜"
+   }
+  ]
+ },
+ "niche_佐賀_1": {
+  "status": "skip",
+  "name": "白石温泉",
+  "pref": "佐賀県",
+  "reason": "3候補NG",
+  "tried": [
+   {
+    "title": "Pluvialis squatarola on one foot at Caspersen Beach.jpg",
+    "r": "Vision NG: 画像は鳥(シギ・チドリ類)のクローズアップであり、温泉地のメイン画像として不適切"
+   },
+   {
+    "title": "'One of the wards in the hospital at Scutari'. Wellcome M0007724 - restoration, cropped.jpg",
+    "r": "Vision NG: 西洋の歴史的病院を描いたイラスト（絵画）であり、日本国内の温泉地とは無関係。"
+   },
+   {
+    "title": "OL ONAL DIGIT ONE.jpg",
+    "r": "Vision NG: ロゴマークのみで、風景・建物・自然等の旅先を示す画像が一切含まれていない"
+   }
+  ]
+ },
+ "kochi": {
+  "status": "ok",
+  "name": "高知",
+  "src": "高知龍馬空港ターミナル - panoramio.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/%E9%AB%98%E7%9F%A5%E9%BE%8D%E9%A6%AC%E7%A9%BA%E6%B8%AF%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB_-_panoramio.jpg/1920px-%E9%AB%98%E7%9F%A5%E9%BE%8D%E9%A6%AC%E7%A9%BA%E6%B8%AF%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB_-_panoramio.jpg",
+  "dim": "1920x1280",
+  "vision": "高知龍馬空港と読める建物が写っており、高知県の空港施設として日本国内の風景に合致する。旅先のメイン画像として妥当。"
+ },
+ "niche_宮崎_6": {
+  "status": "ok",
+  "name": "観音池公園",
+  "src": "観音池公園 - panoramio.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/%E8%A6%B3%E9%9F%B3%E6%B1%A0%E5%85%AC%E5%9C%92_-_panoramio.jpg/1920px-%E8%A6%B3%E9%9F%B3%E6%B1%A0%E5%85%AC%E5%9C%92_-_panoramio.jpg",
+  "dim": "1920x1275",
+  "vision": "日本の公園・丘陵地の風景で、緑豊かな山と整備された斜面が見られ、観音池公園（宮崎県）のような日本国内の公園風景として矛盾なし。"
+ },
+ "niche_長崎_7": {
+  "status": "skip",
+  "name": "高島炭鉱遺跡",
+  "pref": "長崎県",
+  "reason": "3候補NG",
+  "tried": [
+   {
+    "title": "Seven Sisters Panorama, East Sussex, England - May 2009.jpg",
+    "r": "Vision NG: 白い石灰岩の断崖はイギリスのセブン・シスターズ（英国イングランド）を示す海外の風"
+   },
+   {
+    "title": "Seven Sisters 3.jpg",
+    "r": "Vision NG: 白亜の断崖と灯台はイギリス・セブンシスターズ等の欧州の景観であり、日本国内の風景"
+   },
+   {
+    "title": "7 Melbourne, Docklands.jpg",
+    "r": "Vision NG: 画像にはオーストラリア・メルボルンのChannel 7スタジオとMarvel S"
+   }
+  ]
+ },
+ "niche_鹿児島_1": {
+  "status": "skip",
+  "name": "串木野港周辺の漁師町",
+  "pref": "鹿児島県",
+  "reason": "3候補NG",
+  "tried": [
+   {
+    "title": "Pluvialis squatarola on one foot at Caspersen Beach.jpg",
+    "r": "Vision NG: 鳥の接写のみで、漁師町・漁港・港周辺の風景や建物・海・船などが一切写っておらず、"
+   },
+   {
+    "title": "'One of the wards in the hospital at Scutari'. Wellcome M0007724 - restoration, cropped.jpg",
+    "r": "Vision NG: 西洋の歴史的病院内部を描いたイラスト（版画）であり、日本の漁師町・漁港・グルメ等"
+   },
+   {
+    "title": "OL ONAL DIGIT ONE.jpg",
+    "r": "Vision NG: ロゴマークのみで、漁師町・漁港・風景等の要素が一切ない"
+   }
+  ]
+ },
+ "fukushima": {
+  "status": "ok",
+  "name": "福島",
+  "src": "JR East Fukushima Station East Gate, Fukushima Pref 20240331.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/JR_East_Fukushima_Station_East_Gate%2C_Fukushima_Pref_20240331.jpg/1920px-JR_East_Fukushima_Station_East_Gate%2C_Fukushima_Pref_20240331.jpg",
+  "dim": "1920x1280",
+  "vision": "日本の鉄道駅（新幹線改札口）の内部で、日本語表示や自動改札機が確認でき、福島駅など国内駅の風景として妥当。"
+ },
+ "niche_大分_5": {
+  "status": "skip",
+  "name": "国見町の武家屋敷",
+  "pref": "鹿児島県",
+  "reason": "3候補NG",
+  "tried": [
+   {
+    "title": "Five children on a motorcycle.jpg",
+    "r": "Vision NG: 東南アジア系の人物が多人数でバイクに乗っている場面であり、日本国内の風景・建物で"
+   },
+   {
+    "title": "Duisburger Innenhafen Five Boats Abend 2014.jpg",
+    "r": "Vision NG: 欧州風の近代的な港湾都市夜景であり、日本国内の景観ではなく、武家屋敷・城下町とも"
+   },
+   {
+    "title": "Gummi Bären 3.JPG",
+    "r": "Vision NG: グミキャンディーの画像であり、日本の武家屋敷・城下町とは全く無関係。"
+   }
+  ]
+ },
+ "niche_鹿児島_5": {
+  "status": "skip",
+  "name": "栗野岳温泉郷",
+  "pref": "鹿児島県",
+  "reason": "3候補NG",
+  "tried": [
+   {
+    "title": "Five children on a motorcycle.jpg",
+    "r": "Vision NG: 東南アジア風の人物・風景であり、日本国内の風景ではない。また温泉郷・登山・山野草"
+   },
+   {
+    "title": "Duisburger Innenhafen Five Boats Abend 2014.jpg",
+    "r": "Vision NG: 欧州風の近代的な港湾都市夜景であり、日本国内の風景ではなく、栗野岳温泉郷（温泉・"
+   },
+   {
+    "title": "Gummi Bären 3.JPG",
+    "r": "Vision NG: グミキャンディーの画像であり、栗野岳温泉郷（登山・温泉・山野草・絶景・湯治）と全"
+   }
+  ]
+ },
+ "niche_宮崎_4": {
+  "status": "skip",
+  "name": "渡川温泉",
+  "pref": "宮崎県",
+  "reason": "3候補NG",
+  "tried": [
+   {
+    "title": "Four versions of a floodlight through rain on a window.jpg",
+    "r": "Vision NG: 抽象的な光のエフェクト画像であり、温泉・風景・建物など渡川温泉に関連するいかなる"
+   },
+   {
+    "title": "Four pears.jpg",
+    "r": "Vision NG: 画像はナシ（梨）の果物のみで、温泉・風景・建物など渡川温泉に関連する要素が一切な"
+   },
+   {
+    "title": "OL ONAL DIGIT FOUR.jpg",
+    "r": "Vision NG: ロゴ・記号のみで、温泉・風景・建物等の旅先コンテンツが一切含まれていない"
+   }
+  ]
+ },
+ "oita": {
+  "status": "ok",
+  "name": "大分",
+  "src": "Oita airport aerial photograph.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Oita_airport_aerial_photograph.jpg/1920px-Oita_airport_aerial_photograph.jpg",
+  "dim": "1920x1440",
+  "vision": "日本の空港（大分空港の可能性）を上空から撮影した航空写真で、海岸沿いの滑走路が確認できる。日本国内の風景として妥当。"
+ },
+ "asuke": {
+  "status": "ok",
+  "name": "足助",
+  "src": "足助八幡宮 (愛知県豊田市足助町) - panoramio (1).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/%E8%B6%B3%E5%8A%A9%E5%85%AB%E5%B9%A1%E5%AE%AE_%28%E6%84%9B%E7%9F%A5%E7%9C%8C%E8%B1%8A%E7%94%B0%E5%B8%82%E8%B6%B3%E5%8A%A9%E7%94%BA%29_-_panoramio_%281%29.jpg/1920px-%E8%B6%B3%E5%8A%A9%E5%85%AB%E5%B9%A1%E5%AE%AE_%28%E6%84%9B%E7%9F%A5%E7%9C%8C%E8%B1%8A%E7%94%B0%E5%B8%82%E8%B6%B3%E5%8A%A9%E7%94%BA%29_-_panoramio_%281%29.jpg",
+  "dim": "1920x1280",
+  "vision": "日本の神社境内で参拝客が集まる様子。石灯籠・社殿・線香の煙が見え、山里の歴史ある神社として足助のテーマと合致する。"
+ },
+ "saga": {
+  "status": "ok",
+  "name": "佐賀",
+  "src": "Saga Airport 2F 2021-10.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Saga_Airport_2F_2021-10.jpg/1920px-Saga_Airport_2F_2021-10.jpg",
+  "dim": "1920x1280",
+  "vision": "日本国内の空港（佐賀空港の可能性あり）の内部で、国内線出発・国際線出発・フードパークなどの案内表示が確認でき、日本国内施設として妥当。佐賀県の旅先画像として許容範囲内。"
+ }
+}

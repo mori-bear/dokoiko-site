@@ -1,0 +1,1927 @@
+{
+ "kamakura": {
+  "name": "鎌倉",
+  "pref": "神奈川県",
+  "score": 5,
+  "del": false,
+  "reason": "日本を代表する観光地で寺社・海・食・散策など多軸の魅力がある"
+ },
+ "atami": {
+  "name": "熱海",
+  "pref": "静岡県",
+  "score": 5,
+  "del": false,
+  "reason": "温泉・海・昭和レトロな街歩きと多くの旅行者に人気の定番温泉地"
+ },
+ "nikko": {
+  "name": "日光",
+  "pref": "栃木県",
+  "score": 5,
+  "del": false,
+  "reason": "世界遺産の社殿・滝・紅葉・温泉と観光魅力が揃った定番スポット"
+ },
+ "karuizawa": {
+  "name": "軽井沢",
+  "pref": "長野県",
+  "score": 5,
+  "del": false,
+  "reason": "避暑・紅葉・ショッピング・ハイキングと幅広い層に人気のリゾート地"
+ },
+ "fujikawaguchiko": {
+  "name": "富士河口湖",
+  "pref": "山梨県",
+  "score": 5,
+  "del": false,
+  "reason": "逆さ富士・絶景・温泉と富士山観光の定番拠点として圧倒的な人気"
+ },
+ "nara": {
+  "name": "奈良",
+  "pref": "奈良県",
+  "score": 5,
+  "del": false,
+  "reason": "世界遺産・大仏・鹿・歴史と修学旅行から大人旅まで幅広く支持される"
+ },
+ "ishigaki": {
+  "name": "石垣島",
+  "pref": "沖縄県",
+  "score": 5,
+  "del": false,
+  "reason": "圧倒的な海の青さと離島の野性的魅力で南国旅行の人気筆頭"
+ },
+ "ise": {
+  "name": "伊勢",
+  "pref": "三重県",
+  "score": 5,
+  "del": false,
+  "reason": "日本最大の聖地伊勢神宮とおかげ横丁グルメで多くの旅行者を引きつける"
+ },
+ "beppu": {
+  "name": "別府",
+  "pref": "大分県",
+  "score": 5,
+  "del": false,
+  "reason": "地獄めぐりという唯一無二の体験と豊富な温泉施設で旅行者に絶大な人気"
+ },
+ "otaru": {
+  "name": "小樽",
+  "pref": "北海道",
+  "score": 4,
+  "del": false,
+  "reason": "運河・レンガ倉庫・海鮮グルメと北海道観光の定番街として広く人気"
+ },
+ "furano": {
+  "name": "富良野",
+  "pref": "北海道",
+  "score": 5,
+  "del": false,
+  "reason": "ラベンダー畑の絶景と雄大な自然で国内外から訪れる北海道屈指の観光地"
+ },
+ "matsushima": {
+  "name": "松島",
+  "pref": "宮城県",
+  "score": 4,
+  "del": false,
+  "reason": "日本三景の絶景・瑞巌寺・遊覧船と観光軸が明確で旅行者に人気"
+ },
+ "miyajima": {
+  "name": "宮島",
+  "pref": "広島県",
+  "score": 5,
+  "del": false,
+  "reason": "世界遺産の厳島神社・海中鳥居・弥山と日本屈指の観光スポット"
+ },
+ "onomichi": {
+  "name": "尾道",
+  "pref": "広島県",
+  "score": 4,
+  "del": false,
+  "reason": "坂道・猫・寺社・しまなみ海道の起点として旅好きに人気の港町"
+ },
+ "shodoshima": {
+  "name": "小豆島",
+  "pref": "香川県",
+  "score": 4,
+  "del": false,
+  "reason": "エンジェルロード・オリーブ・断崖絶景と離島の魅力が詰まった人気の島"
+ },
+ "mihonoseki": {
+  "name": "美保関",
+  "pref": "島根県",
+  "score": 3,
+  "del": false,
+  "reason": "石畳の神話の港町として独自の雰囲気があり判断に迷うため保守的に残す"
+ },
+ "ryujin-onsen": {
+  "name": "龍神温泉",
+  "pref": "和歌山県",
+  "score": 3,
+  "del": false,
+  "reason": "日本三美人の湯として知名度があり温泉ファンには明確な目的地"
+ },
+ "tokashiki-jima": {
+  "name": "渡嘉敷島",
+  "pref": "沖縄県",
+  "score": 4,
+  "del": false,
+  "reason": "ケラマブルーの海と那覇からの近さで沖縄離島旅行の人気選択肢"
+ },
+ "kumejima": {
+  "name": "久米島",
+  "pref": "沖縄県",
+  "score": 4,
+  "del": false,
+  "reason": "高い透明度の海と静かな離島体験で沖縄リピーターに支持される"
+ },
+ "miyakojima": {
+  "name": "宮古島",
+  "pref": "沖縄県",
+  "score": 5,
+  "del": false,
+  "reason": "エメラルドの海と利便性を兼ね備えた沖縄離島旅行の最人気スポット"
+ },
+ "kouzushima": {
+  "name": "神津島",
+  "pref": "東京都",
+  "score": 3,
+  "del": false,
+  "reason": "東京都の離島で星空と透明な海が魅力、アクセスの遠さがあるが観光的魅力は明確"
+ },
+ "hakone": {
+  "name": "箱根",
+  "pref": "神奈川県",
+  "score": 5,
+  "del": false,
+  "reason": "温泉・富士山・美術館・アクセスの良さで東京近郊最人気の旅先"
+ },
+ "shuzenji": {
+  "name": "修善寺",
+  "pref": "静岡県",
+  "score": 4,
+  "del": false,
+  "reason": "竹林・川沿いの湯煙・歴史的温泉街と情緒ある旅先として幅広い人気"
+ },
+ "kusatsu-onsen": {
+  "name": "草津温泉",
+  "pref": "群馬県",
+  "score": 5,
+  "del": false,
+  "reason": "日本三名泉の一つで湯畑の景観と質の高い湯で温泉地の代名詞的存在"
+ },
+ "shimoda": {
+  "name": "下田",
+  "pref": "静岡県",
+  "score": 4,
+  "del": false,
+  "reason": "歴史・きれいな海・花と東京から行ける南国感のある旅先として人気"
+ },
+ "izu-oshima": {
+  "name": "伊豆大島",
+  "pref": "東京都",
+  "score": 4,
+  "del": false,
+  "reason": "離島・火山・漁師町など複合的な魅力があり、一般旅行者にも訴求力が高い"
+ },
+ "shirakawago-t": {
+  "name": "白川郷",
+  "pref": "岐阜県",
+  "score": 5,
+  "del": false,
+  "reason": "世界遺産の合掌造り集落で知名度・観光魅力ともに最高水準"
+ },
+ "arima-onsen": {
+  "name": "有馬温泉",
+  "pref": "兵庫県",
+  "score": 5,
+  "del": false,
+  "reason": "日本三名泉の一つで温泉・歴史・アクセスの良さが揃う定番観光地"
+ },
+ "kinosaki-onsen": {
+  "name": "城崎温泉",
+  "pref": "兵庫県",
+  "score": 5,
+  "del": false,
+  "reason": "外湯めぐりで有名な人気温泉地で一般旅行者への訴求力が非常に高い"
+ },
+ "kurashiki-o": {
+  "name": "倉敷",
+  "pref": "岡山県",
+  "score": 4,
+  "del": false,
+  "reason": "美観地区の白壁・川・美術館が揃う歴史的な観光地として認知度が高い"
+ },
+ "shirahama-o": {
+  "name": "白浜",
+  "pref": "和歌山県",
+  "score": 4,
+  "del": false,
+  "reason": "海・温泉・断崖絶景を兼ね備えた関西屈指のリゾート地"
+ },
+ "takayama-o": {
+  "name": "高山",
+  "pref": "岐阜県",
+  "score": 5,
+  "del": false,
+  "reason": "飛騨の古い町並みと朝市が有名で国内外から旅行者が集まる人気観光地"
+ },
+ "toba": {
+  "name": "鳥羽",
+  "pref": "三重県",
+  "score": 3,
+  "del": false,
+  "reason": "海女・真珠・離島など海の観光資源が豊富で一定の訴求力がある"
+ },
+ "yufuin": {
+  "name": "湯布院",
+  "pref": "大分県",
+  "score": 5,
+  "del": false,
+  "reason": "由布岳と温泉街が美しい九州屈指の人気温泉リゾート"
+ },
+ "kurokawa-k": {
+  "name": "黒川温泉",
+  "pref": "熊本県",
+  "score": 4,
+  "del": false,
+  "reason": "秘湯ブランドと露天風呂の雰囲気が際立つ人気温泉地"
+ },
+ "aso": {
+  "name": "阿蘇",
+  "pref": "熊本県",
+  "score": 4,
+  "del": false,
+  "reason": "世界最大級のカルデラと草千里の絶景が一般旅行者にも分かりやすい"
+ },
+ "yakushima": {
+  "name": "屋久島",
+  "pref": "鹿児島県",
+  "score": 5,
+  "del": false,
+  "reason": "世界自然遺産・縄文杉など自然の魅力が極めて高く旅行者の憧れの地"
+ },
+ "amakusa": {
+  "name": "天草",
+  "pref": "熊本県",
+  "score": 4,
+  "del": false,
+  "reason": "世界遺産のキリシタン遺産・イルカウォッチング・美しい海など観光要素が充実"
+ },
+ "hiraizumi": {
+  "name": "平泉",
+  "pref": "岩手県",
+  "score": 4,
+  "del": false,
+  "reason": "世界遺産の中尊寺金色堂を擁する歴史的観光地として広く知られる"
+ },
+ "kakunodate": {
+  "name": "角館",
+  "pref": "秋田県",
+  "score": 4,
+  "del": false,
+  "reason": "武家屋敷と枝垂れ桜で有名な東北を代表する城下町観光地"
+ },
+ "aizu": {
+  "name": "会津若松",
+  "pref": "福島県",
+  "score": 4,
+  "del": false,
+  "reason": "鶴ヶ城・幕末の歴史・温泉が揃う福島を代表する歴史観光地"
+ },
+ "zaosan": {
+  "name": "蔵王",
+  "pref": "宮城県",
+  "score": 4,
+  "del": false,
+  "reason": "樹氷・御釜・温泉と季節ごとの絶景が揃う東北屈指の観光地"
+ },
+ "hagi": {
+  "name": "萩",
+  "pref": "山口県",
+  "score": 3,
+  "del": false,
+  "reason": "幕末の史跡と武家屋敷が残る歴史城下町で観光的魅力は明確"
+ },
+ "shimonoseki": {
+  "name": "下関",
+  "pref": "山口県",
+  "score": 3,
+  "del": false,
+  "reason": "フグ・関門海峡・歴史と観光の軸が分かりやすくグルメ目的地としても人気"
+ },
+ "naoshima": {
+  "name": "直島",
+  "pref": "香川県",
+  "score": 4,
+  "del": false,
+  "reason": "現代アートと瀬戸内の島が融合した世界的に有名な観光地"
+ },
+ "kotohira": {
+  "name": "琴平",
+  "pref": "香川県",
+  "score": 4,
+  "del": false,
+  "reason": "金刀比羅宮の石段と門前町が有名で四国の定番観光スポット"
+ },
+ "uwajima": {
+  "name": "宇和島",
+  "pref": "愛媛県",
+  "score": 3,
+  "del": false,
+  "reason": "城・鯛めし・闘牛など観光資源があり南予の隠れた魅力として訴求できる"
+ },
+ "toyako": {
+  "name": "洞爺湖",
+  "pref": "北海道",
+  "score": 4,
+  "del": false,
+  "reason": "温泉・カルデラ湖・花火と観光要素が揃う北海道の人気リゾート地"
+ },
+ "noboribetsu": {
+  "name": "登別",
+  "pref": "北海道",
+  "score": 4,
+  "del": false,
+  "reason": "地獄谷の景観と温泉で有名な北海道を代表する温泉観光地"
+ },
+ "shiretoko": {
+  "name": "知床",
+  "pref": "北海道",
+  "score": 4,
+  "del": false,
+  "reason": "世界自然遺産・野生動物・秘境感が強く自然好き旅行者に高い訴求力"
+ },
+ "wajima": {
+  "name": "輪島",
+  "pref": "石川県",
+  "score": 4,
+  "del": false,
+  "reason": "朝市・輪島塗など明確な観光軸があり、能登半島を代表する人気観光地"
+ },
+ "kaga-onsen": {
+  "name": "加賀温泉郷",
+  "pref": "石川県",
+  "score": 5,
+  "del": false,
+  "reason": "山中・山代・片山津など複数温泉地を擁する石川県屈指の温泉観光地"
+ },
+ "hakuba": {
+  "name": "白馬",
+  "pref": "長野県",
+  "score": 5,
+  "del": false,
+  "reason": "スキーリゾートと北アルプスの絶景で国内外に知名度の高い人気観光地"
+ },
+ "amanohashidate": {
+  "name": "天橋立",
+  "pref": "京都府",
+  "score": 5,
+  "del": false,
+  "reason": "日本三景のひとつで観光目的が明確、多くの旅行者に親しまれている"
+ },
+ "ine": {
+  "name": "伊根",
+  "pref": "京都府",
+  "score": 4,
+  "del": false,
+  "reason": "舟屋という唯一無二の景観が写真映えし、観光的魅力が明確"
+ },
+ "ibusuki": {
+  "name": "指宿",
+  "pref": "鹿児島県",
+  "score": 4,
+  "del": false,
+  "reason": "砂むし温泉という体験型アトラクションで全国的知名度あり"
+ },
+ "sasebo": {
+  "name": "佐世保",
+  "pref": "長崎県",
+  "score": 4,
+  "del": false,
+  "reason": "九十九島・ハウステンボス・佐世保バーガーなど観光軸が多彩"
+ },
+ "hirado": {
+  "name": "平戸",
+  "pref": "長崎県",
+  "score": 4,
+  "del": false,
+  "reason": "平戸城・異国情緒・キリシタン遺産など歴史観光の軸が明確"
+ },
+ "tottori": {
+  "name": "鳥取",
+  "pref": "鳥取県",
+  "score": 4,
+  "del": false,
+  "reason": "鳥取砂丘という日本有数の絶景スポットで観光目的が明快"
+ },
+ "akita": {
+  "name": "秋田",
+  "pref": "秋田県",
+  "score": 4,
+  "del": false,
+  "reason": "竿燈まつり・きりたんぽ・角館など多彩な観光軸を持つ県都"
+ },
+ "awaji": {
+  "name": "淡路島",
+  "pref": "兵庫県",
+  "score": 4,
+  "del": false,
+  "reason": "淡路島バーガー・渦潮・リゾート施設など幅広い観光需要がある"
+ },
+ "takao": {
+  "name": "高尾山",
+  "pref": "東京都",
+  "score": 5,
+  "del": false,
+  "reason": "東京近郊で最も親しまれる山岳観光地、年間登山者数世界トップクラス"
+ },
+ "tateyama-chiba": {
+  "name": "館山",
+  "pref": "千葉県",
+  "score": 3,
+  "del": false,
+  "reason": "東京近郊の海リゾートとして一定の需要あり、判断が迷うため残す"
+ },
+ "gokayama": {
+  "name": "五箇山",
+  "pref": "富山県",
+  "score": 4,
+  "del": false,
+  "reason": "世界遺産の合掌造り集落で観光目的が明確"
+ },
+ "jozankei": {
+  "name": "定山渓",
+  "pref": "北海道",
+  "score": 4,
+  "del": false,
+  "reason": "札幌近郊の温泉地として道内外に広く知られ紅葉も人気"
+ },
+ "biei": {
+  "name": "美瑛",
+  "pref": "北海道",
+  "score": 5,
+  "del": false,
+  "reason": "パッチワークの丘など絶景写真で世界的にも知名度が高い観光地"
+ },
+ "miyako-iwate": {
+  "name": "宮古",
+  "pref": "岩手県",
+  "score": 3,
+  "del": false,
+  "reason": "浄土ヶ浜の絶景・三陸海岸リアス式の自然美があり、判断が迷うため残す"
+ },
+ "sakata": {
+  "name": "酒田",
+  "pref": "山形県",
+  "score": 3,
+  "del": false,
+  "reason": "山居倉庫・北前船の歴史など観光軸はあるがニッチ寄り、保守的に残す"
+ },
+ "takachiho": {
+  "name": "高千穂",
+  "pref": "宮崎県",
+  "score": 4,
+  "del": false,
+  "reason": "神話・高千穂峡・ボート体験など観光軸が明確で人気の秘境観光地"
+ },
+ "amami": {
+  "name": "奄美大島",
+  "pref": "鹿児島県",
+  "score": 5,
+  "del": false,
+  "reason": "世界自然遺産・透明な海・亜熱帯自然で旅行者に強い訴求力あり"
+ },
+ "goto": {
+  "name": "五島列島",
+  "pref": "長崎県",
+  "score": 4,
+  "del": false,
+  "reason": "世界遺産の教会群・美しいビーチ・離島観光として高い魅力"
+ },
+ "unzen": {
+  "name": "雲仙",
+  "pref": "長崎県",
+  "score": 4,
+  "del": false,
+  "reason": "地獄地帯・温泉・雲仙普賢岳など観光軸が明確"
+ },
+ "ashizuri": {
+  "name": "足摺岬",
+  "pref": "高知県",
+  "score": 3,
+  "del": false,
+  "reason": "四国最南端の岬という明確なランドマーク性あり、保守的に残す"
+ },
+ "oboke": {
+  "name": "大歩危",
+  "pref": "徳島県",
+  "score": 4,
+  "del": false,
+  "reason": "大歩危峡・かずら橋・ラフティングなど体験観光も充実した秘境スポット"
+ },
+ "tsuwano": {
+  "name": "津和野",
+  "pref": "島根県",
+  "score": 4,
+  "del": false,
+  "reason": "山陰の小京都として錦鯉・石畳・城跡など観光軸が明確"
+ },
+ "inuyama": {
+  "name": "犬山",
+  "pref": "愛知県",
+  "score": 4,
+  "del": false,
+  "reason": "国宝犬山城と石畳の古い町並みが揃う定番観光地で、一般旅行者にも魅力が明確。"
+ },
+ "kiso": {
+  "name": "木曽",
+  "pref": "長野県",
+  "score": 4,
+  "del": false,
+  "reason": "中山道の宿場町・奈良井宿など歴史的町並みが有名で、歴史街道歩きとして人気が高い。"
+ },
+ "miyama": {
+  "name": "美山",
+  "pref": "京都府",
+  "score": 4,
+  "del": false,
+  "reason": "かやぶき屋根の集落という写真映えする明確な観光軸があり、京都近郊の隠れ名所として知られる。"
+ },
+ "tateyama-kurobe": {
+  "name": "立山黒部アルペンルート",
+  "pref": "富山県",
+  "score": 5,
+  "del": false,
+  "reason": "雪の大谷・高山絶景など乗り物で楽しめる日本屈指の高山観光ルートで知名度・魅力ともに最高峰。"
+ },
+ "himi": {
+  "name": "氷見",
+  "pref": "富山県",
+  "score": 4,
+  "del": false,
+  "reason": "新鮮な海の幸と立山連峰の絶景・温泉が揃い、グルメ旅として一般旅行者にも訴求力が高い。"
+ },
+ "nyuto-onsen": {
+  "name": "乳頭温泉",
+  "pref": "秋田県",
+  "score": 5,
+  "del": false,
+  "reason": "白濁の秘湯・雪景色・秘境感が揃う東北屈指の温泉地で、温泉好きから広く支持される名所。"
+ },
+ "yuda-onsen": {
+  "name": "湯田温泉",
+  "pref": "山口県",
+  "score": 3,
+  "del": false,
+  "reason": "山口市内の温泉地として利便性があり、白狐伝説など観光的な軸もあるため残す。"
+ },
+ "ureshino-onsen": {
+  "name": "嬉野温泉",
+  "pref": "佐賀県",
+  "score": 4,
+  "del": false,
+  "reason": "とろとろの美肌湯として有名な温泉地で、嬉野茶など名物も揃い旅行者の目的が明確。"
+ },
+ "obuse": {
+  "name": "小布施",
+  "pref": "長野県",
+  "score": 4,
+  "del": false,
+  "reason": "栗スイーツと北斎美術館という明確な観光軸があり、長野近郊の人気日帰りスポット。"
+ },
+ "uchiko": {
+  "name": "内子",
+  "pref": "愛媛県",
+  "score": 3,
+  "del": false,
+  "reason": "木蝋の白壁町並みと内子座という歴史的観光軸があり、四国の穴場として訴求できる。"
+ },
+ "muroto": {
+  "name": "室戸",
+  "pref": "高知県",
+  "score": 3,
+  "del": false,
+  "reason": "黒潮の荒々しい岩礁景観と弘法大師の修行地という観光軸があり、判断に迷うため残す。"
+ },
+ "iya": {
+  "name": "祖谷",
+  "pref": "徳島県",
+  "score": 4,
+  "del": false,
+  "reason": "かずら橋・秘境渓谷・温泉が揃う四国の代表的な秘境観光地で訴求力は高い。"
+ },
+ "oku-izumo": {
+  "name": "奥出雲",
+  "pref": "島根県",
+  "score": 2,
+  "del": true,
+  "reason": "「鉄の産地」という産業遺産的な軸が中心で、一般旅行者が目的を見出しにくいニッチな目的地。"
+ },
+ "ginzan-onsen": {
+  "name": "銀山温泉",
+  "pref": "山形県",
+  "score": 5,
+  "del": false,
+  "reason": "大正レトロな木造旅館とガス灯・雪景色が写真映え抜群で、国内外から旅行者が訪れる超人気温泉地。"
+ },
+ "ouchi-juku": {
+  "name": "大内宿",
+  "pref": "福島県",
+  "score": 4,
+  "del": false,
+  "reason": "茅葺き宿場町の雪景色とネギそばという名物体験が明確で、福島の人気観光地として広く知られる。"
+ },
+ "nozawa-onsen": {
+  "name": "野沢温泉",
+  "pref": "長野県",
+  "score": 4,
+  "del": false,
+  "reason": "13か所の共同湯と温泉街の雰囲気・スキーリゾートを兼ね備え、幅広い旅行者に訴求できる温泉地。"
+ },
+ "takehara": {
+  "name": "竹原",
+  "pref": "広島県",
+  "score": 3,
+  "del": false,
+  "reason": "「安芸の小京都」として白壁町並み保存地区が整備されており、街歩き好きに明確な訴求力がある。"
+ },
+ "tsumago": {
+  "name": "妻籠",
+  "pref": "長野県",
+  "score": 4,
+  "del": false,
+  "reason": "コンビニ・自販機のない江戸の宿場町として高い保存度を誇り、歴史散歩の定番スポット。"
+ },
+ "magome": {
+  "name": "馬籠",
+  "pref": "岐阜県",
+  "score": 4,
+  "del": false,
+  "reason": "石畳の坂道と宿場町の景観が美しく、妻籠とセットで歩く中山道観光の定番として広く知られる。"
+ },
+ "nagahama": {
+  "name": "長浜",
+  "pref": "滋賀県",
+  "score": 3,
+  "del": false,
+  "reason": "黒壁ガラス工芸と城下町散策・琵琶湖が揃い、関西圏からのアクセスもよく観光軸が明確。"
+ },
+ "hikone": {
+  "name": "彦根",
+  "pref": "滋賀県",
+  "score": 4,
+  "del": false,
+  "reason": "国宝彦根城と城下町・ひこにゃんで幅広い旅行者に知名度が高い滋賀の代表的観光地。"
+ },
+ "koyasan": {
+  "name": "高野山",
+  "pref": "和歌山県",
+  "score": 5,
+  "del": false,
+  "reason": "世界遺産・宿坊体験・奥之院の霊場など観光的魅力が多層的で、国内外から参拝・観光客が絶えない。"
+ },
+ "gero-onsen": {
+  "name": "下呂温泉",
+  "pref": "岐阜県",
+  "score": 4,
+  "del": false,
+  "reason": "日本三名泉の一つとして知名度が高く、川沿いの露天風呂と温泉街の雰囲気で幅広い層に訴求。"
+ },
+ "naruko-onsen": {
+  "name": "鳴子温泉",
+  "pref": "宮城県",
+  "score": 3,
+  "del": false,
+  "reason": "東北の温泉地として歴史があり、こけし発祥地としての文化的軸もあるため残す。"
+ },
+ "shima-onsen": {
+  "name": "四万温泉",
+  "pref": "群馬県",
+  "score": 4,
+  "del": false,
+  "reason": "千と千尋の舞台モデルとして注目され、透明な川と古い木造旅館の雰囲気が旅行者に明確に訴求。"
+ },
+ "hirosaki": {
+  "name": "弘前",
+  "pref": "青森県",
+  "score": 5,
+  "del": false,
+  "reason": "弘前城と桜の絶景は全国的知名度があり、春の人気旅行先として明確な魅力がある"
+ },
+ "oirase": {
+  "name": "奥入瀬",
+  "pref": "青森県",
+  "score": 5,
+  "del": false,
+  "reason": "奥入瀬渓流は渓谷美と遊歩道が有名で、自然派旅行者に広く支持される人気スポット"
+ },
+ "mashiko": {
+  "name": "益子",
+  "pref": "栃木県",
+  "score": 4,
+  "del": false,
+  "reason": "陶芸の町として知名度があり、窯元めぐりや器購入など観光目的が明確"
+ },
+ "bessho-onsen": {
+  "name": "別所温泉",
+  "pref": "長野県",
+  "score": 4,
+  "del": false,
+  "reason": "温泉と古刹が揃う信州の隠れた名湯で、温泉好きに明確な魅力がある"
+ },
+ "izushi": {
+  "name": "出石",
+  "pref": "兵庫県",
+  "score": 4,
+  "del": false,
+  "reason": "出石そばと城下町散策という明確な目的があり、関西圏からのアクセスも良い"
+ },
+ "wakura-onsen": {
+  "name": "和倉温泉",
+  "pref": "石川県",
+  "score": 4,
+  "del": false,
+  "reason": "能登の海辺の高級温泉地として知名度があり、海の幸と合わせた魅力が明確"
+ },
+ "misasa-onsen": {
+  "name": "三朝温泉",
+  "pref": "鳥取県",
+  "score": 4,
+  "del": false,
+  "reason": "ラジウム泉と投入堂という独自の魅力を持つ温泉地で、観光目的が明確"
+ },
+ "obi": {
+  "name": "飫肥",
+  "pref": "宮崎県",
+  "score": 4,
+  "del": false,
+  "reason": "江戸時代の武家屋敷が残る城下町で、歴史好きに明確な魅力がある"
+ },
+ "hitoyoshi": {
+  "name": "人吉",
+  "pref": "熊本県",
+  "score": 4,
+  "del": false,
+  "reason": "温泉・球磨川下り・城と観光軸が複数あり、旅行目的が明確な町"
+ },
+ "kamikochi": {
+  "name": "上高地",
+  "pref": "長野県",
+  "score": 5,
+  "del": false,
+  "reason": "上高地は日本を代表する高原リゾートで、絶景・ハイキング共に全国的知名度がある"
+ },
+ "minakami-onsen": {
+  "name": "水上温泉",
+  "pref": "群馬県",
+  "score": 4,
+  "del": false,
+  "reason": "谷川岳と温泉を合わせた人気の山岳温泉地で、東京からのアクセスも良い"
+ },
+ "minami-aso": {
+  "name": "南阿蘇",
+  "pref": "熊本県",
+  "score": 4,
+  "del": false,
+  "reason": "阿蘇の湧水と高原風景は観光目的が明確で、自然好きに広く支持される"
+ },
+ "imabari": {
+  "name": "今治",
+  "pref": "愛媛県",
+  "score": 4,
+  "del": false,
+  "reason": "しまなみ海道サイクリングと城を持ち、旅行目的が非常に明確"
+ },
+ "ozu": {
+  "name": "大洲",
+  "pref": "愛媛県",
+  "score": 4,
+  "del": false,
+  "reason": "霧の城下町と肱川の景観で知名度が上がっており、城好き・町歩き好きに明確な魅力"
+ },
+ "shakotan": {
+  "name": "積丹",
+  "pref": "北海道",
+  "score": 4,
+  "del": false,
+  "reason": "積丹ブルーの海と雲丹が有名で、絶景とグルメの両軸で旅行目的が明確"
+ },
+ "izumo": {
+  "name": "出雲",
+  "pref": "島根県",
+  "score": 5,
+  "del": false,
+  "reason": "出雲大社は縁結びのパワースポットとして全国屈指の知名度を誇る"
+ },
+ "suzu": {
+  "name": "珠洲",
+  "pref": "石川県",
+  "score": 3,
+  "del": false,
+  "reason": "能登震災後の注目度上昇や秘境感・塩田など独自性はあるが、アクセス難でやや限定的"
+ },
+ "yoshino": {
+  "name": "吉野",
+  "pref": "奈良県",
+  "score": 5,
+  "del": false,
+  "reason": "吉野の千本桜は世界遺産にも含まれ、春の絶景として全国的知名度がある"
+ },
+ "kumano": {
+  "name": "熊野",
+  "pref": "三重県",
+  "score": 5,
+  "del": false,
+  "reason": "熊野古道・那智の滝は世界遺産で、信仰と自然の旅行先として明確な魅力がある"
+ },
+ "iriomote": {
+  "name": "西表島",
+  "pref": "沖縄県",
+  "score": 5,
+  "del": false,
+  "reason": "日本最後の秘境的離島として、ジャングル・マングローブ・秘境感が強く旅行者の憧れを引く"
+ },
+ "takahashi": {
+  "name": "高梁",
+  "pref": "岡山県",
+  "score": 4,
+  "del": false,
+  "reason": "雲海に浮かぶ備中松山城は写真映えスポットとして近年注目度が高い"
+ },
+ "hida-furukawa": {
+  "name": "飛騨古川",
+  "pref": "岐阜県",
+  "score": 4,
+  "del": false,
+  "reason": "白壁と鯉の瀬戸川、静かな飛騨の町並みは映画ファンにも人気で観光目的が明確"
+ },
+ "bungo-takada": {
+  "name": "豊後高田",
+  "pref": "大分県",
+  "score": 3,
+  "del": false,
+  "reason": "昭和レトロ商店街と富貴寺という独自の魅力はあるが、全国的知名度はやや低め"
+ },
+ "izu-kogen": {
+  "name": "伊豆高原",
+  "pref": "静岡県",
+  "score": 4,
+  "del": false,
+  "reason": "温泉・海・山が揃うリゾート地で、東京近郊の旅行先として観光目的が明確"
+ },
+ "tanabe": {
+  "name": "田辺",
+  "pref": "和歌山県",
+  "score": 3,
+  "del": false,
+  "reason": "熊野古道の起点として歴史的意義はあるが、田辺単体の観光魅力はやや伝わりにくい"
+ },
+ "tosa-shimizu": {
+  "name": "土佐清水",
+  "pref": "高知県",
+  "score": 3,
+  "del": false,
+  "reason": "黒潮の絶景と秘境感が魅力で、岬・断崖好きの旅行者に訴求できる"
+ },
+ "nichinan": {
+  "name": "日南",
+  "pref": "宮崎県",
+  "score": 4,
+  "del": false,
+  "reason": "鵜戸神宮・フェニックスロードなど海と歴史の観光資源が豊富で魅力明確"
+ },
+ "mojiko": {
+  "name": "門司港",
+  "pref": "福岡県",
+  "score": 4,
+  "del": false,
+  "reason": "明治大正の煉瓦建築・港町の雰囲気・グルメで人気の定番観光地"
+ },
+ "itoshima": {
+  "name": "糸島",
+  "pref": "福岡県",
+  "score": 4,
+  "del": false,
+  "reason": "福岡近郊のおしゃれビーチ・カフェ・夕日スポットとして広く認知されている"
+ },
+ "shimabara": {
+  "name": "島原",
+  "pref": "長崎県",
+  "score": 4,
+  "del": false,
+  "reason": "城・湧水・雲仙と観光軸が複数あり、魅力が伝わりやすい城下町"
+ },
+ "tsuruga": {
+  "name": "敦賀",
+  "pref": "福井県",
+  "score": 3,
+  "del": false,
+  "reason": "新幹線開通で注目度アップ、赤レンガ・海鮮グルメなど一般旅行者にも訴求できる"
+ },
+ "shijishima": {
+  "name": "志々島",
+  "pref": "香川県",
+  "score": 2,
+  "del": true,
+  "reason": "人口10人台の無名離島で観光インフラ乏しく、一般旅行者には目的が伝わりにくい"
+ },
+ "sounkyo": {
+  "name": "層雲峡",
+  "pref": "北海道",
+  "score": 4,
+  "del": false,
+  "reason": "温泉・滝・渓谷・冬の氷瀑と観光資源が豊富な北海道屈指の名勝"
+ },
+ "rebun-island": {
+  "name": "礼文島",
+  "pref": "北海道",
+  "score": 4,
+  "del": false,
+  "reason": "「花の浮島」として著名な離島で、高山植物トレッキング目的の旅行者に人気"
+ },
+ "rishiri-island": {
+  "name": "利尻島",
+  "pref": "北海道",
+  "score": 4,
+  "del": false,
+  "reason": "利尻富士の絶景・ウニグルメなど明確な観光魅力があり知名度も高い"
+ },
+ "akan": {
+  "name": "阿寒湖",
+  "pref": "北海道",
+  "score": 4,
+  "del": false,
+  "reason": "温泉・マリモ・アイヌ文化と複数の魅力軸を持つ北海道の定番観光地"
+ },
+ "abashiri": {
+  "name": "網走",
+  "pref": "北海道",
+  "score": 4,
+  "del": false,
+  "reason": "流氷・砕氷船体験は唯一無二の観光体験で知名度・訴求力が高い"
+ },
+ "shikotsu": {
+  "name": "支笏湖",
+  "pref": "北海道",
+  "score": 4,
+  "del": false,
+  "reason": "透明度全国トップクラスの湖・温泉・冬の氷濤まつりで観光魅力十分"
+ },
+ "tono": {
+  "name": "遠野",
+  "pref": "岩手県",
+  "score": 4,
+  "del": false,
+  "reason": "遠野物語・河童・座敷わらしなど独自の文化観光資源があり個性が際立つ"
+ },
+ "oga": {
+  "name": "男鹿",
+  "pref": "秋田県",
+  "score": 3,
+  "del": false,
+  "reason": "ナマハゲ・断崖・温泉と観光の核が明確で、個性的な旅先として訴求できる"
+ },
+ "yonezawa": {
+  "name": "米沢",
+  "pref": "山形県",
+  "score": 3,
+  "del": false,
+  "reason": "上杉氏ゆかりの城下町・米沢牛グルメで一般旅行者にも目的が伝わりやすい"
+ },
+ "dewa-sanzan": {
+  "name": "出羽三山",
+  "pref": "山形県",
+  "score": 4,
+  "del": false,
+  "reason": "修験の山として全国的知名度があり、精神的旅・パワースポット需要に応える"
+ },
+ "sakunami-onsen": {
+  "name": "秋保温泉",
+  "pref": "宮城県",
+  "score": 4,
+  "del": false,
+  "reason": "仙台近郊の人気温泉地で峡谷・滝・秋保大滝など観光軸も明確"
+ },
+ "goshogawara": {
+  "name": "五所川原",
+  "pref": "青森県",
+  "score": 3,
+  "del": false,
+  "reason": "立佞武多・斜陽館（太宰治）など個性的な観光資源があり目的が伝わる"
+ },
+ "kawagoe": {
+  "name": "川越",
+  "pref": "埼玉県",
+  "score": 5,
+  "del": false,
+  "reason": "小江戸の蔵造り・菓子屋横丁など知名度・集客力ともに高い定番観光地"
+ },
+ "nasu": {
+  "name": "那須",
+  "pref": "栃木県",
+  "score": 4,
+  "del": false,
+  "reason": "温泉・高原・アウトレットなど多彩な観光資源があり東京近郊で人気"
+ },
+ "choshi": {
+  "name": "銚子",
+  "pref": "千葉県",
+  "score": 3,
+  "del": false,
+  "reason": "犬吠埼灯台・醤油グルメなど目的が明確で日帰り観光地として訴求できる"
+ },
+ "ashikaga": {
+  "name": "足利",
+  "pref": "栃木県",
+  "score": 3,
+  "del": false,
+  "reason": "足利フラワーパークの藤・足利学校など写真映えと歴史の両軸で訴求できる"
+ },
+ "shiobara-onsen": {
+  "name": "塩原温泉",
+  "pref": "栃木県",
+  "score": 3,
+  "del": false,
+  "reason": "渓谷美と温泉を兼ね備えた栃木の老舗温泉地で観光目的が明確"
+ },
+ "sado-island": {
+  "name": "佐渡島",
+  "pref": "新潟県",
+  "score": 4,
+  "del": false,
+  "reason": "金山・朱鷺・大きな離島の歴史文化と自然で、観光的魅力が豊富"
+ },
+ "kiyosato": {
+  "name": "清里",
+  "pref": "山梨県",
+  "score": 4,
+  "del": false,
+  "reason": "八ヶ岳高原リゾートとして知名度があり、避暑・自然散策目的で幅広い旅行者に訴求できる"
+ },
+ "tenryu-gorge": {
+  "name": "天竜峡",
+  "pref": "長野県",
+  "score": 4,
+  "del": false,
+  "reason": "舟下りと温泉という明確な体験軸があり、渓谷美も訴求力が高い"
+ },
+ "suwa": {
+  "name": "諏訪",
+  "pref": "長野県",
+  "score": 4,
+  "del": false,
+  "reason": "諏訪大社・諏訪湖・御神渡り・温泉と複数の魅力軸が揃い、幅広い旅行者に訴求できる"
+ },
+ "eiheiji": {
+  "name": "永平寺",
+  "pref": "福井県",
+  "score": 4,
+  "del": false,
+  "reason": "曹洞宗大本山として全国的知名度があり、禅体験・荘厳な雰囲気が多くの旅行者を引きつける"
+ },
+ "wakasa-obama": {
+  "name": "若狭小浜",
+  "pref": "福井県",
+  "score": 3,
+  "del": false,
+  "reason": "御食国の歴史・古寺・海の幸グルメなど複数の魅力があり、判断に迷うが保守的に残す"
+ },
+ "okuhida-onsen": {
+  "name": "奥飛騨温泉郷",
+  "pref": "岐阜県",
+  "score": 4,
+  "del": false,
+  "reason": "北アルプス山麓の秘境温泉郷として知名度が高く、温泉・絶景・登山で幅広く訴求できる"
+ },
+ "minami-izu": {
+  "name": "南伊豆",
+  "pref": "静岡県",
+  "score": 3,
+  "del": false,
+  "reason": "秘境感ある海岸美と温泉があり、アクセスの遠さがかえって魅力になり得る"
+ },
+ "echizen": {
+  "name": "越前",
+  "pref": "福井県",
+  "score": 3,
+  "del": false,
+  "reason": "越前水仙・越前和紙・荒れる日本海の絶景など独自の魅力があり残す"
+ },
+ "ito": {
+  "name": "伊東",
+  "pref": "静岡県",
+  "score": 4,
+  "del": false,
+  "reason": "伊豆の温泉・海・山を兼ね備えた王道観光地で、アクセスもよく幅広い旅行者に訴求できる"
+ },
+ "iga": {
+  "name": "伊賀",
+  "pref": "三重県",
+  "score": 4,
+  "del": false,
+  "reason": "忍者文化・伊賀上野城・松尾芭蕉ゆかりの地など明確な観光軸があり知名度も高い"
+ },
+ "kashihara": {
+  "name": "橿原",
+  "pref": "奈良県",
+  "score": 3,
+  "del": false,
+  "reason": "橿原神宮・日本建国の地という歴史的重みがあり、歴史好きを中心に一定の訴求力がある"
+ },
+ "totsukawa": {
+  "name": "十津川",
+  "pref": "奈良県",
+  "score": 3,
+  "del": false,
+  "reason": "秘境温泉・吊り橋・玉置神社など独自の魅力が明確で、秘境好きに強く刺さる"
+ },
+ "maizuru": {
+  "name": "舞鶴",
+  "pref": "京都府",
+  "score": 3,
+  "del": false,
+  "reason": "引揚記念館・赤れんが・港町の歴史的情緒があり、明確な訴求軸があるので残す"
+ },
+ "asuka": {
+  "name": "飛鳥",
+  "pref": "奈良県",
+  "score": 4,
+  "del": false,
+  "reason": "日本史上の聖地として高い知名度を持ち、石舞台・古墳群など観光資源が豊富"
+ },
+ "daisen": {
+  "name": "大山",
+  "pref": "鳥取県",
+  "score": 4,
+  "del": false,
+  "reason": "中国地方最高峰の雄大な山岳景観・温泉・大山寺など複数の魅力軸がある人気観光地"
+ },
+ "yunotsu-onsen": {
+  "name": "温泉津温泉",
+  "pref": "島根県",
+  "score": 4,
+  "del": false,
+  "reason": "世界遺産エリア内の江戸情緒漂う温泉街で、歴史・温泉の両軸で強い訴求力がある"
+ },
+ "iwami-ginzan": {
+  "name": "石見銀山",
+  "pref": "島根県",
+  "score": 4,
+  "del": false,
+  "reason": "世界遺産という明確なブランドがあり、歴史的坑道・古民家街並みで幅広く訴求できる"
+ },
+ "iwakuni": {
+  "name": "岩国",
+  "pref": "山口県",
+  "score": 4,
+  "del": false,
+  "reason": "錦帯橋という知名度の高い絶景建造物があり、城・川・桜と複合的な魅力がある"
+ },
+ "kurayoshi": {
+  "name": "倉吉",
+  "pref": "鳥取県",
+  "score": 3,
+  "del": false,
+  "reason": "白壁土蔵の街並みが写真映えし、三朝温泉へのアクセスも近く観光的魅力がある"
+ },
+ "suo-oshima": {
+  "name": "周防大島",
+  "pref": "山口県",
+  "score": 3,
+  "del": false,
+  "reason": "橋で繋がる瀬戸内の離島で、海・みかん畑の景観など明確な魅力がある"
+ },
+ "shimanto": {
+  "name": "四万十",
+  "pref": "高知県",
+  "score": 4,
+  "del": false,
+  "reason": "「日本最後の清流」として全国的知名度を持ち、沈下橋・カヌー体験など観光軸が明確"
+ },
+ "kashiwajima": {
+  "name": "柏島",
+  "pref": "高知県",
+  "score": 4,
+  "del": false,
+  "reason": "透明度日本屈指の海・ダイビングスポットとして知名度があり、海好きに強く訴求できる"
+ },
+ "saijo": {
+  "name": "西条",
+  "pref": "愛媛県",
+  "score": 3,
+  "del": false,
+  "reason": "うちぬき湧水・西条祭り・石鎚山など複数の魅力軸があるが知名度はやや低め、保守的に残す"
+ },
+ "ainan": {
+  "name": "愛南",
+  "pref": "愛媛県",
+  "score": 3,
+  "del": false,
+  "reason": "透明度の高い入り江と南国的な海の景観が明確な魅力で、隠れビーチ好きに訴求できる"
+ },
+ "taketa": {
+  "name": "竹田",
+  "pref": "大分県",
+  "score": 4,
+  "del": false,
+  "reason": "岡城跡の霧に浮かぶ石垣・瀧廉太郎・温泉と独自の魅力が重なり、歴史・情緒好きに強く訴求できる"
+ },
+ "usuki": {
+  "name": "臼杵",
+  "pref": "大分県",
+  "score": 4,
+  "del": false,
+  "reason": "国宝の石仏・白壁の街並み・グルメと観光軸が明確な城下町"
+ },
+ "hita": {
+  "name": "日田",
+  "pref": "大分県",
+  "score": 4,
+  "del": false,
+  "reason": "江戸の商家街並み・温泉・グルメと複数の魅力が揃う人気観光地"
+ },
+ "hasami": {
+  "name": "波佐見",
+  "pref": "長崎県",
+  "score": 3,
+  "del": false,
+  "reason": "波佐見焼の産地として器好き・ショッピング目的の旅行者に明確な魅力がある"
+ },
+ "takeo-onsen": {
+  "name": "武雄温泉",
+  "pref": "佐賀県",
+  "score": 4,
+  "del": false,
+  "reason": "温泉・朱色の楼門・図書館など観光軸が多彩で知名度も高い"
+ },
+ "kitsuki": {
+  "name": "杵築",
+  "pref": "大分県",
+  "score": 4,
+  "del": false,
+  "reason": "サンドイッチ型城下町という独自構造が観光的に分かりやすく魅力的"
+ },
+ "tsushima": {
+  "name": "対馬",
+  "pref": "長崎県",
+  "score": 4,
+  "del": false,
+  "reason": "離島・ツシマヤマネコ・古代城跡など個性的な魅力が揃う"
+ },
+ "iki-island": {
+  "name": "壱岐",
+  "pref": "長崎県",
+  "score": 4,
+  "del": false,
+  "reason": "透明度の高い海・ビーチ・焼酎文化と観光軸が明確な離島"
+ },
+ "tanegashima": {
+  "name": "種子島",
+  "pref": "鹿児島県",
+  "score": 4,
+  "del": false,
+  "reason": "ロケット・縄文遺産・美しい海と独自の観光軸を持つ離島"
+ },
+ "kikuchi": {
+  "name": "菊池",
+  "pref": "熊本県",
+  "score": 3,
+  "del": false,
+  "reason": "渓谷・温泉・神社が凝縮されており観光目的が伝わりやすい"
+ },
+ "taketomi-island": {
+  "name": "竹富島",
+  "pref": "沖縄県",
+  "score": 5,
+  "del": false,
+  "reason": "石畳・赤瓦・手付かずの自然と沖縄離島の代表格として知名度抜群"
+ },
+ "yonaguni-island": {
+  "name": "与那国島",
+  "pref": "沖縄県",
+  "score": 4,
+  "del": false,
+  "reason": "日本最西端・荒々しい海景・海底遺跡と唯一無二の魅力がある"
+ },
+ "nakijin": {
+  "name": "今帰仁",
+  "pref": "沖縄県",
+  "score": 4,
+  "del": false,
+  "reason": "世界遺産の城跡・古宇利島など観光軸が明確"
+ },
+ "motobu": {
+  "name": "本部",
+  "pref": "沖縄県",
+  "score": 3,
+  "del": false,
+  "reason": "美ら海水族館の拠点として認知され海の色も魅力的"
+ },
+ "zamami-island": {
+  "name": "座間味島",
+  "pref": "沖縄県",
+  "score": 5,
+  "del": false,
+  "reason": "日本屈指の透明度を誇るビーチで離島観光の王道"
+ },
+ "ie-island": {
+  "name": "伊江島",
+  "pref": "沖縄県",
+  "score": 3,
+  "del": false,
+  "reason": "タッチュー・戦争遺跡・花畑と離島観光の軸が揃っている"
+ },
+ "kohama-island": {
+  "name": "小浜島",
+  "pref": "沖縄県",
+  "score": 4,
+  "del": false,
+  "reason": "NHKドラマの舞台として知名度があり青い海とのどかな風景が魅力"
+ },
+ "matsushiro": {
+  "name": "松代",
+  "pref": "長野県",
+  "score": 3,
+  "del": false,
+  "reason": "真田ゆかりの地・地下壕・温泉と歴史ファンに明確な訴求力がある"
+ },
+ "iiyama": {
+  "name": "飯山",
+  "pref": "長野県",
+  "score": 3,
+  "del": false,
+  "reason": "菜の花絶景・雪景色・温泉と季節の魅力が伝わりやすい"
+ },
+ "yakake": {
+  "name": "矢掛",
+  "pref": "岡山県",
+  "score": 3,
+  "del": false,
+  "reason": "本陣・脇本陣が現存する希少な宿場町で街歩きの目的が明確"
+ },
+ "tsuyama": {
+  "name": "津山",
+  "pref": "岡山県",
+  "score": 3,
+  "del": false,
+  "reason": "城跡・ホルモンうどんのグルメ・城下町街並みと観光軸が伝わる"
+ },
+ "tsurugi-san": {
+  "name": "剣山",
+  "pref": "徳島県",
+  "score": 3,
+  "del": false,
+  "reason": "リフトで登れる四国最高峰で登山・絶景目的が明確"
+ },
+ "nobeoka": {
+  "name": "延岡",
+  "pref": "宮崎県",
+  "score": 2,
+  "del": true,
+  "reason": "新幹線も止まらず城跡・渓谷以外に一般旅行者を引きつける明確な観光軸に乏しい"
+ },
+ "kamaishi": {
+  "name": "釜石",
+  "pref": "岩手県",
+  "score": 3,
+  "del": false,
+  "reason": "震災の記憶・橋野高炉跡・三陸の海と訪問目的が伝わる旅先"
+ },
+ "ofunato": {
+  "name": "大船渡",
+  "pref": "岩手県",
+  "score": 2,
+  "del": true,
+  "reason": "震災復興・碁石海岸が主軸だが一般旅行者に「行きたい」と思わせる観光的訴求が弱い"
+ },
+ "kuji": {
+  "name": "久慈",
+  "pref": "岩手県",
+  "score": 3,
+  "del": false,
+  "reason": "琥珀採掘体験・三陸断崖の絶景と体験型観光の軸が明確"
+ },
+ "wakkanai": {
+  "name": "稚内",
+  "pref": "北海道",
+  "score": 4,
+  "del": false,
+  "reason": "日本最北端・宗谷岬という明確なシンボルがあり、最果て感を求める旅行者に根強い人気がある"
+ },
+ "obihiro": {
+  "name": "帯広",
+  "pref": "北海道",
+  "score": 4,
+  "del": false,
+  "reason": "十勝平野の地平線・豚丼・スイーツなどグルメ観光地としても知名度が高く幅広い層に訴求できる"
+ },
+ "rausu": {
+  "name": "羅臼",
+  "pref": "北海道",
+  "score": 4,
+  "del": false,
+  "reason": "知床・流氷・シャチクルーズなど具体的な体験価値が明確で秘境好き・自然好きに強く刺さる"
+ },
+ "esashi-hokkaido": {
+  "name": "江差",
+  "pref": "北海道",
+  "score": 3,
+  "del": false,
+  "reason": "ニシン文化の歴史的町並みと港町情緒があり、古い街歩きを好む層には十分な訴求力がある"
+ },
+ "hanamaki": {
+  "name": "花巻",
+  "pref": "岩手県",
+  "score": 4,
+  "del": false,
+  "reason": "温泉・宮沢賢治ゆかりの地として知名度があり、観光の軸が複数あって幅広い旅行者に届く"
+ },
+ "hachimantai": {
+  "name": "八幡平",
+  "pref": "岩手県",
+  "score": 4,
+  "del": false,
+  "reason": "八幡平アスピーテラインや温泉・ドラゴンアイなど具体的な絶景スポットがあり季節問わず人気"
+ },
+ "tazawako": {
+  "name": "田沢湖",
+  "pref": "秋田県",
+  "score": 4,
+  "del": false,
+  "reason": "日本最深の湖・コバルトブルーの湖面は絵になる絶景で、乳頭温泉との組み合わせで人気も高い"
+ },
+ "yamadera": {
+  "name": "山寺",
+  "pref": "山形県",
+  "score": 5,
+  "del": false,
+  "reason": "1015段の石段と絶景で全国的に有名な観光地であり、歴史・自然・写真映えを兼ね備えている"
+ },
+ "kesennuma": {
+  "name": "気仙沼",
+  "pref": "宮城県",
+  "score": 3,
+  "del": false,
+  "reason": "三陸の新鮮な海鮮グルメと港町情緒があり、グルメ目的の旅行者に明確な動機を与えられる"
+ },
+ "ikaho": {
+  "name": "伊香保",
+  "pref": "群馬県",
+  "score": 4,
+  "del": false,
+  "reason": "石段街と温泉まんじゅうで有名な老舗温泉地で、多くの旅行者にとって「行ったことがある・行きたい」場所"
+ },
+ "enoshima": {
+  "name": "江の島",
+  "pref": "神奈川県",
+  "score": 5,
+  "del": false,
+  "reason": "神社・洞窟・灯台・シーキャンドルなど観光要素が凝縮された人気スポットで幅広い層に刺さる"
+ },
+ "chichibu": {
+  "name": "秩父",
+  "pref": "埼玉県",
+  "score": 4,
+  "del": false,
+  "reason": "東京近郊で四季の絶景・寺社めぐり・渓谷と多彩な魅力があり日帰り観光地として広く認知されている"
+ },
+ "oarai": {
+  "name": "大洗",
+  "pref": "茨城県",
+  "score": 3,
+  "del": false,
+  "reason": "磯前神社の岩上鳥居・アクアワールド・海鮮グルメなど観光の軸が複数あり日帰り旅先として成立する"
+ },
+ "sano": {
+  "name": "佐野",
+  "pref": "栃木県",
+  "score": 3,
+  "del": false,
+  "reason": "佐野ラーメン・厄除け大師・アウトレットと目的が分かりやすく、日帰り旅行先として幅広い層に届く"
+ },
+ "gujo-hachiman": {
+  "name": "郡上八幡",
+  "pref": "岐阜県",
+  "score": 4,
+  "del": false,
+  "reason": "郡上踊り・清流・城下町の石畳と観光の軸が明確で、古い町並み好きに高い訴求力がある"
+ },
+ "narai-juku": {
+  "name": "奈良井宿",
+  "pref": "長野県",
+  "score": 4,
+  "del": false,
+  "reason": "中山道の宿場町として江戸の町並みがほぼ完存しており、歴史・街歩き好きに非常に分かりやすい魅力がある"
+ },
+ "itoigawa": {
+  "name": "糸魚川",
+  "pref": "新潟県",
+  "score": 2,
+  "del": true,
+  "reason": "フォッサマグナ・ジオパークなど地質が主軸で、一般旅行者には「何をしに行くか」が伝わりにくい"
+ },
+ "murakami": {
+  "name": "村上",
+  "pref": "新潟県",
+  "score": 3,
+  "del": false,
+  "reason": "鮭の町・武家屋敷・城下町と観光軸が複数あり、グルメ×歴史で一般旅行者にも訴求できる"
+ },
+ "shima": {
+  "name": "志摩",
+  "pref": "三重県",
+  "score": 4,
+  "del": false,
+  "reason": "英虞湾の絶景・海女文化・伊勢えびなど海のグルメと体験が明確で観光地としての認知度も高い"
+ },
+ "ogaki": {
+  "name": "大垣",
+  "pref": "岐阜県",
+  "score": 3,
+  "del": false,
+  "reason": "奥の細道結びの地・大垣城など歴史的な訴求軸があり、歴史好きには十分な目的地になる"
+ },
+ "echizen-kaigan": {
+  "name": "越前海岸",
+  "pref": "福井県",
+  "score": null,
+  "del": false,
+  "reason": "NO_RESULT"
+ },
+ "myoko-kogen": {
+  "name": "妙高高原",
+  "pref": "新潟県",
+  "score": 4,
+  "del": false,
+  "reason": "スキー・温泉・苗名滝と季節を問わない多彩な体験があり、アクセスも良好で幅広い旅行者に刺さる"
+ },
+ "nagaoka": {
+  "name": "長岡",
+  "pref": "新潟県",
+  "score": 3,
+  "del": false,
+  "reason": "長岡花火は日本三大花火の一つとして知名度が高く、夏の旅行先として明確な目的を提示できる"
+ },
+ "tanba-sasayama": {
+  "name": "丹波篠山",
+  "pref": "兵庫県",
+  "score": 4,
+  "del": false,
+  "reason": "城下町の景観・黒豆・牡丹鍋など歴史×グルメの軸が明確で、近年メディア露出も多く人気上昇中"
+ },
+ "nachikatsuura": {
+  "name": "那智勝浦",
+  "pref": "和歌山県",
+  "score": 4,
+  "del": false,
+  "reason": "那智の滝・熊野古道・マグロのグルメと複数の強力な観光軸があり、遠くても行く価値が伝わりやすい"
+ },
+ "kumano-hongu": {
+  "name": "熊野本宮",
+  "pref": "和歌山県",
+  "score": 5,
+  "del": false,
+  "reason": "世界遺産の熊野古道・熊野本宮大社は歴史・霊場・温泉と多軸の魅力を持つ著名観光地"
+ },
+ "ako": {
+  "name": "赤穂",
+  "pref": "兵庫県",
+  "score": 4,
+  "del": false,
+  "reason": "忠臣蔵・赤穂城跡・塩の町と歴史的背景が明確で一般旅行者にも訴求力がある"
+ },
+ "fushimi": {
+  "name": "伏見",
+  "pref": "京都府",
+  "score": 5,
+  "del": false,
+  "reason": "伏見稲荷・酒蔵・幕末史跡と複数の強い観光軸を持つ京都の人気エリア"
+ },
+ "tomonoura": {
+  "name": "鞆の浦",
+  "pref": "広島県",
+  "score": 4,
+  "del": false,
+  "reason": "江戸の港町の景観・龍馬ゆかりの地・映画のロケ地として観光的魅力が明確"
+ },
+ "sakaiminato": {
+  "name": "境港",
+  "pref": "鳥取県",
+  "score": 4,
+  "del": false,
+  "reason": "ゲゲゲの鬼太郎の聖地として独自のテーマ観光で強い集客力を持つ"
+ },
+ "ushimado": {
+  "name": "牛窓",
+  "pref": "岡山県",
+  "score": 4,
+  "del": false,
+  "reason": "「日本のエーゲ海」というキャッチフレーズと瀬戸内の絶景でカップル等に訴求"
+ },
+ "kasaoka": {
+  "name": "笠岡",
+  "pref": "岡山県",
+  "score": 3,
+  "del": false,
+  "reason": "恐竜化石・島・美術館と要素はあるが知名度・訴求力はやや弱く判断に迷うため残す"
+ },
+ "tsunoshima": {
+  "name": "角島",
+  "pref": "山口県",
+  "score": 5,
+  "del": false,
+  "reason": "角島大橋のコバルトブルーの絶景は全国屈指の人気フォトスポット"
+ },
+ "marugame": {
+  "name": "丸亀",
+  "pref": "香川県",
+  "score": 4,
+  "del": false,
+  "reason": "現存天守の丸亀城・うどん・海の街と観光軸が揃い訪問目的が明確"
+ },
+ "misaki-sadamisaki": {
+  "name": "佐田岬",
+  "pref": "愛媛県",
+  "score": 3,
+  "del": false,
+  "reason": "四国最西端の秘境感と瀬戸内×宇和海の絶景は魅力だが交通難易度が高く判断に迷うため残す"
+ },
+ "yanagawa": {
+  "name": "柳川",
+  "pref": "福岡県",
+  "score": 5,
+  "del": false,
+  "reason": "川下りと柳川鍋で全国的知名度があり観光目的が明確な福岡の人気スポット"
+ },
+ "hyuga": {
+  "name": "日向",
+  "pref": "宮崎県",
+  "score": 3,
+  "del": false,
+  "reason": "神話の国・断崖絶景と訴求軸はあるが知名度はやや低く判断に迷うため残す"
+ },
+ "koshikijima": {
+  "name": "甑島",
+  "pref": "鹿児島県",
+  "score": 4,
+  "del": false,
+  "reason": "手つかずの自然・断崖・無人浜の秘境離島として離島好きに強く訴求"
+ },
+ "kirishima": {
+  "name": "霧島",
+  "pref": "鹿児島県",
+  "score": 5,
+  "del": false,
+  "reason": "温泉・霧島神宮・火山景観と多軸の魅力を持つ九州有数の観光地"
+ },
+ "ebino-kogen": {
+  "name": "えびの高原",
+  "pref": "宮崎県",
+  "score": 3,
+  "del": false,
+  "reason": "冬の霧氷・エメラルドの池は絶景だが単独での訴求力はやや限定的、判断に迷うため残す"
+ },
+ "onna": {
+  "name": "恩納村",
+  "pref": "沖縄県",
+  "score": 5,
+  "del": false,
+  "reason": "沖縄屈指のリゾートエリアで透明な海・ホテル群と観光目的が明確"
+ },
+ "nago": {
+  "name": "名護",
+  "pref": "沖縄県",
+  "score": 3,
+  "del": false,
+  "reason": "説明文が住居表示の解説に終始し観光魅力が全く伝わらないが、名護市自体は観光拠点のため残す"
+ },
+ "yomitanson": {
+  "name": "読谷村",
+  "pref": "沖縄県",
+  "score": 4,
+  "del": false,
+  "reason": "残波岬の絶景・やちむん・世界遺産座喜味城跡と沖縄観光の多軸を持つ"
+ },
+ "niseko": {
+  "name": "ニセコ",
+  "pref": "北海道",
+  "score": 5,
+  "del": false,
+  "reason": "世界的スキーリゾートとして国際的知名度を誇る北海道最高峰の冬観光地"
+ },
+ "daisetsuzan": {
+  "name": "大雪山",
+  "pref": "北海道",
+  "score": 4,
+  "del": false,
+  "reason": "日本最大の国立公園・紅葉・登山と明確な観光軸を持つ北海道の名所"
+ },
+ "shiraoi": {
+  "name": "白老",
+  "pref": "北海道",
+  "score": 4,
+  "del": false,
+  "reason": "ウポポイ（民族共生象徴空間）開設でアイヌ文化体験の目的地として訴求力が高い"
+ },
+ "tomamu": {
+  "name": "トマム",
+  "pref": "北海道",
+  "score": 5,
+  "del": false,
+  "reason": "雲海テラス・パウダースノーで国際的人気を誇るリゾート"
+ },
+ "towada": {
+  "name": "十和田",
+  "pref": "青森県",
+  "score": 4,
+  "del": false,
+  "reason": "十和田湖・奥入瀬渓流・秋の紅葉は東北有数の自然観光地として知名度が高い"
+ },
+ "osorezan": {
+  "name": "恐山",
+  "pref": "青森県",
+  "score": 4,
+  "del": false,
+  "reason": "「死者の集まる霊場」という唯一無二の体験価値と圧倒的な異界感で訴求力がある"
+ },
+ "urabandai": {
+  "name": "裏磐梯",
+  "pref": "福島県",
+  "score": 4,
+  "del": false,
+  "reason": "五色沼・秋の紅葉・湖沼群は東北の定番紅葉スポットとして幅広い層に訴求"
+ },
+ "minami-sanriku": {
+  "name": "南三陸",
+  "pref": "宮城県",
+  "score": 3,
+  "del": false,
+  "reason": "震災復興・海鮮・リアス海岸など複合的な観光軸があり、旅の目的が明確"
+ },
+ "kitakami": {
+  "name": "北上",
+  "pref": "岩手県",
+  "score": 4,
+  "del": false,
+  "reason": "2km続く桜並木は春の絶景スポットとして分かりやすい魅力がある"
+ },
+ "kinugawa-onsen": {
+  "name": "鬼怒川温泉",
+  "pref": "栃木県",
+  "score": 4,
+  "del": false,
+  "reason": "東京近郊の定番温泉地で渓谷美もあり、旅行者への訴求力が高い"
+ },
+ "oze": {
+  "name": "尾瀬",
+  "pref": "群馬県",
+  "score": 4,
+  "del": false,
+  "reason": "国立公園の湿原ハイキングとして広く知られる人気スポット"
+ },
+ "tsukuba": {
+  "name": "つくば",
+  "pref": "茨城県",
+  "score": 3,
+  "del": false,
+  "reason": "筑波山登山・神社・温泉とセットで日帰り旅の目的が立てやすい"
+ },
+ "kasama": {
+  "name": "笠間",
+  "pref": "茨城県",
+  "score": 3,
+  "del": false,
+  "reason": "陶芸体験・笠間稲荷・グルメと観光軸が揃っており旅の目的が明確"
+ },
+ "naritasan": {
+  "name": "成田山・成田",
+  "pref": "千葉県",
+  "score": 4,
+  "del": false,
+  "reason": "成田山参道の鰻・醤油文化と大寺院で訪問目的が分かりやすい"
+ },
+ "kujukuri": {
+  "name": "九十九里",
+  "pref": "千葉県",
+  "score": 3,
+  "del": false,
+  "reason": "日本最長級のビーチとして海水浴・散歩目的で旅行者に伝わりやすい"
+ },
+ "miura": {
+  "name": "三浦",
+  "pref": "神奈川県",
+  "score": 4,
+  "del": false,
+  "reason": "三崎マグロ・城ヶ島・漁師町と食と自然の魅力が明確"
+ },
+ "oku-tama": {
+  "name": "奥多摩",
+  "pref": "東京都",
+  "score": 4,
+  "del": false,
+  "reason": "東京近郊の定番アウトドア・登山・温泉スポットで旅の目的が立てやすい"
+ },
+ "jigokudani": {
+  "name": "地獄谷野猿公苑",
+  "pref": "長野県",
+  "score": 5,
+  "del": false,
+  "reason": "温泉に入るサルという唯一無二のビジュアルで外国人含め高い訴求力"
+ },
+ "tateshina": {
+  "name": "蓼科",
+  "pref": "長野県",
+  "score": 4,
+  "del": false,
+  "reason": "高原リゾート・白樺湖・温泉と組み合わせやすく旅の目的が明確"
+ },
+ "echigo-yuzawa": {
+  "name": "越後湯沢",
+  "pref": "新潟県",
+  "score": 4,
+  "del": false,
+  "reason": "スキー・温泉・雪国文学と冬のリゾート目的地として旅行者に伝わりやすい"
+ },
+ "fujinomiya": {
+  "name": "富士宮",
+  "pref": "静岡県",
+  "score": 4,
+  "del": false,
+  "reason": "富士山・白糸の滝・富士宮やきそばと複数の観光軸があり訴求力が高い"
+ },
+ "norikura": {
+  "name": "乗鞍",
+  "pref": "長野県",
+  "score": 4,
+  "del": false,
+  "reason": "バスで行ける標高2700mの絶景高原として登山・自然目的で明確"
+ },
+ "tokoname": {
+  "name": "常滑",
+  "pref": "愛知県",
+  "score": 3,
+  "del": false,
+  "reason": "焼き物の町並み散策・INAXライブミュージアムなど体験軸があり目的が伝わる"
+ },
+ "korankei": {
+  "name": "香嵐渓",
+  "pref": "愛知県",
+  "score": 5,
+  "del": false,
+  "reason": "4000本のモミジが燃える東海随一の紅葉名所として知名度が高い"
+ },
+ "minamichita": {
+  "name": "南知多",
+  "pref": "愛知県",
+  "score": 3,
+  "del": false,
+  "reason": "タコなどの海鮮グルメ・離島・海景色と旅の目的が組み立てやすい"
+ },
+ "arashiyama": {
+  "name": "嵐山",
+  "pref": "京都府",
+  "score": 5,
+  "del": false,
+  "reason": "竹林・渡月橋・天龍寺など京都屈指の観光名所で訴求力が非常に高い"
+ },
+ "shigaraki": {
+  "name": "信楽",
+  "pref": "滋賀県",
+  "score": 3,
+  "del": false,
+  "reason": "たぬき・登り窯・窯元巡りと陶芸文化の街歩きとして目的が伝わりやすい"
+ },
+ "dorogawa-onsen": {
+  "name": "洞川温泉",
+  "pref": "奈良県",
+  "score": 3,
+  "del": false,
+  "reason": "修験道の聖地・山奥の温泉街として独自の魅力があり旅の目的が立てやすい"
+ },
+ "matsusaka": {
+  "name": "松阪",
+  "pref": "三重県",
+  "score": 4,
+  "del": false,
+  "reason": "松阪牛という強力なグルメ目的＋城下町歴史散策で旅行者に伝わりやすい"
+ },
+ "sakai": {
+  "name": "堺",
+  "pref": "大阪府",
+  "score": 3,
+  "del": false,
+  "reason": "世界遺産の仁徳天皇陵・千利休ゆかりの地と歴史観光の目的が明確"
+ },
+ "ama-island": {
+  "name": "海士町",
+  "pref": "島根県",
+  "score": 4,
+  "del": false,
+  "reason": "離島移住・島まるごと宿泊・岩ガキなど唯一性の高い体験目的地として訴求力がある"
+ },
+ "akiyoshidai": {
+  "name": "秋吉台",
+  "pref": "山口県",
+  "score": 4,
+  "del": false,
+  "reason": "日本最大のカルスト台地と秋芳洞の鍾乳洞はビジュアル・体験ともに訴求力が高い"
+ }
+}

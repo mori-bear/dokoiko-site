@@ -1,0 +1,1146 @@
+[
+  {
+    "id": "aizu-bandaisan",
+    "name": "磐梯山",
+    "result": "OK",
+    "src": "Wikipedia",
+    "old": "960x720(184KB)",
+    "new": "3264x2448(3898KB)"
+  },
+  {
+    "id": "akiyamago",
+    "name": "秋山郷",
+    "result": "OK",
+    "src": "Commons",
+    "old": "640x480(74KB)",
+    "new": "1920x1280(660KB)"
+  },
+  {
+    "id": "amaharashi",
+    "name": "雨晴海岸",
+    "result": "OK",
+    "src": "Wikipedia",
+    "old": "960x1280(321KB)",
+    "new": "3840x2571(1723KB)"
+  },
+  {
+    "id": "aogashima",
+    "name": "青ヶ島",
+    "result": "OK",
+    "src": "Commons",
+    "old": "3840x4791(4518KB)",
+    "new": "1920x1440(538KB)"
+  },
+  {
+    "id": "arimatsu",
+    "name": "有松",
+    "result": "OK",
+    "src": "Commons",
+    "old": "853x1280(308KB)",
+    "new": "1920x1280(631KB)"
+  },
+  {
+    "id": "asakuradan",
+    "name": "秋月城下町",
+    "result": "OK",
+    "src": "Commons",
+    "old": "800x532(269KB)",
+    "new": "1920x1440(1109KB)"
+  },
+  {
+    "id": "atami",
+    "name": "熱海",
+    "result": "OK",
+    "src": "Commons",
+    "old": "1200x1800(358KB)",
+    "new": "1920x1280(440KB)"
+  },
+  {
+    "id": "awashima-kagawa",
+    "name": "粟島",
+    "result": "OK",
+    "src": "Commons",
+    "old": "640x480(34KB)",
+    "new": "1920x803(384KB)"
+  },
+  {
+    "id": "boso-hills",
+    "name": "養老渓谷",
+    "result": "OK",
+    "src": "Wikipedia",
+    "old": "960x720(243KB)",
+    "new": "2048x1536(2088KB)"
+  },
+  {
+    "id": "chiba-zoo",
+    "name": "千葉動物公園",
+    "result": "OK",
+    "src": "Commons",
+    "old": "960x1367(1113KB)",
+    "new": "1920x1280(605KB)"
+  },
+  {
+    "id": "choshi",
+    "name": "銚子",
+    "result": "OK",
+    "src": "Commons",
+    "old": "1280x1280(46KB)",
+    "new": "1920x1280(406KB)"
+  },
+  {
+    "id": "echizen-cape",
+    "name": "越前岬",
+    "result": "OK",
+    "src": "Wikipedia",
+    "old": "960x640(214KB)",
+    "new": "3840x2560(2372KB)"
+  },
+  {
+    "id": "echizen-cliff",
+    "name": "越前竹人形の里",
+    "result": "OK",
+    "src": "Wikipedia",
+    "old": "960x640(257KB)",
+    "new": "3840x2560(3281KB)"
+  },
+  {
+    "id": "fukui-castle",
+    "name": "丸岡城",
+    "result": "OK",
+    "src": "Wikipedia",
+    "old": "960x640(289KB)",
+    "new": "1500x1000(2081KB)"
+  },
+  {
+    "id": "fukuoka",
+    "name": "福岡",
+    "result": "OK",
+    "src": "Wikipedia",
+    "old": "853x1280(187KB)",
+    "new": "2048x1535(506KB)"
+  },
+  {
+    "id": "gen_北海_十勝岳温泉",
+    "name": "十勝岳温泉",
+    "result": "OK",
+    "src": "Wikipedia",
+    "old": "480x640(89KB)",
+    "new": "2560x1920(1014KB)"
+  },
+  {
+    "id": "gen_北海_天に続く道",
+    "name": "天に続く道",
+    "result": "OK",
+    "src": "Commons",
+    "old": "1920x2560(1193KB)",
+    "new": "1920x150(119KB)"
+  },
+  {
+    "id": "gen_北海_天塩川温泉",
+    "name": "天塩川温泉",
+    "result": "OK",
+    "src": "Wikipedia",
+    "old": "960x720(202KB)",
+    "new": "3840x2880(1814KB)"
+  },
+  {
+    "id": "gen_北海_太田山神社",
+    "name": "太田山神社",
+    "result": "OK",
+    "src": "Commons",
+    "old": "2736x2958(3571KB)",
+    "new": "1920x1440(974KB)"
+  },
+  {
+    "id": "gen_北海_山彦の滝",
+    "name": "山彦の滝",
+    "result": "OK",
+    "src": "Commons",
+    "old": "1920x2560(1795KB)",
+    "new": "1920x1440(1095KB)"
+  },
+  {
+    "id": "gen_北海_川汲温泉",
+    "name": "川汲温泉",
+    "result": "OK",
+    "src": "Wikipedia",
+    "old": "851x1280(271KB)",
+    "new": "3000x2548(1552KB)"
+  },
+  {
+    "id": "gen_北海_戸切地陣屋",
+    "name": "戸切地陣屋",
+    "result": "OK",
+    "src": "Commons",
+    "old": "905x904(933KB)",
+    "new": "1920x1555(2486KB)"
+  },
+  {
+    "id": "gen_北海_浜頓別温泉",
+    "name": "浜頓別温泉",
+    "result": "OK",
+    "src": "Wikipedia",
+    "old": "960x720(148KB)",
+    "new": "3840x2880(1478KB)"
+  },
+  {
+    "id": "gen_北海_滝の湯温泉",
+    "name": "滝の湯温泉",
+    "result": "OK",
+    "src": "Wikipedia",
+    "old": "960x720(154KB)",
+    "new": "2560x1920(1023KB)"
+  },
+  {
+    "id": "gen_北海_盃温泉",
+    "name": "盃温泉",
+    "result": "OK",
+    "src": "Wikipedia",
+    "old": "960x1280(304KB)",
+    "new": "2560x1920(1037KB)"
+  },
+  {
+    "id": "gen_北海_相泊温泉",
+    "name": "相泊温泉",
+    "result": "OK",
+    "src": "Wikipedia",
+    "old": "853x1280(298KB)",
+    "new": "1024x768(176KB)"
+  },
+  {
+    "id": "gen_栃木_三斗小屋温泉",
+    "name": "三斗小屋温泉",
+    "result": "OK",
+    "src": "Wikipedia",
+    "old": "300x225(55KB)",
+    "new": "3840x2880(1446KB)"
+  },
+  {
+    "id": "gen_栃木_太平山神社",
+    "name": "太平山神社",
+    "result": "OK",
+    "src": "Wikipedia",
+    "old": "853x1280(215KB)",
+    "new": "3840x2571(1773KB)"
+  },
+  {
+    "id": "gen_群馬_上牧温泉",
+    "name": "上牧温泉",
+    "result": "OK",
+    "src": "Wikipedia",
+    "old": "960x1280(382KB)",
+    "new": "2048x1536(1478KB)"
+  },
+  {
+    "id": "gen_群馬_奥嬬恋温泉",
+    "name": "奥嬬恋温泉",
+    "result": "OK",
+    "src": "Wikipedia",
+    "old": "853x1280(554KB)",
+    "new": "3000x2548(4121KB)"
+  },
+  {
+    "id": "gen_群馬_片品温泉",
+    "name": "片品温泉",
+    "result": "OK",
+    "src": "Wikipedia",
+    "old": "960x1280(322KB)",
+    "new": "3000x2548(4121KB)"
+  },
+  {
+    "id": "gen_青森_落合温泉",
+    "name": "落合温泉",
+    "result": "OK",
+    "src": "Commons",
+    "old": "853x1280(291KB)",
+    "new": "1920x1280(962KB)"
+  },
+  {
+    "id": "gen_青森_馬門温泉",
+    "name": "馬門温泉",
+    "result": "OK",
+    "src": "Unsplash",
+    "old": "853x1280(521KB)",
+    "new": "1600x1032(550KB)"
+  },
+  {
+    "id": "gonosen",
+    "name": "五能線沿線",
+    "result": "OK",
+    "src": "Commons",
+    "old": "1080x658(42KB)",
+    "new": "1920x1440(700KB)"
+  },
+  {
+    "id": "gujo-hachiman",
+    "name": "郡上八幡",
+    "result": "OK",
+    "src": "Wikipedia",
+    "old": "853x1280(600KB)",
+    "new": "3072x2048(3228KB)"
+  },
+  {
+    "id": "hachimantai",
+    "name": "八幡平",
+    "result": "OK",
+    "src": "Commons",
+    "old": "640x444(122KB)",
+    "new": "1920x1280(584KB)"
+  },
+  {
+    "id": "hakone-2",
+    "name": "箱根湯本",
+    "result": "OK",
+    "src": "Wikipedia",
+    "old": "960x720(185KB)",
+    "new": "2592x1944(2702KB)"
+  },
+  {
+    "id": "hakushu",
+    "name": "白州",
+    "result": "OK",
+    "src": "Commons",
+    "old": "960x643(184KB)",
+    "new": "1920x1078(859KB)"
+  },
+  {
+    "id": "hayakawa",
+    "name": "早川町",
+    "result": "OK",
+    "src": "Wikipedia",
+    "old": "960x720(237KB)",
+    "new": "3840x2880(2120KB)"
+  },
+  {
+    "id": "hiruzen",
+    "name": "蒜山高原",
+    "result": "OK",
+    "src": "Wikipedia",
+    "old": "960x638(153KB)",
+    "new": "3840x2550(1298KB)"
+  },
+  {
+    "id": "hyo-sho",
+    "name": "一乗谷朝倉氏遺跡",
+    "result": "OK",
+    "src": "Wikipedia",
+    "old": "960x640(214KB)",
+    "new": "3840x2560(2054KB)"
+  },
+  {
+    "id": "ibusuki-onsen",
+    "name": "指宿温泉",
+    "result": "OK",
+    "src": "Wikipedia",
+    "old": "960x720(215KB)",
+    "new": "2592x1944(2804KB)"
+  },
+  {
+    "id": "ichinoseki",
+    "name": "一関",
+    "result": "OK",
+    "src": "Commons",
+    "old": "1280x828(41KB)",
+    "new": "1920x1440(1401KB)"
+  },
+  {
+    "id": "ikaho",
+    "name": "伊香保",
+    "result": "OK",
+    "src": "Commons",
+    "old": "2000x3008(2629KB)",
+    "new": "1920x1082(462KB)"
+  },
+  {
+    "id": "inawashiro",
+    "name": "猪苗代湖",
+    "result": "OK",
+    "src": "Wikipedia",
+    "old": "960x720(110KB)",
+    "new": "1024x768(206KB)"
+  },
+  {
+    "id": "iwaishima",
+    "name": "祝島",
+    "result": "OK",
+    "src": "Wikipedia",
+    "old": "1024x576(36KB)",
+    "new": "3840x2880(5780KB)"
+  },
+  {
+    "id": "iwaki-spa",
+    "name": "いわき湯本温泉",
+    "result": "OK",
+    "src": "Wikipedia",
+    "old": "960x720(272KB)",
+    "new": "2464x1848(815KB)"
+  },
+  {
+    "id": "izu-oshima",
+    "name": "伊豆大島",
+    "result": "OK",
+    "src": "Commons",
+    "old": "600x830(197KB)",
+    "new": "1920x1280(556KB)"
+  },
+  {
+    "id": "jigokudani",
+    "name": "地獄谷野猿公苑",
+    "result": "OK",
+    "src": "Commons",
+    "old": "800x600(130KB)",
+    "new": "1920x1281(990KB)"
+  },
+  {
+    "id": "kagoshima-city",
+    "name": "鹿児島",
+    "result": "OK",
+    "src": "Commons",
+    "old": "960x638(161KB)",
+    "new": "1920x1440(1197KB)"
+  },
+  {
+    "id": "kasaoka-islands",
+    "name": "笠岡諸島",
+    "result": "OK",
+    "src": "Wikipedia",
+    "old": "960x720(176KB)",
+    "new": "1280x960(560KB)"
+  },
+  {
+    "id": "kasuga-gifu",
+    "name": "飛騨大鍾乳洞",
+    "result": "OK",
+    "src": "Wikipedia",
+    "old": "960x720(262KB)",
+    "new": "3840x2880(3013KB)"
+  },
+  {
+    "id": "kawayu",
+    "name": "川湯温泉",
+    "result": "OK",
+    "src": "Wikipedia",
+    "old": "960x720(308KB)",
+    "new": "3840x2880(2159KB)"
+  },
+  {
+    "id": "kouri-island",
+    "name": "古宇利島",
+    "result": "OK",
+    "src": "Wikipedia",
+    "old": "1080x608(40KB)",
+    "new": "3840x3840(4168KB)"
+  },
+  {
+    "id": "kyoto",
+    "name": "京都",
+    "result": "OK",
+    "src": "Wikipedia",
+    "old": "960x641(212KB)",
+    "new": "1452x969(798KB)"
+  },
+  {
+    "id": "manno",
+    "name": "まんのう",
+    "result": "OK",
+    "src": "Commons",
+    "old": "960x494(102KB)",
+    "new": "1920x1280(437KB)"
+  },
+  {
+    "id": "matsuba-gani",
+    "name": "松葉ガニ",
+    "result": "OK",
+    "src": "Commons",
+    "old": "960x640(188KB)",
+    "new": "1920x1440(888KB)"
+  },
+  {
+    "id": "matsunoyama-onsen",
+    "name": "松之山温泉",
+    "result": "OK",
+    "src": "Commons",
+    "old": "800x600(210KB)",
+    "new": "1920x1446(969KB)"
+  },
+  {
+    "id": "miho-museum",
+    "name": "MIHO MUSEUM",
+    "result": "OK",
+    "src": "Wikipedia",
+    "old": "960x643(224KB)",
+    "new": "3840x2571(1727KB)"
+  },
+  {
+    "id": "mikuni-minato",
+    "name": "三国湊",
+    "result": "OK",
+    "src": "Commons",
+    "old": "960x640(251KB)",
+    "new": "1920x1280(939KB)"
+  },
+  {
+    "id": "minobu",
+    "name": "身延",
+    "result": "OK",
+    "src": "Commons",
+    "old": "800x600(153KB)",
+    "new": "1920x1440(341KB)"
+  },
+  {
+    "id": "miyagi-matsushima-2",
+    "name": "塩釜",
+    "result": "OK",
+    "src": "Commons",
+    "old": "960x539(212KB)",
+    "new": "1920x1440(632KB)"
+  },
+  {
+    "id": "miyagi-rifu",
+    "name": "利府",
+    "result": "OK",
+    "src": "Commons",
+    "old": "800x546(113KB)",
+    "new": "1920x1440(1073KB)"
+  },
+  {
+    "id": "miyazaki",
+    "name": "宮崎",
+    "result": "OK",
+    "src": "Commons",
+    "old": "853x1280(530KB)",
+    "new": "1920x334(137KB)"
+  },
+  {
+    "id": "mogami-funakudari",
+    "name": "最上川舟下り",
+    "result": "OK",
+    "src": "Commons",
+    "old": "960x640(188KB)",
+    "new": "1920x1440(754KB)"
+  },
+  {
+    "id": "moroyama-2",
+    "name": "宿谷の滝",
+    "result": "OK",
+    "src": "Unsplash",
+    "old": "791x1200(693KB)",
+    "new": "1600x1200(394KB)"
+  },
+  {
+    "id": "moroyama-saito",
+    "name": "高麗神社",
+    "result": "OK",
+    "src": "Wikipedia",
+    "old": "960x720(262KB)",
+    "new": "3200x2400(2766KB)"
+  },
+  {
+    "id": "mt-bizan",
+    "name": "眉山（徳島）",
+    "result": "OK",
+    "src": "Commons",
+    "old": "960x643(196KB)",
+    "new": "1920x1280(659KB)"
+  },
+  {
+    "id": "mt-fuji-fifth",
+    "name": "富士山五合目",
+    "result": "OK",
+    "src": "Commons",
+    "old": "1080x720(32KB)",
+    "new": "1920x1280(669KB)"
+  },
+  {
+    "id": "mt-yamato",
+    "name": "三輪山",
+    "result": "OK",
+    "src": "Wikipedia",
+    "old": "960x641(216KB)",
+    "new": "3840x2563(2737KB)"
+  },
+  {
+    "id": "nagasaki-city",
+    "name": "長崎",
+    "result": "OK",
+    "src": "Wikipedia",
+    "old": "960x640(227KB)",
+    "new": "1500x1000(1788KB)"
+  },
+  {
+    "id": "nagi-okayama",
+    "name": "奈義町",
+    "result": "OK",
+    "src": "Wikipedia",
+    "old": "960x720(155KB)",
+    "new": "2048x1536(268KB)"
+  },
+  {
+    "id": "nago",
+    "name": "名護",
+    "result": "OK",
+    "src": "Commons",
+    "old": "800x661(480KB)",
+    "new": "1920x1278(472KB)"
+  },
+  {
+    "id": "nagoya-castle",
+    "name": "名古屋城",
+    "result": "OK",
+    "src": "Wikipedia",
+    "old": "960x639(167KB)",
+    "new": "3840x2555(2143KB)"
+  },
+  {
+    "id": "nanao",
+    "name": "七尾",
+    "result": "OK",
+    "src": "Commons",
+    "old": "1200x1600(540KB)",
+    "new": "1920x1278(755KB)"
+  },
+  {
+    "id": "niche_奈良_6",
+    "name": "吉野川源流",
+    "result": "OK",
+    "src": "Commons",
+    "old": "1024x1280(628KB)",
+    "new": "1600x1199(477KB)"
+  },
+  {
+    "id": "niche_奈良_8",
+    "name": "土佐街道",
+    "result": "OK",
+    "src": "Commons",
+    "old": "854x1280(327KB)",
+    "new": "1600x900(250KB)"
+  },
+  {
+    "id": "niche_宮城_1",
+    "name": "女川漁港と海産物市場",
+    "result": "OK",
+    "src": "Unsplash",
+    "old": "680x930(187KB)",
+    "new": "1600x738(293KB)"
+  },
+  {
+    "id": "niche_宮崎_7",
+    "name": "湯の元温泉",
+    "result": "OK",
+    "src": "Commons",
+    "old": "1024x1687(714KB)",
+    "new": "1920x1280(990KB)"
+  },
+  {
+    "id": "niche_山口_1",
+    "name": "室積漁村",
+    "result": "OK",
+    "src": "Unsplash",
+    "old": "960x720(83KB)",
+    "new": "1600x902(129KB)"
+  },
+  {
+    "id": "niche_山形_5",
+    "name": "真室川清流そば処",
+    "result": "OK",
+    "src": "Unsplash",
+    "old": "710x480(99KB)",
+    "new": "1600x900(348KB)"
+  },
+  {
+    "id": "niche_山梨_6",
+    "name": "矢沢発電所跡",
+    "result": "OK",
+    "src": "Unsplash",
+    "old": "1280x850(41KB)",
+    "new": "1600x1067(337KB)"
+  },
+  {
+    "id": "niche_岐阜_3",
+    "name": "坂祝町木曽川渓谷",
+    "result": "OK",
+    "src": "Unsplash",
+    "old": "853x1280(458KB)",
+    "new": "1600x1067(358KB)"
+  },
+  {
+    "id": "niche_岐阜_4",
+    "name": "付知峡",
+    "result": "OK",
+    "src": "Commons",
+    "old": "853x1280(631KB)",
+    "new": "1920x1277(594KB)"
+  },
+  {
+    "id": "niche_岡山_3",
+    "name": "閑谷学校",
+    "result": "OK",
+    "src": "Wikipedia",
+    "old": "853x1280(267KB)",
+    "new": "2240x1488(455KB)"
+  },
+  {
+    "id": "niche_岩手_1",
+    "name": "北山崎",
+    "result": "OK",
+    "src": "Commons",
+    "old": "737x550(97KB)",
+    "new": "1920x1280(841KB)"
+  },
+  {
+    "id": "niche_島根_4",
+    "name": "掛合町の鐘乳洞群",
+    "result": "OK",
+    "src": "Unsplash",
+    "old": "1222x1683(448KB)",
+    "new": "1600x1071(487KB)"
+  },
+  {
+    "id": "niche_徳島_4",
+    "name": "藍住町",
+    "result": "OK",
+    "src": "Commons",
+    "old": "640x480(77KB)",
+    "new": "1920x864(332KB)"
+  },
+  {
+    "id": "niche_徳島_7",
+    "name": "上板町",
+    "result": "OK",
+    "src": "Commons",
+    "old": "650x829(1054KB)",
+    "new": "1920x1081(706KB)"
+  },
+  {
+    "id": "niche_徳島_8",
+    "name": "北島町シジミ漁の村",
+    "result": "OK",
+    "src": "Unsplash",
+    "old": "1024x1410(651KB)",
+    "new": "1600x900(243KB)"
+  },
+  {
+    "id": "niche_新潟_6",
+    "name": "加茂の古い酒蔵群と職人街",
+    "result": "OK",
+    "src": "Unsplash",
+    "old": "855x560(175KB)",
+    "new": "1600x1063(331KB)"
+  },
+  {
+    "id": "niche_東京_6",
+    "name": "江戸東京たてもの園",
+    "result": "OK",
+    "src": "Wikipedia",
+    "old": "960x1280(382KB)",
+    "new": "3840x2160(1253KB)"
+  },
+  {
+    "id": "niche_熊本_3",
+    "name": "玉東町の陶芸",
+    "result": "OK",
+    "src": "Unsplash",
+    "old": "687x1142(1634KB)",
+    "new": "1600x1067(396KB)"
+  },
+  {
+    "id": "niche_長野_2",
+    "name": "馬籠宿",
+    "result": "OK",
+    "src": "Commons",
+    "old": "860x568(81KB)",
+    "new": "1920x1280(798KB)"
+  },
+  {
+    "id": "niche_青森_1",
+    "name": "種市漁港",
+    "result": "OK",
+    "src": "Commons",
+    "old": "733x550(306KB)",
+    "new": "1920x1280(440KB)"
+  },
+  {
+    "id": "niche_青森_4",
+    "name": "黒石こみせ通り",
+    "result": "OK",
+    "src": "Commons",
+    "old": "514x516(89KB)",
+    "new": "1920x1080(464KB)"
+  },
+  {
+    "id": "niche_静岡_6",
+    "name": "奥大井湖上駅",
+    "result": "OK",
+    "src": "Wikipedia",
+    "old": "898x1280(236KB)",
+    "new": "1024x768(517KB)"
+  },
+  {
+    "id": "niche_鹿児島_2",
+    "name": "関之尾滝",
+    "result": "OK",
+    "src": "Wikipedia",
+    "old": "700x527(95KB)",
+    "new": "2304x1536(360KB)"
+  },
+  {
+    "id": "niche_鹿児島_3",
+    "name": "白糸の滝",
+    "result": "OK",
+    "src": "Commons",
+    "old": "861x1280(572KB)",
+    "new": "1920x1399(1128KB)"
+  },
+  {
+    "id": "niigata-spa",
+    "name": "月岡温泉",
+    "result": "OK",
+    "src": "Wikipedia",
+    "old": "960x720(297KB)",
+    "new": "3840x2557(1920KB)"
+  },
+  {
+    "id": "niseko",
+    "name": "ニセコ",
+    "result": "OK",
+    "src": "Wikipedia",
+    "old": "853x1280(393KB)",
+    "new": "2848x2136(1730KB)"
+  },
+  {
+    "id": "noto-kiriko",
+    "name": "奥能登",
+    "result": "OK",
+    "src": "Commons",
+    "old": "464x261(80KB)",
+    "new": "1920x960(510KB)"
+  },
+  {
+    "id": "oarai",
+    "name": "大洗",
+    "result": "OK",
+    "src": "Commons",
+    "old": "600x400(200KB)",
+    "new": "1920x1278(1166KB)"
+  },
+  {
+    "id": "obama-fukui",
+    "name": "小浜",
+    "result": "OK",
+    "src": "Commons",
+    "old": "1080x720(38KB)",
+    "new": "1920x1440(576KB)"
+  },
+  {
+    "id": "ofunato",
+    "name": "大船渡",
+    "result": "OK",
+    "src": "Commons",
+    "old": "728x541(66KB)",
+    "new": "1920x1440(691KB)"
+  },
+  {
+    "id": "ogawa-saitama",
+    "name": "小川町",
+    "result": "OK",
+    "src": "Wikipedia",
+    "old": "960x540(124KB)",
+    "new": "3840x2160(1696KB)"
+  },
+  {
+    "id": "okinawa-naha",
+    "name": "那覇",
+    "result": "OK",
+    "src": "Commons",
+    "old": "960x1310(442KB)",
+    "new": "1920x1440(474KB)"
+  },
+  {
+    "id": "omagari",
+    "name": "大曲",
+    "result": "OK",
+    "src": "Commons",
+    "old": "722x1280(505KB)",
+    "new": "1920x1080(431KB)"
+  },
+  {
+    "id": "osaka",
+    "name": "大阪",
+    "result": "OK",
+    "src": "Wikipedia",
+    "old": "960x640(197KB)",
+    "new": "3840x2514(2210KB)"
+  },
+  {
+    "id": "ryujin-onsen",
+    "name": "龍神温泉",
+    "result": "OK",
+    "src": "Wikipedia",
+    "old": "853x1280(525KB)",
+    "new": "1024x768(208KB)"
+  },
+  {
+    "id": "saga-yoshino",
+    "name": "吉野ヶ里歴史公園",
+    "result": "OK",
+    "src": "Wikipedia",
+    "old": "960x487(125KB)",
+    "new": "3840x1948(1075KB)"
+  },
+  {
+    "id": "saiki",
+    "name": "佐伯",
+    "result": "OK",
+    "src": "Commons",
+    "old": "1181x901(36KB)",
+    "new": "1920x251(126KB)"
+  },
+  {
+    "id": "saitobaru",
+    "name": "西都原古墳群",
+    "result": "OK",
+    "src": "Commons",
+    "old": "960x638(130KB)",
+    "new": "1920x1277(256KB)"
+  },
+  {
+    "id": "seki",
+    "name": "関",
+    "result": "OK",
+    "src": "Commons",
+    "old": "960x641(165KB)",
+    "new": "1536x1024(385KB)"
+  },
+  {
+    "id": "sendai-2",
+    "name": "仙台城",
+    "result": "OK",
+    "src": "Commons",
+    "old": "640x480(88KB)",
+    "new": "1920x1280(834KB)"
+  },
+  {
+    "id": "senjojiki-aomori",
+    "name": "千畳敷海岸",
+    "result": "OK",
+    "src": "Commons",
+    "old": "960x543(169KB)",
+    "new": "1920x1280(539KB)"
+  },
+  {
+    "id": "shiga-otsu",
+    "name": "比叡山延暦寺",
+    "result": "OK",
+    "src": "Wikipedia",
+    "old": "960x640(270KB)",
+    "new": "3840x2560(2809KB)"
+  },
+  {
+    "id": "shitara",
+    "name": "設楽",
+    "result": "OK",
+    "src": "Commons",
+    "old": "960x641(179KB)",
+    "new": "1920x1920(747KB)"
+  },
+  {
+    "id": "shodoshima-canyon",
+    "name": "寒霞渓",
+    "result": "OK",
+    "src": "Commons",
+    "old": "960x1445(581KB)",
+    "new": "1920x1276(607KB)"
+  },
+  {
+    "id": "shonai",
+    "name": "鶴岡",
+    "result": "OK",
+    "src": "Commons",
+    "old": "800x1065(523KB)",
+    "new": "1920x1440(1194KB)"
+  },
+  {
+    "id": "shosenkyo",
+    "name": "昇仙峡",
+    "result": "OK",
+    "src": "Commons",
+    "old": "1167x1800(964KB)",
+    "new": "1920x474(483KB)"
+  },
+  {
+    "id": "soma-noma",
+    "name": "相馬野馬追",
+    "result": "OK",
+    "src": "Commons",
+    "old": "960x1280(676KB)",
+    "new": "1920x1440(662KB)"
+  },
+  {
+    "id": "susaki",
+    "name": "須崎",
+    "result": "OK",
+    "src": "Commons",
+    "old": "853x1280(302KB)",
+    "new": "1600x900(211KB)"
+  },
+  {
+    "id": "takachihogo-shishiku",
+    "name": "椎葉村",
+    "result": "OK",
+    "src": "Wikipedia",
+    "old": "853x1280(450KB)",
+    "new": "1968x1466(682KB)"
+  },
+  {
+    "id": "takashima-shiga",
+    "name": "高島",
+    "result": "OK",
+    "src": "Commons",
+    "old": "956x1280(433KB)",
+    "new": "1920x1280(619KB)"
+  },
+  {
+    "id": "takeda-castle",
+    "name": "竹田城跡",
+    "result": "OK",
+    "src": "Wikipedia",
+    "old": "960x720(273KB)",
+    "new": "1280x960(281KB)"
+  },
+  {
+    "id": "tanegashima",
+    "name": "種子島",
+    "result": "OK",
+    "src": "Commons",
+    "old": "946x710(141KB)",
+    "new": "1920x1440(1154KB)"
+  },
+  {
+    "id": "tatsuno",
+    "name": "龍野",
+    "result": "OK",
+    "src": "Commons",
+    "old": "383x423(110KB)",
+    "new": "1920x1440(1064KB)"
+  },
+  {
+    "id": "tendou",
+    "name": "天童",
+    "result": "OK",
+    "src": "Commons",
+    "old": "800x600(147KB)",
+    "new": "1920x1080(696KB)"
+  },
+  {
+    "id": "tenkawa",
+    "name": "天川村",
+    "result": "OK",
+    "src": "Wikipedia",
+    "old": "960x540(155KB)",
+    "new": "3840x2160(1882KB)"
+  },
+  {
+    "id": "teuri-island",
+    "name": "天売島",
+    "result": "OK",
+    "src": "Wikipedia",
+    "old": "853x1280(171KB)",
+    "new": "1200x900(112KB)"
+  },
+  {
+    "id": "tokyo",
+    "name": "東京",
+    "result": "OK",
+    "src": "Wikipedia",
+    "old": "960x540(151KB)",
+    "new": "3840x2160(1622KB)"
+  },
+  {
+    "id": "totsukawa-2",
+    "name": "十津川温泉",
+    "result": "OK",
+    "src": "Wikipedia",
+    "old": "960x720(226KB)",
+    "new": "3840x2880(1748KB)"
+  },
+  {
+    "id": "tottori-castle",
+    "name": "鳥取城跡",
+    "result": "OK",
+    "src": "Commons",
+    "old": "960x638(232KB)",
+    "new": "1920x1285(537KB)"
+  },
+  {
+    "id": "tsuruoka-kinzan",
+    "name": "金山町",
+    "result": "OK",
+    "src": "Wikipedia",
+    "old": "960x540(142KB)",
+    "new": "3840x2161(1810KB)"
+  },
+  {
+    "id": "yamagata",
+    "name": "山形",
+    "result": "OK",
+    "src": "Commons",
+    "old": "691x460(231KB)",
+    "new": "1920x1280(580KB)"
+  },
+  {
+    "id": "yawatahama",
+    "name": "八幡浜",
+    "result": "OK",
+    "src": "Wikipedia",
+    "old": "853x1280(261KB)",
+    "new": "2272x1704(1779KB)"
+  },
+  {
+    "id": "yokohama",
+    "name": "横浜",
+    "result": "OK",
+    "src": "Wikipedia",
+    "old": "960x654(117KB)",
+    "new": "2494x1700(1832KB)"
+  },
+  {
+    "id": "yokosuka",
+    "name": "横須賀",
+    "result": "OK",
+    "src": "Commons",
+    "old": "800x1065(388KB)",
+    "new": "1920x1446(656KB)"
+  },
+  {
+    "id": "yoro-falls",
+    "name": "養老の滝",
+    "result": "OK",
+    "src": "Wikipedia",
+    "old": "960x720(348KB)",
+    "new": "3840x2880(3509KB)"
+  },
+  {
+    "id": "yubara-onsen",
+    "name": "湯原温泉",
+    "result": "OK",
+    "src": "Wikipedia",
+    "old": "853x1280(327KB)",
+    "new": "2592x1944(1558KB)"
+  },
+  {
+    "id": "yufuin-2",
+    "name": "由布院温泉",
+    "result": "OK",
+    "src": "Wikipedia",
+    "old": "852x1280(350KB)",
+    "new": "2592x1944(636KB)"
+  },
+  {
+    "id": "yunogo",
+    "name": "湯郷温泉",
+    "result": "OK",
+    "src": "Commons",
+    "old": "960x1280(423KB)",
+    "new": "1920x1283(400KB)"
+  }
+]
