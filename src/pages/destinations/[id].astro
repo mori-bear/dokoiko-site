@@ -33,6 +33,9 @@ const localImageUrl = hasMainImg
     : (firstImageField && !firstImageField.startsWith('/images/') ? firstImageField : null);
 const unsplashUrl    = !hasImage ? ((dest as any).unsplashUrl ?? null) : null;
 const imageUrl       = localImageUrl ?? unsplashUrl;
+// CC帰属(imageCredit: { author, license, url }) — author か license があれば表示
+const ic = (dest as any).imageCredit;
+const heroCredit = (localImageUrl && ic && (ic.author || ic.license)) ? ic : null;
 const unsplashCredit    = unsplashUrl ? ((dest as any).unsplashCredit ?? null) : null;
 const unsplashCreditUrl = unsplashUrl ? ((dest as any).unsplashCreditUrl ?? null) : null;
 const unsplashPhotoUrl  = unsplashUrl ? ((dest as any).unsplashPhotoUrl ?? null) : null;
@@ -326,6 +329,21 @@ const hubCity = _destHubCity && _destHubCity !== dest.name
       rgba(0,0,0,0.05) 100%
     );
   }
+  .dest-hero-credit {
+    position: absolute;
+    right: 8px;
+    bottom: 6px;
+    margin: 0;
+    z-index: 2;
+    font-size: 10px;
+    line-height: 1.3;
+    color: rgba(255,255,255,0.78);
+    text-shadow: 0 1px 2px rgba(0,0,0,0.6);
+    max-width: 70%;
+    text-align: right;
+  }
+  .dest-hero-credit a { color: inherit; text-decoration: none; }
+  .dest-hero-credit a:hover { text-decoration: underline; }
   .dest-hero-content {
     position: absolute;
     bottom: 0;
@@ -1074,6 +1092,17 @@ const hubCity = _destHubCity && _destHubCity !== dest.name
           </div>
         )}
       </div>
+      {heroCredit && (
+        <p class="dest-hero-credit">
+          {heroCredit.url ? (
+            <a href={heroCredit.url} target="_blank" rel="noopener noreferrer nofollow">
+              Photo by {heroCredit.author || 'Unknown'} / Wikimedia Commons{heroCredit.license ? ` (${heroCredit.license})` : ''}
+            </a>
+          ) : (
+            <span>Photo by {heroCredit.author || 'Unknown'} / Wikimedia Commons{heroCredit.license ? ` (${heroCredit.license})` : ''}</span>
+          )}
+        </p>
+      )}
     </div>
   ) : (
     <div class="dest-header-noimg">
