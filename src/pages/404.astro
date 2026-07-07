@@ -7,6 +7,16 @@ import DestinationLayout from '../layouts/DestinationLayout.astro';
   description="お探しのページは存在しません。"
   canonicalUrl="https://tabidokoiko.com/"
 >
+  <!-- 旧URL /destinations/{id}.html → /destinations/{id}/ へ誘導。
+       {id}.html の実ファイル（リダイレクトスタブ）を置くと GitHub Pages が
+       スラッシュなしURL /destinations/{id} をスタブに解決してしまうため、
+       旧URL対策はこの404ページのJSで行う（generateRedirects.js 参照）。 -->
+  <script is:inline>
+    (function () {
+      var m = location.pathname.match(/^\/destinations\/(.+)\.html$/);
+      if (m) location.replace('/destinations/' + m[1] + '/');
+    })();
+  </script>
   <div class="max-w-3xl mx-auto px-4 py-24 text-center">
     <p class="text-6xl mb-6">🗺️</p>
     <h1 class="text-3xl font-bold text-gray-900 mb-4">ページが見つかりません</h1>

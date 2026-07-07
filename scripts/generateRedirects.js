@@ -1,7 +1,12 @@
 /**
  * generateRedirects.js
- * /destinations/{id}.html → /destinations/{id}/ のリダイレクトHTMLを生成
- * Search Consoleで検出された404 (.html旧URL) 対策
+ * 削除済みdestinationの旧URL用リダイレクトHTMLを生成する。
+ *
+ * 【重要・再発防止】現存する destination の {id}.html スタブは生成してはならない。
+ * GitHub Pages は {id}.html と {id}/index.html が併存すると、スラッシュなしURL
+ * /destinations/{id} を {id}.html に解決するため、全正規ページのスラッシュなしURLが
+ * 「移動中...(noindex)」の200応答になり、Googleのインデックスから消える事故が起きた。
+ * 旧 .html URL の404対策は 404.html 内のJSリダイレクト（404.astro）で行う。
  */
 import fs from 'fs';
 import path from 'path';
@@ -33,19 +38,20 @@ function buildRedirectHtml(targetUrl) {
 }
 
 let written = 0;
-let skipped = 0;
+let removed = 0;
 
-// 1. 現在の全destination idに対して .html リダイレクトを生成
+// 1. 【掃除】現存する destination の {id}.html スタブが残っていれば削除する。
+//    （過去の事故で生成されたもの。ヘッダコメント参照）
 for (const d of destinations) {
-  const targetUrl = `/destinations/${d.id}/`;
   const htmlPath = path.join(DIST_DIR, `${d.id}.html`);
-  // 既にあるディレクトリと衝突しない（同じ名前のディレクトリと共存可能）
-  if (fs.existsSync(htmlPath)) {
-    skipped++;
-    continue;
+  const dirIndex = path.join(DIST_DIR, d.id, 'index.html');
+  if (fs.existsSync(htmlPath) && fs.existsSync(dirIndex)) {
+    const html = fs.readFileSync(htmlPath, 'utf-8');
+    if (html.includes('移動中')) {
+      fs.unlinkSync(htmlPath);
+      removed++;
+    }
   }
-  fs.writeFileSync(htmlPath, buildRedirectHtml(targetUrl));
-  written++;
 }
 
 // 2. 旧スラッグ → 新スラッグの既知マッピング
@@ -112,5 +118,5 @@ for (const [oldSlug, newSlug] of Object.entries(KNOWN_SLUG_REDIRECTS)) {
 
 console.log(`✅ リダイレクトHTML生成完了`);
 console.log(`   生成: ${written} ファイル`);
-console.log(`   スキップ(既存): ${skipped} ファイル`);
+console.log(`   掃除(現存ページを隠すスタブ削除): ${removed} ファイル`);
 console.log(`   destinations.json: ${destinations.length} 件`);
