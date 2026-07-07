@@ -1,0 +1,955 @@
+{
+  "replaced": [],
+  "skipped": [
+    {
+      "id": "---",
+      "reason": "not in destinations.json"
+    },
+    {
+      "id": "ishigaki",
+      "reason": "no commons image"
+    },
+    {
+      "id": "otaru",
+      "reason": "no commons image"
+    },
+    {
+      "id": "izu-oshima",
+      "reason": "no commons image"
+    },
+    {
+      "id": "hakone",
+      "reason": "no commons image"
+    },
+    {
+      "id": "takayama-o",
+      "reason": "no commons image"
+    },
+    {
+      "id": "shiretoko",
+      "reason": "no commons image"
+    },
+    {
+      "id": "aizu",
+      "reason": "no commons image"
+    },
+    {
+      "id": "takachiho",
+      "reason": "no commons image"
+    },
+    {
+      "id": "awaji",
+      "reason": "no commons image"
+    },
+    {
+      "id": "tsuwano",
+      "reason": "no commons image"
+    },
+    {
+      "id": "jozankei",
+      "reason": "no commons image"
+    },
+    {
+      "id": "miyako-iwate",
+      "reason": "no commons image"
+    },
+    {
+      "id": "oku-izumo",
+      "reason": "no commons image"
+    },
+    {
+      "id": "tsumago",
+      "reason": "no commons image"
+    },
+    {
+      "id": "ginzan-onsen",
+      "reason": "no commons image"
+    },
+    {
+      "id": "takehara",
+      "reason": "no commons image"
+    },
+    {
+      "id": "nyuto-onsen",
+      "reason": "no commons image"
+    },
+    {
+      "id": "obuse",
+      "reason": "no commons image"
+    },
+    {
+      "id": "shima-onsen",
+      "reason": "no commons image"
+    },
+    {
+      "id": "ozu",
+      "reason": "no commons image"
+    },
+    {
+      "id": "minakami-onsen",
+      "reason": "no commons image"
+    },
+    {
+      "id": "minami-aso",
+      "reason": "no commons image"
+    },
+    {
+      "id": "akan",
+      "reason": "no commons image"
+    },
+    {
+      "id": "hida-furukawa",
+      "reason": "no commons image"
+    },
+    {
+      "id": "izu-kogen",
+      "reason": "no commons image"
+    },
+    {
+      "id": "shimabara",
+      "reason": "no commons image"
+    },
+    {
+      "id": "tsuruga",
+      "reason": "no commons image"
+    },
+    {
+      "id": "nichinan",
+      "reason": "no commons image"
+    },
+    {
+      "id": "mojiko",
+      "reason": "no commons image"
+    },
+    {
+      "id": "choshi",
+      "reason": "no commons image"
+    },
+    {
+      "id": "kiyosato",
+      "reason": "no commons image"
+    },
+    {
+      "id": "minami-izu",
+      "reason": "no commons image"
+    },
+    {
+      "id": "goshogawara",
+      "reason": "no commons image"
+    },
+    {
+      "id": "iga",
+      "reason": "no commons image"
+    },
+    {
+      "id": "kashiwajima",
+      "reason": "no commons image"
+    },
+    {
+      "id": "asuka",
+      "reason": "no commons image"
+    },
+    {
+      "id": "iwami-ginzan",
+      "reason": "no commons image"
+    },
+    {
+      "id": "iwakuni",
+      "reason": "no commons image"
+    },
+    {
+      "id": "ainan",
+      "reason": "no commons image"
+    },
+    {
+      "id": "kikuchi",
+      "reason": "no commons image"
+    },
+    {
+      "id": "kuji",
+      "reason": "no commons image"
+    },
+    {
+      "id": "zamami-island",
+      "reason": "no commons image"
+    },
+    {
+      "id": "kohama-island",
+      "reason": "no commons image"
+    },
+    {
+      "id": "tsuyama",
+      "reason": "no commons image"
+    },
+    {
+      "id": "narai-juku",
+      "reason": "no commons image"
+    },
+    {
+      "id": "murakami",
+      "reason": "no commons image"
+    },
+    {
+      "id": "fushimi",
+      "reason": "no commons image"
+    },
+    {
+      "id": "nagaoka",
+      "reason": "no commons image"
+    },
+    {
+      "id": "hyuga",
+      "reason": "no commons image"
+    },
+    {
+      "id": "nago",
+      "reason": "no commons image"
+    },
+    {
+      "id": "fujinomiya",
+      "reason": "no commons image"
+    },
+    {
+      "id": "matsusaka",
+      "reason": "no commons image"
+    },
+    {
+      "id": "teshima",
+      "reason": "no commons image"
+    },
+    {
+      "id": "niijima",
+      "reason": "no commons image"
+    },
+    {
+      "id": "aguni-island",
+      "reason": "no commons image"
+    },
+    {
+      "id": "ichinoseki",
+      "reason": "no commons image"
+    },
+    {
+      "id": "yokosuka",
+      "reason": "no commons image"
+    },
+    {
+      "id": "akashi",
+      "reason": "no commons image"
+    },
+    {
+      "id": "innoshima",
+      "reason": "no commons image"
+    },
+    {
+      "id": "karatsu",
+      "reason": "no commons image"
+    },
+    {
+      "id": "kashima",
+      "reason": "no commons image"
+    },
+    {
+      "id": "nanao",
+      "reason": "no commons image"
+    },
+    {
+      "id": "otoyo",
+      "reason": "no commons image"
+    },
+    {
+      "id": "toshima",
+      "reason": "no commons image"
+    },
+    {
+      "id": "hakusan",
+      "reason": "no commons image"
+    },
+    {
+      "id": "myoko",
+      "reason": "no commons image"
+    },
+    {
+      "id": "hokkaido-asahikawa",
+      "reason": "no commons image"
+    },
+    {
+      "id": "omagari",
+      "reason": "no commons image"
+    },
+    {
+      "id": "takashima-shiga",
+      "reason": "no commons image"
+    },
+    {
+      "id": "kanonji",
+      "reason": "no commons image"
+    },
+    {
+      "id": "mimasaka",
+      "reason": "no commons image"
+    },
+    {
+      "id": "kochi-shimanto",
+      "reason": "no commons image"
+    },
+    {
+      "id": "shibu-onsen",
+      "reason": "no commons image"
+    },
+    {
+      "id": "ono-fukui",
+      "reason": "no commons image"
+    },
+    {
+      "id": "katsuyama",
+      "reason": "no commons image"
+    },
+    {
+      "id": "hioki",
+      "reason": "no commons image"
+    },
+    {
+      "id": "hirakawa",
+      "reason": "no commons image"
+    },
+    {
+      "id": "shimokita",
+      "reason": "no commons image"
+    },
+    {
+      "id": "agematsu",
+      "reason": "no commons image"
+    },
+    {
+      "id": "isesaki",
+      "reason": "no commons image"
+    },
+    {
+      "id": "matsumoto-kaido",
+      "reason": "no commons image"
+    },
+    {
+      "id": "suo-sanbe",
+      "reason": "no commons image"
+    },
+    {
+      "id": "gen_北海_雌阿寒温泉",
+      "reason": "no commons image"
+    },
+    {
+      "id": "gen_北海_網走湖畔温泉",
+      "reason": "no commons image"
+    },
+    {
+      "id": "gen_北海_北海道",
+      "reason": "no commons image"
+    },
+    {
+      "id": "gen_北海_滝の湯温泉",
+      "reason": "no commons image"
+    },
+    {
+      "id": "gen_北海_びふか温泉",
+      "reason": "no commons image"
+    },
+    {
+      "id": "gen_北海_長万部温泉",
+      "reason": "no commons image"
+    },
+    {
+      "id": "gen_北海_相泊温泉",
+      "reason": "no commons image"
+    },
+    {
+      "id": "gen_北海_フレペの滝",
+      "reason": "no commons image"
+    },
+    {
+      "id": "gen_北海_かみゆうべつ温泉",
+      "reason": "no commons image"
+    },
+    {
+      "id": "gen_茨城_牛久シャトー",
+      "reason": "no commons image"
+    },
+    {
+      "id": "gen_茨城_常磐神社",
+      "reason": "no commons image"
+    },
+    {
+      "id": "gen_茨城_水戸東照宮",
+      "reason": "no commons image"
+    },
+    {
+      "id": "gen_茨城_大洗磯前神社",
+      "reason": "no commons image"
+    },
+    {
+      "id": "gen_群馬_猿ヶ京温泉",
+      "reason": "no commons image"
+    },
+    {
+      "id": "gen_栃木_宇都宮二荒山神社",
+      "reason": "no commons image"
+    },
+    {
+      "id": "gen_栃木_唐沢山神社",
+      "reason": "no commons image"
+    },
+    {
+      "id": "gen_北海_オーロラ温泉",
+      "reason": "no commons image"
+    },
+    {
+      "id": "gen_北海_奥美利河温泉",
+      "reason": "no commons image"
+    },
+    {
+      "id": "gen_北海_美利河温泉",
+      "reason": "no commons image"
+    },
+    {
+      "id": "gen_北海_瀬戸瀬温泉",
+      "reason": "no commons image"
+    },
+    {
+      "id": "gen_北海_札幌八幡宮",
+      "reason": "no commons image"
+    },
+    {
+      "id": "gen_青森_馬門温泉",
+      "reason": "no commons image"
+    },
+    {
+      "id": "utsukushigahara",
+      "reason": "no commons image"
+    },
+    {
+      "id": "gen_青森_秋元温泉",
+      "reason": "no commons image"
+    },
+    {
+      "id": "gen_青森_稲垣温泉",
+      "reason": "no commons image"
+    },
+    {
+      "id": "tarama-island",
+      "reason": "no commons image"
+    },
+    {
+      "id": "uji",
+      "reason": "no commons image"
+    },
+    {
+      "id": "shirahone-onsen",
+      "reason": "no commons image"
+    },
+    {
+      "id": "awashima-island",
+      "reason": "no commons image"
+    },
+    {
+      "id": "nagatoro",
+      "reason": "no commons image"
+    },
+    {
+      "id": "ushibuka",
+      "reason": "no commons image"
+    },
+    {
+      "id": "kashima-saga",
+      "reason": "no commons image"
+    },
+    {
+      "id": "mitsuminejinja",
+      "reason": "no commons image"
+    },
+    {
+      "id": "kashiwazaki",
+      "reason": "no commons image"
+    },
+    {
+      "id": "yobetsu",
+      "reason": "no commons image"
+    },
+    {
+      "id": "sensui-jima",
+      "reason": "no commons image"
+    },
+    {
+      "id": "niihama",
+      "reason": "no commons image"
+    },
+    {
+      "id": "yugawara",
+      "reason": "no commons image"
+    },
+    {
+      "id": "gonosen",
+      "reason": "no commons image"
+    },
+    {
+      "id": "shimekappu",
+      "reason": "no commons image"
+    },
+    {
+      "id": "shionoe",
+      "reason": "no commons image"
+    },
+    {
+      "id": "hiraodai",
+      "reason": "no commons image"
+    },
+    {
+      "id": "bihoro-pass",
+      "reason": "no commons image"
+    },
+    {
+      "id": "saroma-ko",
+      "reason": "no commons image"
+    },
+    {
+      "id": "chokai-san",
+      "reason": "no commons image"
+    },
+    {
+      "id": "nyukasa",
+      "reason": "no commons image"
+    },
+    {
+      "id": "bise",
+      "reason": "no commons image"
+    },
+    {
+      "id": "osorezan-area",
+      "reason": "no commons image"
+    },
+    {
+      "id": "nushima",
+      "reason": "no commons image"
+    },
+    {
+      "id": "minamidaitojima",
+      "reason": "no commons image"
+    },
+    {
+      "id": "toushijima",
+      "reason": "no commons image"
+    },
+    {
+      "id": "omijima",
+      "reason": "no commons image"
+    },
+    {
+      "id": "kii-oshima",
+      "reason": "no commons image"
+    },
+    {
+      "id": "shirakami-sanchi",
+      "reason": "no commons image"
+    },
+    {
+      "id": "yatsugatake",
+      "reason": "no commons image"
+    },
+    {
+      "id": "kikai-island",
+      "reason": "no commons image"
+    },
+    {
+      "id": "kuroshima-yaeyama",
+      "reason": "no commons image"
+    },
+    {
+      "id": "kurima-island",
+      "reason": "no commons image"
+    },
+    {
+      "id": "kifune",
+      "reason": "no commons image"
+    },
+    {
+      "id": "sumatakyo",
+      "reason": "no commons image"
+    },
+    {
+      "id": "nishi-izu",
+      "reason": "no commons image"
+    },
+    {
+      "id": "tamatsukuri-onsen",
+      "reason": "no commons image"
+    },
+    {
+      "id": "ashinoko",
+      "reason": "no commons image"
+    },
+    {
+      "id": "kawaji-onsen",
+      "reason": "no commons image"
+    },
+    {
+      "id": "toyama-glass",
+      "reason": "no commons image"
+    },
+    {
+      "id": "ohara-2",
+      "reason": "no commons image"
+    },
+    {
+      "id": "echizen-pottery",
+      "reason": "no commons image"
+    },
+    {
+      "id": "takatsuki",
+      "reason": "no commons image"
+    },
+    {
+      "id": "zuiryuji",
+      "reason": "no commons image"
+    },
+    {
+      "id": "inawashiro",
+      "reason": "no commons image"
+    },
+    {
+      "id": "keihoku",
+      "reason": "no commons image"
+    },
+    {
+      "id": "zentsuji",
+      "reason": "no commons image"
+    },
+    {
+      "id": "niigata-city",
+      "reason": "no commons image"
+    },
+    {
+      "id": "nozawa-onsen-niigata",
+      "reason": "no commons image"
+    },
+    {
+      "id": "higashi-chaya",
+      "reason": "no commons image"
+    },
+    {
+      "id": "soya-misaki",
+      "reason": "no commons image"
+    },
+    {
+      "id": "okayama-city",
+      "reason": "no commons image"
+    },
+    {
+      "id": "niji-no-matsubara",
+      "reason": "no commons image"
+    },
+    {
+      "id": "kagoshima-city",
+      "reason": "no commons image"
+    },
+    {
+      "id": "tokushima-city",
+      "reason": "no commons image"
+    },
+    {
+      "id": "aharen",
+      "reason": "no commons image"
+    },
+    {
+      "id": "omiya-bonsai",
+      "reason": "no commons image"
+    },
+    {
+      "id": "mikuni-minato",
+      "reason": "no commons image"
+    },
+    {
+      "id": "saiko",
+      "reason": "no commons image"
+    },
+    {
+      "id": "shoji-lake",
+      "reason": "no commons image"
+    },
+    {
+      "id": "izumi",
+      "reason": "no commons image"
+    },
+    {
+      "id": "senri-bamboo",
+      "reason": "no commons image"
+    },
+    {
+      "id": "naruto-uzu",
+      "reason": "no commons image"
+    },
+    {
+      "id": "owakudani",
+      "reason": "no commons image"
+    },
+    {
+      "id": "zushi",
+      "reason": "no commons image"
+    },
+    {
+      "id": "meoto-iwa",
+      "reason": "no commons image"
+    },
+    {
+      "id": "iwate-chuson",
+      "reason": "no commons image"
+    },
+    {
+      "id": "shuri-castle",
+      "reason": "no commons image"
+    },
+    {
+      "id": "mt-yatsugatake",
+      "reason": "no commons image"
+    },
+    {
+      "id": "niigata-bandai",
+      "reason": "no commons image"
+    },
+    {
+      "id": "miyagi-matsushima-2",
+      "reason": "no commons image"
+    },
+    {
+      "id": "biwako-valley",
+      "reason": "no commons image"
+    },
+    {
+      "id": "chiba-ko",
+      "reason": "no commons image"
+    },
+    {
+      "id": "kanazawa-21st",
+      "reason": "no commons image"
+    },
+    {
+      "id": "kobe",
+      "reason": "no commons image"
+    },
+    {
+      "id": "iwami-kagura",
+      "reason": "no commons image"
+    },
+    {
+      "id": "ryugado",
+      "reason": "no commons image"
+    },
+    {
+      "id": "niche_千葉_5",
+      "reason": "no commons image"
+    },
+    {
+      "id": "niche_茨城_1",
+      "reason": "no commons image"
+    },
+    {
+      "id": "niche_山形_2",
+      "reason": "no commons image"
+    },
+    {
+      "id": "niche_福島_1",
+      "reason": "no commons image"
+    },
+    {
+      "id": "niche_群馬_4",
+      "reason": "no commons image"
+    },
+    {
+      "id": "niche_石川_6",
+      "reason": "no commons image"
+    },
+    {
+      "id": "niche_石川_1",
+      "reason": "no commons image"
+    },
+    {
+      "id": "niche_神奈川_4",
+      "reason": "no commons image"
+    },
+    {
+      "id": "niche_新潟_6",
+      "reason": "no commons image"
+    },
+    {
+      "id": "niche_静岡_2",
+      "reason": "no commons image"
+    },
+    {
+      "id": "niche_岐阜_4",
+      "reason": "no commons image"
+    },
+    {
+      "id": "niche_岐阜_7",
+      "reason": "no commons image"
+    },
+    {
+      "id": "niche_山梨_1",
+      "reason": "no commons image"
+    },
+    {
+      "id": "niche_山梨_4",
+      "reason": "no commons image"
+    },
+    {
+      "id": "niche_京都_5",
+      "reason": "no commons image"
+    },
+    {
+      "id": "niche_愛知_1",
+      "reason": "no commons image"
+    },
+    {
+      "id": "niche_滋賀_6",
+      "reason": "no commons image"
+    },
+    {
+      "id": "niche_和歌山_1",
+      "reason": "no commons image"
+    },
+    {
+      "id": "niche_兵庫_2",
+      "reason": "no commons image"
+    },
+    {
+      "id": "niche_広島_6",
+      "reason": "no commons image"
+    },
+    {
+      "id": "niche_島根_4",
+      "reason": "no commons image"
+    },
+    {
+      "id": "niche_香川_6",
+      "reason": "no commons image"
+    },
+    {
+      "id": "niche_愛媛_4",
+      "reason": "no commons image"
+    },
+    {
+      "id": "niche_福岡_3",
+      "reason": "no commons image"
+    },
+    {
+      "id": "niche_福岡_4",
+      "reason": "no commons image"
+    },
+    {
+      "id": "niche_長崎_7",
+      "reason": "no commons image"
+    },
+    {
+      "id": "niche_鹿児島_1",
+      "reason": "no commons image"
+    },
+    {
+      "id": "sapporo",
+      "reason": "no commons image"
+    },
+    {
+      "id": "niche_宮崎_2",
+      "reason": "no commons image"
+    },
+    {
+      "id": "seki-juku",
+      "reason": "no commons image"
+    },
+    {
+      "id": "wakimachi",
+      "reason": "no commons image"
+    }
+  ],
+  "errors": [
+    {
+      "id": "tokashiki-jima",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/8/87/Tokashiku_Beach_on_Tokashiki_Island_Okinawa_2018.png"
+    },
+    {
+      "id": "miyajima",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/d/db/20181111_Itsukushima_Shrine_torii-2.jpg"
+    },
+    {
+      "id": "mihonoseki",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/d/d0/%E7%BE%8E%E4%BF%9D%E9%96%A2_%E3%81%88%E3%81%B3%E3%81%99%E5%A4%A7%E8%A6%B3_%E6%9D%BE%E6%B1%9F%E5%B8%82%E7%BE%8E%E4%BF%9D%E9%96%A2%E7%94%BA_2016-09-03_%2832699496765%29.jpg"
+    },
+    {
+      "id": "amakusa",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/4/40/Amakusa-airport.JPG"
+    },
+    {
+      "id": "hiraizumi",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/c/cc/Michinoeki_Hiraizumi_02.JPG"
+    },
+    {
+      "id": "kinosaki-onsen",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/8/8b/161030_Kinosaki-Onsen_Station_Toyooka_Hyogo_pref_Japan01bs3.jpg"
+    },
+    {
+      "id": "kurashiki-o",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/d/d8/%E5%B2%A1%E5%B1%B1%E7%9C%8C%E5%80%89%E6%95%B7%E5%B8%82%E5%80%89%E6%95%B7%E5%BA%97%2C_%E3%82%B9%E3%82%B7%E3%83%AD%E3%83%BC%E5%9B%9E%E8%BB%A2%E5%AF%BF%E5%8F%B8%2C_%E5%80%89%E6%95%B7%2C_Kurashiki%2C_%E5%B2%A1%E5%B1%B1%2C_Okayama_%286237910593%29.jpg"
+    },
+    {
+      "id": "yamadera",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/8/80/%E6%B7%A1%E6%B0%B4%E9%84%9E%E5%B1%B1%E5%AF%BA.jpg"
+    },
+    {
+      "id": "ikaho",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/0/03/Ikaho_Onsen_02.jpg"
+    },
+    {
+      "id": "gen_北海_焼尻島",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/4/45/Yagishiri_Island.JPG"
+    },
+    {
+      "id": "gen_北海_東川町",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/0/0f/Higashikawa_Town_Hall.jpg"
+    },
+    {
+      "id": "gen_北海_瀬石温泉",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/d/d7/Seseki_Onsen_01.jpg"
+    },
+    {
+      "id": "mikurajima",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/1/12/Mikura-jima.jpg"
+    },
+    {
+      "id": "hiburi",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/b/b0/Hiburi_island_clinic.jpg"
+    },
+    {
+      "id": "gokase",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/a/a2/Gokase_Geo-Park.JPG"
+    },
+    {
+      "id": "mino-washi",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/0/00/MINO-WASHI_Museum.jpg"
+    },
+    {
+      "id": "shinjuku",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/d/d8/Buildings_with_colorful_neon_street_signs_at_blue_hour%2C_Shinjuku%2C_Tokyo.jpg"
+    },
+    {
+      "id": "sendai-2",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/2/2c/Sendai_castle01s3872.jpg"
+    },
+    {
+      "id": "uozu",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/5/5c/%E5%AF%8C%E5%B1%B1%E7%9C%8C%E9%AD%9A%E6%B4%A5%E5%B8%82_%E9%AD%9A%E6%B4%A5%E7%A5%9E%E7%A4%BE_%E7%A4%BE%E7%B4%8B.png"
+    },
+    {
+      "id": "yamagata",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/f/fe/220428_Yamagata_Airport_Yamagata_Yamagata_pref_Japan01s3.jpg"
+    },
+    {
+      "id": "fukushima",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/3/3c/Fukushima-Airport.jpg"
+    }
+  ]
+}

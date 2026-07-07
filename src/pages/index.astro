@@ -508,6 +508,74 @@ try {
   }
   .retry-btn:hover { border-color: #2A6049; color: #2A6049; }
 
+  /* ── 3-card result layout ── */
+  .rc-cards {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    margin-bottom: 4px;
+  }
+  @media (min-width: 640px) {
+    .rc-cards { flex-direction: row; }
+    .result-wrap { max-width: 900px; }
+  }
+  .rc-card {
+    display: block;
+    text-decoration: none;
+    border-radius: 12px;
+    overflow: hidden;
+    flex: 1;
+    min-width: 0;
+  }
+  .rc-card-img-wrap {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 16/9;
+    overflow: hidden;
+    background: #eee;
+  }
+  .rc-card-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    transition: transform 0.35s ease;
+  }
+  .rc-card:hover .rc-card-img { transform: scale(1.04); }
+  .rc-card-overlay {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(to top, rgba(0,0,0,0.72) 0%, rgba(0,0,0,0.1) 55%, transparent 100%);
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding: 14px 16px;
+  }
+  .rc-card-tags-wrap { display: flex; flex-wrap: wrap; gap: 4px; margin-bottom: 5px; }
+  .rc-card-tag {
+    padding: 3px 9px;
+    border: 1px solid rgba(255,255,255,0.5);
+    border-radius: 20px;
+    font-size: 10px;
+    color: rgba(255,255,255,0.9);
+    letter-spacing: 0.02em;
+  }
+  .rc-card-name {
+    font-family: 'Noto Serif JP', serif;
+    font-size: clamp(18px, 4.5vw, 22px);
+    font-weight: 400;
+    color: #fff;
+    letter-spacing: 0.05em;
+    margin: 0 0 3px;
+    line-height: 1.25;
+  }
+  .rc-card-pref {
+    font-size: 11px;
+    color: rgba(255,255,255,0.72);
+    letter-spacing: 0.08em;
+    margin: 0;
+  }
+
   /* ═══════════════════════════════════════
      MAP SECTION
   ═══════════════════════════════════════ */
@@ -1001,9 +1069,9 @@ function go() {
 }
 
 function retry() {
-  state.poolIndex++;
+  state.poolIndex += 3;
   if (state.poolIndex >= state.pool.length) buildPool();
-  showResult(state.pool[state.poolIndex]);
+  showResults();
   encodeUrl();
   document.getElementById('result')!.scrollIntoView({ behavior: 'smooth', block: 'start' });
 }
@@ -1026,52 +1094,59 @@ function formatTime(minutes: number): string | null {
   return m > 0 ? `約${h}時間${m}分` : `約${h}時間`;
 }
 
-function showResult(city: any) {
-  if (!city) return;
-  const minutes = calculateTravelTimeMinutes(state.departure, city);
-  const timeStr = formatTime(minutes);
-  const name = city.displayName || city.name;
-
-  const allTags: string[] = city.primary?.length
-    ? [...(city.primary ?? []), ...(city.secondary ?? [])]
-    : (city.tags ?? []);
+function showResults() {
+  const cities = state.pool.slice(state.poolIndex, state.poolIndex + 3);
+  if (!cities.length) return;
 
   const stayLabel: Record<string, string> = { daytrip: '日帰り', '1night': '1泊', '2night': '2泊以上' };
   const condParts = [state.departure, stayLabel[state.stayType] ?? state.stayType, ...(state.theme ? [state.theme] : [])];
   const condSummary = condParts.join(' / ');
 
+  const cards = cities.map((city: any) => {
+    const name = city.displayName || city.name;
+    const allTags: string[] = city.primary?.length
+      ? [...(city.primary ?? []), ...(city.secondary ?? [])]
+      : (city.tags ?? []);
+    const imgSrc = (city.images && city.images[0]) || city.unsplashUrl || '/images/' + city.id + '/main.jpg';
+    const imgFallback = city.unsplashUrl || '/images/' + city.id + '.jpg';
+    const tagHtml = allTags.slice(0, 2).map((t: string) => `<span class="rc-card-tag">${t}</span>`).join('');
+    return `
+      <a href="/destinations/${city.id}/" class="rc-card">
+        <div class="rc-card-img-wrap">
+          <img class="rc-card-img"
+            src="${imgSrc}"
+            alt="${name}の風景"
+            onerror="this.onerror=null;this.src='${imgFallback}'"
+            loading="lazy" />
+          <div class="rc-card-overlay">
+            ${tagHtml ? `<div class="rc-card-tags-wrap">${tagHtml}</div>` : ''}
+            <h2 class="rc-card-name">${name}</h2>
+            <p class="rc-card-pref">${city.prefecture || ''}</p>
+          </div>
+        </div>
+      </a>`;
+  }).join('');
+
   const inner = document.getElementById('result-inner')!;
   inner.innerHTML = `
     <p class="rc-condition">${condSummary}</p>
-    <div class="rc-photo-wrap">
-      <img class="rc-hero-img"
-           src="${city.unsplashUrl ? city.unsplashUrl : '/images/' + city.id + '.jpg'}"
-           alt="${name}の風景"
-           onerror="if(!this.dataset.tried&&'${city.unsplashUrl||''}'){this.dataset.tried='1';this.src='${city.unsplashUrl||''}'}else{this.closest('.rc-photo-wrap').style.display='none'}"
-           loading="lazy" />
-      ${city.unsplashCredit ? `<p class="rc-unsplash-credit">Photo by <a href="${city.unsplashCreditUrl}" target="_blank" rel="noopener">${city.unsplashCredit}</a> on Unsplash</p>` : ''}
-    </div>
-    <span class="rc-eyebrow"></span>
-    <h2 class="rc-name">${name}</h2>
-    <p class="rc-pref">${city.prefecture || ''}${city.region ? '　' + city.region : ''}</p>
-    ${allTags.length ? `<div class="rc-tags">${allTags.slice(0, 5).map(t => `<span class="rc-tag">${t}</span>`).join('')}</div>` : ''}
-    ${city.description ? `<p class="rc-desc">${city.description}</p>` : ''}
-    ${city.spots?.length ? `<p class="rc-spots">${(city.spots as any[]).slice(0, 3).map(s => typeof s === 'string' ? s : (s?.name ?? '')).filter(Boolean).join(' · ')}</p>` : ''}
-    <div class="rc-actions">
-      <a href="/destinations/${city.id}/" class="rc-btn-primary">${name}を旅する →</a>
-    </div>
+    <div class="rc-cards">${cards}</div>
   `;
 
   document.getElementById('result')!.hidden = false;
 
-  const remaining = state.pool.length - state.poolIndex - 1;
+  const remaining = Math.max(0, state.pool.length - state.poolIndex - cities.length);
   document.getElementById('retry-btn')!.textContent = remaining > 0
     ? `別の旅先を見る（あと${remaining}件）`
     : 'もう一度探す';
 
   if (typeof gtag === 'function') {
-    gtag('event', 'view_destination', { departure: state.departure, destination: city.id });
+    cities.forEach((city: any) => gtag('event', 'view_destination', { departure: state.departure, destination: city.id }));
   }
+}
+
+function showResult(city: any) {
+  showResults();
 }
 
 document.addEventListener('click', (e) => {

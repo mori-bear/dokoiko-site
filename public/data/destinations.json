@@ -1512,7 +1512,7 @@
     "imageCredit": {
       "author": "Syced",
       "license": "CC0",
-      "url": "https://commons.wikimedia.org/wiki/File:Ishigakijima_Yamabare.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File%3AIshigakijima_5.jpg",
       "attributionRequired": false
     }
   },
@@ -2200,9 +2200,9 @@
     ],
     "bestSeason": "夏・冬",
     "imageCredit": {
-      "author": "くろふね",
-      "license": "CC BY 3.0",
-      "url": "https://commons.wikimedia.org/wiki/File:%E5%B0%8F%E6%A8%BD%E9%81%8B%E6%B2%B3_-_panoramio_(7).jpg",
+      "author": "bryan...",
+      "license": "CC BY-SA 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3A%E9%AD%9A%E6%9D%BF%2C_%E9%AD%9A%E6%9D%BF%E6%A6%AE%2C_KAMA%E6%A6%AE%2C_%E5%B0%8F%E6%A8%BD%2C_%E5%8C%97%E6%B5%B7%E9%81%93%2C_%E6%97%A5%E6%9C%AC%2C_Kamaei%2C_Otaru%2C_Hokkaido%2C_Japan%2C_%E3%81%8B%E3%81%BE%E6%A0%84%2C_%E5%B7%A5%E5%A0%B4%E7%9B%B4%E5%A3%B2%E5%BA%97%2C_%E3%81%8A%E3%81%9F%E3%82%8B%E3%81%97%2C_%E3%81%BB%E3%81%A3%E3%81%8B%E3%81%84%E3%81%A9%E3%81%86%2C_%E3%81%AB%E3%81%A3%E3%81%BD%E3%82%93%2C_%E3%81%AB%E3%81%BB%E3%82%93_(32871713447).jpg",
       "attributionRequired": true
     }
   },
@@ -2866,10 +2866,10 @@
     ],
     "bestSeason": "通年",
     "imageCredit": {
-      "author": "Balon Greyjoy",
-      "license": "CC0",
-      "url": "https://commons.wikimedia.org/wiki/File:20181111_Itsukushima_Shrine_torii-1.jpg",
-      "attributionRequired": false
+      "author": "Oilstreet",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:20181111_Itsukushima_Shrine_torii-2.jpg",
+      "attributionRequired": true
     }
   },
   {
@@ -3508,9 +3508,9 @@
     "bestSeason": "通年",
     "_accessAutoFixed": "honshuFlightRemoved",
     "imageCredit": {
-      "author": "安部 剛司（Ticket#2022041810005396において許諾申請済み）",
-      "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:%E7%BE%8E%E4%BF%9D%E9%96%A2.jpg",
+      "author": "eitarov",
+      "license": "CC BY 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3A%E7%BE%8E%E4%BF%9D%E9%96%A2_%E3%81%88%E3%81%B3%E3%81%99%E5%A4%A7%E8%A6%B3_%E6%9D%BE%E6%B1%9F%E5%B8%82%E7%BE%8E%E4%BF%9D%E9%96%A2%E7%94%BA_2016-09-03_(32699496765).jpg",
       "attributionRequired": true
     }
   },
@@ -3941,10 +3941,10 @@
     ],
     "bestSeason": "夏",
     "imageCredit": {
-      "author": "Geospatial Information Authority of Japan",
-      "license": "Attribution",
-      "url": "https://commons.wikimedia.org/wiki/File:Tokashiki_Island_gsi-200811.jpg",
-      "attributionRequired": false
+      "author": "L. K.",
+      "license": "CC BY 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3ATokashiku_Beach_on_Tokashiki_Island_Okinawa_2018.png",
+      "attributionRequired": true
     }
   },
   {
@@ -4824,7 +4824,13 @@
       "カップル向け",
       "友達と"
     ],
-    "bestSeason": "冬"
+    "bestSeason": "冬",
+    "imageCredit": {
+      "author": "Syced",
+      "license": "CC0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AAugust_2009%2C_Rain_in_Hakone_-87760.jpeg",
+      "attributionRequired": false
+    }
   },
   {
     "id": "shuzenji",
@@ -5676,7 +5682,13 @@
       "友達と",
       "東京に泊まるのがおすすめ"
     ],
-    "bestSeason": "夏"
+    "bestSeason": "夏",
+    "imageCredit": {
+      "author": "パッションウエイ",
+      "license": "CC BY 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AUM8A-297_%E2%91%A0_%E3%80%90%E4%BC%8A%E8%B1%86%E5%A4%A7%E5%B3%B6_%E5%9C%9F%E7%9F%B3%E6%B5%81%E7%81%BD%E5%AE%B3%E5%BE%A9%E8%88%88%E7%8F%BE%E5%A0%B4%E3%80%91%E3%82%88%E3%82%8A.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "shirakawago-t",
@@ -6319,9 +6331,9 @@
     ],
     "bestSeason": "冬",
     "imageCredit": {
-      "author": "Smiley.toerist",
-      "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Kinosaki-Onsen_station_2024_4.jpg",
+      "author": "663highland",
+      "license": "CC BY 2.5",
+      "url": "https://commons.wikimedia.org/wiki/File%3A161030_Kinosaki-Onsen_Station_Toyooka_Hyogo_pref_Japan01bs3.jpg",
       "attributionRequired": true
     }
   },
@@ -6527,7 +6539,13 @@
       "ひとり旅向け",
       "カップル向け"
     ],
-    "bestSeason": "通年"
+    "bestSeason": "通年",
+    "imageCredit": {
+      "author": "bryan... from Taipei, Taiwan",
+      "license": "CC BY 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3A%E5%B2%A1%E5%B1%B1%E7%9C%8C%E5%80%89%E6%95%B7%E5%B8%82%E5%80%89%E6%95%B7%E5%BA%97%2C_%E3%82%B9%E3%82%B7%E3%83%AD%E3%83%BC%E5%9B%9E%E8%BB%A2%E5%AF%BF%E5%8F%B8%2C_%E5%80%89%E6%95%B7%2C_Kurashiki%2C_%E5%B2%A1%E5%B1%B1%2C_Okayama_(6237910593).jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "shirahama-o",
@@ -6953,7 +6971,13 @@
       "友達と",
       "温泉がおすすめ"
     ],
-    "bestSeason": "秋"
+    "bestSeason": "秋",
+    "imageCredit": {
+      "author": "Felix Filnkoessl",
+      "license": "CC BY 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3ATakayama_(15485428565).jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "toba",
@@ -8239,10 +8263,10 @@
     ],
     "bestSeason": "通年",
     "imageCredit": {
-      "author": "Asturio Cantabrio",
-      "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Amakusa_Tourism_Center_ac.jpg",
-      "attributionRequired": true
+      "author": "まも",
+      "license": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File%3AAmakusa-airport.JPG",
+      "attributionRequired": false
     }
   },
   {
@@ -8451,9 +8475,9 @@
     ],
     "bestSeason": "通年",
     "imageCredit": {
-      "author": "_steffen",
-      "license": "CC BY-SA 2.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Hiraizumi%27s_surroundings,_Iwate_Prefecture;_August_2018_(03).jpg",
+      "author": "Datemasa",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AMichinoeki_Hiraizumi_02.JPG",
       "attributionRequired": true
     }
   },
@@ -8873,9 +8897,9 @@
     ],
     "bestSeason": "秋",
     "imageCredit": {
-      "author": "Asturio Cantabrio",
-      "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Aizuwakamatsu_Castle_ac_(3).jpg",
+      "author": "Okajun",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Aizuwakamatsu,_Fukushima_Oka.jpg",
       "attributionRequired": true
     }
   },
@@ -10755,7 +10779,13 @@
       "滝の絶景",
       "秘境感あり"
     ],
-    "bestSeason": "冬"
+    "bestSeason": "冬",
+    "imageCredit": {
+      "author": "VKaeru",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AShiretoko_National_Park_(panneau).jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "wajima",
@@ -13001,7 +13031,7 @@
     "imageCredit": {
       "author": "Mti",
       "license": "CC BY-SA 3.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Awaji_Onion.JPG",
+      "url": "https://commons.wikimedia.org/wiki/File%3AAwaji_chicken_Bajiru_Sand.jpg",
       "attributionRequired": true
     }
   },
@@ -13837,10 +13867,10 @@
     ],
     "bestSeason": "秋・冬",
     "imageCredit": {
-      "author": "禁樹なずな",
-      "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Hotel_Sankeien.JPG",
-      "attributionRequired": true
+      "author": "Unknown",
+      "license": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File%3A%E5%8C%97%E6%B5%B7%E9%81%93%E9%81%931%E5%8F%B7%E5%B0%8F%E6%A8%BD%E5%AE%9A%E5%B1%B1%E6%B8%93%E7%B7%9A.jpg",
+      "attributionRequired": false
     }
   },
   {
@@ -14289,7 +14319,13 @@
       "友達と",
       "海を眺める"
     ],
-    "bestSeason": "夏"
+    "bestSeason": "夏",
+    "imageCredit": {
+      "author": "ブルーノ・プラス",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AEarthquake_Memorial_Park_Nakanohama.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "sakata",
@@ -14705,9 +14741,9 @@
     ],
     "bestSeason": "夏・秋",
     "imageCredit": {
-      "author": "sk01",
+      "author": "User:Saimmx based on User:Takasunrise0921~commonswiki's work",
       "license": "CC BY-SA 3.0",
-      "url": "https://commons.wikimedia.org/wiki/File:%E9%AB%98%E5%8D%83%E7%A9%82%E4%B8%89%E6%AE%B5%E6%A9%8B_-_panoramio.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File%3ATakachiho_banner.jpg",
       "attributionRequired": true
     }
   },
@@ -15981,7 +16017,7 @@
     "imageCredit": {
       "author": "そらみみ",
       "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:View_from_Taikodani_Inari_Shrine_4.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File%3AView_from_Taikodani_Inari_Shrine_4.jpg",
       "attributionRequired": true
     }
   },
@@ -17216,9 +17252,9 @@
     ],
     "bestSeason": "冬",
     "imageCredit": {
-      "author": "SpringField1967",
+      "author": "Markmark28",
       "license": "CC BY-SA 3.0",
-      "url": "https://commons.wikimedia.org/wiki/File:%E4%B9%B3%E9%A0%AD%E6%B8%A9%E6%B3%89%E9%83%B7-%E9%B6%B4%E3%81%AE%E6%B9%AF_-_panoramio.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Tsurunoyu_onsen_rotenburo.JPG",
       "attributionRequired": true
     }
   },
@@ -17807,9 +17843,9 @@
     ],
     "bestSeason": "春",
     "imageCredit": {
-      "author": "Asturio Cantabrio",
-      "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Obuse_apple_orchard_ac_(1).jpg",
+      "author": "Bakkai at Japanese Wikipedia",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AObuse_town-office.jpg",
       "attributionRequired": true
     }
   },
@@ -18613,7 +18649,7 @@
     "imageCredit": {
       "author": "Hidaka-Nyo",
       "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:%E5%B3%B6%E6%A0%B9%E7%9C%8C%E5%A5%A5%E5%87%BA%E9%9B%B2%E7%94%BA%E3%80%8C%E3%81%8A%E3%82%8D%E3%81%A1%E3%83%AB%E3%83%BC%E3%83%97%E3%80%8D%E4%BB%98%E8%BF%91%E3%81%AE%E5%9B%BD%E9%81%93314%E5%8F%B7.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File%3A%E5%B3%B6%E6%A0%B9%E7%9C%8C%E5%A5%A5%E5%87%BA%E9%9B%B2%E7%94%BA%E3%80%8C%E3%81%8A%E3%82%8D%E3%81%A1%E3%83%AB%E3%83%BC%E3%83%97%E3%80%8D%E4%BB%98%E8%BF%91%E3%81%AE%E5%9B%BD%E9%81%93314%E5%8F%B7.jpg",
       "attributionRequired": true
     }
   },
@@ -18814,9 +18850,9 @@
     ],
     "bestSeason": "冬",
     "imageCredit": {
-      "author": "掬茶",
-      "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Takimi-tei_in_Ginzan_Onsen_20181006.jpg",
+      "author": "ブルーノ・プラス",
+      "license": "CC BY 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AGinzan_Onsen_Takimi_Bridge.jpg",
       "attributionRequired": true
     }
   },
@@ -19406,10 +19442,10 @@
     ],
     "bestSeason": "通年",
     "imageCredit": {
-      "author": "Vickerman625",
-      "license": "Public domain",
-      "url": "https://commons.wikimedia.org/wiki/File:Takehara_View.JPG",
-      "attributionRequired": false
+      "author": "Asturio Cantabrio",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3ATakehara_City_Hall_2021-03_ac.jpg",
+      "attributionRequired": true
     }
   },
   {
@@ -19612,7 +19648,13 @@
       "山岳ハイキング",
       "城下町散策"
     ],
-    "bestSeason": "秋"
+    "bestSeason": "秋",
+    "imageCredit": {
+      "author": "ペ有家音",
+      "license": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File%3A%E5%A6%BB%E7%B1%A0%E5%9F%8E%E3%83%BC%E6%9C%AC%E4%B8%B8%E8%B7%A1.JPG",
+      "attributionRequired": false
+    }
   },
   {
     "id": "magome",
@@ -21077,9 +21119,9 @@
     ],
     "bestSeason": "冬",
     "imageCredit": {
-      "author": "Kentaro Ohno from Tokyo, Japan",
-      "license": "CC BY 2.0",
-      "url": "https://commons.wikimedia.org/wiki/File:%E5%9B%9B%E4%B8%87%E6%B8%A9%E6%B3%89_%E4%B8%AD%E4%B9%8B%E6%9D%A1_2013_(9993444756).jpg",
+      "author": "photo: Qurren (talk) Taken with Canon PowerShot G9 X",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AKan-etsu_Kotsu_Kamada_office.jpg",
       "attributionRequired": true
     }
   },
@@ -23363,7 +23405,13 @@
       "友達と",
       "温泉がおすすめ"
     ],
-    "bestSeason": "冬"
+    "bestSeason": "冬",
+    "imageCredit": {
+      "author": "photo: Qurren (talk)\n\n Taken with Canon IXY 430F (Digital IXUS 245 HS)",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AMinakami_Onsenkyo_Hotel_Fujiwarago_2016-04.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "minami-aso",
@@ -23561,9 +23609,9 @@
     ],
     "bestSeason": "夏",
     "imageCredit": {
-      "author": "みなみあそ観光局",
-      "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:%E7%99%BD%E5%B7%9D%E6%B0%B4%E6%BA%90.jpg",
+      "author": "Sanjo",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AMt_Aso_from_Minamiaso_Hisaishi.JPG",
       "attributionRequired": true
     }
   },
@@ -23999,9 +24047,9 @@
     ],
     "bestSeason": "通年",
     "imageCredit": {
-      "author": "J o",
-      "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Iyonada_Monogatari_20170506-002.jpg",
+      "author": "Amake",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3A%C5%8Czu_from_atop_Tomisuyama.jpg",
       "attributionRequired": true
     }
   },
@@ -25794,7 +25842,13 @@
       "友達と",
       "街歩き向け"
     ],
-    "bestSeason": "通年"
+    "bestSeason": "通年",
+    "imageCredit": {
+      "author": "Asturio Cantabrio",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AHida-Furukawa_Matsuri_Hiroba_ac_(2).jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "bungo-takada",
@@ -26234,9 +26288,9 @@
     ],
     "bestSeason": "春",
     "imageCredit": {
-      "author": "くろふね",
+      "author": "くろふね (Kurofune)\n\n This photo was taken with Canon EOS 70D",
       "license": "CC BY 3.0",
-      "url": "https://commons.wikimedia.org/wiki/File:%E4%BC%8A%E8%B1%86%E9%AB%98%E5%8E%9F%E9%A7%85%E5%89%8D_-_panoramio.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File%3A%E4%BC%8A%E8%B1%86%E9%AB%98%E5%8E%9F%E9%A7%85_-_panoramio_(1).jpg",
       "attributionRequired": true
     }
   },
@@ -26875,7 +26929,13 @@
       "海を眺める",
       "城下町散策"
     ],
-    "bestSeason": "夏"
+    "bestSeason": "夏",
+    "imageCredit": {
+      "author": "ブルーノ・プラス",
+      "license": "CC BY 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AGion_Shrine_in_Nichinan_at_torii_gate.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "mojiko",
@@ -27063,11 +27123,7 @@
     "tier2": "area",
     "hubName": "福岡",
     "rentalCarRecommended": true,
-    "unsplashUrl": "https://images.unsplash.com/photo-1678624634758-98fa97343297?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTklOTYlODAlRTUlOEYlQjglRTYlQjglQUYlRTMlODMlQUMlRTMlODMlODglRTMlODMlQUQlMjAlRTklOTYlODAlRTUlOEYlQjglRTYlQjglQUZ8ZW58MHwwfHx8MTc3ODQxOTQzOXww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1678624634758-98fa97343297?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTklOTYlODAlRTUlOEYlQjglRTYlQjglQUYlRTMlODMlQUMlRTMlODMlODglRTMlODMlQUQlMjAlRTklOTYlODAlRTUlOEYlQjglRTYlQjglQUZ8ZW58MHwwfHx8MTc3ODQxOTQzOXww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Kumi Jang",
-    "unsplashCreditUrl": "https://unsplash.com/@hgk_tnt?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-large-wooden-structure-sitting-in-the-middle-of-a-body-of-water-5pYkMICLUFY?utm_source=dokoiko&utm_medium=referral",
     "images": [
       "/images/mojiko/main.jpg",
       "/images/mojiko/spot-1.jpg",
@@ -27086,9 +27142,9 @@
     ],
     "bestSeason": "夏",
     "imageCredit": {
-      "author": "663highland",
-      "license": "CC BY 2.5",
-      "url": "https://commons.wikimedia.org/wiki/File:140721_Mojiko_Retro_Kitakyushu_Japan01s3.jpg",
+      "author": "そらみみ",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AMojiko_Station_20190831.jpg",
       "attributionRequired": true
     }
   },
@@ -27527,7 +27583,13 @@
       "友達と",
       "城下町散策"
     ],
-    "bestSeason": "夏"
+    "bestSeason": "夏",
+    "imageCredit": {
+      "author": "Image taken by Chris 73 in December 2004",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AShimabara_castle_02_r_2004.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "tsuruga",
@@ -27734,9 +27796,9 @@
     ],
     "bestSeason": "夏",
     "imageCredit": {
-      "author": "663highland",
-      "license": "CC BY 2.5",
-      "url": "https://commons.wikimedia.org/wiki/File:150228_Kehi-jingu_Tsuruga_Fukui_pref_Japan10n.jpg",
+      "author": "Sharon Hahn Darlin",
+      "license": "CC BY 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3ATsuruga_%E6%95%A6%E8%B3%80_Fukui_Prefecture%2C_Japan_-_window_view_2024-09-12.jpg",
       "attributionRequired": true
     }
   },
@@ -28696,10 +28758,10 @@
     ],
     "bestSeason": "冬",
     "imageCredit": {
-      "author": "melvil",
-      "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Lake-akan_and_Mt-ahoro.jpg",
-      "attributionRequired": true
+      "author": "Soica2001 (talk)",
+      "license": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File%3AAkanko_Onsen-gai.JPG",
+      "attributionRequired": false
     }
   },
   {
@@ -30357,9 +30419,9 @@
     "bestSeason": "冬",
     "_accessAutoFixed": "honshuFlightRemoved",
     "imageCredit": {
-      "author": "くろふね",
-      "license": "CC BY 3.0",
-      "url": "https://commons.wikimedia.org/wiki/File:%E4%BA%94%E6%89%80%E5%B7%9D%E5%8E%9F%E9%A7%85_-_panoramio_(3).jpg",
+      "author": "Tatata",
+      "license": "CC BY-SA",
+      "url": "https://commons.wikimedia.org/wiki/File%3AJP_Aomori_Goshogawara_City_Location.png",
       "attributionRequired": true
     }
   },
@@ -30972,8 +31034,8 @@
     "bestSeason": "夏",
     "imageCredit": {
       "author": "くろふね",
-      "license": "CC BY 3.0",
-      "url": "https://commons.wikimedia.org/wiki/File:%E9%8A%9A%E5%AD%90%E6%BC%81%E6%B8%AF%E4%B8%AD%E5%A4%AE%E5%B8%82%E5%A0%B4_-_panoramio_(2).jpg",
+      "license": "CC BY 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3A%E3%82%B5%E3%83%AB%E3%82%A8%E3%83%93%E3%81%8B%E3%81%8D%E6%8F%9A%E3%81%92%EF%BC%88%E7%8A%AC%E8%8B%A5%E9%A3%9F%E5%A0%82%E3%83%BB%E5%8D%83%E8%91%89%E7%9C%8C%E9%8A%9A%E5%AD%90%E5%B8%82%E7%8A%AC%E8%8B%A5%EF%BC%8920250222-P1064474.jpg",
       "attributionRequired": true
     }
   },
@@ -31789,11 +31851,7 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "甲府",
-    "unsplashUrl": "https://images.unsplash.com/photo-1755503171814-ad916ac2b98c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTYlQjglODUlRTYlQjMlODklRTUlQUYlQUUlMjAlRTYlQjglODUlRTklODclOEN8ZW58MHwwfHx8MTc3ODQxOTY1Nnww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1755503171814-ad916ac2b98c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTYlQjglODUlRTYlQjMlODklRTUlQUYlQUUlMjAlRTYlQjglODUlRTklODclOEN8ZW58MHwwfHx8MTc3ODQxOTY1Nnww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Abhayaranya Yoga Ashram",
-    "unsplashCreditUrl": "https://unsplash.com/@abhayaranyayoga?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/misty-mountains-with-traditional-buildings-and-lush-greenery-cXTnmoudxoM?utm_source=dokoiko&utm_medium=referral",
     "rentalCarRecommended": true,
     "images": [
       "/images/kiyosato/main.jpg",
@@ -31814,7 +31872,7 @@
     "imageCredit": {
       "author": "663highland",
       "license": "CC BY 2.5",
-      "url": "https://commons.wikimedia.org/wiki/File:In_front_of_Kiyosato_Station01n4592.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File%3AIn_front_of_Kiyosato_Station03n4592.jpg",
       "attributionRequired": true
     }
   },
@@ -33017,11 +33075,7 @@
     "tier2": "spot",
     "hubName": "静岡",
     "rentalCarRecommended": false,
-    "unsplashUrl": "https://images.unsplash.com/photo-1752027634847-f898a2a6cae2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclOUYlQjMlRTUlQkIlOEElRTUlQjQlOEUlMjAlRTUlOEQlOTclRTQlQkMlOEElRTglQjElODZ8ZW58MHwwfHx8MTc3ODQyMDAxOXww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1752027634847-f898a2a6cae2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclOUYlQjMlRTUlQkIlOEElRTUlQjQlOEUlMjAlRTUlOEQlOTclRTQlQkMlOEElRTglQjElODZ8ZW58MHwwfHx8MTc3ODQyMDAxOXww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "王 开心",
-    "unsplashCreditUrl": "https://unsplash.com/@wbbz?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/cliffside-scenery-meets-the-beautiful-vast-ocean-Ck0nprqu3wo?utm_source=dokoiko&utm_medium=referral",
     "isIsland": false,
     "images": [
       "/images/minami-izu/main.jpg",
@@ -33042,7 +33096,7 @@
     "imageCredit": {
       "author": "くろふね",
       "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:%E3%81%BF%E3%81%AA%E3%81%BF%E3%81%AE%E6%A1%9C%E3%81%A8%E8%8F%9C%E3%81%AE%E8%8A%B101.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File%3A%E3%81%BF%E3%81%AA%E3%81%BF%E3%81%AE%E6%A1%9C%E3%81%A8%E8%8F%9C%E3%81%AE%E8%8A%B101.jpg",
       "attributionRequired": true
     }
   },
@@ -33656,9 +33710,9 @@
     ],
     "bestSeason": "夏",
     "imageCredit": {
-      "author": "Motokoka",
+      "author": "Marantz7",
       "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Scenery_from_Otogi_pass,_Iga_01.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File%3A%E3%83%9F%E3%82%A8%E3%82%BE%E3%82%A6%E3%81%AE%E8%B6%B3%E8%B7%A1%EF%BC%88%E4%B8%89%E9%87%8D%E7%9C%8C%E4%BC%8A%E8%B3%80%E5%B8%82_%E3%81%9B%E3%81%9B%E3%82%89%E3%81%8E%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92%EF%BC%89.jpg",
       "attributionRequired": true
     }
   },
@@ -33857,10 +33911,10 @@
     ],
     "bestSeason": "通年",
     "imageCredit": {
-      "author": "663highland",
-      "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:251206_Kashihara_Shrine_Kashihara_Nara_pref_Japan02s3.jpg",
-      "attributionRequired": true
+      "author": "Fg2",
+      "license": "Public Domain",
+      "url": "https://commons.wikimedia.org/wiki/File:Kashihara_M6485.jpg",
+      "attributionRequired": false
     }
   },
   {
@@ -34464,11 +34518,7 @@
     "icCard": "icoca",
     "tier2": "spot",
     "hubName": "大阪",
-    "unsplashUrl": "https://images.unsplash.com/photo-1658124927541-88caf09d15d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclOUYlQjMlRTglODglOUUlRTUlOEYlQjAlRTUlOEYlQTQlRTUlQTIlQjMlMjAlRTklQTMlOUIlRTklQjMlQTV8ZW58MHwwfHx8MTc3ODQyMDMwOHww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1658124927541-88caf09d15d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclOUYlQjMlRTglODglOUUlRTUlOEYlQjAlRTUlOEYlQTQlRTUlQTIlQjMlMjAlRTklQTMlOUIlRTklQjMlQTV8ZW58MHwwfHx8MTc3ODQyMDMwOHww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Kouji Tsuru",
-    "unsplashCreditUrl": "https://unsplash.com/@pafuxu?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-tree-growing-out-of-a-wooden-structure-FQAtmqrimP0?utm_source=dokoiko&utm_medium=referral",
     "rentalCarRecommended": false,
     "images": [
       "/images/asuka/main.jpg",
@@ -34485,7 +34535,13 @@
       "友達と",
       "ゆっくり滞在"
     ],
-    "bestSeason": "通年"
+    "bestSeason": "通年",
+    "imageCredit": {
+      "author": "Ogawa Seiyō",
+      "license": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File%3A%E5%B0%8F%E5%B7%9D%E6%99%B4%E6%9A%98%E6%92%AE%E5%BD%B1%E3%80%8A%E8%A6%B3%E9%9F%B3%E8%8F%A9%E8%96%A9%E7%AB%8B%E5%83%8F%EF%BC%88%E7%99%BE%E6%B8%88%E8%A6%B3%E9%9F%B3%EF%BC%89%E3%80%8B7%E4%B8%96%E7%B4%80%E3%80%81%E9%A3%9B%E9%B3%A5%E6%99%82%E4%BB%A3%E3%80%81%E6%B3%95%E9%9A%86%E5%AF%BA%E3%80%81%E5%A5%88%E8%89%AF_2.jpg",
+      "attributionRequired": false
+    }
   },
   {
     "id": "daisen",
@@ -35064,11 +35120,7 @@
     "icCard": "icoca",
     "tier2": "spot",
     "hubName": "松江",
-    "unsplashUrl": "https://images.unsplash.com/photo-1776998948529-39d7a10ad975?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclOUYlQjMlRTglQTYlOEIlRTklOEElODAlRTUlQjElQjElMjAlRTUlQjMlQjYlRTYlQTAlQjklRTclOUMlOEMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODM0MjA5NHww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1776998948529-39d7a10ad975?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclOUYlQjMlRTglQTYlOEIlRTklOEElODAlRTUlQjElQjElMjAlRTUlQjMlQjYlRTYlQTAlQjklRTclOUMlOEMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODM0MjA5NHww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "t Penguin",
-    "unsplashCreditUrl": "https://unsplash.com/@tpenguin?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/lush-green-forest-on-a-sunny-day-CQecBSJOb5s?utm_source=dokoiko&utm_medium=referral",
     "rentalCarRecommended": true,
     "images": [
       "/images/iwami-ginzan/main.jpg",
@@ -35087,9 +35139,9 @@
     ],
     "bestSeason": "夏",
     "imageCredit": {
-      "author": "663highland",
+      "author": "Naokijp",
       "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:180505_Iwami_Ginzan_Silver_Mine_Museum_Oda_Shimane_pref_Japan01s3.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File%3AShimizudani_Refinery_Ruins_at_Iwami_Ginzan_Silver_Mine_001.jpg",
       "attributionRequired": true
     }
   },
@@ -35277,11 +35329,7 @@
     "icCard": "icoca",
     "tier2": "area",
     "hubName": "広島",
-    "unsplashUrl": "https://images.unsplash.com/photo-1761052878123-7c077ecea633?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTklOEMlQTYlRTUlQjglQUYlRTYlQTklOEIlMjAlRTUlQjIlQTklRTUlOUIlQkR8ZW58MHwwfHx8MTc3ODQyMDQ1NHww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1761052878123-7c077ecea633?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTklOEMlQTYlRTUlQjglQUYlRTYlQTklOEIlMjAlRTUlQjIlQTklRTUlOUIlQkR8ZW58MHwwfHx8MTc3ODQyMDQ1NHww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Andy Arbeit",
-    "unsplashCreditUrl": "https://unsplash.com/@izeberg?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/red-bridge-over-a-river-in-a-lush-green-forest-RhDtN8Kr0MY?utm_source=dokoiko&utm_medium=referral",
     "rentalCarRecommended": true,
     "images": [
       "/images/iwakuni/main.jpg",
@@ -35301,9 +35349,9 @@
     "bestSeason": "春",
     "_accessAutoFixed": "honshuFlightRemoved",
     "imageCredit": {
-      "author": "Jakub Hałun",
+      "author": "Kuma83",
       "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:20100724_Iwakuni_5235.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File%3A%E5%B1%B1%E5%8F%A3%E7%9C%8C%E5%B2%A9%E5%9B%BD%E5%B8%82_%E9%9E%8D%E6%8E%9B%E5%B1%B1.jpg",
       "attributionRequired": true
     }
   },
@@ -36114,7 +36162,13 @@
       "海を眺める",
       "秘境感あり"
     ],
-    "bestSeason": "夏"
+    "bestSeason": "夏",
+    "imageCredit": {
+      "author": "ブルーノ・プラス",
+      "license": "CC BY 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AKashiwajima_Tourist_Information_Center.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "saijo",
@@ -36490,11 +36544,7 @@
     "icCard": "icoca",
     "tier2": "spot",
     "hubName": "高知",
-    "unsplashUrl": "https://images.unsplash.com/photo-1733918012842-3eccb5aa260a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTYlODQlOUIlRTUlOEQlOTclMjAlRTYlODQlOUIlRTUlQUElOUIlRTclOUMlOEMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODM0MjEwMnww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1733918012842-3eccb5aa260a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTYlODQlOUIlRTUlOEQlOTclMjAlRTYlODQlOUIlRTUlQUElOUIlRTclOUMlOEMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODM0MjEwMnww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Kazuhiro Yoshimura",
-    "unsplashCreditUrl": "https://unsplash.com/@_kazuhiro_?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-walkway-in-a-park-lined-with-trees-with-orange-and-red-leaves-QGSg8tS0vrY?utm_source=dokoiko&utm_medium=referral",
     "rentalCarRecommended": true,
     "images": [
       "/images/ainan/main.jpg",
@@ -36510,7 +36560,13 @@
       "友達と",
       "海を眺める"
     ],
-    "bestSeason": "冬"
+    "bestSeason": "冬",
+    "imageCredit": {
+      "author": "運動会プロテインパワー",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AAinan_town_Iekushi_elementary_school.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "taketa",
@@ -38561,11 +38617,7 @@
     "icCard": "nimoca",
     "tier2": "spot",
     "hubName": "熊本",
-    "unsplashUrl": "https://images.unsplash.com/photo-1697871966140-0f2312f78362?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTglOEYlOEElRTYlQjElQTAlMjAlRTclODYlOEElRTYlOUMlQUMlRTclOUMlOEMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODM0MjExMnww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1697871966140-0f2312f78362?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTglOEYlOEElRTYlQjElQTAlMjAlRTclODYlOEElRTYlOUMlQUMlRTclOUMlOEMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODM0MjExMnww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Hiroyuki Sen",
-    "unsplashCreditUrl": "https://unsplash.com/@hiroyukisenn?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-body-of-water-surrounded-by-trees-and-rocks-bSNXwXMV8-4?utm_source=dokoiko&utm_medium=referral",
     "rentalCarRecommended": true,
     "images": [
       "/images/kikuchi/main.jpg",
@@ -38582,7 +38634,13 @@
       "カップル向け",
       "友達と"
     ],
-    "bestSeason": "冬"
+    "bestSeason": "冬",
+    "imageCredit": {
+      "author": "隈部浩直",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3A%E7%86%8A%E6%9C%AC%E7%9C%8C%E8%8F%8A%E6%B1%A0%E5%B8%82%E7%AB%8B%E8%8F%8A%E6%B1%A0%E5%8D%97%E4%B8%AD%E5%AD%A6%E6%A0%A1.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "taketomi-island",
@@ -39688,7 +39746,13 @@
       "友達と",
       "那覇に泊まるのがおすすめ"
     ],
-    "bestSeason": "夏"
+    "bestSeason": "夏",
+    "imageCredit": {
+      "author": "hashi photo",
+      "license": "CC BY 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3ATakatuki_View_in_Zamami_Island_Okinawa001.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "ie-island",
@@ -40114,7 +40178,13 @@
       "友達と",
       "那覇に泊まるのがおすすめ"
     ],
-    "bestSeason": "夏"
+    "bestSeason": "夏",
+    "imageCredit": {
+      "author": "Junpei Abe",
+      "license": "CC BY 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AAerial_view_of_Ishigaki_island_Taketomi_and_Kohama_2014.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "matsushiro",
@@ -40887,11 +40957,7 @@
     "icCard": "icoca",
     "tier2": "area",
     "hubName": "岡山",
-    "unsplashUrl": "https://images.unsplash.com/photo-1635156422247-3d4a062cf545?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTYlQjQlQTUlRTUlQjElQjElMjAlRTUlQjIlQTElRTUlQjElQjElRTclOUMlOEMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODM0MjExOXww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1635156422247-3d4a062cf545?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTYlQjQlQTUlRTUlQjElQjElMjAlRTUlQjIlQTElRTUlQjElQjElRTclOUMlOEMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODM0MjExOXww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Chengrui Lin",
-    "unsplashCreditUrl": "https://unsplash.com/@chengrui?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-lush-green-valley-surrounded-by-mountains-peDsF_Bw6AU?utm_source=dokoiko&utm_medium=referral",
     "rentalCarRecommended": true,
     "images": [
       "/images/tsuyama/main.jpg",
@@ -40909,7 +40975,13 @@
       "ひとり旅向け"
     ],
     "bestSeason": "春",
-    "_accessAutoFixed": "honshuFlightRemoved"
+    "_accessAutoFixed": "honshuFlightRemoved",
+    "imageCredit": {
+      "author": "VZP10224",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3ATsuyama_Funatsukiba_01.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "tsurugi-san",
@@ -41857,11 +41929,7 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "盛岡",
-    "unsplashUrl": "https://images.unsplash.com/photo-1728953899138-d01c2d5a8caf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTQlQjklODUlRTYlODUlODglRTclOTAlQTUlRTclOEYlODAlRTUlOEQlOUElRTclODklQTklRTklQTQlQTglMjAlRTQlQjklODUlRTYlODUlODh8ZW58MHwwfHx8MTc3ODQyMTMyM3ww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1728953899138-d01c2d5a8caf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTQlQjklODUlRTYlODUlODglRTclOTAlQTUlRTclOEYlODAlRTUlOEQlOUElRTclODklQTklRTklQTQlQTglMjAlRTQlQjklODUlRTYlODUlODh8ZW58MHwwfHx8MTc3ODQyMTMyM3ww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "XS Xue",
-    "unsplashCreditUrl": "https://unsplash.com/@kngstm?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-small-building-with-a-lot-of-chairs-in-front-of-it-LDo_qqAV5ZI?utm_source=dokoiko&utm_medium=referral",
     "rentalCarRecommended": true,
     "images": [
       "/images/kuji/main.jpg",
@@ -41880,9 +41948,9 @@
     ],
     "bestSeason": "夏",
     "imageCredit": {
-      "author": "くろふね",
-      "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:%E4%B9%85%E6%85%88%E7%A7%8B%E3%81%BE%E3%81%A4%E3%82%8A.jpg",
+      "author": "Toomore Chiang from Taipei, Taiwan",
+      "license": "CC BY 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3A%E5%B0%8F%E8%A2%96%E6%B5%B7%E5%B2%B8%EF%BC%88Kosode_kaigan%EF%BC%89%E5%B2%A9%E6%89%8B%E7%9C%8C%E4%B9%85%E6%85%88%E5%B8%82_(21322994565).jpg",
       "attributionRequired": true
     }
   },
@@ -43580,11 +43648,7 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "山形",
-    "unsplashUrl": "https://images.unsplash.com/photo-1640785358091-e1a4dfa721e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlQjElQjElRTUlQUYlQkElMjAlRTUlQjElQjElRTUlQkQlQTIlRTclOUMlOEMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODM0MjEzMXww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1640785358091-e1a4dfa721e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlQjElQjElRTUlQUYlQkElMjAlRTUlQjElQjElRTUlQkQlQTIlRTclOUMlOEMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODM0MjEzMXww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "enkuu smile",
-    "unsplashCreditUrl": "https://unsplash.com/@enkuu?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-tall-red-building-sitting-in-the-middle-of-a-forest-_UmJq07rKmw?utm_source=dokoiko&utm_medium=referral",
     "rentalCarRecommended": true,
     "images": [
       "/images/yamadera/main.jpg",
@@ -43605,9 +43669,9 @@
     "bestSeason": "夏",
     "_accessAutoFixed": "honshuFlightRemoved",
     "imageCredit": {
-      "author": "663highland",
+      "author": "Cp9asngf",
       "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:211029_Risshaku-ji_Yamagata_Yamagata_pref_Japan65s3.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File%3ARisshaku-ji_konponchudo.jpg",
       "attributionRequired": true
     }
   },
@@ -44010,10 +44074,10 @@
     ],
     "bestSeason": "冬",
     "imageCredit": {
-      "author": "Abasaa",
-      "license": "Public domain",
-      "url": "https://commons.wikimedia.org/wiki/File:Ikaho_Onsen_Ishidan_03.JPG",
-      "attributionRequired": false
+      "author": "Tomo",
+      "license": "CC BY 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AIkaho_Onsen_02.jpg",
+      "attributionRequired": true
     }
   },
   {
@@ -45251,9 +45315,9 @@
     ],
     "bestSeason": "通年",
     "imageCredit": {
-      "author": "迷惘的人生",
-      "license": "CC BY-SA 2.0",
-      "url": "https://commons.wikimedia.org/wiki/File:%E9%95%B7%E9%87%8E%E8%A1%97%E9%A0%AD-%E5%A5%88%E8%89%AF%E4%BA%95%E5%AE%BF_(52612469531).jpg",
+      "author": "くろふね",
+      "license": "CC BY 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3A%E5%A5%88%E8%89%AF%E4%BA%95%E5%AE%BF_-_panoramio_(10).jpg",
       "attributionRequired": true
     }
   },
@@ -45639,11 +45703,7 @@
     "tier2": "area",
     "hubName": "新潟",
     "rentalCarRecommended": false,
-    "unsplashUrl": "https://images.unsplash.com/photo-1666503633348-809591f8b9b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTYlOUQlOTElRTQlQjglOEElRTUlOUYlOEUlRTglQjclQTElMjAlRTYlOUQlOTElRTQlQjglOEF8ZW58MHwwfHx8MTc3ODQyMTY4Nnww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1666503633348-809591f8b9b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTYlOUQlOTElRTQlQjglOEElRTUlOUYlOEUlRTglQjclQTElMjAlRTYlOUQlOTElRTQlQjglOEF8ZW58MHwwfHx8MTc3ODQyMTY4Nnww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Freezer",
-    "unsplashCreditUrl": "https://unsplash.com/@freezer_nico?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-landscape-with-hills-and-trees-F5HjcTFtiqw?utm_source=dokoiko&utm_medium=referral",
     "images": [
       "/images/murakami/main.jpg",
       "/images/murakami/spot-1.jpg",
@@ -45662,9 +45722,9 @@
     ],
     "bestSeason": "冬",
     "imageCredit": {
-      "author": "皓月旗",
-      "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Murakami_2-Aug-2020.jpg",
+      "author": "friendD",
+      "license": "CC BY 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AMurakami_Station_-_%E6%9D%91%E4%B8%8A%E9%A7%85%EF%BC%88%E6%96%B0%E6%BD%9F%E7%9C%8C%EF%BC%89_-_panoramio.jpg",
       "attributionRequired": true
     }
   },
@@ -46641,11 +46701,7 @@
     "tier2": "area",
     "hubName": "新潟",
     "rentalCarRecommended": true,
-    "unsplashUrl": "https://images.unsplash.com/photo-1558769702-7266768bc8e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTklOTUlQjclRTUlQjIlQTElRTglOEElQjElRTclODElQUIlMjAlRTklOTUlQjclRTUlQjIlQTF8ZW58MHwwfHx8MTc3ODQyMjA0OXww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1558769702-7266768bc8e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTklOTUlQjclRTUlQjIlQTElRTglOEElQjElRTclODElQUIlMjAlRTklOTUlQjclRTUlQjIlQTF8ZW58MHwwfHx8MTc3ODQyMjA0OXww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Tomo Ueda",
-    "unsplashCreditUrl": "https://unsplash.com/@dappi_official?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/aerial-photography-of-concrete-building-ydXMXutgNNw?utm_source=dokoiko&utm_medium=referral",
     "images": [
       "/images/nagaoka/main.jpg",
       "/images/nagaoka/spot-1.jpg",
@@ -46664,9 +46720,9 @@
     ],
     "bestSeason": "夏",
     "imageCredit": {
-      "author": "redlegsfan21",
-      "license": "CC BY-SA 2.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Nagaoka_from_the_sky.jpg",
+      "author": "Kzaral",
+      "license": "CC BY 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AAo-re_Nagaoka_20140430_02.jpg",
       "attributionRequired": true
     }
   },
@@ -47698,11 +47754,7 @@
     "tier2": "area",
     "hubName": "京都",
     "rentalCarRecommended": false,
-    "unsplashUrl": "https://images.unsplash.com/photo-1713754758912-33fef74ce888?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTQlQkMlOEYlRTglQTYlOEIlRTclQTglQjIlRTglOEQlQjclRTUlQTQlQTclRTclQTQlQkUlMjAlRTQlQkMlOEYlRTglQTYlOEJ8ZW58MHwwfHx8MTc3ODQyMjQxMnww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1713754758912-33fef74ce888?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTQlQkMlOEYlRTglQTYlOEIlRTclQTglQjIlRTglOEQlQjclRTUlQTQlQTclRTclQTQlQkUlMjAlRTQlQkMlOEYlRTglQTYlOEJ8ZW58MHwwfHx8MTc3ODQyMjQxMnww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "coepit",
-    "unsplashCreditUrl": "https://unsplash.com/@coepit?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-moss-covered-roof-with-a-plant-growing-out-of-it-1oPenvtHnkM?utm_source=dokoiko&utm_medium=referral",
     "images": [
       "/images/fushimi/main.jpg",
       "/images/fushimi/spot-1.jpg",
@@ -47720,9 +47772,9 @@
     ],
     "bestSeason": "春",
     "imageCredit": {
-      "author": "さかおり",
-      "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Ryu-unji_temple_gate._Fushimi-ku,_Kyoto.jpg",
+      "author": "Bakkai",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AFushimi_stn_Kintetsu.jpg",
       "attributionRequired": true
     }
   },
@@ -49556,11 +49608,7 @@
     "tier2": "spot",
     "hubName": "宮崎",
     "rentalCarRecommended": true,
-    "unsplashUrl": "https://images.unsplash.com/photo-1755585021243-5a7339d910b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTklQTYlQUMlRTMlODMlQjYlRTglODMlOEMlMjAlRTYlOTclQTUlRTUlOTAlOTF8ZW58MHwwfHx8MTc3ODQyNzM4NXww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1755585021243-5a7339d910b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTklQTYlQUMlRTMlODMlQjYlRTglODMlOEMlMjAlRTYlOTclQTUlRTUlOTAlOTF8ZW58MHwwfHx8MTc3ODQyNzM4NXww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "kian zhang",
-    "unsplashCreditUrl": "https://unsplash.com/@hellokian?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/lush-green-rolling-hills-with-scattered-trees-under-a-clear-sky-K9AXn5ItJWE?utm_source=dokoiko&utm_medium=referral",
     "images": [
       "/images/hyuga/main.jpg",
       "/images/hyuga/spot-1.jpg",
@@ -49579,10 +49627,10 @@
     ],
     "bestSeason": "通年",
     "imageCredit": {
-      "author": "長曽我部政幸",
-      "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:%E9%A6%AC%E3%83%B6%E8%83%8C%E8%8C%B6%E5%B1%8B%EF%BC%88%E9%A6%AC%E3%83%B6%E8%83%8C%E8%A6%B3%E5%85%89%E6%A1%88%E5%86%85%E6%89%80%EF%BC%89.jpg",
-      "attributionRequired": true
+      "author": "Jun777-co-jp",
+      "license": "CC0",
+      "url": "https://commons.wikimedia.org/wiki/File%3A%E5%AE%AE%E5%B4%8E%E7%9C%8C_%E6%97%A5%E5%90%91%E5%B8%82_%E7%B4%B0%E5%B3%B6.jpg",
+      "attributionRequired": false
     }
   },
   {
@@ -50621,11 +50669,7 @@
     "icCard": null,
     "tier2": "area",
     "hubName": "那覇",
-    "unsplashUrl": "https://images.unsplash.com/photo-1583726933193-a8f50d90c0a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlOTAlOEQlRTglQUQlQjclMjAlRTYlQjIlOTYlRTclQjglODQlRTclOUMlOEMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODM3NDExNnww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1583726933193-a8f50d90c0a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlOTAlOEQlRTglQUQlQjclMjAlRTYlQjIlOTYlRTclQjglODQlRTclOUMlOEMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODM3NDExNnww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Hiroko Yoshii",
-    "unsplashCreditUrl": "https://unsplash.com/@hiro0718?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/white-and-blue-sky-over-city-and-sea-during-daytime-qbl9o0iU4X8?utm_source=dokoiko&utm_medium=referral",
     "rentalCarRecommended": true,
     "images": [
       "/images/nago/main.jpg",
@@ -50643,9 +50687,9 @@
     ],
     "bestSeason": "夏",
     "imageCredit": {
-      "author": "Kugel~commonswiki",
-      "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Eaves_of_Nago_City_Office_202504_01.jpg",
+      "author": "(c) Takaaki Hattori, some rights reserved (CC BY)",
+      "license": "CC BY 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3ACtenoides_lischkei%2C_%E7%80%AC%E5%B5%A9%2C_%E5%90%8D%E8%AD%B7%E5%B8%82%2C_%E6%B2%96%E7%B8%84%E7%9C%8C%2C_JP_imported_from_iNaturalist_photo_94293765.jpg",
       "attributionRequired": true
     }
   },
@@ -55131,7 +55175,13 @@
       "ひとり旅向け",
       "カップル向け"
     ],
-    "bestSeason": "夏"
+    "bestSeason": "夏",
+    "imageCredit": {
+      "author": "Batholith",
+      "license": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File%3AFujinomiya_20120909.jpg",
+      "attributionRequired": false
+    }
   },
   {
     "id": "norikura",
@@ -56723,9 +56773,9 @@
     ],
     "bestSeason": "夏",
     "imageCredit": {
-      "author": "Asturio Cantabrio",
+      "author": "Miyuki Meinaka",
       "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Matsusaka_City_Tourist_Information_Center_ac.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File%3AMatsusaka_Beef_Sushi_by_Uobei.jpg",
       "attributionRequired": true
     }
   },
@@ -58198,7 +58248,13 @@
       "高松に泊まるのがおすすめ",
       "離島の絶景"
     ],
-    "bestSeason": "通年"
+    "bestSeason": "通年",
+    "imageCredit": {
+      "author": "Naoharu",
+      "license": "CC BY 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3A%E5%94%90%E6%AB%83%E3%81%AE%E6%B8%85%E6%B0%B4_%E8%B1%8A%E5%B3%B6_%E9%A6%99%E5%B7%9D%E7%9C%8C_Mar_27%2C_2013.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "niyodogawa",
@@ -60680,7 +60736,13 @@
       "友達と",
       "那覇に泊まるのがおすすめ"
     ],
-    "bestSeason": "夏"
+    "bestSeason": "夏",
+    "imageCredit": {
+      "author": "Kugel~commonswiki",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AView_of_Aguni_Island_seen_from_Tonaki_Island_202407_01.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "itoman",
@@ -61749,11 +61811,7 @@
     "icCard": null,
     "tier2": "spot",
     "hubName": "東京",
-    "unsplashUrl": "https://images.unsplash.com/photo-1596016021077-2151d3a6f280?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTYlOTYlQjAlRTUlQjMlQjYlMjAlRTYlOUQlQjElRTQlQkElQUMlRTklODMlQkQlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODM3NTM1MHww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1596016021077-2151d3a6f280?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTYlOTYlQjAlRTUlQjMlQjYlMjAlRTYlOUQlQjElRTQlQkElQUMlRTklODMlQkQlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODM3NTM1MHww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Wee Ping Khoo",
-    "unsplashCreditUrl": "https://unsplash.com/@pingsterrrr?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/white-and-brown-boat-on-sea-dock-during-daytime-Rarub4uQfhY?utm_source=dokoiko&utm_medium=referral",
     "rentalCarRecommended": false,
     "images": [
       "/images/niijima/main.jpg",
@@ -61770,7 +61828,13 @@
       "友達と",
       "東京に泊まるのがおすすめ"
     ],
-    "bestSeason": "夏"
+    "bestSeason": "夏",
+    "imageCredit": {
+      "author": "ブルーノ・プラス",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AInside_the_Niijima_airport_teaminal.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "shikinejima",
@@ -62908,11 +62972,7 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "盛岡",
-    "unsplashUrl": "https://images.unsplash.com/photo-1701594151572-5e8324979b88?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTQlQjglODAlRTklOTYlQTIlMjAlRTUlQjIlQTklRTYlODklOEIlRTclOUMlOEMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODM3NTY0MHww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1701594151572-5e8324979b88?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTQlQjglODAlRTklOTYlQTIlMjAlRTUlQjIlQTklRTYlODklOEIlRTclOUMlOEMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODM3NTY0MHww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Jun Ohashi",
-    "unsplashCreditUrl": "https://unsplash.com/@juntarou555?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-wooden-structure-with-lots-of-notes-attached-to-it-5l0HSpe58N4?utm_source=dokoiko&utm_medium=referral",
     "rentalCarRecommended": false,
     "images": [
       "/images/ichinoseki/main.jpg",
@@ -62932,10 +62992,10 @@
     ],
     "bestSeason": "秋",
     "imageCredit": {
-      "author": "Indiana jo",
-      "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:%E9%AA%A8%E5%AF%BA%E6%9D%91%E8%8D%98%E5%9C%92%EF%BC%88%E4%B8%80%E9%96%A2%E6%9C%AC%E5%AF%BA%EF%BC%892.jpg",
-      "attributionRequired": true
+      "author": "とらもん192",
+      "license": "CC0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AMitake_Shrine_in_Ichinoseki%2C_Iwate_(%E5%B2%A9%E6%89%8B%E7%9C%8C%E4%B8%80%E9%96%A2%E5%B8%82%E5%8D%83%E5%8E%A9%E7%94%BA).jpg",
+      "attributionRequired": false
     }
   },
   {
@@ -64244,10 +64304,10 @@
     ],
     "bestSeason": "春・夏",
     "imageCredit": {
-      "author": "Shaun Streeper",
-      "license": "Public domain",
-      "url": "https://commons.wikimedia.org/wiki/File:Ships_docked_at_Yokosuka,_Japan.jpg",
-      "attributionRequired": false
+      "author": "水だらけのプール",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AYokosuka_Montage.jpg",
+      "attributionRequired": true
     }
   },
   {
@@ -66276,11 +66336,7 @@
     "icCard": "icoca",
     "tier2": "area",
     "hubName": "神戸",
-    "unsplashUrl": "https://images.unsplash.com/photo-1649232868432-f627aade4483?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTYlOTglOEUlRTclOUYlQjMlMjAlRTUlODUlQjUlRTUlQkElQUIlRTclOUMlOEMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODM3NjU4Mnww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1649232868432-f627aade4483?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTYlOTglOEUlRTclOUYlQjMlMjAlRTUlODUlQjUlRTUlQkElQUIlRTclOUMlOEMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODM3NjU4Mnww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Shinya Tsuno",
-    "unsplashCreditUrl": "https://unsplash.com/@87pearls?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-row-of-trees-next-to-a-body-of-water-vHNKW1F6l8s?utm_source=dokoiko&utm_medium=referral",
     "rentalCarRecommended": false,
     "images": [
       "/images/akashi/main.jpg",
@@ -66300,9 +66356,9 @@
     ],
     "bestSeason": "通年",
     "imageCredit": {
-      "author": "Manish Prabhune",
-      "license": "CC BY 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Awajishima_Island_from_Bridge_World_Akashi.jpg",
+      "author": "Didier Descouens",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AAcherontia_styx_medusa_MHNT_Female_ventral_Akashi_City.jpg",
       "attributionRequired": true
     }
   },
@@ -66677,7 +66733,7 @@
     "imageCredit": {
       "author": "RitikaPahwa4444",
       "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Innoshima_105.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File%3AInnoshima_107.jpg",
       "attributionRequired": true
     }
   },
@@ -67224,11 +67280,7 @@
     "tier2": "area",
     "hubName": "佐賀",
     "rentalCarRecommended": false,
-    "unsplashUrl": "https://images.unsplash.com/photo-1678620071844-8377e26f1944?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlOTQlOTAlRTYlQjQlQTUlRTUlOUYlOEUlMjAlRTUlOTQlOTAlRTYlQjQlQTV8ZW58MHwwfHx8MTc3ODQzNTIzMnww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1678620071844-8377e26f1944?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlOTQlOTAlRTYlQjQlQTUlRTUlOUYlOEUlMjAlRTUlOTQlOTAlRTYlQjQlQTV8ZW58MHwwfHx8MTc3ODQzNTIzMnww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Wenhao Ruan",
-    "unsplashCreditUrl": "https://unsplash.com/@wenhao_ruan?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-town-on-a-lake-with-mountains-in-the-background-7TQeEZDG_Dk?utm_source=dokoiko&utm_medium=referral",
     "images": [
       "/images/karatsu/main.jpg",
       "/images/karatsu/spot-1.jpg",
@@ -67247,10 +67299,10 @@
     ],
     "bestSeason": "通年",
     "imageCredit": {
-      "author": "そらみみ",
-      "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Tenshu_of_Karatsu_Castle_1.jpg",
-      "attributionRequired": true
+      "author": "国書刊行会",
+      "license": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File%3A%E4%BD%90%E8%B3%80%E7%9C%8C%E5%94%90%E6%B4%A5%E5%B8%82_%E4%B8%96%E7%95%8C%E9%A4%A8.jpg",
+      "attributionRequired": false
     }
   },
   {
@@ -68771,11 +68823,7 @@
     "tier2": "area",
     "hubName": "水戸",
     "rentalCarRecommended": false,
-    "unsplashUrl": "https://images.unsplash.com/photo-1679218259039-e48a5007494a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTklQjklQkYlRTUlQjMlQjYlRTclQTUlOUUlRTUlQUUlQUUlMjAlRTklQjklQkYlRTUlQjYlOEJ8ZW58MHwwfHx8MTc3ODQzNTY2N3ww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1679218259039-e48a5007494a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTklQjklQkYlRTUlQjMlQjYlRTclQTUlOUUlRTUlQUUlQUUlMjAlRTklQjklQkYlRTUlQjYlOEJ8ZW58MHwwfHx8MTc3ODQzNTY2N3ww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Daniel Park",
-    "unsplashCreditUrl": "https://unsplash.com/@qkrwngh13?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-large-body-of-water-surrounded-by-trees-uwem3J78AqY?utm_source=dokoiko&utm_medium=referral",
     "images": [
       "/images/kashima/main.jpg",
       "/images/kashima/spot-1.jpg",
@@ -68791,7 +68839,13 @@
       "カップル向け",
       "友達と"
     ],
-    "bestSeason": "通年"
+    "bestSeason": "通年",
+    "imageCredit": {
+      "author": "Nyao148",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AIbaraki-Kashima-City-Office.JPG",
+      "attributionRequired": true
+    }
   },
   {
     "id": "shiraoishi",
@@ -70690,7 +70744,13 @@
       "カップル向け",
       "友達と"
     ],
-    "bestSeason": "冬"
+    "bestSeason": "冬",
+    "imageCredit": {
+      "author": "Zangix",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3A%E7%9F%B3%E5%B7%9D%E7%9C%8C%E4%B8%83%E5%B0%BE%E7%BE%8E%E8%A1%93%E9%A4%A8_Nanao_Art_Museum.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "fukuchiyama",
@@ -72138,11 +72198,7 @@
     "tier2": "spot",
     "hubName": "高知",
     "rentalCarRecommended": true,
-    "unsplashUrl": "https://images.unsplash.com/photo-1753459420701-e528b0b871dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTYlOTclQTUlRTYlOUMlQUMlRTQlQjglODAlRTMlODElQUUlRTUlQTQlQTclRTYlOUQlODklMjAlRTUlQTQlQTclRTglQjElOEF8ZW58MHwwfHx8MTc3ODQzNjk3Mnww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1753459420701-e528b0b871dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTYlOTclQTUlRTYlOUMlQUMlRTQlQjglODAlRTMlODElQUUlRTUlQTQlQTclRTYlOUQlODklMjAlRTUlQTQlQTclRTglQjElOEF8ZW58MHwwfHx8MTc3ODQzNjk3Mnww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Nguyen Minh",
-    "unsplashCreditUrl": "https://unsplash.com/@ngminh8895?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-row-of-trees-stands-along-a-road-BriAmnvDox8?utm_source=dokoiko&utm_medium=referral",
     "images": [
       "/images/otoyo/main.jpg",
       "/images/otoyo/spot-1.jpg",
@@ -72159,7 +72215,13 @@
       "カップル向け",
       "友達と"
     ],
-    "bestSeason": "夏"
+    "bestSeason": "夏",
+    "imageCredit": {
+      "author": "アラツク",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AOtoyo_town_hall.JPG",
+      "attributionRequired": true
+    }
   },
   {
     "id": "sukumo",
@@ -74812,11 +74874,7 @@
     "tier2": "spot",
     "hubName": "金沢",
     "rentalCarRecommended": true,
-    "unsplashUrl": "https://images.unsplash.com/photo-1702082022259-9b7c24930085?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclOTklQkQlRTUlQjElQjElRTUlQUUlQTQlRTUlQTAlODIlMjAlRTclOTklQkQlRTUlQjElQjF8ZW58MHwwfHx8MTc3ODQzNzY5N3ww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1702082022259-9b7c24930085?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclOTklQkQlRTUlQjElQjElRTUlQUUlQTQlRTUlQTAlODIlMjAlRTclOTklQkQlRTUlQjElQjF8ZW58MHwwfHx8MTc3ODQzNzY5N3ww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "hayato togashi",
-    "unsplashCreditUrl": "https://unsplash.com/@hayato_no_kiroku?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-couple-of-people-standing-on-top-of-a-snow-covered-slope-xrxPsR2vGSQ?utm_source=dokoiko&utm_medium=referral",
     "images": [
       "/images/hakusan/main.jpg",
       "/images/hakusan/spot-1.jpg",
@@ -74836,8 +74894,8 @@
     "bestSeason": "冬",
     "imageCredit": {
       "author": "Alpsdake",
-      "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Mount_Haku_(Peak_2021-08-27).jpg",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Mount_Haku_from_Onanjimine_2011-07-17.jpg",
       "attributionRequired": true
     }
   },
@@ -75392,11 +75450,7 @@
     "icCard": "icoca",
     "tier2": "spot",
     "hubName": "東京",
-    "unsplashUrl": "https://images.unsplash.com/photo-1769841897378-8e7ca60c38dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTYlQTQlQkYlRTYlOUUlOTclMjAlRTUlODglQTklRTUlQjMlQjZ8ZW58MHwwfHx8MTc3ODQzNzk4N3ww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1769841897378-8e7ca60c38dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTYlQTQlQkYlRTYlOUUlOTclMjAlRTUlODglQTklRTUlQjMlQjZ8ZW58MHwwfHx8MTc3ODQzNzk4N3ww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "PJH",
-    "unsplashCreditUrl": "https://unsplash.com/@dokae?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-bush-with-bright-red-flowers-and-green-leaves-yueOdsFJi7E?utm_source=dokoiko&utm_medium=referral",
     "rentalCarRecommended": false,
     "images": [
       "/images/toshima/main.jpg",
@@ -75413,7 +75467,13 @@
       "友達と",
       "東京に泊まるのがおすすめ"
     ],
-    "bestSeason": "春"
+    "bestSeason": "春",
+    "imageCredit": {
+      "author": "ゆうき315",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AToshima_street.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "joetsu",
@@ -75799,7 +75859,13 @@
       "カップル向け",
       "友達と"
     ],
-    "bestSeason": "冬"
+    "bestSeason": "冬",
+    "imageCredit": {
+      "author": "禁樹なずな",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AMyoko_City_Office.JPG",
+      "attributionRequired": true
+    }
   },
   {
     "id": "hokkaido-hakodate",
@@ -76226,7 +76292,7 @@
     "imageCredit": {
       "author": "663highland",
       "license": "CC BY 2.5",
-      "url": "https://commons.wikimedia.org/wiki/File:140724_Asahikawa_Airport_Hokkaido_Japan01s3.JPG",
+      "url": "https://commons.wikimedia.org/wiki/File%3A140724_Asahikawa_Airport_Hokkaido_Japan02s3.jpg",
       "attributionRequired": true
     }
   },
@@ -77392,11 +77458,7 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "秋田",
-    "unsplashUrl": "https://images.unsplash.com/photo-1700877901360-5881a05da13b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlQTQlQTclRTYlOUIlQjIlMjAlRTclQTclOEIlRTclOTQlQjAlRTclOUMlOEMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODM4MTAwN3ww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1700877901360-5881a05da13b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlQTQlQTclRTYlOUIlQjIlMjAlRTclQTclOEIlRTclOTQlQjAlRTclOUMlOEMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODM4MTAwN3ww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Jun Ohashi",
-    "unsplashCreditUrl": "https://unsplash.com/@juntarou555?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-wooden-pier-with-a-mountain-in-the-background-aSEakQy7wx0?utm_source=dokoiko&utm_medium=referral",
     "rentalCarRecommended": true,
     "images": [
       "/images/omagari/main.jpg",
@@ -77415,9 +77477,9 @@
     ],
     "bestSeason": "通年",
     "imageCredit": {
-      "author": "くろふね",
+      "author": "掬茶",
       "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E6%9B%B2%E9%A7%85%E6%A2%B5%E5%A4%A9.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File%3AOmagari_Station_20230729.jpg",
       "attributionRequired": true
     }
   },
@@ -80612,9 +80674,9 @@
     ],
     "bestSeason": "春",
     "imageCredit": {
-      "author": "Yoshio Kohara",
-      "license": "CC BY 3.0",
-      "url": "https://commons.wikimedia.org/wiki/File:%E9%AB%98%E5%B3%B6%E5%B8%82_%E6%B9%96%E8%A5%BF%E3%81%AE%E6%9D%BE%E6%9E%97_%E3%80%8C%E6%97%A5%E6%9C%AC%E3%81%AE%E7%99%BD%E7%A0%82%E9%9D%92%E6%9D%BE%E7%99%BE%E9%81%B8%E3%80%8D_-_panoramio.jpg",
+      "author": "Bakkai at Japanese Wikipedia",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3ATakashima_City_Hall.jpg",
       "attributionRequired": true
     }
   },
@@ -82500,11 +82562,7 @@
     "icCard": "icoca",
     "tier2": "area",
     "hubName": "高松",
-    "unsplashUrl": "https://images.unsplash.com/photo-1746619672378-215c7f12f86e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTglQTYlQjMlRTklOUYlQjMlRTUlQUYlQkElMjAlRTklQTYlOTklRTUlQjclOUQlRTclOUMlOEMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODM4MzI1Nnww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1746619672378-215c7f12f86e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTglQTYlQjMlRTklOUYlQjMlRTUlQUYlQkElMjAlRTklQTYlOTklRTUlQjclOUQlRTclOUMlOEMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODM4MzI1Nnww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Balooon69",
-    "unsplashCreditUrl": "https://unsplash.com/@balooon69?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-temple-roof-against-a-clear-bright-blue-sky-aHkoUEO5XYc?utm_source=dokoiko&utm_medium=referral",
     "rentalCarRecommended": false,
     "images": [
       "/images/kanonji/main.jpg",
@@ -82526,7 +82584,7 @@
     "imageCredit": {
       "author": "iPhone修理/カスタマイズパーツ販売…",
       "license": "CC BY 3.0",
-      "url": "https://commons.wikimedia.org/wiki/File:%E9%A6%99%E5%B7%9D%E7%9C%8C%E8%A6%B3%E9%9F%B3%E5%AF%BA%E5%B8%82_-_panoramio.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File%3A%E9%A6%99%E5%B7%9D%E7%9C%8C%E8%A6%B3%E9%9F%B3%E5%AF%BA%E5%B8%82_-_panoramio.jpg",
       "attributionRequired": true
     }
   },
@@ -85321,10 +85379,10 @@
     ],
     "bestSeason": "冬",
     "imageCredit": {
-      "author": "Saigen Jiro",
-      "license": "Public domain",
-      "url": "https://commons.wikimedia.org/wiki/File:%E5%B2%A1%E5%B1%B1%E7%9C%8C%E7%BE%8E%E4%BD%9C%E5%B8%82%E5%B9%B3%E7%A6%8F%E5%87%BA%E5%9C%9F_%E9%99%B6%E6%A3%BA.JPG",
-      "attributionRequired": false
+      "author": "Phronimoi",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AMimasaka_police_station.jpg",
+      "attributionRequired": true
     }
   },
   {
@@ -85490,11 +85548,7 @@
     "tier2": "spot",
     "hubName": "高知",
     "rentalCarRecommended": true,
-    "unsplashUrl": "https://images.unsplash.com/photo-1608374633110-578a87c4b4cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTQlQkQlOTAlRTclOTQlQjAlRTYlQjIlODglRTQlQjglOEIlRTYlQTklOEIlMjAlRTUlOUIlOUIlRTQlQjglODclRTUlOEQlODElRTUlQjclOUR8ZW58MHwwfHx8MTc3ODQ0MTMyMXww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1608374633110-578a87c4b4cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTQlQkQlOTAlRTclOTQlQjAlRTYlQjIlODglRTQlQjglOEIlRTYlQTklOEIlMjAlRTUlOUIlOUIlRTQlQjglODclRTUlOEQlODElRTUlQjclOUR8ZW58MHwwfHx8MTc3ODQ0MTMyMXww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Natsumi",
-    "unsplashCreditUrl": "https://unsplash.com/@posako?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/brown-concrete-bridge-over-river-during-daytime-UENhj0cQPHk?utm_source=dokoiko&utm_medium=referral",
     "images": [
       "/images/kochi-shimanto/main.jpg",
       "/images/kochi-shimanto/spot-1.jpg",
@@ -85511,9 +85565,9 @@
     ],
     "bestSeason": "通年",
     "imageCredit": {
-      "author": "鍋太郎",
-      "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Spring_in_Shimanto_River.jpg",
+      "author": "四万十人",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AShimanto_sada_chinkabashi_fukin.jpg",
       "attributionRequired": true
     }
   },
@@ -86458,9 +86512,9 @@
     ],
     "bestSeason": "冬",
     "imageCredit": {
-      "author": "くろふね",
-      "license": "CC BY 3.0",
-      "url": "https://commons.wikimedia.org/wiki/File:%E6%B8%8B%E6%B8%A9%E6%B3%89%E8%A1%97_-_panoramio.jpg",
+      "author": "Totti",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AShibu_onsen_night_view.jpg",
       "attributionRequired": true
     }
   },
@@ -87027,11 +87081,7 @@
     "tier2": "area",
     "hubName": "福井",
     "rentalCarRecommended": true,
-    "unsplashUrl": "https://images.unsplash.com/photo-1715855893748-f3e227d5b9c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTglQjYlOEElRTUlODklOEQlRTUlQTQlQTclRTklODclOEUlRTUlOUYlOEUlMjAlRTglQjYlOEElRTUlODklOEQlRTUlQTQlQTclRTklODclOEV8ZW58MHwwfHx8MTc3ODQ0MTc1Nnww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1715855893748-f3e227d5b9c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTglQjYlOEElRTUlODklOEQlRTUlQTQlQTclRTklODclOEUlRTUlOUYlOEUlMjAlRTglQjYlOEElRTUlODklOEQlRTUlQTQlQTclRTklODclOEV8ZW58MHwwfHx8MTc3ODQ0MTc1Nnww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Seiya Maeda",
-    "unsplashCreditUrl": "https://unsplash.com/@seiya_maeda?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-small-town-with-a-river-running-through-it-pVvFMOw4My8?utm_source=dokoiko&utm_medium=referral",
     "images": [
       "/images/ono-fukui/main.jpg",
       "/images/ono-fukui/spot-1.jpg",
@@ -87049,9 +87099,9 @@
     ],
     "bestSeason": "秋",
     "imageCredit": {
-      "author": "くろふね",
+      "author": "藤谷良秀 (Yoshihide Fujitani)",
       "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:%E8%B6%8A%E5%89%8D%E5%A4%A7%E9%87%8E%E9%A7%85.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File%3AEchizen-Ono_Station_20171105.jpg",
       "attributionRequired": true
     }
   },
@@ -87248,7 +87298,13 @@
       "カップル向け",
       "友達と"
     ],
-    "bestSeason": "冬"
+    "bestSeason": "冬",
+    "imageCredit": {
+      "author": "Ski Mania",
+      "license": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File%3ASki_Jam_Katsuyama.jpg",
+      "attributionRequired": false
+    }
   },
   {
     "id": "hioki",
@@ -87431,9 +87487,9 @@
     ],
     "bestSeason": "春・夏",
     "imageCredit": {
-      "author": "Sakoppi",
-      "license": "CC BY 3.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Kagoshima_prefectural_Kaseda-Hiyoshi_Cycle_Road_at_Hiyoshi.JPG",
+      "author": "国土地理院",
+      "license": "CC BY 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AAirPhoto_Hioki%2C_Hioki%2C_Kagoshima_2013.jpg",
       "attributionRequired": true
     }
   },
@@ -87793,11 +87849,7 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "青森",
-    "unsplashUrl": "https://images.unsplash.com/photo-1714046232788-416173557efa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlQjklQjMlRTUlQjclOUQlMjAlRTklOUQlOTIlRTYlQTMlQUUlRTclOUMlOEMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODM4NDk5Nnww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1714046232788-416173557efa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlQjklQjMlRTUlQjclOUQlMjAlRTklOUQlOTIlRTYlQTMlQUUlRTclOUMlOEMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODM4NDk5Nnww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Ice Lemon Tea Less Sugar",
-    "unsplashCreditUrl": "https://unsplash.com/@icelemontealesssugar?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-lush-green-valley-surrounded-by-mountains-under-a-cloudy-sky-_acrIl_Qy8k?utm_source=dokoiko&utm_medium=referral",
     "rentalCarRecommended": true,
     "images": [
       "/images/hirakawa/main.jpg",
@@ -87816,9 +87868,9 @@
     ],
     "bestSeason": "秋",
     "imageCredit": {
-      "author": "663highland",
-      "license": "CC BY 2.5",
-      "url": "https://commons.wikimedia.org/wiki/File:140914_Ikarigaseki_Onsen_Hirakawa_Aomori_pref_Japan03s3.jpg",
+      "author": "掬茶",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AHira_River_in_Owani_Town.jpg",
       "attributionRequired": true
     }
   },
@@ -88197,9 +88249,9 @@
     ],
     "bestSeason": "通年",
     "imageCredit": {
-      "author": "Benlisquare",
-      "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Shimokita_Peninsula_viewed_from_Mutsu_Bay.jpg",
+      "author": "Yamaguchi Yoshiaki from Japan",
+      "license": "CC BY-SA 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AShimokita_pen._%E4%B8%8B%E5%8C%97%E5%8D%8A%E5%B3%B6_(3537756279).jpg",
       "attributionRequired": true
     }
   },
@@ -90069,11 +90121,7 @@
     "tier2": "area",
     "hubName": "前橋",
     "rentalCarRecommended": false,
-    "unsplashUrl": "https://images.unsplash.com/photo-1698897053975-16b7d65ca24e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTQlQkMlOEElRTUlOEIlQTIlRTUlQjQlOEUlRTUlQjglODIlRTglOEYlQUYlRTglOTQlQjUlRTUlQUYlQkElRTUlODUlQUMlRTUlOUMlOTIlMjAlRTQlQkMlOEElRTUlOEIlQTIlRTUlQjQlOEV8ZW58MHwwfHx8MTc3ODQ0MzA2MHww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1698897053975-16b7d65ca24e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTQlQkMlOEElRTUlOEIlQTIlRTUlQjQlOEUlRTUlQjglODIlRTglOEYlQUYlRTglOTQlQjUlRTUlQUYlQkElRTUlODUlQUMlRTUlOUMlOTIlMjAlRTQlQkMlOEElRTUlOEIlQTIlRTUlQjQlOEV8ZW58MHwwfHx8MTc3ODQ0MzA2MHww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Milan Ivanovic",
-    "unsplashCreditUrl": "https://unsplash.com/@lanche86?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-gazebo-sits-in-the-middle-of-a-grassy-area-o6SXMHW_ZDk?utm_source=dokoiko&utm_medium=referral",
     "images": [
       "/images/isesaki/main.jpg",
       "/images/isesaki/spot-1.jpg",
@@ -90092,9 +90140,9 @@
     ],
     "bestSeason": "春",
     "imageCredit": {
-      "author": "MaedaAkihiko",
-      "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Isesaki-STA_South-Entrance.jpg",
+      "author": "上州写真時報",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AIsesaki_City_Hall_001.JPG",
       "attributionRequired": true
     }
   },
@@ -90278,9 +90326,9 @@
     ],
     "bestSeason": "通年",
     "imageCredit": {
-      "author": "くろふね",
-      "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:%E3%83%8F%E3%83%AB%E3%83%94%E3%83%B3%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%EF%BC%88%E3%83%8F%E3%83%AB%E3%83%94%E3%83%B3%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%E5%A1%A9%E5%B0%BB%E5%BA%83%E4%B8%98%E5%BA%97%EF%BC%89.jpg",
+      "author": "photo: Qurren (talk) Taken with Canon IXY 10S",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AShiojiri_city_office.jpg",
       "attributionRequired": true
     }
   },
@@ -90659,7 +90707,7 @@
     "imageCredit": {
       "author": "Nesnad",
       "license": "CC BY 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Mount_Sanbe_2023_Jan_03_02-28PM.jpeg",
+      "url": "https://commons.wikimedia.org/wiki/File%3AMount_Sanbe_2023_Jan_03_02-28PM.jpeg",
       "attributionRequired": true
     }
   },
@@ -91592,11 +91640,7 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "松本",
-    "unsplashUrl": "https://images.unsplash.com/photo-1721906347939-368ba27ae1a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlQUYlOUQlRTglQTYlOUElRTMlODElQUUlRTUlQkElOEElMjAlRTQlQjglOEElRTYlOUQlQkV8ZW58MHwwfHx8MTc3ODQ0MzcxMnww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1721906347939-368ba27ae1a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlQUYlOUQlRTglQTYlOUElRTMlODElQUUlRTUlQkElOEElMjAlRTQlQjglOEElRTYlOUQlQkV8ZW58MHwwfHx8MTc3ODQ0MzcxMnww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Naoki Suzuki",
-    "unsplashCreditUrl": "https://unsplash.com/@naopp?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-tall-green-tree-with-lots-of-green-leaves-Aha5MJR2dy0?utm_source=dokoiko&utm_medium=referral",
     "rentalCarRecommended": true,
     "images": [
       "/images/agematsu/main.jpg",
@@ -91613,7 +91657,13 @@
       "カップル向け",
       "友達と"
     ],
-    "bestSeason": "通年"
+    "bestSeason": "通年",
+    "imageCredit": {
+      "author": "Wing2292",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AAgematsu_town_office2021.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "unzen2",
@@ -93620,11 +93670,7 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "札幌",
-    "unsplashUrl": "https://images.unsplash.com/photo-1641818341723-b2ceb31afc5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclQjYlQjIlRTglQjUlQjAlRTYlQjklOTYlRTclOTUlOTQlRTYlQjglQTklRTYlQjMlODklMjAlRTclQjYlQjIlRTglQjUlQjAlRTYlQjklOTYlRTclOTUlOTQlRTYlQjglQTklRTYlQjMlODl8ZW58MHwwfHx8MTc3ODQ0NDIxOXww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1641818341723-b2ceb31afc5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclQjYlQjIlRTglQjUlQjAlRTYlQjklOTYlRTclOTUlOTQlRTYlQjglQTklRTYlQjMlODklMjAlRTclQjYlQjIlRTglQjUlQjAlRTYlQjklOTYlRTclOTUlOTQlRTYlQjglQTklRTYlQjMlODl8ZW58MHwwfHx8MTc3ODQ0NDIxOXww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Freezer",
-    "unsplashCreditUrl": "https://unsplash.com/@freezer_nico?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-body-of-water-with-a-mountain-in-the-background--rPYDoOaZkA?utm_source=dokoiko&utm_medium=referral",
     "rentalCarRecommended": true,
     "images": [
       "/images/gen_北海_網走湖畔温泉/main.jpg",
@@ -93640,7 +93686,13 @@
       "友達と",
       "温泉がおすすめ"
     ],
-    "bestSeason": "冬"
+    "bestSeason": "冬",
+    "imageCredit": {
+      "author": "663highland",
+      "license": "CC BY 2.5",
+      "url": "https://commons.wikimedia.org/wiki/File%3A130713_HOKUTEN_NO_OKA_Lake_Abashiri_Tsuruga_Resort_Abashiri_Hokkaido_Japan27s3.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "gen_北海_岩尾別温泉",
@@ -96667,10 +96719,10 @@
     ],
     "bestSeason": "冬",
     "imageCredit": {
-      "author": "pakku",
-      "license": "CC BY 3.0",
-      "url": "https://commons.wikimedia.org/wiki/File:%E6%99%AF%E7%A6%8F%EF%BC%88Hot_springs_Meakan_Keifuku%EF%BC%89_-_panoramio.jpg",
-      "attributionRequired": true
+      "author": "Soica2001 (talk)",
+      "license": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File%3AMeakan_soa_2011.JPG",
+      "attributionRequired": false
     }
   },
   {
@@ -97442,7 +97494,13 @@
       "友達と",
       "ゆっくり滞在"
     ],
-    "bestSeason": "夏"
+    "bestSeason": "夏",
+    "imageCredit": {
+      "author": "663highland",
+      "license": "CC BY 2.5",
+      "url": "https://commons.wikimedia.org/wiki/File%3A140829_Ichiko_of_Shiretoko_Goko_Lakes_Hokkaido_Japan04s3.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "gen_北海_焼尻島",
@@ -97630,7 +97688,13 @@
       "札幌に泊まるのがおすすめ"
     ],
     "bestSeason": "夏・冬",
-    "_accessAutoFixed": "islandFix"
+    "_accessAutoFixed": "islandFix",
+    "imageCredit": {
+      "author": "Mugu-shisai",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AHokkaido_prefectural_road_255_01.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "gen_北海_襟裳岬",
@@ -99098,10 +99162,10 @@
     ],
     "bestSeason": "夏",
     "imageCredit": {
-      "author": "Mister0124",
-      "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Michinoeki_Higashikawa_%E3%80%8CMichikusakan%E3%80%8D_Appearance.jpg",
-      "attributionRequired": true
+      "author": "Ozizo",
+      "license": "CC0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AHigashikawa_Town_Hall.jpg",
+      "attributionRequired": false
     }
   },
   {
@@ -101265,11 +101329,7 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "札幌",
-    "unsplashUrl": "https://images.unsplash.com/photo-1748208595013-6bf2472bd0ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclOUIlQjglRTYlQjMlOEElRTYlQjglQTklRTYlQjMlODklMjAlRTclOUIlQjglRTYlQjMlOEElRTYlQjglQTklRTYlQjMlODl8ZW58MHwwfHx8MTc3ODQ1MTYyM3ww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1748208595013-6bf2472bd0ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclOUIlQjglRTYlQjMlOEElRTYlQjglQTklRTYlQjMlODklMjAlRTclOUIlQjglRTYlQjMlOEElRTYlQjglQTklRTYlQjMlODl8ZW58MHwwfHx8MTc3ODQ1MTYyM3ww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Arthur Tseng",
-    "unsplashCreditUrl": "https://unsplash.com/@arthur3607?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-steamy-calm-pool-beneath-wooden-pillars-NIBr1QZbuwU?utm_source=dokoiko&utm_medium=referral",
     "rentalCarRecommended": true,
     "images": [
       "/images/gen_北海_相泊温泉/main.jpg",
@@ -101289,7 +101349,7 @@
     "imageCredit": {
       "author": "Mamusi Taka",
       "license": "CC BY-SA 3.0",
-      "url": "https://commons.wikimedia.org/wiki/File:%E7%9B%B8%E6%B3%8A%E6%B8%A9%E6%B3%89_-_panoramio.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File%3A%E7%9B%B8%E6%B3%8A%E6%B8%A9%E6%B3%89_-_panoramio.jpg",
       "attributionRequired": true
     }
   },
@@ -101632,11 +101692,7 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "札幌",
-    "unsplashUrl": "https://images.unsplash.com/photo-1777499701221-abf9b5c8072b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTklOTUlQjclRTQlQjglODclRTklODMlQTglRTYlQjglQTklRTYlQjMlODklMjAlRTklOTUlQjclRTQlQjglODclRTklODMlQTglRTYlQjglQTklRTYlQjMlODl8ZW58MHwwfHx8MTc3ODQ1MTkxM3ww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1777499701221-abf9b5c8072b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTklOTUlQjclRTQlQjglODclRTklODMlQTglRTYlQjglQTklRTYlQjMlODklMjAlRTklOTUlQjclRTQlQjglODclRTklODMlQTglRTYlQjglQTklRTYlQjMlODl8ZW58MHwwfHx8MTc3ODQ1MTkxM3ww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Trac Vu",
-    "unsplashCreditUrl": "https://unsplash.com/@tracminhvu?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-multi-story-building-beside-a-rocky-river-with-a-bridge-CBiaz2qB6uY?utm_source=dokoiko&utm_medium=referral",
     "rentalCarRecommended": true,
     "images": [
       "/images/gen_北海_長万部温泉/main.jpg",
@@ -101652,7 +101708,13 @@
       "友達と",
       "温泉がおすすめ"
     ],
-    "bestSeason": "冬"
+    "bestSeason": "冬",
+    "imageCredit": {
+      "author": "唐山健志郎",
+      "license": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File%3A%E4%BA%8C%E8%82%A1%E3%83%A9%E3%83%82%E3%82%A6%E3%83%A0%E6%B8%A9%E6%B3%89%E9%9C%B2%E5%A4%A9%E9%A2%A8%E5%91%82P6190079.JPG",
+      "attributionRequired": false
+    }
   },
   {
     "id": "gen_北海_菅野温泉",
@@ -102383,11 +102445,7 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "札幌",
-    "unsplashUrl": "https://images.unsplash.com/photo-1764057145939-0d197221c00e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclODAlQUMlRTclOUYlQjMlRTYlQjglQTklRTYlQjMlODklMjAlRTclODAlQUMlRTclOUYlQjMlRTYlQjglQTklRTYlQjMlODl8ZW58MHwwfHx8MTc3ODQ1MjQyMHww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1764057145939-0d197221c00e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclODAlQUMlRTclOUYlQjMlRTYlQjglQTklRTYlQjMlODklMjAlRTclODAlQUMlRTclOUYlQjMlRTYlQjglQTklRTYlQjMlODl8ZW58MHwwfHx8MTc3ODQ1MjQyMHww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "waa towaw",
-    "unsplashCreditUrl": "https://unsplash.com/@toowaaw?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/hot-springs-waterfall-with-traditional-buildings-in-background-c5rfTyxRja4?utm_source=dokoiko&utm_medium=referral",
     "rentalCarRecommended": true,
     "images": [
       "/images/gen_北海_瀬石温泉/main.jpg"
@@ -102406,7 +102464,7 @@
     "imageCredit": {
       "author": "Toriha",
       "license": "CC BY-SA 3.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Seseki_Onsen_01.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File%3ASeseki_Onsen_01.jpg",
       "attributionRequired": true
     }
   },
@@ -102781,7 +102839,13 @@
       "温泉がおすすめ",
       "街歩き向け"
     ],
-    "bestSeason": "冬"
+    "bestSeason": "冬",
+    "imageCredit": {
+      "author": "663highland",
+      "license": "CC BY 2.5",
+      "url": "https://commons.wikimedia.org/wiki/File%3AKamuiwakka_Falls01s3.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "gen_北海_天塩温泉",
@@ -103679,11 +103743,7 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "札幌",
-    "unsplashUrl": "https://images.unsplash.com/photo-1595693475235-ac4beaa5a575?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTMlODElQjMlRTMlODElQjUlRTMlODElOEIlRTYlQjglQTklRTYlQjMlODklMjAlRTUlOEMlOTclRTYlQjUlQjclRTklODElOTMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODM5NDkzMnww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1595693475235-ac4beaa5a575?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTMlODElQjMlRTMlODElQjUlRTMlODElOEIlRTYlQjglQTklRTYlQjMlODklMjAlRTUlOEMlOTclRTYlQjUlQjclRTklODElOTMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODM5NDkzMnww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Bing Hui Yau",
-    "unsplashCreditUrl": "https://unsplash.com/@yaubinghui?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/brown-grass-field-near-lake-and-snow-covered-mountains-during-daytime-hbELE5Twkpo?utm_source=dokoiko&utm_medium=referral",
     "rentalCarRecommended": true,
     "images": [
       "/images/gen_北海_びふか温泉/main.jpg"
@@ -103700,9 +103760,9 @@
     ],
     "bestSeason": "冬",
     "imageCredit": {
-      "author": "Soica2001",
+      "author": "Soica2001 (talk)",
       "license": "Public domain",
-      "url": "https://commons.wikimedia.org/wiki/File:Bifuka_spa_2011.JPG",
+      "url": "https://commons.wikimedia.org/wiki/File%3ABifuka_spa_2011.JPG",
       "attributionRequired": false
     }
   },
@@ -106091,11 +106151,7 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "unsplashUrl": "https://images.unsplash.com/photo-1716187081628-4c949801d3e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTMlODMlOTUlRTMlODMlQUMlRTMlODMlOUElRTMlODElQUUlRTYlQkIlOUQlMjAlRTMlODMlOTUlRTMlODMlQUMlRTMlODMlOUElRTMlODElQUUlRTYlQkIlOUR8ZW58MHwwfHx8MTc3ODQ1NjMzN3ww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1716187081628-4c949801d3e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTMlODMlOTUlRTMlODMlQUMlRTMlODMlOUElRTMlODElQUUlRTYlQkIlOUQlMjAlRTMlODMlOTUlRTMlODMlQUMlRTMlODMlOUElRTMlODElQUUlRTYlQkIlOUR8ZW58MHwwfHx8MTc3ODQ1NjMzN3ww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "YUNAN WANG",
-    "unsplashCreditUrl": "https://unsplash.com/@eysmanpics?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-waterfall-in-the-middle-of-a-lush-green-forest-BGz_26Si6Ts?utm_source=dokoiko&utm_medium=referral",
     "rentalCarRecommended": true,
     "images": [
       "/images/gen_北海_フレペの滝/main.jpg",
@@ -106113,9 +106169,9 @@
     ],
     "bestSeason": "夏",
     "imageCredit": {
-      "author": "663highland",
-      "license": "CC BY 2.5",
-      "url": "https://commons.wikimedia.org/wiki/File:140829_Track_Near_Furepe_Falls_Shiretoko_Hokkaido_Japan01n.jpg",
+      "author": "Benford Choi",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3A%E3%83%95%E3%83%AC%E3%83%9A%E3%81%AE%E6%BB%9D_-_panoramio.jpg",
       "attributionRequired": true
     }
   },
@@ -106465,11 +106521,7 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "札幌",
-    "unsplashUrl": "https://images.unsplash.com/photo-1734244362875-3c1ce4090e0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTMlODElOEIlRTMlODElQkYlRTMlODIlODYlRTMlODElODYlRTMlODElQjklRTMlODElQTQlRTYlQjglQTklRTYlQjMlODklMjAlRTMlODElOEIlRTMlODElQkYlRTMlODIlODYlRTMlODElODYlRTMlODElQjklRTMlODElQTQlRTYlQjglQTklRTYlQjMlODl8ZW58MHwwfHx8MTc3ODQ1NjU1NXww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1734244362875-3c1ce4090e0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTMlODElOEIlRTMlODElQkYlRTMlODIlODYlRTMlODElODYlRTMlODElQjklRTMlODElQTQlRTYlQjglQTklRTYlQjMlODklMjAlRTMlODElOEIlRTMlODElQkYlRTMlODIlODYlRTMlODElODYlRTMlODElQjklRTMlODElQTQlRTYlQjglQTklRTYlQjMlODl8ZW58MHwwfHx8MTc3ODQ1NjU1NXww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Kouji Tsuru",
-    "unsplashCreditUrl": "https://unsplash.com/@pafuxu?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-spa-with-a-large-blue-pool-surrounded-by-rocks-Oof_9jsexWo?utm_source=dokoiko&utm_medium=referral",
     "rentalCarRecommended": true,
     "images": [
       "/images/gen_北海_かみゆうべつ温泉/main.jpg",
@@ -106489,7 +106541,7 @@
     "imageCredit": {
       "author": "Him56",
       "license": "CC BY-SA 3.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Michinoeki_kamiyubetsu_onsen_Tulip_no_yu_no.2.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File%3AMichinoeki_kamiyubetsu_onsen_Tulip_no_yu.jpg",
       "attributionRequired": true
     }
   },
@@ -108701,11 +108753,7 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "水戸",
-    "unsplashUrl": "https://images.unsplash.com/photo-1586529859858-39b6d5d8e7e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclODklOUIlRTQlQjklODUlRTMlODIlQjclRTMlODMlQTMlRTMlODMlODglRTMlODMlQkMlMjAlRTglOEMlQTglRTUlOUYlOEUlRTclOUMlOEMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODQwMDg4MHww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1586529859858-39b6d5d8e7e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclODklOUIlRTQlQjklODUlRTMlODIlQjclRTMlODMlQTMlRTMlODMlODglRTMlODMlQkMlMjAlRTglOEMlQTglRTUlOUYlOEUlRTclOUMlOEMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODQwMDg4MHww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Soyoung HAN",
-    "unsplashCreditUrl": "https://unsplash.com/@soflightsto?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/green-grass-field-near-house-during-daytime-DzFiKh2MHAg?utm_source=dokoiko&utm_medium=referral",
     "rentalCarRecommended": true,
     "images": [
       "/images/gen_茨城_牛久シャトー/main.jpg"
@@ -108723,7 +108771,7 @@
     "imageCredit": {
       "author": "Asturio Cantabrio",
       "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Ushiku_Chateau_main_building_2021-12_ac_(1).jpg",
+      "url": "https://commons.wikimedia.org/wiki/File%3AUshiku_Chateau_main_building_2021-12_ac_(1).jpg",
       "attributionRequired": true
     }
   },
@@ -109773,11 +109821,7 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "水戸",
-    "unsplashUrl": "https://images.unsplash.com/photo-1586529859858-39b6d5d8e7e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlQTQlQTclRTYlQjQlOTclRTclQTMlQUYlRTUlODklOEQlRTclQTUlOUUlRTclQTQlQkUlMjAlRTglOEMlQTglRTUlOUYlOEUlRTclOUMlOEMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODQwMTE3MHww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1586529859858-39b6d5d8e7e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlQTQlQTclRTYlQjQlOTclRTclQTMlQUYlRTUlODklOEQlRTclQTUlOUUlRTclQTQlQkUlMjAlRTglOEMlQTglRTUlOUYlOEUlRTclOUMlOEMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODQwMTE3MHww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Soyoung HAN",
-    "unsplashCreditUrl": "https://unsplash.com/@soflightsto?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/green-grass-field-near-house-during-daytime-DzFiKh2MHAg?utm_source=dokoiko&utm_medium=referral",
     "rentalCarRecommended": true,
     "images": [
       "/images/gen_茨城_大洗磯前神社/main.jpg",
@@ -109795,9 +109839,9 @@
     ],
     "bestSeason": "通年",
     "imageCredit": {
-      "author": "Benlisquare",
-      "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Oarai_Isosaki_Shrine_stairs_at_night.jpg",
+      "author": "KΛNΛTΛ",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3A%E5%A4%A7%E6%B4%97%E7%A3%AF%E5%89%8D%E7%A5%9E%E7%A4%BE_-_panoramio.jpg",
       "attributionRequired": true
     }
   },
@@ -110709,7 +110753,7 @@
     "imageCredit": {
       "author": "KΛNΛTΛ",
       "license": "CC BY-SA 3.0",
-      "url": "https://commons.wikimedia.org/wiki/File:%E5%B8%B8%E7%A3%90%E7%A5%9E%E7%A4%BE%E3%83%BB%E5%85%A5_-_panoramio.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File%3A%E5%B8%B8%E7%A3%90%E7%A5%9E%E7%A4%BE%E3%83%BB%E5%85%A5_-_panoramio.jpg",
       "attributionRequired": true
     }
   },
@@ -110880,11 +110924,7 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "水戸",
-    "unsplashUrl": "https://images.unsplash.com/photo-1762018870650-fc6961c681b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTYlQjAlQjQlRTYlODglQjglRTYlOUQlQjElRTclODUlQTclRTUlQUUlQUUlMjAlRTYlQjAlQjQlRTYlODglQjglRTYlOUQlQjElRTclODUlQTclRTUlQUUlQUV8ZW58MHwwfHx8MTc3ODQ1ODk1MHww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1762018870650-fc6961c681b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTYlQjAlQjQlRTYlODglQjglRTYlOUQlQjElRTclODUlQTclRTUlQUUlQUUlMjAlRTYlQjAlQjQlRTYlODglQjglRTYlOUQlQjElRTclODUlQTclRTUlQUUlQUV8ZW58MHwwfHx8MTc3ODQ1ODk1MHww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Fabio Montello",
-    "unsplashCreditUrl": "https://unsplash.com/@fabiomontello?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/ornate-japanese-temple-illuminated-at-night-with-lanterns-8dVbXyvdZAk?utm_source=dokoiko&utm_medium=referral",
     "rentalCarRecommended": true,
     "images": [
       "/images/gen_茨城_水戸東照宮/main.jpg",
@@ -110900,7 +110940,13 @@
       "友達と",
       "ゆっくり滞在"
     ],
-    "bestSeason": "春"
+    "bestSeason": "春",
+    "imageCredit": {
+      "author": "Miyuki Meinaka",
+      "license": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File%3AMito_Toshogu.jpg",
+      "attributionRequired": false
+    }
   },
   {
     "id": "gen_茨城_水戸八幡宮",
@@ -113353,10 +113399,10 @@
     ],
     "bestSeason": "夏",
     "imageCredit": {
-      "author": "Asanagi",
-      "license": "CC0",
-      "url": "https://commons.wikimedia.org/wiki/File:Futaarayama-jinja_sacred_dance_stage_2023-07-21.jpg",
-      "attributionRequired": false
+      "author": "Miyuki Meinaka",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AWriting_tables_at_Utsunomiya-Futaarayama_shrine.jpg",
+      "attributionRequired": true
     }
   },
   {
@@ -113692,11 +113738,7 @@
     "tier2": "spot",
     "hubName": "宇都宮",
     "rentalCarRecommended": true,
-    "unsplashUrl": "https://images.unsplash.com/photo-1756959729156-e14028318cd3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlOTQlOTAlRTYlQjIlQTIlRTUlQjElQjElRTclQTUlOUUlRTclQTQlQkUlMjAlRTUlOTQlOTAlRTYlQjIlQTIlRTUlQjElQjElRTclQTUlOUUlRTclQTQlQkV8ZW58MHwwfHx8MTc3ODQ2MDE4Mnww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1756959729156-e14028318cd3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlOTQlOTAlRTYlQjIlQTIlRTUlQjElQjElRTclQTUlOUUlRTclQTQlQkUlMjAlRTUlOTQlOTAlRTYlQjIlQTIlRTUlQjElQjElRTclQTUlOUUlRTclQTQlQkV8ZW58MHwwfHx8MTc3ODQ2MDE4Mnww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Gabriele Girelli",
-    "unsplashCreditUrl": "https://unsplash.com/@ggirelli?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/wind-chimes-hanging-along-a-path-to-a-shrine--cOnaBeT0kM?utm_source=dokoiko&utm_medium=referral",
     "images": [
       "/images/gen_栃木_唐沢山神社/main.jpg",
       "/images/gen_栃木_唐沢山神社/spot-1.jpg"
@@ -113721,9 +113763,9 @@
     ],
     "bestSeason": "夏",
     "imageCredit": {
-      "author": "Sanosightseeing",
-      "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:%E2%91%A1%E5%94%90%E6%B2%A2%E5%B1%B1%E3%83%BB%E5%94%90%E6%BE%A4%E5%B1%B1%E7%A5%9E%E7%A4%BE_(%E7%B4%85%E8%91%89).jpg",
+      "author": "韋駄天狗",
+      "license": "CC BY 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AKarasawayamajinja.JPG",
       "attributionRequired": true
     }
   },
@@ -115432,7 +115474,7 @@
     "imageCredit": {
       "author": "Zengame",
       "license": "CC BY 2.0",
-      "url": "https://commons.wikimedia.org/wiki/File:%E7%8C%BF%E3%83%B6%E4%BA%AC%E6%B8%A9%E6%B3%89_%E6%97%85%E7%B1%A0%E5%B1%8B%E4%B8%B8%E4%B8%80_Dec_15,_2012.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File%3A%E7%8C%BF%E3%83%B6%E4%BA%AC%E6%B8%A9%E6%B3%89_%E6%97%85%E7%B1%A0%E5%B1%8B%E4%B8%B8%E4%B8%80_Dec_15%2C_2012.jpg",
       "attributionRequired": true
     }
   },
@@ -116730,11 +116772,7 @@
     "tier2": "area",
     "hubName": "札幌",
     "rentalCarRecommended": true,
-    "unsplashUrl": "https://images.unsplash.com/photo-1648300515534-0e578fb37b38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTMlODIlQUElRTMlODMlQkMlRTMlODMlQUQlRTMlODMlQTklRTYlQjglQTklRTYlQjMlODklMjAlRTMlODIlQUElRTMlODMlQkMlRTMlODMlQUQlRTMlODMlQTklRTYlQjglQTklRTYlQjMlODl8ZW58MHwwfHx8MTc3ODQ2MTYzMnww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1648300515534-0e578fb37b38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTMlODIlQUElRTMlODMlQkMlRTMlODMlQUQlRTMlODMlQTklRTYlQjglQTklRTYlQjMlODklMjAlRTMlODIlQUElRTMlODMlQkMlRTMlODMlQUQlRTMlODMlQTklRTYlQjglQTklRTYlQjMlODl8ZW58MHwwfHx8MTc3ODQ2MTYzMnww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Nguyen TP Hai",
-    "unsplashCreditUrl": "https://unsplash.com/@phonghai649?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-water-slide-going-down-a-river-next-to-a-building-QrvCcZsM5mM?utm_source=dokoiko&utm_medium=referral",
     "images": [
       "/images/gen_北海_オーロラ温泉/main.jpg",
       "/images/gen_北海_オーロラ温泉/spot-1.jpg"
@@ -116749,7 +116787,13 @@
       "温泉がおすすめ",
       "街歩き向け"
     ],
-    "bestSeason": "冬"
+    "bestSeason": "冬",
+    "imageCredit": {
+      "author": "Soica2001 (talk)",
+      "license": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File%3AAurora_vilage_farm2.jpg",
+      "attributionRequired": false
+    }
   },
   {
     "id": "gen_北海_奥美利河温泉",
@@ -116916,11 +116960,7 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "札幌",
-    "unsplashUrl": "https://images.unsplash.com/photo-1754379367521-b09256acd460?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlQTUlQTUlRTclQkUlOEUlRTUlODglQTklRTYlQjIlQjMlRTYlQjglQTklRTYlQjMlODklMjAlRTUlQTUlQTUlRTclQkUlOEUlRTUlODglQTklRTYlQjIlQjMlRTYlQjglQTklRTYlQjMlODl8ZW58MHwwfHx8MTc3ODQ2MTcwNXww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1754379367521-b09256acd460?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlQTUlQTUlRTclQkUlOEUlRTUlODglQTklRTYlQjIlQjMlRTYlQjglQTklRTYlQjMlODklMjAlRTUlQTUlQTUlRTclQkUlOEUlRTUlODglQTklRTYlQjIlQjMlRTYlQjglQTklRTYlQjMlODl8ZW58MHwwfHx8MTc3ODQ2MTcwNXww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "fan yang",
-    "unsplashCreditUrl": "https://unsplash.com/@vindurriel?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-serene-river-flows-through-a-picturesque-landscape-_e3tRCS3FvI?utm_source=dokoiko&utm_medium=referral",
     "rentalCarRecommended": true,
     "images": [
       "/images/gen_北海_奥美利河温泉/main.jpg",
@@ -116938,9 +116978,9 @@
     ],
     "bestSeason": "冬",
     "imageCredit": {
-      "author": "Soica2001",
+      "author": "Soica2001 (talk)",
       "license": "Public domain",
-      "url": "https://commons.wikimedia.org/wiki/File:Oku-Pirika_spa_gaikan.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File%3AOku-Pirika_spa_gaikan.jpg",
       "attributionRequired": false
     }
   },
@@ -118232,9 +118272,9 @@
     ],
     "bestSeason": "冬",
     "imageCredit": {
-      "author": "Soica2001",
+      "author": "Soica2001 (talk)",
       "license": "Public domain",
-      "url": "https://commons.wikimedia.org/wiki/File:Setose_spa_2011.JPG",
+      "url": "https://commons.wikimedia.org/wiki/File%3ASetose_spa_2011.JPG",
       "attributionRequired": false
     }
   },
@@ -118598,7 +118638,13 @@
       "カップル向け",
       "友達と"
     ],
-    "bestSeason": "冬"
+    "bestSeason": "冬",
+    "imageCredit": {
+      "author": "Soica2001 (talk)",
+      "license": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File%3AKur-Plaza_Pirika_2008.jpg",
+      "attributionRequired": false
+    }
   },
   {
     "id": "gen_北海_真鍋庭園",
@@ -119482,7 +119528,13 @@
       "友達と",
       "ゆっくり滞在"
     ],
-    "bestSeason": "夏"
+    "bestSeason": "夏",
+    "imageCredit": {
+      "author": "禁樹なずな",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3ASapporo_Hachiman-gu.JPG",
+      "attributionRequired": true
+    }
   },
   {
     "id": "gen_青森_相乗温泉",
@@ -122919,11 +122971,7 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "松本",
-    "unsplashUrl": "https://images.unsplash.com/photo-1776446180660-f4d3d7230e03?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclQkUlOEUlRTMlODElOTclRTMlODElQUUlRTUlQTElOTQlMjAlRTclQkUlOEUlRTMlODMlQjYlRTUlOEUlOUZ8ZW58MHwwfHx8MTc3ODQ2NjIwM3ww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1776446180660-f4d3d7230e03?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclQkUlOEUlRTMlODElOTclRTMlODElQUUlRTUlQTElOTQlMjAlRTclQkUlOEUlRTMlODMlQjYlRTUlOEUlOUZ8ZW58MHwwfHx8MTc3ODQ2NjIwM3ww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "German Von Brox",
-    "unsplashCreditUrl": "https://unsplash.com/@meniceboy?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-tall-tower-stands-on-a-green-tree-covered-hill-wVezc4y0QTQ?utm_source=dokoiko&utm_medium=referral",
     "rentalCarRecommended": true,
     "images": [
       "/images/utsukushigahara/main.jpg",
@@ -122941,9 +122989,9 @@
     ],
     "bestSeason": "冬",
     "imageCredit": {
-      "author": "663highland",
-      "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:250426_At_Utsukushigahara_Nagano_pref_Japan08s3.jpg",
+      "author": "Shift",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3A(%E9%95%B7%E9%87%8E%E7%9C%8C)_%E9%9C%A7%E3%82%B1%E5%B3%B0%E8%8D%89%E5%8E%9F%E3%80%82%E8%AB%8F%E8%A8%AA%E6%B9%96%E3%81%8B%E3%82%89%E3%81%99%E3%81%90%E3%81%9D%E3%81%B0%E3%80%82%E5%B0%91%E3%81%97%E8%A1%8C%E3%81%8F%E3%81%A8%E7%BE%8E%E3%83%B6%E5%8E%9F%E3%81%8C%E3%81%82%E3%82%8B%E3%80%82_-_panoramio.jpg",
       "attributionRequired": true
     }
   },
@@ -123149,9 +123197,9 @@
     ],
     "bestSeason": "春",
     "imageCredit": {
-      "author": "Hyppolyte de Saint-Rambert",
-      "license": "CC BY 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Uji_Jinja_(Uji,_Kyoto)_Bridge_hdsr_S5_1.jpg",
+      "author": "663highland",
+      "license": "CC BY 2.5",
+      "url": "https://commons.wikimedia.org/wiki/File%3AByodoin_Phoenix_Hall_Uji_2009.jpg",
       "attributionRequired": true
     }
   },
@@ -123343,11 +123391,7 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "松本",
-    "unsplashUrl": "https://images.unsplash.com/photo-1633259262111-a8b1ac3d8578?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclOTklQkQlRTklQUElQTglRTYlQjglQTklRTYlQjMlODklMjAlRTklOTUlQjclRTklODclOEUlRTclOUMlOEMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODQwOTQ1Mnww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1633259262111-a8b1ac3d8578?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclOTklQkQlRTklQUElQTglRTYlQjglQTklRTYlQjMlODklMjAlRTklOTUlQjclRTklODclOEUlRTclOUMlOEMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODQwOTQ1Mnww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Hanae Dan",
-    "unsplashCreditUrl": "https://unsplash.com/@81687e?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-building-with-a-green-roof-and-a-mountain-in-the-background-mFT_kFZ1ds8?utm_source=dokoiko&utm_medium=referral",
     "rentalCarRecommended": true,
     "images": [
       "/images/shirahone-onsen/main.jpg",
@@ -123368,7 +123412,7 @@
     "imageCredit": {
       "author": "YOSHIFUMI OGISO",
       "license": "CC BY-SA 3.0",
-      "url": "https://commons.wikimedia.org/wiki/File:%E6%B3%A1%E3%81%AE%E6%B9%AF_Awanoyu_-_panoramio.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File%3A%E6%B3%A1%E3%81%AE%E6%B9%AF%E6%97%85%E9%A4%A8_Awanoyu_at_Shirahone_Spa_-_panoramio.jpg",
       "attributionRequired": true
     }
   },
@@ -125456,11 +125500,7 @@
     "tier2": "spot",
     "hubName": "新潟",
     "rentalCarRecommended": false,
-    "unsplashUrl": "https://images.unsplash.com/photo-1774272813944-0252276cbd57?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclQjIlOUYlRTUlQjMlQjYlRTYlQjUlQTYlRTYlQjglQUYlMjAlRTclQjIlOUYlRTUlQjMlQjZ8ZW58MHwwfHx8MTc3ODQ2Njc4NHww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1774272813944-0252276cbd57?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclQjIlOUYlRTUlQjMlQjYlRTYlQjUlQTYlRTYlQjglQUYlMjAlRTclQjIlOUYlRTUlQjMlQjZ8ZW58MHwwfHx8MTc3ODQ2Njc4NHww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Chulho Choi",
-    "unsplashCreditUrl": "https://unsplash.com/@chulho?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/fishing-boats-docked-at-a-harbor-on-a-sunny-day-oUVI8EvDzaU?utm_source=dokoiko&utm_medium=referral",
     "images": [
       "/images/awashima-island/main.jpg",
       "/images/awashima-island/spot-1.jpg"
@@ -125478,9 +125518,9 @@
     "staySearchUrl": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%25E7%25B2%259F%25E5%25B3%25B6",
     "bestSeason": "夏",
     "imageCredit": {
-      "author": "ブルーノ・プラス",
-      "license": "CC BY 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Awashima_Community_Center.jpg",
+      "author": "xe zna",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3A%E5%A4%95%E6%97%A5%E3%81%AE%E4%B8%AD%E3%81%AE%E7%B2%9F%E5%B3%B6%2C_Awashima_Island_in_sunshine_-_panoramio.jpg",
       "attributionRequired": true
     }
   },
@@ -125666,11 +125706,7 @@
     "tier2": "spot",
     "hubName": "那覇",
     "rentalCarRecommended": false,
-    "unsplashUrl": "https://images.unsplash.com/photo-1684655531391-6c06adfe9b33?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlODUlQUIlRTYlOUMlODglRTglQjglOEElRTMlODIlOEElMjAlRTUlQTQlOUElRTglODklQUYlRTklOTYlOTMlRTUlQjMlQjZ8ZW58MHwwfHx8MTc3ODQ2Njg1Nnww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1684655531391-6c06adfe9b33?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlODUlQUIlRTYlOUMlODglRTglQjglOEElRTMlODIlOEElMjAlRTUlQTQlOUElRTglODklQUYlRTklOTYlOTMlRTUlQjMlQjZ8ZW58MHwwfHx8MTc3ODQ2Njg1Nnww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Kouji Tsuru",
-    "unsplashCreditUrl": "https://unsplash.com/@pafuxu?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-group-of-people-in-bathing-suits-and-hats-Mft4auZitmE?utm_source=dokoiko&utm_medium=referral",
     "images": [
       "/images/tarama-island/main.jpg",
       "/images/tarama-island/spot-1.jpg",
@@ -125690,9 +125726,9 @@
     "staySearchUrl": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%25E5%25A4%259A%25E8%2589%25AF%25E9%2596%2593%25E5%25B3%25B6",
     "bestSeason": "夏",
     "imageCredit": {
-      "author": "Yamada udon",
-      "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:%E5%A4%9A%E8%89%AF%E9%96%93%E5%B3%B6%E5%85%A8%E6%99%AF.jpg",
+      "author": "Metatron",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3ATarama.JPG",
       "attributionRequired": true
     }
   },
@@ -127758,11 +127794,7 @@
     "tier2": "area",
     "hubName": "熊本",
     "rentalCarRecommended": false,
-    "unsplashUrl": "https://images.unsplash.com/photo-1692726450940-9fac733bcf2e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclODklOUIlRTYlQjclQjElRTYlQjglQUYlMjAlRTclODklOUIlRTYlQjclQjF8ZW58MHwwfHx8MTc3ODQ2NzM2NHww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1692726450940-9fac733bcf2e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclODklOUIlRTYlQjclQjElRTYlQjglQUYlMjAlRTclODklOUIlRTYlQjclQjF8ZW58MHwwfHx8MTc3ODQ2NzM2NHww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Max Chen",
-    "unsplashCreditUrl": "https://unsplash.com/@maxchen2k?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-group-of-boats-that-are-sitting-in-the-water-8ECKtN2d4L8?utm_source=dokoiko&utm_medium=referral",
     "images": [
       "/images/ushibuka/main.jpg",
       "/images/ushibuka/spot-1.jpg",
@@ -127777,9 +127809,9 @@
     ],
     "bestSeason": "通年",
     "imageCredit": {
-      "author": "690 Noda",
-      "license": "CC BY 3.0",
-      "url": "https://commons.wikimedia.org/wiki/File:%E3%81%86%E3%81%97%E3%81%B6%E3%81%8B%E5%85%AC%E5%9C%92%E3%81%8B%E3%82%89%E3%83%8F%E3%82%A4%E3%83%A4%E5%A4%A7%E6%A9%8B_20121004.jpg",
+      "author": "Kenta Mabuchi from Fukuoka, Japan",
+      "license": "CC BY-SA 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AUshibuka_Hire_Bridge%2C_Kaisaikan1.jpg",
       "attributionRequired": true
     }
   },
@@ -128776,9 +128808,9 @@
     ],
     "bestSeason": "夏",
     "imageCredit": {
-      "author": "Saigen Jiro",
-      "license": "CC0",
-      "url": "https://commons.wikimedia.org/wiki/File:Nagatoro_Keikoku,_iwa-datami.jpg",
+      "author": "Abasaa",
+      "license": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File%3ANagatoro_Town_Office.JPG",
       "attributionRequired": false
     }
   },
@@ -132830,8 +132862,8 @@
     "bestSeason": "通年",
     "imageCredit": {
       "author": "ブルーノ・プラス",
-      "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Sensuijima_tosen_waitingroom.jpg",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3ASensuijima_tosen_waiting_area.jpg",
       "attributionRequired": true
     }
   },
@@ -133651,11 +133683,7 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "東京",
-    "unsplashUrl": "https://images.unsplash.com/photo-1572477908562-84e367441a70?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTQlQjglODklRTUlQjMlQUYlMjAlRTUlOUYlQkMlRTclOEUlODklRTclOUMlOEMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODQxMjQyN3ww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1572477908562-84e367441a70?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTQlQjglODklRTUlQjMlQUYlMjAlRTUlOUYlQkMlRTclOEUlODklRTclOUMlOEMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODQxMjQyN3ww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Guillem Cotcha",
-    "unsplashCreditUrl": "https://unsplash.com/@guillemcotcha?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/trees-in-forest-wRphSyceHVk?utm_source=dokoiko&utm_medium=referral",
     "rentalCarRecommended": true,
     "images": [
       "/images/mitsuminejinja/main.jpg",
@@ -133672,7 +133700,13 @@
       "ひとり旅向け",
       "カップル向け"
     ],
-    "bestSeason": "通年"
+    "bestSeason": "通年",
+    "imageCredit": {
+      "author": "Carbonium",
+      "license": "CC BY 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AMitsumine_Shrine_-_%E4%B8%89%E5%B3%AF%E7%A5%9E%E7%A4%BE_-_panoramio_(3).jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "kashima-saga",
@@ -133867,9 +133901,9 @@
     ],
     "bestSeason": "通年",
     "imageCredit": {
-      "author": "真人.青",
-      "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:%E9%B9%BF%E5%B3%B6%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0%E9%A7%85_%E9%A2%A8%E6%99%AF-1.jpg",
+      "author": "ja:User:Sanjo",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AMichinoeki_Kashima_Saga_200809.jpg",
       "attributionRequired": true
     }
   },
@@ -135073,7 +135107,13 @@
       "友達と",
       "海を眺める"
     ],
-    "bestSeason": "夏"
+    "bestSeason": "夏",
+    "imageCredit": {
+      "author": "Tail furry",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AIshiji_Beach%2C_Kashiwazaki%2C_Niigata%2C_Japan%2C_July_2024.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "yobetsu",
@@ -135867,9 +135907,9 @@
     ],
     "bestSeason": "春・秋",
     "imageCredit": {
-      "author": "Tokyo-Good",
-      "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Yugawara-Station-building-renewal2020.jpg",
+      "author": "BsBsBs",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AYugawara_view_of_downtown.jpg",
       "attributionRequired": true
     }
   },
@@ -136652,11 +136692,7 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "札幌",
-    "unsplashUrl": "https://images.unsplash.com/photo-1696832482316-f42e1570d0eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTYlOTglOUYlRTklODclOEUlRTMlODMlQUElRTMlODIlQkUlRTMlODMlQkMlRTMlODMlODglRTMlODMlODglRTMlODMlOUUlRTMlODMlQTAlMjAlRTUlOEQlQTAlRTUlODYlQTB8ZW58MHwwfHx8MTc3ODQ2OTI1MHww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1696832482316-f42e1570d0eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTYlOTglOUYlRTklODclOEUlRTMlODMlQUElRTMlODIlQkUlRTMlODMlQkMlRTMlODMlODglRTMlODMlODglRTMlODMlOUUlRTMlODMlQTAlMjAlRTUlOEQlQTAlRTUlODYlQTB8ZW58MHwwfHx8MTc3ODQ2OTI1MHww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "XS Xue",
-    "unsplashCreditUrl": "https://unsplash.com/@kngstm?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-building-with-balconies-and-balconies-on-the-side-of-it-jOAT6BAfCpQ?utm_source=dokoiko&utm_medium=referral",
     "rentalCarRecommended": true,
     "images": [
       "/images/shimekappu/main.jpg",
@@ -136671,7 +136707,13 @@
       "友達と",
       "秘境感あり"
     ],
-    "bestSeason": "冬"
+    "bestSeason": "冬",
+    "imageCredit": {
+      "author": "MaedaAkihiko",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AShimukappu-STA.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "otaki",
@@ -137677,9 +137719,9 @@
     ],
     "bestSeason": "秋",
     "imageCredit": {
-      "author": "予州",
+      "author": "Win-Do",
       "license": "CC BY-SA 3.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Niihama-tv.JPG",
+      "url": "https://commons.wikimedia.org/wiki/File%3AView_of_Niihama_city.jpg",
       "attributionRequired": true
     }
   },
@@ -138287,7 +138329,7 @@
     "imageCredit": {
       "author": "Psjk2106",
       "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Shionoe_Hotspring_Street.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File%3AShionoe_Hotspring_Street.jpg",
       "attributionRequired": true
     }
   },
@@ -139104,11 +139146,7 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "盛岡",
-    "unsplashUrl": "https://images.unsplash.com/photo-1700473759683-1151d41f76b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTQlQkElOTQlRTglODMlQkQlRTclQjclOUElRTYlQjIlQkYlRTclQjclOUElMjAlRTklOUQlOTIlRTYlQTMlQUUlRTclOUMlOEMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODQxNDI0MHww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1700473759683-1151d41f76b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTQlQkElOTQlRTglODMlQkQlRTclQjclOUElRTYlQjIlQkYlRTclQjclOUElMjAlRTklOUQlOTIlRTYlQTMlQUUlRTclOUMlOEMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODQxNDI0MHww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Jun Ohashi",
-    "unsplashCreditUrl": "https://unsplash.com/@juntarou555?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-large-body-of-water-with-a-bridge-in-the-background-csP-W5yLGAA?utm_source=dokoiko&utm_medium=referral",
     "rentalCarRecommended": true,
     "images": [
       "/images/gonosen/main.jpg",
@@ -139127,9 +139165,9 @@
     ],
     "bestSeason": "秋",
     "imageCredit": {
-      "author": "掬茶 This photo was taken with Fujifilm FinePix F770EXR",
-      "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Higashi-Noshiro_Station_bench.jpg",
+      "author": "Yamaguchi Yoshiaki from Japan",
+      "license": "CC BY-SA 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AJR_Gono_line_%E4%BA%94%E8%83%BD%E7%B7%9A_(2490083806).jpg",
       "attributionRequired": true
     }
   },
@@ -140407,11 +140445,7 @@
     "tier2": "spot",
     "hubName": "福岡",
     "rentalCarRecommended": true,
-    "unsplashUrl": "https://images.unsplash.com/photo-1743064288032-7ec83740277a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlQjklQjMlRTUlQjAlQkUlRTUlOEYlQjAlMjAlRTUlQjklQjMlRTUlQjAlQkUlRTUlOEYlQjB8ZW58MHwwfHx8MTc3ODU0NjM3MHww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1743064288032-7ec83740277a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlQjklQjMlRTUlQjAlQkUlRTUlOEYlQjAlMjAlRTUlQjklQjMlRTUlQjAlQkUlRTUlOEYlQjB8ZW58MHwwfHx8MTc3ODU0NjM3MHww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Ruby Huang",
-    "unsplashCreditUrl": "https://unsplash.com/@shan_5463?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/path-leads-to-two-gazebos-atop-a-hill-otiMTuKcyzg?utm_source=dokoiko&utm_medium=referral",
     "images": [
       "/images/hiraodai/main.jpg",
       "/images/hiraodai/spot-1.jpg",
@@ -140427,7 +140461,13 @@
       "絶景スポット",
       "山岳ハイキング"
     ],
-    "bestSeason": "夏"
+    "bestSeason": "夏",
+    "imageCredit": {
+      "author": "Si-take. at Japanese Wikipedia",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AHiraodai.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "bihoro-pass",
@@ -140616,11 +140656,7 @@
     "icCard": "suica",
     "tier2": "spot",
     "hubName": "釧路",
-    "unsplashUrl": "https://images.unsplash.com/photo-1710160926658-9f442f25a0cb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclQkUlOEUlRTUlQjklOEMlRTUlQjMlQTAlMjAlRTUlOEMlOTclRTYlQjUlQjclRTklODElOTMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODQxNDc0OHww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1710160926658-9f442f25a0cb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclQkUlOEUlRTUlQjklOEMlRTUlQjMlQTAlMjAlRTUlOEMlOTclRTYlQjUlQjclRTklODElOTMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODQxNDc0OHww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Da-shika",
-    "unsplashCreditUrl": "https://unsplash.com/@da_shika_photo?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-snow-covered-mountain-with-people-standing-on-top-of-it-ZaMCVUHZo0Q?utm_source=dokoiko&utm_medium=referral",
     "rentalCarRecommended": true,
     "images": [
       "/images/bihoro-pass/main.jpg",
@@ -140640,9 +140676,9 @@
     ],
     "bestSeason": "秋",
     "imageCredit": {
-      "author": "切干大根",
-      "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Bihoro_Pass_201909.jpg",
+      "author": "Mamusi Taka",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3A%E7%BE%8E%E5%B9%8C%E5%B3%A01973_-_panoramio.jpg",
       "attributionRequired": true
     }
   },
@@ -141063,11 +141099,7 @@
     "tier2": "spot",
     "hubName": "釧路",
     "rentalCarRecommended": true,
-    "unsplashUrl": "https://images.unsplash.com/photo-1648224770297-41268d59a95a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTMlODIlQjUlRTMlODMlQUQlRTMlODMlOUUlRTYlQjklOTYlMjAlRTMlODIlQjUlRTMlODMlQUQlRTMlODMlOUUlRTYlQjklOTZ8ZW58MHwwfHx8MTc3ODU0NjQ0Mnww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1648224770297-41268d59a95a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTMlODIlQjUlRTMlODMlQUQlRTMlODMlOUUlRTYlQjklOTYlMjAlRTMlODIlQjUlRTMlODMlQUQlRTMlODMlOUUlRTYlQjklOTZ8ZW58MHwwfHx8MTc3ODU0NjQ0Mnww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Ryuta F.",
-    "unsplashCreditUrl": "https://unsplash.com/@ryutaf?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-large-body-of-water-surrounded-by-mountains-n-mXiMxLC5c?utm_source=dokoiko&utm_medium=referral",
     "images": [
       "/images/saroma-ko/main.jpg",
       "/images/saroma-ko/spot-1.jpg",
@@ -141086,7 +141118,7 @@
     "imageCredit": {
       "author": "MaedaAkihiko",
       "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Saroma-lake_Salicornia-europaea.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File%3ASaroma-lake_Salicornia-europaea.jpg",
       "attributionRequired": true
     }
   },
@@ -142180,9 +142212,9 @@
     ],
     "bestSeason": "夏",
     "imageCredit": {
-      "author": "掬茶",
-      "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Mt._Chokai_seen_from_Foresta_Chokai.jpg",
+      "author": "kyohei ito",
+      "license": "CC BY-SA 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AMount_Ch%C5%8Dkai_(2017-05-19)_-_Flickr.jpg",
       "attributionRequired": true
     }
   },
@@ -142824,10 +142856,10 @@
     ],
     "bestSeason": "夏",
     "imageCredit": {
-      "author": "Wakuwaku99",
-      "license": "Public domain",
-      "url": "https://commons.wikimedia.org/wiki/File:Mount_Nyukasa_seen_from_near_Fujimi_Station.JPG",
-      "attributionRequired": false
+      "author": "Σ64 (talk)",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AMt.Nyukasa_01.jpg",
+      "attributionRequired": true
     }
   },
   {
@@ -145844,7 +145876,7 @@
     "imageCredit": {
       "author": "ja:User:Sanjo",
       "license": "Public domain",
-      "url": "https://commons.wikimedia.org/wiki/File:Gokase_Town_Office_2022_01.JPG",
+      "url": "https://commons.wikimedia.org/wiki/File%3AGokase_Geo-Park.JPG",
       "attributionRequired": false
     }
   },
@@ -146477,7 +146509,7 @@
     "imageCredit": {
       "author": "Fumihiko Ueno",
       "license": "CC BY 3.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Bise,_Motobu,_Kunigami_District,_Okinawa_Prefecture_905-0207,_Japan_-_panoramio_(1).jpg",
+      "url": "https://commons.wikimedia.org/wiki/File%3ABise%2C_Motobu%2C_Kunigami_District%2C_Okinawa_Prefecture_905-0207%2C_Japan_-_panoramio_(1).jpg",
       "attributionRequired": true
     }
   },
@@ -147357,9 +147389,9 @@
     "staySearchUrl": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%25E5%25BE%25A1%25E8%2594%25B5%25E5%25B3%25B6",
     "bestSeason": "通年",
     "imageCredit": {
-      "author": "さかおり",
+      "author": "Izawa Ryu",
       "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:View_of_Mikurajima_from_aircraft.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File%3AMikura-jima.jpg",
       "attributionRequired": true
     }
   },
@@ -147474,7 +147506,13 @@
       "jalan": "日振島"
     },
     "staySearchUrl": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%25E6%2597%25A5%25E6%258C%25AF%25E5%25B3%25B6",
-    "bestSeason": "夏"
+    "bestSeason": "夏",
+    "imageCredit": {
+      "author": "ブルーノ・プラス",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AHiburi_island_clinic.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "tonaki",
@@ -148056,10 +148094,10 @@
     "staySearchUrl": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%25E5%258D%2597%25E5%25A4%25A7%25E6%259D%25B1%25E5%25B3%25B6",
     "bestSeason": "通年",
     "imageCredit": {
-      "author": "NASA Johnson Space Center",
-      "license": "Public domain",
-      "url": "https://commons.wikimedia.org/wiki/File:Minami_Daito_Jima_ISS002.jpg",
-      "attributionRequired": false
+      "author": "衛兵隊衛士 at Japanese Wikipedia",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AMinamidaito-154.jpg",
+      "attributionRequired": true
     }
   },
   {
@@ -149225,11 +149263,7 @@
     "icCard": null,
     "tier2": "spot",
     "hubName": "大阪",
-    "unsplashUrl": "https://images.unsplash.com/photo-1684655532308-dfd0e3e72221?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTYlQjIlQkMlRTUlQjMlQjYlRTYlQjglQUYlMjAlRTYlQjIlQkMlRTUlQjMlQjZ8ZW58MHwwfHx8MTc3ODU0ODc2NXww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1684655532308-dfd0e3e72221?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTYlQjIlQkMlRTUlQjMlQjYlRTYlQjglQUYlMjAlRTYlQjIlQkMlRTUlQjMlQjZ8ZW58MHwwfHx8MTc3ODU0ODc2NXww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Kouji Tsuru",
-    "unsplashCreditUrl": "https://unsplash.com/@pafuxu?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-body-of-water-with-a-small-town-in-the-background-16f-zvxas58?utm_source=dokoiko&utm_medium=referral",
     "rentalCarRecommended": true,
     "images": [
       "/images/nushima/main.jpg"
@@ -149252,9 +149286,9 @@
     "staySearchUrl": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%25E6%25B2%25BC%25E5%25B3%25B6",
     "bestSeason": "夏",
     "imageCredit": {
-      "author": "藤谷良秀",
-      "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Nushima_light.jpg",
+      "author": "Pinqui",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3ANushima_1.jpg",
       "attributionRequired": true
     }
   },
@@ -149829,11 +149863,7 @@
     "icCard": null,
     "tier2": "spot",
     "hubName": "仙台",
-    "unsplashUrl": "https://images.unsplash.com/photo-1640911411357-f53335fd2b3c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTYlODElOTAlRTUlQjElQjElRTMlODIlQTglRTMlODMlQUElRTMlODIlQTIlMjAlRTklOUQlOTIlRTYlQTMlQUUlRTclOUMlOEMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODQxNzk0M3ww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1640911411357-f53335fd2b3c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTYlODElOTAlRTUlQjElQjElRTMlODIlQTglRTMlODMlQUElRTMlODIlQTIlMjAlRTklOUQlOTIlRTYlQTMlQUUlRTclOUMlOEMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODQxNzk0M3ww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Ricardo Díaz",
-    "unsplashCreditUrl": "https://unsplash.com/@rdiazcaris?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-view-of-a-mountain-range-with-a-cloud-in-the-sky-VwAmgs2GwIA?utm_source=dokoiko&utm_medium=referral",
     "rentalCarRecommended": true,
     "images": [
       "/images/osorezan-area/main.jpg",
@@ -149850,10 +149880,10 @@
     ],
     "bestSeason": "冬",
     "imageCredit": {
-      "author": "Daderot",
-      "license": "CC0",
-      "url": "https://commons.wikimedia.org/wiki/File:Fumerole_-_Mount_Osore_-_Mutsu,_Aomori_-_DSC00452.jpg",
-      "attributionRequired": false
+      "author": "あおもりくま",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Sacred_Mount_Osorezan_20200601a_stitching9.jpg",
+      "attributionRequired": true
     }
   },
   {
@@ -150572,9 +150602,9 @@
     },
     "_accessAutoFixed": "islandFix",
     "imageCredit": {
-      "author": "Asturio Cantabrio",
+      "author": "Alpsdake",
       "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Toshi_island_Toshi_district_alley_ac_(3).jpg",
+      "url": "https://commons.wikimedia.org/wiki/File%3AT%C5%8Dshijima.jpg",
       "attributionRequired": true
     }
   },
@@ -151056,7 +151086,13 @@
         }
       ]
     },
-    "_accessAutoFixed": "islandFix"
+    "_accessAutoFixed": "islandFix",
+    "imageCredit": {
+      "author": "Opqr",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AKii_oshima_zenkei.JPG",
+      "attributionRequired": true
+    }
   },
   {
     "id": "daikonshima",
@@ -151519,11 +151555,7 @@
       "jalan": "https://www.jalan.net/350000/"
     },
     "rentalCarRecommended": false,
-    "unsplashUrl": "https://images.unsplash.com/photo-1690813669611-7984eb61fb7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTYlQjUlQjclRTQlQjglOEElRTMlODIlQTIlRTMlODMlQUIlRTMlODMlOTclRTMlODIlQjklMjAlRTklOUQlOTIlRTYlQjUlQjclRTUlQjMlQjZ8ZW58MHwwfHx8MTc3ODU1MDAwMXww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1690813669611-7984eb61fb7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTYlQjUlQjclRTQlQjglOEElRTMlODIlQTIlRTMlODMlQUIlRTMlODMlOTclRTMlODIlQjklMjAlRTklOUQlOTIlRTYlQjUlQjclRTUlQjMlQjZ8ZW58MHwwfHx8MTc3ODU1MDAwMXww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Tunafish",
-    "unsplashCreditUrl": "https://unsplash.com/@ultratunafish?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-group-of-boats-sitting-on-top-of-a-sandy-beach-1iEPH0VSPvM?utm_source=dokoiko&utm_medium=referral",
     "images": [
       "/images/omijima/main.jpg",
       "/images/omijima/spot-1.jpg",
@@ -151559,7 +151591,7 @@
     "imageCredit": {
       "author": "inunami",
       "license": "CC BY 2.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Nagato_20201212134948_(50852964783).jpg",
+      "url": "https://commons.wikimedia.org/wiki/File%3ANagato_20201212124831_(50853784352).jpg",
       "attributionRequired": true
     }
   },
@@ -152564,7 +152596,13 @@
         }
       ]
     },
-    "_accessAutoFixed": "islandFix"
+    "_accessAutoFixed": "islandFix",
+    "imageCredit": {
+      "author": "tsuda",
+      "license": "CC BY-SA 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AKikai_Island_Kagoshima_prefecture_Wikivoyage_banner.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "tokunoshima",
@@ -153333,7 +153371,13 @@
         }
       ]
     },
-    "_accessAutoFixed": "islandFix"
+    "_accessAutoFixed": "islandFix",
+    "imageCredit": {
+      "author": "松岡明芳",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3A2016-02-28_Nakamoto_Beach%2CKuroshima(Taketomi%2C_Okinawa)_%E6%B2%96%E7%B8%84%E7%9C%8C%E5%85%AB%E9%87%8D%E5%B1%B1%E8%AB%B8%E5%B3%B6%E3%83%BB%E9%BB%92%E5%B3%B6%2C%E4%BB%B2%E6%9C%AC%E6%B5%B7%E5%B2%B8%E4%BB%98%E8%BF%91%E3%81%AE%E5%BB%83%E5%A2%9FDSCF4266.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "kurima-island",
@@ -153458,9 +153502,9 @@
     },
     "_accessAutoFixed": "islandFix",
     "imageCredit": {
-      "author": "663highland",
-      "license": "CC BY 2.5",
-      "url": "https://commons.wikimedia.org/wiki/File:Kurimajima_Miyakojima_Okinawa_Japan02n4500.jpg",
+      "author": "Graeme Bartlett",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AKurima_aerial.jpg",
       "attributionRequired": true
     }
   },
@@ -153940,11 +153984,7 @@
       "rakutenLabel": "青森の宿"
     },
     "rentalCarRecommended": true,
-    "unsplashUrl": "https://images.unsplash.com/photo-1755878482544-83f0259a564a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlOEQlODElRTQlQkElOEMlRTYlQjklOTYlMjAlRTclOTklQkQlRTclQTUlOUUlRTUlQjElQjElRTUlOUMlQjB8ZW58MHwwfHx8MTc3ODU1MTU5Nnww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1755878482544-83f0259a564a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlOEQlODElRTQlQkElOEMlRTYlQjklOTYlMjAlRTclOTklQkQlRTclQTUlOUUlRTUlQjElQjElRTUlOUMlQjB8ZW58MHwwfHx8MTc3ODU1MTU5Nnww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "JJ YTAH",
-    "unsplashCreditUrl": "https://unsplash.com/@alpha009?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/path-along-a-lake-with-trees-and-a-small-building-kN5ASSEk0lk?utm_source=dokoiko&utm_medium=referral",
     "images": [
       "/images/shirakami-sanchi/main.jpg",
       "/images/shirakami-sanchi/spot-1.jpg",
@@ -153961,9 +154001,9 @@
     ],
     "bestSeason": "春・夏",
     "imageCredit": {
-      "author": "掬茶",
-      "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Shirakami-sanchi_seen_from_Noshiro_at_sunset_time.jpg",
+      "author": "らんで",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3ASirakami_santi.JPG",
       "attributionRequired": true
     }
   },
@@ -154393,7 +154433,13 @@
       "高原リゾート",
       "リゾート気分"
     ],
-    "bestSeason": "春・夏"
+    "bestSeason": "春・夏",
+    "imageCredit": {
+      "author": "Raita Futo from Tokyo, Japan",
+      "license": "CC BY 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AYatsugatake_Mountains_(53108289746).jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "ohara",
@@ -154600,11 +154646,7 @@
       "jalan": "https://www.jalan.net/260000/"
     },
     "rentalCarRecommended": true,
-    "unsplashUrl": "https://images.unsplash.com/photo-1714383525085-87db093dc90f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTglQjIlQjQlRTglODglQjklRTclQTUlOUUlRTclQTQlQkUlMjAlRTglQjIlQjQlRTglODglQjl8ZW58MHwwfHx8MTc3ODU1MjAzMXww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1714383525085-87db093dc90f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTglQjIlQjQlRTglODglQjklRTclQTUlOUUlRTclQTQlQkUlMjAlRTglQjIlQjQlRTglODglQjl8ZW58MHwwfHx8MTc3ODU1MjAzMXww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "WANG Tianfang",
-    "unsplashCreditUrl": "https://unsplash.com/@senchannnn?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-group-of-people-in-a-boat-on-a-river-zQ45SQreVss?utm_source=dokoiko&utm_medium=referral",
     "images": [
       "/images/kifune/main.jpg",
       "/images/kifune/spot-1.jpg",
@@ -154631,9 +154673,9 @@
     ],
     "bestSeason": "夏・秋",
     "imageCredit": {
-      "author": "Hyppolyte de Saint-Rambert",
-      "license": "CC BY 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Kibune_(Kyoto_Sakyo-ku)_Kibune_River_hdsr_S5_02.jpg",
+      "author": "663highland",
+      "license": "CC BY 2.5",
+      "url": "https://commons.wikimedia.org/wiki/File%3AKibune_Kawadoko01s5s4272.jpg",
       "attributionRequired": true
     }
   },
@@ -154721,11 +154763,7 @@
       "jalan": "https://www.jalan.net/220000/"
     },
     "rentalCarRecommended": true,
-    "unsplashUrl": "https://images.unsplash.com/photo-1669323907353-98dfd9f45ad6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlQTQlQTIlRTMlODElQUUlRTUlOTAlOEElRTMlODIlOEElRTYlQTklOEIlMjAlRTUlQUYlQjglRTUlOEYlODglRTUlQjMlQTF8ZW58MHwwfHx8MTc3ODU1MjEwNHww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1669323907353-98dfd9f45ad6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlQTQlQTIlRTMlODElQUUlRTUlOTAlOEElRTMlODIlOEElRTYlQTklOEIlMjAlRTUlQUYlQjglRTUlOEYlODglRTUlQjMlQTF8ZW58MHwwfHx8MTc3ODU1MjEwNHww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Roxana I",
-    "unsplashCreditUrl": "https://unsplash.com/@roxdidi?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-bridge-over-a-river-yS8kKzUntNk?utm_source=dokoiko&utm_medium=referral",
     "images": [
       "/images/sumatakyo/main.jpg",
       "/images/sumatakyo/spot-1.jpg",
@@ -154741,7 +154779,13 @@
       "温泉がおすすめ",
       "絶景スポット"
     ],
-    "bestSeason": "冬"
+    "bestSeason": "冬",
+    "imageCredit": {
+      "author": "Mamusi Taka",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3A%E5%AF%B8%E5%8F%88%E5%B3%A1%E6%B8%A9%E6%B3%89%E3%81%8B%E3%82%897%E6%99%82%E9%96%93%E6%AD%A9%E3%81%8F_1994-11-05_-_panoramio.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "nishi-izu",
@@ -154828,11 +154872,7 @@
       "jalan": "https://www.jalan.net/220000/"
     },
     "rentalCarRecommended": true,
-    "unsplashUrl": "https://images.unsplash.com/photo-1678284948847-377f27301fce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlQTAlODIlRTMlODMlQjYlRTUlQjMlQjYlMjAlRTglQTUlQkYlRTQlQkMlOEElRTglQjElODZ8ZW58MHwwfHx8MTc3ODU1MjE3N3ww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1678284948847-377f27301fce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlQTAlODIlRTMlODMlQjYlRTUlQjMlQjYlMjAlRTglQTUlQkYlRTQlQkMlOEElRTglQjElODZ8ZW58MHwwfHx8MTc3ODU1MjE3N3ww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Lux Park",
-    "unsplashCreditUrl": "https://unsplash.com/@luxpark?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-group-of-people-standing-on-top-of-a-lush-green-hillside-next-to-the-ocean-zXBkDVvv4pw?utm_source=dokoiko&utm_medium=referral",
     "images": [
       "/images/nishi-izu/main.jpg",
       "/images/nishi-izu/spot-1.jpg",
@@ -154848,9 +154888,9 @@
     ],
     "bestSeason": "秋",
     "imageCredit": {
-      "author": "Photos of Japan",
-      "license": "CC0",
-      "url": "https://commons.wikimedia.org/wiki/File:Dogashima_Tombolo_April_7_1033.jpg",
+      "author": "Batholith (Wikimedia Commons)Batholith (Wikipedia)",
+      "license": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File%3ANishiizu_20121019.jpg",
       "attributionRequired": false
     }
   },
@@ -155064,10 +155104,10 @@
     ],
     "bestSeason": "冬",
     "imageCredit": {
-      "author": "Daderot",
-      "license": "CC0",
-      "url": "https://commons.wikimedia.org/wiki/File:Prince_Hakone_Lake_Ashinoko_-_Hakone,_Japan_-_DSC05535.jpg",
-      "attributionRequired": false
+      "author": "Mj-bird",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AThe_Prince_Hakone_Lake_Asinoko_(Winter)_2019.png",
+      "attributionRequired": true
     }
   },
   {
@@ -155248,11 +155288,7 @@
       "jalan": "https://www.jalan.net/090000/"
     },
     "rentalCarRecommended": true,
-    "unsplashUrl": "https://images.unsplash.com/photo-1682917597374-028d30cf15df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlQjclOUQlRTYlQjIlQkIlRTYlQjglQTklRTYlQjMlODklRTklODMlQjclMjAlRTUlQjclOUQlRTYlQjIlQkIlRTYlQjglQTklRTYlQjMlODl8ZW58MHwwfHx8MTc3ODU1MjQ2N3ww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1682917597374-028d30cf15df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlQjclOUQlRTYlQjIlQkIlRTYlQjglQTklRTYlQjMlODklRTklODMlQjclMjAlRTUlQjclOUQlRTYlQjIlQkIlRTYlQjglQTklRTYlQjMlODl8ZW58MHwwfHx8MTc3ODU1MjQ2N3ww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Josiah Ferraro",
-    "unsplashCreditUrl": "https://unsplash.com/@__jf__?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-wooden-bridge-over-a-river-next-to-a-mountain-ade9_iKaG-Q?utm_source=dokoiko&utm_medium=referral",
     "images": [
       "/images/kawaji-onsen/main.jpg",
       "/images/kawaji-onsen/spot-1.jpg",
@@ -155268,10 +155304,10 @@
     ],
     "bestSeason": "夏・秋",
     "imageCredit": {
-      "author": "663highland",
-      "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:250725_Kawaji_Onsen_Nikko_Tochigi_pref_Japan01s3.jpg",
-      "attributionRequired": true
+      "author": "妖精書士 (talk)",
+      "license": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File%3AKawaji_Hotspring01.JPG",
+      "attributionRequired": false
     }
   },
   {
@@ -155676,7 +155712,7 @@
     "imageCredit": {
       "author": "663highland",
       "license": "CC BY 2.5",
-      "url": "https://commons.wikimedia.org/wiki/File:140426_Tamatsukuri_Onsen_Matsue_Shimane_pref_Japan01n.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File%3A140427_Tamatsukuri_Onsen_Matsue_Shimane_pref_Japan07bs.jpg",
       "attributionRequired": true
     }
   },
@@ -157242,7 +157278,7 @@
     "imageCredit": {
       "author": "663highland",
       "license": "CC BY 2.5",
-      "url": "https://commons.wikimedia.org/wiki/File:150521_Kansai_University_Takatsuki_Muse_Campus_Takatsuki_Osaka_pref_Japan03n.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File%3ATakatsuki_Station06n3780.jpg",
       "attributionRequired": true
     }
   },
@@ -157633,11 +157669,7 @@
       "jalan": "https://www.jalan.net/ikisaki/map/fukui/"
     },
     "rentalCarRecommended": false,
-    "unsplashUrl": "https://images.unsplash.com/photo-1721632469643-b11fac75e8a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTglQjYlOEElRTUlODklOEQlRTklOTklQjYlRTglOEElQjglRTYlOUQlOTElMjAlRTglQjYlOEElRTUlODklOEQlRTclODQlQkMlRTMlODElQUUlRTklODclOEN8ZW58MHwwfHx8MTc3ODU1NDcxNnww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1721632469643-b11fac75e8a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTglQjYlOEElRTUlODklOEQlRTklOTklQjYlRTglOEElQjglRTYlOUQlOTElMjAlRTglQjYlOEElRTUlODklOEQlRTclODQlQkMlRTMlODElQUUlRTklODclOEN8ZW58MHwwfHx8MTc3ODU1NDcxNnww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Marco De Hevia",
-    "unsplashCreditUrl": "https://unsplash.com/@mdehevia?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-lush-green-field-with-houses-in-the-background-Fi8-YIjKoc8?utm_source=dokoiko&utm_medium=referral",
     "images": [
       "/images/echizen-pottery/main.jpg"
     ],
@@ -157648,7 +157680,13 @@
       "伝統工芸の里",
       "街歩き向け"
     ],
-    "bestSeason": "通年"
+    "bestSeason": "通年",
+    "imageCredit": {
+      "author": "Opqr",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AEchizen_yaki_cup.JPG",
+      "attributionRequired": true
+    }
   },
   {
     "id": "boso-hills",
@@ -158050,7 +158088,7 @@
     "imageCredit": {
       "author": "Asturio Cantabrio",
       "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:TOYAMA_KIRARI_Toyama_Glass_Art_Museum_ac_(3).jpg",
+      "url": "https://commons.wikimedia.org/wiki/File%3ATOYAMA_KIRARI_Toyama_Glass_Art_Museum_ac_(3).jpg",
       "attributionRequired": true
     }
   },
@@ -158144,11 +158182,7 @@
       "jalan": "https://www.jalan.net/160000/"
     },
     "rentalCarRecommended": false,
-    "unsplashUrl": "https://images.unsplash.com/photo-1720792445158-1788d7c6b612?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclOTElOUUlRTklQkUlOEQlRTUlQUYlQkElMjAlRTklQUIlOTglRTUlQjIlQTF8ZW58MHwwfHx8MTc3ODU1NTE1Mnww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1720792445158-1788d7c6b612?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclOTElOUUlRTklQkUlOEQlRTUlQUYlQkElMjAlRTklQUIlOTglRTUlQjIlQTF8ZW58MHwwfHx8MTc3ODU1NTE1Mnww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Sunao Noguchi",
-    "unsplashCreditUrl": "https://unsplash.com/@fwm3u?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-building-in-the-middle-of-a-park-qQLYsorFQKU?utm_source=dokoiko&utm_medium=referral",
     "images": [
       "/images/zuiryuji/main.jpg"
     ],
@@ -158162,10 +158196,10 @@
     ],
     "bestSeason": "春・秋",
     "imageCredit": {
-      "author": "shiro524",
-      "license": "CC BY 3.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Takaoka_montage.JPG",
-      "attributionRequired": true
+      "author": "minque",
+      "license": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File%3A%E5%AF%8C%E5%B1%B1%E7%9C%8C%E9%AB%98%E5%B2%A1%E9%A7%85%E5%8D%97%E5%8F%A31.jpg",
+      "attributionRequired": false
     }
   },
   {
@@ -158443,7 +158477,13 @@
     "images": [
       "/images/inawashiro/main.jpg"
     ],
-    "bestSeason": "通年"
+    "bestSeason": "通年",
+    "imageCredit": {
+      "author": "Σ64",
+      "license": "CC BY 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3ALake_Inawashiro_02.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "iwaki-spa",
@@ -158823,11 +158863,7 @@
       "jalan": "https://www.jalan.net/260000/"
     },
     "rentalCarRecommended": true,
-    "unsplashUrl": "https://images.unsplash.com/photo-1728633835386-4c154522b77b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlQUYlODIlRTUlODUlODklRTklOTklQTIlMjAlRTUlQTQlQTclRTUlOEUlOUYlRTMlODElQUUlRTklODclOEN8ZW58MHwwfHx8MTc3ODU1NTczMnww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1728633835386-4c154522b77b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlQUYlODIlRTUlODUlODklRTklOTklQTIlMjAlRTUlQTQlQTclRTUlOEUlOUYlRTMlODElQUUlRTklODclOEN8ZW58MHwwfHx8MTc3ODU1NTczMnww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Arthur Tseng",
-    "unsplashCreditUrl": "https://unsplash.com/@arthur3607?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-house-in-the-middle-of-a-wooded-area-_Q1f-ZBWxV4?utm_source=dokoiko&utm_medium=referral",
     "images": [
       "/images/ohara-2/main.jpg"
     ],
@@ -158839,7 +158875,13 @@
       "秘境感あり",
       "秋の紅葉名所"
     ],
-    "bestSeason": "秋"
+    "bestSeason": "秋",
+    "imageCredit": {
+      "author": "C2revenge",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3A%E9%AB%98%E5%80%89%E5%A4%A9%E7%9A%87%E7%9A%87%E5%90%8E%E5%BE%B3%E5%AD%90%E5%A4%A7%E5%8E%9F%E8%A5%BF%E9%99%B5%EF%BC%88%E5%AF%82%E5%85%89%E9%99%A2%EF%BC%89.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "keihoku",
@@ -158920,11 +158962,7 @@
       "jalan": "https://www.jalan.net/260000/"
     },
     "rentalCarRecommended": true,
-    "unsplashUrl": "https://images.unsplash.com/photo-1776101418108-16abff3ab2e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlQjglQjglRTclODUlQTclRTclOUElODclRTUlQUYlQkElMjAlRTQlQkElQUMlRTUlOEMlOTd8ZW58MHwwfHx8MTc3ODU1NTgwNXww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1776101418108-16abff3ab2e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlQjglQjglRTclODUlQTclRTclOUElODclRTUlQUYlQkElMjAlRTQlQkElQUMlRTUlOEMlOTd8ZW58MHwwfHx8MTc3ODU1NTgwNXww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Seval Torun",
-    "unsplashCreditUrl": "https://unsplash.com/@sevaltorun?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-traditional-japanese-temple-with-a-pagoda-vtieXt5ae8E?utm_source=dokoiko&utm_medium=referral",
     "images": [
       "/images/keihoku/main.jpg"
     ],
@@ -158937,7 +158975,13 @@
       "秘境感あり",
       "春の桜名所"
     ],
-    "bestSeason": "春"
+    "bestSeason": "春",
+    "imageCredit": {
+      "author": "Indiana jo",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3A%E4%BA%AC%E9%83%BD%E5%BA%9C%E9%81%9361%E5%8F%B7.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "takeda-castle",
@@ -159196,11 +159240,7 @@
       "jalan": "https://www.jalan.net/370000/"
     },
     "rentalCarRecommended": false,
-    "unsplashUrl": "https://images.unsplash.com/photo-1719239727357-da641605e006?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlOTYlODQlRTklODAlOUElRTUlQUYlQkElMjAlRTUlOTYlODQlRTklODAlOUElRTUlQUYlQkF8ZW58MHwwfHx8MTc3ODU1NjA5Nnww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1719239727357-da641605e006?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlOTYlODQlRTklODAlOUElRTUlQUYlQkElMjAlRTUlOTYlODQlRTklODAlOUElRTUlQUYlQkF8ZW58MHwwfHx8MTc3ODU1NjA5Nnww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Naoki Suzuki",
-    "unsplashCreditUrl": "https://unsplash.com/@naopp?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-garden-with-a-statue-in-the-middle-of-it-SE3yCXOnqkE?utm_source=dokoiko&utm_medium=referral",
     "images": [
       "/images/zentsuji/main.jpg"
     ],
@@ -159211,7 +159251,13 @@
       "日帰り最適",
       "1泊がおすすめ"
     ],
-    "bestSeason": "通年"
+    "bestSeason": "通年",
+    "imageCredit": {
+      "author": "iPhone修理/カスタマイズパーツ販売…",
+      "license": "CC BY 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3A%E9%A6%99%E5%B7%9D%E7%9C%8C%E5%96%84%E9%80%9A%E5%AF%BA%E5%B8%82%E5%96%84%E9%80%9A%E5%AF%BA_-_panoramio_(7).jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "katsurahama",
@@ -159785,11 +159831,7 @@
       "jalan": "https://www.jalan.net/ikisaki/map/niigata/"
     },
     "rentalCarRecommended": false,
-    "unsplashUrl": "https://images.unsplash.com/photo-1641788915523-8da380164c92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTMlODMlOTQlRTMlODIlQTJCYW5kYWklMjAlRTYlOTYlQjAlRTYlQkQlOUZ8ZW58MHwwfHx8MTc3ODU1NjYwM3ww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1641788915523-8da380164c92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTMlODMlOTQlRTMlODIlQTJCYW5kYWklMjAlRTYlOTYlQjAlRTYlQkQlOUZ8ZW58MHwwfHx8MTc3ODU1NjYwM3ww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Yuichi Hisatsugu",
-    "unsplashCreditUrl": "https://unsplash.com/@yuichihisatsugu?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-snow-covered-mountain-range-with-houses-in-the-foreground-7UlLwpiWEog?utm_source=dokoiko&utm_medium=referral",
     "images": [
       "/images/niigata-city/main.jpg"
     ],
@@ -159802,7 +159844,13 @@
       "街歩き向け",
       "グルメ目当て"
     ],
-    "bestSeason": "秋"
+    "bestSeason": "秋",
+    "imageCredit": {
+      "author": "国土交通省",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3ANiigata_municipal_airport.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "echigo-tsumari",
@@ -159993,11 +160041,7 @@
       "jalan": "https://www.jalan.net/ikisaki/map/niigata/"
     },
     "rentalCarRecommended": false,
-    "unsplashUrl": "https://images.unsplash.com/photo-1635252273211-d0d5fb502c8a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTYlQjklQUYlRTYlQjIlQTIlRTklQUIlOTglRTUlOEUlOUYlMjAlRTYlQjklQUYlRTYlQjIlQTJ8ZW58MHwwfHx8MTc3ODU1Njc0OHww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1635252273211-d0d5fb502c8a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTYlQjklQUYlRTYlQjIlQTIlRTklQUIlOTglRTUlOEUlOUYlMjAlRTYlQjklQUYlRTYlQjIlQTJ8ZW58MHwwfHx8MTc3ODU1Njc0OHww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Freezer",
-    "unsplashCreditUrl": "https://unsplash.com/@freezer_nico?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-view-of-the-mountains-from-a-high-point-of-view-Op4CE6iBTDU?utm_source=dokoiko&utm_medium=referral",
     "images": [
       "/images/nozawa-onsen-niigata/main.jpg"
     ],
@@ -160011,7 +160055,13 @@
       "1泊がおすすめ",
       "温泉がおすすめ"
     ],
-    "bestSeason": "夏"
+    "bestSeason": "夏",
+    "imageCredit": {
+      "author": "Abasaa",
+      "license": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File%3ANaeba_Prince_Hotel_01.JPG",
+      "attributionRequired": false
+    }
   },
   {
     "id": "kanazawa-castle",
@@ -160179,11 +160229,7 @@
       "jalan": "https://www.jalan.net/ikisaki/map/ishikawa/"
     },
     "rentalCarRecommended": false,
-    "unsplashUrl": "https://images.unsplash.com/photo-1582272501906-c9254daf109d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlQkYlOTclRTYlOTElQTklMjAlRTMlODElQjIlRTMlODElOEMlRTMlODElOTclRTglOEMlQjYlRTUlQjElOEIlRTglQTElOTd8ZW58MHwwfHx8MTc3ODU1Njg5NHww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1582272501906-c9254daf109d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlQkYlOTclRTYlOTElQTklMjAlRTMlODElQjIlRTMlODElOEMlRTMlODElOTclRTglOEMlQjYlRTUlQjElOEIlRTglQTElOTd8ZW58MHwwfHx8MTc3ODU1Njg5NHww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Miki M",
-    "unsplashCreditUrl": "https://unsplash.com/@orcamatsu?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/people-walking-on-sidewalk-during-daytime-bZXOYmr61mk?utm_source=dokoiko&utm_medium=referral",
     "images": [
       "/images/higashi-chaya/main.jpg"
     ],
@@ -160194,7 +160240,13 @@
       "日帰り最適",
       "街歩き向け"
     ],
-    "bestSeason": "通年"
+    "bestSeason": "通年",
+    "imageCredit": {
+      "author": "寅次郎",
+      "license": "CC BY 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3A%E3%81%B2%E3%81%8C%E3%81%97%E8%8C%B6%E5%B1%8B%E8%A1%97_Higashiyama%2C_Kanazawa_-_Jan_21%2C_2017.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "soya-misaki",
@@ -160288,7 +160340,13 @@
     "images": [
       "/images/soya-misaki/main.jpg"
     ],
-    "bestSeason": "秋・冬"
+    "bestSeason": "秋・冬",
+    "imageCredit": {
+      "author": "Searobin",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3ASunset_of_Cape_Soya.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "rebun-no-tour",
@@ -162592,11 +162650,7 @@
       "jalan": "https://www.jalan.net/330000/"
     },
     "rentalCarRecommended": false,
-    "unsplashUrl": "https://images.unsplash.com/photo-1718276219557-fce7dcc8b876?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlQjIlQTElRTUlQjElQjElRTUlOUYlOEUlMjAlRTUlQjIlQTElRTUlQjElQjF8ZW58MHwwfHx8MTc3ODU1ODg2MHww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1718276219557-fce7dcc8b876?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlQjIlQTElRTUlQjElQjElRTUlOUYlOEUlMjAlRTUlQjIlQTElRTUlQjElQjF8ZW58MHwwfHx8MTc3ODU1ODg2MHww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Naoki Suzuki",
-    "unsplashCreditUrl": "https://unsplash.com/@naopp?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-bunch-of-plants-that-are-on-a-table-Xpge-eTcVKk?utm_source=dokoiko&utm_medium=referral",
     "images": [
       "/images/okayama-city/main.jpg"
     ],
@@ -162608,7 +162662,13 @@
       "1泊がおすすめ",
       "街歩き向け"
     ],
-    "bestSeason": "秋"
+    "bestSeason": "秋",
+    "imageCredit": {
+      "author": "ブルーノ・プラス",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AOkayama_airport_terminal.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "akiyoshido",
@@ -163190,7 +163250,13 @@
     "images": [
       "/images/kagoshima-city/main.jpg"
     ],
-    "bestSeason": "春"
+    "bestSeason": "春",
+    "imageCredit": {
+      "author": "663highland",
+      "license": "CC BY 2.5",
+      "url": "https://commons.wikimedia.org/wiki/File%3AKagoshima_Airport01n4592.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "ibusuki-onsen",
@@ -163663,7 +163729,13 @@
     "images": [
       "/images/tokushima-city/main.jpg"
     ],
-    "bestSeason": "通年"
+    "bestSeason": "通年",
+    "imageCredit": {
+      "author": "ブルーノ・プラス",
+      "license": "CC BY 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3ATokushima_Airport_Aerial_photograph.2024.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "aharen",
@@ -163766,7 +163838,13 @@
         }
       ]
     },
-    "_accessAutoFixed": "islandFix"
+    "_accessAutoFixed": "islandFix",
+    "imageCredit": {
+      "author": "Kennosuke Yamaguchi from Tokyo, Japan",
+      "license": "CC BY-SA 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3ATokashikijima_2004.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "omiya-bonsai",
@@ -163845,11 +163923,7 @@
       "jalan": "https://www.jalan.net/110000/"
     },
     "rentalCarRecommended": false,
-    "unsplashUrl": "https://images.unsplash.com/photo-1702846836523-ada184b06c7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTQlQjglOTYlRTclOTUlOEMlRTclOUIlODYlRTYlQTAlQkQlRTclQkUlOEUlRTglQTElOTMlRTklQTQlQTglMjAlRTUlQTQlQTclRTUlQUUlQUUlRTclOUIlODYlRTYlQTAlQkQlRTclQkUlOEUlRTglQTElOTMlRTklQTQlQTh8ZW58MHwwfHx8MTc3ODU2MDMxMXww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1702846836523-ada184b06c7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTQlQjglOTYlRTclOTUlOEMlRTclOUIlODYlRTYlQTAlQkQlRTclQkUlOEUlRTglQTElOTMlRTklQTQlQTglMjAlRTUlQTQlQTclRTUlQUUlQUUlRTclOUIlODYlRTYlQTAlQkQlRTclQkUlOEUlRTglQTElOTMlRTklQTQlQTh8ZW58MHwwfHx8MTc3ODU2MDMxMXww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Chuck Eugene",
-    "unsplashCreditUrl": "https://unsplash.com/@chuckhifi?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-couple-of-bonsai-trees-sitting-on-top-of-a-stone-ground---YsoVX8Nvo?utm_source=dokoiko&utm_medium=referral",
     "images": [
       "/images/omiya-bonsai/main.jpg"
     ],
@@ -163860,7 +163934,13 @@
       "アートの島",
       "伝統工芸の里"
     ],
-    "bestSeason": "通年"
+    "bestSeason": "通年",
+    "imageCredit": {
+      "author": "TypeZero",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AOmiyaBonsaiVillage_%C5%8Cmiya-Bonsai-Art-Museum_001.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "hitsujiyama",
@@ -164608,11 +164688,7 @@
       "jalan": "https://www.jalan.net/410000/"
     },
     "rentalCarRecommended": true,
-    "unsplashUrl": "https://images.unsplash.com/photo-1739036145669-20bb951cc1d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTglOTklQjklRTMlODElQUUlRTYlOUQlQkUlRTUlOEUlOUYlMjAlRTglOTklQjklRTMlODElQUUlRTYlOUQlQkUlRTUlOEUlOUZ8ZW58MHwwfHx8MTc3ODU2MTMyNnww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1739036145669-20bb951cc1d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTglOTklQjklRTMlODElQUUlRTYlOUQlQkUlRTUlOEUlOUYlMjAlRTglOTklQjklRTMlODElQUUlRTYlOUQlQkUlRTUlOEUlOUZ8ZW58MHwwfHx8MTc3ODU2MTMyNnww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "wei",
-    "unsplashCreditUrl": "https://unsplash.com/@chanwei_snap?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-person-driving-a-car-through-a-forest-filled-with-trees-AvEp2jdZchQ?utm_source=dokoiko&utm_medium=referral",
     "images": [
       "/images/niji-no-matsubara/main.jpg"
     ],
@@ -164626,7 +164702,13 @@
       "海を眺める",
       "街歩き向け"
     ],
-    "bestSeason": "夏"
+    "bestSeason": "夏",
+    "imageCredit": {
+      "author": "ascesis",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3ANijinomatsubara.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "nara-park",
@@ -165679,7 +165761,13 @@
     "images": [
       "/images/mikuni-minato/main.jpg"
     ],
-    "bestSeason": "夏"
+    "bestSeason": "夏",
+    "imageCredit": {
+      "author": "藤谷良秀",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3ARuins_of_Mikuni-Minato_Castle.JPG",
+      "attributionRequired": true
+    }
   },
   {
     "id": "hyo-sho",
@@ -166499,11 +166587,7 @@
       "jalan": "https://www.jalan.net/ikisaki/map/yamanashi/"
     },
     "rentalCarRecommended": true,
-    "unsplashUrl": "https://images.unsplash.com/photo-1626261471733-f0980eada71b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTglQTUlQkYlRTYlQjklOTYlMjAlRTglQTUlQkYlRTYlQjklOTZ8ZW58MHwwfHx8MTc3ODU2MzI4NXww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1626261471733-f0980eada71b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTglQTUlQkYlRTYlQjklOTYlMjAlRTglQTUlQkYlRTYlQjklOTZ8ZW58MHwwfHx8MTc3ODU2MzI4NXww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Lin Lone",
-    "unsplashCreditUrl": "https://unsplash.com/@linlone?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/brown-wooden-bench-near-body-of-water-during-daytime-KWKoKF3s6Xc?utm_source=dokoiko&utm_medium=referral",
     "images": [
       "/images/saiko/main.jpg"
     ],
@@ -166517,7 +166601,13 @@
       "湖畔のんびり",
       "街歩き向け"
     ],
-    "bestSeason": "秋"
+    "bestSeason": "秋",
+    "imageCredit": {
+      "author": "Utagawa Kuniaki II",
+      "license": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File%3AIchinoya-vs-Nishinoumi.jpg",
+      "attributionRequired": false
+    }
   },
   {
     "id": "shoji-lake",
@@ -166590,11 +166680,7 @@
       "jalan": "https://www.jalan.net/ikisaki/map/yamanashi/"
     },
     "rentalCarRecommended": true,
-    "unsplashUrl": "https://images.unsplash.com/photo-1774173511979-0d0bffe6ad77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclQjIlQkUlRTklODAlQjIlRTYlQjklOTYlMjAlRTclQjIlQkUlRTklODAlQjIlRTYlQjklOTZ8ZW58MHwwfHx8MTc3ODU2MzM1OHww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1774173511979-0d0bffe6ad77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclQjIlQkUlRTklODAlQjIlRTYlQjklOTYlMjAlRTclQjIlQkUlRTklODAlQjIlRTYlQjklOTZ8ZW58MHwwfHx8MTc3ODU2MzM1OHww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "PJH",
-    "unsplashCreditUrl": "https://unsplash.com/@dokae?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/calm-lake-with-mountains-under-a-clear-blue-sky-uUxD5JtgYf4?utm_source=dokoiko&utm_medium=referral",
     "images": [
       "/images/shoji-lake/main.jpg"
     ],
@@ -166607,7 +166693,13 @@
       "湖畔のんびり",
       "絶景スポット"
     ],
-    "bestSeason": "冬"
+    "bestSeason": "冬",
+    "imageCredit": {
+      "author": "Yones",
+      "license": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File%3AYamanashi_Prefectural_Road113_02.JPG",
+      "attributionRequired": false
+    }
   },
   {
     "id": "saiko-kawaguchi",
@@ -167080,11 +167172,7 @@
       "jalan": "https://www.jalan.net/210000/"
     },
     "rentalCarRecommended": false,
-    "unsplashUrl": "https://images.unsplash.com/photo-1652419675955-c6c5d52b0d02?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclQkUlOEUlRTYlQkYlODMlRTUlOTIlOEMlRTclQjQlOTklRTMlODElQUUlRTklODclOEMlRTQlQkMlOUElRTklQTQlQTglMjAlRTclQkUlOEUlRTYlQkYlODMlRTUlOTIlOEMlRTclQjQlOTklRTMlODElQUUlRTklODclOEN8ZW58MHwwfHx8MTc3ODU2MzcyMHww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1652419675955-c6c5d52b0d02?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclQkUlOEUlRTYlQkYlODMlRTUlOTIlOEMlRTclQjQlOTklRTMlODElQUUlRTklODclOEMlRTQlQkMlOUElRTklQTQlQTglMjAlRTclQkUlOEUlRTYlQkYlODMlRTUlOTIlOEMlRTclQjQlOTklRTMlODElQUUlRTklODclOEN8ZW58MHwwfHx8MTc3ODU2MzcyMHww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "choose your stories",
-    "unsplashCreditUrl": "https://unsplash.com/@chooseyourstories?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/books-on-a-shelf-bJb5YUXLK3U?utm_source=dokoiko&utm_medium=referral",
     "images": [
       "/images/mino-washi/main.jpg"
     ],
@@ -167097,7 +167185,13 @@
       "伝統工芸の里",
       "街歩き向け"
     ],
-    "bestSeason": "通年"
+    "bestSeason": "通年",
+    "imageCredit": {
+      "author": "Alpsdake",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AMINO-WASHI_Museum.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "yoro-falls",
@@ -167369,11 +167463,7 @@
       "jalan": "https://www.jalan.net/360000/"
     },
     "rentalCarRecommended": true,
-    "unsplashUrl": "https://images.unsplash.com/photo-1558612820-f5c14e2750f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTYlQjglQTYlRTMlODElQUUlRTklODElOTMlMjAlRTklQjMlQjQlRTklOTYlODAlRTMlODElQUUlRTYlQjglQTYlRTYlQkQlQUV8ZW58MHwwfHx8MTc3ODU2MzkzOHww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1558612820-f5c14e2750f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTYlQjglQTYlRTMlODElQUUlRTklODElOTMlMjAlRTklQjMlQjQlRTklOTYlODAlRTMlODElQUUlRTYlQjglQTYlRTYlQkQlQUV8ZW58MHwwfHx8MTc3ODU2MzkzOHww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Abbass Zahreddine",
-    "unsplashCreditUrl": "https://unsplash.com/@abbass?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/gray-road-path--m4mu6Na40w?utm_source=dokoiko&utm_medium=referral",
     "images": [
       "/images/naruto-uzu/main.jpg"
     ],
@@ -167385,7 +167475,13 @@
       "海を眺める",
       "絶景スポット"
     ],
-    "bestSeason": "春・秋"
+    "bestSeason": "春・秋",
+    "imageCredit": {
+      "author": "Mr. Udon",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3ATokushima_Prefectural_Naruto-Uzushio_(Ohtsu)_High_School.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "iya-vine-2",
@@ -168350,7 +168446,7 @@
     "imageCredit": {
       "author": "Naokijp",
       "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:%C5%8Ctori-taisha,_Sacred_Tree_001.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File%3A%C5%8Ctori-taisha%2C_Worship_Hall_001.jpg",
       "attributionRequired": true
     }
   },
@@ -168633,11 +168729,7 @@
       "jalan": "https://www.jalan.net/130000/"
     },
     "rentalCarRecommended": false,
-    "unsplashUrl": "https://images.unsplash.com/photo-1707903302328-9781cf562bb0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTYlOTYlQjAlRTUlQUUlQkYlRTUlQkUlQTElRTglOEIlOTElMjAlRTYlOTYlQjAlRTUlQUUlQkZ8ZW58MHwwfHx8MTc3ODU2NTE3Mnww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1707903302328-9781cf562bb0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTYlOTYlQjAlRTUlQUUlQkYlRTUlQkUlQTElRTglOEIlOTElMjAlRTYlOTYlQjAlRTUlQUUlQkZ8ZW58MHwwfHx8MTc3ODU2NTE3Mnww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "さいとう/ saitousai",
-    "unsplashCreditUrl": "https://unsplash.com/@saitousai?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-lush-green-bush-sitting-next-to-a-sidewalk-BF3iB_zK7ME?utm_source=dokoiko&utm_medium=referral",
     "images": [
       "/images/shinjuku/main.jpg"
     ],
@@ -168654,7 +168746,7 @@
     "imageCredit": {
       "author": "Basile Morin",
       "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Colorful_illuminated_facades_of_buildings_at_night,_with_green,_blue_and_pink_lights,_Kabukicho,_Shinjuku,_Tokyo.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File%3ABuildings_with_colorful_neon_street_signs_at_blue_hour%2C_Shinjuku%2C_Tokyo.jpg",
       "attributionRequired": true
     }
   },
@@ -169363,7 +169455,13 @@
     "images": [
       "/images/uozu/main.jpg"
     ],
-    "bestSeason": "通年"
+    "bestSeason": "通年",
+    "imageCredit": {
+      "author": "MLFU5BrYMJ2",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3A%E5%AF%8C%E5%B1%B1%E7%9C%8C%E9%AD%9A%E6%B4%A5%E5%B8%82_%E9%AD%9A%E6%B4%A5%E7%A5%9E%E7%A4%BE_%E7%A4%BE%E7%B4%8B.png",
+      "attributionRequired": true
+    }
   },
   {
     "id": "wakayama-castle",
@@ -169940,7 +170038,7 @@
     "imageCredit": {
       "author": "663highland",
       "license": "CC BY 2.5",
-      "url": "https://commons.wikimedia.org/wiki/File:Sendai_castle01s3872.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File%3ASendai_castle01s3872.jpg",
       "attributionRequired": true
     }
   },
@@ -170219,11 +170317,7 @@
       "jalan": "https://www.jalan.net/140000/"
     },
     "rentalCarRecommended": true,
-    "unsplashUrl": "https://images.unsplash.com/photo-1615819002410-baf6e6155ffa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlQTQlQTclRTYlQjYlOEMlRTglQjAlQjclMjAlRTUlQTQlQTclRTYlQjYlOEMlRTglQjAlQjd8ZW58MHwwfHx8MTc3ODU2Njg0N3ww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1615819002410-baf6e6155ffa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlQTQlQTclRTYlQjYlOEMlRTglQjAlQjclMjAlRTUlQTQlQTclRTYlQjYlOEMlRTglQjAlQjd8ZW58MHwwfHx8MTc3ODU2Njg0N3ww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Stefan K",
-    "unsplashCreditUrl": "https://unsplash.com/@stefankst?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/man-in-black-jacket-and-blue-denim-jeans-standing-on-gray-metal-frame-UZ8U7jeIis4?utm_source=dokoiko&utm_medium=referral",
     "images": [
       "/images/owakudani/main.jpg"
     ],
@@ -170237,7 +170331,13 @@
       "絶景スポット",
       "秘境感あり"
     ],
-    "bestSeason": "冬"
+    "bestSeason": "冬",
+    "imageCredit": {
+      "author": "alonfloc",
+      "license": "CC BY 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3A%E5%A4%A7%E6%B6%8C%E8%B0%B7_-_panoramio_(3).jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "shichirigahama",
@@ -170421,7 +170521,13 @@
     "images": [
       "/images/zushi/main.jpg"
     ],
-    "bestSeason": "通年"
+    "bestSeason": "通年",
+    "imageCredit": {
+      "author": "Waka77",
+      "license": "CC0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AZushi_City_Hall_20110223.JPG",
+      "attributionRequired": false
+    }
   },
   {
     "id": "biwako",
@@ -171016,11 +171122,7 @@
       "jalan": "https://www.jalan.net/240000/"
     },
     "rentalCarRecommended": true,
-    "unsplashUrl": "https://images.unsplash.com/photo-1732372479079-90d3d2200600?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlQTQlQUIlRTUlQTklQTYlRTUlQjIlQTklMjAlRTUlQTQlQUIlRTUlQTklQTYlRTUlQjIlQTl8ZW58MHwwfHx8MTc3ODU2NzU3Mnww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1732372479079-90d3d2200600?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlQTQlQUIlRTUlQTklQTYlRTUlQjIlQTklMjAlRTUlQTQlQUIlRTUlQTklQTYlRTUlQjIlQTl8ZW58MHwwfHx8MTc3ODU2NzU3Mnww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Kazuhiro Yoshimura",
-    "unsplashCreditUrl": "https://unsplash.com/@_kazuhiro_?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-red-tori-tori-tori-tori-tori-tori-tori-tori-tori-tori-tori-tori-tori-tori-d2TtCb_cLy0?utm_source=dokoiko&utm_medium=referral",
     "images": [
       "/images/meoto-iwa/main.jpg"
     ],
@@ -171035,9 +171137,9 @@
     ],
     "bestSeason": "通年",
     "imageCredit": {
-      "author": "Big Ben in Japan from Kawasaki, Japan",
-      "license": "CC BY-SA 2.0",
-      "url": "https://commons.wikimedia.org/wiki/File:First_light_at_Meoto_Iwa_(Married_Couple_Rocks)_(51334378445).jpg",
+      "author": "Pierre André Leclercq",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AMeoto_Iwa_rocks_(scan_2023).jpg",
       "attributionRequired": true
     }
   },
@@ -172611,10 +172713,10 @@
     ],
     "bestSeason": "通年",
     "imageCredit": {
-      "author": "C1815",
-      "license": "CC0",
-      "url": "https://commons.wikimedia.org/wiki/File:%E8%93%BC%E7%A7%91%E9%AB%98%E5%8E%9F_%E7%B4%85%E8%91%89.JPG",
-      "attributionRequired": false
+      "author": "Σ64",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3ATateshina_kogen_from_Mt.Kitayokodake.JPG",
+      "attributionRequired": true
     }
   },
   {
@@ -173286,11 +173388,7 @@
       "jalan": "https://www.jalan.net/030000/"
     },
     "rentalCarRecommended": false,
-    "unsplashUrl": "https://images.unsplash.com/photo-1703274969770-65b056a71b98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTklODclOTElRTglODklQjIlRTUlQTAlODIlMjAlRTQlQjglQUQlRTUlQjAlOEElRTUlQUYlQkF8ZW58MHwwfHx8MTc3ODU3MDAzOXww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1703274969770-65b056a71b98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTklODclOTElRTglODklQjIlRTUlQTAlODIlMjAlRTQlQjglQUQlRTUlQjAlOEElRTUlQUYlQkF8ZW58MHwwfHx8MTc3ODU3MDAzOXww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Chuck Eugene",
-    "unsplashCreditUrl": "https://unsplash.com/@chuckhifi?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-building-that-has-a-lot-of-decorations-on-it-8Rc5G2vARWA?utm_source=dokoiko&utm_medium=referral",
     "images": [
       "/images/iwate-chuson/main.jpg"
     ],
@@ -173306,9 +173404,9 @@
     ],
     "bestSeason": "春",
     "imageCredit": {
-      "author": "_steffen",
-      "license": "CC BY-SA 2.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Hiraizumi%27s_surroundings,_Iwate_Prefecture;_August_2018_(03).jpg",
+      "author": "merupapa",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3A%E4%B8%AD%E5%B0%8A%E5%AF%BA%E3%83%8F%E3%82%B9_-_panoramio.jpg",
       "attributionRequired": true
     }
   },
@@ -174272,11 +174370,7 @@
       "jalan": "https://www.jalan.net/470000/"
     },
     "rentalCarRecommended": false,
-    "unsplashUrl": "https://images.unsplash.com/photo-1693987871009-ff1b3c52577a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTklQTYlOTYlRTklODclOEMlRTUlOUYlOEUlRTYlQUQlQTMlRTYlQUUlQkYlMjAlRTklQTYlOTYlRTklODclOEMlRTUlOUYlOEV8ZW58MHwwfHx8MTc3ODU3MDk4Mnww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1693987871009-ff1b3c52577a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTklQTYlOTYlRTklODclOEMlRTUlOUYlOEUlRTYlQUQlQTMlRTYlQUUlQkYlMjAlRTklQTYlOTYlRTklODclOEMlRTUlOUYlOEV8ZW58MHwwfHx8MTc3ODU3MDk4Mnww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Gordon Fang",
-    "unsplashCreditUrl": "https://unsplash.com/@pangolin_0409?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/an-empty-parking-lot-with-a-building-in-the-background-bTRiPYBEM_I?utm_source=dokoiko&utm_medium=referral",
     "images": [
       "/images/shuri-castle/main.jpg"
     ],
@@ -174290,9 +174384,9 @@
     ],
     "bestSeason": "夏",
     "imageCredit": {
-      "author": "CEphoto, Uwe Aranas",
-      "license": "CC BY-SA 3.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Naha_Okinawa_Japan_Shuri-Castle-02.jpg",
+      "author": "663highland",
+      "license": "CC BY 2.5",
+      "url": "https://commons.wikimedia.org/wiki/File%3ANaha_Shuri_Castle32bs5s4592.jpg",
       "attributionRequired": true
     }
   },
@@ -174468,11 +174562,7 @@
       "jalan": "https://www.jalan.net/ikisaki/map/ishikawa/"
     },
     "rentalCarRecommended": false,
-    "unsplashUrl": "https://images.unsplash.com/photo-1687355472896-04b42e532833?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTklODclOTElRTYlQjIlQTIyMSVFNCVCOCU5NiVFNyVCNCU4MCVFNyVCRSU4RSVFOCVBMSU5MyVFOSVBNCVBOCUyMCVFOSU4NyU5MSVFNiVCMiVBMjIxJUU0JUI4JTk2JUU3JUI0JTgwJUU3JUJFJThFJUU4JUExJTkzJUU5JUE0JUE4fGVufDB8MHx8fDE3Nzg1NzEyNzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1687355472896-04b42e532833?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTklODclOTElRTYlQjIlQTIyMSVFNCVCOCU5NiVFNyVCNCU4MCVFNyVCRSU4RSVFOCVBMSU5MyVFOSVBNCVBOCUyMCVFOSU4NyU5MSVFNiVCMiVBMjIxJUU0JUI4JTk2JUU3JUI0JTgwJUU3JUJFJThFJUU4JUExJTkzJUU5JUE0JUE4fGVufDB8MHx8fDE3Nzg1NzEyNzR8MA&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Tunafish",
-    "unsplashCreditUrl": "https://unsplash.com/@ultratunafish?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-group-of-people-standing-in-the-water-gXBi2aOCThQ?utm_source=dokoiko&utm_medium=referral",
     "images": [
       "/images/kanazawa-21st/main.jpg"
     ],
@@ -174487,7 +174577,7 @@
     "imageCredit": {
       "author": "金沢市",
       "license": "CC BY 2.1 jp",
-      "url": "https://commons.wikimedia.org/wiki/File:%E9%87%91%E6%B2%A221%E4%B8%96%E7%B4%80%E7%BE%8E%E8%A1%93%E9%A4%A8%EF%BC%94.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File%3A%E9%87%91%E6%B2%A221%E4%B8%96%E7%B4%80%E7%BE%8E%E8%A1%93%E9%A4%A8001.jpg",
       "attributionRequired": true
     }
   },
@@ -175365,11 +175455,7 @@
       "jalan": "https://www.jalan.net/250000/"
     },
     "rentalCarRecommended": true,
-    "unsplashUrl": "https://images.unsplash.com/photo-1587993791012-88170e2e0d97?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTMlODElQjMlRTMlODIlOEYlRTYlQjklOTYlRTMlODMlOTAlRTMlODMlQUMlRTMlODIlQTQlMjAlRTMlODElQjMlRTMlODIlOEYlRTYlQjklOTYlRTMlODMlOTAlRTMlODMlQUMlRTMlODIlQTR8ZW58MHwwfHx8MTc3ODU3MjE0Nnww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1587993791012-88170e2e0d97?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTMlODElQjMlRTMlODIlOEYlRTYlQjklOTYlRTMlODMlOTAlRTMlODMlQUMlRTMlODIlQTQlMjAlRTMlODElQjMlRTMlODIlOEYlRTYlQjklOTYlRTMlODMlOTAlRTMlODMlQUMlRTMlODIlQTR8ZW58MHwwfHx8MTc3ODU3MjE0Nnww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Peter De Lucia",
-    "unsplashCreditUrl": "https://unsplash.com/@dualice?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/green-wooden-bridge-over-the-sea-uOZ81tIjz4s?utm_source=dokoiko&utm_medium=referral",
     "images": [
       "/images/biwako-valley/main.jpg"
     ],
@@ -175381,7 +175467,13 @@
       "絶景スポット",
       "山岳ハイキング"
     ],
-    "bestSeason": "通年"
+    "bestSeason": "通年",
+    "imageCredit": {
+      "author": "663highland",
+      "license": "CC BY 2.5",
+      "url": "https://commons.wikimedia.org/wiki/File%3ABiwako_valley23n.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "shizu-shimizu",
@@ -175569,11 +175661,7 @@
       "jalan": "https://www.jalan.net/110000/"
     },
     "rentalCarRecommended": false,
-    "unsplashUrl": "https://images.unsplash.com/photo-1714070704790-90a08550ef9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTYlQTglQTklRTclOEYlQkUlRTUlQTAlODIlRTYlQTElOUMlRTUlQTAlQTQlMjAlRTUlQjklQjglRTYlODklOEJ8ZW58MHwwfHx8MTc3ODU3MjQzOHww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1714070704790-90a08550ef9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTYlQTglQTklRTclOEYlQkUlRTUlQTAlODIlRTYlQTElOUMlRTUlQTAlQTQlMjAlRTUlQjklQjglRTYlODklOEJ8ZW58MHwwfHx8MTc3ODU3MjQzOHww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Anna Mircea",
-    "unsplashCreditUrl": "https://unsplash.com/@annnnnnnna8?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-bike-parked-next-to-a-tree-with-white-flowers-C8GAIiQOoqI?utm_source=dokoiko&utm_medium=referral",
     "images": [
       "/images/chiba-ko/main.jpg"
     ],
@@ -175586,9 +175674,9 @@
     ],
     "bestSeason": "春",
     "imageCredit": {
-      "author": "くろふね",
+      "author": "Ebiebi2",
       "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:%E6%A8%A9%E7%8F%BE%E5%A0%82%E6%A1%9C%E5%A0%A4_02.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File%3ASatte_City_Hall_1.JPG",
       "attributionRequired": true
     }
   },
@@ -175858,11 +175946,7 @@
       "jalan": "https://www.jalan.net/ikisaki/map/niigata/"
     },
     "rentalCarRecommended": false,
-    "unsplashUrl": "https://images.unsplash.com/photo-1721436361702-08ab23015e50?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlQkMlQTUlRTUlQkQlQTYlRTclQTUlOUUlRTclQTQlQkUlMjAlRTUlQkMlQTUlRTUlQkQlQTYlRTclQTUlOUUlRTclQTQlQkV8ZW58MHwwfHx8MTc3ODU3MjgwMXww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1721436361702-08ab23015e50?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlQkMlQTUlRTUlQkQlQTYlRTclQTUlOUUlRTclQTQlQkUlMjAlRTUlQkMlQTUlRTUlQkQlQTYlRTclQTUlOUUlRTclQTQlQkV8ZW58MHwwfHx8MTc3ODU3MjgwMXww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Kouji Tsuru",
-    "unsplashCreditUrl": "https://unsplash.com/@pafuxu?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-wooden-structure-with-a-bunch-of-ribbons-hanging-from-it-2VhoktIZmpY?utm_source=dokoiko&utm_medium=referral",
     "images": [
       "/images/niigata-bandai/main.jpg"
     ],
@@ -175874,7 +175958,13 @@
       "1泊がおすすめ",
       "温泉がおすすめ"
     ],
-    "bestSeason": "冬"
+    "bestSeason": "冬",
+    "imageCredit": {
+      "author": "Kakidai",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AIyahiko-jinja_1.JPG",
+      "attributionRequired": true
+    }
   },
   {
     "id": "saga-yoshino",
@@ -176185,9 +176275,9 @@
     ],
     "bestSeason": "通年",
     "imageCredit": {
-      "author": "Arui Kashiwagi",
-      "license": "CC BY 3.0",
-      "url": "https://commons.wikimedia.org/wiki/File:%E7%A8%B2%E8%8D%B7%E7%A5%9E%E7%A4%BE%E3%81%8B%E3%82%89%E8%A6%8B%E3%81%9F%E5%A1%A9%E9%87%9C%E6%B8%AF_Shiogama_Port,_looking_down_from_Inari_Shrine_-_panoramio.jpg",
+      "author": "ツトムさん家の写真日記",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3A%E5%A1%A9%E9%87%9C%E7%A5%9E%E7%A4%BE_%E5%A4%A7%E9%B3%A5%E5%B1%85.jpg",
       "attributionRequired": true
     }
   },
@@ -176464,11 +176554,7 @@
       "jalan": "https://www.jalan.net/320000/"
     },
     "rentalCarRecommended": false,
-    "unsplashUrl": "https://images.unsplash.com/photo-1655287426379-52f5266456db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclOUYlQjMlRTglQTYlOEIlRTclQTUlOUUlRTYlQTUlQkQlRTQlQkMlOUQlRTYlODklQkYlRTklQTQlQTglMjAlRTclOUYlQjMlRTglQTYlOEIlRTclQTUlOUUlRTYlQTUlQkQlRTMlODElQUUlRTklODclOEN8ZW58MHwwfHx8MTc3ODU3MzQ2Mnww&ixlib=rb-4.1.0&q=80&w=1080",
     "unsplashThumbUrl": "https://images.unsplash.com/photo-1655287426379-52f5266456db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclOUYlQjMlRTglQTYlOEIlRTclQTUlOUUlRTYlQTUlQkQlRTQlQkMlOUQlRTYlODklQkYlRTklQTQlQTglMjAlRTclOUYlQjMlRTglQTYlOEIlRTclQTUlOUUlRTYlQTUlQkQlRTMlODElQUUlRTklODclOEN8ZW58MHwwfHx8MTc3ODU3MzQ2Mnww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "Takafumi Yamashita",
-    "unsplashCreditUrl": "https://unsplash.com/@yamashita0129?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-close-up-of-a-street-in-front-of-a-building-RDsG7h1Frg4?utm_source=dokoiko&utm_medium=referral",
     "images": [
       "/images/iwami-kagura/main.jpg"
     ],
@@ -176481,7 +176567,13 @@
       "祭りで賑わう",
       "街歩き向け"
     ],
-    "bestSeason": "冬"
+    "bestSeason": "冬",
+    "imageCredit": {
+      "author": "Ka23 13",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AKagura_mask_20240107_100157.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "matsuyama",
@@ -176737,7 +176829,7 @@
     "imageCredit": {
       "author": "Saigen Jiro",
       "license": "CC0",
-      "url": "https://commons.wikimedia.org/wiki/File:Ryuga-do,_entrance.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File%3ARyuga-do%2C_entrance.jpg",
       "attributionRequired": false
     }
   },
@@ -177722,10 +177814,10 @@
     ],
     "bestSeason": "通年",
     "imageCredit": {
-      "author": "Екатеринбург 112",
-      "license": "CC0",
-      "url": "https://commons.wikimedia.org/wiki/File:%E4%B8%89%E3%83%8E%E5%AE%AE%E3%81%AE%E9%A7%90%E7%A5%9E%E6%88%B8%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9B%BD%E7%B7%8F%E9%A0%98%E4%BA%8B%E9%A4%A8%E5%91%A8%E8%BE%BA%E3%81%AE%E9%A2%A8%E6%99%AF.jpg",
-      "attributionRequired": false
+      "author": "663highland",
+      "license": "CC BY 2.5",
+      "url": "https://commons.wikimedia.org/wiki/File%3AKobe_Airport06s5s3200.jpg",
+      "attributionRequired": true
     }
   },
   {
@@ -188478,7 +188570,7 @@
     "imageCredit": {
       "author": "Yones",
       "license": "CC BY-SA 3.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Tsukechi_Gorge_01.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File%3ATsukechi_Gorge_01.jpg",
       "attributionRequired": true
     }
   },
@@ -188954,9 +189046,9 @@
     "bestSeason": "春・秋",
     "isIsland": false,
     "imageCredit": {
-      "author": "Indiana jo",
+      "author": "Alpsdake",
       "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:%E6%98%A5%E6%97%A5%E9%9B%86%E8%90%BD1.JPG",
+      "url": "https://commons.wikimedia.org/wiki/File%3AKasugakomiyakami_Ibigawa.jpg",
       "attributionRequired": true
     }
   },
@@ -189950,9 +190042,9 @@
     "bestSeason": "通年",
     "isIsland": false,
     "imageCredit": {
-      "author": "Bariston",
-      "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Iragomisaki5.jpg",
+      "author": "ブルーノ・プラス",
+      "license": "CC BY 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AThe_Straits_in_Cape_Irago_and_Kamishima.jpg",
       "attributionRequired": true
     }
   },
@@ -198421,9 +198513,9 @@
     "bestSeason": "通年",
     "isIsland": false,
     "imageCredit": {
-      "author": "miea.system",
-      "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Mannolake1.JPG",
+      "author": "iPhone修理/カスタマイズパーツ販売…",
+      "license": "CC BY 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3A%E9%A6%99%E5%B7%9D%E7%9C%8C%E4%BB%B2%E5%A4%9A%E5%BA%A6%E9%83%A1%E3%81%BE%E3%82%93%E3%81%AE%E3%81%86%E7%94%BA%E6%BA%80%E6%BF%83%E6%B1%A0%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9C%92_-_panoramio.jpg",
       "attributionRequired": true
     }
   },
@@ -199531,7 +199623,7 @@
     "imageCredit": {
       "author": "Asturio Cantabrio",
       "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Kaho_Gekijo_stairs_ac_(1).jpg",
+      "url": "https://commons.wikimedia.org/wiki/File%3AKaho_Gekijo_ac_(1).jpg",
       "attributionRequired": true
     }
   },
@@ -199692,9 +199784,9 @@
     "bestSeason": "通年",
     "isIsland": false,
     "imageCredit": {
-      "author": "そらみみ (Soramimi)",
+      "author": "水だらけのプール",
       "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Miyanohara_Pit_of_Miike_Coal_Mine_(southwest).jpg",
+      "url": "https://commons.wikimedia.org/wiki/File%3AMiike_Coal_Mine_Manda_Pit.jpg",
       "attributionRequired": true
     }
   },
@@ -204434,9 +204526,9 @@
     "bestSeason": "通年",
     "isIsland": false,
     "imageCredit": {
-      "author": "Hideki Uchida (セラ)",
-      "license": "CC BY-SA 3.0",
-      "url": "https://commons.wikimedia.org/wiki/File:%E6%9C%AD%E5%B9%8C%E3%82%BF%E3%83%AF%E3%83%BC%E9%9B%BB%E6%B3%A2%E5%A1%94%E5%B1%95%E6%9C%9B%E5%8F%B0%E3%81%8B%E3%82%89%E6%9C%AD%E5%B9%8C%E9%A7%85%E6%96%B9%E9%9D%A2_-_panoramio.jpg",
+      "author": "bryan...",
+      "license": "CC BY-SA 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AJR_Hokkaido_Rapid_Train%2C_Sapporo%2C_Hokkaido%2C_Japan%2C_JR%E5%BF%AB%E9%80%9F%E5%88%97%E8%BB%8A%2C_%E6%9C%AD%E5%B9%8C%2C_%E5%8C%97%E6%B5%B7%E9%81%93%2C_%E6%97%A5%E6%9C%AC%2C_JR%E5%BF%AB%E9%80%9F%E3%82%A8%E3%82%A2%E3%83%9D%E3%83%BC%E3%83%88%2C_%E3%81%95%E3%81%A3%E3%81%BD%E3%82%8D%E3%81%97%2C_%E3%81%BB%E3%81%A3%E3%81%8B%E3%81%84%E3%81%A9%E3%81%86%2C_%E3%81%AB%E3%81%A3%E3%81%BD%E3%82%93%2C_%E3%81%AB%E3%81%BB%E3%82%93_(16765610585).jpg",
       "attributionRequired": true
     }
   },
@@ -205062,9 +205154,9 @@
     "bestSeason": "通年",
     "isIsland": false,
     "imageCredit": {
-      "author": "くろふね",
-      "license": "CC BY 3.0",
-      "url": "https://commons.wikimedia.org/wiki/File:%E9%AB%98%E7%95%A0%E9%A7%85%E4%BB%98%E8%BF%91%E3%81%AE%E9%A2%A8%E6%99%AF_-_panoramio.jpg",
+      "author": "663highland",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3A220428_Yamagata_Airport_Yamagata_Yamagata_pref_Japan01s3.jpg",
       "attributionRequired": true
     }
   },
@@ -205272,9 +205364,9 @@
     "bestSeason": "通年",
     "isIsland": false,
     "imageCredit": {
-      "author": "くろふね",
-      "license": "CC BY 3.0",
-      "url": "https://commons.wikimedia.org/wiki/File:%E4%BC%9A%E6%B4%A5%E5%B7%9D%E5%8F%A3%E9%A7%85%E4%BB%98%E8%BF%91%E3%81%AE%E9%A2%A8%E6%99%AF_-_panoramio.jpg",
+      "author": "Antonio Kwong (AkDoraemon 18:12, 11 August 2007 (UTC))",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AFukushima-Airport.jpg",
       "attributionRequired": true
     }
   },
@@ -206910,9 +207002,9 @@
     "bestSeason": "通年",
     "isIsland": false,
     "imageCredit": {
-      "author": "Razgrad",
-      "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:RZ_Wakimachi_Gekijo_(2).jpg",
+      "author": "kudoutakahiro",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3A%E5%BE%B3%E5%B3%B6%E7%9C%8C%E7%BE%8E%E9%A6%AC%E5%B8%82%E8%84%87%E7%94%BA_%E3%81%86%E3%81%A0%E3%81%A4%E3%81%AE%E7%94%BA%E4%B8%A6%E3%81%BF_-_panoramio.jpg",
       "attributionRequired": true
     }
   },
@@ -208017,9 +208109,9 @@
     "bestSeason": "通年",
     "isIsland": false,
     "imageCredit": {
-      "author": "inunami",
-      "license": "CC BY 2.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Seki_20200808170549_(50873312003).jpg",
+      "author": "Kansai explorer",
+      "license": "CC BY 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File%3AMichinoeki_Sekijuku01.JPG",
       "attributionRequired": true
     }
   },

@@ -43,6 +43,7 @@ const hubDests = (destinations as any[])
 
 const imgDir = path.join(process.cwd(), 'public/images');
 function destImageUrl(d: any): string | null {
+  if (fs.existsSync(path.join(imgDir, d.id, 'main.jpg'))) return `/images/${d.id}/main.jpg`;
   if (fs.existsSync(path.join(imgDir, `${d.id}.jpg`))) return `/images/${d.id}.jpg`;
   if (d.unsplashUrl) return d.unsplashUrl;
   return null;
@@ -355,7 +356,6 @@ const jsonLd = JSON.stringify({
                 <div class="h-card-body">
                   <div class="h-card-name">{d.name}</div>
                   <div class="h-card-meta">{d.prefecture}</div>
-                  {d._tt && <div class="h-card-time">{d._tt}分</div>}
                 </div>
               </a>
             );
@@ -379,7 +379,6 @@ const jsonLd = JSON.stringify({
               <div class="h-card-body">
                 <div class="h-card-name">{d.name}</div>
                 <div class="h-card-meta">{d.prefecture}</div>
-                {d._tt && <div class="h-card-time">{d._tt}分</div>}
               </div>
             </a>
           );
@@ -402,7 +401,6 @@ const jsonLd = JSON.stringify({
               <div class="h-card-body">
                 <div class="h-card-name">{d.name}</div>
                 <div class="h-card-meta">{d.prefecture}</div>
-                {d._tt && <div class="h-card-time">{d._tt}分</div>}
               </div>
             </a>
           );
@@ -425,7 +423,7 @@ const jsonLd = JSON.stringify({
                 return (
                   <a href={`/destinations/${d.id}/`} class="h-card">
                     <div class="h-card-img-wrap">{img && <img class="h-card-img" src={img} alt={d.name} loading="lazy" />}</div>
-                    <div class="h-card-body"><div class="h-card-name">{d.name}</div><div class="h-card-time">{d._tt}分</div></div>
+                    <div class="h-card-body"><div class="h-card-name">{d.name}</div></div>
                   </a>
                 );
               })}
@@ -441,7 +439,7 @@ const jsonLd = JSON.stringify({
                 return (
                   <a href={`/destinations/${d.id}/`} class="h-card">
                     <div class="h-card-img-wrap">{img && <img class="h-card-img" src={img} alt={d.name} loading="lazy" />}</div>
-                    <div class="h-card-body"><div class="h-card-name">{d.name}</div><div class="h-card-time">{d._tt}分</div></div>
+                    <div class="h-card-body"><div class="h-card-name">{d.name}</div></div>
                   </a>
                 );
               })}
@@ -457,7 +455,7 @@ const jsonLd = JSON.stringify({
                 return (
                   <a href={`/destinations/${d.id}/`} class="h-card">
                     <div class="h-card-img-wrap">{img && <img class="h-card-img" src={img} alt={d.name} loading="lazy" />}</div>
-                    <div class="h-card-body"><div class="h-card-name">{d.name}</div><div class="h-card-time">{d._tt}分</div></div>
+                    <div class="h-card-body"><div class="h-card-name">{d.name}</div></div>
                   </a>
                 );
               })}

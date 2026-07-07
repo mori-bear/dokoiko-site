@@ -437,6 +437,23 @@ const hubCity = _destHubCity && _destHubCity !== dest.name
   .breadcrumb a { color: #bbb; transition: color 0.15s; }
   .breadcrumb a:hover { color: #2A6049; }
 
+  /* reasonChips */
+  .reason-chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin: 16px 0 24px;
+  }
+  .reason-chip {
+    padding: 5px 14px;
+    background: #f0f7f4;
+    border: 1px solid #c8e0d4;
+    border-radius: 20px;
+    font-size: 12px;
+    color: #2A6049;
+    letter-spacing: 0.03em;
+  }
+
   /* Lead text */
   .lead {
     font-size: 17px;
@@ -453,6 +470,30 @@ const hubCity = _destHubCity && _destHubCity !== dest.name
     margin: 40px 0 48px;
     letter-spacing: 0.03em;
     white-space: pre-line;
+  }
+
+  /* fold */
+  .fold-wrap { position: relative; }
+  .fold-wrap .lead, .fold-wrap .dest-description {
+    margin-bottom: 0;
+  }
+  .lead.folded, .dest-description.folded {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .fold-btn {
+    display: inline-block;
+    background: none;
+    border: none;
+    color: #2A6049;
+    font-size: 13px;
+    cursor: pointer;
+    padding: 6px 0 32px;
+    letter-spacing: 0.04em;
+    text-decoration: underline;
+    text-underline-offset: 3px;
   }
 
   /* 実用情報カード */
@@ -1075,6 +1116,26 @@ const hubCity = _destHubCity && _destHubCity !== dest.name
   .share-x-btn { background: #000; color: #fff; }
   .share-line-btn { background: #06C755; color: #fff; }
   .share-x-btn:hover, .share-line-btn:hover { opacity: 0.85; }
+  .share-card-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    width: 100%;
+    padding: 13px 10px;
+    background: #2A6049;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 0.05em;
+    cursor: pointer;
+    transition: opacity 0.15s;
+    margin-bottom: 10px;
+  }
+  .share-card-btn:hover { opacity: 0.85; }
+  .share-card-btn:disabled { opacity: 0.6; cursor: not-allowed; }
 </style>
 
   <!-- Hero: 画像あり / なし で分岐 -->
@@ -1135,9 +1196,36 @@ const hubCity = _destHubCity && _destHubCity !== dest.name
       <span>{dest.name}</span>
     </nav>
 
+    <!-- reasonChips -->
+    {(dest as any).reasonChips?.length > 0 && (
+      <div class="reason-chips">
+        {(dest as any).reasonChips.map((chip: string) => (
+          <span class="reason-chip">{chip}</span>
+        ))}
+      </div>
+    )}
+
     <!-- リード文: article.lead は導入詩として短い（最大163字）ため dest.description を併記 -->
-    {article?.lead && <p class="lead">{article.lead}</p>}
-    {dest.description && <p class="dest-description">{dest.description}</p>}
+    {article?.lead && (
+      article.lead.length > 80 ? (
+        <div class="fold-wrap">
+          <p class="lead folded">{article.lead}</p>
+          <button class="fold-btn" type="button" data-fold-btn>続きを読む ↓</button>
+        </div>
+      ) : (
+        <p class="lead">{article.lead}</p>
+      )
+    )}
+    {dest.description && (
+      dest.description.length > 80 ? (
+        <div class="fold-wrap">
+          <p class="dest-description folded">{dest.description}</p>
+          <button class="fold-btn" type="button" data-fold-btn>続きを読む ↓</button>
+        </div>
+      ) : (
+        <p class="dest-description">{dest.description}</p>
+      )
+    )}
 
     <!-- 実用情報カード -->
     <div class="info-cards">
@@ -1670,6 +1758,15 @@ const hubCity = _destHubCity && _destHubCity !== dest.name
     <!-- シェアボタン -->
     <div class="share-section">
       <span class="share-label">Share</span>
+      <canvas id="share-canvas" style="display:none;" width="1200" height="630"
+        data-dest-name={dest.name}
+        data-dest-id={dest.id}
+        data-prefecture={dest.prefecture || ''}
+        data-tags={(dest.tags || []).slice(0, 3).join(',')}
+      ></canvas>
+      <button id="share-card-btn" class="share-card-btn" type="button">
+        📤 シェアカードを作る
+      </button>
       <button
         class="share-native-btn"
         id="share-native-btn"
@@ -1756,5 +1853,116 @@ const hubCity = _destHubCity && _destHubCity !== dest.name
       nativeBtn.style.display = 'none';
       fallback.style.display  = 'flex';
     }
+  }
+
+  // fold toggle
+  document.querySelectorAll<HTMLButtonElement>('[data-fold-btn]').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const prev = btn.previousElementSibling as HTMLElement | null;
+      if (prev) prev.classList.remove('folded');
+      btn.style.display = 'none';
+    });
+  });
+
+  // share card canvas
+  const shareCardBtn = document.getElementById('share-card-btn') as HTMLButtonElement | null;
+  const shareCanvas  = document.getElementById('share-canvas')  as HTMLCanvasElement | null;
+
+  if (shareCardBtn && shareCanvas) {
+    shareCardBtn.addEventListener('click', async () => {
+      shareCardBtn.textContent = '作成中…';
+      shareCardBtn.disabled = true;
+
+      const ctx = shareCanvas.getContext('2d')!;
+      const W = 1200, H = 630;
+      const destName  = shareCanvas.dataset.destName  || '';
+      const prefecture = shareCanvas.dataset.prefecture || '';
+      const tags = (shareCanvas.dataset.tags || '').split(',').filter(Boolean);
+      const destId = shareCanvas.dataset.destId || '';
+
+      // Background
+      ctx.fillStyle = '#1e4a35';
+      ctx.fillRect(0, 0, W, H);
+      const grad = ctx.createLinearGradient(0, 0, W, H);
+      grad.addColorStop(0, 'rgba(42,96,73,0.85)');
+      grad.addColorStop(1, 'rgba(15,45,30,0.95)');
+      ctx.fillStyle = grad;
+      ctx.fillRect(0, 0, W, H);
+
+      // Subtle grid pattern
+      ctx.strokeStyle = 'rgba(255,255,255,0.04)';
+      ctx.lineWidth = 1;
+      for (let x = 0; x <= W; x += 60) { ctx.beginPath(); ctx.moveTo(x, 0); ctx.lineTo(x, H); ctx.stroke(); }
+      for (let y = 0; y <= H; y += 60) { ctx.beginPath(); ctx.moveTo(0, y); ctx.lineTo(W, y); ctx.stroke(); }
+
+      await document.fonts.ready;
+
+      // Logo (top-left)
+      ctx.fillStyle = 'rgba(255,255,255,0.9)';
+      ctx.font = 'bold 26px sans-serif';
+      ctx.textAlign = 'left';
+      ctx.fillText('どこ行こ？', 56, 66);
+
+      // Departure (bottom-left)
+      const dep = localStorage.getItem('departure') || '全国';
+      ctx.fillStyle = 'rgba(255,255,255,0.65)';
+      ctx.font = '22px sans-serif';
+      ctx.fillText(`${dep}から`, 56, H - 36);
+
+      // Destination name (center)
+      ctx.fillStyle = '#ffffff';
+      ctx.font = `bold 92px "Noto Serif JP", "Hiragino Mincho ProN", serif`;
+      ctx.textAlign = 'center';
+      ctx.fillText(destName, W / 2, H / 2 + 10);
+
+      // Horizontal rule above/below name
+      ctx.strokeStyle = 'rgba(255,255,255,0.25)';
+      ctx.lineWidth = 1;
+      const textWidth = ctx.measureText(destName).width;
+      const lineMargin = 24;
+      ctx.beginPath(); ctx.moveTo(W/2 - textWidth/2 - lineMargin, H/2 - 68); ctx.lineTo(W/2 + textWidth/2 + lineMargin, H/2 - 68); ctx.stroke();
+      ctx.beginPath(); ctx.moveTo(W/2 - textWidth/2 - lineMargin, H/2 + 40); ctx.lineTo(W/2 + textWidth/2 + lineMargin, H/2 + 40); ctx.stroke();
+
+      // Prefecture
+      ctx.fillStyle = 'rgba(255,255,255,0.75)';
+      ctx.font = '28px sans-serif';
+      ctx.textAlign = 'center';
+      ctx.fillText(prefecture, W / 2, H / 2 + 80);
+
+      // Tags
+      if (tags.length) {
+        ctx.fillStyle = 'rgba(255,255,255,0.55)';
+        ctx.font = '22px sans-serif';
+        ctx.fillText(tags.slice(0, 2).join('　·　'), W / 2, H / 2 + 122);
+      }
+
+      // URL (bottom-right)
+      ctx.fillStyle = 'rgba(255,255,255,0.5)';
+      ctx.font = '20px sans-serif';
+      ctx.textAlign = 'right';
+      ctx.fillText('tabidokoiko.com', W - 56, H - 36);
+
+      shareCanvas.toBlob(async (blob) => {
+        if (!blob) {
+          shareCardBtn.textContent = '📤 シェアカードを作る';
+          shareCardBtn.disabled = false;
+          return;
+        }
+        const file = new File([blob], 'dokoiko-share.jpg', { type: 'image/jpeg' });
+        const shareUrl = `https://tabidokoiko.com/destinations/${destId}/`;
+        try {
+          if (navigator.canShare && navigator.canShare({ files: [file] })) {
+            await navigator.share({ files: [file], title: `【どこ行こ？】${destName}`, url: shareUrl });
+          } else {
+            const a = document.createElement('a');
+            a.href = URL.createObjectURL(blob);
+            a.download = `dokoiko-${destId}.jpg`;
+            a.click();
+          }
+        } catch (_) { /* user cancelled */ }
+        shareCardBtn.textContent = '📤 シェアカードを作る';
+        shareCardBtn.disabled = false;
+      }, 'image/jpeg', 0.92);
+    });
   }
 </script>
