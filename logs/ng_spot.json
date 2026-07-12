@@ -1,0 +1,5112 @@
+[
+ {
+  "id": "nara",
+  "name": "奈良",
+  "prefecture": "奈良県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "東大寺",
+  "reason": "[A] 「Sailins」ロゴの旗や「東大寺學園」の幟が掲げられたイベント会場風の広場であり、東大寺の建築・境内を紹介する画像として不適切。東大寺の風景とは明らかに不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "ise",
+  "name": "伊勢",
+  "prefecture": "三重県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "二見浦",
+  "reason": "[A] 二見浦の見どころとして紹介すべき場所だが、画像は「二見浦駅（JR）」の駅舎外観であり、夫婦岩や海岸景観など二見浦を代表する風景ではない。観光スポットの紹介画像として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "otaru",
+  "name": "小樽",
+  "prefecture": "北海道",
+  "file": "spot-4.jpg",
+  "spotIndex": 3,
+  "spotName": "神威岬",
+  "reason": "[A] 神威岬は積丹半島にある岬であり、小樽市の見どころとして紹介するには地理的に不一致（積丹町に所在）。画像自体は北海道の風景として正しいが、小樽の見どころとして掲載するのは誤り。",
+  "confidence": "high"
+ },
+ {
+  "id": "matsushima",
+  "name": "松島",
+  "prefecture": "宮城県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "五大堂",
+  "reason": "[A] 五大堂は松島湾の岩礁上に建つ朱塗りの小堂で、海に面した平地に位置する。この画像は急峻な山中の斜面に建つ大規模な朱塗り楼閣と長い廊下橋で構成されており、地形・建物規模ともに五大堂と明らかに不一致。別の寺社（山岳寺院）と判断される。",
+  "confidence": "high"
+ },
+ {
+  "id": "kumejima",
+  "name": "久米島",
+  "prefecture": "沖縄県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "久米島ウミガメ館",
+  "reason": "[A] 画像2と同一の久米島航空写真が使用されており、「久米島ウミガメ館」という施設の紹介画像として内容が全く一致しない。加えて重複使用の問題もある。",
+  "confidence": "high"
+ },
+ {
+  "id": "shuzenji",
+  "name": "修善寺",
+  "prefecture": "静岡県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "独鈷の湯",
+  "reason": "[A] 画像1と同一またはほぼ同一の写真。「独鈷の湯」の見どころ紹介画像として使用するには、独鈷の湯そのものを主題とした別の写真が必要。重複使用はコンテンツとして不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "izu-oshima",
+  "name": "伊豆大島",
+  "prefecture": "東京都",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "砂漠",
+  "reason": "[A] 大規模な砂砂漠の砂丘群が写っており、アラビア半島やアフリカ系の乾燥砂漠に見える。伊豆大島の「砂漠」は溶岩台地由来の黒い荒野であり、この黄砂丘の景観は明らかに場所が不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "kusatsu-onsen",
+  "name": "草津温泉",
+  "prefecture": "群馬県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "熱の湯",
+  "reason": "[A] 湯もみ実演（熱の湯）は草津温泉の著名な体験イベントであり場所との関連性はあるが、撮影内容が屋内での人物・パフォーマンスアップ主体であり「その土地の風景・名所・自然・建物」には該当しない。",
+  "confidence": "high"
+ },
+ {
+  "id": "kinosaki-onsen",
+  "name": "城崎温泉",
+  "prefecture": "兵庫県",
+  "file": "spot-4.jpg",
+  "spotIndex": 3,
+  "spotName": "竹田城跡",
+  "reason": "[A] 竹田城跡は朝来市（兵庫県）に位置し、城崎温泉とは異なる地域の名所。城崎温泉の「見どころ」として紹介するには地域の不一致が明確。",
+  "confidence": "high"
+ },
+ {
+  "id": "shirahama-o",
+  "name": "白浜",
+  "prefecture": "和歌山県",
+  "file": "spot-4.jpg",
+  "spotIndex": 3,
+  "spotName": "那智の滝",
+  "reason": "[A] 那智の滝は那智勝浦町に位置し、白浜（白浜町）の見どころとしては地理的に不一致。白浜の紹介画像として掲載するのは不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "shirahama-o",
+  "name": "白浜",
+  "prefecture": "和歌山県",
+  "file": "spot-5.jpg",
+  "spotIndex": 4,
+  "spotName": "熊野本宮大社",
+  "reason": "[A] 熊野本宮大社は白浜ではなく田辺市本宮町に所在し、白浜の紹介画像として地理的に不一致。また手前に複数の人物が大きく映り込んでおり風景写真としてやや難あり。",
+  "confidence": "high"
+ },
+ {
+  "id": "takayama-o",
+  "name": "高山",
+  "prefecture": "岐阜県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "古い町並",
+  "reason": "[C] 極端な縦長構図で柱の標識アップのみが写り、古い町並みの街並み全体が伝わらない。被写体も大きくトリミングされており風景紹介画像として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "toba",
+  "name": "鳥羽",
+  "prefecture": "三重県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "海女小屋",
+  "reason": "[A] 海女小屋の「見どころ」紹介画像として指定されているが、画像は人物（海女）のアップで海中作業シーンであり、施設・場所の風景写真ではなく人物主体の写真のため不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "toba",
+  "name": "鳥羽",
+  "prefecture": "三重県",
+  "file": "spot-5.jpg",
+  "spotIndex": 4,
+  "spotName": "夫婦岩",
+  "reason": "[AC] 夫婦岩は伊勢市二見浦（二見興玉神社）の名所であり、鳥羽市の見どころとしては地域不一致。また画像が極端に横長のパノラマ構図で、縦方向に不自然なトリミングが見られる。",
+  "confidence": "high"
+ },
+ {
+  "id": "kurokawa-k",
+  "name": "黒川温泉",
+  "prefecture": "熊本県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "入湯手形",
+  "reason": "[A] 入湯手形という木製チケットと説明紙のクローズアップで、土地の風景・景観ではなく物品の接写。「その土地の風景」として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "amakusa",
+  "name": "天草",
+  "prefecture": "熊本県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "イルカウォッチング",
+  "reason": "[A] 写っているのはイルカではなくセミクジラ（Right Whale）とみられる大型鯨類2頭であり、天草のイルカウォッチング紹介画像として内容が不一致。また撮影者の外見・船のスタイルから日本国外（南半球等）で撮影された可能性が高い。",
+  "confidence": "high"
+ },
+ {
+  "id": "kakunodate",
+  "name": "角館",
+  "prefecture": "秋田県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "青柳家",
+  "reason": "[A] 青柳家の展示館内部にあるカメラ・時計のコレクションケースを撮影した室内写真であり、「その土地の風景・名所」ではなく、観点Aの「室内・商品」に該当するため不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "uwajima",
+  "name": "宇和島",
+  "prefecture": "愛媛県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "道後温泉",
+  "reason": "[A] 画像は道後温泉本館（松山市）であり、宇和島の見どころとして使用するには指定地と明らかに不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "uwajima",
+  "name": "宇和島",
+  "prefecture": "愛媛県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "じゃこ天",
+  "reason": "[A] 料理（うどん）のアップ画像であり、「その土地の風景・名所」ではなく、観点Aのカテゴリ不適合。",
+  "confidence": "high"
+ },
+ {
+  "id": "kotohira",
+  "name": "琴平",
+  "prefecture": "香川県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "表書院",
+  "reason": "[A] 写っている建物と日本庭園の意匠・松の配置が京都・銀閣寺（慈照寺）の庭園に酷似しており、琴平・金刀比羅宮の「表書院」（書院建築＋庭園だが境内敷地内）とは別の場所と判断される。指定地と明らかに不一致の疑いが高い。",
+  "confidence": "high"
+ },
+ {
+  "id": "noboribetsu",
+  "name": "登別",
+  "prefecture": "北海道",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "地獄谷",
+  "reason": "[A] 「地獄谷」の見どころ画像としてニホンザルのアップ写真が使われており、地獄谷の風景と全く一致しない。動物のポートレートは「その土地の風景」として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "kotohira",
+  "name": "琴平",
+  "prefecture": "香川県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "旧金毘羅大芝居",
+  "reason": "[A] 旧金毘羅大芝居の内部（客席・舞台・提灯）を撮影した室内画像であり、「その土地の風景・外観」としては不適切。建物の見どころ紹介としても室内アップは観点A（人物アップ・室内等）のNG例に該当する。",
+  "confidence": "high"
+ },
+ {
+  "id": "shiretoko",
+  "name": "知床",
+  "prefecture": "北海道",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "カムイワッカの滝",
+  "reason": "[B] 画像右下にカメラの日時情報「2012. 9.21 12:05」がオレンジ色で焼き込まれており、観点Bに該当する。",
+  "confidence": "high"
+ },
+ {
+  "id": "wajima",
+  "name": "輪島",
+  "prefecture": "石川県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "朝市通り",
+  "reason": "[A] 2024年能登半島地震による火災・倒壊後の朝市通りの被災状況が写っており、旅行サイトの「見どころ」紹介画像として不適切。旅先の魅力を伝える風景・名所の写真に該当しない。",
+  "confidence": "high"
+ },
+ {
+  "id": "sasebo",
+  "name": "佐世保",
+  "prefecture": "長崎県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "佐世保バーガー",
+  "reason": "[A] 佐世保バーガーの料理アップ画像であり「その土地の風景・名所」ではなく食べ物写真。観点Aの明確なNG（料理・商品）に該当する。",
+  "confidence": "high"
+ },
+ {
+  "id": "ine",
+  "name": "伊根",
+  "prefecture": "京都府",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "浦島神社",
+  "reason": "[A] 浦島神社の紹介画像として、神社の外観・境内ではなく浦島太郎を描いた木版画（イラスト）が使用されており、「その土地の風景・建物」に該当しない。",
+  "confidence": "high"
+ },
+ {
+  "id": "gokayama",
+  "name": "五箇山",
+  "prefecture": "富山県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "菅沼集落",
+  "reason": "[A] 画像3と画像4が完全に同一の画像であり、かつ規模や家屋の配置から白川郷（荻町集落）と見られ、五箇山の菅沼集落（小規模・9棟程度）とは明らかに不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "gokayama",
+  "name": "五箇山",
+  "prefecture": "富山県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "相倉集落",
+  "reason": "[A] 画像3と全く同一の画像が使用されており、「相倉集落」の紹介画像として不適切。また画像の内容自体も五箇山相倉集落（20棟程度）より大規模で白川郷に類似しており、指定地と不一致の可能性が高い。",
+  "confidence": "high"
+ },
+ {
+  "id": "takao",
+  "name": "高尾山",
+  "prefecture": "東京都",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "もみじ台",
+  "reason": "[A] 高尾山「もみじ台」は山中の紅葉スポットだが、画像は市街地の交差点・幹線道路の風景であり、内容が全く一致しない。",
+  "confidence": "high"
+ },
+ {
+  "id": "sakata",
+  "name": "酒田",
+  "prefecture": "山形県",
+  "file": "spot-4.jpg",
+  "spotIndex": 3,
+  "spotName": "象潟",
+  "reason": "[A] 象潟の現地風景写真ではなく、日本画（屏風絵）の撮影画像であり「その土地の風景写真」に該当しない。イラスト・絵画類はNG。",
+  "confidence": "high"
+ },
+ {
+  "id": "jozankei",
+  "name": "定山渓",
+  "prefecture": "北海道",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "二見公園",
+  "reason": "[A] 「SEA PARADISE 水族館」と書かれた建物が写っており、定山渓の二見公園とは明らかに一致しない（横浜・八景島シーパラダイス等の水族館施設と思われる）。指定地と内容が不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "miyako-iwate",
+  "name": "宮古",
+  "prefecture": "岩手県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "浄土ヶ浜レストハウス",
+  "reason": "[A] 浄土ヶ浜レストハウスの紹介画像として、海岸・建物等の風景ではなく料理（海鮮丼とラーメンのセット）のアップ写真であり、「その土地の風景」として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "ashizuri",
+  "name": "足摺岬",
+  "prefecture": "高知県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "ジョン万次郎像",
+  "reason": "[A] 「ジョン万次郎像」の見どころ紹介画像として、実際の銅像ではなく人物の白黒肖像写真（顔アップ）が使用されており、「その土地の風景・名所」の紹介画像として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "amami",
+  "name": "奄美大島",
+  "prefecture": "鹿児島県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "マングローブカヌー",
+  "reason": "[A] 写っているのは山間の施設・グラウンド・建物群の俯瞰風景であり、マングローブカヌーとの関連性が全くない。マングローブ林・川・カヌーの要素が見当たらず、指定見どころと明らかに不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "miyama",
+  "name": "美山",
+  "prefecture": "京都府",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "美山民俗資料館",
+  "reason": "[AC] 海岸・断崖・雪景色など複数地点を合成したコラージュ画像であり、内陸山村の美山民俗資料館の紹介画像として不適切。また複数写真を貼り合わせた構図自体が旅先紹介画像として不自然。",
+  "confidence": "high"
+ },
+ {
+  "id": "miyama",
+  "name": "美山",
+  "prefecture": "京都府",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "由良川",
+  "reason": "[A] 海上を走る鉄道橋の風景であり、内陸河川「由良川」の紹介画像として明らかに不一致。由良川橋梁付近の海寄りの景色の可能性もあるが、指定見どころ「由良川」の内陸河川風景とは大きく乖離している。",
+  "confidence": "high"
+ },
+ {
+  "id": "himi",
+  "name": "氷見",
+  "prefecture": "富山県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "氷見漁港朝市",
+  "reason": "[A] 路線バスのアップ写真であり、氷見漁港朝市の風景・名所として全く不適切。「その土地の風景」ではない。",
+  "confidence": "high"
+ },
+ {
+  "id": "tateyama-kurobe",
+  "name": "立山黒部アルペンルート",
+  "prefecture": "富山県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "黒部ダム",
+  "reason": "[A] 黒部ダムの紹介画像として指定されているが、写っているのはトンネル内のトロリーバス乗り場（室堂または扇沢の地下駅）の室内風景であり、黒部ダムの景観・外観を示す画像ではない。「その土地の風景」として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "uchiko",
+  "name": "内子",
+  "prefecture": "愛媛県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "木蝋資料館",
+  "reason": "[A] 白い背景に円盤状の木蝋の塊が置かれた物撮り写真であり、「その土地の風景・建物」ではなく商品・資料の接写。旅行サイトの紹介画像として観点Aに明確な問題あり。",
+  "confidence": "high"
+ },
+ {
+  "id": "oku-izumo",
+  "name": "奥出雲",
+  "prefecture": "島根県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "菅谷たたら山内",
+  "reason": "[A] たたら製鉄の工程を描いたモノクロ線画（イラスト）であり、「その土地の風景写真」ではない。観点A（イラスト・図表）に該当。",
+  "confidence": "high"
+ },
+ {
+  "id": "muroto",
+  "name": "室戸",
+  "prefecture": "高知県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "乱礁遊歩道",
+  "reason": "[A] 「乱礁遊歩道」は室戸岬沿岸の磯・岩礁を歩く遊歩道だが、画像は山間の日本家屋・庭園風の建物群であり、海岸遊歩道とは明らかに不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "obuse",
+  "name": "小布施",
+  "prefecture": "長野県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "北斎館",
+  "reason": "[A] 北斎館の紹介画像として北斎の画集（書籍）のページを撮影した室内・資料写真であり、その土地の風景・建物・名所の外観ではない。",
+  "confidence": "high"
+ },
+ {
+  "id": "takehara",
+  "name": "竹原",
+  "prefecture": "広島県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "竹鶴酒造",
+  "reason": "[A] 画像1と同一写真であり、竹鶴酒造の固有外観を示す画像として区別がつかない重複使用。見どころ専用画像として内容が不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "ouchi-juku",
+  "name": "大内宿",
+  "prefecture": "福島県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "三澤屋",
+  "reason": "[A] 「三澤屋」の見どころ画像として、ネギ一本箸そば（高遠そば）の料理アップが写されており、「その土地の風景・名所」ではなく料理・室内写真に該当するためNG。",
+  "confidence": "high"
+ },
+ {
+  "id": "nozawa-onsen",
+  "name": "野沢温泉",
+  "prefecture": "長野県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "麻釜",
+  "reason": "[A] 硫黄が堆積した露天の火口湖・噴気地帯のように見え、野沢温泉の麻釜（町中の源泉地）の景観とは大きく異なる。草津白根山や阿蘇など別の火山性地熱地帯の可能性が高く、場所の不一致と判断。",
+  "confidence": "high"
+ },
+ {
+  "id": "tsumago",
+  "name": "妻籠",
+  "prefecture": "長野県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "妻籠城跡",
+  "reason": "[A] 大阪城と大阪都心のビル群が写っており、長野県妻籠の山間にある城跡とは明らかに一致しない別地域の画像。",
+  "confidence": "high"
+ },
+ {
+  "id": "koyasan",
+  "name": "高野山",
+  "prefecture": "和歌山県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "根本大塔",
+  "reason": "[A] 高野山の根本大塔は朱色の多宝塔だが、写真の塔は黒基調で背後に住宅街が見えており、高野山とは一致しない別の寺院（長野・善光寺周辺等の可能性）と判断される。指定地と明らかに不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "oirase",
+  "name": "奥入瀬",
+  "prefecture": "青森県",
+  "file": "spot-4.jpg",
+  "spotIndex": 3,
+  "spotName": "蔦沼",
+  "reason": "[A] 蔦沼の指定なのに、沼・水面が全く映っておらず、山頂付近からの山岳風景のみ。蔦沼の紹介画像として明らかに内容不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "naruko-onsen",
+  "name": "鳴子温泉",
+  "prefecture": "宮城県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "東北こけし館",
+  "reason": "[A] こけし単体のクローズアップ商品写真であり、「その土地の風景・名所」ではなく物品撮影に該当する。東北こけし館の紹介としても施設外観や展示風景でなく不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "mashiko",
+  "name": "益子",
+  "prefecture": "栃木県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "濱田庄司記念館",
+  "reason": "[A] 濱田庄司記念館の紹介画像として、建物外観や展示室ではなく縁側に置かれた壺のアップが中心で、その土地の風景・名所の外観として不十分。商品・物品クローズアップに近く、場所の魅力が伝わらない。",
+  "confidence": "high"
+ },
+ {
+  "id": "izushi",
+  "name": "出石",
+  "prefecture": "兵庫県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "永楽館",
+  "reason": "[A] 永楽館は出石の実在する歴史的劇場であり場所自体は正しいが、画像は建物の外観でなく劇場内部（室内）の写真であり、「その土地の風景・町並み・名所の外観」として求められる観点Aの基準（室内写真はNG）に該当する。",
+  "confidence": "high"
+ },
+ {
+  "id": "misasa-onsen",
+  "name": "三朝温泉",
+  "prefecture": "鳥取県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "株湯",
+  "reason": "[A] 画像は道後温泉本館（愛媛県松山市）と見られ、三朝温泉の「株湯」とは明らかに異なる施設。指定地と不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "obi",
+  "name": "飫肥",
+  "prefecture": "宮崎県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "商人通り",
+  "reason": "[A] 画像はシェイクスピア『ヴェニスの商人』初版（1600年）の扉ページであり、飫肥の「商人通り」の風景とは全く無関係。日本国外の文書画像で観点Aに明確に違反。",
+  "confidence": "high"
+ },
+ {
+  "id": "wakura-onsen",
+  "name": "和倉温泉",
+  "prefecture": "石川県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "能登島",
+  "reason": "[A] 能登島の紹介として衛星写真・航空写真（地図的俯瞰）が使われており、「その土地の風景」としての観光紹介画像に適さない。また能登島かどうかの確証も得にくい。",
+  "confidence": "high"
+ },
+ {
+  "id": "wakura-onsen",
+  "name": "和倉温泉",
+  "prefecture": "石川県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "足湯の宿",
+  "reason": "[A] 川沿いの足湯風景だが、和倉温泉は海沿いの温泉地であり川沿いに足湯が並ぶ景観とは一致しない。画像は城崎温泉など他の温泉地の足湯と見られ、指定地と明らかに不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "izumo",
+  "name": "出雲",
+  "prefecture": "島根県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "古代出雲歴史博物館",
+  "reason": "[A] 博物館の展示室内（銅鐸の展示）を撮影した室内写真であり、「その土地の風景・町並み・名所の外観」ではなく展示物のアップ。観点A（その土地の風景として妥当か）に抵触する。",
+  "confidence": "high"
+ },
+ {
+  "id": "rebun-island",
+  "name": "礼文島",
+  "prefecture": "北海道",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "レブンアツモリソウ",
+  "reason": "[A] レブンアツモリソウの花のクローズアップであり、「その土地の風景・景観」ではなく植物単体の接写。観光地紹介のメイン画像としては風景要件を満たさない。",
+  "confidence": "high"
+ },
+ {
+  "id": "itoshima",
+  "name": "糸島",
+  "prefecture": "福岡県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "芥屋の大門",
+  "reason": "[C] 画像が極端な縦長（スマートフォン縦位置撮影）のアスペクト比で、旅行サイトの掲載に不向きな構図。内容・焼き込みは問題なし。",
+  "confidence": "high"
+ },
+ {
+  "id": "rishiri-island",
+  "name": "利尻島",
+  "prefecture": "北海道",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "オタトマリ沼",
+  "reason": "[A] 航空写真・衛星写真で撮影された俯瞰画像であり、「その土地の風景」として旅行サイトの紹介画像には不適切。オタトマリ沼の名所紹介としても地図的表現に近く、観光風景写真とは言えない。",
+  "confidence": "high"
+ },
+ {
+  "id": "shikotsu",
+  "name": "支笏湖",
+  "prefecture": "北海道",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "苔の洞門",
+  "reason": "[A] 写っている火山は浅間山に酷似しており、北海道・支笏湖周辺の山（恵庭岳・樽前山等）とは外観が明らかに異なる。「苔の洞門」の紹介画像としても不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "abashiri",
+  "name": "網走",
+  "prefecture": "北海道",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "オーロラ号（砕氷船）",
+  "reason": "[A] 宇宙から見たユーラシア大陸の地球儀CG画像であり、砕氷船オーロラ号とも網走の風景とも全く関係がない。地図・図表類に該当しNG。",
+  "confidence": "high"
+ },
+ {
+  "id": "yonezawa",
+  "name": "米沢",
+  "prefecture": "山形県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "松岬城跡",
+  "reason": "[A] 鯉のぼりが掲揚された海沿いの平屋建て施設が写っており、内陸の城下町・松岬城跡の紹介画像として明らかに不一致。海浜施設のように見え、米沢の景観と合致しない。",
+  "confidence": "high"
+ },
+ {
+  "id": "tenryu-gorge",
+  "name": "天竜峡",
+  "prefecture": "長野県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "天竜峡舟下り",
+  "reason": "[A] 天竜峡舟下りの見どころ画像として指定されているが、画像は日本全国の都道府県区分を示す地図・図表であり、「その土地の風景」に該当しない。",
+  "confidence": "high"
+ },
+ {
+  "id": "eiheiji",
+  "name": "永平寺",
+  "prefecture": "福井県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "山門",
+  "reason": "[A] 写っている山門は永平寺のものではなく、京都・知恩院の三門と見られる。永平寺の山門とは規模・様式・周囲の環境が明らかに異なり、指定地と不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "echizen",
+  "name": "越前",
+  "prefecture": "福井県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "越前海岸（水仙）",
+  "reason": "[A] 画像3と同一カットで「越前海岸（水仙）」の見どころ紹介には不適切。公園入口施設の外観であり、海岸や水仙の群生地の風景が写っていない。",
+  "confidence": "high"
+ },
+ {
+  "id": "kashihara",
+  "name": "橿原",
+  "prefecture": "奈良県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "橿原考古学研究所附属博物館",
+  "reason": "[A] 博物館内の展示物（土器・石器・骨など）のアップ画像であり、「その土地の風景・町並み・名所・建物」には該当しない室内展示物写真。",
+  "confidence": "high"
+ },
+ {
+  "id": "kurayoshi",
+  "name": "倉吉",
+  "prefecture": "鳥取県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "倉吉絣",
+  "reason": "[A] 倉吉絣の織機が置かれた工房の室内写真であり、「その土地の風景・名所」ではなく商品・作業場の室内写真に該当するため観点Aに抵触。",
+  "confidence": "high"
+ },
+ {
+  "id": "suo-oshima",
+  "name": "周防大島",
+  "prefecture": "山口県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "みかん狩り",
+  "reason": "[A] みかんの果実アップのみで「その土地の風景・名所」に該当しない。農園や島の景観が写っておらず、産品の物撮り画像となっている。",
+  "confidence": "high"
+ },
+ {
+  "id": "daisen",
+  "name": "大山",
+  "prefecture": "鳥取県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "豪円湯院",
+  "reason": "[A] 画像は鳥取砂丘と思われる砂丘風景であり、大山（鳥取県）の見どころ「豪円湯院」（温泉施設）とは全く一致しない。",
+  "confidence": "high"
+ },
+ {
+  "id": "iwami-ginzan",
+  "name": "石見銀山",
+  "prefecture": "島根県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "大森の街並み",
+  "reason": "[A] 写っているのは大規模な空港（羽田空港と思われる）の航空写真であり、石見銀山・大森の街並みとは全く無関係。指定地と明らかに不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "shimanto",
+  "name": "四万十",
+  "prefecture": "高知県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "四万十川",
+  "reason": "[A] 画像1と同一または極めて酷似した写真であり、「四万十川」の見どころ画像として重複使用されている。別の見どころ紹介に同一カットを用いることは掲載上不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "taketa",
+  "name": "竹田",
+  "prefecture": "大分県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "竹田温泉",
+  "reason": "[A] 写っているのは岡城跡の石垣と山並みであり、竹田温泉の施設・泉源・露天風呂などとは無関係。見どころ「竹田温泉」の紹介画像としてミスマッチ。",
+  "confidence": "high"
+ },
+ {
+  "id": "kashiwajima",
+  "name": "柏島",
+  "prefecture": "高知県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "ダイビングスポット群",
+  "reason": "[A] 人物（ダイバー）のアップであり、「その土地の風景・名所」ではなく人物主体の写真。柏島のダイビングスポットを示す文脈でも、特定の場所の景観画像として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "usuki",
+  "name": "臼杵",
+  "prefecture": "大分県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "二王座歴史の道",
+  "reason": "[A] 画像2と完全に同一の臼杵石仏の写真が使用されており、「二王座歴史の道」（石畳・白壁の武家屋敷街）の紹介画像として内容が不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "usuki",
+  "name": "臼杵",
+  "prefecture": "大分県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "サーラ・デ・うすき",
+  "reason": "[A] 建物正面の看板に「日井駅」と読める文字があり、臼杵市内の文化施設「サーラ・デ・うすき」ではなく別の駅舎と思われ、指定見どころと内容が一致しない。",
+  "confidence": "high"
+ },
+ {
+  "id": "tsushima",
+  "name": "対馬",
+  "prefecture": "長崎県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "ツシマヤマネコ保護センター",
+  "reason": "[A] ツシマヤマネコの動物アップ写真であり、「その土地の風景・名所」ではなく動物の個体撮影。保護センターの施設外観等ではないため観点Aに該当。",
+  "confidence": "high"
+ },
+ {
+  "id": "kitsuki",
+  "name": "杵築",
+  "prefecture": "大分県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "大原邸",
+  "reason": "[A] 写っているのは近代的な大型オフィスビル・官公庁風の建物であり、杵築の武家屋敷「大原邸」とは明らかに不一致。その土地の歴史的見どころの紹介画像として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "hita",
+  "name": "日田",
+  "prefecture": "大分県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "天領日田おひなまつり",
+  "reason": "[A] 雛人形の展示を室内で撮影した写真。祭りの内容紹介としては理解できるが、「その土地の風景」ではなく室内の展示物アップであり、観点A（場所・内容）のNG例に該当する。",
+  "confidence": "high"
+ },
+ {
+  "id": "hasami",
+  "name": "波佐見",
+  "prefecture": "長崎県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "西の原",
+  "reason": "[A] 画像は千葉県の行政区分地図（イラスト・図表）であり、波佐見（長崎県）の風景写真ではない。地図・図表はNG。",
+  "confidence": "high"
+ },
+ {
+  "id": "hasami",
+  "name": "波佐見",
+  "prefecture": "長崎県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "陶芸の館",
+  "reason": "[A] 棚に並ぶ素焼き陶器の室内写真であり「その土地の風景」に該当しない。また「Please do not touch the Pottery」という英語表記の看板から、日本国外（英語圏）の陶芸工房である可能性が高く、波佐見の陶芸施設としても不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "kikuchi",
+  "name": "菊池",
+  "prefecture": "熊本県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "菊池温泉",
+  "reason": "[A] 画像が熊本県の行政区分カラー地図であり、菊池温泉の「その土地の風景」に該当しない図表画像。",
+  "confidence": "high"
+ },
+ {
+  "id": "iki-island",
+  "name": "壱岐",
+  "prefecture": "長崎県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "辰ノ島",
+  "reason": "[A] 画像がイラスト・地図であり、その土地の風景写真ではない。",
+  "confidence": "high"
+ },
+ {
+  "id": "iki-island",
+  "name": "壱岐",
+  "prefecture": "長崎県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "壱岐焼酎蔵",
+  "reason": "[A] 焼酎の瓶とグラスのテーブル上のアップ写真であり、「壱岐焼酎蔵」という場所の風景・建物ではなく商品・飲食物の室内撮影に該当する。",
+  "confidence": "high"
+ },
+ {
+  "id": "yonaguni-island",
+  "name": "与那国島",
+  "prefecture": "沖縄県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "西崎灯台（日本最西端）",
+  "reason": "[A] 日本全体の地図イラストであり、西崎灯台の風景写真ではない。地図・図表はその土地の風景として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "motobu",
+  "name": "本部",
+  "prefecture": "沖縄県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "沖縄美ら海水族館",
+  "reason": "[A] 水槽内を泳ぐマンタのみを撮影した画像であり「その土地の風景・景観」に該当しない。施設の見どころとして水族館内部の展示物を掲載することは観点A（場所・内容）のNG例「室内」に相当する。",
+  "confidence": "high"
+ },
+ {
+  "id": "zamami-island",
+  "name": "座間味島",
+  "prefecture": "沖縄県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "ホエールウォッチング",
+  "reason": "[A] 写っているクジラはセミクジラ（North Atlantic/Southern Right Whale）と見られ、座間味島に生息するザトウクジラとは異なる種。また観察者の体格・服装・船の造りが海外のウォッチングツアーの雰囲気であり、日本国内（沖縄）の撮影ではない可能性が高い。",
+  "confidence": "high"
+ },
+ {
+  "id": "ie-island",
+  "name": "伊江島",
+  "prefecture": "沖縄県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "百合ヶ浜",
+  "reason": "[AB] 画像が風景写真ではなく、「百合姫 justice for girls.」というテキストロゴのみで構成されており、土地の風景として機能していない。また明らかなテキスト焼き込みがある。",
+  "confidence": "high"
+ },
+ {
+  "id": "iiyama",
+  "name": "飯山",
+  "prefecture": "長野県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "寺の町めぐり",
+  "reason": "[A] 宝蔵門と五重塔は東京・浅草の浅草寺であり、長野県飯山の寺の町とは明らかに異なる場所の画像。",
+  "confidence": "high"
+ },
+ {
+  "id": "nobeoka",
+  "name": "延岡",
+  "prefecture": "宮崎県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "北川渓谷",
+  "reason": "[A] 北川渓谷の風景ではなく、眼鏡をかけた人物のアップ写真（モノクロ）。その土地の風景・名所の紹介画像として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "kamaishi",
+  "name": "釜石",
+  "prefecture": "岩手県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "根浜海岸",
+  "reason": "[A] 根浜海岸の砂浜ではなく、航空機上空から撮影した大海原の俯瞰写真。海岸・砂浜の紹介画像として場所・内容が不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "ofunato",
+  "name": "大船渡",
+  "prefecture": "岩手県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "三陸花火",
+  "reason": "[A] 「三陸花火」の紹介画像であるが、花火は一切写っておらず、夕景の海岸と一本松・建物のみ。指定の見どころ内容と画像が明確に不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "ofunato",
+  "name": "大船渡",
+  "prefecture": "岩手県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "碁石海岸",
+  "reason": "[A] 碁石海岸の見どころ画像として指定されているが、写っているのはBRT（バス高速輸送）の停留所・道路施設であり、海岸・自然景観とは全く無関係。その土地の風景として著しく不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "obihiro",
+  "name": "帯広",
+  "prefecture": "北海道",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "十勝牧場",
+  "reason": "[A] 建物看板に「北海道・十勝 花畑牧場」と明記されており、十勝牧場ではなく花畑牧場の施設である。指定見どころ「十勝牧場」と一致しない。",
+  "confidence": "high"
+ },
+ {
+  "id": "tazawako",
+  "name": "田沢湖",
+  "prefecture": "秋田県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "たつこ像",
+  "reason": "[A] 「たつこ像」の見どころ画像として設定されているが、実際の画像は田沢湖の湖面・湖畔建物の風景（画像1・2と同一構図）であり、たつこ像が写っていない。指定見どころと内容が明らかに不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "yamadera",
+  "name": "山寺",
+  "prefecture": "山形県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "山門",
+  "reason": "[A] 大規模な二重門は山寺（立石寺）の山門ではなく、京都・知恩院の三門と見られる。山形県山寺の紹介画像として明らかに不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "yamadera",
+  "name": "山寺",
+  "prefecture": "山形県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "五大堂展望台",
+  "reason": "[A] 多数の遊覧船が浮かぶ入り江と松島状の小島群は、松島（宮城県）の五大堂周辺の風景と見られ、山形県山寺の五大堂展望台からの眺望とは明らかに異なる。",
+  "confidence": "high"
+ },
+ {
+  "id": "hachimantai",
+  "name": "八幡平",
+  "prefecture": "岩手県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "松川温泉",
+  "reason": "[AC] 実際の風景写真ではなく、画像検索・プレースホルダーを示すイラストアイコン（虫眼鏡と写真フレームのグラフィック）であり、旅先紹介画像として完全に不適切。黒背景の余白も目立つ。",
+  "confidence": "high"
+ },
+ {
+  "id": "hanamaki",
+  "name": "花巻",
+  "prefecture": "岩手県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "宮沢賢治記念館",
+  "reason": "[A] 画像1と全く同一の写真であり、宮沢賢治記念館の外観として掲載されているが、実際の宮沢賢治記念館の建物とは一致しない。誤った建物が使用されている。",
+  "confidence": "high"
+ },
+ {
+  "id": "esashi-hokkaido",
+  "name": "江差",
+  "prefecture": "北海道",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "いにしえ街道",
+  "reason": "[A] 石垣・土塀・赤提灯の街並みは関西（大阪や兵庫など）の旧市街を想起させる意匠であり、北海道・江差の「いにしえ街道」（ニシン漁で栄えた和洋折衷の商家群）の景観と明らかに一致しない。別地域の古い町並みが混入している可能性が高い。",
+  "confidence": "high"
+ },
+ {
+  "id": "oarai",
+  "name": "大洗",
+  "prefecture": "茨城県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "アクアワールド大洗",
+  "reason": "[A] アクアワールド大洗の屋内展示物（マンボウ剥製・模型）を撮影した室内写真であり、「その土地の風景」ではなく施設内部の展示物アップ画像のため観点Aに抵触。",
+  "confidence": "high"
+ },
+ {
+  "id": "enoshima",
+  "name": "江の島",
+  "prefecture": "神奈川県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "岩屋洞窟",
+  "reason": "[A] 赤砂岩のスロットキャニオン状の地形（アメリカ西部のアンテロープキャニオン等に酷似）が写っており、江の島の海蝕洞窟（岩屋）とは明らかに一致しない。日本国外の風景と判断される。",
+  "confidence": "high"
+ },
+ {
+  "id": "narai-juku",
+  "name": "奈良井宿",
+  "prefecture": "長野県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "奈良井宿本陣跡",
+  "reason": "[A] 浮世絵（錦絵）のイラスト作品であり、実際の土地の写真風景ではない。「その土地の風景」として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "narai-juku",
+  "name": "奈良井宿",
+  "prefecture": "長野県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "中村邸",
+  "reason": "[A] 人物のアップ写真（白黒ポートレート）であり、中村邸の建物・外観・内観の風景ではない。",
+  "confidence": "high"
+ },
+ {
+  "id": "narai-juku",
+  "name": "奈良井宿",
+  "prefecture": "長野県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "鍵の手",
+  "reason": "[A] 「鍵の手」は宿場の道路構造（直角に曲がった道）を指す地名だが、画像は金属製の鍵の物撮りであり、土地の風景として全く不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "murakami",
+  "name": "村上",
+  "prefecture": "新潟県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "城下町村上町屋",
+  "reason": "[A] 急峻な山岳に囲まれた山城の櫓と石垣が写っており、平野・海沿いに位置する村上城跡の景観と明らかに一致しない。大分県の岡城や愛媛県の大洲城など別の山城である可能性が高く、指定地と不一致。また見どころ名「城下町村上町屋」の内容（町屋街）とも全く異なる。",
+  "confidence": "high"
+ },
+ {
+  "id": "murakami",
+  "name": "村上",
+  "prefecture": "新潟県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "千年鮭きっかわ",
+  "reason": "[A] 見どころ名「千年鮭きっかわ」は村上の老舗鮭専門店（町屋・店舗）であり、紹介画像として店舗外観や鮭の吊るし風景が期待されるが、実際は川と鉄橋の風景写真であり内容が不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "itoigawa",
+  "name": "糸魚川",
+  "prefecture": "新潟県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "糸魚川ジオパーク",
+  "reason": "[A] 屋内施設の展示物（ヒスイの原石）を室内で撮影した画像であり、「その土地の風景・名所」の紹介画像としては不適切。観点Aの「室内」NG例に該当する。",
+  "confidence": "high"
+ },
+ {
+  "id": "gujo-hachiman",
+  "name": "郡上八幡",
+  "prefecture": "岐阜県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "吉田川",
+  "reason": "[A] 見どころ名は「吉田川」だが、写っているのは特徴的な蓮の葉型屋根の大型建築物（郡上八幡スポーツセンター等と思われる施設）の俯瞰写真であり、吉田川の清流・河川景観の紹介画像として内容が不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "ogaki",
+  "name": "大垣",
+  "prefecture": "岐阜県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "船町湊跡",
+  "reason": "[A] 「船町湊跡」の指定に対し、写っているのはドーム屋根・アーチ窓を持つ洋風近代建築（大垣市民会館と思われる）であり、湊跡・水辺の風景とは明らかに不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "echizen-kaigan",
+  "name": "越前海岸",
+  "prefecture": "福井県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "越前松島",
+  "reason": "[A] 水槽内に展示されたダイオウイカの標本（室内展示物）の写真であり、「越前松島」という屋外の海岸景勝地の紹介画像として不適切。その土地の風景・町並み・自然・名所ではない。",
+  "confidence": "high"
+ },
+ {
+  "id": "shima",
+  "name": "志摩",
+  "prefecture": "三重県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "賢島",
+  "reason": "[A] 賢島の航空衛星写真（地図的な真俯瞰）であり、旅行サイトの風景紹介画像として「その土地の風景」に該当しない。地図・図表相当と判断。",
+  "confidence": "high"
+ },
+ {
+  "id": "kumano-hongu",
+  "name": "熊野本宮",
+  "prefecture": "和歌山県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "大斎原",
+  "reason": "[A] 見どころ「大斎原」の紹介画像であるにもかかわらず、画像は熊野本宮大社の社殿（画像1・2と同一）であり、大斎原（川中洲の旧社地・大鳥居）とは明らかに異なる被写体。",
+  "confidence": "high"
+ },
+ {
+  "id": "tsunoshima",
+  "name": "角島",
+  "prefecture": "山口県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "角島灯台",
+  "reason": "[A] 写真ではなく油彩画（絵画作品）であり、「その土地の風景写真」として不適切。右下に作者署名らしき文字も見られる。",
+  "confidence": "high"
+ },
+ {
+  "id": "sakaiminato",
+  "name": "境港",
+  "prefecture": "鳥取県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "境港水産物直売センター",
+  "reason": "[A] 指定見どころ「境港水産物直売センター」の紹介画像として、青いバス（循環バス）の車両アップが主被写体になっており、水産物直売センターの風景・外観が写っていない。施設を紹介する画像として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "koshikijima",
+  "name": "甑島",
+  "prefecture": "鹿児島県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "甑大明神磐境",
+  "reason": "[A] 甑島の風景・名所ではなく、葛飾北斎の浮世絵「お岩さん」のイラスト作品であり、その土地の風景写真として完全に不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "yanagawa",
+  "name": "柳川",
+  "prefecture": "福岡県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "御花（旧立花伯爵邸）",
+  "reason": "[A] 黒背景に白抜きの家紋（立花家の家紋と思われる）のみが描かれたイラスト・図案であり、御花（旧立花伯爵邸）の風景・建物・庭園写真ではない。「その土地の風景」として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "koshikijima",
+  "name": "甑島",
+  "prefecture": "鹿児島県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "なかまで",
+  "reason": "[A] 甑島の風景ではなく、人物（荒川水系流域治水大使と思われる男性）のアップ写真。背景には国土交通省・関東地方整備局等のバナーが写っており、甑島の見どころ「なかまで」の紹介画像として完全に不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "nago",
+  "name": "名護",
+  "prefecture": "沖縄県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "名護湾",
+  "reason": "[AB] 国際宇宙ステーション（ISS）からの衛星写真であり、旅行サイトの「名護湾」の見どころ紹介画像として不適切（地図・航空写真的な俯瞰で旅先風景に該当しない）。また画像左下に「ISS007E17184」というNASAの識別タグが焼き込まれている。",
+  "confidence": "high"
+ },
+ {
+  "id": "niseko",
+  "name": "ニセコ",
+  "prefecture": "北海道",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "昆布温泉",
+  "reason": "[A] 露天風呂の浴槽を正面から捉えた画像であり、「その土地の風景・景観」ではなく施設の室外設備アップに該当する。温泉地紹介としては関連するが、周辺の自然や町並みが写っておらず「旅先の紹介風景画像」としては不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "onna",
+  "name": "恩納村",
+  "prefecture": "沖縄県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "ブセナテラス",
+  "reason": "[A] ホテルのプール・建物外観の写真であり「その土地の風景・名所」ではなく施設の宣材写真に該当する。観光地の景観紹介画像として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "tomamu",
+  "name": "トマム",
+  "prefecture": "北海道",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "水の教会",
+  "reason": "[A] 安藤忠雄設計の「水の教会」内部の室内・チャペル写真であり、「その土地の風景・景観」ではなく建物内部のインテリアショットに該当する。旅行サイトの見どころ紹介としては観点A（場所・内容）でNGと判断。",
+  "confidence": "high"
+ },
+ {
+  "id": "osorezan",
+  "name": "恐山",
+  "prefecture": "青森県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "恐山菩提寺",
+  "reason": "[A] 恐山菩提寺の境内ではなく、一般的な墓地の墓石アップ写真。恐山の荒涼とした火山性地形や寺院建築が写っておらず、場所の紹介画像として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "minami-sanriku",
+  "name": "南三陸",
+  "prefecture": "宮城県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "戸倉上山八幡宮",
+  "reason": "[A] 指定見どころは「戸倉上山八幡宮」（神社）だが、画像は滝と山林の風景であり、神社の建物や境内とは明らかに不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "kitakami",
+  "name": "北上",
+  "prefecture": "岩手県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "北上市立鬼の館",
+  "reason": "[A] 北上市立鬼の館の展示物（大型鬼面）と来館者を館内から撮影した室内写真であり、「その土地の風景・町並み・自然・名所の外観」ではなく施設内部のアップ写真のため観点A違反。",
+  "confidence": "high"
+ },
+ {
+  "id": "kinugawa-onsen",
+  "name": "鬼怒川温泉",
+  "prefecture": "栃木県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "SL大樹",
+  "reason": "[A] SL大樹の紹介画像として指定されているが、画像は弁当（食事）の接写であり、その土地の風景・名所・乗り物の写真ではない。",
+  "confidence": "high"
+ },
+ {
+  "id": "miura",
+  "name": "三浦",
+  "prefecture": "神奈川県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "三浦海岸",
+  "reason": "[A] 三浦海岸の海岸風景ではなく、京急「三浦海岸駅」の駅舎外観写真であり、「その土地の風景・名所」としては不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "kujukuri",
+  "name": "九十九里",
+  "prefecture": "千葉県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "九十九里浜",
+  "reason": "[A] 航空機の窓から撮影したと思われる洋上の俯瞰写真で、九十九里浜の砂浜・海岸の風景として全く判別できない。その土地の風景紹介画像として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "kujukuri",
+  "name": "九十九里",
+  "prefecture": "千葉県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "いわし丸干し",
+  "reason": "[A] 画像が全面真っ黒で内容を確認できない。風景として成立していない。",
+  "confidence": "high"
+ },
+ {
+  "id": "miura",
+  "name": "三浦",
+  "prefecture": "神奈川県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "三崎港まぐろ",
+  "reason": "[A] 富士山と大規模港湾都市（清水港周辺と推定）の俯瞰写真で、三浦・三崎港まぐろの紹介画像として地域が明らかに不一致。料理・漁港の写真でもなく内容も合致しない。",
+  "confidence": "high"
+ },
+ {
+  "id": "naritasan",
+  "name": "成田山・成田",
+  "prefecture": "千葉県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "成田山新勝寺",
+  "reason": "[A] 画像2と同一と見られる「真昌寺」の建物前の石庭・石碑が写っており、成田山新勝寺の見どころ紹介として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "jigokudani",
+  "name": "地獄谷野猿公苑",
+  "prefecture": "長野県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "地獄谷野猿公苑",
+  "reason": "[A] 画像2と同一カット。猿の顔面クローズアップのみで、地獄谷野猿公苑の景観・温泉・渓谷が写っておらず風景紹介画像として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "fujinomiya",
+  "name": "富士宮",
+  "prefecture": "静岡県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "富士宮やきそば",
+  "reason": "[A] 「富士宮やきそば」は地元名物だが、料理のクローズアップ写真はその土地の風景・名所ではなく観点Aの「料理」NGに該当する。",
+  "confidence": "high"
+ },
+ {
+  "id": "echigo-yuzawa",
+  "name": "越後湯沢",
+  "prefecture": "新潟県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "石打丸山スキー場",
+  "reason": "[A] 石打丸山スキー場の紹介画像としてヤマハ製スノーモービル車体のアップが主題となっており、「その土地の風景・ゲレンデ景観」ではなく乗り物の商品的写真に近い。背景にスキー場施設は僅かに見えるが、場所を紹介する風景画像として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "shigaraki",
+  "name": "信楽",
+  "prefecture": "滋賀県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "信楽焼窯元",
+  "reason": "[A] 信楽焼の壺単体を撮影した商品・作品写真であり、窯元の風景・建物・工房などの「その土地の風景」ではなく、室内物撮りに該当する。",
+  "confidence": "high"
+ },
+ {
+  "id": "yanai",
+  "name": "柳井",
+  "prefecture": "山口県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "白壁の街並み",
+  "reason": "[A] 画像3と同一写真であり、メイン風景と見どころ「白壁の街並み」で重複使用されている。コンテンツとしては問題ないが、同一画像の重複は掲載画像として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "matsusaka",
+  "name": "松阪",
+  "prefecture": "三重県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "松阪牛",
+  "reason": "[A] 松阪牛の生肉アップは「料理・食品」であり、その土地の風景・名所・建物ではない。観点Aの明確なNG（食品クローズアップ）に該当。",
+  "confidence": "high"
+ },
+ {
+  "id": "ama-island",
+  "name": "海士町",
+  "prefecture": "島根県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "キンニャモニャセンター",
+  "reason": "[A] 画像はキンニャモニャセンターの施設内部（室内）を撮影したものであり、「その土地の風景・町並み・名所」ではなく室内写真に該当するためNG。",
+  "confidence": "high"
+ },
+ {
+  "id": "ama-island",
+  "name": "海士町",
+  "prefecture": "島根県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "海士の塩",
+  "reason": "[A] 見どころのタイトルが「海士の塩」（塩の生産・商品紹介）であるにもかかわらず、画像は神社の社殿を正面から撮ったものであり、内容が一致しない。",
+  "confidence": "high"
+ },
+ {
+  "id": "yusuhara",
+  "name": "梼原",
+  "prefecture": "高知県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "雲の上の図書館",
+  "reason": "[A] 「雲の上の図書館」の建物内部（室内）の写真であり、その土地の風景・町並み・外観ではなく施設内部の撮影。観点Aの「室内」に該当しNG。",
+  "confidence": "high"
+ },
+ {
+  "id": "inujima",
+  "name": "犬島",
+  "prefecture": "岡山県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "犬島港",
+  "reason": "[A] 航空写真（衛星画像）で島全体を俯瞰した構図だが、犬島は非常に小さな島（周囲約4km）であり、画像に写る島の規模・形状・採石場跡と集落の配置が犬島と合致しない可能性が高い。また「犬島港」の地上風景ではなく俯瞰の地図的画像であり、旅行紹介用の「その土地の風景写真」としての適切性に疑義がある。",
+  "confidence": "high"
+ },
+ {
+  "id": "aoshima",
+  "name": "青島",
+  "prefecture": "宮崎県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "青島ビーチ",
+  "reason": "[A] 高層ビル群・西洋風大聖堂・中国式建築・五輪マークなど、中国の青島（チンタオ）市を紹介するコラージュ画像であり、宮崎県青島のビーチ風景とは無関係。日本国外の風景が混入している。",
+  "confidence": "high"
+ },
+ {
+  "id": "yamaga",
+  "name": "山鹿",
+  "prefecture": "熊本県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "豊前街道",
+  "reason": "[A] 右手の看板に「奈龍宿」と読める文字が確認でき、建物の様式・雰囲気が長野県の奈良井宿など中山道の宿場町に酷似しており、熊本県山鹿市の豊前街道とは明らかに景観が一致しない。",
+  "confidence": "high"
+ },
+ {
+  "id": "anan",
+  "name": "阿南",
+  "prefecture": "徳島県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "大浜海岸（アカウミガメ産卵地）",
+  "reason": "[A] 水族館の水槽内で撮影されたウミガメのアップ画像であり、「大浜海岸（アカウミガメ産卵地）」という屋外の海浜・自然環境の紹介画像として不適切。その土地の風景ではなく生物の室内展示写真に該当する。",
+  "confidence": "high"
+ },
+ {
+  "id": "irabu-island",
+  "name": "伊良部島",
+  "prefecture": "沖縄県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "三角点",
+  "reason": "[A] 「三角点」という見どころの紹介画像として、草の生えた小高い土の丘のみが映っており、旅行者に伝わる風景・名所としての魅力が乏しく「その土地の風景」として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "chiran",
+  "name": "知覧",
+  "prefecture": "鹿児島県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "知覧武家屋敷群",
+  "reason": "[A] 知覧武家屋敷群の紹介画像として指定されているが、実際の写真ではなく日本画（屏風絵・絵巻物風のイラスト）であり、「その土地の風景写真」として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "aguni-island",
+  "name": "粟国島",
+  "prefecture": "沖縄県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "東海岸ビーチ",
+  "reason": "[A] 黄色いテントが並ぶ整備されたビーチリゾートで、ライフガードタワーやビーチバレーコートも見られ、フロリダなど米国のビーチに酷似。信号もコンビニもない離島・粟国島の東海岸ビーチとは明らかに不一致であり、日本国外の風景と判断。",
+  "confidence": "high"
+ },
+ {
+  "id": "aguni-island",
+  "name": "粟国島",
+  "prefecture": "沖縄県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "南集落",
+  "reason": "[A] 赤土の水路と木柵・熱帯性植生が写っており、東南アジアまたはアフリカ系の農村風景に見える。背景に山脈も確認でき、平坦な珊瑚礁の離島である粟国島の集落風景とは明らかに不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "chiran",
+  "name": "知覧",
+  "prefecture": "鹿児島県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "特攻平和会館",
+  "reason": "[C] 画像が極端に横長（細長い帯状）のアスペクト比で、機体上下が大きくトリミングされており、構図として不自然。",
+  "confidence": "high"
+ },
+ {
+  "id": "niijima",
+  "name": "新島",
+  "prefecture": "東京都",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "新島ガラス工芸",
+  "reason": "[A] ガラスコップ2個のアップ写真であり「その土地の風景」ではなく商品・物体の撮影。見どころ紹介画像として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "kijoka",
+  "name": "喜如嘉",
+  "prefecture": "沖縄県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "大宜味の長寿食",
+  "reason": "[A] 画像2（芭蕉布会館）と同一画像であり、「大宜味の長寿食」の見どころ紹介画像としてコンテンツが全く合致していない。",
+  "confidence": "high"
+ },
+ {
+  "id": "hachijojima",
+  "name": "八丈島",
+  "prefecture": "東京都",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "底土海水浴場",
+  "reason": "[A] 衛星・航空写真による島全体の俯瞰画像であり、「底土海水浴場」の見どころ紹介画像としては不適切。その土地の風景（海水浴場の浜辺・海）を写した画像ではない。",
+  "confidence": "high"
+ },
+ {
+  "id": "hachijojima",
+  "name": "八丈島",
+  "prefecture": "東京都",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "黄八丈染物",
+  "reason": "[A] 画像は仏教系の古い絵画（曼荼羅・仏画様）であり、八丈島の伝統工芸「黄八丈染物」とは全く無関係なコンテンツ。その土地の風景・名所・伝統工芸品の写真ではない。",
+  "confidence": "high"
+ },
+ {
+  "id": "hachijojima",
+  "name": "八丈島",
+  "prefecture": "東京都",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "洞輪沢温泉",
+  "reason": "[A] 路線バスの正面アップ写真であり、「洞輪沢温泉」の見どころ紹介画像として不適切。温泉施設や温泉地の風景が写っておらず、バスという乗り物が主被写体になっている。",
+  "confidence": "high"
+ },
+ {
+  "id": "shikinejima",
+  "name": "式根島",
+  "prefecture": "東京都",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "足付温泉",
+  "reason": "[A] 画像が日本全体の位置情報地図（白地図）であり、足付温泉の風景・自然・名所の写真ではないため、観点Aに該当するNG。",
+  "confidence": "high"
+ },
+ {
+  "id": "miyakejima",
+  "name": "三宅島",
+  "prefecture": "東京都",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "ダイビングポイント",
+  "reason": "[A] 水中でダイバーのみが被写体となっており、「その土地の風景・名所」ではなく人物アップ寄りの構図。三宅島特有のダイビングポイントの海中環境（サンゴ・魚・地形等）が写っておらず、場所を特定できる要素がない人物中心の水中写真のため不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "ryusendo",
+  "name": "龍泉洞",
+  "prefecture": "岩手県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "龍泉洞",
+  "reason": "[C] 360度パノラマ撮影による極端な横長（equirectangular）歪み構図で、上下に黒帯状の潰れが生じており不自然なトリミングと判断。",
+  "confidence": "high"
+ },
+ {
+  "id": "ryusendo",
+  "name": "龍泉洞",
+  "prefecture": "岩手県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "岩泉龍泉洞地底湖",
+  "reason": "[AC] 画像1と完全に同一の画像であり、見どころ名「岩泉龍泉洞地底湖」として使用されているが、地底湖が明確に写っておらず内容の一致が不十分。加えて画像1と同様に360度パノラマ由来の極端な歪み構図の問題もある。",
+  "confidence": "high"
+ },
+ {
+  "id": "koriyama",
+  "name": "郡山",
+  "prefecture": "福島県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "猪苗代湖（日帰り）",
+  "reason": "[A] 猪苗代湖の紹介画像として指定されているが、画像は郡山駅前の高層ビル・神社・市街地・祭りなど郡山市街地のコラージュであり、猪苗代湖の風景が含まれていない。",
+  "confidence": "high"
+ },
+ {
+  "id": "ichinoseki",
+  "name": "一関",
+  "prefecture": "岩手県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "げいび渓",
+  "reason": "[A] 「げいび渓」と「猊鼻渓」は同一の場所を指すが、画像2と画像3がほぼ同一の写真であり、別見どころの紹介画像として重複使用されている。画像自体の内容（猊鼻渓の舟下り）は一関の名所として適切だが、同一画像を別タイトルに流用している点が問題。",
+  "confidence": "high"
+ },
+ {
+  "id": "ichinoseki",
+  "name": "一関",
+  "prefecture": "岩手県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "猊鼻渓",
+  "reason": "[A] 画像2と実質同一の写真が使用されており、「げいび渓」と「猊鼻渓」という異なる見どころに同じ画像が割り当てられている。重複流用のため不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "kitakata",
+  "name": "喜多方",
+  "prefecture": "福島県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "蔵のまち",
+  "reason": "[A] 指定は喜多方「蔵のまち」だが、画像はパームツリーが写る運河と白壁蔵の風景で、栃木県栃木市や茨城県潮来など別の蔵・運河観光地の可能性が高く、喜多方の蔵のまちとは景観が明らかに不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "kitakata",
+  "name": "喜多方",
+  "prefecture": "福島県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "喜多方蔵座敷美術館",
+  "reason": "[A] 指定は「喜多方蔵座敷美術館」（建物・内装等の風景）だが、画像はラーメンの料理写真であり、その土地の風景・名所の紹介画像として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "kitakata",
+  "name": "喜多方",
+  "prefecture": "福島県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "熱塩温泉",
+  "reason": "[A] 指定は「熱塩温泉」の見どころ紹介だが、画像は真上から撮影した航空写真（衛星・空撮地図）であり、旅行サイトの風景紹介画像として「その土地の風景」に該当しない。",
+  "confidence": "high"
+ },
+ {
+  "id": "higashine",
+  "name": "東根",
+  "prefecture": "山形県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "東根温泉",
+  "reason": "[A] 東根温泉の紹介画像として、実際には写真検索を示すイラストアイコン（虫眼鏡と写真フレームのグラフィック）が表示されており、その土地の風景写真ではない。",
+  "confidence": "high"
+ },
+ {
+  "id": "higashine",
+  "name": "東根",
+  "prefecture": "山形県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "大けやき公園",
+  "reason": "[AB] 画像は日向坂46のロゴマークであり、東根市の風景・名所とは全く無関係。また「46」「日向坂」などのテキスト・ロゴが焼き込まれている。",
+  "confidence": "high"
+ },
+ {
+  "id": "kisakata",
+  "name": "象潟",
+  "prefecture": "秋田県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "九十九島展望台",
+  "reason": "[A] 多数の島が海に浮かぶ景観は長崎県の九十九島（佐世保）の典型的な風景であり、秋田県象潟の「九十九島展望台」（田んぼに小島が点在する内陸的景観）とは明らかに一致しない。",
+  "confidence": "high"
+ },
+ {
+  "id": "yugawara-onsen",
+  "name": "湯河原温泉",
+  "prefecture": "神奈川県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "湯河原温泉街",
+  "reason": "[A] 雪深い山間の温泉街が写っているが、湯河原温泉（神奈川県）は温暖な海寄りの地域であり、このような積雪・山岳景観は湯河原と明らかに不一致。北海道や東北・北関東の温泉地（定山渓等）の風景と推測される。",
+  "confidence": "high"
+ },
+ {
+  "id": "hamamatsu",
+  "name": "浜松",
+  "prefecture": "静岡県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "楽器博物館",
+  "reason": "[A] 博物館内部の展示室（室内）を撮影した画像であり、「その土地の風景・外観・名所」としての屋外・外観写真ではなく、室内展示の写真。観点A上NGと判定。",
+  "confidence": "high"
+ },
+ {
+  "id": "yugawara-onsen",
+  "name": "湯河原温泉",
+  "prefecture": "神奈川県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "落合楼村游",
+  "reason": "[A] 人物（男性）の顔・上半身アップの白黒ポートレート写真であり、その土地の風景・名所・建物の紹介画像として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "okazaki",
+  "name": "岡崎",
+  "prefecture": "愛知県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "徳川家康公像",
+  "reason": "[A] 背景に「SHIZUOKA CITY MUSEUM」の表記が明確に写っており、静岡市の施設前に設置された像と判断される。岡崎の徳川家康公像（岡崎公園内）ではなく、指定地と不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "tajimi",
+  "name": "多治見",
+  "prefecture": "岐阜県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "本町オリベストリート",
+  "reason": "[A] 池に橋と社殿が映る庭園風景は虎渓山永保寺に類似しており、「本町オリベストリート」（陶器商店街の町並み）の紹介画像として内容が明らかに不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "togakushi",
+  "name": "戸隠",
+  "prefecture": "長野県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "戸隠そばの里",
+  "reason": "[A] 「戸隠そばの里」という見どころ紹介画像として、室内で撮影された蕎麦料理のアップ写真が使われており、「その土地の風景・名所・建物」に該当しない料理写真のため観点A違反。",
+  "confidence": "high"
+ },
+ {
+  "id": "mihara",
+  "name": "三原",
+  "prefecture": "広島県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "さんはら観光農園",
+  "reason": "[A] 「さんはら観光農園」の紹介画像として指定されているが、写っているのは峡谷・断崖・渓流の景観であり、農園の風景とは明らかに不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "innoshima",
+  "name": "因島",
+  "prefecture": "広島県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "白滝山五百羅漢",
+  "reason": "[A] 白滝山五百羅漢の見どころ画像として指定されているが、実際は白黒の航空写真（衛星・空撮地図画像）であり、「その土地の風景・名所」の紹介画像として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "innoshima",
+  "name": "因島",
+  "prefecture": "広島県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "はっさく発祥の地",
+  "reason": "[A] 白背景に置かれたはっさく（カット果物）の商品撮影写真であり、「その土地の風景・名所」ではなく食品・商品写真のため不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "nemuro",
+  "name": "根室",
+  "prefecture": "北海道",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "北方領土資料館",
+  "reason": "[A] 北方領土の地図イラスト（図表）であり、「その土地の風景写真」ではない。観点Aの地図・イラストNG例に該当。",
+  "confidence": "high"
+ },
+ {
+  "id": "nakatsu",
+  "name": "中津",
+  "prefecture": "大分県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "中津唐揚げ",
+  "reason": "[A] 料理（唐揚げ）のアップ写真であり、「その土地の風景・名所・建物」ではなく観点Aに該当。飲食物の皿写真は旅先紹介風景画像として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "hitachi",
+  "name": "日立",
+  "prefecture": "茨城県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "かみね動物園",
+  "reason": "[A] ゾウのアップ写真であり「その土地の風景・名所」ではなく動物個体の撮影。動物園の紹介としては場所の雰囲気が伝わらず、風景画像として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "tomakomai",
+  "name": "苫小牧",
+  "prefecture": "北海道",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "北海道博物館（近郊）",
+  "reason": "[A] 写真はロンドンの大英博物館の外観。ユニオンジャックの旗が確認でき、日本国外の建物であり北海道博物館とは明らかに不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "tomakomai",
+  "name": "苫小牧",
+  "prefecture": "北海道",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "苫小牧ホッキ貝",
+  "reason": "[A] 「苫小牧ホッキ貝」の紹介画像として、ホッキ貝の料理・漁獲の写真ではなく苫小牧市街地の複数風景コラージュが使用されており、指定見どころ（ホッキ貝）の内容と一致しない。また複数画像を組み合わせた図表的構成でその土地の単一風景写真としても不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "ishinomaki",
+  "name": "石巻",
+  "prefecture": "宮城県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "石巻漁港直売所",
+  "reason": "[A] 「石巻漁港直売所」の紹介画像として指定されているが、写っているのは津波被災後と思われる更地化した広大な被災地の俯瞰風景であり、漁港直売所の施設・風景として全く一致しない。",
+  "confidence": "high"
+ },
+ {
+  "id": "muroran",
+  "name": "室蘭",
+  "prefecture": "北海道",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "室蘭工場夜景",
+  "reason": "[AC] 「室蘭工場夜景」の紹介画像として指定されているが、複数スポット（工場夜景・地球岬・水族館・市街地・白鳥大橋）を組み合わせたコラージュ画像であり、単一見どころの紹介画像として不適切。また縦長のモンタージュ構図で複数カットが継ぎ合わされており構図上も問題がある。",
+  "confidence": "high"
+ },
+ {
+  "id": "sanriku-miyako",
+  "name": "浄土ヶ浜",
+  "prefecture": "岩手県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "グルメポート宮古",
+  "reason": "[A] 建物看板に「沖縄県立図書館」「那覇バスターミナル」の文字が確認でき、岩手県宮古市の施設ではなく沖縄県那覇市の施設（那覇バスターミナル周辺）の画像と判断される。指定地と明らかに不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "shiraoishi",
+  "name": "白石",
+  "prefecture": "宮城県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "武家屋敷",
+  "reason": "[A] 武家屋敷の実際の風景写真ではなく、日本画（屏風絵・絵巻物風のイラスト）であり、「その土地の風景」として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "shiraoishi",
+  "name": "白石",
+  "prefecture": "宮城県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "白石温麺",
+  "reason": "[A] 白石温麺の料理写真であり、土地の風景・名所・建物ではなく食べ物のアップ画像のため観点A違反。",
+  "confidence": "high"
+ },
+ {
+  "id": "mizusawa",
+  "name": "奥州",
+  "prefecture": "岩手県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "前沢牛",
+  "reason": "[A] 前沢牛の料理（生肉のアップ）であり、「その土地の風景・名所・建物」ではなく食品写真のため観点Aに該当。",
+  "confidence": "high"
+ },
+ {
+  "id": "tendo",
+  "name": "天童",
+  "prefecture": "山形県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "慈恩寺",
+  "reason": "[A] 慈恩寺の扁額のアップのみで、建物全体や境内の風景が写っておらず「その土地の風景」として不十分。人物アップ同様、被写体が局所的すぎる構図で旅先紹介画像として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "tendo",
+  "name": "天童",
+  "prefecture": "山形県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "さくらんぼひがしね",
+  "reason": "[A] さくらんぼの実のクローズアップ写真であり、「その土地の風景・名所・景観」ではなく農産物（食材）のアップ画像に該当する。",
+  "confidence": "high"
+ },
+ {
+  "id": "otoyo",
+  "name": "大豊",
+  "prefecture": "高知県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "日本一の大杉",
+  "reason": "[A] 人物（男性）のアップ写真であり、「日本一の大杉」の風景・名所紹介画像として完全に不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "otoyo",
+  "name": "大豊",
+  "prefecture": "高知県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "杉の大杉公園",
+  "reason": "[A] 高架駅舎と都市部の街並みが写っており、山村・高知県大豊の杉の大杉公園とは明らかに一致しない。都市部の駅周辺と思われる。",
+  "confidence": "high"
+ },
+ {
+  "id": "yura-wakayama",
+  "name": "由良",
+  "prefecture": "和歌山県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "白崎海岸",
+  "reason": "[A] 画像2と同一（または極めて類似した）写真であり、別の見どころ「白崎海岸」として使用するには重複コンテンツとなる。",
+  "confidence": "high"
+ },
+ {
+  "id": "sukumo",
+  "name": "宿毛",
+  "prefecture": "高知県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "宿毛市立坂本登美子記念館",
+  "reason": "[A] 画像は高知市の風景（はりまや橋・よさこい祭り・高知城・路面電車・坂本龍馬像など）のコラージュであり、宿毛市立坂本登美子記念館の紹介画像として場所が明らかに不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "asakura",
+  "name": "朝倉",
+  "prefecture": "福岡県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "三連水車",
+  "reason": "[A] 水車自体は朝倉の三連水車に似るが、背景の山並みや広大な石畳の観光広場の景観が朝倉市菱野の三連水車周辺と一致せず、台湾など日本国外の水車観光地である可能性が高い。",
+  "confidence": "high"
+ },
+ {
+  "id": "ebino",
+  "name": "えびの",
+  "prefecture": "宮崎県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "霧島神宮（近郊）",
+  "reason": "[A] 「霧島神宮（近郊）」の紹介画像として列車（特急885系と思われる）のアップ写真が使われており、神社・名所の風景として不適切。その土地の風景・名所ではなく交通手段の写真になっている。",
+  "confidence": "high"
+ },
+ {
+  "id": "kitakyushu",
+  "name": "北九州",
+  "prefecture": "福岡県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "門司港レトロ（近郊）",
+  "reason": "[A] 「門司港レトロ」の見どころ紹介画像として、門司港の歴史的建築群ではなくJR813系電車（門司港行き）の車両写真が使用されており、「その土地の風景・名所」の紹介画像として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "minamikyushu",
+  "name": "南九州",
+  "prefecture": "鹿児島県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "知覧特攻平和会館（近郊）",
+  "reason": "[A] モノクロ写真で、戦時中の艦船甲板上に兵士が密集している戦闘場面。知覧特攻平和会館の「その土地の風景・建物・名所」ではなく、施設外観や展示物の写真でもない。人物集団の記録写真であり、旅行サイトの風景紹介画像として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "hakusan",
+  "name": "白山",
+  "prefecture": "石川県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "白峰温泉",
+  "reason": "[A] 温泉施設の浴室内部（室内）の写真であり、「その土地の風景・名所」ではなく施設内観に該当する。",
+  "confidence": "high"
+ },
+ {
+  "id": "chatan",
+  "name": "北谷",
+  "prefecture": "沖縄県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "北谷ニライビーチ",
+  "reason": "[A] 指定見どころは「北谷ニライビーチ」だが、画像は首里城正殿とみられる琉球建築で、ビーチとは全く異なる被写体。場所・内容の不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "nanto",
+  "name": "南砺",
+  "prefecture": "富山県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "城端別院善徳寺",
+  "reason": "[B] 画像左下隅に「© Nobu J. M.」の著作権クレジットが焼き込まれている。また画像は城端別院善徳寺の祭礼行列（曳山祭）と思われ場所の整合性は許容範囲だが、クレジット焼き込みがNG。",
+  "confidence": "high"
+ },
+ {
+  "id": "yoichi",
+  "name": "余市",
+  "prefecture": "北海道",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "余市水産博物館",
+  "reason": "[A] アーチ門にニッカウヰスキー余市蒸溜所と読める刻字があり、これはニッカウヰスキー余市蒸溜所の正門と判断される。「余市水産博物館」の紹介画像としては場所が明らかに不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "kitami",
+  "name": "北見",
+  "prefecture": "北海道",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "野付牛公園",
+  "reason": "[A] 池・木造小屋・ボート乗り場のある緑豊かな景観だが、植生・地形・建物様式がヨーロッパ的で日本の公園と判断しがたい。北海道・北見の野付牛公園の風景として不自然であり、日本国外の可能性が高い。",
+  "confidence": "high"
+ },
+ {
+  "id": "hokkaido-kushiro",
+  "name": "釧路",
+  "prefecture": "北海道",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "釧路湿原",
+  "reason": "[A] 画像2と同一の「釧路湿原駅」駅舎の建物写真。釧路湿原の見どころ紹介としては湿原・自然の風景が求められるが、屋外の建物アップであり湿原の景観を示す画像として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "yoichi",
+  "name": "余市",
+  "prefecture": "北海道",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "柿崎商店",
+  "reason": "[A] 画像は一般的な地方都市の商店街・アーケード街の風景であり、余市の見どころ「柿崎商店」とは一致しない。柿崎商店は余市の鮮魚店として知られる施設だが、この画像にその施設は確認できず、場所・内容が不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "hokkaido-hakodate",
+  "name": "函館",
+  "prefecture": "北海道",
+  "file": "spot-4.jpg",
+  "spotIndex": 3,
+  "spotName": "元町異人館",
+  "reason": "[A] 画像は神戸港（ポートタワー・観覧車・クルーズ船が確認できる）の航空写真であり、函館の元町異人館とは明らかに不一致。北海道函館の風景ではない。",
+  "confidence": "high"
+ },
+ {
+  "id": "hokkaido-asahikawa",
+  "name": "旭川",
+  "prefecture": "北海道",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "旭川ラーメン村",
+  "reason": "[A] コラージュ画像であり、ラーメンの料理アップ写真が含まれている。料理単体の写真はその土地の風景・名所の紹介画像としてNG。また「旭川ラーメン村」の施設外観は含まれていない。",
+  "confidence": "high"
+ },
+ {
+  "id": "omagari",
+  "name": "大曲",
+  "prefecture": "秋田県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "神岡町",
+  "reason": "[A] 画像は建物の室内展示廊下を撮影したもので、「その土地の風景・町並み・名所」に該当しない。見どころ名「神岡町」（大曲市神岡地区）の紹介であっても、室内写真は観点Aの明確なNG例に該当する。",
+  "confidence": "high"
+ },
+ {
+  "id": "omagari",
+  "name": "大曲",
+  "prefecture": "秋田県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "大仙市角館（近隣）",
+  "reason": "[A] 「羽後交通本社」の社屋を撮影した画像であり、角館の風景・名所・町並みとしての紹介に全く不適切。企業建物の外観写真で観光地の見どころ画像として使用できない。",
+  "confidence": "high"
+ },
+ {
+  "id": "nakatsugawa",
+  "name": "中津川",
+  "prefecture": "岐阜県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "栗きんとん老舗街",
+  "reason": "[A] 和菓子（上生菓子）のショーケース内を撮影した商品・室内写真であり、「栗きんとん老舗街」の町並み・外観風景ではなく「その土地の風景」に該当しない。",
+  "confidence": "high"
+ },
+ {
+  "id": "nakatsugawa",
+  "name": "中津川",
+  "prefecture": "岐阜県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "馬籠宿（近隣）",
+  "reason": "[A] 実写風景ではなく浮世絵（木曽街道六十九次・馬籠宿）のイラスト・版画であり、旅行サイトの風景写真として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "hamanako",
+  "name": "浜名湖",
+  "prefecture": "静岡県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "浜名湖うなぎ",
+  "reason": "[A] 見どころ「浜名湖うなぎ」の紹介画像として、衛星写真（空撮地図）が使用されており「その土地の風景」として不適切。料理・養殖場の現場写真等が望ましい。",
+  "confidence": "high"
+ },
+ {
+  "id": "tango-kyoto",
+  "name": "丹後",
+  "prefecture": "京都府",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "伊根の舟屋（近隣）",
+  "reason": "[A] 画像はヴェネツィア（イタリア）の風景コラージュであり、日本国内・丹後地方の風景とは全く無関係。",
+  "confidence": "high"
+ },
+ {
+  "id": "otsu-shiga",
+  "name": "大津",
+  "prefecture": "滋賀県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "石山寺",
+  "reason": "[A] 石山寺の境内や伽藍ではなく、送電鉄塔・高架道路・道路標識が並ぶ幹線道路沿いの風景であり、見どころ紹介画像として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "kusatsu-shiga",
+  "name": "草津",
+  "prefecture": "滋賀県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "草津宿本陣",
+  "reason": "[B] 左側に「草津宿場まつり まつり寄席 4月28日」と記載されたイベント告知の幟・看板が大きく写り込んでおり、後付けの宣伝物として観点Bに抵触する。ただし実在する現地設置物であるため判断は微妙だが、広告・PR文言が画像内で目立つためNG寄りと判定。",
+  "confidence": "high"
+ },
+ {
+  "id": "toyota-city",
+  "name": "豊田",
+  "prefecture": "愛知県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "トヨタ会館",
+  "reason": "[A] トヨタ会館の屋外・外観風景ではなく、館内の車のカットモデル展示物の室内写真。「その土地の風景」ではなく商品・展示物の室内写真に該当するためNG。",
+  "confidence": "high"
+ },
+ {
+  "id": "kushimoto",
+  "name": "串本",
+  "prefecture": "和歌山県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "串本海中公園",
+  "reason": "[A] 水槽越しに撮影された魚のアップ画像であり「その土地の風景・名所」に該当しない室内（施設内展示）写真。串本海中公園の紹介としても屋外の海中景観ではなく不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "kure",
+  "name": "呉",
+  "prefecture": "広島県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "呉海軍カレー",
+  "reason": "[A] 画像は呉市の風景コラージュ（大和ミュージアム・造船所・音戸大橋等）であり、指定された見どころ「呉海軍カレー」（料理）の紹介画像としては内容不一致。土地の風景としては呉市に合致するが、料理カテゴリに対し風景写真を使用している点が観点A違反。",
+  "confidence": "high"
+ },
+ {
+  "id": "mine-yamaguchi",
+  "name": "美祢",
+  "prefecture": "山口県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "秋芳洞",
+  "reason": "[A] 画像2と同一の洞窟外の渓流風景で、「秋芳洞」の見どころ紹介として洞窟内部の風景と不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "kagawa-takamatsu",
+  "name": "高松",
+  "prefecture": "香川県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "うどんめぐり",
+  "reason": "[A] 画像は飲食店（そば・うどん店）の店頭室内であり、「その土地の風景・名所」ではなく店舗内観。観点Aの「室内・料理・商品」に該当し、うどんめぐりの紹介としても風景画像として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "kurume",
+  "name": "久留米",
+  "prefecture": "福岡県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "久留米城跡",
+  "reason": "[AC] 複数のコマを縦に並べたコラージュ画像であり、ラーメンのアップ・料理写真が含まれている点で観点A（その土地の風景でない要素混入）に抵触。また縦長の極端なアスペクト比のコラージュ構成で観点C（構図）にも問題あり。「久留米城跡」単体の紹介画像としても不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "yatsushiro",
+  "name": "八代",
+  "prefecture": "熊本県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "八代神社（妙見宮）",
+  "reason": "[A] 画像は池泉回遊式の日本庭園と和風建築を写したもので、八代神社（妙見宮）の境内とは一致しない。松浜軒など別施設の庭園の可能性が高く、指定見どころと内容が不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "izumi-kagoshima",
+  "name": "出水",
+  "prefecture": "鹿児島県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "ツル観察センター",
+  "reason": "[B] 画像右下に「gpscycling.net」というウォーターマーク（ドメイン名）が焼き込まれている。また手前の看板に「世界一のツルの飛来地《出水市》平成19年1月6日 合計11531羽」という情報掲示板が写っているが、これは現地の実在物であり問題なし。主にウォーターマークがNG。",
+  "confidence": "high"
+ },
+ {
+  "id": "izumi-kagoshima",
+  "name": "出水",
+  "prefecture": "鹿児島県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "出水麓",
+  "reason": "[A] 画像2（出水武家屋敷群）と構図・被写体がほぼ同一であり、同一もしくは極めて近い場所・アングルで撮影された写真とみられる。「出水麓」として別の見どころとして掲載するには内容の差別化が不十分で、実質的に重複画像となっている。",
+  "confidence": "high"
+ },
+ {
+  "id": "ikata",
+  "name": "伊方",
+  "prefecture": "愛媛県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "みかん畑の絶景",
+  "reason": "[A] 衛星・航空写真による島の俯瞰画像であり、みかん畑の絶景として機能しない。また伊方町（佐田岬半島）の地形とも一致せず、別地域の島嶼と思われる。",
+  "confidence": "high"
+ },
+ {
+  "id": "nakatosa",
+  "name": "中土佐",
+  "prefecture": "高知県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "仁淀川（近隣）",
+  "reason": "[A] 「仁淀川（近隣）」の紹介画像として指定されているが、写っているのは川や自然風景ではなく、公共施設・建物の外観と駐車場のみ。その土地の風景（川・自然）として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "ikata",
+  "name": "伊方",
+  "prefecture": "愛媛県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "佐田岬（本土最西端）",
+  "reason": "[A] エメラルドグリーンの海と白砂のビーチ、乾燥した岩肌の地形はケープ半島（南アフリカ）など日本国外の景観に酷似しており、佐田岬（瀬戸内海）の風景と明らかに不一致。日本国外の風景が混入している可能性が高い。",
+  "confidence": "high"
+ },
+ {
+  "id": "niimi",
+  "name": "新見",
+  "prefecture": "岡山県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "満奇洞",
+  "reason": "[A] 「満奇洞」の紹介画像として使用されているが、写っているのは洞窟ではなく秋の紅葉の遊歩道と「八つ墓村 口ヶ池」と書かれた観光看板であり、満奇洞の内部・入口とは明らかに異なる場所・内容の写真。",
+  "confidence": "high"
+ },
+ {
+  "id": "mimasaka",
+  "name": "美作",
+  "prefecture": "岡山県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "湯郷温泉",
+  "reason": "[A] 画像2と同一のオブジェ写真。「湯郷温泉」の紹介画像として温泉・町並み等の要素が皆無で、指定地の風景として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "kaga-onsen2",
+  "name": "山代温泉",
+  "prefecture": "石川県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "古総湯",
+  "reason": "[A] 古総湯の浴室内部（ステンドグラスと湯船）の室内写真であり、「その土地の風景・外観」ではなく施設内部のカット。観点Aの「室内」に該当するためNG。",
+  "confidence": "high"
+ },
+ {
+  "id": "hachimantai-onsen",
+  "name": "後生掛温泉",
+  "prefecture": "秋田県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "玉川温泉（近隣）",
+  "reason": "[A] 露天風呂の浴槽を間近で撮影した施設内写真であり、「その土地の風景・名所」ではなく施設の浴場カットに該当する。玉川温泉の近隣紹介であっても、風景写真としての要件を満たさない。",
+  "confidence": "high"
+ },
+ {
+  "id": "togatta-onsen",
+  "name": "遠刈田温泉",
+  "prefecture": "宮城県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "みやぎ蔵王こけし館",
+  "reason": "[A] 蔵王の御釜（火口湖）の風景であり、みやぎ蔵王こけし館の紹介画像として内容が一致しない。こけし館の建物や展示ではなく、完全に別の名所の写真。",
+  "confidence": "high"
+ },
+ {
+  "id": "togatta-onsen",
+  "name": "遠刈田温泉",
+  "prefecture": "宮城県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "神の湯",
+  "reason": "[A] 建物内部（休憩室や浴室前の畳敷き広間）の室内写真であり、「その土地の風景」には該当しない。観点Aのリストにある「室内」の典型例。",
+  "confidence": "high"
+ },
+ {
+  "id": "miyanoshita",
+  "name": "宮ノ下",
+  "prefecture": "神奈川県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "箱根登山鉄道",
+  "reason": "[A] 見どころ「箱根登山鉄道」の紹介画像として指定されているが、画像には鉄道・車両が一切写っておらず、宮ノ下周辺の路地・商店街の町並みのみが映っている。鉄道の紹介画像として内容が不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "shibu-onsen",
+  "name": "渋温泉",
+  "prefecture": "長野県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "地獄谷野猿公苑",
+  "reason": "[A] 地獄谷野猿公苑の紹介画像だが、猿（ニホンザル）の顔のアップのみで、温泉に入る猿や公苑の景観など「その場所の風景」として機能しておらず、被写体のクローズアップ写真にとどまる。場所の紹介画像として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "shibu-onsen",
+  "name": "渋温泉",
+  "prefecture": "長野県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "外湯めぐり",
+  "reason": "[A] 柳並木と川沿いの石積みが特徴的で、城崎温泉（兵庫県）の大谿川沿いの風景と強く一致する。渋温泉（長野県）の外湯めぐりの紹介画像として指定地と明らかに不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "kaga-onsen2",
+  "name": "山代温泉",
+  "prefecture": "石川県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "山代温泉街",
+  "reason": "[A] 雪景色の温泉街と旅館群が写っており雰囲気は温泉街として妥当だが、山代温泉は石川県の平野部に近い温泉地であり、背景の急峻な山並みや川沿いの地形が定山渓など北海道・東北系の山間温泉街に酷似しており、山代温泉の実景と明らかに不一致の疑いが高い。",
+  "confidence": "high"
+ },
+ {
+  "id": "hioki",
+  "name": "日置",
+  "prefecture": "鹿児島県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "島津義弘公墓",
+  "reason": "[A] 島津義弘の肖像画（掛け軸絵画）であり、「その土地の風景・名所」ではなくイラスト・絵画資料に該当。見どころ「墓所」の紹介画像としても不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "katsuyama",
+  "name": "勝山",
+  "prefecture": "福井県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "福井県立恐竜博物館",
+  "reason": "[A] 銀色のドーム型建物と円錐形の建物が写っており、これは北海道・真鍋庭園や北海道ガーデン等に類似した施設に見え、福井県立恐竜博物館（勝山市）の外観と一致しない。恐竜博物館のドームの形状・周囲の景観と異なる可能性が高い。",
+  "confidence": "high"
+ },
+ {
+  "id": "katsuyama",
+  "name": "勝山",
+  "prefecture": "福井県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "かつやま恐竜の森",
+  "reason": "[A] 地図（行政区分図）であり、「その土地の風景」ではない。観光紹介画像として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "ono-fukui",
+  "name": "越前大野",
+  "prefecture": "福井県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "勝山恐竜博物館（近隣）",
+  "reason": "[A] 断崖絶壁と荒波の海岸線（東尋坊など福井の海岸に類似）が写っており、内陸の盆地都市・越前大野の「勝山恐竜博物館（近隣）」の紹介画像として内容が明らかに不一致。博物館や恐竜関連の要素が一切なく、場所・内容ともに不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "shimokita",
+  "name": "下北半島",
+  "prefecture": "青森県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "恐山（近隣）",
+  "reason": "[A] 恐山の風景ではなく、「下北交通」のバス車両のみが写った画像。その土地の風景・名所として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "rikuchu-coast",
+  "name": "大槌",
+  "prefecture": "岩手県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "吉里吉里海岸",
+  "reason": "[A] 指定見どころは「吉里吉里海岸」だが、画像は海岸ではなく住宅地の建物（おそらく公民館等）を写したもので、海岸の風景として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "rikuchu-coast",
+  "name": "大槌",
+  "prefecture": "岩手県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "蓬莱島",
+  "reason": "[A] 指定は大槌の「蓬莱島」（ひょっこりひょうたん島のモデルとなった海上の島）だが、画像は整備された日本庭園の池に浮かぶ岩石を写したものであり、明らかに異なる場所・内容。",
+  "confidence": "high"
+ },
+ {
+  "id": "kurikoma",
+  "name": "栗駒",
+  "prefecture": "宮城県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "栗駒山",
+  "reason": "[A] 指定の見どころは「栗駒山」だが、画像は刈り取り後の水田と市街地の遠景であり、栗駒山を主役とした山岳風景になっていない。遠景に山が微かに見える程度で、見どころ紹介画像として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "kurikoma",
+  "name": "栗駒",
+  "prefecture": "宮城県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "世界谷地原生花園",
+  "reason": "[A] 指定の見どころは「世界谷地原生花園」（湿原・高層湿原）だが、画像は赤い気動車が川の鉄橋を渡る鉄道風景であり、原生花園とは全く一致しない。",
+  "confidence": "high"
+ },
+ {
+  "id": "tsuchiura",
+  "name": "土浦",
+  "prefecture": "茨城県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "霞ヶ浦サイクリングロード",
+  "reason": "[A] 衛星写真（航空・宇宙からの俯瞰画像）であり、サイクリングロードを体感できる地上の風景写真ではない。地図・図表に近い表現で旅先紹介画像として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "kujukuri-icho",
+  "name": "東浪見",
+  "prefecture": "千葉県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "東浪見海岸",
+  "reason": "[A] 「東浪見海岸」の紹介画像であるべきところ、画像1と全く同一の神社建築の写真が使われており、海岸・海景の内容と明らかに不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "kujukuri-icho",
+  "name": "東浪見",
+  "prefecture": "千葉県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "一宮海水浴場",
+  "reason": "[A] 「一宮海水浴場」の紹介画像であるべきところ、画像1・2と全く同一の神社建築の写真が使われており、海水浴場の内容と明らかに不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "numata",
+  "name": "沼田",
+  "prefecture": "群馬県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "沼田城跡",
+  "reason": "[A] 画像は神社・寺院の参道と社殿を映したものであり、「沼田城跡」の紹介画像として内容が不一致。城跡の石垣や公園風景ではなく、別の施設と思われる。",
+  "confidence": "high"
+ },
+ {
+  "id": "numata",
+  "name": "沼田",
+  "prefecture": "群馬県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "たんばらラベンダーパーク",
+  "reason": "[A] 「たんばらラベンダーパーク」はラベンダーで有名な夏の観光地だが、画像はスキー場の冬季営業時の様子であり、見どころの紹介画像として内容が不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "miyota",
+  "name": "御代田",
+  "prefecture": "長野県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "浅間山眺望スポット",
+  "reason": "[A] 指定は長野県御代田の「浅間山眺望スポット」だが、画像に映る山は富士山であり、手前の市街地の風景とあわせて静岡・山梨方面からの富士山眺望写真と判断される。浅間山とは形状・外観が明確に異なる。",
+  "confidence": "high"
+ },
+ {
+  "id": "miyota",
+  "name": "御代田",
+  "prefecture": "長野県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "浅間ミュージアム",
+  "reason": "[A] 指定は長野県御代田の「浅間ミュージアム」だが、画像は大規模な朱塗りの神社建築（富士山本宮浅間大社など静岡・富士宮周辺の神社と思われる）であり、御代田町の施設とは一致しない。",
+  "confidence": "high"
+ },
+ {
+  "id": "suo-sanbe",
+  "name": "三瓶山",
+  "prefecture": "島根県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "小豆原埋没林",
+  "reason": "[A] 小豆原埋没林の展示館内部（室内）を撮影した画像であり、「その土地の風景・名所」としての屋外景観ではなく施設内展示物のアップ写真。観点Aの室内・展示物に該当しNG。",
+  "confidence": "high"
+ },
+ {
+  "id": "tateyama-toyama",
+  "name": "立山",
+  "prefecture": "富山県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "雷鳥沢",
+  "reason": "[A] 雷鳥沢の紹介画像として指定されているが、写真に映っているのは廃墟化した大型建物（旧大汝山荘や廃ホテルとみられる施設）であり、雷鳥沢の自然風景・テント場・火山地形を代表する景観と合致しない。",
+  "confidence": "high"
+ },
+ {
+  "id": "matsumoto-kaido",
+  "name": "塩尻",
+  "prefecture": "長野県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "奈良井宿（近隣）",
+  "reason": "[A] 浮世絵（木版画）のイラスト作品であり、実際の土地の風景写真ではない。観点Aの「イラスト・図表など風景でないもの」に該当する。",
+  "confidence": "high"
+ },
+ {
+  "id": "isesaki",
+  "name": "伊勢崎",
+  "prefecture": "群馬県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "ソース焼きそば",
+  "reason": "[A] ソース焼きそばの料理アップ写真であり、「その土地の風景・名所」ではなく料理・食品画像に該当するためNG。",
+  "confidence": "high"
+ },
+ {
+  "id": "ube",
+  "name": "宇部",
+  "prefecture": "山口県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "宇部興産工場群（夜景）",
+  "reason": "[A] 「どうぶつえん とくやま（周南市徳山動物園）」の入口ゲートが写っており、宇部興産工場群の夜景とは全く異なる。指定地・内容の両面でNG。",
+  "confidence": "high"
+ },
+ {
+  "id": "susaki",
+  "name": "須崎",
+  "prefecture": "高知県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "鍋焼きラーメン（橋本食堂）",
+  "reason": "[A] 料理（鍋焼きラーメンと白飯）の室内テーブル写真であり、「その土地の風景・名所」に該当しない。観点Aの明確なNG例（料理・室内）に該当する。",
+  "confidence": "high"
+ },
+ {
+  "id": "takachihogo-shishiku",
+  "name": "椎葉村",
+  "prefecture": "宮崎県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "椎葉民俗芸能博物館",
+  "reason": "[A] 椎葉民俗芸能博物館の館内展示（神楽の人形・太鼓の展示物）を撮影した室内写真であり、「その土地の風景」ではなく屋内展示物のアップに該当する。",
+  "confidence": "high"
+ },
+ {
+  "id": "takachihogo-shishiku",
+  "name": "椎葉村",
+  "prefecture": "宮崎県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "九州の屋根・向坂山",
+  "reason": "[A] 指定見どころは「九州の屋根・向坂山」（山岳）であるが、写真は茅葺き屋根の古民家・社寺建築であり、山岳風景と明らかに不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "hiji",
+  "name": "日出",
+  "prefecture": "大分県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "日出温泉",
+  "reason": "[A] 露天風呂の施設内部を撮影した画像であり、「その土地の風景・名所・自然」ではなく温泉施設の浴槽そのものが被写体。観光地の風景紹介画像として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "tsunan",
+  "name": "津南",
+  "prefecture": "新潟県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "ひまわり広場（7月下旬）",
+  "reason": "[A] 見どころは「ひまわり広場（7月下旬）」だが、画像は神社の社殿であり内容が全く一致しない。また新潟県津南の名所とも合致しない。",
+  "confidence": "high"
+ },
+ {
+  "id": "tsunan",
+  "name": "津南",
+  "prefecture": "新潟県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "津南棚田",
+  "reason": "[A] 見どころは「津南棚田」だが、画像は国道405号の道路標識が写る山間の車道であり、棚田の風景ではない。",
+  "confidence": "high"
+ },
+ {
+  "id": "kochi-ino",
+  "name": "いの",
+  "prefecture": "高知県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "いの紙の博物館",
+  "reason": "[A] 写っている建物は東京国立博物館の本館（上野）と見られ、高知県いの町の「いの紙の博物館」とは明らかに異なる建物。指定地と不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "kurobe",
+  "name": "黒部",
+  "prefecture": "富山県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "黒部峡谷トロッコ列車",
+  "reason": "[A] 画像がロゴ・紋章風のイラスト（図形・シンボルマーク）であり、黒部峡谷トロッコ列車の風景写真ではない。",
+  "confidence": "high"
+ },
+ {
+  "id": "kurobe",
+  "name": "黒部",
+  "prefecture": "富山県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "生地の清水（湧水）",
+  "reason": "[AC] 湧水施設の屋根付き水場を近距離で撮影した施設内部の写真であり「その土地の風景」としては不適切。また縦長アスペクト比で構図も狭く窮屈。",
+  "confidence": "high"
+ },
+ {
+  "id": "tomari-okinawa",
+  "name": "伊平屋島",
+  "prefecture": "沖縄県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "田名ビーチ",
+  "reason": "[A] オリンピックの五輪マークのイラスト画像であり、田名ビーチの風景と全く無関係。日本の旅先紹介画像として完全に不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "gen_北海_ウトロ温泉",
+  "name": "ウトロ温泉",
+  "prefecture": "北海道",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "知床岬",
+  "reason": "[A] エメラルドグリーンの海と岩礁の色調・植生が知床（オホーツク海側）の景観と大きく異なり、東南アジア系の海岸風景に見える。北海道知床岬の紹介画像として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "gen_北海_朝里川温泉",
+  "name": "朝里川温泉",
+  "prefecture": "北海道",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "朝里川温泉",
+  "reason": "[A] 画像2と同一または同アングルの露天風呂写真であり、「朝里川温泉」の見どころとして土地の風景・名所を紹介する画像としては施設内設備のアップにとどまり不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "gen_北海_然別湖畔温泉",
+  "name": "然別湖畔温泉",
+  "prefecture": "北海道",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "然別湖畔温泉",
+  "reason": "[A] 画像2と同一または極めて類似したカットであり、同一旅先の別掲載とはいえ重複画像の使用は紹介画像として不適切と判断。",
+  "confidence": "high"
+ },
+ {
+  "id": "gen_北海_十勝岳温泉",
+  "name": "十勝岳温泉",
+  "prefecture": "北海道",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "白糸の滝",
+  "reason": "[A] 「白糸の滝」という名の滝は複数あるが、この画像の植生・滝の形状・碧色の水面は静岡県富士宮市の白糸の滝と酷似しており、北海道十勝岳温泉エリアの景観と明らかに不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "gen_北海_登別温泉",
+  "name": "登別温泉",
+  "prefecture": "北海道",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "クマ牧場",
+  "reason": "[A] 見どころ名は「クマ牧場」だが、写っているのはアイヌの伝統的な茅葺き小屋（チセ）であり、クマ牧場の施設・熊の展示とは明らかに不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "gen_北海_濁川温泉",
+  "name": "濁川温泉",
+  "prefecture": "北海道",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "雨竜沼湿原",
+  "reason": "[A] 雨竜沼湿原は雨竜町（空知地方）に位置し、森町の濁川温泉とは遠く離れた別エリアの観光地。「濁川温泉の見どころ」として紐付けるには地理的乖離が明確であり不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "gen_北海_ぬかびら温泉",
+  "name": "糠平温泉",
+  "prefecture": "北海道",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "ぬかびら温泉",
+  "reason": "[A] 画像は温泉宿の入口に置かれた「源泉かけ流し」と書かれた提灯のアップで、土地の風景・名所ではなく施設の装飾物の接写であり、旅先の紹介画像として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "gen_北海_羅臼温泉",
+  "name": "羅臼温泉",
+  "prefecture": "北海道",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "羅臼温泉",
+  "reason": "[A] 露天風呂の湯船を真上から撮影した画像であり、「その土地の風景・名所」ではなく施設内の浴槽アップ。観光地紹介画像として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "gen_北海_羅臼温泉",
+  "name": "羅臼温泉",
+  "prefecture": "北海道",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "知床峠",
+  "reason": "[A] 知床峠・羅臼岳と思われる山を背景にしているが、手前に犬のアップが大きく写っており、風景写真ではなくペットの記念撮影。また右下にカメラの日時焼き込みあり（観点B相当だが主因はA）。",
+  "confidence": "high"
+ },
+ {
+  "id": "gen_北海_チキウ岬",
+  "name": "チキウ岬",
+  "prefecture": "北海道",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "利尻島",
+  "reason": "[A] 航空機の翼越しに島全体を俯瞰した空撮で、利尻島の風景自体は北海道として妥当だが、チキウ岬（室蘭周辺）の紹介画像としては地理的に大きく離れた別地点の写真であり、見どころとして誤解を招く内容。また機体の一部が大きく写り込んでおり「その土地の風景写真」としての適切性に欠ける。",
+  "confidence": "high"
+ },
+ {
+  "id": "gen_北海_戸切地陣屋",
+  "name": "戸切地陣屋",
+  "prefecture": "北海道",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "戸切地陣屋",
+  "reason": "[A] 戸切地陣屋の縄張り図（イラスト地図）であり、「その土地の風景写真」ではなく図表・イラストに該当するためNG。",
+  "confidence": "high"
+ },
+ {
+  "id": "gen_北海_戸切地陣屋",
+  "name": "戸切地陣屋",
+  "prefecture": "北海道",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "美幌峠",
+  "reason": "[A] 美幌峠は北海道・網走管内の名所であり、画像自体は北海道の風景として正しいが、指定旅先は「戸切地陣屋（北海道・北斗市）」であり、見どころとして「美幌峠」を掲載すること自体が地域的に大きく不一致（約400km以上離れた別地域）。",
+  "confidence": "high"
+ },
+ {
+  "id": "gen_北海_弁天台場",
+  "name": "弁天台場",
+  "prefecture": "北海道",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "弁天台場",
+  "reason": "[A] 北海道全体の白地図（地図イラスト）であり、弁天台場の風景・名所写真ではない。地図は観点Aの明確なNG例に該当する。",
+  "confidence": "high"
+ },
+ {
+  "id": "gen_北海_天に続く道",
+  "name": "天に続く道",
+  "prefecture": "北海道",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "天に続く道",
+  "reason": "[A] ドイツ語テキストが記載された西洋の宗教的イラスト図版であり、北海道「天に続く道」の風景写真とは全く無関係。",
+  "confidence": "high"
+ },
+ {
+  "id": "gen_北海_長万部温泉",
+  "name": "長万部温泉",
+  "prefecture": "北海道",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "長万部温泉",
+  "reason": "[A] 北海道の地形図・地図画像であり、温泉地の風景・建物・自然景観ではない。地図・図表はNG。",
+  "confidence": "high"
+ },
+ {
+  "id": "gen_北海_白老温泉",
+  "name": "白老温泉",
+  "prefecture": "北海道",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "白老温泉",
+  "reason": "[A] 画像1と同一または酷似した露天風呂浴槽の室外施設内写真であり、土地の風景・町並みを示すメイン風景としては不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "gen_北海_瀬石温泉",
+  "name": "瀬石温泉",
+  "prefecture": "北海道",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "瀬石の滝",
+  "reason": "[B] 画像右下にカメラの日時スタンプ「2012. 9.20 13:56」が焼き込まれており、観点Bに該当する。",
+  "confidence": "high"
+ },
+ {
+  "id": "gen_北海_相泊温泉",
+  "name": "相泊温泉",
+  "prefecture": "北海道",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "相泊温泉",
+  "reason": "[A] 小屋の内部（室内）を撮影した画像であり、「その土地の風景」として不適切。温泉施設の浴槽内部写真はNG例に該当する。",
+  "confidence": "high"
+ },
+ {
+  "id": "gen_北海_ピンネシリ温泉",
+  "name": "ピンネシリ温泉",
+  "prefecture": "北海道",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "ピンネシリ温泉",
+  "reason": "[A] 画像2と全く同一の写真が使用されている。見どころ「ピンネシリ温泉」の紹介画像として施設外観自体は不適切ではないが、メイン画像と重複しており独立したコンテンツとして機能していない。",
+  "confidence": "high"
+ },
+ {
+  "id": "gen_北海_稚内温泉",
+  "name": "稚内温泉",
+  "prefecture": "北海道",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "稚内副港市場",
+  "reason": "[A] カゴの中のカニのアップ写真であり、「その土地の風景・名所・建物」ではなく物産・食材の商品写真に該当するためNG。",
+  "confidence": "high"
+ },
+ {
+  "id": "gen_北海_天塩温泉",
+  "name": "天塩温泉",
+  "prefecture": "北海道",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "天塩温泉",
+  "reason": "[A] 北海道の地形図（イラスト地図）であり、温泉の見どころ紹介として求められる「その土地の風景・名所・建物」ではなく地図・図表に該当する。",
+  "confidence": "high"
+ },
+ {
+  "id": "gen_北海_花の拠点「はなふる」",
+  "name": "花の拠点 はなふる",
+  "prefecture": "北海道",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "花の拠点「はなふる」",
+  "reason": "[A] 画像が読み込めず、「画像が見つかりません」を示すプレースホルダーアイコン（虫眼鏡と写真のイラスト）が表示されているだけで、旅先の風景写真になっていない。",
+  "confidence": "high"
+ },
+ {
+  "id": "gen_北海_花の拠点「はなふる」",
+  "name": "花の拠点 はなふる",
+  "prefecture": "北海道",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "羊ヶ丘展望台",
+  "reason": "[A] 子どもがバランスバイクに乗っている人物アップ写真であり、「羊ヶ丘展望台」の風景・名所として全く合致しない。人物アップかつ指定地と不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "gen_北海_丸瀬布森林公園いこいの森",
+  "name": "丸瀬布森林公園いこいの森",
+  "prefecture": "北海道",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "丸瀬布森林公園いこいの森",
+  "reason": "[A] 機関車番号「21」は一致するが、背景の落葉広葉樹林と広大な芝生の景観が北海道・丸瀬布の風景と合致せず、北米や欧州の保存鉄道施設の可能性が高い。指定地の風景として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "gen_北海_神居岩温泉",
+  "name": "神居岩温泉",
+  "prefecture": "北海道",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "神居岩温泉",
+  "reason": "[A] 画像は北海道の地図（図表）であり、温泉や風景の写真ではない。観点Aの「地図・イラスト・図表」に該当。",
+  "confidence": "high"
+ },
+ {
+  "id": "gen_北海_フレペの滝",
+  "name": "フレペの滝",
+  "prefecture": "北海道",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "知床峠",
+  "reason": "[A] 知床峠の山岳風景を背景にしているが、前景に犬のアップが大きく占めており「その土地の風景紹介画像」として不適切。また日付スタンプ（2012.9.20 15:44）が焼き込まれている点も軽微なBの懸念あり。",
+  "confidence": "high"
+ },
+ {
+  "id": "gen_北海_黒松内温泉",
+  "name": "黒松内温泉",
+  "prefecture": "北海道",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "黒松内温泉",
+  "reason": "[A] 画像が読み込まれておらず、虫眼鏡と写真フレームのイラストアイコンが表示されているだけで、旅先の風景写真として機能していない。",
+  "confidence": "high"
+ },
+ {
+  "id": "gen_北海_見市温泉",
+  "name": "見市温泉",
+  "prefecture": "北海道",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "見市温泉",
+  "reason": "[A] 温泉施設の内部（浴槽・タイル床・室内窓）を撮影した室内写真であり、「その土地の風景」に該当しない。",
+  "confidence": "high"
+ },
+ {
+  "id": "gen_北海_樹海温泉",
+  "name": "樹海温泉",
+  "prefecture": "北海道",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "樹海温泉",
+  "reason": "[A] 実際の風景・建物ではなく、画像検索や写真を示すイラストアイコン（虫眼鏡と写真のアイコン）であり、その土地の風景画像として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "gen_北海_鹿の湯",
+  "name": "鹿の湯",
+  "prefecture": "北海道",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "層雲峡温泉街",
+  "reason": "[A] 見どころ名は「層雲峡温泉街」だが、掲載先は「鹿の湯（北海道）」であり、層雲峡は登別とは別の温泉地（大雪山系）のため地域が明確に不一致。画像自体は温泉街の町並みとして自然だが、指定地との乖離が大きい。",
+  "confidence": "high"
+ },
+ {
+  "id": "gen_茨城_偕楽園",
+  "name": "偕楽園",
+  "prefecture": "茨城県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "偕楽園",
+  "reason": "[A] 画像3と同一（または極めて類似した）写真が使用されており、同一コンテンツの重複掲載となっている。",
+  "confidence": "high"
+ },
+ {
+  "id": "gen_茨城_国営ひたち海浜公園",
+  "name": "国営ひたち海浜公園",
+  "prefecture": "茨城県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "日立シビックセンター",
+  "reason": "[A] 「国営ひたち海浜公園」の見どころとして登録されているが、画像は公園外の別施設「日立シビックセンター」の建物外観であり、公園の風景として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "gen_茨城_大杉神社",
+  "name": "大杉神社",
+  "prefecture": "茨城県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "水戸市植物公園",
+  "reason": "[A] 見どころ名が「水戸市植物公園」だが、大杉神社（稲敷市）の紹介ページに掲載される画像として指定地と不一致。また花のアップ写真であり「その土地の風景・名所」としての文脈から外れる。",
+  "confidence": "high"
+ },
+ {
+  "id": "gen_茨城_大洗磯前神社",
+  "name": "大洗磯前神社",
+  "prefecture": "茨城県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "大洗水族館（アクアワールド茨城県大洗水族館）",
+  "reason": "[A] 水族館内部の剥製展示物を室内で撮影した画像であり、「その土地の風景・名所」ではなく施設内部の展示物写真のため観点A違反。",
+  "confidence": "high"
+ },
+ {
+  "id": "gen_茨城_酒列磯前神社",
+  "name": "酒列磯前神社",
+  "prefecture": "茨城県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "日立シビックセンター科学館",
+  "reason": "[A] 掲載先は「酒列磯前神社」だが、画像は日立シビックセンター科学館の建物外観であり、神社の紹介画像として内容が不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "gen_茨城_水戸八幡宮",
+  "name": "水戸八幡宮",
+  "prefecture": "茨城県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "茨城県立歴史館",
+  "reason": "[A] ガラスケース内に展示された地球儀（蔵式地球儀）と木版の室内展示物のアップ写真。「その土地の風景・名所」ではなく博物館内の展示品のクローズアップであり、風景紹介画像として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "gen_栃木_殺生石",
+  "name": "殺生石",
+  "prefecture": "栃木県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "殺生石",
+  "reason": "[A] 画像3と全く同一の写真であり、重複使用と判断される。見どころ「殺生石」の個別紹介画像として独立した内容を持たない。",
+  "confidence": "high"
+ },
+ {
+  "id": "gen_栃木_宇都宮二荒山神社",
+  "name": "宇都宮二荒山神社",
+  "prefecture": "栃木県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "宇都宮二荒山神社",
+  "reason": "[A] 神社境内に設置された仮設テント（申込用紙記入所）が主被写体となっており、神社の風景・名所としての魅力を伝える画像になっていない。",
+  "confidence": "high"
+ },
+ {
+  "id": "gen_群馬_上牧温泉",
+  "name": "上牧温泉",
+  "prefecture": "群馬県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "吹割の滝",
+  "reason": "[A] 吹割の滝は片品村（群馬県）に位置しており、上牧温泉（みなかみ町）の見どころとして紐付けるには地理的に離れすぎており不一致。滝自体の映像は問題ないが、指定地との関連性が明確にNG。",
+  "confidence": "high"
+ },
+ {
+  "id": "gen_群馬_老神温泉",
+  "name": "老神温泉",
+  "prefecture": "群馬県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "吾妻渓谷",
+  "reason": "[A] 航空写真による山地の俯瞰画像であり、吾妻渓谷の渓谷美を紹介する風景写真として不適切。旅行サイトの見どころ紹介に求められる地上目線の風景・名所写真ではない。",
+  "confidence": "high"
+ },
+ {
+  "id": "gen_群馬_奥嬬恋温泉",
+  "name": "奥嬬恋温泉",
+  "prefecture": "群馬県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "奥嬬恋温泉",
+  "reason": "[A] 画像2と同様の地形relief mapであり、日本国外の地図と思われる。温泉や風景写真ではなく地図・図表のためNG。",
+  "confidence": "high"
+ },
+ {
+  "id": "gen_群馬_川中温泉",
+  "name": "川中温泉",
+  "prefecture": "群馬県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "川中温泉",
+  "reason": "[A] 画像1と同一の航空俯瞰写真。温泉地の見どころ紹介画像として「その土地の風景」を伝えるものになっておらず不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "gen_群馬_片品温泉",
+  "name": "片品温泉",
+  "prefecture": "群馬県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "片品温泉",
+  "reason": "[A] 画像3と同様の日本国外（ポーランド周辺と思われる）地形図であり、風景写真でも日本の地図でもなく、旅行紹介画像として完全に不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "gen_北海_オーロラ温泉",
+  "name": "オーロラ温泉",
+  "prefecture": "北海道",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "オーロラ温泉",
+  "reason": "[A] 画像1と全く同一の構図・被写体（脱衣小屋外観）であり、見どころ紹介としてもオーロラや露天風呂の情景が伝わらず、内容として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "gen_群馬_敷島温泉",
+  "name": "敷島温泉",
+  "prefecture": "群馬県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "法師温泉 長寿館",
+  "reason": "[A] 料理（焼き魚の皿）のアップ画像であり、「その土地の風景・名所」ではない。見どころ紹介画像として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "gen_北海_臼別温泉",
+  "name": "臼別温泉",
+  "prefecture": "北海道",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "臼別温泉",
+  "reason": "[A] 画像3と完全に同一の写真で、内容・判定理由も同じ。臼別温泉の見どころ紹介として丸太小屋の正面写真のみでは温泉地の風景として不十分。",
+  "confidence": "high"
+ },
+ {
+  "id": "gen_群馬_花敷温泉",
+  "name": "花敷温泉",
+  "prefecture": "群馬県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "花敷温泉",
+  "reason": "[A] 花敷温泉の見どころ紹介画像として指定されているが、実際は地形図（地図のイラスト）であり、旅行サイトの風景紹介画像として不適切。また地図の地形からも日本国内の群馬県周辺とは一致しない可能性がある。",
+  "confidence": "high"
+ },
+ {
+  "id": "gen_北海_神威脇温泉",
+  "name": "神威脇温泉",
+  "prefecture": "北海道",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "神威脇温泉",
+  "reason": "[A] 画像3と同一の浴槽室内写真。見どころ紹介画像としても室内施設の湯船であり、土地の風景として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "gen_北海_オソウシ温泉",
+  "name": "オソウシ温泉",
+  "prefecture": "北海道",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "湧別町郷土館",
+  "reason": "[A] 「湧別町郷土館」の紹介画像とされているが、写っている建物はチューリップ畑に囲まれた「湧別チューリップ公園」のファンタジア（展示施設）であり、郷土館とは異なる施設の可能性が高い。オソウシ温泉（上湧別・上士幌周辺）の見どころとして湧別町郷土館を紹介すること自体も地理的整合性に疑問がある。",
+  "confidence": "high"
+ },
+ {
+  "id": "gen_青森_相乗温泉",
+  "name": "相乗温泉",
+  "prefecture": "青森県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "相乗温泉",
+  "reason": "[A] 青森県の地形図（イラスト・図表）であり、「その土地の風景」ではない。",
+  "confidence": "high"
+ },
+ {
+  "id": "gen_青森_青荷温泉",
+  "name": "青荷温泉",
+  "prefecture": "青森県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "青荷温泉",
+  "reason": "[A] 画像1と同一の室内浴室写真。見どころ紹介用としても室内画像であり、土地の風景として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "gen_青森_板留温泉",
+  "name": "板留温泉",
+  "prefecture": "青森県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "板留温泉",
+  "reason": "[A] 画像は「画像が見つからない」ことを示すプレースホルダーアイコン（虫眼鏡と写真のイラスト）であり、旅先の風景写真として完全に不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "gen_青森_落合温泉",
+  "name": "落合温泉",
+  "prefecture": "青森県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "落合温泉",
+  "reason": "[A] 画像が「画像が見つからない」ことを示すプレースホルダーアイコン（イラスト）であり、旅先の風景写真として全く不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "gen_青森_馬門温泉",
+  "name": "馬門温泉",
+  "prefecture": "青森県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "馬門温泉",
+  "reason": "[A] 実際の風景写真ではなく、画像検索・プレースホルダーを示すイラストアイコンであり、その土地の風景として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "utsukushigahara",
+  "name": "美ヶ原",
+  "prefecture": "長野県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "牧場",
+  "reason": "[A] 羊の群れのアップ写真であり「その土地の風景・景観」ではなく動物の接写。背景に地形・高原の景観が映っておらず、美ヶ原の牧場紹介画像としても風景性に欠ける。",
+  "confidence": "high"
+ },
+ {
+  "id": "shirahone-onsen",
+  "name": "白骨温泉",
+  "prefecture": "長野県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "白骨の湯",
+  "reason": "[A] 画像2と構図・内容がほぼ同一であり、実質的に同じカットの重複使用と判断される。「白骨の湯」として独立した見どころを示す画像として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "gen_青森_十和田湖畔温泉",
+  "name": "十和田湖畔温泉",
+  "prefecture": "青森県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "十和田湖畔温泉",
+  "reason": "[A] 実際の風景写真ではなく、画像が読み込めない際に表示されるプレースホルダーアイコン（虫眼鏡と写真のイラスト）であり、その土地の風景として完全に不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "matsunoyama-onsen",
+  "name": "松之山温泉",
+  "prefecture": "新潟県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "凌雲閣",
+  "reason": "[A] 高山の稜線上から雲海と山小屋を望む高山景観であり、松之山温泉の見どころ「凌雲閣」（温泉旅館）の紹介画像として内容が明らかに不一致。松之山は丘陵地帯の温泉地であり、このような高山・雲海の景観とは合致しない。",
+  "confidence": "high"
+ },
+ {
+  "id": "hijori-onsen",
+  "name": "肘折温泉",
+  "prefecture": "山形県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "朝市",
+  "reason": "[A] 南アジア系と思われる屋外青空市場の風景で、日本国外の市場の可能性が高く、肘折温泉の朝市としては明らかに不適切。人物・野菜・土間など日本の温泉地朝市のイメージとも大きく乖離している。",
+  "confidence": "high"
+ },
+ {
+  "id": "takayu-onsen",
+  "name": "高湯温泉",
+  "prefecture": "福島県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "旅館玉子湯",
+  "reason": "[A] 温泉卵を器に盛った料理・食べ物のアップ画像であり、旅館や温泉地の風景・建物・外観ではない。",
+  "confidence": "high"
+ },
+ {
+  "id": "takayu-onsen",
+  "name": "高湯温泉",
+  "prefecture": "福島県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "安達屋旅館",
+  "reason": "[A] 「池田屋 はなの舞」という飲食チェーン店の店頭と見られ、高湯温泉の旅館「安達屋旅館」とは無関係の施設である。",
+  "confidence": "high"
+ },
+ {
+  "id": "hateruma-island",
+  "name": "波照間島",
+  "prefecture": "沖縄県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "波照間灯台",
+  "reason": "[A] 指定見どころは「波照間灯台」だが、画像は島全体の空撮（衛星・航空写真）であり灯台は特定できない。また地図・航空写真的な俯瞰図はその土地の風景紹介画像として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "yoron-island",
+  "name": "与論島",
+  "prefecture": "鹿児島県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "百合ヶ浜",
+  "reason": "[AB] 画像が「百合ヶ浜」の風景写真ではなく、テキスト（「百合ヶ浜」「justice for girls.」）のみで構成されており、その土地の風景として不適切。また文字が焼き込まれている。",
+  "confidence": "high"
+ },
+ {
+  "id": "tarama-island",
+  "name": "多良間島",
+  "prefecture": "沖縄県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "八月踊り",
+  "reason": "[A] 画像は古い絵巻・浮世絵風のイラストであり、「その土地の風景写真」ではなく図版・イラスト類に該当する。観点Aの「イラスト・図表など風景でない」ケースに相当する。",
+  "confidence": "high"
+ },
+ {
+  "id": "kakeroma-island",
+  "name": "加計呂麻島",
+  "prefecture": "鹿児島県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "サンゴ礁",
+  "reason": "[A] 衛星写真で写る環状の環礁（アトール）は、加計呂麻島周辺の日本沿岸サンゴ礁とは地形的に大きく異なり、太平洋・インド洋等の外洋性環礁である可能性が高い。日本国内の指定地の風景として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "tobishima-island",
+  "name": "飛島",
+  "prefecture": "山形県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "勝浦海岸",
+  "reason": "[A] 画像がコラージュ形式で複数の写真が混在しており、雛人形・ラーメン・ホテル外観・橋脚など「その土地の風景」とは言えないカットが含まれる。また、飛島（山形県）の勝浦海岸の紹介画像として、温暖なリゾート地風の海岸や勝浦（和歌山・千葉）と思われる風景が混入しており、指定地と内容が一致しない。",
+  "confidence": "high"
+ },
+ {
+  "id": "teuri-island",
+  "name": "天売島",
+  "prefecture": "北海道",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "赤岩展望台",
+  "reason": "[A] 天売島は離島であり断崖・海岸・海鳥の生息地が特徴だが、画像は内陸の山間集落と農地の風景であり、天売島の赤岩展望台とは明らかに不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "teuri-island",
+  "name": "天売島",
+  "prefecture": "北海道",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "ウトウの巣穴群",
+  "reason": "[A] ウトウの巣穴群の紹介画像として鳥の生態写真が使われているが、「その土地の風景・名所」ではなく生物アップ写真であり、風景紹介画像として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "mishima-yamaguchi",
+  "name": "見島",
+  "prefecture": "山口県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "見島牛放牧地",
+  "reason": "[AB] 写っている牛はホルスタイン（乳牛）であり、見島牛（在来和牛）とは明らかに品種が異なる。また右下隅に「Feygg 2004」のウォーターマークが焼き込まれている。背景の風景も欧州的な牧草地に見え、日本国内の景観として不自然。",
+  "confidence": "high"
+ },
+ {
+  "id": "mishima-yamaguchi",
+  "name": "見島",
+  "prefecture": "山口県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "古代遺跡",
+  "reason": "[A] 写っている遺跡は石積み構造や仏塔（ストゥーパ）状の建造物が見られ、南アジア（パキスタン・ガンダーラ地方など）の遺跡と思われる。見島（山口県）の古代遺跡（古墳群など）とは明らかに異なり、日本国外の風景と判断される。",
+  "confidence": "high"
+ },
+ {
+  "id": "otari-onsen",
+  "name": "小谷温泉",
+  "prefecture": "長野県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "山田旅館",
+  "reason": "[A] 温泉旅館の浴室内部（室内）の写真であり、「その土地の風景・名所・自然・建物外観」ではなく、観点Aの室内NGに該当する。",
+  "confidence": "high"
+ },
+ {
+  "id": "futamata-onsen",
+  "name": "二岐温泉",
+  "prefecture": "福島県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "旅館大黒屋",
+  "reason": "[A] 二岐温泉は福島県の山あいの秘湯だが、画像は平地の町中にある木造商家建築で、温泉地の旅館「大黒屋」の外観としては不一致。建物周囲の環境（平坦な市街地）が山間温泉地のものでなく、別の観光地や一般商家の建物と思われる。",
+  "confidence": "high"
+ },
+ {
+  "id": "omaezaki",
+  "name": "御前崎",
+  "prefecture": "静岡県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "白羽海岸",
+  "reason": "[A] 白羽海岸の風景ではなく、木製ケースに並べられた石・鉱石の収蔵展示物の室内写真であり、「その土地の風景」として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "yawatahama",
+  "name": "八幡浜",
+  "prefecture": "愛媛県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "白石の鼻展望台",
+  "reason": "[A] 高層ビル群が立ち並ぶ大都市の夜景で、八幡浜（愛媛県の小規模な港町）の白石の鼻展望台からの景色とは明らかに不一致。韓国・ソウル等の都市夜景に見え、日本国外の風景の可能性が高い。",
+  "confidence": "high"
+ },
+ {
+  "id": "ushibuka",
+  "name": "牛深",
+  "prefecture": "熊本県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "牛深ハイヤ祭り",
+  "reason": "[A] 「牛深ハイヤ祭り」の紹介画像として指定されているが、画像1と同一のハイヤ大橋の橋梁写真であり、祭りの様子が一切写っていない。内容が見どころ名称と不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "isawa-onsen",
+  "name": "石和温泉",
+  "prefecture": "山梨県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "笛吹川",
+  "reason": "[A] 指定の見どころは「笛吹川」だが、画像は柿の木と庭園・温室らしき施設が写っており、川の風景が一切見られない。",
+  "confidence": "high"
+ },
+ {
+  "id": "isawa-onsen",
+  "name": "石和温泉",
+  "prefecture": "山梨県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "ぶどう畑",
+  "reason": "[A] 背景に石造りの教会や欧風建築が並び、フランス・ブルゴーニュ地方などのぶどう畑を撮影したと思われる画像。日本国内（山梨県）の風景ではない。",
+  "confidence": "high"
+ },
+ {
+  "id": "minami-aizu",
+  "name": "南会津",
+  "prefecture": "福島県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "舘岩温泉",
+  "reason": "[A] 舘岩温泉の風景・施設ではなく、着物姿の女性たちが並ぶ祭り行列の人物写真であり、「その土地の風景」として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "shosenkyo",
+  "name": "昇仙峡",
+  "prefecture": "山梨県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "仙娥滝",
+  "reason": "[A] 仙娥滝ではなく昇仙峡ロープウェイの乗り場建物の外観写真であり、滝の風景として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "uradome",
+  "name": "浦富海岸",
+  "prefecture": "鳥取県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "浦富海岸島めぐり遊覧船",
+  "reason": "[A] 船体に「Bài Thơ」（バイトー）とベトナム語表記があり、ベトナム（ハロン湾等）の観光船と判断される。日本国内・鳥取県の遊覧船ではない。",
+  "confidence": "high"
+ },
+ {
+  "id": "hanno",
+  "name": "飯能",
+  "prefecture": "埼玉県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "飯能河原",
+  "reason": "[A] 青い円塔状の建物はムーミンバレーパーク（メッツァビレッジ）のムーミン屋敷と思われる。飯能市内の施設ではあるが、指定見どころは「飯能河原」であり、河原の風景とは明らかに不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "yobuko",
+  "name": "呼子",
+  "prefecture": "佐賀県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "イカ活造り",
+  "reason": "[A] 水中を泳ぐイカの撮影写真であり、「イカ活造り」という料理・食文化の紹介としては被写体が料理でなく生物写真。その土地の風景・名所でもなく、観光紹介画像として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "arita",
+  "name": "有田",
+  "prefecture": "佐賀県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "トンバイ塀の裏通り",
+  "reason": "[A] 指定は有田（佐賀県）の「トンバイ塀の裏通り」だが、画像は海岸沿いの湾と集落を見下ろした俯瞰風景であり、有田の町並み・トンバイ塀とは全く一致しない。",
+  "confidence": "high"
+ },
+ {
+  "id": "hakuto",
+  "name": "白兎海岸",
+  "prefecture": "鳥取県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "白兎海岸",
+  "reason": "[A] 「白兎海岸」の見どころ画像として海・砂浜が期待されるが、画像は神社の鳥居と社殿のみ（画像2とほぼ同一）で海岸風景が写っておらず、指定内容と明らかに不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "muroo",
+  "name": "室生",
+  "prefecture": "奈良県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "龍鎮渓谷",
+  "reason": "[A] 画像はロープウェイと雪山の大規模山岳風景であり、奈良県室生の龍鎮渓谷（森林・渓流）とは全く一致しない。また景観がアルプス系の海外山岳を思わせる。",
+  "confidence": "high"
+ },
+ {
+  "id": "tonami",
+  "name": "砺波",
+  "prefecture": "富山県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "散居村展望台",
+  "reason": "[A] チューリップ畑と噴水の風景はチューリップ公園の景観であり、指定見どころ「散居村展望台」（田園に屋敷林が点在する散居村の俯瞰景観）とは内容が明らかに不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "megijima",
+  "name": "女木島",
+  "prefecture": "香川県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "鬼ヶ島大洞窟",
+  "reason": "[A] 見どころ「鬼ヶ島大洞窟」の紹介画像だが、写っているのは海沿いの円形テラスとモニュメントで、洞窟とは全く無関係の風景。内容が指定の見どころと明らかに不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "megijima",
+  "name": "女木島",
+  "prefecture": "香川県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "女木島海水浴場",
+  "reason": "[A] 画像2と全く同一の写真（円形テラスとモニュメント）が使用されており、見どころ「女木島海水浴場」の紹介として内容が不一致。海水浴場の砂浜等は写っていない。",
+  "confidence": "high"
+ },
+ {
+  "id": "ibukijima",
+  "name": "伊吹島",
+  "prefecture": "香川県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "いりこ工場",
+  "reason": "[A] 写っているのは砂浜に描かれた大きな砂絵（地上絵）であり、伊吹島のいりこ工場とは全く関係のない風景。指定地・指定見どころと内容が明らかに不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "ibukijima",
+  "name": "伊吹島",
+  "prefecture": "香川県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "伊吹島灯台",
+  "reason": "[A] 画像3と完全に同一の砂絵の写真であり、伊吹島灯台とは全く関係がない。指定地・指定見どころと内容が明らかに不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "sanagijima",
+  "name": "佐柳島",
+  "prefecture": "香川県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "長崎の鼻",
+  "reason": "[A] 「NBC」ロゴが入った現代的な高層オフィスビルの外観写真であり、佐柳島の見どころ「長崎の鼻」（岬の自然景観）とは全く一致しない。その土地の風景として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "ikuchijima",
+  "name": "生口島",
+  "prefecture": "広島県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "レモン畑",
+  "reason": "[A] レモン畑の風景ではなく、サントリーC.C.レモンのペットボトル商品を室内で撮影した画像。「その土地の風景」に該当しない。",
+  "confidence": "high"
+ },
+ {
+  "id": "manabeshima",
+  "name": "真鍋島",
+  "prefecture": "岡山県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "真鍋邸",
+  "reason": "[A] 人物のアップ写真であり、真鍋邸の建物・風景・名所の紹介画像として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "manabeshima",
+  "name": "真鍋島",
+  "prefecture": "岡山県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "走り神輿",
+  "reason": "[A] 背景に「堺町通」の標識が確認でき、京都・祇園祭の山鉾巡行と思われる。真鍋島（岡山県）の走り神輿とは明らかに場所・内容が不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "okunoshima",
+  "name": "大久野島",
+  "prefecture": "広島県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "うさぎとの触れ合い",
+  "reason": "[A] 画像は「MOTHER FARM」の看板と羊の群れであり、千葉県のマザー牧場と判断される。大久野島（広島県）の「うさぎとの触れ合い」とは場所・内容ともに一致しない。",
+  "confidence": "high"
+ },
+ {
+  "id": "shiraishijima",
+  "name": "白石島",
+  "prefecture": "岡山県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "白石島の石切場跡",
+  "reason": "[A] 「白石島の石切場跡」の紹介画像だが、写っているのは海側から見た大規模な工場・施設群（ドーム型建築物・鉄塔など）であり、石切場跡とは明らかに不一致。白石島の風景としても疑わしく、内容が指定見どころと合致しない。",
+  "confidence": "high"
+ },
+ {
+  "id": "manabeshima",
+  "name": "真鍋島",
+  "prefecture": "岡山県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "真鍋島の猫たち",
+  "reason": "[A] 「真鍋島の猫たち」という見どころ紹介画像だが、写っているのは猫のいない海岸・砂浜・島の自然風景であり、猫が一切写っていない。指定見どころの内容と明らかに不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "sensui-jima",
+  "name": "仙酔島",
+  "prefecture": "広島県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "五色岩",
+  "reason": "[A] 仙酔島の五色岩（赤・黄・白・青・黒の岩肌）の画像ではなく、整備された海沿いの遊歩道・護岸から対岸の港湾都市を望む構図であり、指定の見どころ「五色岩」の紹介画像として内容が一致しない。",
+  "confidence": "high"
+ },
+ {
+  "id": "ikeda-osaka",
+  "name": "池田",
+  "prefecture": "大阪府",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "インスタントラーメン発明記念館",
+  "reason": "[A] 画像1と同一構図で横浜のカップヌードルミュージアムの外観。池田市の「インスタントラーメン発明記念館」の見どころ画像として使用するには施設が異なり不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "ikeda-osaka",
+  "name": "池田",
+  "prefecture": "大阪府",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "呉春",
+  "reason": "[A] 「呉春」は池田の日本酒蔵元だが、画像は人物の肖像画（絵画）のアップであり、土地の風景・建物・外観ではない。観点Aの「人物アップ・イラスト」に該当し不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "mitsuminejinja",
+  "name": "三峯神社",
+  "prefecture": "埼玉県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "興雲閣",
+  "reason": "[A] 建物に「興雲閣」の看板が見えるが、この洋館は東京・上野公園にある興雲閣（旧奏楽堂周辺）または奈良公園の興雲閣に類似しており、三峯神社（埼玉県秩父山中）の施設とは外観が明らかに一致しない。三峯神社境内に同名施設があるとしても画像の建物（明治洋風建築）は同社の雰囲気と大きく乖離しており、指定地の紹介画像として不適切と判断。",
+  "confidence": "high"
+ },
+ {
+  "id": "yamatokoriyama",
+  "name": "大和郡山",
+  "prefecture": "奈良県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "郡山城跡",
+  "reason": "[A] 手前の案内板に「吉田町展望台」と読め、周囲の山並みも奈良盆地の平坦な地形と一致せず、郡山城跡の眺望としては明らかに不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "yamatokoriyama",
+  "name": "大和郡山",
+  "prefecture": "奈良県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "金魚ストリート",
+  "reason": "[A] 画像は郡山城跡と桜の風景で、見どころ名「金魚ストリート」（金魚販売店が並ぶ通り）の紹介画像として内容が一致しない。",
+  "confidence": "high"
+ },
+ {
+  "id": "taro",
+  "name": "田老",
+  "prefecture": "岩手県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "田老の防潮堤",
+  "reason": "[A] 指定の見どころは「田老の防潮堤」だが、画像は海岸の奇岩・岩礁の風景であり防潮堤は全く写っていない。内容が指定見どころと不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "kashiwara-wine",
+  "name": "柏原",
+  "prefecture": "大阪府",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "大和川沿いのぶどう畑",
+  "reason": "[A] 「大和川沿いのぶどう畑」の紹介画像だが、写っているのは稲作田んぼと走行中の特急列車・送電鉄塔であり、ぶどう畑は確認できない。指定された見どころの内容と明らかに不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "tobe",
+  "name": "砥部",
+  "prefecture": "愛媛県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "砥部焼観光センター",
+  "reason": "[A] 砥部焼観光センターの紹介画像として使われているが、画像は展示室内に置かれた陶器（壺）の物撮りであり、「その土地の風景・施設外観」ではなく商品・展示物のアップ写真に該当する。",
+  "confidence": "high"
+ },
+ {
+  "id": "shimekappu",
+  "name": "占冠",
+  "prefecture": "北海道",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "星野リゾートトマム",
+  "reason": "[A] 室内で人物（子供）がメインの構図であり、「その土地の風景」に該当しない。星野リゾートトマムの紹介画像としても、施設の外観・雪景色等ではなく人物アップ中心のため不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "sakurajima",
+  "name": "桜島",
+  "prefecture": "鹿児島県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "溶岩なぎさ公園",
+  "reason": "[A] 画像は「湯之平展望所」の標石と桜島火口方面の風景であり、指定見どころ「溶岩なぎさ公園」とは明らかに一致しない。",
+  "confidence": "high"
+ },
+ {
+  "id": "yugawara",
+  "name": "湯河原",
+  "prefecture": "神奈川県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "湯河原温泉街",
+  "reason": "[A] 雪深い山間部の温泉街で、積雪量・山の形状・旅館の規模感が神奈川県湯河原とは大きく異なる。北海道・東北・北陸など豪雪地帯の温泉街（登別・定山渓・草津等）に類似しており、湯河原温泉街の紹介画像として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "aji-peninsula",
+  "name": "庵治半島",
+  "prefecture": "香川県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "庵治石の採石場",
+  "reason": "[A] 画面全体が石材表面のクローズアップのみで、採石場の風景・地形・作業風景などが一切写っていない。「その土地の風景」として機能しておらず、素材・テクスチャ写真に留まっている。",
+  "confidence": "high"
+ },
+ {
+  "id": "fuchu-hiroshima",
+  "name": "府中",
+  "prefecture": "広島県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "備後府中駅周辺",
+  "reason": "[A] 画像は東京競馬場（府中市・東京都）のパドックと見られる競馬場の風景であり、広島県府中市・備後府中駅周辺の紹介画像として不適切。同名の「府中」でも都道府県が異なり、地域が明確に不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "kamogawa",
+  "name": "鴨川",
+  "prefecture": "千葉県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "天津小湊の棚田",
+  "reason": "[A] 複数の風景を合成したコラージュ画像であり、「天津小湊の棚田」単体の紹介画像としてふさわしくない。鴨川シーワールドや海岸・神社・ホテル群など複数スポットが混在しており、指定見どころの単体風景写真として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "shishikui",
+  "name": "宍喰",
+  "prefecture": "徳島県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "宍喰漁港",
+  "reason": "[A] 「宍喰漁港」の見どころ画像として指定されているが、写っているのは宍喰駅の駅舎であり、漁港の風景とは明らかに不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "shionoe",
+  "name": "塩江",
+  "prefecture": "香川県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "塩江温泉街",
+  "reason": "[A] 雪深い大規模温泉街の景観で、積雪量・建物の規模感が香川県塩江温泉とは明らかに異なる。北海道・東北等の温泉地（定山渓や登別等）を想起させる風景であり、指定地と不一致の疑いが高い。",
+  "confidence": "high"
+ },
+ {
+  "id": "shimonada",
+  "name": "下灘",
+  "prefecture": "愛媛県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "伊予灘の夕日",
+  "reason": "[A] 「伊予灘の夕日」の見どころ紹介画像だが、写っているのは公共施設（道の駅・展望施設風の建物）と広場・桜の木であり、伊予灘の夕日や海景色が一切映っていない。指定見どころと内容が明らかに不一致。また横長パノラマ構図は軽微だが許容範囲内。",
+  "confidence": "high"
+ },
+ {
+  "id": "shimonada",
+  "name": "下灘",
+  "prefecture": "愛媛県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "白石の鼻展望台",
+  "reason": "[A] 高密度な高層ビル群の夜景であり、韓国・ソウルなど日本国外の都市夜景と見られる。愛媛県下灘の白石の鼻展望台（海沿いの小規模展望台）の紹介画像として完全に不一致であり、日本国外風景の混入の疑いが強い。",
+  "confidence": "high"
+ },
+ {
+  "id": "misaki-kochi",
+  "name": "三崎",
+  "prefecture": "愛媛県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "足摺岬",
+  "reason": "[A] 足摺岬は高知県土佐清水市に所在し、愛媛県三崎の見どころとして紹介するには地域が異なる。画像自体は足摺岬灯台と断崖の風景として正確だが、掲載先の「三崎（愛媛県）」との地理的整合性に明確な問題がある。",
+  "confidence": "high"
+ },
+ {
+  "id": "yogo",
+  "name": "余呉湖",
+  "prefecture": "滋賀県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "余呉駅",
+  "reason": "[A] 余呉駅の見どころ画像として提示されているが、写真は高架・ビル群に囲まれた都市型の路面電車軌道で、山間の小駅である余呉駅とは明らかに不一致。別路線（路面電車系）の駅と思われる。",
+  "confidence": "high"
+ },
+ {
+  "id": "kamui-misaki",
+  "name": "神威岬",
+  "prefecture": "北海道",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "積丹ブルー",
+  "reason": "[A] 「積丹ブルー」の見どころ紹介画像として、地形図（衛星カラーレリーフマップ）が使用されており、風景写真ではなく地図・図表に該当するためNG。",
+  "confidence": "high"
+ },
+ {
+  "id": "kamui-misaki",
+  "name": "神威岬",
+  "prefecture": "北海道",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "女人禁制の門",
+  "reason": "[A] 海岸の岬である神威岬の見どころ「女人禁制の門」の紹介画像として、内陸の山岳・森林風景が使用されており、指定地と明らかに不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "bihoro-pass",
+  "name": "美幌峠",
+  "prefecture": "北海道",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "屈斜路湖",
+  "reason": "[A] 画像2と全く同一の写真が使用されており、別の見どころ「屈斜路湖」として掲載するには重複コンテンツとなる。内容自体は問題ないが、同一画像の重複使用は紹介として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "notsuke-hanto",
+  "name": "野付半島",
+  "prefecture": "北海道",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "ナラワラ",
+  "reason": "[A] 画像1・2と全く同一の写真が使用されており、「ナラワラ」（ミズナラの立ち枯れ林）の紹介画像として内容が不一致。同一画像の流用と判断される。",
+  "confidence": "high"
+ },
+ {
+  "id": "kussharo-ko",
+  "name": "屈斜路湖",
+  "prefecture": "北海道",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "美幌峠",
+  "reason": "[A] 画像3（和琴半島）と全く同一の写真が美幌峠として使用されている。美幌峠からの眺望としては内容が重複・流用であり、見どころ別の独自画像として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "chokai-san",
+  "name": "鳥海山",
+  "prefecture": "秋田県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "胴腹滝",
+  "reason": "[A] 「胴腹滝」の紹介画像として指定されているが、写っているのは苔むした岩の上に置かれた石仏（地蔵・仏像）のアップであり、滝の風景が全く写っていない。その土地の自然景観・名所風景として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "mitsuke-jima",
+  "name": "見附島",
+  "prefecture": "石川県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "珠洲塩田",
+  "reason": "[A] 指定見どころは「珠洲塩田」だが、画像は見附島（軍艦島）と海岸の風景であり、塩田の様子は一切映っていない。",
+  "confidence": "high"
+ },
+ {
+  "id": "nyukasa",
+  "name": "入笠山",
+  "prefecture": "長野県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "大阿原湿原",
+  "reason": "[A] 入笠山の大阿原湿原（高層湿原）の紹介画像として指定されているが、画像は山麓の農村集落と田んぼの風景であり、湿原の景観とは明らかに異なる。",
+  "confidence": "high"
+ },
+ {
+  "id": "ontake",
+  "name": "御嶽山",
+  "prefecture": "長野県・岐阜県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "田の原天然公園",
+  "reason": "[A] 田の原天然公園の紹介画像として指定されているが、画像はスキー場のリフト降り場とゲレンデを写したものであり、高山植物が広がる天然公園の景観とは合致しない。",
+  "confidence": "high"
+ },
+ {
+  "id": "eshima-miyagi",
+  "name": "江島",
+  "prefecture": "宮城県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "牡蠣棚",
+  "reason": "[A] 牡蠣棚（養殖風景）ではなく、皿に盛られた牡蠣料理の写真。「その土地の風景」でなく料理・食品画像に該当する。",
+  "confidence": "high"
+ },
+ {
+  "id": "mitsuke-jima",
+  "name": "見附島",
+  "prefecture": "石川県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "縁結びの鐘",
+  "reason": "[A] 見附島の「縁結びの鐘」とは全く無関係な西洋絵画（聖人と幼児を描いた宗教画）であり、日本の風景・名所の紹介画像として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "kirigamine",
+  "name": "霧ヶ峰",
+  "prefecture": "長野県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "ニッコウキスゲ群生地",
+  "reason": "[A] 岩稜帯の険しい高山風景で、ニッコウキスゲの群生は一切見られない。霧ヶ峰の緩やかな高原湿原のイメージとも大きく乖離しており、指定見どころの紹介画像として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "nyukasa",
+  "name": "入笠山",
+  "prefecture": "長野県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "入笠山頂",
+  "reason": "[A] 画像3と同一写真（農村・水田・山麓の集落）であり、入笠山頂の眺望・風景としてまったく不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "tojinbo",
+  "name": "東尋坊",
+  "prefecture": "福井県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "断崖散策路",
+  "reason": "[A] 緑の岬に立つ白い灯台の風景で、東尋坊の断崖散策路とは明らかに異なる場所（犬吠埼や室戸岬等の灯台に類似）。指定見どころと内容が不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "shiroyone-senmaida",
+  "name": "白米千枚田",
+  "prefecture": "石川県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "イルミネーション",
+  "reason": "[A] 光のトンネル型イルミネーション施設の室内写真であり、白米千枚田（奥能登の棚田）の「その土地の風景」として不適切。見出しに「イルミネーション」とあるが、千枚田のあぜ道LEDとは明らかに異なる別施設（長島温泉系等の大規模イルミ）と思われる。",
+  "confidence": "high"
+ },
+ {
+  "id": "shiroyone-senmaida",
+  "name": "白米千枚田",
+  "prefecture": "石川県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "奥能登塩田村",
+  "reason": "[A] 路線バスのアップ写真であり、奥能登塩田村の風景・名所として全く不適切。「その土地の風景」に該当しない。",
+  "confidence": "high"
+ },
+ {
+  "id": "sozogi",
+  "name": "曽々木海岸",
+  "prefecture": "石川県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "窓岩",
+  "reason": "[A] 「窓岩」の見どころ紹介画像だが、画像2と同一カットで滝とトンネルが写っており、窓岩（穴の開いた奇岩）は確認できない。指定見どころと内容が不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "sozogi",
+  "name": "曽々木海岸",
+  "prefecture": "石川県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "曽々木海岸",
+  "reason": "[B] 画像左下に「gpscycling.net」のウォーターマーク（ドメイン文字列）が焼き込まれており、サイト掲載画像としてNG。",
+  "confidence": "high"
+ },
+ {
+  "id": "kaizu-osaki",
+  "name": "海津大崎",
+  "prefecture": "滋賀県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "海津大崎の桜",
+  "reason": "[A] 見どころ名「海津大崎の桜」に対し、桜が一切写っておらず新緑の湖岸桟橋の風景のみ。桜の名所紹介画像として内容が不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "bise",
+  "name": "備瀬のフクギ並木",
+  "prefecture": "沖縄県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "美ら海水族館",
+  "reason": "[A] 水族館の水槽内を泳ぐエイの撮影で、「その土地の風景・名所」ではなく施設内部の生き物写真。観点A（場所・内容）に該当。",
+  "confidence": "high"
+ },
+ {
+  "id": "gokase",
+  "name": "五ヶ瀬",
+  "prefecture": "宮崎県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "棚田",
+  "reason": "[A] 広大な棚田の景観だが、建物の様式・地形・植生がベトナム北部（サパ周辺）など東南アジアの棚田に酷似しており、日本国内（五ヶ瀬）の風景として不適切と判断。",
+  "confidence": "high"
+ },
+ {
+  "id": "sefa-utaki",
+  "name": "斎場御嶽",
+  "prefecture": "沖縄県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "三庫理",
+  "reason": "[C] 三庫理の巨岩が重なる通路を捉えた風景は内容・焼き込みとも問題ないが、画像が極端な縦長アスペクト比であり構図上の問題あり。",
+  "confidence": "high"
+ },
+ {
+  "id": "sefa-utaki",
+  "name": "斎場御嶽",
+  "prefecture": "沖縄県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "久高島遥拝所",
+  "reason": "[BC] 下部に「久高島遥拝所」と書かれた実在の案内板が写っているのは問題ないが、画像下部に半透明の白文字で「久高島遥拝所」というテキストが焼き込まれており観点B該当。また極端な縦長アスペクト比で観点Cも該当。",
+  "confidence": "high"
+ },
+ {
+  "id": "sannai-maruyama",
+  "name": "三内丸山遺跡",
+  "prefecture": "青森県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "六本柱建物跡",
+  "reason": "[A] 見どころ名称は「六本柱建物跡」だが、画像に写っているのは高床式の掘立柱建物（倉庫群）であり、六本柱の大型櫓状建物は映っていない。指定見どころと内容が不一致。また、植生や景観が三内丸山よりも北海道や本州の別遺跡（例：垂柳遺跡など）に近い可能性がある。",
+  "confidence": "high"
+ },
+ {
+  "id": "mikurajima",
+  "name": "御蔵島",
+  "prefecture": "東京都",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "ハイキングコース",
+  "reason": "[A] 広大なアルプス系山岳渓谷の風景で、日本国外（欧州アルプス周辺）の景観と判断される。御蔵島のハイキングコースとは明らかに不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "hiburi",
+  "name": "日振島",
+  "prefecture": "愛媛県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "ダイビングスポット",
+  "reason": "[A] 人物（ダイバー）のアップが主体であり、かつ熱帯系の白砂・透明度の高い海中環境は瀬戸内・日振島の海中景観とは明らかに異なる。土地の風景写真として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "sannai-maruyama",
+  "name": "三内丸山遺跡",
+  "prefecture": "青森県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "縄文時遊館",
+  "reason": "[A] 縄文時遊館の紹介画像として出土品展示の室内撮影であり、「その土地の風景・名所・建物」ではなく博物館内部の展示物アップ画像。観点Aの「室内」NG例に該当する。",
+  "confidence": "high"
+ },
+ {
+  "id": "mikurajima",
+  "name": "御蔵島",
+  "prefecture": "東京都",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "イルカウォッチング",
+  "reason": "[A] 写っているのはイルカではなくセミクジラ（North Atlantic right whale）とみられる大型クジラ2頭であり、御蔵島のイルカウォッチングの紹介画像として内容が明らかに不一致。また外国人観光客風の人物が写っており、日本国外で撮影された可能性が高い。",
+  "confidence": "high"
+ },
+ {
+  "id": "hiburi",
+  "name": "日振島",
+  "prefecture": "愛媛県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "漁村集落",
+  "reason": "[A] 石灰岩カルスト地形の岩山と水上集落が写っており、ベトナムのハロン湾を彷彿とさせる東南アジアの景観。愛媛県日振島の漁村集落とは明らかに不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "tonaki",
+  "name": "渡名喜島",
+  "prefecture": "沖縄県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "渡名喜港",
+  "reason": "[A] 「KUME LINE（フェリー久米）」と船体に記載されたフェリーが大型工業港で撮影された写真。渡名喜港の風景ではなく、那覇港等の工業的な港湾施設が背景に映っており、渡名喜港の紹介画像として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "tonaki",
+  "name": "渡名喜島",
+  "prefecture": "沖縄県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "ビーチ",
+  "reason": "[A] 手前にアウトリガーカヌー（バンカーボート）が写っており、フィリピン等の東南アジアのビーチと判断される。沖縄・渡名喜島のビーチとは異なる地域の可能性が高い。",
+  "confidence": "high"
+ },
+ {
+  "id": "minamidaitojima",
+  "name": "南大東島",
+  "prefecture": "沖縄県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "ボスウェルスタジアム",
+  "reason": "[A] 大規模なサッカースタジアム（ボスウェルスタジアムはベルギー・アンデルレヒトのスタジアムとみられる）の夜間撮影画像であり、南大東島とは全く無関係。日本国外の施設の可能性が高く、指定地の紹介画像として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "minamidaitojima",
+  "name": "南大東島",
+  "prefecture": "沖縄県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "バリハイ農場",
+  "reason": "[AB] 画像はアメリカ・モンタナ州の州旗であり、南大東島（沖縄県）の農場紹介として完全に不適切。また「MONTANA」の文字がデザインとして焼き込まれており観点Bにも該当。",
+  "confidence": "high"
+ },
+ {
+  "id": "yorojima",
+  "name": "与路島",
+  "prefecture": "鹿児島県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "百合ヶ浜",
+  "reason": "[AB] 「百合ヶ浜」の風景写真ではなく、テキストロゴ（漢字＋英字「justice for girls」）のみの画像。風景として完全に不適切であり、ロゴ焼き込みも該当する。",
+  "confidence": "high"
+ },
+ {
+  "id": "yorojima",
+  "name": "与路島",
+  "prefecture": "鹿児島県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "ケンタウロスビーチ",
+  "reason": "[A] カラフルな南欧風の建物が並ぶ海岸沿いの町並みで、フランス・マントン等地中海沿岸を連想させる明らかに日本国外の風景。与路島の見どころとして完全に不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "kuchinoerabu",
+  "name": "口永良部島",
+  "prefecture": "鹿児島県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "新岳",
+  "reason": "[A] 画像1と同一の空撮写真が使用されており、見どころ「新岳」として個別に掲載する独自性がない（重複コンテンツ）。",
+  "confidence": "high"
+ },
+ {
+  "id": "nishinoshima",
+  "name": "西ノ島",
+  "prefecture": "島根県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "別府港",
+  "reason": "[A] 背景に高層ビル群や大規模な都市施設が写っており、離島の小港である別府港（西ノ島）の風景としては明らかに不一致。大都市の港湾エリアの可能性が高い。",
+  "confidence": "high"
+ },
+ {
+  "id": "nishinoshima",
+  "name": "西ノ島",
+  "prefecture": "島根県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "国賀海岸",
+  "reason": "[A] 画像1と同一写真。メイン画像の流用であり、「国賀海岸」の見どころ画像として独立した写真が使われていない（重複使用）。コンテンツとして不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "shinojima",
+  "name": "篠島",
+  "prefecture": "愛知県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "篠島神社",
+  "reason": "[A] 衛星・航空写真による島全体の俯瞰図であり、「篠島神社」の見どころ紹介画像として不適切（神社の風景が全く写っておらず、地図・空撮図的な用途の画像）。",
+  "confidence": "high"
+ },
+ {
+  "id": "himakajima",
+  "name": "日間賀島",
+  "prefecture": "愛知県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "日間賀島港",
+  "reason": "[A] 衛星写真（航空・衛星画像）であり「港の見どころ」紹介画像として不適切。島全体の俯瞰図・地図的表現で、旅行サイトの風景紹介用途に合わない。",
+  "confidence": "high"
+ },
+ {
+  "id": "himakajima",
+  "name": "日間賀島",
+  "prefecture": "愛知県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "タコ料理",
+  "reason": "[A] タコの水中生態写真4枚のコラージュであり、料理ではなく生物図鑑的な画像。「タコ料理」の紹介画像として不適切で、その土地の風景・料理写真にも該当しない。",
+  "confidence": "high"
+ },
+ {
+  "id": "hotokegaura",
+  "name": "仏ヶ浦",
+  "prefecture": "青森県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "白い岩礁",
+  "reason": "[A] 仏ヶ浦の白い岩礁風景ではなく、カモメ（ユリカモメ系）の鳥のアップ写真であり、土地の風景・名所として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "shiibamura",
+  "name": "椎葉村",
+  "prefecture": "宮崎県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "椎葉村役場",
+  "reason": "[A] 椎葉村役場として紹介されているが、写っているのは茅葺き屋根風の大型古民家（鶴富屋敷と思われる建物）であり、役場とは内容が不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "himakajima",
+  "name": "日間賀島",
+  "prefecture": "愛知県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "フグ料理",
+  "reason": "[A] フグ料理（てっさ）の皿を真上から撮った料理写真であり、「その土地の風景・名所」ではなく室内の料理画像のため観点Aに抵触。",
+  "confidence": "high"
+ },
+ {
+  "id": "ukujima",
+  "name": "鵜来島",
+  "prefecture": "高知県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "観光農園",
+  "reason": "[A] 鵜来島は高知県沖の離島であり、観光農園が存在するとは考えにくく、内容的にも島の風景として不自然。また送電鉄塔が写る大規模なひまわり畑は離島の景観と明らかに不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "hotokegaura",
+  "name": "仏ヶ浦",
+  "prefecture": "青森県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "佐井港",
+  "reason": "[A] 「佐井港」の見どころとして登録されているが、画像は仏ヶ浦の奇岩海岸を上から俯瞰した風景であり、港の様子が全く写っていない。場所の内容として不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "okinoshima-kochi",
+  "name": "沖ノ島",
+  "prefecture": "高知県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "遊歩道",
+  "reason": "[A] ヨーロッパ風の石造り建築が並ぶ街並みで、日本国外（北欧・フィンランド系と推定）の風景。高知県沖ノ島の遊歩道とは全く一致しない。",
+  "confidence": "high"
+ },
+ {
+  "id": "nushima",
+  "name": "沼島",
+  "prefecture": "兵庫県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "沼島八幡神社",
+  "reason": "[A] 画像2・3と全く同一の港・防波堤の写真が使用されており、「沼島八幡神社」の見どころ画像として内容が全く一致しない。神社の建築・境内等が写っていない。",
+  "confidence": "high"
+ },
+ {
+  "id": "kasadojima",
+  "name": "笠戸島",
+  "prefecture": "山口県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "笠戸大橋",
+  "reason": "[A] 画像2と同一（またはほぼ同一）の写真であり、「笠戸大橋」の個別見どころ画像として掲載するには画像2（メイン風景）と重複しており、サイト上で実質的に異なる情報を提供できない。内容自体は適切だが、同一素材の重複使用はサイト品質上問題あり。",
+  "confidence": "high"
+ },
+ {
+  "id": "tateyamasaki",
+  "name": "楯ヶ崎",
+  "prefecture": "三重県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "漁港",
+  "reason": "[A] 背景に白い高層マンション群とヤシの木が並ぶ地中海風リゾート港の風景で、日本（三重県・楯ヶ崎周辺）の漁港とは明らかに不一致。国外（キプロス等）の港と推定される。",
+  "confidence": "high"
+ },
+ {
+  "id": "okinoshima-kochi",
+  "name": "沖ノ島",
+  "prefecture": "高知県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "弘法大師像",
+  "reason": "[A] 弘法大師（空海）の肖像画（古文書・絵画）であり、「その土地の風景」ではない。屋外の風景・名所・建物等に該当せず、旅行先紹介画像として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "shiibamura",
+  "name": "椎葉村",
+  "prefecture": "宮崎県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "山岳集落",
+  "reason": "[A] ドイツのライン川沿いの町（マルクスブルク城とブラウバッハ）と思われる西洋風の風景であり、宮崎県椎葉村の山岳集落とは全く一致しない日本国外の画像。",
+  "confidence": "high"
+ },
+ {
+  "id": "tateyamasaki",
+  "name": "楯ヶ崎",
+  "prefecture": "三重県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "立石崎灯台",
+  "reason": "[A] エメラルドグリーンと紺碧の海、白砂のビーチ、乾燥した岩肌の岬はケープ半島（南アフリカ）等に類似した景観であり、三重県楯ヶ崎の立石崎灯台とは明らかに一致しない日本国外の風景。",
+  "confidence": "high"
+ },
+ {
+  "id": "tateyamasaki",
+  "name": "楯ヶ崎",
+  "prefecture": "三重県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "海岸遊歩道",
+  "reason": "[A] ヨーロッパ風の歴史的建築物が並ぶ街路（フィンランド・トゥルク等に類似）であり、三重県楯ヶ崎の海岸遊歩道とは全く異なる日本国外の都市景観。",
+  "confidence": "high"
+ },
+ {
+  "id": "akiyamago",
+  "name": "秋山郷",
+  "prefecture": "長野県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "小赤沢温泉",
+  "reason": "[A] 実際の風景写真ではなく、画像検索・プレースホルダーを示すイラストアイコンが表示されており、小赤沢温泉の風景として機能していない。",
+  "confidence": "high"
+ },
+ {
+  "id": "okitama",
+  "name": "置賜",
+  "prefecture": "山形県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "米沢城跡",
+  "reason": "[A] 上杉氏の家系図（図表・テキスト資料）であり、米沢城跡の風景・景観写真ではない。",
+  "confidence": "high"
+ },
+ {
+  "id": "kinkasan",
+  "name": "金華山",
+  "prefecture": "宮城県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "大海祇神社",
+  "reason": "[A] 衛星・航空写真による島全体の俯瞰画像であり、「大海祇神社」の見どころ紹介画像として「その土地の風景・名所」に該当しない。地図・図表的用途の画像で観光紹介に不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "akiyamago",
+  "name": "秋山郷",
+  "prefecture": "長野県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "秋山郷温泉",
+  "reason": "[C] 画像が正方形に近い縦長の比率で、電線が画面を横断しており構図として不自然。また解像度・画質が低く旅行サイトのメイン掲載画像として品質的に問題あり（構図上の問題として判定）。",
+  "confidence": "high"
+ },
+ {
+  "id": "tashirojima",
+  "name": "田代島",
+  "prefecture": "宮城県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "マンガアイランド",
+  "reason": "[A] 画像2と同一（または極めて酷似した）島の遠景写真が使用されており、「マンガアイランド」の見どころ紹介としてはキャンプ場・コテージ等の施設を示す画像が必要。島の外観遠景のみではマンガアイランド固有の内容を伝えられず、画像の使い回しと判断される。",
+  "confidence": "high"
+ },
+ {
+  "id": "osorezan-area",
+  "name": "恐山",
+  "prefecture": "青森県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "恐山大師堂",
+  "reason": "[A] 恐山大師堂の紹介画像とされているが、背景の岩や植生（常緑広葉樹）が青森・恐山の環境と合わず、西日本の寺院堂宇の雰囲気が強い。恐山の建造物とは一致しない可能性が高い。",
+  "confidence": "high"
+ },
+ {
+  "id": "toushijima",
+  "name": "答志島",
+  "prefecture": "三重県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "答志集落",
+  "reason": "[A] 地図（三重県の地形図）であり、「答志集落」の風景・町並み・名所を示す画像ではない。観点Aの「地図・イラスト・図表」に該当するためNG。",
+  "confidence": "high"
+ },
+ {
+  "id": "kamishima",
+  "name": "神島",
+  "prefecture": "三重県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "カルスト地形",
+  "reason": "[A] 神島（三重県の小島）にカルスト地形は存在せず、広大な丘陵・カルスト台地の風景は地形的に明らかに不一致。秋吉台など別地のカルスト地形が混入した可能性が高い。",
+  "confidence": "high"
+ },
+ {
+  "id": "chichijima",
+  "name": "父島",
+  "prefecture": "東京都",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "長崎展望台",
+  "reason": "[A] 「長崎展望台（父島）」の紹介画像として指定されているが、写っているのは都市部のビル街（長崎バスのビルと思われる建物群）であり、父島の自然・風景とは全く一致しない。",
+  "confidence": "high"
+ },
+ {
+  "id": "okishima",
+  "name": "沖島",
+  "prefecture": "滋賀県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "沖島漁港",
+  "reason": "[A] 画像は近江八幡の八幡堀と思われる水路沿いの町並みで、沖島漁港（琵琶湖に浮かぶ島の漁港）とは明らかに不一致。指定地の風景として妥当でない。",
+  "confidence": "high"
+ },
+ {
+  "id": "okishima",
+  "name": "沖島",
+  "prefecture": "滋賀県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "島民会館",
+  "reason": "[A] スーツ姿の男性のポートレート写真であり、「島民会館」を含む沖島の風景・建物の紹介画像として全く不適切。人物アップ写真はNG。",
+  "confidence": "high"
+ },
+ {
+  "id": "etajima",
+  "name": "江田島",
+  "prefecture": "広島県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "オリーブ園",
+  "reason": "[A] 乾燥した荒れ地に古木のオリーブが生育しており、背景の景観・土壌・大気感が地中海沿岸（スペイン・ギリシャ等）の農園を強く想起させ、日本・広島県江田島のオリーブ園とは明らかに一致しない。",
+  "confidence": "high"
+ },
+ {
+  "id": "daikonshima",
+  "name": "大根島",
+  "prefecture": "島根県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "牡丹園",
+  "reason": "[A] 画像は中国語表記の地下鉄「牡丹园站（Mudanyuan Zhan）」の駅入口で、中国の都市部の風景。日本国内・島根県大根島の牡丹園とは全く無関係。",
+  "confidence": "high"
+ },
+ {
+  "id": "shikanoshima",
+  "name": "志賀島",
+  "prefecture": "福岡県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "金印公園",
+  "reason": "[A] 金印のレプリカ（工芸品・物品）のアップ写真であり、「その土地の風景・名所」ではなく物品撮影。観点A違反。",
+  "confidence": "high"
+ },
+ {
+  "id": "iwaishima",
+  "name": "祝島",
+  "prefecture": "山口県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "練塀の集落",
+  "reason": "[A] 画像2と全く同一の航空俯瞰写真。見どころ「練塀の集落」の紹介画像として必要な、白漆喰の練塀や石畳の集落景観が全く写っておらず不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "etajima",
+  "name": "江田島",
+  "prefecture": "広島県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "能美海上ロッジ",
+  "reason": "[A] 画像は旧海軍兵学校（現・海上自衛隊第1術科学校）の赤レンガ建物と桜であり、「能美海上ロッジ」の紹介画像としては内容が不一致。江田島内の別施設の写真が混入している。",
+  "confidence": "high"
+ },
+ {
+  "id": "omijima",
+  "name": "青海島",
+  "prefecture": "山口県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "海上アルプス",
+  "reason": "[A] 青海島の「海上アルプス」（海食崖・岩礁の海岸景観）とは全く異なる、航空写真で撮影された雪をかぶった内陸山脈の俯瞰画像であり、指定地・内容と明らかに不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "iwaishima",
+  "name": "祝島",
+  "prefecture": "山口県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "平さと",
+  "reason": "[A] 恐竜や古生物の化石・骨格標本をコラージュした博物館展示物の画像であり、祝島（山口県）の風景・町並み・名所とは全く無関係。",
+  "confidence": "high"
+ },
+ {
+  "id": "hakatajima",
+  "name": "伯方島",
+  "prefecture": "愛媛県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "伯方塩業大三島工場",
+  "reason": "[A] 茅葺き屋根の大きな神社本殿の画像であり、伯方塩業大三島工場の紹介画像として内容が全く一致しない。",
+  "confidence": "high"
+ },
+ {
+  "id": "ikitsukijima",
+  "name": "生月島",
+  "prefecture": "長崎県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "サンセットウェイ",
+  "reason": "[ABC] 映画『サンセット大通り（Sunset Boulevard）』の映画ポスターであり、生月島の風景とは全く無関係。人物・イラスト・大量のテキスト焼き込みがあり、縦長の映画ポスター構図で旅行紹介画像として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "ikeshima",
+  "name": "池島",
+  "prefecture": "長崎県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "トロッコ坑内ツアー",
+  "reason": "[A] 坑内で作業する人物のアップ写真であり「その土地の風景・名所」ではなく人物作業シーンが主体。また白黒写真で時代・場所の特定も困難なため、観点A（場所・内容）に該当。",
+  "confidence": "high"
+ },
+ {
+  "id": "ikeshima",
+  "name": "池島",
+  "prefecture": "長崎県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "集合住宅団地",
+  "reason": "[A] 池島の炭鉱集合住宅ではなく、装飾的な彫刻を持つヨーロッパ風（東欧・旧ソ連圏様式）の建築物であり、日本国内の建物として不自然。指定地と明らかに不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "kikai-island",
+  "name": "喜界島",
+  "prefecture": "鹿児島県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "ハワイビーチ",
+  "reason": "[A] ハワイ州旗のイラスト画像であり、喜界島「ハワイビーチ」の風景写真ではない。地図・図表・旗類に相当し「その土地の風景」として完全に不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "tokunoshima",
+  "name": "徳之島",
+  "prefecture": "鹿児島県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "闘牛場",
+  "reason": "[A] 画像はスペイン式の円形闘牛場（プラサ・デ・トロス）と思われる西洋建築で、徳之島の闘牛場（牛同士を戦わせる島の施設）とは全く異なる。また周囲の高層ビル群や港の景観も日本国内のものではなく、明らかに海外の風景。",
+  "confidence": "high"
+ },
+ {
+  "id": "aka-island",
+  "name": "阿嘉島",
+  "prefecture": "沖縄県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "阿嘉大橋",
+  "reason": "[A] 衛星・航空写真による島の俯瞰画像であり、「阿嘉大橋」の見どころ紹介として不一致（橋が確認できず島全体の空撮）。また地図・図表に近い俯瞰画像は「その土地の風景」としては不適切と判断。",
+  "confidence": "high"
+ },
+ {
+  "id": "yubu-island",
+  "name": "由布島",
+  "prefecture": "沖縄県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "水牛車",
+  "reason": "[A] 水牛車が写っているが、人物・景観・車体のスタイルが明らかに中南米（キューバ等）の農村風景であり、沖縄・由布島の水牛車とは異なる。日本国外の画像と判断される。",
+  "confidence": "high"
+ },
+ {
+  "id": "izena-island",
+  "name": "伊是名島",
+  "prefecture": "沖縄県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "二見ヶ浦海岸",
+  "reason": "[A] 「二見ヶ浦海岸」は同名の海岸が福岡県糸島市に存在し、画像の景観（鳥居・夫婦岩・緑豊かな丘陵・海水の色調・周辺の建物群）は沖縄・伊是名島の風景とは明らかに一致せず、糸島市の二見ヶ浦である可能性が極めて高い。指定地と内容が不一致のため不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "yatsugatake",
+  "name": "八ヶ岳",
+  "prefecture": "山梨県・長野県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "大泉高原",
+  "reason": "[A] 「No.1」「No.2」と書かれた工場・倉庫風の建物が並ぶ平地の街並みで、八ヶ岳大泉高原の高原風景とは全く一致しない。",
+  "confidence": "high"
+ },
+ {
+  "id": "yatsugatake",
+  "name": "八ヶ岳",
+  "prefecture": "山梨県・長野県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "八ヶ岳ジャージーハット",
+  "reason": "[A] 画像1と全く同一の写真が使用されており、「八ヶ岳ジャージーハット」の見どころ紹介として個別に用意された画像ではなく、重複・流用と判断される。",
+  "confidence": "high"
+ },
+ {
+  "id": "kifune",
+  "name": "貴船",
+  "prefecture": "京都府",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "川床料理",
+  "reason": "[A] 川床料理の見どころとして掲載されているが、画像は貴船川ではなく鴨川沿いの夜景（四条河原町付近の納涼床）と思われ、指定地と明らかに不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "kifune",
+  "name": "貴船",
+  "prefecture": "京都府",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "奥宮",
+  "reason": "[A] 溶岩石と石造りの構造物、登山装備の参拝者などから富士山頂の奥宮（富士山本宮浅間大社奥宮）と判断される。貴船神社の奥宮（京都府）とは明らかに異なる場所。",
+  "confidence": "high"
+ },
+ {
+  "id": "yamanakako",
+  "name": "山中湖",
+  "prefecture": "山梨県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "花の都公園",
+  "reason": "[A] 背景に高層ビル群が確認でき、花の都公園（山中湖村）ではなく都市部の大型公園（新宿御苑・代々木公園等）と思われる。山中湖エリアの紹介画像として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "minatomirai",
+  "name": "横浜みなとみらい",
+  "prefecture": "神奈川県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "ランドマークタワー",
+  "reason": "[B] 画像右上にオレンジ色の日付スタンプ（撮影日時）が焼き込まれている。",
+  "confidence": "high"
+ },
+ {
+  "id": "kawaji-onsen",
+  "name": "川治温泉",
+  "prefecture": "栃木県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "川治温泉郷",
+  "reason": "[A] 写っているのは大規模なコンクリートダム（五十里ダムと思われる）であり、「川治温泉郷」の温泉街・温泉地の紹介画像として内容が不一致。温泉郷の風景・旅館街等ではない。",
+  "confidence": "high"
+ },
+ {
+  "id": "nishi-izu",
+  "name": "西伊豆",
+  "prefecture": "静岡県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "土肥金山",
+  "reason": "[AC] 鉱石標本を接写した室内展示物の写真であり、土肥金山の「その土地の風景」として不適切。また左右2カットを並べた横長合成構図で被写体の配置も不自然。",
+  "confidence": "high"
+ },
+ {
+  "id": "sumatakyo",
+  "name": "寸又峡",
+  "prefecture": "静岡県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "尾崎坂展望台",
+  "reason": "[A] 近代的なコンクリート造りの公共施設（美術館・文化会館系）の正面外観写真であり、山間の自然・渓谷が特徴の寸又峡「尾崎坂展望台」とは明らかに不一致。展望台や渓谷の風景ではない。",
+  "confidence": "high"
+ },
+ {
+  "id": "toyama-city",
+  "name": "富山",
+  "prefecture": "富山県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "ガラス美術館",
+  "reason": "[A] 建物外壁に「Kunstmuseum Basel」の文字が確認でき、スイス・バーゼルの美術館（バーゼル美術館）であることが明らか。富山市のガラス美術館とは全く異なる海外の建物であり、日本国外の風景が混入している。",
+  "confidence": "high"
+ },
+ {
+  "id": "adachi-museum",
+  "name": "足立美術館",
+  "prefecture": "島根県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "足立美術館庭園",
+  "reason": "[A] 画像は栗林公園（香川県）と思われる池泉庭園で、足立美術館の庭園とは異なる施設の可能性が高い。足立美術館は池に太鼓橋がある構造ではなく、指定地と不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "adachi-museum",
+  "name": "足立美術館",
+  "prefecture": "島根県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "横山大観コレクション",
+  "reason": "[A] 人物（横山大観と思われる人物画）のアップ画像であり、「その土地の風景・名所」ではなく人物クローズアップに該当するためNG。",
+  "confidence": "high"
+ },
+ {
+  "id": "tottori-sakyu",
+  "name": "鳥取砂丘",
+  "prefecture": "鳥取県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "らくだライド",
+  "reason": "[A] 英語表記の「Park and Ride」道路標識であり、明らかに日本国外（英国等）の道路標識画像。鳥取砂丘「らくだライド」とは全く無関係。",
+  "confidence": "high"
+ },
+ {
+  "id": "tamatsukuri-onsen",
+  "name": "玉造温泉",
+  "prefecture": "島根県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "宮橋",
+  "reason": "[A] 玉造温泉の「宮橋」は温泉街に架かる小橋だが、画像は高層ビル群が立ち並ぶ大都市の大型アーチ橋（大阪・天満橋周辺に類似）であり、指定地と明らかに不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "yubara-onsen",
+  "name": "湯原温泉",
+  "prefecture": "岡山県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "砂湯",
+  "reason": "[A] 看板に「阿寒国立公園 屈斜路湖砂湯」と明記されており、北海道・阿寒の風景であって岡山県湯原温泉の「砂湯」とは別の場所。指定地と明らかに不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "hinase",
+  "name": "日生",
+  "prefecture": "岡山県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "カキオコ",
+  "reason": "[A] 「カキオコ」の料理アップ画像であり、その土地の風景・町並み・名所ではなく料理写真のため観点A不適合。",
+  "confidence": "high"
+ },
+ {
+  "id": "osaka-bay",
+  "name": "大阪ベイエリア",
+  "prefecture": "大阪府",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "海遊館",
+  "reason": "[A] 水族館の展示水槽を館内から撮影した室内写真であり、「その土地の風景・外観」ではなく施設内部の展示物。観点A（場所・内容）に抵触。",
+  "confidence": "high"
+ },
+ {
+  "id": "echizen-pottery",
+  "name": "越前焼の里",
+  "prefecture": "福井県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "福井県陶芸館",
+  "reason": "[A] 画像3と全く同一の写真が使用されている。「越前陶芸村」と「福井県陶芸館」は別の見どころであるにもかかわらず同一画像であり、少なくとも一方は内容として不適切（重複・誤掲載）。",
+  "confidence": "high"
+ },
+ {
+  "id": "toyama-glass",
+  "name": "富山市ガラス美術館",
+  "prefecture": "富山県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "富山市ガラス美術館",
+  "reason": "[A] 美術館の室内（吹き抜けロビー・エスカレーター・展示品）を撮影した屋内写真であり、「その土地の風景・外観」として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "toyama-glass",
+  "name": "富山市ガラス美術館",
+  "prefecture": "富山県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "TOYAMAキラリ",
+  "reason": "[A] 画像1と同一の室内写真。見どころ名が「TOYAMAキラリ」（外観・施設全体）であるにもかかわらず屋内のみで、土地の風景として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "zuiryuji",
+  "name": "高岡",
+  "prefecture": "富山県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "高岡大仏",
+  "reason": "[A] 「高岡大仏」の紹介画像として指定されているが、写っているのは一般的な市街地の交差点・町並みであり、大仏は全く写っていない。",
+  "confidence": "high"
+ },
+ {
+  "id": "hakushu",
+  "name": "白州",
+  "prefecture": "山梨県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "サントリー白州蒸溜所",
+  "reason": "[A] 蒸溜所内部の蒸留釜（ポットスチル）を撮影した完全な室内写真であり、「その土地の風景」にあたらない。施設内設備の紹介画像としては理解できるが、旅先紹介の風景画像としては不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "inawashiro",
+  "name": "猪苗代湖",
+  "prefecture": "福島県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "野口英世記念館",
+  "reason": "[A] 野口英世記念館のミュージアムショップ内部の写真であり、屋内の商業施設・室内風景となっている。「その土地の風景・名所の外観や展示風景」として不適切な室内商品陳列シーン。",
+  "confidence": "high"
+ },
+ {
+  "id": "iwaki-spa",
+  "name": "いわき湯本温泉",
+  "prefecture": "福島県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "スパリゾートハワイアンズ",
+  "reason": "[A] スパリゾートハワイアンズの屋内プール施設内部の写真であり、「その土地の風景」ではなく室内レジャー施設の内部となっている。観点Aのガイドライン（室内はNG）に該当する。",
+  "confidence": "high"
+ },
+ {
+  "id": "keihoku",
+  "name": "京北",
+  "prefecture": "京都府",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "道の駅ウッディー京北",
+  "reason": "[A] 太鼓演奏イベントの人物アップが主体であり、「道の駅ウッディー京北」の施設・建物・周辺風景をほとんど示していない。人物中心のイベント写真は「その土地の風景」紹介画像として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "takamatsu-ritsurin",
+  "name": "栗林公園",
+  "prefecture": "香川県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "栗林公園",
+  "reason": "[B] 右下隅に「© SelF」とクレジットテキストが焼き込まれており、観点B（焼き込み）に該当する。",
+  "confidence": "high"
+ },
+ {
+  "id": "katsurahama",
+  "name": "桂浜",
+  "prefecture": "高知県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "桂浜水族館",
+  "reason": "[A] 水槽内の魚（ミノカサゴ）のアップ写真であり、「その土地の風景・名所」ではなく施設内展示物のクローズアップ。旅先紹介画像として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "takayama-2",
+  "name": "高山",
+  "prefecture": "岐阜県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "高山陣屋",
+  "reason": "[A] 高山陣屋の屋内（畳敷きの室内）を写した写真であり、「その土地の風景」ではなく建物内部のみ。旅先紹介のメイン画像として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "takayama-2",
+  "name": "高山",
+  "prefecture": "岐阜県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "宮川朝市",
+  "reason": "[A] 宮川朝市の紹介画像として、植木・花卉を売る露店と人物が主体の構図。その土地の風景・名所・町並みではなく、人物や商品が前面に出た市場の様子であり「その土地の風景」として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "echigo-tsumari",
+  "name": "越後妻有",
+  "prefecture": "新潟県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "大地の芸術祭",
+  "reason": "[A] コンクリート壁にフランス語のグラフィティ（「ETAT FASCISTE SARKOMMENCE」）が書かれたアップ写真。越後妻有の風景・アートフェスティバルの紹介画像として全く不適切であり、日本国外の壁面写真と判断される。",
+  "confidence": "high"
+ },
+ {
+  "id": "higashi-chaya",
+  "name": "ひがし茶屋街",
+  "prefecture": "石川県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "懐華樓",
+  "reason": "[A] 懐華樓の見どころ紹介画像として指定されているが、撮影されているのは建物内部の室内空間（座敷・屏風・掛け軸）であり、「その土地の風景」ではなく室内写真に該当するためNG。",
+  "confidence": "high"
+ },
+ {
+  "id": "morioka",
+  "name": "盛岡",
+  "prefecture": "岩手県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "盛岡冷麺",
+  "reason": "[A] 盛岡冷麺の料理アップ画像であり、「その土地の風景・名所」ではなく料理写真のため観点ANG。",
+  "confidence": "high"
+ },
+ {
+  "id": "morioka",
+  "name": "盛岡",
+  "prefecture": "岩手県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "じゃじゃ麺",
+  "reason": "[A] じゃじゃ麺の料理・テーブル画像であり、土地の風景ではなく料理・室内写真のため観点ANG。",
+  "confidence": "high"
+ },
+ {
+  "id": "miharu-takizakura",
+  "name": "三春滝桜",
+  "prefecture": "福島県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "三春滝桜",
+  "reason": "[A] 見どころ名「三春滝桜」として登録されているが、画像に桜の花は一切なく、夏の緑の丘陵地と小さな枯れ木状の樹木が写るのみ。滝桜の名所紹介画像として明らかに不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "miharu-takizakura",
+  "name": "三春滝桜",
+  "prefecture": "福島県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "花見山公園",
+  "reason": "[A] 見どころ名「花見山公園」は福島市にある公園で、三春滝桜（三春町）の見どころとしては場所が一致しない。また花見山公園は梅・桃・桜が混在する景観が特徴だが、本画像はその点では合致するものの、三春滝桜スポット配下の見どころとしては地域・場所の不一致が明確。",
+  "confidence": "high"
+ },
+ {
+  "id": "nakasendo-tsumago",
+  "name": "妻籠宿",
+  "prefecture": "長野県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "妻籠宿",
+  "reason": "[C] 画像3と同様に極端に横長のパノラマ構図で、細長いアスペクト比が旅行サイトの紹介画像として不適切。内容・焼き込みは問題なし。",
+  "confidence": "high"
+ },
+ {
+  "id": "wajima-asaichi",
+  "name": "輪島朝市",
+  "prefecture": "石川県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "輪島朝市",
+  "reason": "[A] 画像2と実質同一の箸商品アップ写真。「輪島朝市」の見どころ紹介としてその土地の風景・景観を示す画像になっていない。",
+  "confidence": "high"
+ },
+ {
+  "id": "wajima-asaichi",
+  "name": "輪島朝市",
+  "prefecture": "石川県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "輪島塗",
+  "reason": "[A] 輪島塗の箸が箱に並んだ商品写真であり、「その土地の風景」ではなく商品・物販の室内陳列カットに該当する。ただし輪島塗の紹介として内容の関連性はあるが、観点Aの「風景・名所」基準を満たさない。",
+  "confidence": "high"
+ },
+ {
+  "id": "kobe-port",
+  "name": "神戸ハーバーランド",
+  "prefecture": "兵庫県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "umie",
+  "reason": "[A] ショッピングモール（umie）の屋内通路の写真であり、「その土地の風景・町並み・名所」ではなく室内商業施設の内装。観点A（場所・内容）の基準に抵触する。",
+  "confidence": "high"
+ },
+ {
+  "id": "dazaifu-2",
+  "name": "太宰府",
+  "prefecture": "福岡県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "九州国立博物館",
+  "reason": "[A] 博物館の展示室内部・展示物のアップ写真であり、「その土地の風景・名所・建物」ではなく室内・展示品画像に該当する。",
+  "confidence": "high"
+ },
+ {
+  "id": "saga-castle",
+  "name": "佐賀城",
+  "prefecture": "佐賀県",
+  "file": "spot-1.jpg",
+  "spotIndex": 0,
+  "spotName": "佐賀城本丸歴史館",
+  "reason": "[A] 歴史館の内部・畳の間を撮影した室内写真であり、「その土地の風景・名所・建物の外観」ではなく室内画像に該当する。",
+  "confidence": "high"
+ },
+ {
+  "id": "nagasaki-city",
+  "name": "長崎",
+  "prefecture": "長崎県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "大浦天主堂",
+  "reason": "[A] 大浦天主堂の紹介画像として、天主堂の外観ではなく路面電車停留所（大浦天主堂駅と思われる）周辺の街並みが主体となっており、名所の風景として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "nagasaki-city",
+  "name": "長崎",
+  "prefecture": "長崎県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "原爆資料館",
+  "reason": "[A] 原爆資料館の紹介画像として、資料館の外観や展示ではなく図書室・書架コーナーの室内写真となっており「その土地の風景・名所」として不適切。",
+  "confidence": "high"
+ },
+ {
+  "id": "akiyoshido",
+  "name": "秋芳洞",
+  "prefecture": "山口県",
+  "file": "spot-2.jpg",
+  "spotIndex": 1,
+  "spotName": "秋吉台",
+  "reason": "[A] 秋吉台はカルスト台地の広大な草原・石灰岩の露出が特徴だが、画像は木々に囲まれた細い小道で、秋吉台の景観と明らかに異なる。",
+  "confidence": "high"
+ },
+ {
+  "id": "narita",
+  "name": "成田山新勝寺",
+  "prefecture": "千葉県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "成田ゆめ牧場",
+  "reason": "[A] 見どころとして「成田山新勝寺」が指定されているが、画像は「成田ゆめ牧場」の入口看板であり、新勝寺の風景・名所として不一致。",
+  "confidence": "high"
+ },
+ {
+  "id": "sankeien",
+  "name": "三溪園",
+  "prefecture": "神奈川県",
+  "file": "spot-3.jpg",
+  "spotIndex": 2,
+  "spotName": "旧矢箆原家住宅",
+  "reason": "[A] 旧矢箆原家住宅の見どころ紹介だが、画像は暗い室内に生けられた枝の生け花アップであり、建物・風景ではなく室内インテリア的な写真。「その土地の風景・建物」として不適切。",
+  "confidence": "high"
+ }
+]

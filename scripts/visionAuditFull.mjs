@@ -99,7 +99,8 @@ async function runBatch(batch, attempt = 0) {
     });
     for (const it of batch) if (!results[it.path]) results[it.path] = { verdict: 'ok', issues: [], confidence: '-', reason: 'NO_RESULT', ctx: it.ctx };
   } catch (e) {
-    if ((e.status === 429 || e.status === 529 || e.status === 500) && attempt < 5) {
+    const isConn = /connection error|ECONNRESET|ETIMEDOUT|socket hang up|fetch failed|network/i.test(e.message || '');
+    if ((e.status === 429 || e.status === 529 || e.status === 500 || isConn) && attempt < 6) {
       await new Promise(r => setTimeout(r, 4000 * (attempt + 1)));
       return runBatch(batch, attempt + 1);
     }
