@@ -1,0 +1,2086 @@
+{
+ "generatedAt": "2026-07-12T01:46:30.477Z",
+ "total": 5987,
+ "checked": 5987,
+ "extremeAspectCount": 328,
+ "letterboxCount": 21,
+ "errorCount": 0,
+ "extremeAspect": [
+  {
+   "file": "adachi-museum/spot-2.jpg",
+   "width": 500,
+   "height": 625,
+   "ratio": 0.8
+  },
+  {
+   "file": "aji-peninsula/spot-1.jpg",
+   "width": 500,
+   "height": 566,
+   "ratio": 0.88
+  },
+  {
+   "file": "akakura-onsen/spot-2.jpg",
+   "width": 500,
+   "height": 708,
+   "ratio": 0.71
+  },
+  {
+   "file": "amakusa/spot-3.jpg",
+   "width": 500,
+   "height": 626,
+   "ratio": 0.8
+  },
+  {
+   "file": "aogashima/spot-1.jpg",
+   "width": 500,
+   "height": 624,
+   "ratio": 0.8
+  },
+  {
+   "file": "aogashima/spot-3.jpg",
+   "width": 500,
+   "height": 624,
+   "ratio": 0.8
+  },
+  {
+   "file": "aoshima/spot-3.jpg",
+   "width": 500,
+   "height": 754,
+   "ratio": 0.66
+  },
+  {
+   "file": "arashiyama/spot-1.jpg",
+   "width": 1280,
+   "height": 1920,
+   "ratio": 0.67
+  },
+  {
+   "file": "ashizuri/spot-1.jpg",
+   "width": 500,
+   "height": 753,
+   "ratio": 0.66
+  },
+  {
+   "file": "ashizuri/spot-3.jpg",
+   "width": 500,
+   "height": 682,
+   "ratio": 0.73
+  },
+  {
+   "file": "bessho-onsen/spot-2.jpg",
+   "width": 500,
+   "height": 715,
+   "ratio": 0.7
+  },
+  {
+   "file": "bise/main.jpg",
+   "width": 1920,
+   "height": 2886,
+   "ratio": 0.67
+  },
+  {
+   "file": "chinen-misaki/spot-3.jpg",
+   "width": 500,
+   "height": 667,
+   "ratio": 0.75
+  },
+  {
+   "file": "chiran/spot-2.jpg",
+   "width": 1920,
+   "height": 276,
+   "ratio": 6.96
+  },
+  {
+   "file": "dorogawa-onsen/spot-3.jpg",
+   "width": 500,
+   "height": 752,
+   "ratio": 0.66
+  },
+  {
+   "file": "gen_北海_ぬかびら温泉/spot-1.jpg",
+   "width": 1280,
+   "height": 1711,
+   "ratio": 0.75
+  },
+  {
+   "file": "gen_北海_山彦の滝/spot-1.jpg",
+   "width": 500,
+   "height": 667,
+   "ratio": 0.75
+  },
+  {
+   "file": "gen_北海_瀬石温泉/spot-2.jpg",
+   "width": 1280,
+   "height": 1707,
+   "ratio": 0.75
+  },
+  {
+   "file": "gen_青森_秋元温泉/spot-1.jpg",
+   "width": 480,
+   "height": 640,
+   "ratio": 0.75
+  },
+  {
+   "file": "hamanako/spot-3.jpg",
+   "width": 500,
+   "height": 627,
+   "ratio": 0.8
+  },
+  {
+   "file": "hanamaki/spot-3.jpg",
+   "width": 500,
+   "height": 752,
+   "ratio": 0.66
+  },
+  {
+   "file": "hasami/spot-1.jpg",
+   "width": 500,
+   "height": 640,
+   "ratio": 0.78
+  },
+  {
+   "file": "higashine/spot-2.jpg",
+   "width": 500,
+   "height": 621,
+   "ratio": 0.81
+  },
+  {
+   "file": "hijori-onsen/spot-2.jpg",
+   "width": 500,
+   "height": 713,
+   "ratio": 0.7
+  },
+  {
+   "file": "hioki/spot-3.jpg",
+   "width": 500,
+   "height": 1191,
+   "ratio": 0.42
+  },
+  {
+   "file": "hitoyoshi-city/spot-1.jpg",
+   "width": 418,
+   "height": 557,
+   "ratio": 0.75
+  },
+  {
+   "file": "hokkaido-asahikawa/spot-2.jpg",
+   "width": 500,
+   "height": 569,
+   "ratio": 0.88
+  },
+  {
+   "file": "hotokegaura/spot-1.jpg",
+   "width": 500,
+   "height": 667,
+   "ratio": 0.75
+  },
+  {
+   "file": "hotokegaura/spot-2.jpg",
+   "width": 500,
+   "height": 667,
+   "ratio": 0.75
+  },
+  {
+   "file": "ichinoseki-geibikei/spot-1.jpg",
+   "width": 500,
+   "height": 750,
+   "ratio": 0.67
+  },
+  {
+   "file": "ikeda-osaka/spot-3.jpg",
+   "width": 336,
+   "height": 407,
+   "ratio": 0.83
+  },
+  {
+   "file": "iki-island/spot-1.jpg",
+   "width": 231,
+   "height": 272,
+   "ratio": 0.85
+  },
+  {
+   "file": "ikitsukijima/spot-2.jpg",
+   "width": 500,
+   "height": 751,
+   "ratio": 0.67
+  },
+  {
+   "file": "ikuchijima/spot-2.jpg",
+   "width": 500,
+   "height": 889,
+   "ratio": 0.56
+  },
+  {
+   "file": "innoshima/spot-2.jpg",
+   "width": 500,
+   "height": 574,
+   "ratio": 0.87
+  },
+  {
+   "file": "inujima/spot-2.jpg",
+   "width": 1280,
+   "height": 1920,
+   "ratio": 0.67
+  },
+  {
+   "file": "iriomote/spot-3.jpg",
+   "width": 426,
+   "height": 640,
+   "ratio": 0.67
+  },
+  {
+   "file": "itoshima/spot-2.jpg",
+   "width": 500,
+   "height": 820,
+   "ratio": 0.61
+  },
+  {
+   "file": "izumiotsu/spot-1.jpg",
+   "width": 1280,
+   "height": 1933,
+   "ratio": 0.66
+  },
+  {
+   "file": "jogashima/spot-3.jpg",
+   "width": 1280,
+   "height": 1707,
+   "ratio": 0.75
+  },
+  {
+   "file": "kamogawa/spot-3.jpg",
+   "width": 500,
+   "height": 709,
+   "ratio": 0.71
+  },
+  {
+   "file": "kawaji-onsen/spot-1.jpg",
+   "width": 500,
+   "height": 667,
+   "ratio": 0.75
+  },
+  {
+   "file": "kibune-kurama/main.jpg",
+   "width": 1280,
+   "height": 1918,
+   "ratio": 0.67
+  },
+  {
+   "file": "kikai-island/spot-3.jpg",
+   "width": 1280,
+   "height": 1707,
+   "ratio": 0.75
+  },
+  {
+   "file": "kinkasan/spot-2.jpg",
+   "width": 500,
+   "height": 562,
+   "ratio": 0.89
+  },
+  {
+   "file": "koka/spot-2.jpg",
+   "width": 500,
+   "height": 667,
+   "ratio": 0.75
+  },
+  {
+   "file": "koriyama/spot-2.jpg",
+   "width": 500,
+   "height": 687,
+   "ratio": 0.73
+  },
+  {
+   "file": "koshikijima/spot-1.jpg",
+   "width": 336,
+   "height": 477,
+   "ratio": 0.7
+  },
+  {
+   "file": "koshikijima/spot-3.jpg",
+   "width": 500,
+   "height": 691,
+   "ratio": 0.72
+  },
+  {
+   "file": "kujukuri/spot-3.jpg",
+   "width": 500,
+   "height": 567,
+   "ratio": 0.88
+  },
+  {
+   "file": "kumano/spot-2.jpg",
+   "width": 1280,
+   "height": 1920,
+   "ratio": 0.67
+  },
+  {
+   "file": "kure/spot-3.jpg",
+   "width": 500,
+   "height": 926,
+   "ratio": 0.54
+  },
+  {
+   "file": "kurobe/spot-3.jpg",
+   "width": 1280,
+   "height": 2276,
+   "ratio": 0.56
+  },
+  {
+   "file": "kurume/spot-2.jpg",
+   "width": 500,
+   "height": 793,
+   "ratio": 0.63
+  },
+  {
+   "file": "maizuru/spot-2.jpg",
+   "width": 500,
+   "height": 667,
+   "ratio": 0.75
+  },
+  {
+   "file": "manabeshima/spot-2.jpg",
+   "width": 276,
+   "height": 368,
+   "ratio": 0.75
+  },
+  {
+   "file": "mihara/spot-3.jpg",
+   "width": 500,
+   "height": 667,
+   "ratio": 0.75
+  },
+  {
+   "file": "mikurajima/spot-2.jpg",
+   "width": 500,
+   "height": 626,
+   "ratio": 0.8
+  },
+  {
+   "file": "minami-sanriku/spot-2.jpg",
+   "width": 500,
+   "height": 753,
+   "ratio": 0.66
+  },
+  {
+   "file": "minamikyushu/spot-1.jpg",
+   "width": 500,
+   "height": 575,
+   "ratio": 0.87
+  },
+  {
+   "file": "mitsuke-jima/spot-2.jpg",
+   "width": 500,
+   "height": 693,
+   "ratio": 0.72
+  },
+  {
+   "file": "miyakejima/spot-1.jpg",
+   "width": 1280,
+   "height": 1707,
+   "ratio": 0.75
+  },
+  {
+   "file": "miyama/spot-2.jpg",
+   "width": 500,
+   "height": 635,
+   "ratio": 0.79
+  },
+  {
+   "file": "motobu/spot-2.jpg",
+   "width": 1280,
+   "height": 1924,
+   "ratio": 0.67
+  },
+  {
+   "file": "mt-fuji-fifth/spot-3.jpg",
+   "width": 1280,
+   "height": 1918,
+   "ratio": 0.67
+  },
+  {
+   "file": "nagatoro/spot-3.jpg",
+   "width": 418,
+   "height": 557,
+   "ratio": 0.75
+  },
+  {
+   "file": "nakasu/spot-2.jpg",
+   "width": 1280,
+   "height": 1920,
+   "ratio": 0.67
+  },
+  {
+   "file": "nanjo-okinawa/spot-1.jpg",
+   "width": 500,
+   "height": 667,
+   "ratio": 0.75
+  },
+  {
+   "file": "narai-juku/spot-2.jpg",
+   "width": 500,
+   "height": 692,
+   "ratio": 0.72
+  },
+  {
+   "file": "naruko-onsen/spot-2.jpg",
+   "width": 500,
+   "height": 1058,
+   "ratio": 0.47
+  },
+  {
+   "file": "niche_石川_4/spot-1.jpg",
+   "width": 1110,
+   "height": 1474,
+   "ratio": 0.75
+  },
+  {
+   "file": "niche_神奈川_4/spot-2.jpg",
+   "width": 1280,
+   "height": 427,
+   "ratio": 3
+  },
+  {
+   "file": "nobeoka/spot-2.jpg",
+   "width": 500,
+   "height": 566,
+   "ratio": 0.88
+  },
+  {
+   "file": "nokogiriyama/main.jpg",
+   "width": 1280,
+   "height": 1707,
+   "ratio": 0.75
+  },
+  {
+   "file": "obi/spot-3.jpg",
+   "width": 366,
+   "height": 534,
+   "ratio": 0.69
+  },
+  {
+   "file": "oirase/spot-2.jpg",
+   "width": 1280,
+   "height": 1707,
+   "ratio": 0.75
+  },
+  {
+   "file": "okazaki/spot-3.jpg",
+   "width": 1280,
+   "height": 1707,
+   "ratio": 0.75
+  },
+  {
+   "file": "okinawa-chinen/spot-2.jpg",
+   "width": 1280,
+   "height": 1707,
+   "ratio": 0.75
+  },
+  {
+   "file": "okishima/spot-3.jpg",
+   "width": 483,
+   "height": 587,
+   "ratio": 0.82
+  },
+  {
+   "file": "ono-fukui/spot-2.jpg",
+   "width": 500,
+   "height": 667,
+   "ratio": 0.75
+  },
+  {
+   "file": "otoyo/spot-1.jpg",
+   "width": 476,
+   "height": 658,
+   "ratio": 0.72
+  },
+  {
+   "file": "ouchi-juku/spot-3.jpg",
+   "width": 1280,
+   "height": 1714,
+   "ratio": 0.75
+  },
+  {
+   "file": "rausu/spot-3.jpg",
+   "width": 500,
+   "height": 626,
+   "ratio": 0.8
+  },
+  {
+   "file": "sado-island/spot-2.jpg",
+   "width": 500,
+   "height": 705,
+   "ratio": 0.71
+  },
+  {
+   "file": "sakata/spot-3.jpg",
+   "width": 1280,
+   "height": 1707,
+   "ratio": 0.75
+  },
+  {
+   "file": "sanagijima/spot-2.jpg",
+   "width": 500,
+   "height": 750,
+   "ratio": 0.67
+  },
+  {
+   "file": "sefa-utaki/main.jpg",
+   "width": 1280,
+   "height": 1707,
+   "ratio": 0.75
+  },
+  {
+   "file": "sefa-utaki/spot-1.jpg",
+   "width": 500,
+   "height": 667,
+   "ratio": 0.75
+  },
+  {
+   "file": "sefa-utaki/spot-2.jpg",
+   "width": 1280,
+   "height": 1923,
+   "ratio": 0.67
+  },
+  {
+   "file": "sendai-2/spot-2.jpg",
+   "width": 1280,
+   "height": 2061,
+   "ratio": 0.62
+  },
+  {
+   "file": "sensui-jima/spot-2.jpg",
+   "width": 1280,
+   "height": 461,
+   "ratio": 2.78
+  },
+  {
+   "file": "shigaraki/spot-1.jpg",
+   "width": 500,
+   "height": 587,
+   "ratio": 0.85
+  },
+  {
+   "file": "shimonada/spot-2.jpg",
+   "width": 1920,
+   "height": 640,
+   "ratio": 3
+  },
+  {
+   "file": "shirakami-sanchi/spot-2.jpg",
+   "width": 1280,
+   "height": 1707,
+   "ratio": 0.75
+  },
+  {
+   "file": "shirakawa/spot-3.jpg",
+   "width": 1280,
+   "height": 1711,
+   "ratio": 0.75
+  },
+  {
+   "file": "shirakawago-t/spot-2.jpg",
+   "width": 1920,
+   "height": 625,
+   "ratio": 3.07
+  },
+  {
+   "file": "shodoshima-canyon/spot-1.jpg",
+   "width": 1280,
+   "height": 1920,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/akita-nyuto/0.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/akita-nyuto/1.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/akita-oga/1.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/akita-oga-peninsula/1.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/akita-oga-peninsula/2.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/akita-yokote/0.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/akita-yokote/2.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/ako/1.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/beppu/5.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/chikugogawa/0.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/chinatown/0.jpg",
+   "width": 1024,
+   "height": 1280,
+   "ratio": 0.8
+  },
+  {
+   "file": "spots/echizen-cliff/1.jpg",
+   "width": 960,
+   "height": 1280,
+   "ratio": 0.75
+  },
+  {
+   "file": "spots/fukiya/0.jpg",
+   "width": 971,
+   "height": 1280,
+   "ratio": 0.76
+  },
+  {
+   "file": "spots/fukushima/1.jpg",
+   "width": 852,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/fukushima-aizu-2/0.jpg",
+   "width": 1043,
+   "height": 1280,
+   "ratio": 0.81
+  },
+  {
+   "file": "spots/fukushima-iwaki/2.jpg",
+   "width": 854,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/gassan/2.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/gen_北海_あさひかわ北彩都ガーデン/2.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/gen_北海_かみゆうべつ温泉/1.jpg",
+   "width": 851,
+   "height": 1280,
+   "ratio": 0.66
+  },
+  {
+   "file": "spots/gen_北海_オソウシ温泉/1.jpg",
+   "width": 960,
+   "height": 1280,
+   "ratio": 0.75
+  },
+  {
+   "file": "spots/gen_北海_オホーツクオムイ温泉/1.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/gen_北海_トラピスト修道院/1.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/gen_北海_ピンネシリ温泉/2.jpg",
+   "width": 960,
+   "height": 1280,
+   "ratio": 0.75
+  },
+  {
+   "file": "spots/gen_北海_中札内美術村/2.jpg",
+   "width": 1058,
+   "height": 1280,
+   "ratio": 0.83
+  },
+  {
+   "file": "spots/gen_北海_北海道神宮/1.jpg",
+   "width": 850,
+   "height": 1280,
+   "ratio": 0.66
+  },
+  {
+   "file": "spots/gen_北海_北海道神宮/2.jpg",
+   "width": 960,
+   "height": 1280,
+   "ratio": 0.75
+  },
+  {
+   "file": "spots/gen_北海_十勝川温泉/3.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/gen_北海_塩別温泉/1.jpg",
+   "width": 900,
+   "height": 1280,
+   "ratio": 0.7
+  },
+  {
+   "file": "spots/gen_北海_大雪展望台/1.jpg",
+   "width": 720,
+   "height": 1280,
+   "ratio": 0.56
+  },
+  {
+   "file": "spots/gen_北海_天人峡温泉/2.jpg",
+   "width": 591,
+   "height": 1280,
+   "ratio": 0.46
+  },
+  {
+   "file": "spots/gen_北海_天塩温泉/2.jpg",
+   "width": 960,
+   "height": 1280,
+   "ratio": 0.75
+  },
+  {
+   "file": "spots/gen_北海_山彦の滝/1.jpg",
+   "width": 914,
+   "height": 1280,
+   "ratio": 0.71
+  },
+  {
+   "file": "spots/gen_北海_岩尾別温泉/1.jpg",
+   "width": 960,
+   "height": 1280,
+   "ratio": 0.75
+  },
+  {
+   "file": "spots/gen_北海_岩尾別温泉/2.jpg",
+   "width": 960,
+   "height": 1280,
+   "ratio": 0.75
+  },
+  {
+   "file": "spots/gen_北海_岩尾温泉/2.jpg",
+   "width": 960,
+   "height": 1280,
+   "ratio": 0.75
+  },
+  {
+   "file": "spots/gen_北海_朝里川温泉/2.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/gen_北海_札幌八幡宮/1.jpg",
+   "width": 960,
+   "height": 1280,
+   "ratio": 0.75
+  },
+  {
+   "file": "spots/gen_北海_枝幸温泉/2.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/gen_北海_水無海浜温泉/1.jpg",
+   "width": 960,
+   "height": 1280,
+   "ratio": 0.75
+  },
+  {
+   "file": "spots/gen_北海_浜頓別温泉/1.jpg",
+   "width": 960,
+   "height": 1280,
+   "ratio": 0.75
+  },
+  {
+   "file": "spots/gen_北海_温根湯温泉/1.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/gen_北海_然別湖畔温泉/1.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/gen_北海_盃温泉/2.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/gen_北海_秩父別温泉/2.jpg",
+   "width": 1280,
+   "height": 486,
+   "ratio": 2.63
+  },
+  {
+   "file": "spots/gen_北海_義経神社/1.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/gen_北海_芦別温泉/1.jpg",
+   "width": 960,
+   "height": 1280,
+   "ratio": 0.75
+  },
+  {
+   "file": "spots/gen_北海_豊富温泉/1.jpg",
+   "width": 914,
+   "height": 1280,
+   "ratio": 0.71
+  },
+  {
+   "file": "spots/gen_北海_長節湖/2.jpg",
+   "width": 960,
+   "height": 1280,
+   "ratio": 0.75
+  },
+  {
+   "file": "spots/gen_北海_黒松内温泉/1.jpg",
+   "width": 861,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/gen_栃木_日光東照宮/2.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/gen_栃木_殺生石/1.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/gen_栃木_湯西川温泉/3.jpg",
+   "width": 1033,
+   "height": 1280,
+   "ratio": 0.81
+  },
+  {
+   "file": "spots/gen_群馬_敷島温泉/0.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/gen_群馬_敷島温泉/2.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/gen_群馬_法師温泉/1.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/gen_群馬_片品温泉/1.jpg",
+   "width": 960,
+   "height": 1280,
+   "ratio": 0.75
+  },
+  {
+   "file": "spots/gen_茨城_大杉神社/1.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/gen_青森_城ヶ倉温泉/3.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/gen_青森_相乗温泉/3.jpg",
+   "width": 854,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/gen_青森_稲垣温泉/0.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/hakone-2/0.jpg",
+   "width": 898,
+   "height": 1280,
+   "ratio": 0.7
+  },
+  {
+   "file": "spots/hakushu/1.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/hakuto-tottori/1.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/hakuto-tottori/2.jpg",
+   "width": 896,
+   "height": 1280,
+   "ratio": 0.7
+  },
+  {
+   "file": "spots/hamada-shimane/2.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/hanamaki-onsen/1.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/himeshima/2.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/hioki/1.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/hiruzen/1.jpg",
+   "width": 989,
+   "height": 1280,
+   "ratio": 0.77
+  },
+  {
+   "file": "spots/hitoyoshi-onsen/2.jpg",
+   "width": 1133,
+   "height": 1280,
+   "ratio": 0.89
+  },
+  {
+   "file": "spots/hizen-yumesaiken/0.jpg",
+   "width": 854,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/hizen-yumesaiken/2.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/horyuji/1.jpg",
+   "width": 847,
+   "height": 1280,
+   "ratio": 0.66
+  },
+  {
+   "file": "spots/ise-okage/2.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/iwaki-spa/2.jpg",
+   "width": 854,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/iwami-kagura/1.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/jusanko/0.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/kakunodate/2.jpg",
+   "width": 852,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/kamogawa/1.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/katano/1.jpg",
+   "width": 960,
+   "height": 1280,
+   "ratio": 0.75
+  },
+  {
+   "file": "spots/kibune-kurama/1.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/kikuchi/2.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/kofu/0.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/kouzushima/1.jpg",
+   "width": 743,
+   "height": 1280,
+   "ratio": 0.58
+  },
+  {
+   "file": "spots/kumamoto-suizenji/1.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/kurashiki-o/2.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/maebashi/0.jpg",
+   "width": 960,
+   "height": 1280,
+   "ratio": 0.75
+  },
+  {
+   "file": "spots/maebashi/2.jpg",
+   "width": 960,
+   "height": 1280,
+   "ratio": 0.75
+  },
+  {
+   "file": "spots/meoto-iwa/1.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/mifuneyama/1.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/mikuni-minato/2.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/mimasaka/2.jpg",
+   "width": 960,
+   "height": 1280,
+   "ratio": 0.75
+  },
+  {
+   "file": "spots/minamiosumi/1.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/mino-washi/2.jpg",
+   "width": 859,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/miyagi-matsushima-2/0.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/miyagi-rifu/0.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/miyazaki/1.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/mogami-funa/0.jpg",
+   "width": 1024,
+   "height": 206,
+   "ratio": 4.97
+  },
+  {
+   "file": "spots/mogami-funakudari/2.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/moroyama-2/2.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/moroyama-saito/0.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/motonosumi/0.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/mt-fuji-fifth/2.jpg",
+   "width": 961,
+   "height": 1280,
+   "ratio": 0.75
+  },
+  {
+   "file": "spots/nagoya-castle/1.jpg",
+   "width": 844,
+   "height": 1280,
+   "ratio": 0.66
+  },
+  {
+   "file": "spots/narita/1.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/niche_兵庫_1/0.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/niche_兵庫_1/1.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/niche_兵庫_2/1.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/niche_千葉_6/1.jpg",
+   "width": 1024,
+   "height": 1280,
+   "ratio": 0.8
+  },
+  {
+   "file": "spots/niche_大分_3/0.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/niche_大分_4/1.jpg",
+   "width": 904,
+   "height": 1280,
+   "ratio": 0.71
+  },
+  {
+   "file": "spots/niche_大阪_3/0.jpg",
+   "width": 960,
+   "height": 1280,
+   "ratio": 0.75
+  },
+  {
+   "file": "spots/niche_奈良_1/1.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/niche_奈良_2/0.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/niche_奈良_3/0.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/niche_宮城_1/1.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/niche_宮城_3/1.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/niche_宮崎_1/1.jpg",
+   "width": 855,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/niche_宮崎_7/1.jpg",
+   "width": 904,
+   "height": 1280,
+   "ratio": 0.71
+  },
+  {
+   "file": "spots/niche_山口_2/0.jpg",
+   "width": 898,
+   "height": 1280,
+   "ratio": 0.7
+  },
+  {
+   "file": "spots/niche_山口_5/1.jpg",
+   "width": 904,
+   "height": 1280,
+   "ratio": 0.71
+  },
+  {
+   "file": "spots/niche_山形_1/1.jpg",
+   "width": 893,
+   "height": 1280,
+   "ratio": 0.7
+  },
+  {
+   "file": "spots/niche_山梨_3/0.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/niche_岩手_3/0.jpg",
+   "width": 898,
+   "height": 1280,
+   "ratio": 0.7
+  },
+  {
+   "file": "spots/niche_島根_4/1.jpg",
+   "width": 904,
+   "height": 1280,
+   "ratio": 0.71
+  },
+  {
+   "file": "spots/niche_島根_5/1.jpg",
+   "width": 904,
+   "height": 1280,
+   "ratio": 0.71
+  },
+  {
+   "file": "spots/niche_広島_2/1.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/niche_広島_3/0.jpg",
+   "width": 773,
+   "height": 1280,
+   "ratio": 0.6
+  },
+  {
+   "file": "spots/niche_徳島_2/1.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/niche_愛媛_4/0.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/niche_愛知_4/1.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/niche_東京_3/2.jpg",
+   "width": 960,
+   "height": 1280,
+   "ratio": 0.75
+  },
+  {
+   "file": "spots/niche_東京_4/1.jpg",
+   "width": 1024,
+   "height": 1280,
+   "ratio": 0.8
+  },
+  {
+   "file": "spots/niche_東京_4/2.jpg",
+   "width": 960,
+   "height": 1280,
+   "ratio": 0.75
+  },
+  {
+   "file": "spots/niche_栃木_2/2.jpg",
+   "width": 960,
+   "height": 1280,
+   "ratio": 0.75
+  },
+  {
+   "file": "spots/niche_滋賀_3/0.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/niche_石川_6/0.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/niche_福井_3/1.jpg",
+   "width": 854,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/niche_福岡_3/0.jpg",
+   "width": 848,
+   "height": 1280,
+   "ratio": 0.66
+  },
+  {
+   "file": "spots/niche_福岡_6/0.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/niche_福岡_7/0.jpg",
+   "width": 832,
+   "height": 1280,
+   "ratio": 0.65
+  },
+  {
+   "file": "spots/niche_福島_1/0.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/niche_福島_4/0.jpg",
+   "width": 854,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/niche_秋田_3/1.jpg",
+   "width": 1024,
+   "height": 1280,
+   "ratio": 0.8
+  },
+  {
+   "file": "spots/niche_秋田_5/1.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/niche_秋田_7/0.jpg",
+   "width": 908,
+   "height": 1280,
+   "ratio": 0.71
+  },
+  {
+   "file": "spots/niche_群馬_1/1.jpg",
+   "width": 854,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/niche_群馬_4/0.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/niche_長崎_5/0.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/niche_長野_3/0.jpg",
+   "width": 904,
+   "height": 1280,
+   "ratio": 0.71
+  },
+  {
+   "file": "spots/niche_青森_4/1.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/niche_静岡_2/0.jpg",
+   "width": 851,
+   "height": 1280,
+   "ratio": 0.66
+  },
+  {
+   "file": "spots/niche_静岡_2/1.jpg",
+   "width": 904,
+   "height": 1280,
+   "ratio": 0.71
+  },
+  {
+   "file": "spots/niche_静岡_6/0.jpg",
+   "width": 898,
+   "height": 1280,
+   "ratio": 0.7
+  },
+  {
+   "file": "spots/niche_香川_4/1.jpg",
+   "width": 900,
+   "height": 1280,
+   "ratio": 0.7
+  },
+  {
+   "file": "spots/niche_高知_2/0.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/niche_鳥取_5/1.jpg",
+   "width": 894,
+   "height": 1280,
+   "ratio": 0.7
+  },
+  {
+   "file": "spots/niche_鹿児島_1/0.jpg",
+   "width": 720,
+   "height": 1280,
+   "ratio": 0.56
+  },
+  {
+   "file": "spots/niche_鹿児島_5/1.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/nichinan-coast/0.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/nichinan-coast/2.jpg",
+   "width": 848,
+   "height": 1280,
+   "ratio": 0.66
+  },
+  {
+   "file": "spots/nichinan-onsen/0.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/niigata-bandai/0.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/niigata-bandai/2.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/niigata-city/1.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/niigata-sado-3/1.jpg",
+   "width": 960,
+   "height": 1280,
+   "ratio": 0.75
+  },
+  {
+   "file": "spots/niigata-spa/0.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/niijima/0.jpg",
+   "width": 743,
+   "height": 1280,
+   "ratio": 0.58
+  },
+  {
+   "file": "spots/nozawa-onsen-niigata/1.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/oga/2.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/ojika-island/2.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/okinawa-naha/1.jpg",
+   "width": 794,
+   "height": 1280,
+   "ratio": 0.62
+  },
+  {
+   "file": "spots/omihachiman/2.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/osaka-bay/2.jpg",
+   "width": 1024,
+   "height": 391,
+   "ratio": 2.62
+  },
+  {
+   "file": "spots/otaru/2.jpg",
+   "width": 960,
+   "height": 1280,
+   "ratio": 0.75
+  },
+  {
+   "file": "spots/rebun-no-tour/0.jpg",
+   "width": 960,
+   "height": 1280,
+   "ratio": 0.75
+  },
+  {
+   "file": "spots/rebun-no-tour/2.jpg",
+   "width": 960,
+   "height": 1280,
+   "ratio": 0.75
+  },
+  {
+   "file": "spots/saga-onsen-furuyu/0.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/saga-onsen-furuyu/1.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/sakura-city/0.jpg",
+   "width": 855,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/sakurajima-onsen/0.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/sanagijima/0.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/shimabara/2.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/shimokitazawa-nyuto/0.jpg",
+   "width": 960,
+   "height": 1280,
+   "ratio": 0.75
+  },
+  {
+   "file": "spots/shinshiro-nagasinotown/1.jpg",
+   "width": 986,
+   "height": 1280,
+   "ratio": 0.77
+  },
+  {
+   "file": "spots/shionoe/2.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/shitara/2.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/shuri-castle/0.jpg",
+   "width": 794,
+   "height": 1280,
+   "ratio": 0.62
+  },
+  {
+   "file": "spots/shuri-castle/1.jpg",
+   "width": 852,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/soya-misaki/0.jpg",
+   "width": 1024,
+   "height": 235,
+   "ratio": 4.36
+  },
+  {
+   "file": "spots/takada-jo/2.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/tanabe/2.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/tateyama-chiba/1.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/toba-pearl/2.jpg",
+   "width": 852,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/tokushima-city/2.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/toshima/1.jpg",
+   "width": 743,
+   "height": 1280,
+   "ratio": 0.58
+  },
+  {
+   "file": "spots/tottori-castle/1.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/tottori-mt-mitoku/2.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/tsunan/1.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/umi-jigoku/2.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/yamadera-2/2.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/yamaguchi/0.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/yamaguchi/2.jpg",
+   "width": 851,
+   "height": 1280,
+   "ratio": 0.66
+  },
+  {
+   "file": "spots/yamaguchi-city/0.jpg",
+   "width": 847,
+   "height": 1280,
+   "ratio": 0.66
+  },
+  {
+   "file": "spots/yamaguchi-city/1.jpg",
+   "width": 954,
+   "height": 1280,
+   "ratio": 0.75
+  },
+  {
+   "file": "spots/yonaguni-island/1.jpg",
+   "width": 872,
+   "height": 1280,
+   "ratio": 0.68
+  },
+  {
+   "file": "spots/yunogo/0.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/yusuhara/2.jpg",
+   "width": 1280,
+   "height": 486,
+   "ratio": 2.63
+  },
+  {
+   "file": "spots/yutoku-inari/1.jpg",
+   "width": 853,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "spots/zao-snow-monsters/2.jpg",
+   "width": 898,
+   "height": 1280,
+   "ratio": 0.7
+  },
+  {
+   "file": "spots/zuiganji/2.jpg",
+   "width": 854,
+   "height": 1280,
+   "ratio": 0.67
+  },
+  {
+   "file": "sukumo/spot-2.jpg",
+   "width": 500,
+   "height": 688,
+   "ratio": 0.73
+  },
+  {
+   "file": "suo-sanbe/spot-3.jpg",
+   "width": 1280,
+   "height": 1707,
+   "ratio": 0.75
+  },
+  {
+   "file": "takayama-o/spot-1.jpg",
+   "width": 1280,
+   "height": 1707,
+   "ratio": 0.75
+  },
+  {
+   "file": "tarama-island/spot-1.jpg",
+   "width": 499,
+   "height": 841,
+   "ratio": 0.59
+  },
+  {
+   "file": "tenryu-gorge/spot-2.jpg",
+   "width": 500,
+   "height": 667,
+   "ratio": 0.75
+  },
+  {
+   "file": "teshima/spot-2.jpg",
+   "width": 1280,
+   "height": 1920,
+   "ratio": 0.67
+  },
+  {
+   "file": "tobe/spot-1.jpg",
+   "width": 500,
+   "height": 667,
+   "ratio": 0.75
+  },
+  {
+   "file": "tobishima-island/spot-3.jpg",
+   "width": 500,
+   "height": 689,
+   "ratio": 0.73
+  },
+  {
+   "file": "togakushi/spot-1.jpg",
+   "width": 1280,
+   "height": 1920,
+   "ratio": 0.67
+  },
+  {
+   "file": "tomamu/spot-2.jpg",
+   "width": 1280,
+   "height": 1920,
+   "ratio": 0.67
+  },
+  {
+   "file": "tondabayashi/spot-3.jpg",
+   "width": 500,
+   "height": 667,
+   "ratio": 0.75
+  },
+  {
+   "file": "toshima/spot-1.jpg",
+   "width": 500,
+   "height": 667,
+   "ratio": 0.75
+  },
+  {
+   "file": "toushijima/spot-2.jpg",
+   "width": 500,
+   "height": 787,
+   "ratio": 0.64
+  },
+  {
+   "file": "tsushima/spot-3.jpg",
+   "width": 500,
+   "height": 750,
+   "ratio": 0.67
+  },
+  {
+   "file": "wakasa-obama/spot-3.jpg",
+   "width": 1280,
+   "height": 427,
+   "ratio": 3
+  },
+  {
+   "file": "wakura-onsen/spot-3.jpg",
+   "width": 500,
+   "height": 667,
+   "ratio": 0.75
+  },
+  {
+   "file": "yubu-island/spot-3.jpg",
+   "width": 1280,
+   "height": 1707,
+   "ratio": 0.75
+  },
+  {
+   "file": "yugawara-onsen/spot-3.jpg",
+   "width": 500,
+   "height": 755,
+   "ratio": 0.66
+  },
+  {
+   "file": "yunogo/spot-1.jpg",
+   "width": 1280,
+   "height": 1920,
+   "ratio": 0.67
+  },
+  {
+   "file": "zamami-island/spot-3.jpg",
+   "width": 500,
+   "height": 626,
+   "ratio": 0.8
+  }
+ ],
+ "letterbox": [
+  {
+   "file": "kujukuri/spot-3.jpg",
+   "width": 500,
+   "height": 567
+  },
+  {
+   "file": "narai-juku/spot-3.jpg",
+   "width": 1600,
+   "height": 740
+  },
+  {
+   "file": "sakata/spot-3.jpg",
+   "width": 1280,
+   "height": 1707
+  },
+  {
+   "file": "spots/gen_北海_余市蒸溜所/2.jpg",
+   "width": 1280,
+   "height": 854
+  },
+  {
+   "file": "spots/gen_北海_鹿の湯/2.jpg",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "file": "spots/kitadaitojima/2.jpg",
+   "width": 1280,
+   "height": 854
+  },
+  {
+   "file": "spots/mihama-fukui/0.jpg",
+   "width": 1280,
+   "height": 853
+  },
+  {
+   "file": "spots/nagano-zenkoji/2.jpg",
+   "width": 1280,
+   "height": 959
+  },
+  {
+   "file": "spots/nago/2.jpg",
+   "width": 1280,
+   "height": 854
+  },
+  {
+   "file": "spots/niche_徳島_4/1.jpg",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "file": "spots/niche_沖縄_1/0.jpg",
+   "width": 1280,
+   "height": 854
+  },
+  {
+   "file": "spots/niche_神奈川_6/1.jpg",
+   "width": 1280,
+   "height": 704
+  },
+  {
+   "file": "spots/niche_福井_2/1.jpg",
+   "width": 1280,
+   "height": 719
+  },
+  {
+   "file": "spots/niigata-bandai/1.jpg",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "file": "spots/ogijima/2.jpg",
+   "width": 1280,
+   "height": 853
+  },
+  {
+   "file": "spots/oita/3.jpg",
+   "width": 1024,
+   "height": 900
+  },
+  {
+   "file": "spots/owakudani/2.jpg",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "file": "spots/takasakiyama/1.jpg",
+   "width": 1024,
+   "height": 900
+  },
+  {
+   "file": "spots/umineko/0.jpg",
+   "width": 1024,
+   "height": 900
+  },
+  {
+   "file": "spots/yunogo/2.jpg",
+   "width": 1280,
+   "height": 853
+  },
+  {
+   "file": "tomari-okinawa/spot-2.jpg",
+   "width": 500,
+   "height": 334
+  }
+ ],
+ "errors": []
+}

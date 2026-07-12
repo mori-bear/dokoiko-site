@@ -1,0 +1,1479 @@
+{
+ "https://travel.rakuten.co.jp/yado/nagano/": {
+  "status": 200,
+  "count": 31,
+  "sampleIds": [
+   "karuizawa",
+   "obuse",
+   "tsumago"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/shizuoka/atami.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "atami"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/yamanashi/": {
+  "status": 200,
+  "count": 21,
+  "sampleIds": [
+   "fujikawaguchiko",
+   "shosenkyo",
+   "isawa-onsen"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/kanagawa/": {
+  "status": 200,
+  "count": 20,
+  "sampleIds": [
+   "kamakura",
+   "enoshima",
+   "yugawara-onsen"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/tochigi/nikko.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "nikko"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/okinawa/": {
+  "status": 200,
+  "count": 47,
+  "sampleIds": [
+   "ishigaki",
+   "tokashiki-jima",
+   "kumejima"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/nara/nara.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "nara"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/oita/beppu.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "beppu"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/mie/ise.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "ise"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/hokkaido/otaru.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "otaru"
+  ]
+ },
+ "https://www.jalan.net/290000/": {
+  "status": 200,
+  "count": 25,
+  "sampleIds": [
+   "nara",
+   "yoshino",
+   "kashihara"
+  ]
+ },
+ "https://www.jalan.net/ikisaki/map/yamanashi/": {
+  "status": 200,
+  "count": 22,
+  "sampleIds": [
+   "fujikawaguchiko",
+   "kiyosato",
+   "shosenkyo"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/hokkaido/furano.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "furano"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/miyagi/matsushima.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "matsushima"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/hiroshima/": {
+  "status": 200,
+  "count": 20,
+  "sampleIds": [
+   "miyajima",
+   "onomichi",
+   "takehara"
+  ]
+ },
+ "https://www.jalan.net/090000/": {
+  "status": 200,
+  "count": 27,
+  "sampleIds": [
+   "nikko",
+   "mashiko",
+   "nasu"
+  ]
+ },
+ "https://www.jalan.net/ikisaki/map/nagano/": {
+  "status": 200,
+  "count": 38,
+  "sampleIds": [
+   "karuizawa",
+   "hakuba",
+   "kiso"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/kagawa/": {
+  "status": 200,
+  "count": 20,
+  "sampleIds": [
+   "shodoshima",
+   "naoshima",
+   "marugame"
+  ]
+ },
+ "https://www.jalan.net/240000/": {
+  "status": 200,
+  "count": 22,
+  "sampleIds": [
+   "ise",
+   "toba",
+   "kumano"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/shimane/": {
+  "status": 200,
+  "count": 22,
+  "sampleIds": [
+   "mihonoseki",
+   "tsuwano",
+   "oku-izumo"
+  ]
+ },
+ "https://www.jalan.net/220000/": {
+  "status": 200,
+  "count": 23,
+  "sampleIds": [
+   "atami",
+   "shuzenji",
+   "shimoda"
+  ]
+ },
+ "https://www.jalan.net/440000/": {
+  "status": 200,
+  "count": 20,
+  "sampleIds": [
+   "beppu",
+   "yufuin",
+   "bungo-takada"
+  ]
+ },
+ "https://www.jalan.net/140000/": {
+  "status": 200,
+  "count": 22,
+  "sampleIds": [
+   "kamakura",
+   "hakone",
+   "enoshima"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/wakayama/": {
+  "status": 200,
+  "count": 19,
+  "sampleIds": [
+   "ryujin-onsen",
+   "koyasan",
+   "tanabe"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/tokyo/": {
+  "status": 200,
+  "count": 24,
+  "sampleIds": [
+   "kouzushima",
+   "izu-oshima",
+   "takao"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/kanagawa/hakone.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "hakone"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/gunma/kusatsu.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "kusatsu-onsen"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/shizuoka/": {
+  "status": 200,
+  "count": 20,
+  "sampleIds": [
+   "shuzenji",
+   "izu-kogen",
+   "minami-izu"
+  ]
+ },
+ "https://www.jalan.net/470000/": {
+  "status": 200,
+  "count": 47,
+  "sampleIds": [
+   "ishigaki",
+   "tokashiki-jima",
+   "kumejima"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/shizuoka/shimoda.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "shimoda"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/gifu/shirakawago.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "shirakawago-t"
+  ]
+ },
+ "https://www.jalan.net/340000/": {
+  "status": 200,
+  "count": 20,
+  "sampleIds": [
+   "miyajima",
+   "onomichi",
+   "takehara"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/hyogo/": {
+  "status": 200,
+  "count": 19,
+  "sampleIds": [
+   "arima-onsen",
+   "kinosaki-onsen",
+   "awaji"
+  ]
+ },
+ "https://www.jalan.net/370000/": {
+  "status": 200,
+  "count": 22,
+  "sampleIds": [
+   "shodoshima",
+   "naoshima",
+   "kotohira"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/okayama/kurashiki.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "kurashiki-o"
+  ]
+ },
+ "https://www.jalan.net/040000/": {
+  "status": 200,
+  "count": 19,
+  "sampleIds": [
+   "matsushima",
+   "zaosan",
+   "naruko-onsen"
+  ]
+ },
+ "https://www.jalan.net/320000/": {
+  "status": 200,
+  "count": 22,
+  "sampleIds": [
+   "mihonoseki",
+   "tsuwano",
+   "oku-izumo"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/gifu/takayama.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "takayama-o"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/wakayama/shirahama.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "shirahama-o"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/mie/toba.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "toba"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/oita/yufuin.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "yufuin"
+  ]
+ },
+ "https://www.jalan.net/300000/": {
+  "status": 200,
+  "count": 20,
+  "sampleIds": [
+   "ryujin-onsen",
+   "shirahama-o",
+   "koyasan"
+  ]
+ },
+ "https://www.jalan.net/010000/": {
+  "status": 200,
+  "count": 149,
+  "sampleIds": [
+   "otaru",
+   "furano",
+   "toyako"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/kumamoto/aso.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "aso"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/kagoshima/": {
+  "status": 200,
+  "count": 29,
+  "sampleIds": [
+   "yakushima",
+   "ibusuki",
+   "amami"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/kumamoto/kurokawa.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "kurokawa-k"
+  ]
+ },
+ "https://www.jalan.net/100000/": {
+  "status": 200,
+  "count": 26,
+  "sampleIds": [
+   "kusatsu-onsen",
+   "shima-onsen",
+   "minakami-onsen"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/kumamoto/amakusa.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "amakusa"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/iwate/": {
+  "status": 200,
+  "count": 19,
+  "sampleIds": [
+   "hiraizumi",
+   "miyako-iwate",
+   "tono"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/fukushima/aizu.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "aizu"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/akita/": {
+  "status": 200,
+  "count": 18,
+  "sampleIds": [
+   "kakunodate",
+   "nyuto-onsen",
+   "oga"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/miyagi/": {
+  "status": 200,
+  "count": 18,
+  "sampleIds": [
+   "zaosan",
+   "naruko-onsen",
+   "sakunami-onsen"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/yamaguchi/hagi.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "hagi"
+  ]
+ },
+ "https://www.jalan.net/330000/": {
+  "status": 200,
+  "count": 23,
+  "sampleIds": [
+   "kurashiki-o",
+   "takahashi",
+   "yakake"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/yamaguchi/shimonoseki.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "shimonoseki"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/kagawa/kotohira.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "kotohira"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/ehime/": {
+  "status": 200,
+  "count": 19,
+  "sampleIds": [
+   "uwajima",
+   "uchiko",
+   "imabari"
+  ]
+ },
+ "https://www.jalan.net/430000/": {
+  "status": 200,
+  "count": 19,
+  "sampleIds": [
+   "kurokawa-k",
+   "aso",
+   "amakusa"
+  ]
+ },
+ "https://www.jalan.net/210000/": {
+  "status": 200,
+  "count": 23,
+  "sampleIds": [
+   "shirakawago-t",
+   "takayama-o",
+   "magome"
+  ]
+ },
+ "https://www.jalan.net/280000/": {
+  "status": 200,
+  "count": 19,
+  "sampleIds": [
+   "arima-onsen",
+   "kinosaki-onsen",
+   "awaji"
+  ]
+ },
+ "https://www.jalan.net/050000/": {
+  "status": 200,
+  "count": 20,
+  "sampleIds": [
+   "kakunodate",
+   "akita",
+   "nyuto-onsen"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/hokkaido/": {
+  "status": 200,
+  "count": 138,
+  "sampleIds": [
+   "toyako",
+   "shiretoko",
+   "biei"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/hokkaido/noboribetsu.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "noboribetsu"
+  ]
+ },
+ "https://www.jalan.net/030000/": {
+  "status": 200,
+  "count": 22,
+  "sampleIds": [
+   "hiraizumi",
+   "miyako-iwate",
+   "tono"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/ishikawa/": {
+  "status": 200,
+  "count": 22,
+  "sampleIds": [
+   "wajima",
+   "wakura-onsen",
+   "suzu"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/nagano/hakuba.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "hakuba"
+  ]
+ },
+ "https://www.jalan.net/460000/": {
+  "status": 200,
+  "count": 29,
+  "sampleIds": [
+   "yakushima",
+   "ibusuki",
+   "amami"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/kyoto/": {
+  "status": 200,
+  "count": 24,
+  "sampleIds": [
+   "amanohashidate",
+   "ine",
+   "miyama"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/ishikawa/kaga.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "kaga-onsen"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/nagasaki/sasebo.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "sasebo"
+  ]
+ },
+ "https://www.jalan.net/070000/": {
+  "status": 200,
+  "count": 25,
+  "sampleIds": [
+   "aizu",
+   "ouchi-juku",
+   "urabandai"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/tottori/tottori.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "tottori"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/nagasaki/": {
+  "status": 200,
+  "count": 16,
+  "sampleIds": [
+   "hirado",
+   "goto",
+   "shimabara"
+  ]
+ },
+ "https://www.jalan.net/130000/": {
+  "status": 200,
+  "count": 24,
+  "sampleIds": [
+   "kouzushima",
+   "izu-oshima",
+   "takao"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/akita/akita.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "akita"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/toyama/": {
+  "status": 200,
+  "count": 21,
+  "sampleIds": [
+   "gokayama",
+   "tateyama-kurobe",
+   "himi"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/chiba/tateyama.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "tateyama-chiba"
+  ]
+ },
+ "https://www.jalan.net/350000/": {
+  "status": 200,
+  "count": 24,
+  "sampleIds": [
+   "hagi",
+   "shimonoseki",
+   "yuda-onsen"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/yamagata/": {
+  "status": 200,
+  "count": 23,
+  "sampleIds": [
+   "sakata",
+   "ginzan-onsen",
+   "dewa-sanzan"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/hokkaido/jozankei.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "jozankei"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/miyazaki/": {
+  "status": 200,
+  "count": 21,
+  "sampleIds": [
+   "takachiho",
+   "obi",
+   "nichinan"
+  ]
+ },
+ "https://www.jalan.net/ikisaki/map/ishikawa/": {
+  "status": 200,
+  "count": 23,
+  "sampleIds": [
+   "wajima",
+   "kaga-onsen",
+   "wakura-onsen"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/nagasaki/unzen.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "unzen"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/kochi/": {
+  "status": 200,
+  "count": 24,
+  "sampleIds": [
+   "ashizuri",
+   "muroto",
+   "tosa-shimizu"
+  ]
+ },
+ "https://www.jalan.net/380000/": {
+  "status": 200,
+  "count": 21,
+  "sampleIds": [
+   "uwajima",
+   "uchiko",
+   "imabari"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/tokushima/": {
+  "status": 200,
+  "count": 18,
+  "sampleIds": [
+   "oboke",
+   "iya",
+   "tsurugi-san"
+  ]
+ },
+ "https://www.jalan.net/310000/": {
+  "status": 200,
+  "count": 21,
+  "sampleIds": [
+   "tottori",
+   "misasa-onsen",
+   "daisen"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/aichi/": {
+  "status": 200,
+  "count": 20,
+  "sampleIds": [
+   "inuyama",
+   "tokoname",
+   "korankei"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/nagano/kiso.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "kiso"
+  ]
+ },
+ "https://www.jalan.net/420000/": {
+  "status": 200,
+  "count": 18,
+  "sampleIds": [
+   "sasebo",
+   "hirado",
+   "goto"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/yamaguchi/": {
+  "status": 200,
+  "count": 21,
+  "sampleIds": [
+   "yuda-onsen",
+   "suo-oshima",
+   "tsunoshima"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/saga/ureshino.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "ureshino-onsen"
+  ]
+ },
+ "https://www.jalan.net/060000/": {
+  "status": 200,
+  "count": 24,
+  "sampleIds": [
+   "sakata",
+   "ginzan-onsen",
+   "yonezawa"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/fukushima/": {
+  "status": 200,
+  "count": 23,
+  "sampleIds": [
+   "ouchi-juku",
+   "shirakawa",
+   "kitakata"
+  ]
+ },
+ "https://www.jalan.net/120000/": {
+  "status": 200,
+  "count": 19,
+  "sampleIds": [
+   "tateyama-chiba",
+   "choshi",
+   "naritasan"
+  ]
+ },
+ "https://www.jalan.net/390000/": {
+  "status": 200,
+  "count": 23,
+  "sampleIds": [
+   "ashizuri",
+   "muroto",
+   "tosa-shimizu"
+  ]
+ },
+ "https://www.jalan.net/450000/": {
+  "status": 200,
+  "count": 22,
+  "sampleIds": [
+   "takachiho",
+   "obi",
+   "nichinan"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/gifu/": {
+  "status": 200,
+  "count": 19,
+  "sampleIds": [
+   "magome",
+   "hida-furukawa",
+   "okuhida-onsen"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/nagano/nozawa.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "nozawa-onsen"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/shiga/": {
+  "status": 200,
+  "count": 22,
+  "sampleIds": [
+   "nagahama",
+   "hikone",
+   "omihachiman"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/gunma/shimaonsen.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "shima-onsen"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/gifu/gero.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "gero-onsen"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/aomori/hirosaki.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "hirosaki"
+  ]
+ },
+ "https://www.jalan.net/360000/": {
+  "status": 200,
+  "count": 18,
+  "sampleIds": [
+   "oboke",
+   "iya",
+   "tsurugi-san"
+  ]
+ },
+ "https://www.jalan.net/260000/": {
+  "status": 200,
+  "count": 24,
+  "sampleIds": [
+   "amanohashidate",
+   "ine",
+   "miyama"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/aomori/": {
+  "status": 200,
+  "count": 36,
+  "sampleIds": [
+   "oirase",
+   "goshogawara",
+   "towada"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/tottori/": {
+  "status": 200,
+  "count": 20,
+  "sampleIds": [
+   "misasa-onsen",
+   "daisen",
+   "kurayoshi"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/tochigi/mashiko.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "mashiko"
+  ]
+ },
+ "https://www.jalan.net/160000/": {
+  "status": 200,
+  "count": 21,
+  "sampleIds": [
+   "gokayama",
+   "tateyama-kurobe",
+   "himi"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/kumamoto/": {
+  "status": 200,
+  "count": 15,
+  "sampleIds": [
+   "hitoyoshi",
+   "minami-aso",
+   "yamaga"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/nagano/ueda.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "bessho-onsen"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/nara/": {
+  "status": 200,
+  "count": 24,
+  "sampleIds": [
+   "yoshino",
+   "kashihara",
+   "totsukawa"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/gunma/": {
+  "status": 200,
+  "count": 23,
+  "sampleIds": [
+   "minakami-onsen",
+   "oze",
+   "takasaki"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/mie/kumano.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "kumano"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/okayama/": {
+  "status": 200,
+  "count": 21,
+  "sampleIds": [
+   "takahashi",
+   "yakake",
+   "ushimado"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/oita/": {
+  "status": 200,
+  "count": 14,
+  "sampleIds": [
+   "bungo-takada",
+   "kitsuki",
+   "nakatsu"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/fukuoka/": {
+  "status": 200,
+  "count": 22,
+  "sampleIds": [
+   "mojiko",
+   "itoshima",
+   "yanagawa"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/fukui/tsuruga.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "tsuruga"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/yamagata/yonezawa.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "yonezawa"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/saitama/kawagoe.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "kawagoe"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/tochigi/nasu.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "nasu"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/hokkaido/abashiri.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "abashiri"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/tochigi/": {
+  "status": 200,
+  "count": 24,
+  "sampleIds": [
+   "ashikaga",
+   "shiobara-onsen",
+   "sano"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/chiba/choshi.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "choshi"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/niigata/": {
+  "status": 200,
+  "count": 27,
+  "sampleIds": [
+   "sado-island",
+   "itoigawa",
+   "murakami"
+  ]
+ },
+ "https://www.jalan.net/410000/": {
+  "status": 200,
+  "count": 19,
+  "sampleIds": [
+   "ureshino-onsen",
+   "takeo-onsen",
+   "yoshinogari"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/nagano/suwa.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "suwa"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/yamanashi/kiyosato.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "kiyosato"
+  ]
+ },
+ "https://www.jalan.net/230000/": {
+  "status": 200,
+  "count": 21,
+  "sampleIds": [
+   "inuyama",
+   "tokoname",
+   "korankei"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/fukui/": {
+  "status": 200,
+  "count": 17,
+  "sampleIds": [
+   "eiheiji",
+   "ono-fukui",
+   "katsuyama"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/fukui/obama.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "wakasa-obama"
+  ]
+ },
+ "https://www.jalan.net/020000/": {
+  "status": 200,
+  "count": 36,
+  "sampleIds": [
+   "hirosaki",
+   "oirase",
+   "goshogawara"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/mie/iga.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "iga"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/shizuoka/ito.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "ito"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/fukui/echizen.html": {
+  "status": 200,
+  "count": 2,
+  "sampleIds": [
+   "echizen",
+   "echizen-kaigan"
+  ]
+ },
+ "https://www.jalan.net/250000/": {
+  "status": 200,
+  "count": 23,
+  "sampleIds": [
+   "nagahama",
+   "hikone",
+   "shigaraki"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/yamaguchi/iwakuni.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "iwakuni"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/ehime/saijo.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "saijo"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/oita/taketa.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "taketa"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/oita/hita.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "hita"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/kumamoto/kikuchi.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "kikuchi"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/saga/": {
+  "status": 200,
+  "count": 18,
+  "sampleIds": [
+   "takeo-onsen",
+   "yoshinogari",
+   "karatsu"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/nagano/nagano.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "matsushiro"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/iwate/kuji.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "kuji"
+  ]
+ },
+ "https://www.jalan.net/ikisaki/map/fukui/": {
+  "status": 200,
+  "count": 21,
+  "sampleIds": [
+   "tsuruga",
+   "eiheiji",
+   "wakasa-obama"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/hokkaido/wakkanai.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "wakkanai"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/okayama/tsuyama.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "tsuyama"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/oita/usuki.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "usuki"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/iwate/ofunato.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "ofunato"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/gunma/ikaho.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "ikaho"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/hokkaido/obihiro.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "obihiro"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/saitama/chichibu.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "chichibu"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/ibaraki/oarai.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "oarai"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/mie/shima.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "shima"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/gifu/ogaki.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "ogaki"
+  ]
+ },
+ "https://www.jalan.net/110000/": {
+  "status": 200,
+  "count": 13,
+  "sampleIds": [
+   "kawagoe",
+   "chichibu",
+   "nagatoro"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/hiroshima/fukuyama.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "tomonoura"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/ibaraki/tsukuba.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "tsukuba"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/fukushima/urabandai.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "urabandai"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/hokkaido/niseko.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "niseko"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/ibaraki/": {
+  "status": 200,
+  "count": 22,
+  "sampleIds": [
+   "kasama",
+   "hitachi",
+   "kashima"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/chiba/": {
+  "status": 200,
+  "count": 17,
+  "sampleIds": [
+   "naritasan",
+   "kujukuri",
+   "sawara"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/kanagawa/miura.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "miura"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/iwate/kitakami.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "kitakami"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/aichi/minamichita.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "minamichita"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/shiga/shigaraki.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "shigaraki"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/mie/matsusaka.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "matsusaka"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/niigata/yuzawa.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "echigo-yuzawa"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/hokkaido/hakodate.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "hokkaido-hakodate"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/hokkaido/kushiro.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "hokkaido-kushiro"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/oita/kunisaki.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "kunisaki"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/osaka/": {
+  "status": 200,
+  "count": 17,
+  "sampleIds": [
+   "sakai",
+   "tondabayashi",
+   "kishiwada"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/miyazaki/miyazaki.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "aoshima"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/hokkaido/asahikawa.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "hokkaido-asahikawa"
+  ]
+ },
+ "https://www.jalan.net/ikisaki/map/niigata/": {
+  "status": 200,
+  "count": 26,
+  "sampleIds": [
+   "sado-island",
+   "itoigawa",
+   "murakami"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/ibaraki/mito.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "ibaraki-mito"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/kagawa/takamatsu.html": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "kagawa-takamatsu"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/saitama/": {
+  "status": 200,
+  "count": 11,
+  "sampleIds": [
+   "nagatoro",
+   "hanno",
+   "mitsuminejinja"
+  ]
+ },
+ "https://travel.rakuten.co.jp/yado/mie/": {
+  "status": 200,
+  "count": 16,
+  "sampleIds": [
+   "owase",
+   "iga-ueno",
+   "tateyamasaki"
+  ]
+ },
+ "https://www.jalan.net/400000/": {
+  "status": 200,
+  "count": 22,
+  "sampleIds": [
+   "mojiko",
+   "itoshima",
+   "yanagawa"
+  ]
+ },
+ "https://www.jalan.net/080000/": {
+  "status": 200,
+  "count": 25,
+  "sampleIds": [
+   "oarai",
+   "tsukuba",
+   "kasama"
+  ]
+ },
+ "https://www.jalan.net/ikisaki/map/aomori/": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "shirakami-sanchi"
+  ]
+ },
+ "https://www.jalan.net/ikisaki/map/hiroshima/": {
+  "status": 200,
+  "count": 1,
+  "sampleIds": [
+   "shimanami-kaido"
+  ]
+ },
+ "https://www.jalan.net/270000/": {
+  "status": 200,
+  "count": 17,
+  "sampleIds": [
+   "sakai",
+   "tondabayashi",
+   "kishiwada"
+  ]
+ }
+}

@@ -1,0 +1,486 @@
+{
+ "mergeRules": 44,
+ "changeCount": 80,
+ "changes": [
+  {
+   "id": "biei",
+   "field": "tags",
+   "from": "観光地",
+   "to": "観光"
+  },
+  {
+   "id": "mashiko",
+   "field": "tags",
+   "from": "観光地",
+   "to": "観光"
+  },
+  {
+   "id": "minami-sanriku",
+   "field": "tags",
+   "from": "食",
+   "to": "グルメ"
+  },
+  {
+   "id": "kasama",
+   "field": "tags",
+   "from": "食",
+   "to": "グルメ"
+  },
+  {
+   "id": "naritasan",
+   "field": "tags",
+   "from": "食",
+   "to": "グルメ"
+  },
+  {
+   "id": "naritasan",
+   "field": "tags",
+   "from": "観光地",
+   "to": "観光"
+  },
+  {
+   "id": "kujukuri",
+   "field": "tags",
+   "from": "食",
+   "to": "グルメ"
+  },
+  {
+   "id": "miura",
+   "field": "tags",
+   "from": "食",
+   "to": "グルメ"
+  },
+  {
+   "id": "fujinomiya",
+   "field": "tags",
+   "from": "食",
+   "to": "グルメ"
+  },
+  {
+   "id": "minamichita",
+   "field": "tags",
+   "from": "食",
+   "to": "グルメ"
+  },
+  {
+   "id": "matsusaka",
+   "field": "tags",
+   "from": "食",
+   "to": "グルメ"
+  },
+  {
+   "id": "ama-island",
+   "field": "tags",
+   "from": "食",
+   "to": "グルメ"
+  },
+  {
+   "id": "yamaga",
+   "field": "tags",
+   "from": "祭り",
+   "to": "祭"
+  },
+  {
+   "id": "monbetsu",
+   "field": "tags",
+   "from": "観光地",
+   "to": "観光"
+  },
+  {
+   "id": "kamishihoro",
+   "field": "tags",
+   "from": "観光地",
+   "to": "観光"
+  },
+  {
+   "id": "kashiwazaki",
+   "field": "tags",
+   "from": "祭り",
+   "to": "祭"
+  },
+  {
+   "id": "saroma-ko",
+   "field": "tags",
+   "from": "食",
+   "to": "グルメ"
+  },
+  {
+   "id": "eshima-miyagi",
+   "field": "tags",
+   "from": "食",
+   "to": "グルメ"
+  },
+  {
+   "id": "shimanami-kaido",
+   "field": "tags",
+   "from": "自転車",
+   "to": "サイクリング"
+  },
+  {
+   "id": "koshien",
+   "field": "tags",
+   "from": "観光地",
+   "to": "観光"
+  },
+  {
+   "id": "shibuya",
+   "field": "tags",
+   "from": "観光地",
+   "to": "観光"
+  },
+  {
+   "id": "shinjuku",
+   "field": "tags",
+   "from": "観光地",
+   "to": "観光"
+  },
+  {
+   "id": "akiba",
+   "field": "tags",
+   "from": "観光地",
+   "to": "観光"
+  },
+  {
+   "id": "osaka",
+   "field": "tags",
+   "from": "観光地",
+   "to": "観光"
+  },
+  {
+   "id": "tokyo",
+   "field": "tags",
+   "from": "観光地",
+   "to": "観光"
+  },
+  {
+   "id": "niche_秋田_4",
+   "field": "tags",
+   "from": "古い建築",
+   "to": "歴史建築"
+  },
+  {
+   "id": "niche_福島_4",
+   "field": "tags",
+   "from": "伝統工芸",
+   "to": "工芸"
+  },
+  {
+   "id": "niche_福島_5",
+   "field": "tags",
+   "from": "城跡",
+   "to": "城"
+  },
+  {
+   "id": "niche_福島_5",
+   "field": "tags",
+   "from": "寺社仏閣",
+   "to": "寺社"
+  },
+  {
+   "id": "niche_福島_5",
+   "field": "tags",
+   "from": "古建築",
+   "to": "歴史建築"
+  },
+  {
+   "id": "niche_福島_6",
+   "field": "tags",
+   "from": "伝統工芸",
+   "to": "工芸"
+  },
+  {
+   "id": "niche_茨城_1",
+   "field": "tags",
+   "from": "古町並み",
+   "to": "古い町並み"
+  },
+  {
+   "id": "niche_茨城_1",
+   "field": "tags",
+   "from": "歴史的建造物",
+   "to": "歴史建築"
+  },
+  {
+   "id": "niche_栃木_2",
+   "field": "tags",
+   "from": "湯治場",
+   "to": "湯治"
+  },
+  {
+   "id": "niche_群馬_1",
+   "field": "tags",
+   "from": "郷土蕎麦",
+   "to": "蕎麦"
+  },
+  {
+   "id": "niche_千葉_2",
+   "field": "tags",
+   "from": "レトログラム",
+   "to": "昭和レトロ"
+  },
+  {
+   "id": "niche_千葉_4",
+   "field": "tags",
+   "from": "朝獲れ海鮮",
+   "to": "海鮮"
+  },
+  {
+   "id": "niche_千葉_5",
+   "field": "tags",
+   "from": "歴史的建造物",
+   "to": "歴史建築"
+  },
+  {
+   "id": "niche_東京_2",
+   "field": "tags",
+   "from": "神社",
+   "to": "寺社"
+  },
+  {
+   "id": "niche_東京_2",
+   "field": "tags",
+   "from": "そば",
+   "to": "蕎麦"
+  },
+  {
+   "id": "niche_東京_6",
+   "field": "tags",
+   "from": "懐古",
+   "to": "昭和レトロ"
+  },
+  {
+   "id": "niche_新潟_1",
+   "field": "tags",
+   "from": "懐古",
+   "to": "昭和レトロ"
+  },
+  {
+   "id": "niche_新潟_2",
+   "field": "tags",
+   "from": "昭和懐古",
+   "to": "昭和レトロ"
+  },
+  {
+   "id": "niche_富山_1",
+   "field": "tags",
+   "from": "地元グルメ",
+   "to": "グルメ"
+  },
+  {
+   "id": "niche_富山_3",
+   "field": "tags",
+   "from": "町並み",
+   "to": "古い町並み"
+  },
+  {
+   "id": "niche_富山_3",
+   "field": "tags",
+   "from": "伝統工芸",
+   "to": "工芸"
+  },
+  {
+   "id": "niche_富山_3",
+   "field": "tags",
+   "from": "祭り",
+   "to": "祭"
+  },
+  {
+   "id": "niche_石川_1",
+   "field": "tags",
+   "from": "源泉掛け流し",
+   "to": "源泉かけ流し"
+  },
+  {
+   "id": "niche_石川_4",
+   "field": "tags",
+   "from": "夕焼け",
+   "to": "夕日"
+  },
+  {
+   "id": "niche_石川_6",
+   "field": "tags",
+   "from": "伝統工芸",
+   "to": "工芸"
+  },
+  {
+   "id": "niche_長野_1",
+   "field": "tags",
+   "from": "星空観測",
+   "to": "星空"
+  },
+  {
+   "id": "niche_岐阜_1",
+   "field": "tags",
+   "from": "景観",
+   "to": "風景"
+  },
+  {
+   "id": "niche_岐阜_6",
+   "field": "tags",
+   "from": "古建築",
+   "to": "歴史建築"
+  },
+  {
+   "id": "niche_静岡_3",
+   "field": "tags",
+   "from": "夕焼け",
+   "to": "夕日"
+  },
+  {
+   "id": "niche_愛知_4",
+   "field": "tags",
+   "from": "町並み",
+   "to": "古い町並み"
+  },
+  {
+   "id": "niche_三重_3",
+   "field": "tags",
+   "from": "食べ物",
+   "to": "グルメ"
+  },
+  {
+   "id": "niche_三重_5",
+   "field": "tags",
+   "from": "食べ物",
+   "to": "グルメ"
+  },
+  {
+   "id": "niche_滋賀_1",
+   "field": "tags",
+   "from": "町並み",
+   "to": "古い町並み"
+  },
+  {
+   "id": "niche_滋賀_4",
+   "field": "tags",
+   "from": "町並み",
+   "to": "古い町並み"
+  },
+  {
+   "id": "niche_滋賀_6",
+   "field": "tags",
+   "from": "山城跡",
+   "to": "城"
+  },
+  {
+   "id": "niche_奈良_1",
+   "field": "tags",
+   "from": "ローカルグルメ",
+   "to": "グルメ"
+  },
+  {
+   "id": "niche_奈良_4",
+   "field": "tags",
+   "from": "民宿グルメ",
+   "to": "グルメ"
+  },
+  {
+   "id": "niche_奈良_8",
+   "field": "tags",
+   "from": "工芸品",
+   "to": "工芸"
+  },
+  {
+   "id": "niche_奈良_8",
+   "field": "tags",
+   "from": "秋祭り",
+   "to": "祭"
+  },
+  {
+   "id": "niche_和歌山_2",
+   "field": "tags",
+   "from": "海鮮グルメ",
+   "to": "海鮮"
+  },
+  {
+   "id": "niche_鳥取_1",
+   "field": "tags",
+   "from": "地物グルメ",
+   "to": "グルメ"
+  },
+  {
+   "id": "niche_鳥取_2",
+   "field": "tags",
+   "from": "廃線",
+   "to": "廃線跡"
+  },
+  {
+   "id": "niche_山口_4",
+   "field": "tags",
+   "from": "古町並み",
+   "to": "古い町並み"
+  },
+  {
+   "id": "niche_徳島_4",
+   "field": "tags",
+   "from": "伝統工芸",
+   "to": "工芸"
+  },
+  {
+   "id": "niche_香川_2",
+   "field": "tags",
+   "from": "古町",
+   "to": "古い町並み"
+  },
+  {
+   "id": "niche_福岡_4",
+   "field": "tags",
+   "from": "炭鉱跡",
+   "to": "炭鉱遺産"
+  },
+  {
+   "id": "niche_福岡_7",
+   "field": "tags",
+   "from": "山景観",
+   "to": "山岳景観"
+  },
+  {
+   "id": "niche_佐賀_1",
+   "field": "tags",
+   "from": "郷土食",
+   "to": "郷土料理"
+  },
+  {
+   "id": "niche_佐賀_5",
+   "field": "tags",
+   "from": "山景色",
+   "to": "山岳景観"
+  },
+  {
+   "id": "niche_佐賀_6",
+   "field": "tags",
+   "from": "海鮮食",
+   "to": "海鮮"
+  },
+  {
+   "id": "niche_長崎_4",
+   "field": "tags",
+   "from": "夕景",
+   "to": "夕日"
+  },
+  {
+   "id": "niche_長崎_7",
+   "field": "tags",
+   "from": "炭鉱遺跡",
+   "to": "炭鉱遺産"
+  },
+  {
+   "id": "niche_宮崎_6",
+   "field": "tags",
+   "from": "古町",
+   "to": "古い町並み"
+  },
+  {
+   "id": "niche_沖縄_1",
+   "field": "tags",
+   "from": "海鮮食堂",
+   "to": "海鮮"
+  },
+  {
+   "id": "wakimachi",
+   "field": "tags",
+   "from": "伝統建築",
+   "to": "歴史建築"
+  }
+ ]
+}

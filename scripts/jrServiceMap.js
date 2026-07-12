@@ -50,7 +50,9 @@ export const SERVICE_URL = {
   e5489:    'https://www.jr-odekake.net/goyoyaku/e5489/',
   smartex:  'https://smart-ex.jp/',
   jrkyushu: 'https://train.yoyaku.jrkyushu.co.jp/',
-  midori:   'https://www.jr.cyber-station.ne.jp/',
+  // 旧 jr.cyber-station.ne.jp はサービス終了（接続不可）のため差し替え。
+  // midori は北海道↔西日本など複数会社またぎ（窓口購入の案内）でのみ返る。
+  midori:   'https://www.jreast.co.jp/ticket/',
 };
 
 export const SERVICE_LABEL = {
