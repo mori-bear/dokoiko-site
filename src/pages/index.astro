@@ -949,7 +949,7 @@ try {
 
 <script>
 import { buildShuffledPool } from '../scripts/selectionEngine.js';
-import { DEPARTURES, DEPARTURE_CITY_INFO, DEPARTURE_COORDS } from '../scripts/dokoikoConstants.js';
+import { DEPARTURES, DEPARTURE_GROUPS, DEPARTURE_CITY_INFO, DEPARTURE_COORDS } from '../scripts/dokoikoConstants.js';
 import { calculateTravelTimeMinutes } from '../scripts/distanceCalculator.js';
 
 declare function gtag(...args: any[]): void;
@@ -964,11 +964,16 @@ const state = {
 };
 
 const sel = document.getElementById('departure-select') as HTMLSelectElement;
-DEPARTURES.forEach(city => {
-  const opt = document.createElement('option');
-  opt.value = city;
-  opt.textContent = city;
-  sel.appendChild(opt);
+DEPARTURE_GROUPS.forEach(group => {
+  const og = document.createElement('optgroup');
+  og.label = group.label;
+  group.cities.forEach(city => {
+    const opt = document.createElement('option');
+    opt.value = city;
+    opt.textContent = city;
+    og.appendChild(opt);
+  });
+  sel.appendChild(og);
 });
 
 const savedDep = localStorage.getItem('departure');
