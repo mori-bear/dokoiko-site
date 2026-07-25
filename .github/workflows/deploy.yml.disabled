@@ -1,0 +1,53 @@
+# ============================================================================
+# ⚠️ このワークフローは【使用しない】（無効化済み: 拡張子を .disabled にして停止）
+# ----------------------------------------------------------------------------
+# 理由: これは mori-bear/dokoiko-site の GitHub Pages(= https://mori-bear.github.io/dokoiko-site/)
+#       へデプロイするが、これは【誤ったデプロイ先】。
+#       - 独自ドメインのCNAMEが無いため tabidokoiko.com には出ず /dokoiko-site/ 配下に出る
+#       - astro は site:'https://tabidokoiko.com' でビルドされ、アセット参照が /_astro/... の
+#         ルート絶対パスになるため /dokoiko-site/ 配信ではアセットが404になり壊れる
+#       - canonical が tabidokoiko.com を指す重複コンテンツになりSEO的にも有害
+#
+# ★ 正しい本番は mori-bear/dokoiko リポジトリ（CNAME=tabidokoiko.com）に一本化。
+#    デプロイ手順は dokoiko-site/DEPLOY.md を参照。反映確認は dokoiko/scripts/verifyDeploy.mjs。
+# ============================================================================
+# name: Deploy to GitHub Pages
+# 
+# on:
+#   push:
+#     branches: [main]
+#   workflow_dispatch:
+# 
+# permissions:
+#   contents: read
+#   pages: write
+#   id-token: write
+# 
+# concurrency:
+#   group: pages
+#   cancel-in-progress: false
+# 
+# jobs:
+#   build:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: actions/checkout@v4
+#       - uses: actions/setup-node@v4
+#         with:
+#           node-version: 22
+#           cache: npm
+#       - run: npm ci
+#       - run: npm run build
+#       - uses: actions/upload-pages-artifact@v3
+#         with:
+#           path: dist/
+# 
+#   deploy:
+#     needs: build
+#     runs-on: ubuntu-latest
+#     environment:
+#       name: github-pages
+#       url: ${{ steps.deployment.outputs.page_url }}
+#     steps:
+#       - id: deployment
+#         uses: actions/deploy-pages@v4

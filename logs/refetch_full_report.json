@@ -1,0 +1,1878 @@
+{
+ "upgraded": [
+  {
+   "file": "gen_北海_小樽運河/spot-1.jpg",
+   "from": 500,
+   "to": 1920
+  }
+ ],
+ "replaced": [
+  {
+   "file": "hatoma-island/main.jpg",
+   "reasons": [
+    "portrait"
+   ],
+   "newTitle": "File:Hatoma hatoma port pier.jpg",
+   "to": "1600x1200"
+  },
+  {
+   "file": "kitami/main.jpg",
+   "reasons": [
+    "portrait"
+   ],
+   "newTitle": "File:Kitami-Bus kitami230a2041.jpg",
+   "to": "1920x1440"
+  },
+  {
+   "file": "koyasan/main.jpg",
+   "reasons": [
+    "portrait"
+   ],
+   "newTitle": "File:Koyasan University.JPG",
+   "to": "1920x1275"
+  },
+  {
+   "file": "noboribetsu/spot-1.jpg",
+   "reasons": [
+    "portrait"
+   ],
+   "newTitle": "File:Jigokudani (Hell Valley), Noboribetsu Onsen, Hokkaido, April 2023 27.jpg",
+   "to": "1920x1440"
+  },
+  {
+   "file": "tomari-okinawa/main.jpg",
+   "reasons": [
+    "portrait"
+   ],
+   "newTitle": "File:Gakiya, Iheya Island 202211 02.jpg",
+   "to": "1920x1280"
+  },
+  {
+   "file": "tonaki/main.jpg",
+   "reasons": [
+    "portrait"
+   ],
+   "newTitle": "File:Shimajirimo Boardwalk at Tonaki Island 202407 03.jpg",
+   "to": "1920x1280"
+  },
+  {
+   "file": "uozu/main.jpg",
+   "reasons": [
+    "portrait"
+   ],
+   "newTitle": "File:Uozu mirage 20190525 1.jpg",
+   "to": "1582x1054"
+  }
+ ],
+ "unresolvable": [
+  {
+   "file": "abashiri/spot-2.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "オーロラ号（砕氷船） 北海道"
+  },
+  {
+   "file": "adachi-museum/spot-2.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "横山大観コレクション 島根県"
+  },
+  {
+   "file": "aji-peninsula/spot-1.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "庵治石の採石場 香川県"
+  },
+  {
+   "file": "aka-island/spot-2.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "阿嘉大橋 沖縄県"
+  },
+  {
+   "file": "akakura-onsen/spot-2.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "妙高高原いもり池 山形県"
+  },
+  {
+   "file": "akan/spot-3.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "双湖台 北海道"
+  },
+  {
+   "file": "akiyamago/spot-1.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "秋山郷温泉 長野県"
+  },
+  {
+   "file": "akiyamago/spot-3.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "小赤沢温泉 長野県"
+  },
+  {
+   "file": "amakusa/spot-3.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "イルカウォッチング 熊本県"
+  },
+  {
+   "file": "aogashima/spot-1.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "丸山（二重カルデラ） 東京都"
+  },
+  {
+   "file": "aogashima/spot-3.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "青酎 東京都"
+  },
+  {
+   "file": "aoshima/spot-3.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "青島ビーチ 宮崎県"
+  },
+  {
+   "file": "ashizuri/spot-3.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "ジョン万次郎像 高知県"
+  },
+  {
+   "file": "ashizuri/spot-1.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "足摺岬灯台 高知県"
+  },
+  {
+   "file": "bessho-onsen/spot-2.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "安楽寺八角三重塔 長野県"
+  },
+  {
+   "file": "chinen-misaki/spot-3.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "斎場御嶽 沖縄県"
+  },
+  {
+   "file": "dorogawa-onsen/spot-3.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "面不動鍾乳洞 奈良県"
+  },
+  {
+   "file": "futamata-onsen/spot-1.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "旅館大黒屋 福島県"
+  },
+  {
+   "file": "gen_北海_山彦の滝/spot-1.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "山彦の滝 北海道"
+  },
+  {
+   "file": "gen_北海_支笏湖いとう温泉/spot-1.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "支笏湖いとう温泉 北海道"
+  },
+  {
+   "file": "gen_北海_樹海温泉/spot-1.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "樹海温泉 北海道"
+  },
+  {
+   "file": "gen_北海_花の拠点「はなふる」/spot-1.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "花の拠点「はなふる」 北海道"
+  },
+  {
+   "file": "gen_北海_養老牛温泉/spot-1.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "養老牛温泉 北海道"
+  },
+  {
+   "file": "gen_北海_黒松内温泉/spot-1.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "黒松内温泉 北海道"
+  },
+  {
+   "file": "gen_群馬_奥嬬恋温泉/spot-1.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "奥嬬恋温泉 群馬県"
+  },
+  {
+   "file": "gen_群馬_片品温泉/spot-1.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "片品温泉 群馬県"
+  },
+  {
+   "file": "gen_群馬_花敷温泉/spot-1.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "花敷温泉 群馬県"
+  },
+  {
+   "file": "gen_青森_十和田湖畔温泉/spot-1.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "十和田湖畔温泉 青森県"
+  },
+  {
+   "file": "gen_青森_板留温泉/spot-1.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "板留温泉 青森県"
+  },
+  {
+   "file": "gen_青森_秋元温泉/spot-1.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "秋元温泉 青森県"
+  },
+  {
+   "file": "gen_青森_相乗温泉/spot-1.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "相乗温泉 青森県"
+  },
+  {
+   "file": "gen_青森_落合温泉/spot-1.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "落合温泉 青森県"
+  },
+  {
+   "file": "gen_青森_馬門温泉/spot-1.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "馬門温泉 青森県"
+  },
+  {
+   "file": "goshogawara/spot-3.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "金木町（太宰治の故郷） 青森県"
+  },
+  {
+   "file": "hachijojima/spot-1.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "底土海水浴場 東京都"
+  },
+  {
+   "file": "hachijojima/spot-2.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "黄八丈染物 東京都"
+  },
+  {
+   "file": "hachimantai/spot-2.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "藤七温泉 岩手県"
+  },
+  {
+   "file": "hachimantai/spot-1.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "八幡平頂上 岩手県"
+  },
+  {
+   "file": "hachimantai/spot-3.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "松川温泉 岩手県"
+  },
+  {
+   "file": "hamanako/spot-3.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "浜名湖うなぎ 静岡県"
+  },
+  {
+   "file": "hanamaki/spot-3.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "台温泉 岩手県"
+  },
+  {
+   "file": "hasami/spot-2.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "陶芸の館 長崎県"
+  },
+  {
+   "file": "hasami/spot-1.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "西の原 長崎県"
+  },
+  {
+   "file": "hiburi/spot-2.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "ダイビングスポット 愛媛県"
+  },
+  {
+   "file": "higashine/spot-2.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "大けやき公園 山形県"
+  },
+  {
+   "file": "higashine/spot-1.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "東根温泉 山形県"
+  },
+  {
+   "file": "hiji/spot-1.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "暘谷城跡（日出城） 大分県"
+  },
+  {
+   "file": "hijori-onsen/spot-2.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "朝市 山形県"
+  },
+  {
+   "file": "himakajima/spot-2.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "タコ料理 愛知県"
+  },
+  {
+   "file": "himi/spot-1.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "氷見漁港朝市 富山県"
+  },
+  {
+   "file": "hioki/spot-3.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "島津義弘公墓 鹿児島県"
+  },
+  {
+   "file": "hita/spot-2.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "三隈川鵜飼い 大分県"
+  },
+  {
+   "file": "hitoyoshi-city/spot-1.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "球磨川下り 熊本県"
+  },
+  {
+   "file": "hokkaido-asahikawa/spot-2.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "旭川ラーメン村 北海道"
+  },
+  {
+   "file": "hokkaido-hakodate/spot-4.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "元町異人館 北海道"
+  },
+  {
+   "file": "hotokegaura/spot-1.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "佐井港 青森県"
+  },
+  {
+   "file": "hotokegaura/spot-2.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "仏ヶ浦海岸 青森県"
+  },
+  {
+   "file": "ichinoseki-geibikei/spot-1.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "猊鼻渓舟下り 岩手県"
+  },
+  {
+   "file": "ie-island/spot-2.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "百合ヶ浜 沖縄県"
+  },
+  {
+   "file": "ikeda-osaka/spot-2.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "池田城跡公園 大阪府"
+  },
+  {
+   "file": "ikeda-osaka/spot-3.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "呉春 大阪府"
+  },
+  {
+   "file": "ikeshima/spot-2.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "トロッコ坑内ツアー 長崎県"
+  },
+  {
+   "file": "iki-island/spot-1.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "辰ノ島 長崎県"
+  },
+  {
+   "file": "ikitsukijima/spot-2.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "サンセットウェイ 長崎県"
+  },
+  {
+   "file": "ikuchijima/spot-2.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "レモン畑 広島県"
+  },
+  {
+   "file": "innoshima/spot-2.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "白滝山五百羅漢 広島県"
+  },
+  {
+   "file": "iriomote/spot-3.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "仲間川マングローブ 沖縄県"
+  },
+  {
+   "file": "itoshima/spot-2.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "芥屋の大門 福岡県"
+  },
+  {
+   "file": "kakeroma-island/spot-2.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "デイゴの並木道 鹿児島県"
+  },
+  {
+   "file": "kamogawa/spot-3.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "天津小湊の棚田 千葉県"
+  },
+  {
+   "file": "kamui-misaki/spot-2.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "積丹ブルー 北海道"
+  },
+  {
+   "file": "kashiwajima/spot-2.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "ダイビングスポット群 高知県"
+  },
+  {
+   "file": "katsuura-chiba/spot-2.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "守谷海岸 千葉県"
+  },
+  {
+   "file": "kawaji-onsen/spot-1.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "川治温泉郷 栃木県"
+  },
+  {
+   "file": "kikuchi/spot-2.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "菊池温泉 熊本県"
+  },
+  {
+   "file": "kinkasan/spot-2.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "大海祇神社 宮城県"
+  },
+  {
+   "file": "kochi-ino/spot-2.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "仁淀川カヌー体験 高知県"
+  },
+  {
+   "file": "koka/spot-2.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "MIHO MUSEUM（近郊） 滋賀県"
+  },
+  {
+   "file": "koriyama/spot-2.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "猪苗代湖（日帰り） 福島県"
+  },
+  {
+   "file": "koshikijima/spot-1.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "なかまで 鹿児島県"
+  },
+  {
+   "file": "koshikijima/spot-3.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "甑大明神磐境 鹿児島県"
+  },
+  {
+   "file": "kujukuri/spot-3.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "いわし丸干し 千葉県"
+  },
+  {
+   "file": "kumano/spot-1.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "熊野那智大社 三重県"
+  },
+  {
+   "file": "kure/spot-3.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "呉海軍カレー 広島県"
+  },
+  {
+   "file": "kurokawa-k/spot-4.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "九重夢大吊橋 熊本県"
+  },
+  {
+   "file": "kurume/spot-2.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "久留米城跡 福岡県"
+  },
+  {
+   "file": "maizuru/spot-1.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "舞鶴引揚記念館 京都府"
+  },
+  {
+   "file": "maizuru/spot-2.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "五老スカイタワー 京都府"
+  },
+  {
+   "file": "manabeshima/spot-2.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "真鍋邸 岡山県"
+  },
+  {
+   "file": "matsumoto-kaido/spot-2.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "奈良井宿（近隣） 長野県"
+  },
+  {
+   "file": "matsunoyama-onsen/spot-2.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "ナステビュウ湯の山 新潟県"
+  },
+  {
+   "file": "mihara/spot-3.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "さんはら観光農園 広島県"
+  },
+  {
+   "file": "mikurajima/spot-2.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "イルカウォッチング 東京都"
+  },
+  {
+   "file": "minami-sanriku/spot-2.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "戸倉上山八幡宮 宮城県"
+  },
+  {
+   "file": "minamidaitojima/spot-2.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "ボスウェルスタジアム 沖縄県"
+  },
+  {
+   "file": "minamidaitojima/spot-3.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "バリハイ農場 沖縄県"
+  },
+  {
+   "file": "minamikyushu/spot-1.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "知覧特攻平和会館（近郊） 鹿児島県"
+  },
+  {
+   "file": "misaki-kochi/spot-1.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "足摺岬 愛媛県"
+  },
+  {
+   "file": "mishima-yamaguchi/spot-3.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "古代遺跡 山口県"
+  },
+  {
+   "file": "mitsuke-jima/spot-2.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "縁結びの鐘 石川県"
+  },
+  {
+   "file": "miyakejima/spot-2.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "ダイビングポイント 東京都"
+  },
+  {
+   "file": "miyama/spot-2.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "美山民俗資料館 京都府"
+  },
+  {
+   "file": "mizusawa/spot-3.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "前沢牛 岩手県"
+  },
+  {
+   "file": "monbetsu/spot-2.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "オホーツクとっかりセンター 北海道"
+  },
+  {
+   "file": "murakami/spot-2.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "城下町村上町屋 新潟県"
+  },
+  {
+   "file": "muroran/spot-2.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "室蘭工場夜景 北海道"
+  },
+  {
+   "file": "nachikatsuura/spot-3.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "那智黒砂 和歌山県"
+  },
+  {
+   "file": "nagatoro/spot-3.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "ライン下り 埼玉県"
+  },
+  {
+   "file": "nakatsugawa/spot-3.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "馬籠宿（近隣） 岐阜県"
+  },
+  {
+   "file": "nanjo-okinawa/spot-1.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "斎場御嶽 沖縄県"
+  },
+  {
+   "file": "nara/spot-4.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "赤目四十八滝 奈良県"
+  },
+  {
+   "file": "narai-juku/spot-1.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "奈良井宿本陣跡 長野県"
+  },
+  {
+   "file": "narai-juku/spot-2.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "中村邸 長野県"
+  },
+  {
+   "file": "naritasan/spot-3.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "成田山公園 千葉県"
+  },
+  {
+   "file": "naruko-onsen/spot-2.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "東北こけし館 宮城県"
+  },
+  {
+   "file": "niijima/spot-3.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "新島ガラス工芸 東京都"
+  },
+  {
+   "file": "nobeoka/spot-2.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "北川渓谷 宮崎県"
+  },
+  {
+   "file": "nozawa-onsen/spot-2.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "麻釜 長野県"
+  },
+  {
+   "file": "obi/spot-3.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "商人通り 宮崎県"
+  },
+  {
+   "file": "oirase/spot-4.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "蔦沼 青森県"
+  },
+  {
+   "file": "okinoshima-kochi/spot-2.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "弘法大師像 高知県"
+  },
+  {
+   "file": "okishima/spot-3.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "島民会館 滋賀県"
+  },
+  {
+   "file": "ono-fukui/spot-2.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "本町通り湧水群 福井県"
+  },
+  {
+   "file": "otoyo/spot-1.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "日本一の大杉 高知県"
+  },
+  {
+   "file": "ouchi-juku/spot-1.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "大内宿町並み 福島県"
+  },
+  {
+   "file": "rausu/spot-3.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "ホエールウォッチング 北海道"
+  },
+  {
+   "file": "ryujin-onsen/spot-3.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "高野龍神スカイライン 和歌山県"
+  },
+  {
+   "file": "sado-island/spot-2.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "トキの森公園 新潟県"
+  },
+  {
+   "file": "sakaiminato/spot-3.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "境港水産物直売センター 鳥取県"
+  },
+  {
+   "file": "sakata/spot-4.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "象潟 山形県"
+  },
+  {
+   "file": "sanagijima/spot-2.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "長崎の鼻 香川県"
+  },
+  {
+   "file": "sanriku-miyako/spot-2.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "浄土ヶ浜マリンハウス 岩手県"
+  },
+  {
+   "file": "sasebo/spot-2.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "旧海軍鎮守府跡 長崎県"
+  },
+  {
+   "file": "sefa-utaki/spot-1.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "三庫理 沖縄県"
+  },
+  {
+   "file": "shigaraki/spot-1.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "信楽焼窯元 滋賀県"
+  },
+  {
+   "file": "shikanoshima/spot-1.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "金印公園 福岡県"
+  },
+  {
+   "file": "shikinejima/spot-2.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "足付温泉 東京都"
+  },
+  {
+   "file": "shimonada/spot-3.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "白石の鼻展望台 愛媛県"
+  },
+  {
+   "file": "shiraoishi/spot-3.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "白石温麺 宮城県"
+  },
+  {
+   "file": "shiroyone-senmaida/spot-3.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "奥能登塩田村 石川県"
+  },
+  {
+   "file": "sukumo/spot-2.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "宿毛市立坂本登美子記念館 高知県"
+  },
+  {
+   "file": "susaki/spot-1.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "鍋焼きラーメン（橋本食堂） 高知県"
+  },
+  {
+   "file": "tarama-island/spot-1.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "八月踊り 沖縄県"
+  },
+  {
+   "file": "tendou/spot-1.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "舞鶴山公園（人間将棋） 山形県"
+  },
+  {
+   "file": "tenryu-gorge/spot-1.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "天竜峡舟下り 長野県"
+  },
+  {
+   "file": "tenryu-gorge/spot-2.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "龍峡亭 長野県"
+  },
+  {
+   "file": "tobe/spot-1.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "砥部焼観光センター 愛媛県"
+  },
+  {
+   "file": "tobishima-island/spot-3.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "勝浦海岸 山形県"
+  },
+  {
+   "file": "tomakomai/spot-1.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "ウトナイ湖野生鳥獣保護センター 北海道"
+  },
+  {
+   "file": "tomakomai/spot-3.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "苫小牧ホッキ貝 北海道"
+  },
+  {
+   "file": "tomari-okinawa/spot-2.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "田名ビーチ 沖縄県"
+  },
+  {
+   "file": "tondabayashi/spot-3.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "PL花火芸術（お盆） 大阪府"
+  },
+  {
+   "file": "toshima/spot-1.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "椿林 東京都"
+  },
+  {
+   "file": "tottori-sakyu/spot-3.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "らくだライド 鳥取県"
+  },
+  {
+   "file": "toushijima/spot-2.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "答志集落 三重県"
+  },
+  {
+   "file": "tsushima/spot-1.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "万関橋 長崎県"
+  },
+  {
+   "file": "tsushima/spot-3.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "ツシマヤマネコ保護センター 長崎県"
+  },
+  {
+   "file": "uchiko/spot-3.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "木蝋資料館 愛媛県"
+  },
+  {
+   "file": "uradome/spot-1.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "浦富海岸島めぐり遊覧船 鳥取県"
+  },
+  {
+   "file": "wakasa-obama/spot-1.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "小浜西組（重伝建） 福井県"
+  },
+  {
+   "file": "wakura-onsen/spot-3.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "足湯の宿 石川県"
+  },
+  {
+   "file": "yamatokoriyama/spot-2.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "金魚ストリート 奈良県"
+  },
+  {
+   "file": "yanagawa/spot-2.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "御花（旧立花伯爵邸） 福岡県"
+  },
+  {
+   "file": "yawatahama/spot-3.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "白石の鼻展望台 愛媛県"
+  },
+  {
+   "file": "yonaguni-island/spot-1.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "西崎灯台（日本最西端） 沖縄県"
+  },
+  {
+   "file": "yorojima/spot-1.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "百合ヶ浜 鹿児島県"
+  },
+  {
+   "file": "yoron-island/spot-1.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "百合ヶ浜 鹿児島県"
+  },
+  {
+   "file": "yugawara-onsen/spot-3.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "落合楼村游 神奈川県"
+  },
+  {
+   "file": "zamami-island/spot-3.jpg",
+   "reasons": [
+    "narrow",
+    "portrait"
+   ],
+   "query": "ホエールウォッチング 沖縄県"
+  },
+  {
+   "file": "zaou-onsen/spot-2.jpg",
+   "reasons": [
+    "narrow"
+   ],
+   "query": "樹氷高原 山形県"
+  },
+  {
+   "file": "arashiyama/spot-1.jpg",
+   "reasons": [
+    "portrait"
+   ],
+   "query": "竹林の道 京都府"
+  },
+  {
+   "file": "bise/main.jpg",
+   "reasons": [
+    "portrait"
+   ],
+   "query": "備瀬のフクギ並木 沖縄県"
+  },
+  {
+   "file": "gen_北海_ぬかびら温泉/spot-1.jpg",
+   "reasons": [
+    "portrait"
+   ],
+   "query": "ぬかびら温泉 北海道"
+  },
+  {
+   "file": "gen_北海_十勝岳温泉/spot-3.jpg",
+   "reasons": [
+    "portrait"
+   ],
+   "query": "白糸の滝 北海道"
+  },
+  {
+   "file": "gen_北海_瀬石温泉/spot-2.jpg",
+   "reasons": [
+    "portrait"
+   ],
+   "query": "瀬石の滝 北海道"
+  },
+  {
+   "file": "gen_群馬_奥嬬恋温泉/main.jpg",
+   "reasons": [
+    "portrait"
+   ],
+   "query": "奥嬬恋温泉 群馬県"
+  },
+  {
+   "file": "gen_群馬_片品温泉/main.jpg",
+   "reasons": [
+    "portrait"
+   ],
+   "query": "片品温泉 群馬県"
+  },
+  {
+   "file": "inujima/spot-2.jpg",
+   "reasons": [
+    "portrait"
+   ],
+   "query": "犬島家プロジェクト 岡山県"
+  },
+  {
+   "file": "izumiotsu/spot-1.jpg",
+   "reasons": [
+    "portrait"
+   ],
+   "query": "犬鳴山 大阪府"
+  },
+  {
+   "file": "jogashima/spot-3.jpg",
+   "reasons": [
+    "portrait"
+   ],
+   "query": "安房崎灯台 神奈川県"
+  },
+  {
+   "file": "kibune-kurama/main.jpg",
+   "reasons": [
+    "portrait"
+   ],
+   "query": "鞍馬・貴船 京都府"
+  },
+  {
+   "file": "kikai-island/spot-3.jpg",
+   "reasons": [
+    "portrait"
+   ],
+   "query": "ガジュマル巨木 鹿児島県"
+  },
+  {
+   "file": "kumano/spot-2.jpg",
+   "reasons": [
+    "portrait"
+   ],
+   "query": "那智の滝 三重県"
+  },
+  {
+   "file": "kurobe/spot-3.jpg",
+   "reasons": [
+    "portrait"
+   ],
+   "query": "生地の清水（湧水） 富山県"
+  },
+  {
+   "file": "miyakejima/spot-1.jpg",
+   "reasons": [
+    "portrait"
+   ],
+   "query": "雄山 東京都"
+  },
+  {
+   "file": "motobu/spot-2.jpg",
+   "reasons": [
+    "portrait"
+   ],
+   "query": "備瀬のフクギ並木 沖縄県"
+  },
+  {
+   "file": "mt-fuji-fifth/spot-3.jpg",
+   "reasons": [
+    "portrait"
+   ],
+   "query": "御中道 山梨県"
+  },
+  {
+   "file": "nakasu/spot-2.jpg",
+   "reasons": [
+    "portrait"
+   ],
+   "query": "水鏡天満宮 福岡県"
+  },
+  {
+   "file": "niche_石川_4/spot-1.jpg",
+   "reasons": [
+    "portrait"
+   ],
+   "query": "加佐ノ岬灯台 石川県"
+  },
+  {
+   "file": "nokogiriyama/main.jpg",
+   "reasons": [
+    "portrait"
+   ],
+   "query": "鋸山 千葉県"
+  },
+  {
+   "file": "oirase/spot-2.jpg",
+   "reasons": [
+    "portrait"
+   ],
+   "query": "雲井の滝 青森県"
+  },
+  {
+   "file": "okazaki/spot-3.jpg",
+   "reasons": [
+    "portrait"
+   ],
+   "query": "徳川家康公像 愛知県"
+  },
+  {
+   "file": "okinawa-chinen/spot-2.jpg",
+   "reasons": [
+    "portrait"
+   ],
+   "query": "斎場御嶽 沖縄県"
+  },
+  {
+   "file": "ouchi-juku/spot-3.jpg",
+   "reasons": [
+    "portrait"
+   ],
+   "query": "三澤屋 福島県"
+  },
+  {
+   "file": "sakata/spot-3.jpg",
+   "reasons": [
+    "portrait"
+   ],
+   "query": "日和山公園 山形県"
+  },
+  {
+   "file": "sefa-utaki/main.jpg",
+   "reasons": [
+    "portrait"
+   ],
+   "query": "斎場御嶽 沖縄県"
+  },
+  {
+   "file": "sefa-utaki/spot-2.jpg",
+   "reasons": [
+    "portrait"
+   ],
+   "query": "久高島遥拝所 沖縄県"
+  },
+  {
+   "file": "sendai-2/spot-2.jpg",
+   "reasons": [
+    "portrait"
+   ],
+   "query": "伊達政宗騎馬像 宮城県"
+  },
+  {
+   "file": "shirakami-sanchi/spot-2.jpg",
+   "reasons": [
+    "portrait"
+   ],
+   "query": "マザーツリー 青森県・秋田県"
+  },
+  {
+   "file": "shirakawa/spot-3.jpg",
+   "reasons": [
+    "portrait"
+   ],
+   "query": "白河関跡 福島県"
+  },
+  {
+   "file": "shodoshima-canyon/spot-1.jpg",
+   "reasons": [
+    "portrait"
+   ],
+   "query": "寒霞渓ロープウェイ 香川県"
+  },
+  {
+   "file": "suo-sanbe/spot-3.jpg",
+   "reasons": [
+    "portrait"
+   ],
+   "query": "小豆原埋没林 島根県"
+  },
+  {
+   "file": "takayama-o/spot-1.jpg",
+   "reasons": [
+    "portrait"
+   ],
+   "query": "古い町並 岐阜県"
+  },
+  {
+   "file": "teshima/spot-2.jpg",
+   "reasons": [
+    "portrait"
+   ],
+   "query": "心臓音のアーカイブ 香川県"
+  },
+  {
+   "file": "togakushi/spot-1.jpg",
+   "reasons": [
+    "portrait"
+   ],
+   "query": "戸隠神社奥社 長野県"
+  },
+  {
+   "file": "tomamu/spot-2.jpg",
+   "reasons": [
+    "portrait"
+   ],
+   "query": "トマムスキー場 北海道"
+  },
+  {
+   "file": "yubu-island/spot-3.jpg",
+   "reasons": [
+    "portrait"
+   ],
+   "query": "ブーゲンビレア 沖縄県"
+  },
+  {
+   "file": "yunogo/spot-1.jpg",
+   "reasons": [
+    "portrait"
+   ],
+   "query": "湯郷温泉街 岡山県"
+  }
+ ],
+ "skippedOrphan": [
+  "hero/kanazawa.jpg",
+  "hero/kyoto.jpg",
+  "spots/ageo/0.jpg",
+  "spots/akame-falls/0.jpg",
+  "spots/akita-nyuto/0.jpg",
+  "spots/akita-nyuto/1.jpg",
+  "spots/akita-oga/1.jpg",
+  "spots/akita-oga-peninsula/2.jpg",
+  "spots/akita-oga-peninsula/1.jpg",
+  "spots/akita-yokote/0.jpg",
+  "spots/akita-yokote/2.jpg",
+  "spots/ako/1.jpg",
+  "spots/beppu/5.jpg",
+  "spots/biwako/2.jpg",
+  "spots/chikugogawa/0.jpg",
+  "spots/daisetsuzan/1.jpg",
+  "spots/echizen-cliff/1.jpg",
+  "spots/fukiya/0.jpg",
+  "spots/fukushima/1.jpg",
+  "spots/fukushima-iwaki/2.jpg",
+  "spots/gassan/2.jpg",
+  "spots/gen_北海_あさひかわ北彩都ガーデン/2.jpg",
+  "spots/gen_北海_かみゆうべつ温泉/1.jpg",
+  "spots/gen_北海_オソウシ温泉/1.jpg",
+  "spots/gen_北海_オホーツクオムイ温泉/1.jpg",
+  "spots/gen_北海_オホーツクオムイ温泉/2.jpg",
+  "spots/gen_北海_トラピスト修道院/1.jpg",
+  "spots/gen_北海_ピンネシリ温泉/2.jpg",
+  "spots/gen_北海_仲洞爺温泉/2.jpg",
+  "spots/gen_北海_北海道/1.jpg",
+  "spots/gen_北海_北海道神宮/1.jpg",
+  "spots/gen_北海_北海道神宮/2.jpg",
+  "spots/gen_北海_十勝川温泉/3.jpg",
+  "spots/gen_北海_塩別温泉/1.jpg",
+  "spots/gen_北海_大雪展望台/1.jpg",
+  "spots/gen_北海_天人峡温泉/2.jpg",
+  "spots/gen_北海_天塩温泉/2.jpg",
+  "spots/gen_北海_岩尾別温泉/2.jpg",
+  "spots/gen_北海_山彦の滝/1.jpg",
+  "spots/gen_北海_岩尾別温泉/1.jpg",
+  "spots/gen_北海_岩尾温泉/2.jpg",
+  "spots/gen_北海_札幌八幡宮/1.jpg",
+  "spots/gen_北海_朝里川温泉/2.jpg",
+  "spots/gen_北海_枝幸温泉/2.jpg",
+  "spots/gen_北海_水無海浜温泉/1.jpg",
+  "spots/gen_北海_江別神社/2.jpg",
+  "spots/gen_北海_浜頓別温泉/1.jpg",
+  "spots/gen_北海_温根湯温泉/1.jpg",
+  "spots/gen_北海_然別湖畔温泉/1.jpg",
+  "spots/gen_北海_盃温泉/2.jpg",
+  "spots/gen_北海_義経神社/1.jpg",
+  "spots/gen_北海_芦別温泉/1.jpg",
+  "spots/gen_北海_豊富温泉/1.jpg",
+  "spots/gen_北海_長節湖/2.jpg",
+  "spots/gen_北海_黒松内温泉/1.jpg",
+  "spots/gen_栃木_日光東照宮/2.jpg",
+  "spots/gen_栃木_殺生石/1.jpg",
+  "spots/gen_栃木_薬師寺八幡宮/1.jpg",
+  "spots/gen_群馬_敷島温泉/0.jpg",
+  "spots/gen_群馬_敷島温泉/2.jpg",
+  "spots/gen_群馬_法師温泉/1.jpg",
+  "spots/gen_群馬_片品温泉/1.jpg",
+  "spots/gen_茨城_大杉神社/1.jpg",
+  "spots/gen_青森_城ヶ倉温泉/3.jpg",
+  "spots/gen_青森_相乗温泉/3.jpg",
+  "spots/gen_青森_稲垣温泉/0.jpg",
+  "spots/hagi/1.jpg",
+  "spots/hakone-2/0.jpg",
+  "spots/hakushu/1.jpg",
+  "spots/hakuto-tottori/2.jpg",
+  "spots/hakuto-tottori/1.jpg",
+  "spots/hamada-shimane/2.jpg",
+  "spots/hanamaki-onsen/1.jpg",
+  "spots/himeshima/2.jpg",
+  "spots/hioki/1.jpg",
+  "spots/hiruzen/1.jpg",
+  "spots/hizen-yumesaiken/0.jpg",
+  "spots/hizen-yumesaiken/2.jpg",
+  "spots/horyuji/1.jpg",
+  "spots/ise-okage/2.jpg",
+  "spots/iseshima/4.jpg",
+  "spots/iseshima/3.jpg",
+  "spots/iso/0.jpg",
+  "spots/iwaki-spa/2.jpg",
+  "spots/iwami-kagura/1.jpg",
+  "spots/jusanko/0.jpg",
+  "spots/kagoshima-city/2.jpg",
+  "spots/kakunodate/2.jpg",
+  "spots/kamogawa/1.jpg",
+  "spots/katano/1.jpg",
+  "spots/kibune-kurama/2.jpg",
+  "spots/kibune-kurama/0.jpg",
+  "spots/kibune-kurama/1.jpg",
+  "spots/kikuchi/2.jpg",
+  "spots/kochi-castle/1.jpg",
+  "spots/kofu/3.jpg",
+  "spots/kofu/0.jpg",
+  "spots/kouzushima/1.jpg",
+  "spots/kumamoto-suizenji/1.jpg",
+  "spots/kurashiki-o/2.jpg",
+  "spots/maebashi/0.jpg",
+  "spots/maebashi/2.jpg",
+  "spots/matsumoto-castle-2/1.jpg",
+  "spots/meoto-iwa/1.jpg",
+  "spots/mifuneyama/1.jpg",
+  "spots/mikuni-minato/2.jpg",
+  "spots/mimasaka/2.jpg",
+  "spots/minamiosumi/1.jpg",
+  "spots/mino-washi/2.jpg",
+  "spots/miyagi-matsushima-2/0.jpg",
+  "spots/miyagi-rifu/0.jpg",
+  "spots/miyazaki/1.jpg",
+  "spots/mizuki-shigeru-road/0.jpg",
+  "spots/mogami-funakudari/2.jpg",
+  "spots/moroyama-2/2.jpg",
+  "spots/moroyama-saito/0.jpg",
+  "spots/motonosumi/0.jpg",
+  "spots/mt-fuji-fifth/2.jpg",
+  "spots/mt-yatsugatake/0.jpg",
+  "spots/mt-yamato/2.jpg",
+  "spots/nabari/0.jpg",
+  "spots/nagoya-castle/1.jpg",
+  "spots/narita/1.jpg",
+  "spots/niche_兵庫_1/0.jpg",
+  "spots/niche_兵庫_2/1.jpg",
+  "spots/niche_兵庫_1/1.jpg",
+  "spots/niche_大分_3/0.jpg",
+  "spots/niche_大分_4/1.jpg",
+  "spots/niche_大阪_3/0.jpg",
+  "spots/niche_奈良_1/1.jpg",
+  "spots/niche_奈良_2/0.jpg",
+  "spots/niche_奈良_3/0.jpg",
+  "spots/niche_奈良_6/1.jpg",
+  "spots/niche_宮城_3/1.jpg",
+  "spots/niche_宮城_1/1.jpg",
+  "spots/niche_宮崎_1/1.jpg",
+  "spots/niche_宮崎_7/1.jpg",
+  "spots/niche_山口_2/0.jpg",
+  "spots/niche_山口_5/1.jpg",
+  "spots/niche_山形_1/1.jpg",
+  "spots/niche_山梨_3/0.jpg",
+  "spots/niche_岩手_3/0.jpg",
+  "spots/niche_島根_4/1.jpg",
+  "spots/niche_島根_5/1.jpg",
+  "spots/niche_広島_2/1.jpg",
+  "spots/niche_広島_3/0.jpg",
+  "spots/niche_徳島_2/1.jpg",
+  "spots/niche_愛媛_4/0.jpg",
+  "spots/niche_愛知_4/1.jpg",
+  "spots/niche_東京_3/2.jpg",
+  "spots/niche_東京_4/2.jpg",
+  "spots/niche_栃木_2/2.jpg",
+  "spots/niche_滋賀_3/0.jpg",
+  "spots/niche_石川_6/0.jpg",
+  "spots/niche_福井_3/1.jpg",
+  "spots/niche_福岡_3/0.jpg",
+  "spots/niche_福岡_7/0.jpg",
+  "spots/niche_福岡_6/0.jpg",
+  "spots/niche_福島_1/0.jpg",
+  "spots/niche_福島_4/0.jpg",
+  "spots/niche_秋田_5/1.jpg",
+  "spots/niche_秋田_7/0.jpg",
+  "spots/niche_群馬_1/1.jpg",
+  "spots/niche_群馬_4/0.jpg",
+  "spots/niche_長崎_5/0.jpg",
+  "spots/niche_長崎_7/1.jpg",
+  "spots/niche_長野_3/0.jpg",
+  "spots/niche_青森_4/1.jpg",
+  "spots/niche_静岡_2/0.jpg",
+  "spots/niche_静岡_2/1.jpg",
+  "spots/niche_静岡_6/0.jpg",
+  "spots/niche_香川_4/1.jpg",
+  "spots/niche_高知_2/0.jpg",
+  "spots/niche_鳥取_5/1.jpg",
+  "spots/niche_鹿児島_1/0.jpg",
+  "spots/niche_鹿児島_5/1.jpg",
+  "spots/nichinan-coast/0.jpg",
+  "spots/nichinan-coast/2.jpg",
+  "spots/nichinan-onsen/0.jpg",
+  "spots/niigata-bandai/2.jpg",
+  "spots/niigata-bandai/0.jpg",
+  "spots/niigata-city/1.jpg",
+  "spots/niigata-sado-3/1.jpg",
+  "spots/niigata-spa/0.jpg",
+  "spots/niijima/0.jpg",
+  "spots/nozawa-onsen-niigata/1.jpg",
+  "spots/oga/2.jpg",
+  "spots/ojika-island/2.jpg",
+  "spots/okinawa-naha/0.jpg",
+  "spots/okinawa-naha/1.jpg",
+  "spots/omihachiman/2.jpg",
+  "spots/onuma/2.jpg",
+  "spots/otsu-shiga/2.jpg",
+  "spots/otaru/2.jpg",
+  "spots/rebun-no-tour/0.jpg",
+  "spots/rebun-no-tour/2.jpg",
+  "spots/saga-onsen-furuyu/0.jpg",
+  "spots/saga-onsen-furuyu/1.jpg",
+  "spots/sakura-city/0.jpg",
+  "spots/sakurajima-onsen/0.jpg",
+  "spots/sanagijima/0.jpg",
+  "spots/shimabara/2.jpg",
+  "spots/shimokitazawa-nyuto/0.jpg",
+  "spots/shinshiro-nagasinotown/1.jpg",
+  "spots/shionoe/2.jpg",
+  "spots/shitara/2.jpg",
+  "spots/shizu-shimizu/2.jpg",
+  "spots/shuri-castle/0.jpg",
+  "spots/shuri-castle/1.jpg",
+  "spots/takada-jo/2.jpg",
+  "spots/tanabe/2.jpg",
+  "spots/tateyama-chiba/1.jpg",
+  "spots/toba-pearl/2.jpg",
+  "spots/tokushima-city/2.jpg",
+  "spots/toshima/1.jpg",
+  "spots/tottori-castle/1.jpg",
+  "spots/tottori-mt-mitoku/2.jpg",
+  "spots/tsunan/1.jpg",
+  "spots/umi-jigoku/2.jpg",
+  "spots/wajima-asaichi/0.jpg",
+  "spots/yamadera-2/2.jpg",
+  "spots/yamaguchi/0.jpg",
+  "spots/yamaguchi/2.jpg",
+  "spots/yamaguchi-city/1.jpg",
+  "spots/yamaguchi-city/0.jpg",
+  "spots/yonaguni-island/1.jpg",
+  "spots/yufuin-2/2.jpg",
+  "spots/yunogo/0.jpg",
+  "spots/yutoku-inari/1.jpg",
+  "spots/zaosan/0.jpg",
+  "spots/zaosan/2.jpg",
+  "spots/zao-snow-monsters/2.jpg",
+  "spots/zuiganji/2.jpg",
+  "spots/chinatown/0.jpg",
+  "spots/fukushima-aizu-2/0.jpg",
+  "spots/gen_北海_中札内美術村/2.jpg",
+  "spots/gen_北海_北湯沢温泉/2.jpg",
+  "spots/gen_北海_弁天台場/1.jpg",
+  "spots/gen_栃木_湯西川温泉/3.jpg",
+  "spots/hitoyoshi-onsen/2.jpg",
+  "spots/kasama/2.jpg",
+  "spots/niche_千葉_6/1.jpg",
+  "spots/niche_大阪_2/0.jpg",
+  "spots/niche_東京_4/1.jpg",
+  "spots/niche_秋田_3/1.jpg",
+  "spots/shibu-onsen/0.jpg",
+  "spots/soja-okayama/2.jpg"
+ ],
+ "errors": []
+}
