@@ -76,5 +76,17 @@
   "license": "CC BY-SA 2.1 jp",
   "url": "https://commons.wikimedia.org/wiki/File:Takaragawa%20Onsen%2001.jpg",
   "attributionRequired": true
+ },
+ "ryujin-onsen": {
+  "author": "Snap55",
+  "license": "CC BY 3.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Kamigoten.jpg",
+  "attributionRequired": true
+ },
+ "takayu-onsen": {
+  "author": "雄犬",
+  "license": "CC BY-SA 2.1 jp",
+  "url": "https://commons.wikimedia.org/wiki/File:Tamago-yu%2C%20Takayu%20Onsen%2001.jpg",
+  "attributionRequired": true
  }
 }

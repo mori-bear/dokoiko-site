@@ -3735,6 +3735,20 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Ryuzinonsenmotoyu.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "上御殿",
+      "catchcopy": "紀州藩主の宿として建てられた国登録有形文化財の宿",
+      "image": "/images/stays/ryujin-onsen.jpg",
+      "jalanUrl": "https://www.jalan.net/yad312103/",
+      "hasShuttle": false,
+      "accessStation": "紀伊田辺駅からバス約80分",
+      "imageCredit": {
+        "author": "Snap55",
+        "license": "CC BY 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Kamigoten.jpg",
+        "attributionRequired": true
+      }
     }
   },
   {
@@ -86340,6 +86354,12 @@
       "license": "CC0",
       "url": "https://commons.wikimedia.org/wiki/File:Yamashiro_Onsen_260124_03.jpg",
       "attributionRequired": false
+    },
+    "featured_stay": {
+      "name": "あらや滔々庵",
+      "catchcopy": "創業八百余年・十八代続く湯元の宿。魯山人も逗留した",
+      "hasShuttle": false,
+      "accessStation": "加賀温泉駅からバス約15分"
     }
   },
   {
@@ -87300,7 +87320,15 @@
       "温泉がおすすめ",
       "ゆっくり滞在"
     ],
-    "bestSeason": "冬"
+    "bestSeason": "冬",
+    "featured_stay": {
+      "name": "後生掛温泉",
+      "catchcopy": "開湯三百余年。「馬で来て足駄で帰る」と謳われた湯治の一軒宿",
+      "jalanUrl": "https://www.jalan.net/yad333891/",
+      "hasShuttle": true,
+      "shuttleInfo": "アスピーテライン入口バス停から送迎あり（完全予約制）",
+      "accessStation": "田沢湖駅からバス約110分"
+    }
   },
   {
     "id": "ono-fukui",
@@ -88087,6 +88115,12 @@
       "license": "CC BY-SA 3.0",
       "url": "https://commons.wikimedia.org/wiki/File:%E4%B9%B3%E9%A0%AD%E6%B8%A9%E6%B3%89%E9%83%B7-%E9%B6%B4%E3%81%AE%E6%B9%AF_-_panoramio.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "妙乃湯",
+      "catchcopy": "「金の湯・銀の湯」ふたつの源泉を持つ和モダンの湯宿",
+      "hasShuttle": false,
+      "accessStation": "田沢湖駅からバス約35分「アルパこまくさ」下車"
     }
   },
   {
@@ -123853,6 +123887,13 @@
       "license": "CC BY-SA 3.0",
       "url": "https://commons.wikimedia.org/wiki/File%3A%E6%B3%A1%E3%81%AE%E6%B9%AF%E6%97%85%E9%A4%A8_Awanoyu_at_Shirahone_Spa_-_panoramio.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "泡の湯",
+      "catchcopy": "乳白色の湯に細かな泡が包む、白骨を代表する大露天の宿",
+      "jalanUrl": "https://www.jalan.net/yad361873/",
+      "hasShuttle": false,
+      "accessStation": "松本駅からバス（白骨温泉行き直通あり）"
     }
   },
   {
@@ -124067,6 +124108,14 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Matsunoyama_Onsen_street_260115_01.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "凌雲閣",
+      "catchcopy": "昭和13年築・木造三階の国登録有形文化財。日本三大薬湯の宿",
+      "jalanUrl": "https://www.jalan.net/yad323058/",
+      "hasShuttle": true,
+      "shuttleInfo": "まつだい駅から送迎あり（15:21発の1便・要予約）",
+      "accessStation": "まつだい駅"
     }
   },
   {
@@ -124494,6 +124543,20 @@
       "license": "CC BY-SA 2.1 jp",
       "url": "https://commons.wikimedia.org/wiki/File:Tamago-yu,_Takayu_Onsen_01.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "旅館玉子湯",
+      "catchcopy": "明治元年創業。茅葺の湯小屋に乳白色の硫黄泉が満ちる",
+      "image": "/images/stays/takayu-onsen.jpg",
+      "hasShuttle": true,
+      "shuttleInfo": "福島駅西口から送迎あり（2日前までに要予約）",
+      "accessStation": "福島駅",
+      "imageCredit": {
+        "author": "雄犬",
+        "license": "CC BY-SA 2.1 jp",
+        "url": "https://commons.wikimedia.org/wiki/File:Tamago-yu%2C%20Takayu%20Onsen%2001.jpg",
+        "attributionRequired": true
+      }
     }
   },
   {
@@ -127043,7 +127106,14 @@
       "温泉がおすすめ",
       "秘境感あり"
     ],
-    "bestSeason": "冬"
+    "bestSeason": "冬",
+    "featured_stay": {
+      "name": "大丸あすなろ荘",
+      "catchcopy": "江戸期から続く「日本秘湯を守る会」発祥の宿。渓流露天が名物",
+      "hasShuttle": true,
+      "shuttleInfo": "新白河駅東口から「湯ったりヤーコン号」で送迎（1日1便・要予約）",
+      "accessStation": "新白河駅"
+    }
   },
   {
     "id": "otari-onsen",
@@ -127254,7 +127324,13 @@
       "秘境感あり",
       "山岳ハイキング"
     ],
-    "bestSeason": "冬"
+    "bestSeason": "冬",
+    "featured_stay": {
+      "name": "大湯元 山田旅館",
+      "catchcopy": "江戸末期築の本館など6棟が国登録有形文化財の湯宿",
+      "hasShuttle": false,
+      "accessStation": "南小谷駅からバス約36分"
+    }
   },
   {
     "id": "yunokami-onsen",
@@ -131177,7 +131253,15 @@
       "友達と",
       "温泉がおすすめ"
     ],
-    "bestSeason": "冬"
+    "bestSeason": "冬",
+    "featured_stay": {
+      "name": "延対寺荘",
+      "catchcopy": "与謝野晶子や川端康成が愛した黒部峡谷を望む老舗",
+      "jalanUrl": "https://www.jalan.net/yad355206/",
+      "hasShuttle": true,
+      "shuttleInfo": "新幹線駅から送迎あり（前日までの予約制）",
+      "accessStation": "宇奈月温泉駅から徒歩約5分"
+    }
   },
   {
     "id": "mikatagoko",
