@@ -142,5 +142,23 @@
   "license": "CC0",
   "url": "https://commons.wikimedia.org/wiki/File:%E3%81%B9%E3%81%A3%E3%81%B4%E3%82%93%E3%81%AE%E6%B9%AF%E3%81%AE%E5%AE%BF%20%E4%B8%B8%E6%96%B0%E8%8D%98.jpg",
   "attributionRequired": false
+ },
+ "gen_北海_登別温泉": {
+  "author": "T DMY",
+  "license": "CC BY 3.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Spa%20Noboribetu%EF%BC%8F%E7%99%BB%E5%88%A5%E7%AC%AC%E4%B8%80%E6%BB%9D%E6%9C%AC%E9%A4%A8%20-%20panoramio.jpg",
+  "attributionRequired": true
+ },
+ "gen_北海_旭岳温泉": {
+  "author": "Soica2001 (talk)",
+  "license": "Public domain",
+  "url": "https://commons.wikimedia.org/wiki/File:Asahidake%20spa%20Yukomaso.JPG",
+  "attributionRequired": false
+ },
+ "gen_北海_トムラウシ温泉": {
+  "author": "Soica2001 (talk)",
+  "license": "Public domain",
+  "url": "https://commons.wikimedia.org/wiki/File:Higashi-Taisetsu%20so.JPG",
+  "attributionRequired": false
  }
 }

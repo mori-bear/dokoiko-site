@@ -93808,6 +93808,20 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Remote_views_of_Mount_Asahi_from_Asahidake_Onsen.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "湯元 湧駒荘",
+      "catchcopy": "大雪山の麓、5つの自家源泉をかけ流す秘湯の宿",
+      "image": "/images/stays/gen_北海_旭岳温泉.jpg",
+      "jalanUrl": "https://www.jalan.net/yad341740/",
+      "hasShuttle": false,
+      "accessStation": "旭川駅からバス約90分",
+      "imageCredit": {
+        "author": "Soica2001 (talk)",
+        "license": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Asahidake%20spa%20Yukomaso.JPG",
+        "attributionRequired": false
+      }
     }
   },
   {
@@ -96858,6 +96872,20 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Oyunuma_Pond,_Noboribetsu_Onsen,_Hokkaido,_April_2023_04.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "第一滝本館",
+      "catchcopy": "登別最古の老舗。1500坪・35槽の大浴場に5つの泉質が揃う",
+      "image": "/images/stays/gen_北海_登別温泉.jpg",
+      "jalanUrl": "https://www.jalan.net/yad364904/",
+      "hasShuttle": false,
+      "accessStation": "登別駅からバス・タクシー約15分",
+      "imageCredit": {
+        "author": "T DMY",
+        "license": "CC BY 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Spa%20Noboribetu%EF%BC%8F%E7%99%BB%E5%88%A5%E7%AC%AC%E4%B8%80%E6%BB%9D%E6%9C%AC%E9%A4%A8%20-%20panoramio.jpg",
+        "attributionRequired": true
+      }
     }
   },
   {
@@ -103900,6 +103928,13 @@
       "license": "CC BY 2.5",
       "url": "https://commons.wikimedia.org/wiki/File:131012_Tokachigawa_Onsen_Otofuke_Hokkaido_Japan01s3.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "十勝川温泉第一ホテル",
+      "catchcopy": "世界的にも希少な植物性モール温泉を代表する宿",
+      "hasShuttle": true,
+      "shuttleInfo": "帯広駅から無料送迎シャトルあり（前日17時までに要予約）",
+      "accessStation": "帯広駅"
     }
   },
   {
@@ -108914,6 +108949,21 @@
       "license": "Public domain",
       "url": "https://commons.wikimedia.org/wiki/File:Tomuraushi_spa_roten.JPG",
       "attributionRequired": false
+    },
+    "featured_stay": {
+      "name": "東大雪荘",
+      "catchcopy": "大雪山最深部・トムラウシの一軒宿。登山基地としても名高い",
+      "image": "/images/stays/gen_北海_トムラウシ温泉.jpg",
+      "jalanUrl": "https://www.jalan.net/yad307810/",
+      "hasShuttle": true,
+      "shuttleInfo": "新得駅から無料送迎あり（要予約・前日当日不可）",
+      "accessStation": "新得駅から車約60分",
+      "imageCredit": {
+        "author": "Soica2001 (talk)",
+        "license": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Higashi-Taisetsu%20so.JPG",
+        "attributionRequired": false
+      }
     }
   },
   {
@@ -109095,7 +109145,14 @@
       "カップル向け",
       "友達と"
     ],
-    "bestSeason": "冬"
+    "bestSeason": "冬",
+    "featured_stay": {
+      "name": "湯宿だいいち",
+      "catchcopy": "野鳥の森と渓流に抱かれた道東屈指の人気湯宿",
+      "jalanUrl": "https://www.jalan.net/yad300776/",
+      "hasShuttle": false,
+      "accessStation": "中標津空港から車約30分"
+    }
   },
   {
     "id": "gen_茨城_牛久シャトー",
@@ -112408,6 +112465,14 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:%E9%82%A3%E9%A0%88%E6%B8%A9%E6%B3%89%E9%83%B7.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "那須温泉 山楽",
+      "catchcopy": "大正12年創業。昭和天皇も訪れた御用邸と同じ湯の名宿",
+      "jalanUrl": "https://www.jalan.net/yad306188/",
+      "hasShuttle": true,
+      "shuttleInfo": "那須塩原駅西口から無料送迎あり（完全予約制・14:40発）",
+      "accessStation": "那須塩原駅"
     }
   },
   {
@@ -112794,7 +112859,14 @@
       "カップル向け",
       "友達と"
     ],
-    "bestSeason": "冬"
+    "bestSeason": "冬",
+    "featured_stay": {
+      "name": "本家伴久",
+      "catchcopy": "1666年創業・25代続く平家ゆかりの宿。囲炉裏会席とかずら橋",
+      "jalanUrl": "https://www.jalan.net/yad373449/",
+      "hasShuttle": false,
+      "accessStation": "湯西川温泉駅からバス約20分"
+    }
   },
   {
     "id": "gen_栃木_佐野プレミアム・アウトレット",
@@ -116940,6 +117012,14 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Ushi-Ike.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "万座温泉 日進舘",
+      "catchcopy": "標高1800m・日本有数の濃硫黄泉。乳白色の湯の老舗",
+      "jalanUrl": "https://www.jalan.net/yad331317/",
+      "hasShuttle": true,
+      "shuttleInfo": "万座バスターミナルから送迎あり（約5分）",
+      "accessStation": "万座鹿沢口駅からバス約40分"
     }
   },
   {
@@ -121538,6 +121618,14 @@
       "license": "CC BY-SA 3.0",
       "url": "https://commons.wikimedia.org/wiki/File:Furofushi-spa.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "不老ふ死温泉",
+      "catchcopy": "波打ち際の黄金色露天で日本海の夕陽に浸る一軒宿",
+      "jalanUrl": "https://www.jalan.net/yad323694/",
+      "hasShuttle": true,
+      "shuttleInfo": "ウェスパ椿山駅から送迎あり（要予約）",
+      "accessStation": "ウェスパ椿山駅"
     }
   },
   {
@@ -122513,6 +122601,14 @@
       "license": "CC BY 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Tuta_Onsen_K%C3%BBsatu_1.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "蔦温泉旅館",
+      "catchcopy": "久安3年（1147）記録の湯治場。ブナの森に立つ一軒宿",
+      "jalanUrl": "https://www.jalan.net/yad337770/",
+      "hasShuttle": true,
+      "shuttleInfo": "七戸十和田駅から無料送迎あり（15時発・3日前までに要予約）",
+      "accessStation": "七戸十和田駅"
     }
   },
   {
