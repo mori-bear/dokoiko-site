@@ -169,6 +169,16 @@ function toJalanAffiliate(url: string): string {
   return url;
 }
 
+// 注目の宿（featured_stay）: 実在・送迎情報をWeb確認済みのキュレーション枠。
+// rakutenUrl/jalanUrl 省略時は宿名での検索リンクにフォールバック（404リスク回避）。
+const featuredStay = (dest as any).featured_stay || null;
+const fsRakutenUrl = featuredStay
+  ? (featuredStay.rakutenUrl ? toRakutenAffiliate(featuredStay.rakutenUrl) : buildRakutenUrl(featuredStay.name))
+  : '';
+const fsJalanUrl = featuredStay
+  ? (featuredStay.jalanUrl ? toJalanAffiliate(featuredStay.jalanUrl) : buildJalanUrl(featuredStay.name))
+  : '';
+
 const hotelKeyword = (dest as any).hotelSearch || dest.name;
 const rakutenHotelUrl = hotelLinks?.rakuten ? toRakutenAffiliate(hotelLinks.rakuten) : buildRakutenUrl(hotelKeyword);
 const jalanHotelUrl = hotelLinks?.jalan ? toJalanAffiliate(hotelLinks.jalan) : buildJalanUrl(hotelKeyword);
@@ -902,6 +912,89 @@ const hubCity = _destHubCity && _destHubCity !== dest.name
   /* ═══════════════════════════════════════
      HOTEL SECTION
   ═══════════════════════════════════════ */
+  /* ── 注目の宿（featured_stay） ── */
+  .fs-card {
+    margin-bottom: 28px;
+    background: #fff;
+    border: 1px solid #eee;
+    border-radius: 16px;
+    overflow: hidden;
+    box-shadow: 0 2px 10px rgba(42,96,73,0.08);
+  }
+  .fs-img-wrap {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 16/9;
+    overflow: hidden;
+    background: #eee;
+  }
+  .fs-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+  .fs-credit {
+    position: absolute;
+    bottom: 6px;
+    right: 8px;
+    font-size: 9px;
+    color: rgba(255,255,255,0.8);
+    background: rgba(0,0,0,0.35);
+    padding: 2px 6px;
+    border-radius: 8px;
+    line-height: 1.2;
+  }
+  .fs-credit a { color: inherit; text-decoration: underline; }
+  .fs-body { padding: 16px 18px 18px; }
+  .fs-eyebrow {
+    font-size: 10px;
+    letter-spacing: 0.22em;
+    color: #C9A84C;
+    font-weight: 700;
+    margin-bottom: 6px;
+  }
+  .fs-name {
+    font-family: 'Noto Serif JP', serif;
+    font-size: 20px;
+    font-weight: 600;
+    color: #1a2e20;
+    margin: 0 0 6px;
+    line-height: 1.3;
+  }
+  .fs-catch {
+    font-size: 13px;
+    color: #555;
+    line-height: 1.7;
+    margin-bottom: 10px;
+  }
+  .fs-shuttle, .fs-access {
+    display: inline-block;
+    font-size: 12px;
+    font-weight: 600;
+    color: #2A6049;
+    background: #eef6f0;
+    border-radius: 20px;
+    padding: 5px 12px;
+    margin-bottom: 12px;
+    line-height: 1.5;
+  }
+  .fs-links { display: flex; gap: 10px; flex-wrap: wrap; }
+  .fs-link {
+    flex: 1;
+    min-width: 140px;
+    text-align: center;
+    font-size: 13px;
+    font-weight: 700;
+    padding: 11px 12px;
+    border-radius: 10px;
+    text-decoration: none;
+    line-height: 1;
+  }
+  .fs-link-rakuten { background: #BF0000; color: #fff; }
+  .fs-link-jalan   { background: #FF6D0B; color: #fff; }
+  .fs-link:hover { opacity: 0.88; }
+
   .hotel-section { margin-bottom: 56px; }
   /* Hotel tabs (CSS-only with radio inputs) */
   .hotel-tabs .hotel-tab-radio { position: absolute; left: -9999px; }
@@ -1507,6 +1600,39 @@ const hubCity = _destHubCity && _destHubCity !== dest.name
     </div>
 
     <hr class="section-divider" id="hotel" />
+
+    <!-- 注目の宿: 温泉・秘湯・老舗宿キュレーション（featured_stay） -->
+    {featuredStay && (
+      <div class="fs-card">
+        {featuredStay.image && (
+          <div class="fs-img-wrap">
+            <img class="fs-img" src={featuredStay.image}
+                 alt={`${dest.name}の宿 ${featuredStay.name}`} loading="lazy"
+                 onerror="this.parentElement.style.display='none'" />
+            {featuredStay.imageCredit?.attributionRequired && (
+              <p class="fs-credit">
+                Photo: <a href={featuredStay.imageCredit.url} target="_blank" rel="noopener noreferrer">{featuredStay.imageCredit.author}</a> / {featuredStay.imageCredit.license}
+              </p>
+            )}
+          </div>
+        )}
+        <div class="fs-body">
+          <p class="fs-eyebrow">注目の宿</p>
+          <h3 class="fs-name">{featuredStay.name}</h3>
+          <p class="fs-catch">{featuredStay.catchcopy}</p>
+          {featuredStay.hasShuttle && featuredStay.shuttleInfo && (
+            <p class="fs-shuttle">🚐 {featuredStay.shuttleInfo}</p>
+          )}
+          {!featuredStay.hasShuttle && featuredStay.accessStation && (
+            <p class="fs-access">📍 {featuredStay.accessStation}</p>
+          )}
+          <div class="fs-links">
+            <a href={fsRakutenUrl} target="_blank" rel="noopener noreferrer" class="fs-link fs-link-rakuten">楽天トラベルで見る</a>
+            <a href={fsJalanUrl} target="_blank" rel="noopener noreferrer" class="fs-link fs-link-jalan">じゃらんで見る</a>
+          </div>
+        </div>
+      </div>
+    )}
 
     <!-- 宿泊: 現地泊 / hub泊 / 県庁所在地fallback。離島系 (showDualHotel) はタブ表示 -->
     {showDualHotel ? (

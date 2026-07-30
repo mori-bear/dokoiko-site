@@ -1,0 +1,32 @@
+{
+ "shuzenji": {
+  "author": "Batholith",
+  "license": "Public domain",
+  "url": "https://commons.wikimedia.org/wiki/File:Arai%20Ryokan%20Entrance.jpg",
+  "attributionRequired": false
+ },
+ "kinosaki-onsen": {
+  "author": "Asturio Cantabrio",
+  "license": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Nishimuraya_Honkan_2026-02_ac.jpg",
+  "attributionRequired": true
+ },
+ "ginzan-onsen": {
+  "author": "Eiji Kikuta (AG2016) from Sendai, Japan",
+  "license": "CC0",
+  "url": "https://commons.wikimedia.org/wiki/File:Ginzan%20Onsen%20Noto-ya%20Ryokan%20with%20a%20sign%20of%20founder%2C%20Kido%20Sasaemon%2C%20in%20Hanazawa%2C%20Yamagata%20(%E5%B1%B1%E5%BD%A2%E7%9C%8C%E9%8A%80%E5%B1%B1%E6%B8%A9%E6%B3%89%20%E8%83%BD%E7%99%BB%E5%B1%8B%E6%97%85%E9%A4%A8%20%E3%81%A8%20%E5%89%B5%E6%A5%AD%E8%80%85%E3%83%BB%E6%9C%A8%E6%88%B8%E4%BD%90%E5%B7%A6%E3%82%A8%E9%96%80%E3%81%AE%E5%A4%A7%E7%9C%8B%E6%9D%BF)%20(2015-03-07%20by%20Eiji%20Kikuta%20%40Pixabay%201366872).jpg",
+  "attributionRequired": false
+ },
+ "nyuto-onsen": {
+  "author": "Fumiaki Yoshimatsu from Tokyo, Japan",
+  "license": "CC BY-SA 2.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Tsurunoyu%20Onsen%2004.jpg",
+  "attributionRequired": true
+ },
+ "shima-onsen": {
+  "author": "Kentaro Ohno from Tokyo, Japan",
+  "license": "CC BY 2.0",
+  "url": "https://commons.wikimedia.org/wiki/File:%E7%A9%8D%E5%96%84%E9%A4%A8%E6%9C%AC%E9%A4%A8%20%E4%B8%AD%E4%B9%8B%E6%9D%A1%202013%20(9994399714).jpg",
+  "attributionRequired": true
+ }
+}
