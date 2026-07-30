@@ -156349,7 +156349,22 @@
       "url": "https://commons.wikimedia.org/wiki/File%3A140427_Tamatsukuri_Onsen_Matsue_Shimane_pref_Japan07bs.jpg",
       "attributionRequired": true
     },
-    "mainSpot": "玉作湯神社"
+    "mainSpot": "玉作湯神社",
+    "featured_stay": {
+      "name": "湯之助の宿 長楽園",
+      "catchcopy": "明治元年創業。120坪の混浴大露天「龍宮の湯」を擁する湯之助の宿",
+      "image": "/images/stays/tamatsukuri-onsen.jpg",
+      "jalanUrl": "https://www.jalan.net/yad323049/",
+      "hasShuttle": true,
+      "shuttleInfo": "玉造温泉駅からシャトルバスあり",
+      "accessStation": "玉造温泉駅",
+      "imageCredit": {
+        "author": "663highland",
+        "license": "CC BY 2.5",
+        "url": "https://commons.wikimedia.org/wiki/File:140427%20Chorakuen%20Tamatsukuri%20Onsen%20Matsue%20Shimane%20pref%20Japan01s3.jpg",
+        "attributionRequired": true
+      }
+    }
   },
   {
     "id": "iya-vine-bridge",
@@ -156755,7 +156770,22 @@
       "秘境感あり"
     ],
     "bestSeason": "冬",
-    "mainSpot": "砂湯"
+    "mainSpot": "砂湯",
+    "featured_stay": {
+      "name": "元禄旅籠 油屋",
+      "catchcopy": "元禄元年（1688）創業。砂湯の湯郷に残る旅籠建築",
+      "image": "/images/stays/yubara-onsen.jpg",
+      "jalanUrl": "https://www.jalan.net/yad323331/",
+      "hasShuttle": true,
+      "shuttleInfo": "湯原温泉バス停から送迎あり",
+      "accessStation": "中国勝山駅からバス約49分",
+      "imageCredit": {
+        "author": "Volfgang (talk)",
+        "license": "CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Aburaya%20in%20Yubara.jpg",
+        "attributionRequired": true
+      }
+    }
   },
   {
     "id": "yunogo",
@@ -156951,7 +156981,20 @@
       "url": "https://commons.wikimedia.org/wiki/File:%E5%A5%A5%E6%B4%A5%E6%B8%A9%E6%B3%89_-_panoramio.jpg",
       "attributionRequired": true
     },
-    "mainSpot": "奥津渓"
+    "mainSpot": "奥津渓",
+    "featured_stay": {
+      "name": "名泉鍵湯 奥津荘",
+      "catchcopy": "昭和2年築・国登録有形文化財。足元湧出の「鍵湯」は津山藩主専用だった名湯",
+      "image": "/images/stays/okutsu.jpg",
+      "hasShuttle": false,
+      "accessStation": "津山駅からバス（奥津温泉）",
+      "imageCredit": {
+        "author": "Phronimoi",
+        "license": "CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Okutsu%20Onsen%2004.jpg",
+        "attributionRequired": true
+      }
+    }
   },
   {
     "id": "hinase",
@@ -159237,7 +159280,21 @@
       "/images/iwaki-spa/main.jpg"
     ],
     "bestSeason": "冬",
-    "mainSpot": "スパリゾートハワイアンズ"
+    "mainSpot": "スパリゾートハワイアンズ",
+    "featured_stay": {
+      "name": "古滝屋",
+      "catchcopy": "元禄8年（1695）創業330年。湯本の湯を守り続ける老舗",
+      "image": "/images/stays/iwaki-spa.jpg",
+      "jalanUrl": "https://www.jalan.net/yad335663/",
+      "hasShuttle": false,
+      "accessStation": "湯本駅から徒歩約7分",
+      "imageCredit": {
+        "author": "妖精書士",
+        "license": "CC0",
+        "url": "https://commons.wikimedia.org/wiki/File:Furutakiya.jpg",
+        "attributionRequired": false
+      }
+    }
   },
   {
     "id": "miyama-kayabuki",
@@ -160329,7 +160386,13 @@
       "/images/hitoyoshi-onsen/main.jpg"
     ],
     "bestSeason": "夏・冬",
-    "mainSpot": "人吉城"
+    "mainSpot": "人吉城",
+    "featured_stay": {
+      "name": "人吉旅館",
+      "catchcopy": "昭和9年築・国登録有形文化財。球磨川水害から蘇った木造宿",
+      "hasShuttle": false,
+      "accessStation": "人吉駅から徒歩圏"
+    }
   },
   {
     "id": "nichinan-coast",
@@ -160746,7 +160809,21 @@
       "url": "https://commons.wikimedia.org/wiki/File%3ANaeba_Prince_Hotel_01.JPG",
       "attributionRequired": false
     },
-    "mainSpot": "湯沢高原"
+    "mainSpot": "湯沢高原",
+    "featured_stay": {
+      "name": "雪国の宿 高半",
+      "catchcopy": "開湯900余年の湯元。川端康成が「雪国」を書いた宿",
+      "image": "/images/stays/nozawa-onsen-niigata.jpg",
+      "hasShuttle": true,
+      "shuttleInfo": "越後湯沢駅から迎えあり（到着後に連絡）",
+      "accessStation": "越後湯沢駅",
+      "imageCredit": {
+        "author": "senngokujidai4434",
+        "license": "CC BY 2.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Entrance%20of%20Kasumi%20room%2C%20Takahan%20ryokan%2C%20Yuzawa%20-%20Mar%2031%2C%202018.jpg",
+        "attributionRequired": true
+      }
+    }
   },
   {
     "id": "kanazawa-castle",
@@ -161419,7 +161496,21 @@
       "秘境感あり"
     ],
     "bestSeason": "春",
-    "mainSpot": "鉛温泉"
+    "mainSpot": "鉛温泉",
+    "featured_stay": {
+      "name": "鉛温泉 藤三旅館",
+      "catchcopy": "昭和16年築の本館と日本一深い岩風呂「白猿の湯」は国登録有形文化財",
+      "image": "/images/stays/hanamaki-onsen.jpg",
+      "hasShuttle": true,
+      "shuttleInfo": "花巻駅・新花巻駅から無料シャトルあり（要予約）",
+      "accessStation": "花巻駅",
+      "imageCredit": {
+        "author": "Soica2001 (talk)",
+        "license": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Namari%20spa%20Fujisann%20ryokan%202008.jpg",
+        "attributionRequired": false
+      }
+    }
   },
   {
     "id": "zao-snow-monsters",
@@ -163906,7 +163997,14 @@
       "街歩き向け"
     ],
     "bestSeason": "冬",
-    "mainSpot": "湯の坪街道"
+    "mainSpot": "湯の坪街道",
+    "featured_stay": {
+      "name": "亀の井別荘",
+      "catchcopy": "大正10年創業。金鱗湖畔一万坪の杜に佇む由布院の御三家",
+      "hasShuttle": true,
+      "shuttleInfo": "由布院駅から無料送迎あり（10〜16時・要予約）",
+      "accessStation": "由布院駅"
+    }
   },
   {
     "id": "kagoshima-city",
@@ -164097,7 +164195,15 @@
       "/images/ibusuki-onsen/main.jpg"
     ],
     "bestSeason": "冬",
-    "mainSpot": "砂むし温泉"
+    "mainSpot": "砂むし温泉",
+    "featured_stay": {
+      "name": "指宿白水館",
+      "catchcopy": "約1000坪の「元禄風呂」と砂むし温泉。薩摩の迎賓の宿",
+      "jalanUrl": "https://www.jalan.net/yad357348/",
+      "hasShuttle": true,
+      "shuttleInfo": "指宿駅から無料送迎あり（定時運行・予約不要）",
+      "accessStation": "指宿駅"
+    }
   },
   {
     "id": "okinawa-naha",
@@ -173678,7 +173784,13 @@
       "url": "https://commons.wikimedia.org/wiki/File:160717_Tsukioka_Onsen_Shibata_Niigata_pref_Japan13s3.jpg",
       "attributionRequired": true
     },
-    "mainSpot": "月岡温泉"
+    "mainSpot": "月岡温泉",
+    "featured_stay": {
+      "name": "白玉の湯 泉慶",
+      "catchcopy": "エメラルドグリーンの自家源泉を持つ月岡の代表格",
+      "hasShuttle": false,
+      "accessStation": "豊栄駅から車約20分（有料シャトルあり）"
+    }
   },
   {
     "id": "niigata-uono",
