@@ -130,5 +130,17 @@
   "license": "CC BY-SA 4.0",
   "url": "https://commons.wikimedia.org/wiki/File:Kumano%20Kodo%20pilgrimage%20route%20Kawa-yu%20Onsen%20World%20heritage%20%E7%86%8A%E9%87%8E%E5%8F%A4%E9%81%93%20%E5%B7%9D%E6%B9%AF%E6%B8%A9%E6%B3%89120.JPG",
   "attributionRequired": true
+ },
+ "kawaji-onsen": {
+  "author": "Gene Jackson from Brooklyn, United States",
+  "license": "CC BY-SA 2.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Kawaji%20Onsen%20-Kashiwaya.jpg",
+  "attributionRequired": true
+ },
+ "nichinan-onsen": {
+  "author": "舌平目",
+  "license": "CC0",
+  "url": "https://commons.wikimedia.org/wiki/File:%E3%81%B9%E3%81%A3%E3%81%B4%E3%82%93%E3%81%AE%E6%B9%AF%E3%81%AE%E5%AE%BF%20%E4%B8%B8%E6%96%B0%E8%8D%98.jpg",
+  "attributionRequired": false
  }
 }

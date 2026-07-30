@@ -7749,7 +7749,14 @@
       "温泉がおすすめ",
       "山岳ハイキング"
     ],
-    "bestSeason": "冬"
+    "bestSeason": "冬",
+    "featured_stay": {
+      "name": "山の宿 新明館",
+      "catchcopy": "明治41年創業。手掘り30mの洞窟風呂が名物、黒川再生の象徴の宿",
+      "hasShuttle": true,
+      "shuttleInfo": "黒川温泉バス停から無料送迎あり（要事前連絡）",
+      "accessStation": "阿蘇駅・別府駅等からバス（黒川温泉）"
+    }
   },
   {
     "id": "aso",
@@ -73188,7 +73195,13 @@
       "友達と",
       "温泉がおすすめ"
     ],
-    "bestSeason": "冬"
+    "bestSeason": "冬",
+    "featured_stay": {
+      "name": "あたらしや",
+      "catchcopy": "創業250年・1日8組。金沢の奥座敷に息づく純和風の老舗",
+      "hasShuttle": false,
+      "accessStation": "金沢駅からバス（湯涌温泉終点）"
+    }
   },
   {
     "id": "yura-wakayama",
@@ -124827,6 +124840,14 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Oyu_Onsen_Kokeshi-kan.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "龍門亭 千葉旅館",
+      "catchcopy": "明治2年創業。四季の庭園と源泉かけ流しの老舗",
+      "jalanUrl": "https://www.jalan.net/yad300539/",
+      "hasShuttle": true,
+      "shuttleInfo": "最寄駅・バス停から無料送迎あり（2名以上）",
+      "accessStation": "鹿角花輪駅からバス"
     }
   },
   {
@@ -127593,6 +127614,14 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:%E6%B9%AF%E9%87%8E%E4%B8%8A%E6%B8%A9%E6%B3%89%E9%A7%85.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "藤龍館",
+      "catchcopy": "大川渓谷沿い全12室。全室に源泉かけ流しの湯を備える隠れ宿",
+      "jalanUrl": "https://www.jalan.net/yad318536/",
+      "hasShuttle": true,
+      "shuttleInfo": "新白河駅から無料送迎バスあり（1日1本・約1時間）",
+      "accessStation": "湯野上温泉駅から徒歩約7分"
     }
   },
   {
@@ -128997,6 +129026,14 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:JREast-Chuo-main-line-CO41-Isawa-onsen-station-building-south-20220806-113920.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "銘石の宿 かげつ",
+      "catchcopy": "5000坪の庭園に銘石と20の滝。旅館100選45年連続の名宿",
+      "jalanUrl": "https://www.jalan.net/yad327951/",
+      "hasShuttle": true,
+      "shuttleInfo": "石和温泉駅北口から無料送迎あり（14〜18時・要連絡）",
+      "accessStation": "石和温泉駅"
     }
   },
   {
@@ -155979,7 +156016,22 @@
       "url": "https://commons.wikimedia.org/wiki/File%3AKawaji_Hotspring01.JPG",
       "attributionRequired": false
     },
-    "mainSpot": "川治温泉郷"
+    "mainSpot": "川治温泉郷",
+    "featured_stay": {
+      "name": "湯けむりの里 柏屋",
+      "catchcopy": "大正15年創業。鬼怒川と男鹿川の合流点に立つ風呂自慢の宿",
+      "image": "/images/stays/kawaji-onsen.jpg",
+      "jalanUrl": "https://www.jalan.net/yad309059/",
+      "hasShuttle": true,
+      "shuttleInfo": "川治湯元駅から無料送迎あり（要連絡）",
+      "accessStation": "川治湯元駅",
+      "imageCredit": {
+        "author": "Gene Jackson from Brooklyn, United States",
+        "license": "CC BY-SA 2.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Kawaji%20Onsen%20-Kashiwaya.jpg",
+        "attributionRequired": true
+      }
+    }
   },
   {
     "id": "izumo-taisha",
@@ -156928,7 +156980,14 @@
       "url": "https://commons.wikimedia.org/wiki/File:%E3%81%86%E3%82%81%E3%81%BC%E3%81%97%E5%85%AC%E5%9C%92.jpg",
       "attributionRequired": true
     },
-    "mainSpot": "湯郷温泉街"
+    "mainSpot": "湯郷温泉街",
+    "featured_stay": {
+      "name": "季譜の里",
+      "catchcopy": "全館畳敷きと76の活け花が迎える美作三湯の宿",
+      "jalanUrl": "https://www.jalan.net/yad316820/",
+      "hasShuttle": false,
+      "accessStation": "林野駅から車約7分"
+    }
   },
   {
     "id": "okutsu",
@@ -169020,7 +169079,14 @@
       "原鶴"
     ],
     "bestSeason": "夏・秋",
-    "mainSpot": "原鶴温泉"
+    "mainSpot": "原鶴温泉",
+    "featured_stay": {
+      "name": "泰泉閣",
+      "catchcopy": "筑後川畔・110余年の湯宿。名物「ジャングル風呂」で知られる",
+      "jalanUrl": "https://www.jalan.net/yad323391/",
+      "hasShuttle": false,
+      "accessStation": "筑後吉井駅から車約10分"
+    }
   },
   {
     "id": "asakuradan",
@@ -170646,7 +170712,15 @@
       "url": "https://commons.wikimedia.org/wiki/File:131221_Shirahama_Onsen_Shirahama_Wakayama_pref_Japan10s3.jpg",
       "attributionRequired": true
     },
-    "mainSpot": "白良浜"
+    "mainSpot": "白良浜",
+    "featured_stay": {
+      "name": "紀州・白浜温泉 むさし",
+      "catchcopy": "白良浜まで徒歩1分。自家源泉ふたつを持つ和風旅館",
+      "jalanUrl": "https://www.jalan.net/yad351500/",
+      "hasShuttle": true,
+      "shuttleInfo": "白浜駅から旅館組合の無料シャトルあり（迎えは予約不要）",
+      "accessStation": "白浜駅"
+    }
   },
   {
     "id": "totsukawa-2",
@@ -170742,7 +170816,13 @@
       "url": "https://commons.wikimedia.org/wiki/File:Totsukawa_spa_town_2011.JPG",
       "attributionRequired": false
     },
-    "mainSpot": "十津川温泉"
+    "mainSpot": "十津川温泉",
+    "featured_stay": {
+      "name": "湖泉閣 吉乃屋",
+      "catchcopy": "大正13年創業。二津野湖に臨む全室湖側の源泉かけ流し宿",
+      "hasShuttle": false,
+      "accessStation": "大和八木駅からバス約240分「十津川温泉」下車"
+    }
   },
   {
     "id": "kawayu",
@@ -172632,7 +172712,21 @@
       "街歩き向け"
     ],
     "bestSeason": "秋",
-    "mainSpot": "北郷温泉"
+    "mainSpot": "北郷温泉",
+    "featured_stay": {
+      "name": "べっぴんの湯の宿 丸新荘",
+      "catchcopy": "とろみの強い「べっぴんの湯」を掛け流す日南の湯宿",
+      "image": "/images/stays/nichinan-onsen.jpg",
+      "jalanUrl": "https://www.jalan.net/yad326520/",
+      "hasShuttle": false,
+      "accessStation": "北郷駅から車約5分",
+      "imageCredit": {
+        "author": "舌平目",
+        "license": "CC0",
+        "url": "https://commons.wikimedia.org/wiki/File:%E3%81%B9%E3%81%A3%E3%81%B4%E3%82%93%E3%81%AE%E6%B9%AF%E3%81%AE%E5%AE%BF%20%E4%B8%B8%E6%96%B0%E8%8D%98.jpg",
+        "attributionRequired": false
+      }
+    }
   },
   {
     "id": "chiba-zoo",
@@ -177454,7 +177548,14 @@
       "秘境感あり"
     ],
     "bestSeason": "秋",
-    "mainSpot": "宇奈月温泉"
+    "mainSpot": "宇奈月温泉",
+    "featured_stay": {
+      "name": "延楽",
+      "catchcopy": "黒部峡谷の絶景と美術品コレクションで知られる老舗",
+      "hasShuttle": true,
+      "shuttleInfo": "黒部宇奈月温泉駅から送迎あり（前日20時までに要予約）",
+      "accessStation": "宇奈月温泉駅から徒歩圏"
+    }
   },
   {
     "id": "niigata-sado-3",
