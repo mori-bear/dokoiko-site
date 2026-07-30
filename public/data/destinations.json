@@ -5291,6 +5291,22 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:%E8%8D%89%E6%B4%A5%E6%B8%A9%E6%B3%89%E3%81%AE%E6%B9%AF%E7%95%9103.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "奈良屋",
+      "catchcopy": "明治10年創業。湯畑まで徒歩1分、白旗源泉の湯守の宿",
+      "image": "/images/stays/kusatsu-onsen.jpg",
+      "rakutenUrl": "https://travel.rakuten.co.jp/HOTEL/70807/70807.html",
+      "jalanUrl": "https://www.jalan.net/yad362465/",
+      "hasShuttle": true,
+      "shuttleInfo": "草津温泉バスターミナルから送迎あり（到着後連絡）",
+      "accessStation": "長野原草津口駅からバス約25分",
+      "imageCredit": {
+        "author": "Abasaa",
+        "license": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Kusatsu%20Onsen%20Naraya.JPG",
+        "attributionRequired": false
+      }
     }
   },
   {
@@ -6165,7 +6181,14 @@
       "ひとり旅向け",
       "カップル向け"
     ],
-    "bestSeason": "冬"
+    "bestSeason": "冬",
+    "featured_stay": {
+      "name": "陶泉 御所坊",
+      "catchcopy": "建久2年（1191）創業と伝わる有馬最古の宿。谷崎潤一郎も愛した",
+      "jalanUrl": "https://www.jalan.net/yad382371/",
+      "hasShuttle": false,
+      "accessStation": "有馬温泉駅から徒歩約5分"
+    }
   },
   {
     "id": "kinosaki-onsen",
@@ -17613,6 +17636,20 @@
       "license": "CC0",
       "url": "https://commons.wikimedia.org/wiki/File:Yuda-Onsen_Station,_ekisha-1.jpg",
       "attributionRequired": false
+    },
+    "featured_stay": {
+      "name": "松田屋ホテル",
+      "catchcopy": "延宝3年（1675）創業。維新の志士たちが集った湯田最古の宿",
+      "image": "/images/stays/yuda-onsen.jpg",
+      "jalanUrl": "https://www.jalan.net/yad336484/",
+      "hasShuttle": false,
+      "accessStation": "湯田温泉駅からタクシー約5分",
+      "imageCredit": {
+        "author": "Asturio Cantabrio",
+        "license": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Matsudaya%20Hotel%20ac.jpg",
+        "attributionRequired": true
+      }
     }
   },
   {
@@ -17804,6 +17841,14 @@
       "license": "CC BY-SA 2.0",
       "url": "https://commons.wikimedia.org/wiki/File:%E6%96%B0%E5%B9%B9%E7%B7%9AN700S-Y4,_%E5%AC%89%E9%87%8E%E6%B8%A9%E6%B3%89%E9%A7%85_(20250129)_(54560611704).jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "大正屋",
+      "catchcopy": "大正14年創業。「日本三大美肌の湯」嬉野を代表する老舗",
+      "jalanUrl": "https://www.jalan.net/yad321819/",
+      "hasShuttle": true,
+      "shuttleInfo": "嬉野温泉駅・嬉野バスセンターから送迎あり（2名以上）",
+      "accessStation": "嬉野温泉駅"
     }
   },
   {
@@ -20907,6 +20952,20 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Gero_Hot_Springs_Museum_ac.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "湯之島館",
+      "catchcopy": "昭和6年築・国登録有形文化財。5万坪の山中に佇む木造三階の名宿",
+      "image": "/images/stays/gero-onsen.jpg",
+      "hasShuttle": true,
+      "shuttleInfo": "下呂駅から無料送迎あり（13:35〜17:25）",
+      "accessStation": "下呂駅",
+      "imageCredit": {
+        "author": "大野 一将",
+        "license": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Yunoshima%20kan%20hotel%2C%20Gero%2C%202015.jpg",
+        "attributionRequired": true
+      }
     }
   },
   {
@@ -21106,6 +21165,13 @@
       "license": "CC BY 3.0",
       "url": "https://commons.wikimedia.org/wiki/File:%E9%B3%B4%E5%AD%90%E6%B8%A9%E6%B3%89%E9%A7%85_-_panoramio_(16).jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "ゆさや旅館",
+      "catchcopy": "寛永9年から約390年、伊達家の湯守を務めた「うなぎ湯」の宿",
+      "jalanUrl": "https://www.jalan.net/yad316351/",
+      "hasShuttle": false,
+      "accessStation": "鳴子温泉駅から徒歩約4分"
     }
   },
   {
@@ -22190,6 +22256,13 @@
       "license": "CC BY-SA 3.0",
       "url": "https://commons.wikimedia.org/wiki/File:Bessho_Onsen_center.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "旅館花屋",
+      "catchcopy": "大正6年創業。宮大工の技が息づく国登録有形文化財の宿",
+      "jalanUrl": "https://www.jalan.net/yad348992/",
+      "hasShuttle": false,
+      "accessStation": "別所温泉駅から徒歩約5分"
     }
   },
   {
@@ -22777,6 +22850,15 @@
       "license": "CC BY 2.5",
       "url": "https://commons.wikimedia.org/wiki/File:Misasa_onsen_yado01s4592.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "旅館大橋",
+      "catchcopy": "昭和7年築・ほぼ全館が国登録有形文化財。天然岩風呂の湯宿",
+      "rakutenUrl": "https://travel.rakuten.co.jp/HOTEL/40046/40046.html",
+      "jalanUrl": "https://www.jalan.net/yad345546/",
+      "hasShuttle": true,
+      "shuttleInfo": "倉吉駅から送迎あり（マイクロバス）",
+      "accessStation": "倉吉駅"
     }
   },
   {
@@ -86747,6 +86829,20 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File%3AShibu_onsen_night_view.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "歴史の宿 金具屋",
+      "catchcopy": "昭和11年築の木造四階「斉月楼」は国登録有形文化財",
+      "image": "/images/stays/shibu-onsen.jpg",
+      "hasShuttle": true,
+      "shuttleInfo": "湯田中駅から送迎あり（15時以降・要予約）",
+      "accessStation": "湯田中駅",
+      "imageCredit": {
+        "author": "ほっきー",
+        "license": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:%E6%B8%8B%E6%B8%A9%E6%B3%89%20%E9%87%91%E5%85%B7%E5%B1%8B%E3%83%BB%E5%A4%9C%E6%99%AF.jpg",
+        "attributionRequired": true
+      }
     }
   },
   {
@@ -92089,6 +92185,20 @@
       "license": "CC BY 2.5",
       "url": "https://commons.wikimedia.org/wiki/File:140322_Unzen_Onsen_Jigoku_Unzen_Nagasaki_pref_Japan18s3.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "雲仙観光ホテル",
+      "catchcopy": "昭和10年築・国登録有形文化財のクラシックホテル",
+      "image": "/images/stays/unzen2.jpg",
+      "hasShuttle": true,
+      "shuttleInfo": "諫早駅・長崎空港から無料シャトルあり（約1時間）",
+      "accessStation": "諫早駅",
+      "imageCredit": {
+        "author": "663highland",
+        "license": "CC BY 2.5",
+        "url": "https://commons.wikimedia.org/wiki/File:140322%20Unzen%20Kanko%20Hotel%20Unzen%20Nagasaki%20pref%20Japan04s3.jpg",
+        "attributionRequired": true
+      }
     }
   },
   {

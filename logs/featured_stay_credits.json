@@ -28,5 +28,35 @@
   "license": "CC BY 2.0",
   "url": "https://commons.wikimedia.org/wiki/File:%E7%A9%8D%E5%96%84%E9%A4%A8%E6%9C%AC%E9%A4%A8%20%E4%B8%AD%E4%B9%8B%E6%9D%A1%202013%20(9994399714).jpg",
   "attributionRequired": true
+ },
+ "kusatsu-onsen": {
+  "author": "Abasaa",
+  "license": "Public domain",
+  "url": "https://commons.wikimedia.org/wiki/File:Kusatsu%20Onsen%20Naraya.JPG",
+  "attributionRequired": false
+ },
+ "gero-onsen": {
+  "author": "大野 一将",
+  "license": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Yunoshima%20kan%20hotel%2C%20Gero%2C%202015.jpg",
+  "attributionRequired": true
+ },
+ "unzen2": {
+  "author": "663highland",
+  "license": "CC BY 2.5",
+  "url": "https://commons.wikimedia.org/wiki/File:140322%20Unzen%20Kanko%20Hotel%20Unzen%20Nagasaki%20pref%20Japan04s3.jpg",
+  "attributionRequired": true
+ },
+ "yuda-onsen": {
+  "author": "Asturio Cantabrio",
+  "license": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Matsudaya%20Hotel%20ac.jpg",
+  "attributionRequired": true
+ },
+ "shibu-onsen": {
+  "author": "ほっきー",
+  "license": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:%E6%B8%8B%E6%B8%A9%E6%B3%89%20%E9%87%91%E5%85%B7%E5%B1%8B%E3%83%BB%E5%A4%9C%E6%99%AF.jpg",
+  "attributionRequired": true
  }
 }
