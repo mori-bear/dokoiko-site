@@ -58,5 +58,23 @@
   "license": "CC BY-SA 4.0",
   "url": "https://commons.wikimedia.org/wiki/File:%E6%B8%8B%E6%B8%A9%E6%B3%89%20%E9%87%91%E5%85%B7%E5%B1%8B%E3%83%BB%E5%A4%9C%E6%99%AF.jpg",
   "attributionRequired": true
+ },
+ "sakunami-onsen": {
+  "author": "JustinSendai",
+  "license": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Sakan%20Hotel%20lobby.jpg",
+  "attributionRequired": true
+ },
+ "kinugawa-onsen": {
+  "author": "妖精書士 (talk)",
+  "license": "CC0",
+  "url": "https://commons.wikimedia.org/wiki/File:ASAYA%20Hotel.JPG",
+  "attributionRequired": false
+ },
+ "takarakawa-onsen": {
+  "author": "nobiinue",
+  "license": "CC BY-SA 2.1 jp",
+  "url": "https://commons.wikimedia.org/wiki/File:Takaragawa%20Onsen%2001.jpg",
+  "attributionRequired": true
  }
 }

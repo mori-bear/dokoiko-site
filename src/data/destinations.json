@@ -11353,6 +11353,14 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Ko-Soyu_ac_(4).jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "白鷺湯たわらや",
+      "catchcopy": "鎌倉期「湯元十二軒」の流れをくむ創業800年の宿",
+      "jalanUrl": "https://www.jalan.net/yad317168/",
+      "hasShuttle": true,
+      "shuttleInfo": "加賀温泉駅から無料送迎バスあり（約20分・事前予約）",
+      "accessStation": "加賀温泉駅"
     }
   },
   {
@@ -19474,7 +19482,14 @@
       "カップル向け",
       "友達と"
     ],
-    "bestSeason": "冬"
+    "bestSeason": "冬",
+    "featured_stay": {
+      "name": "村のホテル 住吉屋",
+      "catchcopy": "明治2年創業。名所「麻釜」の畔に立つ1日10組の湯宿",
+      "jalanUrl": "https://www.jalan.net/yad344455/",
+      "hasShuttle": false,
+      "accessStation": "野沢温泉バス停から徒歩圏（麻釜そば）"
+    }
   },
   {
     "id": "takehara",
@@ -30510,6 +30525,21 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:211029_Akiu_Onsen_Sendai_Miyagi_pref_Japan01s3.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "伝承千年の宿 佐勘",
+      "catchcopy": "伊達政宗公の湯浴み御殿。代々湯守を務める秋保の名門",
+      "image": "/images/stays/sakunami-onsen.jpg",
+      "jalanUrl": "https://www.jalan.net/yad318193/",
+      "hasShuttle": true,
+      "shuttleInfo": "仙台駅東口から無料送迎バスあり（予約定員制）",
+      "accessStation": "仙台駅",
+      "imageCredit": {
+        "author": "JustinSendai",
+        "license": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Sakan%20Hotel%20lobby.jpg",
+        "attributionRequired": true
+      }
     }
   },
   {
@@ -31741,7 +31771,15 @@
       "カップル向け",
       "友達と"
     ],
-    "bestSeason": "秋"
+    "bestSeason": "秋",
+    "featured_stay": {
+      "name": "明賀屋本館",
+      "catchcopy": "1674年創業。88段の階段を下りた先に川岸露天が待つ秘湯宿",
+      "jalanUrl": "https://www.jalan.net/yad303687/",
+      "hasShuttle": true,
+      "shuttleInfo": "塩釜バス停から無料送迎あり",
+      "accessStation": "西那須野駅からバス"
+    }
   },
   {
     "id": "sado-island",
@@ -33194,6 +33232,13 @@
       "license": "CC BY 2.0",
       "url": "https://commons.wikimedia.org/wiki/File:Ice_art_in_Gifu_(53618557123).jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "槍見の湯 槍見舘",
+      "catchcopy": "槍ヶ岳を望む蒲田川沿いの古民家造りの一軒宿",
+      "jalanUrl": "https://www.jalan.net/yad322143/",
+      "hasShuttle": false,
+      "accessStation": "新穂高温泉（高山駅からバス）"
     }
   },
   {
@@ -53298,6 +53343,20 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Kinugawa_Onsen_Hotel_2020.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "あさやホテル",
+      "catchcopy": "明治21年創業。鬼怒川を代表する老舗の大型温泉ホテル",
+      "image": "/images/stays/kinugawa-onsen.jpg",
+      "hasShuttle": true,
+      "shuttleInfo": "宇都宮駅から送迎バスあり（要予約）",
+      "accessStation": "鬼怒川温泉駅からダイヤルバス約8分",
+      "imageCredit": {
+        "author": "妖精書士 (talk)",
+        "license": "CC0",
+        "url": "https://commons.wikimedia.org/wiki/File:ASAYA%20Hotel.JPG",
+        "attributionRequired": false
+      }
     }
   },
   {
@@ -56894,6 +56953,14 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:%E6%B4%9E%E5%B7%9D%E6%B8%A9%E6%B3%89_%E5%B1%B1%E4%B8%8A%E5%B7%9D.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "花屋徳兵衛",
+      "catchcopy": "創業500年・洞川温泉最古。修験の宿場に立つ十七代続く宿",
+      "jalanUrl": "https://www.jalan.net/yad343142/",
+      "hasShuttle": true,
+      "shuttleInfo": "洞川温泉バス停から迎えあり（要連絡）",
+      "accessStation": "下市口駅からバス約80分"
     }
   },
   {
@@ -64432,6 +64499,12 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Fujiki_river_-_Yugawara_onsen_02.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "伊藤屋",
+      "catchcopy": "明治21年創業・国登録有形文化財。島崎藤村ゆかりの宿",
+      "hasShuttle": false,
+      "accessStation": "湯河原駅からバス（万葉公園入口）"
     }
   },
   {
@@ -123140,7 +123213,14 @@
       "友達と",
       "温泉がおすすめ"
     ],
-    "bestSeason": "冬"
+    "bestSeason": "冬",
+    "featured_stay": {
+      "name": "深山荘 高見屋",
+      "catchcopy": "享保元年（1716）創業。高湯通りの高台に立つ蔵王の老舗",
+      "jalanUrl": "https://www.jalan.net/yad321744/",
+      "hasShuttle": false,
+      "accessStation": "蔵王温泉バスターミナルから徒歩約5分"
+    }
   },
   {
     "id": "utsukushigahara",
@@ -124859,6 +124939,21 @@
       "license": "CC BY-SA 3.0",
       "url": "https://commons.wikimedia.org/wiki/File:Gunma_hot_springs_2017.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "宝川温泉 汪泉閣",
+      "catchcopy": "延べ470畳の大露天風呂。渓流沿いの秘湯一軒宿",
+      "image": "/images/stays/takarakawa-onsen.jpg",
+      "jalanUrl": "https://www.jalan.net/yad312746/",
+      "hasShuttle": true,
+      "shuttleInfo": "水上駅から送迎バスあり（約35分）",
+      "accessStation": "水上駅",
+      "imageCredit": {
+        "author": "nobiinue",
+        "license": "CC BY-SA 2.1 jp",
+        "url": "https://commons.wikimedia.org/wiki/File:Takaragawa%20Onsen%2001.jpg",
+        "attributionRequired": true
+      }
     }
   },
   {
