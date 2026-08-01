@@ -232,5 +232,23 @@
   "license": "CC BY-SA 3.0",
   "url": "https://commons.wikimedia.org/wiki/File:Takenoya.JPG",
   "attributionRequired": true
+ },
+ "koyasan": {
+  "author": "baggio4ever",
+  "license": "CC BY 3.0",
+  "url": "https://commons.wikimedia.org/wiki/File:%E9%AB%98%E9%87%8E%E5%B1%B1%20%E6%81%B5%E5%85%89%E9%99%A2%20Koyasan%20(Mount%20Koya)%20-%20panoramio.jpg",
+  "attributionRequired": true
+ },
+ "shiretoko": {
+  "author": "663highland",
+  "license": "CC BY 2.5",
+  "url": "https://commons.wikimedia.org/wiki/File:Shiretoko%20Grand%20Hotel%20Kitakobushi10n.jpg",
+  "attributionRequired": true
+ },
+ "unzen": {
+  "author": "Opqr",
+  "license": "CC BY-SA 3.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Unzen%20kyusyu%20hotel.JPG",
+  "attributionRequired": true
  }
 }

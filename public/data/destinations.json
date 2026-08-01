@@ -11217,6 +11217,19 @@
       "license": "CC BY-SA 3.0",
       "url": "https://commons.wikimedia.org/wiki/File%3AShiretoko_National_Park_(panneau).jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "北こぶし知床 HOTEL&RESORT",
+      "catchcopy": "ウトロ港唯一の海辺リゾート。流氷を望む展望大浴場が名物",
+      "image": "/images/stays/shiretoko.jpg",
+      "hasShuttle": false,
+      "accessStation": "ウトロ温泉バスターミナルから徒歩約10分",
+      "imageCredit": {
+        "author": "663highland",
+        "license": "CC BY 2.5",
+        "url": "https://commons.wikimedia.org/wiki/File:Shiretoko%20Grand%20Hotel%20Kitakobushi10n.jpg",
+        "attributionRequired": true
+      }
     }
   },
   {
@@ -12050,6 +12063,12 @@
       "license": "CC BY 2.5",
       "url": "https://commons.wikimedia.org/wiki/File:Amanohashidate_view_from_Mt_Moju02s3s4592.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "玄妙庵",
+      "catchcopy": "天橋立を見下ろす絶景の高台宿。皇族も逗留した歴史を持つ",
+      "hasShuttle": false,
+      "accessStation": "天橋立駅から車約5分"
     }
   },
   {
@@ -12261,6 +12280,14 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Ineura_Ine_Bay_2017-04_ac_(2).jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "奥伊根温泉 油屋別館 和亭",
+      "catchcopy": "全室露天付き。日本海の水平線を独り占めする漁師町の名宿",
+      "jalanUrl": "https://www.jalan.net/yad353060/",
+      "hasShuttle": true,
+      "shuttleInfo": "天橋立駅から送迎あり（1日1便）",
+      "accessStation": "天橋立駅"
     }
   },
   {
@@ -15841,6 +15868,19 @@
       "license": "CC BY 2.5",
       "url": "https://commons.wikimedia.org/wiki/File:140322_Unzen_Onsen_Nagasaki_pref_Japan01s3.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "Mt.Resort 雲仙九州ホテル",
+      "catchcopy": "1917年創業。雲仙地獄を目前に望む大人のリゾート",
+      "image": "/images/stays/unzen.jpg",
+      "hasShuttle": false,
+      "accessStation": "雲仙バス停（諫早駅からバス約80分）",
+      "imageCredit": {
+        "author": "Opqr",
+        "license": "CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Unzen%20kyusyu%20hotel.JPG",
+        "attributionRequired": true
+      }
     }
   },
   {
@@ -18948,6 +18988,13 @@
       "license": "CC BY-SA 2.0",
       "url": "https://commons.wikimedia.org/wiki/File:Iya_Valley_(6551493685).jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "和の宿 ホテル祖谷温泉",
+      "catchcopy": "専用ケーブルカーで谷底の源泉露天へ。祖谷渓の断崖に立つ一軒宿",
+      "jalanUrl": "https://www.jalan.net/yad336010/",
+      "hasShuttle": false,
+      "accessStation": "大歩危駅からバス・タクシー約30分"
     }
   },
   {
@@ -20175,6 +20222,12 @@
       "license": "Public domain",
       "url": "https://commons.wikimedia.org/wiki/File%3A%E5%A6%BB%E7%B1%A0%E5%9F%8E%E3%83%BC%E6%9C%AC%E4%B8%B8%E8%B7%A1.JPG",
       "attributionRequired": false
+    },
+    "featured_stay": {
+      "name": "旅籠 松代屋",
+      "catchcopy": "文化元年（1804）創業。妻籠宿で江戸の旅籠に泊まる",
+      "hasShuttle": false,
+      "accessStation": "南木曽駅からバス約8分「妻籠橋」下車"
     }
   },
   {
@@ -21031,6 +21084,20 @@
       "license": "CC BY-SA 3.0",
       "url": "https://commons.wikimedia.org/wiki/File:Koyasan_University.JPG",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "高野山 宿坊 恵光院",
+      "catchcopy": "弘法大師ゆかりの宿坊。朝の護摩と阿字観で心を整える一夜",
+      "image": "/images/stays/koyasan.jpg",
+      "jalanUrl": "https://www.jalan.net/yad312274/",
+      "hasShuttle": false,
+      "accessStation": "高野山駅からバス「苅萱堂前」下車すぐ",
+      "imageCredit": {
+        "author": "baggio4ever",
+        "license": "CC BY 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:%E9%AB%98%E9%87%8E%E5%B1%B1%20%E6%81%B5%E5%85%89%E9%99%A2%20Koyasan%20(Mount%20Koya)%20-%20panoramio.jpg",
+        "attributionRequired": true
+      }
     }
   },
   {
@@ -23768,6 +23835,12 @@
       "license": "CC BY 2.0",
       "url": "https://commons.wikimedia.org/wiki/File:Kamik%C5%8Dchi,_Hida_Mountains_range,_Nagano_Prefecture;_September_2007_(02).jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "上高地帝国ホテル",
+      "catchcopy": "1933年開業・日本初の山岳リゾート。赤い屋根のアルプスの名門",
+      "hasShuttle": false,
+      "accessStation": "上高地バスターミナル手前「帝国ホテル前」下車（4月下旬〜11月上旬営業）"
     }
   },
   {
