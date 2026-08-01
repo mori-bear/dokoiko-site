@@ -1,0 +1,178 @@
+[
+ {
+  "id": "tojinbo",
+  "name": "三国温泉 料理旅館 望洋楼",
+  "catchcopy": "東尋坊にほど近い明治創業の料理旅館。全7室の露天風呂付客室で越前がにを味わう",
+  "hasShuttle": false,
+  "accessStation": "えちぜん鉄道・三国港駅から徒歩約13分"
+ },
+ {
+  "id": "mihama-fukui",
+  "name": "虹岳島温泉 虹岳島荘",
+  "catchcopy": "三方五湖に浮かぶように建つ茅葺の一軒宿。湖上の静寂と若狭の幸に癒される隠れ宿",
+  "hasShuttle": true,
+  "shuttleInfo": "JR小浜線・気山駅から送迎あり（要事前連絡）",
+  "accessStation": "JR小浜線・気山駅"
+ },
+ {
+  "id": "akiyamago",
+  "name": "秋山郷結東温泉 かたくりの宿",
+  "catchcopy": "秘境秋山郷の廃校をいかした温泉宿。木の温もりと山人料理、里山の時間に浸る",
+  "jalanUrl": "https://www.jalan.net/yad319265/",
+  "hasShuttle": false,
+  "accessStation": "JR飯山線・津南駅から車"
+ },
+ {
+  "id": "nakasendo-tsumago",
+  "name": "旅籠 松代屋",
+  "catchcopy": "文化元年創業、妻籠宿に残る旅籠の宿。江戸の面影そのままに木曽路の夜を過ごす",
+  "hasShuttle": false,
+  "accessStation": "JR中央本線・南木曽駅"
+ },
+ {
+  "id": "matsumoto-castle-2",
+  "name": "松本ホテル花月",
+  "catchcopy": "明治20年創業、松本城まで徒歩5分の老舗。民芸家具が彩るクラシックホテル",
+  "hasShuttle": true,
+  "shuttleInfo": "JR松本駅から定時送迎あり（要事前予約）",
+  "accessStation": "JR松本駅"
+ },
+ {
+  "id": "nagano-zenkoji",
+  "name": "善光寺宿坊 兄部坊",
+  "catchcopy": "善光寺境内に泊まる宿坊。名物の精進料理とお朝事参りで心が整う朝を迎える",
+  "hasShuttle": false,
+  "accessStation": "長野電鉄・善光寺下駅"
+ },
+ {
+  "id": "mt-yatsugatake",
+  "name": "創業大正十五年 蓼科親湯温泉",
+  "catchcopy": "大正15年創業、蓼科の渓流沿いに建つ宿。3万冊の本に囲まれるライブラリー空間",
+  "jalanUrl": "https://www.jalan.net/yad331396/",
+  "hasShuttle": true,
+  "shuttleInfo": "JR茅野駅東口から無料送迎バスあり（要事前予約）",
+  "accessStation": "JR中央本線・茅野駅"
+ },
+ {
+  "id": "yamanakako",
+  "name": "ホテルマウント富士",
+  "catchcopy": "山中湖を見下ろす高台のリゾート。富士山を望む絶景風呂と雲上のロケーション",
+  "jalanUrl": "https://www.jalan.net/yad312309/",
+  "hasShuttle": true,
+  "shuttleInfo": "山中湖畔「ホテルマウント富士入口」バス停から無料送迎あり",
+  "accessStation": "富士急行線・富士山駅からバス"
+ },
+ {
+  "id": "yatsugatake",
+  "name": "星野リゾート リゾナーレ八ヶ岳",
+  "catchcopy": "八ヶ岳山麓の滞在型リゾート。石畳の回廊街とプール、高原の休日を満喫できる",
+  "jalanUrl": "https://www.jalan.net/yad345950/",
+  "hasShuttle": true,
+  "shuttleInfo": "JR小淵沢駅から無料シャトルバスで約5分",
+  "accessStation": "JR中央本線・小淵沢駅"
+ },
+ {
+  "id": "hayakawa",
+  "name": "西山温泉 慶雲館",
+  "catchcopy": "ギネス認定・世界最古の温泉宿。慶雲2年開湯、山峡の一軒宿で源泉掛け流しを堪能",
+  "jalanUrl": "https://www.jalan.net/yad321825/",
+  "hasShuttle": true,
+  "shuttleInfo": "JR身延線・身延駅から送迎バス1日1便（要事前予約）",
+  "accessStation": "JR身延線・身延駅"
+ },
+ {
+  "id": "saiko-kawaguchi",
+  "name": "湖山亭うぶや",
+  "catchcopy": "全室から富士山と河口湖を望む絶景宿。記念日を祝う宿として愛される高評価の名旅館",
+  "jalanUrl": "https://www.jalan.net/yad310215/",
+  "hasShuttle": true,
+  "shuttleInfo": "富士急行線・河口湖駅から送迎あり（駅到着時に要連絡）",
+  "accessStation": "富士急行線・河口湖駅"
+ },
+ {
+  "id": "kofu",
+  "name": "信玄の湯 湯村温泉 常磐ホテル",
+  "catchcopy": "昭和4年創業、皇室ゆかりの甲府の迎賓館。三千坪の日本庭園と信玄の隠し湯を継ぐ",
+  "jalanUrl": "https://www.jalan.net/yad311280/",
+  "hasShuttle": true,
+  "shuttleInfo": "無料送迎バスあり（要事前連絡）",
+  "accessStation": "JR甲府駅からバス約15分"
+ },
+ {
+  "id": "toyama-city",
+  "name": "リバーリトリート雅樂倶",
+  "catchcopy": "神通峡を望むアートリゾート。300点の美術品と温泉、美食が融合する大人の隠れ家",
+  "jalanUrl": "https://www.jalan.net/yad318058/",
+  "hasShuttle": false,
+  "accessStation": "JR富山駅から車約40分"
+ },
+ {
+  "id": "kurobe-gorge",
+  "name": "黒部峡谷 宇奈月温泉 延楽",
+  "catchcopy": "黒部川の渓谷美を全室から望む老舗旅館。トロッコ電車の旅と名湯宇奈月を満喫",
+  "hasShuttle": true,
+  "shuttleInfo": "宇奈月温泉駅・黒部宇奈月温泉駅から送迎あり（要連絡）",
+  "accessStation": "富山地方鉄道・宇奈月温泉駅"
+ },
+ {
+  "id": "amaharashi",
+  "name": "雨晴温泉 磯はなび",
+  "catchcopy": "雨晴海岸の丘に建つ一軒宿。海越しの立山連峰を望む大パノラマ露天風呂が自慢",
+  "jalanUrl": "https://www.jalan.net/yad316560/",
+  "hasShuttle": true,
+  "shuttleInfo": "JR氷見線・雨晴駅から無料送迎あり（要連絡）",
+  "accessStation": "JR氷見線・雨晴駅"
+ },
+ {
+  "id": "gokayama-2",
+  "name": "五箇山 民宿勇助",
+  "catchcopy": "世界遺産相倉集落の合掌造りに泊まる。一日一組、囲炉裏端で五箇山の夜を味わう",
+  "hasShuttle": false,
+  "accessStation": "高岡駅から世界遺産バス「相倉口」下車"
+ },
+ {
+  "id": "niigata-uono",
+  "name": "雪国の宿 高半",
+  "catchcopy": "開湯900年、川端康成が『雪国』を執筆した宿。自然湧出の卵の湯を掛け流しで",
+  "hasShuttle": true,
+  "shuttleInfo": "JR越後湯沢駅から送迎あり（駅到着後に要連絡）",
+  "accessStation": "JR越後湯沢駅"
+ },
+ {
+  "id": "niigata-bandai",
+  "name": "岩室温泉 高志の宿 高島屋",
+  "catchcopy": "築260年の庄屋屋敷に泊まれる料亭。国登録有形文化財で味わう新潟の美食",
+  "jalanUrl": "https://www.jalan.net/yad314098/",
+  "hasShuttle": true,
+  "shuttleInfo": "JR岩室駅・弥彦駅から無料送迎あり（3日前までに要予約）",
+  "accessStation": "JR越後線・岩室駅"
+ },
+ {
+  "id": "echigo-tsumari",
+  "name": "光の館",
+  "catchcopy": "ジェームズ・タレルの泊まれるアート作品。開閉する天井から光と空を体感する一夜",
+  "hasShuttle": false,
+  "accessStation": "JR飯山線・十日町駅から車"
+ },
+ {
+  "id": "kanazawa",
+  "name": "料亭旅館 金城樓",
+  "catchcopy": "創業百三十余年、金沢を代表する料亭旅館。加賀料理と数寄屋の粋を全7室で",
+  "hasShuttle": false,
+  "accessStation": "JR金沢駅からバス「橋場町」下車"
+ },
+ {
+  "id": "uozu",
+  "name": "金太郎温泉",
+  "catchcopy": "立山連峰を望む庭園露天と洞窟風呂の湯宿。豊富な湯量を誇る富山屈指の温泉ホテル",
+  "hasShuttle": false,
+  "accessStation": "あいの風とやま鉄道・魚津駅から車"
+ },
+ {
+  "id": "niigata-city",
+  "name": "ホテルイタリア軒",
+  "catchcopy": "明治7年創業、『新潟の迎賓館』と呼ばれた老舗ホテル。古町で歴史と美食に浸る",
+  "hasShuttle": false,
+  "accessStation": "JR新潟駅からバス（古町）"
+ }
+]

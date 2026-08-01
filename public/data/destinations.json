@@ -203,16 +203,9 @@
     "featured_stay": {
       "name": "かいひん荘鎌倉",
       "catchcopy": "大正13年築の洋館は国登録有形文化財。由比ヶ浜の割烹旅館",
-      "image": "/images/stays/kamakura.jpg",
       "jalanUrl": "https://www.jalan.net/yad310363/",
       "hasShuttle": false,
-      "accessStation": "由比ヶ浜駅から徒歩約1分",
-      "imageCredit": {
-        "author": "Abasaa",
-        "license": "Public domain",
-        "url": "https://commons.wikimedia.org/wiki/File:Kaihin-so%20Kamakura.JPG",
-        "attributionRequired": false
-      }
+      "accessStation": "由比ヶ浜駅から徒歩約1分"
     }
   },
   {
@@ -673,16 +666,9 @@
     "featured_stay": {
       "name": "日光金谷ホテル",
       "catchcopy": "1873年創業・現存する日本最古のリゾートクラシックホテル",
-      "image": "/images/stays/nikko.jpg",
       "hasShuttle": true,
       "shuttleInfo": "東武日光駅から無料シャトルあり（定時運行）",
-      "accessStation": "東武日光駅",
-      "imageCredit": {
-        "author": "Miyuki Meinaka",
-        "license": "CC BY-SA 4.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Nikko%20Kanaya%20Hotel%20Main%20Building.jpg",
-        "attributionRequired": true
-      }
+      "accessStation": "東武日光駅"
     }
   },
   {
@@ -900,16 +886,9 @@
     "featured_stay": {
       "name": "万平ホテル",
       "catchcopy": "1894年創業。ジョン・レノンも愛した軽井沢クラシックの象徴",
-      "image": "/images/stays/karuizawa.jpg",
       "hasShuttle": true,
       "shuttleInfo": "軽井沢駅から宿泊者送迎バスあり（要予約）",
-      "accessStation": "軽井沢駅",
-      "imageCredit": {
-        "author": "Daderot",
-        "license": "CC0",
-        "url": "https://commons.wikimedia.org/wiki/File:Lobby%2C%20Mampei%20Hotel%20-%20Karuizawa%2C%20Japan%20-%20DSC02093.JPG",
-        "attributionRequired": false
-      }
+      "accessStation": "軽井沢駅"
     }
   },
   {
@@ -1361,16 +1340,9 @@
     "featured_stay": {
       "name": "奈良ホテル",
       "catchcopy": "1909年創業「関西の迎賓館」。辰野金吾設計の桃山御殿風建築",
-      "image": "/images/stays/nara.jpg",
       "hasShuttle": true,
       "shuttleInfo": "近鉄奈良駅への送迎バスあり",
-      "accessStation": "近鉄奈良駅からタクシー約5分",
-      "imageCredit": {
-        "author": "Waei",
-        "license": "CC BY-SA 3.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Nara%20Hotel%2001.jpg",
-        "attributionRequired": true
-      }
+      "accessStation": "近鉄奈良駅からタクシー約5分"
     }
   },
   {
@@ -1591,6 +1563,12 @@
       "license": "CC0",
       "url": "https://commons.wikimedia.org/wiki/File%3AIshigakijima_5.jpg",
       "attributionRequired": false
+    },
+    "featured_stay": {
+      "name": "ANAインターコンチネンタル石垣リゾート",
+      "catchcopy": "マエサトビーチ前に広がる石垣島を代表する大型ビーチリゾート",
+      "hasShuttle": false,
+      "accessStation": "南ぬ島石垣空港"
     }
   },
   {
@@ -1810,15 +1788,8 @@
     "featured_stay": {
       "name": "麻吉旅館",
       "catchcopy": "創業200余年・木造五層の懸崖造。遊郭建築が今も生きる文化財の宿",
-      "image": "/images/stays/ise.jpg",
       "hasShuttle": false,
-      "accessStation": "近鉄宇治山田駅からタクシー約5分",
-      "imageCredit": {
-        "author": "No machine-readable author provided. N yotarou assumed (based on copyright claims).",
-        "license": "CC BY 2.5",
-        "url": "https://commons.wikimedia.org/wiki/File:Asakichi(Ise)%2001.JPG",
-        "attributionRequired": true
-      }
+      "accessStation": "近鉄宇治山田駅からタクシー約5分"
     }
   },
   {
@@ -2317,17 +2288,10 @@
     "featured_stay": {
       "name": "料亭湯宿 銀鱗荘",
       "catchcopy": "明治6年築の鰊御殿を移築。小樽を見下ろす高台の文化財宿",
-      "image": "/images/stays/otaru.jpg",
       "jalanUrl": "https://www.jalan.net/yad335042/",
       "hasShuttle": true,
       "shuttleInfo": "小樽築港駅から無料送迎あり（15〜18時）",
-      "accessStation": "小樽築港駅",
-      "imageCredit": {
-        "author": "山本昂左衛門",
-        "license": "CC BY-SA 4.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Ginrinsou%2C%20Former%20Inomata%20Residence.jpg",
-        "attributionRequired": true
-      }
+      "accessStation": "小樽築港駅"
     }
   },
   {
@@ -2551,6 +2515,12 @@
       "license": "CC BY-SA 2.0",
       "url": "https://commons.wikimedia.org/wiki/File:View_over_Furano_with_Mountain_Backdrop_-_Furano_-_Hokkaido_-_Japan_(48012227543).jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "新富良野プリンスホテル",
+      "catchcopy": "富良野岳の麓、ニングルテラスと風のガーデンを併設する森のリゾートホテル。",
+      "hasShuttle": false,
+      "accessStation": "JR富良野駅（バス約20分）"
     }
   },
   {
@@ -3227,16 +3197,9 @@
     "featured_stay": {
       "name": "Ryokan 尾道西山（西山別館）",
       "catchcopy": "文豪が愛した1943年創業の離れの宿。芝庭の先に瀬戸内が広がる",
-      "image": "/images/stays/onomichi.jpg",
       "jalanUrl": "https://www.jalan.net/yad305831/",
       "hasShuttle": false,
-      "accessStation": "尾道駅から車約10分",
-      "imageCredit": {
-        "author": "minato kaidou",
-        "license": "CC BY-SA 2.0",
-        "url": "https://commons.wikimedia.org/wiki/File:%E8%A5%BF%E5%B1%B1%E5%88%A5%E9%A4%A8%20%E8%97%81%E3%81%AE%E5%AE%B6.jpg",
-        "attributionRequired": true
-      }
+      "accessStation": "尾道駅から車約10分"
     }
   },
   {
@@ -3678,6 +3641,14 @@
       "license": "CC BY 2.0",
       "url": "https://commons.wikimedia.org/wiki/File%3A%E7%BE%8E%E4%BF%9D%E9%96%A2_%E3%81%88%E3%81%B3%E3%81%99%E5%A4%A7%E8%A6%B3_%E6%9D%BE%E6%B1%9F%E5%B8%82%E7%BE%8E%E4%BF%9D%E9%96%A2%E7%94%BA_2016-09-03_(32699496765).jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "国文化財の宿 美保館",
+      "catchcopy": "明治創業、国登録有形文化財の本館が青石畳通りに残る美保関の老舗割烹旅館",
+      "hasShuttle": true,
+      "accessStation": "JR境港駅",
+      "jalanUrl": "https://www.jalan.net/yad310165/",
+      "shuttleInfo": "境港まで送迎あり（1組1,000円・要予約）"
     }
   },
   {
@@ -3881,16 +3852,9 @@
     "featured_stay": {
       "name": "上御殿",
       "catchcopy": "紀州藩主の宿として建てられた国登録有形文化財の宿",
-      "image": "/images/stays/ryujin-onsen.jpg",
       "jalanUrl": "https://www.jalan.net/yad312103/",
       "hasShuttle": false,
-      "accessStation": "紀伊田辺駅からバス約80分",
-      "imageCredit": {
-        "author": "Snap55",
-        "license": "CC BY 3.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Kamigoten.jpg",
-        "attributionRequired": true
-      }
+      "accessStation": "紀伊田辺駅からバス約80分"
     }
   },
   {
@@ -4361,6 +4325,12 @@
       "license": "CC BY 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Okinawa-kumejima_Hatenohama_Beach-xl.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "久米島イーフビーチホテル",
+      "catchcopy": "日本の渚百選イーフビーチの目の前に立つ島の老舗リゾート",
+      "hasShuttle": false,
+      "accessStation": "久米島空港"
     }
   },
   {
@@ -4587,7 +4557,13 @@
       "カップル向け",
       "友達と"
     ],
-    "bestSeason": "夏"
+    "bestSeason": "夏",
+    "featured_stay": {
+      "name": "宮古島東急ホテル&リゾーツ",
+      "catchcopy": "東洋一と称される与那覇前浜ビーチに面した老舗リゾート",
+      "hasShuttle": false,
+      "accessStation": "宮古空港"
+    }
   },
   {
     "id": "kouzushima",
@@ -5020,17 +4996,10 @@
     "featured_stay": {
       "name": "富士屋ホテル",
       "catchcopy": "1878年開業・日本初の本格リゾートホテル。花御殿と大食堂は必見",
-      "image": "/images/stays/hakone.jpg",
       "jalanUrl": "https://www.jalan.net/yad325862/",
       "hasShuttle": true,
       "shuttleInfo": "宮ノ下駅から迎えあり（到着後に連絡）",
-      "accessStation": "宮ノ下駅から徒歩約7分",
-      "imageCredit": {
-        "author": "MichaelMaggs",
-        "license": "CC BY-SA 4.0",
-        "url": "https://commons.wikimedia.org/wiki/File:The%20main%20dining%20room%2C%20Fujiya%20Hotel%2C%20Miyanoshita%2C%20Hakone.jpg",
-        "attributionRequired": true
-      }
+      "accessStation": "宮ノ下駅から徒歩約7分"
     }
   },
   {
@@ -5241,16 +5210,9 @@
     "featured_stay": {
       "name": "新井旅館",
       "catchcopy": "芥川龍之介や横山大観も逗留した、登録有形文化財15棟の宿",
-      "image": "/images/stays/shuzenji.jpg",
       "jalanUrl": "https://www.jalan.net/yad359366/",
       "hasShuttle": false,
-      "accessStation": "修善寺駅からバス・タクシー約7分",
-      "imageCredit": {
-        "author": "Batholith",
-        "license": "Public domain",
-        "url": "https://commons.wikimedia.org/wiki/File:Arai%20Ryokan%20Entrance.jpg",
-        "attributionRequired": false
-      }
+      "accessStation": "修善寺駅からバス・タクシー約7分"
     }
   },
   {
@@ -5466,18 +5428,11 @@
     "featured_stay": {
       "name": "奈良屋",
       "catchcopy": "明治10年創業。湯畑まで徒歩1分、白旗源泉の湯守の宿",
-      "image": "/images/stays/kusatsu-onsen.jpg",
       "rakutenUrl": "https://travel.rakuten.co.jp/HOTEL/70807/70807.html",
       "jalanUrl": "https://www.jalan.net/yad362465/",
       "hasShuttle": true,
       "shuttleInfo": "草津温泉バスターミナルから送迎あり（到着後連絡）",
-      "accessStation": "長野原草津口駅からバス約25分",
-      "imageCredit": {
-        "author": "Abasaa",
-        "license": "Public domain",
-        "url": "https://commons.wikimedia.org/wiki/File:Kusatsu%20Onsen%20Naraya.JPG",
-        "attributionRequired": false
-      }
+      "accessStation": "長野原草津口駅からバス約25分"
     }
   },
   {
@@ -5927,6 +5882,13 @@
       "license": "CC BY 4.0",
       "url": "https://commons.wikimedia.org/wiki/File%3AUM8A-297_%E2%91%A0_%E3%80%90%E4%BC%8A%E8%B1%86%E5%A4%A7%E5%B3%B6_%E5%9C%9F%E7%9F%B3%E6%B5%81%E7%81%BD%E5%AE%B3%E5%BE%A9%E8%88%88%E7%8F%BE%E5%A0%B4%E3%80%91%E3%82%88%E3%82%8A.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "大島温泉ホテル",
+      "catchcopy": "三原山外輪・標高500mに建ち、火口と海を一望する源泉かけ流し露天が名物",
+      "hasShuttle": true,
+      "accessStation": "元町港・岡田港から車約20分",
+      "shuttleInfo": "元町港・岡田港から無料送迎バス約20分（要予約）"
     }
   },
   {
@@ -6144,6 +6106,14 @@
       "license": "CC BY 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:2024-10-25_Shirakawa-go_3.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "御宿 結の庄",
+      "catchcopy": "世界遺産・白川郷の集落入口に佇む飛騨の湯宿。合掌造りの郷愁と温泉に浸る",
+      "hasShuttle": true,
+      "accessStation": "白川郷バスターミナル",
+      "jalanUrl": "https://www.jalan.net/yad303212/",
+      "shuttleInfo": "白川郷バスターミナルから無料シャトルバスあり（定時運行）"
     }
   },
   {
@@ -6597,17 +6567,10 @@
     "featured_stay": {
       "name": "西村屋本館",
       "catchcopy": "江戸安政創業。城崎を代表する数寄屋造りの老舗",
-      "image": "/images/stays/kinosaki-onsen.jpg",
       "jalanUrl": "https://www.jalan.net/yad386200/",
       "hasShuttle": true,
       "shuttleInfo": "城崎温泉駅から送迎あり（特急到着時間帯・要連絡）",
-      "accessStation": "城崎温泉駅",
-      "imageCredit": {
-        "author": "Asturio Cantabrio",
-        "license": "CC BY-SA 4.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Nishimuraya_Honkan_2026-02_ac.jpg",
-        "attributionRequired": true
-      }
+      "accessStation": "城崎温泉駅"
     }
   },
   {
@@ -7055,6 +7018,12 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Nanki_Shirahama_Airport_Terminal.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "浜千鳥の湯 海舟",
+      "catchcopy": "太平洋に溶け込む岬の湯宿。波音に包まれる混浴露天「浜千鳥の湯」が名物",
+      "hasShuttle": false,
+      "accessStation": "JR白浜駅から車約15分"
     }
   },
   {
@@ -8179,6 +8148,13 @@
       "license": "CC BY-SA 2.0",
       "url": "https://commons.wikimedia.org/wiki/File:Aso_Volcano_Museum,_Kumamoto-_Jan_31,_2013.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "阿蘇内牧温泉 蘇山郷",
+      "catchcopy": "与謝野晶子・鉄幹ゆかりの杉の間が残る内牧温泉の老舗和風旅館",
+      "hasShuttle": false,
+      "accessStation": "JR阿蘇駅",
+      "jalanUrl": "https://www.jalan.net/yad327522/"
     }
   },
   {
@@ -9284,15 +9260,8 @@
     "featured_stay": {
       "name": "向瀧",
       "catchcopy": "国の登録有形文化財第1号。会津藩指定保養所の流れをくむ木造宿",
-      "image": "/images/stays/aizu.jpg",
       "hasShuttle": false,
-      "accessStation": "会津若松駅から周遊バス約15分「東山温泉駅」下車",
-      "imageCredit": {
-        "author": "M Murakami from Fukushima, Japan",
-        "license": "CC BY-SA 2.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Mukaitaki%20(7477420790).jpg",
-        "attributionRequired": true
-      }
+      "accessStation": "会津若松駅から周遊バス約15分「東山温泉駅」下車"
     }
   },
   {
@@ -9934,15 +9903,8 @@
     "featured_stay": {
       "name": "春帆楼",
       "catchcopy": "日清講和会議の舞台・ふぐ料理公許第一号。明治の歴史が薫る割烹旅館",
-      "image": "/images/stays/shimonoseki.jpg",
       "hasShuttle": false,
-      "accessStation": "下関駅からバス・タクシー約10分（赤間神宮前）",
-      "imageCredit": {
-        "author": "そらみみ",
-        "license": "CC BY-SA 4.0",
-        "url": "https://commons.wikimedia.org/wiki/File:View%20of%20Shumpanro%20Hotel%2C%20Shimonoseki%2C%20Yamaguchi.JPG",
-        "attributionRequired": true
-      }
+      "accessStation": "下関駅からバス・タクシー約10分（赤間神宮前）"
     }
   },
   {
@@ -10169,16 +10131,9 @@
     "featured_stay": {
       "name": "ベネッセハウス",
       "catchcopy": "安藤忠雄設計・美術館に泊まる。23時まで作品鑑賞できる特権も",
-      "image": "/images/stays/naoshima.jpg",
       "hasShuttle": true,
       "shuttleInfo": "宮浦港から宿泊者専用送迎バスあり",
-      "accessStation": "宮浦港",
-      "imageCredit": {
-        "author": "663highland",
-        "license": "CC BY 2.5",
-        "url": "https://commons.wikimedia.org/wiki/File:Benesse%20house01s3200.jpg",
-        "attributionRequired": true
-      }
+      "accessStation": "宮浦港"
     }
   },
   {
@@ -10395,17 +10350,10 @@
     "featured_stay": {
       "name": "琴平花壇",
       "catchcopy": "寛永4年（1627）創業。森鷗外や北原白秋が逗留したこんぴら参りの宿",
-      "image": "/images/stays/kotohira.jpg",
       "jalanUrl": "https://www.jalan.net/yad340881/",
       "hasShuttle": true,
       "shuttleInfo": "琴平駅から無料送迎バスあり（当日連絡可）",
-      "accessStation": "琴平駅から徒歩約15分",
-      "imageCredit": {
-        "author": "663highland",
-        "license": "CC BY 2.5",
-        "url": "https://commons.wikimedia.org/wiki/File:Kotohira-kadan01n4500.jpg",
-        "attributionRequired": true
-      }
+      "accessStation": "琴平駅から徒歩約15分"
     }
   },
   {
@@ -10615,6 +10563,12 @@
       "license": "CC0",
       "url": "https://commons.wikimedia.org/wiki/File:Uwajima_Station,_gaikan-2.jpg",
       "attributionRequired": false
+    },
+    "featured_stay": {
+      "name": "木屋旅館",
+      "catchcopy": "犬養毅も泊まった明治44年創業の文化財旅館を一日一組の一棟貸しで再生",
+      "hasShuttle": false,
+      "accessStation": "JR宇和島駅"
     }
   },
   {
@@ -10828,15 +10782,8 @@
     "featured_stay": {
       "name": "ザ・ウィンザーホテル洞爺",
       "catchcopy": "G8サミット会場となった山頂の絶景リゾート",
-      "image": "/images/stays/toyako.jpg",
       "hasShuttle": false,
-      "accessStation": "洞爺駅から車約30分",
-      "imageCredit": {
-        "author": "veroyama",
-        "license": "CC BY 2.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Windsor%20Hotel%20Toya%20side%20by%20veroyama%20at%20lakeside%20of%20Toya.jpg",
-        "attributionRequired": true
-      }
+      "accessStation": "洞爺駅から車約30分"
     }
   },
   {
@@ -11269,15 +11216,8 @@
     "featured_stay": {
       "name": "北こぶし知床 HOTEL&RESORT",
       "catchcopy": "ウトロ港唯一の海辺リゾート。流氷を望む展望大浴場が名物",
-      "image": "/images/stays/shiretoko.jpg",
       "hasShuttle": false,
-      "accessStation": "ウトロ温泉バスターミナルから徒歩約10分",
-      "imageCredit": {
-        "author": "663highland",
-        "license": "CC BY 2.5",
-        "url": "https://commons.wikimedia.org/wiki/File:Shiretoko%20Grand%20Hotel%20Kitakobushi10n.jpg",
-        "attributionRequired": true
-      }
+      "accessStation": "ウトロ温泉バスターミナルから徒歩約10分"
     }
   },
   {
@@ -11912,16 +11852,9 @@
     "featured_stay": {
       "name": "白馬八方温泉 しろうま荘",
       "catchcopy": "八方尾根の麓、古材を活かした和の湯宿。白馬三山を望む",
-      "image": "/images/stays/hakuba.jpg",
       "hasShuttle": true,
       "shuttleInfo": "白馬駅・八方バスターミナルから無料送迎あり（要連絡）",
-      "accessStation": "白馬駅",
-      "imageCredit": {
-        "author": "そんちょう",
-        "license": "CC BY-SA 4.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Shiroumaso.jpg",
-        "attributionRequired": true
-      }
+      "accessStation": "白馬駅"
     }
   },
   {
@@ -12553,6 +12486,12 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:%E6%8C%87%E5%AE%BF%E5%B8%82%E5%8D%81%E7%94%BA%E3%81%8B%E3%82%89%E8%A6%8B%E3%81%9F%E9%A2%A8%E6%99%AF_%E5%8C%97.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "指宿白水館",
+      "catchcopy": "薩摩伝承の元禄風呂と砂むし温泉、松林5万坪に広がる名旅館",
+      "hasShuttle": false,
+      "accessStation": "JR指宿駅"
     }
   },
   {
@@ -12761,6 +12700,12 @@
       "license": "Public domain",
       "url": "https://commons.wikimedia.org/wiki/File:%E9%95%B7%E5%B4%8E%E7%9C%8C%E4%BD%90%E4%B8%96%E4%BF%9D%E5%B8%82_%E6%9C%9D%E6%97%A5%E9%A4%A8.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "ホテルヨーロッパ（ハウステンボス）",
+      "catchcopy": "運河からクルーザーでチェックインする欧州クラシックホテル",
+      "hasShuttle": false,
+      "accessStation": "JRハウステンボス駅"
     }
   },
   {
@@ -13570,6 +13515,14 @@
       "license": "CC BY-SA 3.0",
       "url": "https://commons.wikimedia.org/wiki/File%3AAwaji_chicken_Bajiru_Sand.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "ホテルニューアワジ",
+      "catchcopy": "淡路島を代表する海辺の温泉リゾート。紀淡海峡から昇る朝日と海を望む露天",
+      "hasShuttle": true,
+      "accessStation": "洲本高速バスセンター",
+      "jalanUrl": "https://www.jalan.net/yad322711/",
+      "shuttleInfo": "洲本高速バスセンターから送迎バスあり（要事前連絡）"
     }
   },
   {
@@ -13776,6 +13729,12 @@
       "license": "CC BY 3.0",
       "url": "https://commons.wikimedia.org/wiki/File:%E9%AB%98%E5%B0%BE%E5%B1%B1%E3%81%8B%E3%82%89%E3%81%AE%E9%A2%A8%E6%99%AF_-_panoramio.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "タカオネ",
+      "catchcopy": "高尾山口駅から徒歩1分、焚き火や山遊びを楽しむ体験型アクティビティホテル",
+      "hasShuttle": false,
+      "accessStation": "京王線 高尾山口駅から徒歩約1分"
     }
   },
   {
@@ -14191,6 +14150,12 @@
       "license": "CC BY 2.0",
       "url": "https://commons.wikimedia.org/wiki/File:Gokayama_traditional_houses,_Toyama_Prefecture;_September_2019_(02).jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "五箇山の民宿 勇助",
+      "catchcopy": "世界遺産・相倉集落の合掌造りに一日一組。囲炉裏端で山里の静かな夜に浸る",
+      "hasShuttle": false,
+      "accessStation": "JR城端駅（バスで相倉口下車）"
     }
   },
   {
@@ -14408,6 +14373,14 @@
       "license": "Public domain",
       "url": "https://commons.wikimedia.org/wiki/File%3A%E5%8C%97%E6%B5%B7%E9%81%93%E9%81%931%E5%8F%B7%E5%B0%8F%E6%A8%BD%E5%AE%9A%E5%B1%B1%E6%B8%93%E7%B7%9A.jpg",
       "attributionRequired": false
+    },
+    "featured_stay": {
+      "name": "定山渓温泉 ぬくもりの宿ふる川",
+      "catchcopy": "囲炉裏の火と手作りの湯宿らしさが灯る、札幌の奥座敷の癒やしの隠れ宿。",
+      "hasShuttle": true,
+      "accessStation": "JR札幌駅（じょうてつバス約80分）",
+      "jalanUrl": "https://www.jalan.net/yad321633/",
+      "shuttleInfo": "札幌市内（大通西1丁目NHK前）より無料送迎バスあり（要予約・14時発）"
     }
   },
   {
@@ -15083,6 +15056,13 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Sankyo_Warehouse_January_2022_A.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "時を奏でる宿 若葉旅館",
+      "catchcopy": "山居倉庫へ徒歩圏、昭和27年創業。庄内の恵みを味わう酒田の街なか老舗旅館",
+      "hasShuttle": false,
+      "accessStation": "JR酒田駅",
+      "jalanUrl": "https://www.jalan.net/yad348198/"
     }
   },
   {
@@ -15522,6 +15502,12 @@
       "license": "Public domain",
       "url": "https://commons.wikimedia.org/wiki/File:Granary_in_Amami_%C5%8Cshima_Island.jpg",
       "attributionRequired": false
+    },
+    "featured_stay": {
+      "name": "THE SCENE amami spa & resort",
+      "catchcopy": "奄美大島最南端、加計呂麻島を望む海辺の一軒リゾート",
+      "hasShuttle": false,
+      "accessStation": "奄美空港"
     }
   },
   {
@@ -15748,6 +15734,13 @@
       "license": "CC BY-SA 3.0",
       "url": "https://commons.wikimedia.org/wiki/File:Goto_island_-_panoramio.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "五島リトリート ray by 温故知新",
+      "catchcopy": "鐙瀬溶岩海岸の高台に立つ全室露天付き、ミシュランキー獲得の宿",
+      "hasShuttle": false,
+      "accessStation": "福江港",
+      "jalanUrl": "https://www.jalan.net/yad303895/"
     }
   },
   {
@@ -15950,15 +15943,8 @@
     "featured_stay": {
       "name": "Mt.Resort 雲仙九州ホテル",
       "catchcopy": "1917年創業。雲仙地獄を目前に望む大人のリゾート",
-      "image": "/images/stays/unzen.jpg",
       "hasShuttle": false,
-      "accessStation": "雲仙バス停（諫早駅からバス約80分）",
-      "imageCredit": {
-        "author": "Opqr",
-        "license": "CC BY-SA 3.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Unzen%20kyusyu%20hotel.JPG",
-        "attributionRequired": true
-      }
+      "accessStation": "雲仙バス停（諫早駅からバス約80分）"
     }
   },
   {
@@ -16163,6 +16149,14 @@
       "license": "CC BY-SA 3.0",
       "url": "https://commons.wikimedia.org/wiki/File:Ashizuri_Cape_07.JPG",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "TheMana Village",
+      "catchcopy": "足摺岬の断崖に立つ、星空と海を遊び尽くす四国最大級のアクティビティリゾート",
+      "hasShuttle": true,
+      "accessStation": "土佐くろしお鉄道中村駅",
+      "jalanUrl": "https://www.jalan.net/yad384060/",
+      "shuttleInfo": "足摺岬エリアのバス停から送迎あり（要事前連絡）"
     }
   },
   {
@@ -16376,6 +16370,14 @@
       "license": "CC0",
       "url": "https://commons.wikimedia.org/wiki/File:%C5%8Cboke_Station_02.jpg",
       "attributionRequired": false
+    },
+    "featured_stay": {
+      "name": "和の宿 ホテル祖谷温泉",
+      "catchcopy": "ケーブルカーで170m下る谷底の源泉かけ流し露天、祖谷渓に佇む秘境の一軒宿",
+      "hasShuttle": true,
+      "accessStation": "JR大歩危駅",
+      "jalanUrl": "https://www.jalan.net/yad336010/",
+      "shuttleInfo": "JR大歩危駅から無料送迎あり（1日1便・前日までに要予約）"
     }
   },
   {
@@ -16799,6 +16801,14 @@
       "license": "CC BY-SA 3.0",
       "url": "https://commons.wikimedia.org/wiki/File:Castle_in_Inuyama.JPG",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "灯屋 迎帆楼",
+      "catchcopy": "国宝犬山城を仰ぐ木曽川畔、大正八年創業・全10室半露天風呂付きの老舗宿",
+      "hasShuttle": true,
+      "accessStation": "名鉄犬山駅",
+      "jalanUrl": "https://www.jalan.net/yad391528/",
+      "shuttleInfo": "名鉄犬山駅から送迎あり（要連絡）"
     }
   },
   {
@@ -17206,6 +17216,12 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Kyoto_Prefectural_R38.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "かやぶきのお宿 またべ",
+      "catchcopy": "かやぶき屋根の下、囲炉裏を囲んで地鶏すき焼き。日本の原風景に泊まる農家民宿",
+      "hasShuttle": false,
+      "accessStation": "南丹市営バス「北」バス停から徒歩5分"
     }
   },
   {
@@ -17425,6 +17441,12 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:%E5%AE%A4%E5%A0%82%E9%9B%AA%E3%81%AE%E5%A4%A7%E8%B0%B702.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "ホテル立山",
+      "catchcopy": "標高2450m室堂ターミナル直結。日本最高所のホテルで雲上の星空とご来光を",
+      "hasShuttle": false,
+      "accessStation": "立山黒部アルペンルート室堂ターミナル（直結）"
     }
   },
   {
@@ -17635,6 +17657,13 @@
       "license": "CC BY 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Himi-gyobun.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "氷見温泉郷 くつろぎの宿 うみあかり",
+      "catchcopy": "富山湾越しに立山連峰を望む絶景の湯宿。氷見の寒ブリと海の幸を堪能する",
+      "hasShuttle": true,
+      "accessStation": "JR氷見駅",
+      "shuttleInfo": "JR氷見駅から無料送迎あり（要連絡・2名以上）"
     }
   },
   {
@@ -17843,16 +17872,9 @@
     "featured_stay": {
       "name": "鶴の湯温泉",
       "catchcopy": "乳白色の湯と茅葺の本陣。秘湯を代表する山の一軒宿",
-      "image": "/images/stays/nyuto-onsen.jpg",
       "hasShuttle": true,
       "shuttleInfo": "アルパこまくさバス停から送迎あり（要予約）",
-      "accessStation": "田沢湖駅から路線バス「アルパこまくさ」下車",
-      "imageCredit": {
-        "author": "Fumiaki Yoshimatsu from Tokyo, Japan",
-        "license": "CC BY-SA 2.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Tsurunoyu%20Onsen%2004.jpg",
-        "attributionRequired": true
-      }
+      "accessStation": "田沢湖駅から路線バス「アルパこまくさ」下車"
     }
   },
   {
@@ -18051,16 +18073,9 @@
     "featured_stay": {
       "name": "松田屋ホテル",
       "catchcopy": "延宝3年（1675）創業。維新の志士たちが集った湯田最古の宿",
-      "image": "/images/stays/yuda-onsen.jpg",
       "jalanUrl": "https://www.jalan.net/yad336484/",
       "hasShuttle": false,
-      "accessStation": "湯田温泉駅からタクシー約5分",
-      "imageCredit": {
-        "author": "Asturio Cantabrio",
-        "license": "CC BY-SA 4.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Matsudaya%20Hotel%20ac.jpg",
-        "attributionRequired": true
-      }
+      "accessStation": "湯田温泉駅からタクシー約5分"
     }
   },
   {
@@ -19289,6 +19304,14 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File%3A%E5%B3%B6%E6%A0%B9%E7%9C%8C%E5%A5%A5%E5%87%BA%E9%9B%B2%E7%94%BA%E3%80%8C%E3%81%8A%E3%82%8D%E3%81%A1%E3%83%AB%E3%83%BC%E3%83%97%E3%80%8D%E4%BB%98%E8%BF%91%E3%81%AE%E5%9B%BD%E9%81%93314%E5%8F%B7.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "亀嵩温泉 玉峰山荘",
+      "catchcopy": "奥出雲・亀嵩の山懐に湧く美肌の湯、山陰唯一の砂風呂を備えた温泉宿",
+      "hasShuttle": true,
+      "accessStation": "JR亀嵩駅",
+      "jalanUrl": "https://www.jalan.net/yad384572/",
+      "shuttleInfo": "JR亀嵩駅から送迎あり（要事前連絡）"
     }
   },
   {
@@ -19496,16 +19519,9 @@
     "featured_stay": {
       "name": "能登屋旅館",
       "catchcopy": "明治25年築・木造三層。大正ロマンの温泉街を象徴する文化財の宿",
-      "image": "/images/stays/ginzan-onsen.jpg",
       "hasShuttle": true,
       "shuttleInfo": "大石田駅から送迎あり（3日前までに要予約）",
-      "accessStation": "大石田駅",
-      "imageCredit": {
-        "author": "Eiji Kikuta (AG2016) from Sendai, Japan",
-        "license": "CC0",
-        "url": "https://commons.wikimedia.org/wiki/File:Ginzan%20Onsen%20Noto-ya%20Ryokan%20with%20a%20sign%20of%20founder%2C%20Kido%20Sasaemon%2C%20in%20Hanazawa%2C%20Yamagata%20(%E5%B1%B1%E5%BD%A2%E7%9C%8C%E9%8A%80%E5%B1%B1%E6%B8%A9%E6%B3%89%20%E8%83%BD%E7%99%BB%E5%B1%8B%E6%97%85%E9%A4%A8%20%E3%81%A8%20%E5%89%B5%E6%A5%AD%E8%80%85%E3%83%BB%E6%9C%A8%E6%88%B8%E4%BD%90%E5%B7%A6%E3%82%A8%E9%96%80%E3%81%AE%E5%A4%A7%E7%9C%8B%E6%9D%BF)%20(2015-03-07%20by%20Eiji%20Kikuta%20%40Pixabay%201366872).jpg",
-        "attributionRequired": false
-      }
+      "accessStation": "大石田駅"
     }
   },
   {
@@ -19707,6 +19723,13 @@
       "license": "CC BY 3.0",
       "url": "https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E5%86%85%E5%AE%BF_-_panoramio_(6).jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "蔵の民宿 本家扇屋",
+      "catchcopy": "茅葺の宿場・大内宿に泊まる。囲炉裏端で味わう会津の郷土料理と蔵座敷の民宿",
+      "hasShuttle": false,
+      "accessStation": "会津鉄道湯野上温泉駅",
+      "jalanUrl": "https://www.jalan.net/yad379416/"
     }
   },
   {
@@ -20535,6 +20558,12 @@
       "license": "CC BY 3.0",
       "url": "https://commons.wikimedia.org/wiki/File:%E9%A6%AC%E7%B1%A0%E5%AE%BF_-_panoramio_(1).jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "旅人御宿 但馬屋",
+      "catchcopy": "馬籠宿の石畳に建つ築百余年の旅人御宿。囲炉裏端と山里の恵みの膳が迎える",
+      "hasShuttle": false,
+      "accessStation": "JR中津川駅からバス「馬籠」下車"
     }
   },
   {
@@ -20947,6 +20976,12 @@
       "license": "CC BY-SA 3.0",
       "url": "https://commons.wikimedia.org/wiki/File:Hikone_Port_20191108.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "彦根キャッスル リゾート＆スパ",
+      "catchcopy": "彦根城の目の前に立つ和モダンな城見ホテル。城下町散策の拠点に最適な一軒",
+      "hasShuttle": false,
+      "accessStation": "JR彦根駅から徒歩約10分"
     }
   },
   {
@@ -21185,16 +21220,9 @@
     "featured_stay": {
       "name": "高野山 宿坊 恵光院",
       "catchcopy": "弘法大師ゆかりの宿坊。朝の護摩と阿字観で心を整える一夜",
-      "image": "/images/stays/koyasan.jpg",
       "jalanUrl": "https://www.jalan.net/yad312274/",
       "hasShuttle": false,
-      "accessStation": "高野山駅からバス「苅萱堂前」下車すぐ",
-      "imageCredit": {
-        "author": "baggio4ever",
-        "license": "CC BY 3.0",
-        "url": "https://commons.wikimedia.org/wiki/File:%E9%AB%98%E9%87%8E%E5%B1%B1%20%E6%81%B5%E5%85%89%E9%99%A2%20Koyasan%20(Mount%20Koya)%20-%20panoramio.jpg",
-        "attributionRequired": true
-      }
+      "accessStation": "高野山駅からバス「苅萱堂前」下車すぐ"
     }
   },
   {
@@ -21413,16 +21441,9 @@
     "featured_stay": {
       "name": "湯之島館",
       "catchcopy": "昭和6年築・国登録有形文化財。5万坪の山中に佇む木造三階の名宿",
-      "image": "/images/stays/gero-onsen.jpg",
       "hasShuttle": true,
       "shuttleInfo": "下呂駅から無料送迎あり（13:35〜17:25）",
-      "accessStation": "下呂駅",
-      "imageCredit": {
-        "author": "大野 一将",
-        "license": "CC BY-SA 4.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Yunoshima%20kan%20hotel%2C%20Gero%2C%202015.jpg",
-        "attributionRequired": true
-      }
+      "accessStation": "下呂駅"
     }
   },
   {
@@ -21833,15 +21854,8 @@
     "featured_stay": {
       "name": "積善館",
       "catchcopy": "元禄四年築・現存する日本最古の湯宿建築",
-      "image": "/images/stays/shima-onsen.jpg",
       "hasShuttle": false,
-      "accessStation": "中之条駅から路線バス約40分",
-      "imageCredit": {
-        "author": "Kentaro Ohno from Tokyo, Japan",
-        "license": "CC BY 2.0",
-        "url": "https://commons.wikimedia.org/wiki/File:%E7%A9%8D%E5%96%84%E9%A4%A8%E6%9C%AC%E9%A4%A8%20%E4%B8%AD%E4%B9%8B%E6%9D%A1%202013%20(9994399714).jpg",
-        "attributionRequired": true
-      }
+      "accessStation": "中之条駅から路線バス約40分"
     }
   },
   {
@@ -22054,7 +22068,13 @@
       "ひとり旅向け"
     ],
     "bestSeason": "春",
-    "_accessAutoFixed": "honshuFlightRemoved"
+    "_accessAutoFixed": "honshuFlightRemoved",
+    "featured_stay": {
+      "name": "石場旅館",
+      "catchcopy": "明治12年築、弘前に現存最古の旅館建築。国登録有形文化財に泊まる城下町の宿",
+      "hasShuttle": false,
+      "accessStation": "JR弘前駅"
+    }
   },
   {
     "id": "oirase",
@@ -23112,6 +23132,12 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Wakura_Onsen_Kagaya_200906-1.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "和倉温泉 白鷺の湯 能登 海舟",
+      "catchcopy": "震災を越え再開した海辺の湯宿。七尾湾を望む湯浴みと能登の恵みを味わう",
+      "hasShuttle": false,
+      "accessStation": "JR和倉温泉駅"
     }
   },
   {
@@ -23524,6 +23550,12 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Obi,_Nichinan,_%C5%8Ctemon_Gate_of_Obi_Castle_02.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "季楽 飫肥",
+      "catchcopy": "九州の小京都・飫肥の武家屋敷を一棟貸しで味わう古民家の宿",
+      "hasShuttle": false,
+      "accessStation": "JR飫肥駅"
     }
   },
   {
@@ -23732,6 +23764,12 @@
       "license": "CC0",
       "url": "https://commons.wikimedia.org/wiki/File:Hitoyoshi_City_viewed_from_Hitoyoshi_Castle.jpg",
       "attributionRequired": false
+    },
+    "featured_stay": {
+      "name": "人吉旅館",
+      "catchcopy": "木造建築が国登録有形文化財、球磨川畔に立つ昭和九年創業の宿",
+      "hasShuttle": false,
+      "accessStation": "人吉駅"
     }
   },
   {
@@ -24170,6 +24208,13 @@
       "license": "CC BY-SA 3.0",
       "url": "https://commons.wikimedia.org/wiki/File%3AMinakami_Onsenkyo_Hotel_Fujiwarago_2016-04.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "谷川温泉 別邸 仙寿庵",
+      "catchcopy": "谷川岳山麓の清流際に建つ全室露天風呂付きの宿で、四季の渓谷美に浸る",
+      "hasShuttle": false,
+      "accessStation": "JR水上駅から車約8分",
+      "jalanUrl": "https://www.jalan.net/yad304222/"
     }
   },
   {
@@ -24372,6 +24417,12 @@
       "license": "CC BY-SA 3.0",
       "url": "https://commons.wikimedia.org/wiki/File%3AMt_Aso_from_Minamiaso_Hisaishi.JPG",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "地獄温泉 青風荘",
+      "catchcopy": "文化元年開湯、乳白色の名物「すずめの湯」を守る山の一軒宿",
+      "hasShuttle": false,
+      "accessStation": "南阿蘇鉄道 阿蘇下田城駅"
     }
   },
   {
@@ -24814,17 +24865,10 @@
     "featured_stay": {
       "name": "NIPPONIA HOTEL 大洲 城下町",
       "catchcopy": "城下町全体がホテル。日本最大級の分散型ホテルに泊まる",
-      "image": "/images/stays/ozu.jpg",
       "jalanUrl": "https://www.jalan.net/yad334875/",
       "hasShuttle": true,
       "shuttleInfo": "伊予大洲駅から無料送迎あり（要予約）",
-      "accessStation": "伊予大洲駅",
-      "imageCredit": {
-        "author": "キアラア",
-        "license": "CC0",
-        "url": "https://commons.wikimedia.org/wiki/File:NIPPONIA%20HOTEL%20%E5%A4%A7%E6%B4%B2%20%E5%9F%8E%E4%B8%8B%E7%94%BA.jpg",
-        "attributionRequired": false
-      }
+      "accessStation": "伊予大洲駅"
     }
   },
   {
@@ -25281,15 +25325,8 @@
     "featured_stay": {
       "name": "竹野屋旅館",
       "catchcopy": "明治10年創業・出雲大社正門前。竹内まりやの生家としても知られる",
-      "image": "/images/stays/izumo.jpg",
       "hasShuttle": false,
-      "accessStation": "出雲大社前駅から徒歩約3分",
-      "imageCredit": {
-        "author": "Mti",
-        "license": "CC BY-SA 3.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Takenoya.JPG",
-        "attributionRequired": true
-      }
+      "accessStation": "出雲大社前駅から徒歩約3分"
     }
   },
   {
@@ -25727,6 +25764,13 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Konurebasi_(Yoshino).jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "竹林院群芳園",
+      "catchcopy": "西行や秀吉ゆかり、大和三庭園「群芳園」を有する吉野山の歴史ある宿坊旅館",
+      "hasShuttle": false,
+      "accessStation": "近鉄吉野線 吉野駅（ロープウェイ吉野山駅）",
+      "jalanUrl": "https://www.jalan.net/yad325267/"
     }
   },
   {
@@ -25937,7 +25981,14 @@
       "秘境感あり",
       "ゆっくり滞在"
     ],
-    "bestSeason": "秋"
+    "bestSeason": "秋",
+    "featured_stay": {
+      "name": "里創人 熊野倶楽部",
+      "catchcopy": "世界遺産熊野の山里に広がる全室スイートの隠れ里。美食オールインクルーシブ",
+      "hasShuttle": false,
+      "accessStation": "JR熊野市駅",
+      "jalanUrl": "https://www.jalan.net/yad398080/"
+    }
   },
   {
     "id": "iriomote",
@@ -26185,6 +26236,12 @@
       "license": "Public domain",
       "url": "https://commons.wikimedia.org/wiki/File:Iriomote.jpg",
       "attributionRequired": false
+    },
+    "featured_stay": {
+      "name": "星野リゾート 西表島ホテル",
+      "catchcopy": "世界自然遺産の島に立つジャングルリゾートの拠点ホテル",
+      "hasShuttle": false,
+      "accessStation": "上原港"
     }
   },
   {
@@ -27086,6 +27143,12 @@
       "license": "CC BY 3.0",
       "url": "https://commons.wikimedia.org/wiki/File%3A%E4%BC%8A%E8%B1%86%E9%AB%98%E5%8E%9F%E9%A7%85_-_panoramio_(1).jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "八幡野温泉郷 杜の湯 きらの里",
+      "catchcopy": "雑木林の里山に離れと湯処が点在。囲炉裏の風情と温泉三昧のくつろぎ宿",
+      "hasShuttle": false,
+      "accessStation": "伊豆急行伊豆高原駅"
     }
   },
   {
@@ -27301,7 +27364,14 @@
       "友達と"
     ],
     "bestSeason": "冬",
-    "_accessAutoFixed": "honshuFlightRemoved"
+    "_accessAutoFixed": "honshuFlightRemoved",
+    "featured_stay": {
+      "name": "龍神温泉 上御殿",
+      "catchcopy": "紀州藩主のために建てられた登録有形文化財の宿。日本三美人の湯・龍神温泉",
+      "hasShuttle": false,
+      "accessStation": "JR紀伊田辺駅から龍神バス「龍神温泉」下車",
+      "jalanUrl": "https://www.jalan.net/yad312103/"
+    }
   },
   {
     "id": "tosa-shimizu",
@@ -27506,6 +27576,13 @@
       "license": "CC BY-SA 3.0",
       "url": "https://commons.wikimedia.org/wiki/File:Tosashimizu_Usubae_1.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "足摺国際ホテル",
+      "catchcopy": "足摺岬灯台へ徒歩圏、太平洋の水平線と朝日を望むあしずり温泉郷の宿",
+      "hasShuttle": true,
+      "accessStation": "土佐くろしお鉄道中村駅",
+      "shuttleInfo": "足摺岬バス停・金剛福寺から送迎あり（要事前連絡）"
     }
   },
   {
@@ -27735,6 +27812,12 @@
       "license": "CC BY 4.0",
       "url": "https://commons.wikimedia.org/wiki/File%3AGion_Shrine_in_Nichinan_at_torii_gate.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "北郷 音色香の季 合歓のはな",
+      "catchcopy": "猪八重渓谷の麓、全10棟離れに天然温泉露天を備えた湯宿",
+      "hasShuttle": false,
+      "accessStation": "JR北郷駅"
     }
   },
   {
@@ -27946,6 +28029,12 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File%3AMojiko_Station_20190831.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "プレミアホテル門司港",
+      "catchcopy": "世界的建築家アルド・ロッシ設計、レトロな港に立つ異色ホテル",
+      "hasShuttle": false,
+      "accessStation": "JR門司港駅"
     }
   },
   {
@@ -28389,6 +28478,12 @@
       "license": "CC BY-SA 3.0",
       "url": "https://commons.wikimedia.org/wiki/File%3AShimabara_castle_02_r_2004.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "ホテル南風楼",
+      "catchcopy": "有明海に面して立つ明治創業の老舗リゾート旅館",
+      "hasShuttle": false,
+      "accessStation": "島原鉄道 島原港駅"
     }
   },
   {
@@ -28825,6 +28920,14 @@
       "license": "CC BY-SA 2.0",
       "url": "https://commons.wikimedia.org/wiki/File:Night_sky_over_Sounkyo_Canyon_(52266121468).jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "層雲峡 朝陽亭",
+      "catchcopy": "大雪山の峡谷を見晴らす高台に建ち、絶景の湯処を多彩に備えた層雲峡の名宿。",
+      "hasShuttle": true,
+      "accessStation": "JR上川駅（バス約30分）",
+      "jalanUrl": "https://www.jalan.net/yad331194/",
+      "shuttleInfo": "札幌・旭川より有料送迎バスあり（要予約・期間運行）"
     }
   },
   {
@@ -29085,6 +29188,14 @@
       "license": "CC BY 2.0",
       "url": "https://commons.wikimedia.org/wiki/File:Rebun_island_(52357469754).jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "礼文温泉 花れぶん",
+      "catchcopy": "最北の花の浮島・礼文島で唯一の温泉と海鮮会席を楽しめる港前の和風宿。",
+      "hasShuttle": true,
+      "accessStation": "香深港フェリーターミナル（徒歩約8分）",
+      "jalanUrl": "https://www.jalan.net/yad310605/",
+      "shuttleInfo": "香深港フェリーターミナルより無料送迎あり（要事前予約）"
     }
   },
   {
@@ -29341,6 +29452,14 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Rishiri_Airport_17-Sept-2018_p2.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "ホテル利尻",
+      "catchcopy": "利尻・礼文で唯一の源泉かけ流し温泉と夕陽の絶景露天を誇る島の湯宿。",
+      "hasShuttle": true,
+      "accessStation": "鴛泊港フェリーターミナル（車約20分）",
+      "jalanUrl": "https://www.jalan.net/yad366032/",
+      "shuttleInfo": "鴛泊港・沓形港・利尻空港より無料送迎あり（前日までの予約制）"
     }
   },
   {
@@ -29562,6 +29681,13 @@
       "license": "Public domain",
       "url": "https://commons.wikimedia.org/wiki/File%3AAkanko_Onsen-gai.JPG",
       "attributionRequired": false
+    },
+    "featured_stay": {
+      "name": "あかん遊久の里 鶴雅",
+      "catchcopy": "阿寒湖畔を代表する鶴雅グループ本店。庭園露天と湖を望む屋上大浴場が名物。",
+      "hasShuttle": true,
+      "accessStation": "JR釧路駅（バス約2時間）",
+      "shuttleInfo": "札幌・千歳方面などから有料送迎バスあり（週3往復・5日前までの完全予約制）"
     }
   },
   {
@@ -29773,6 +29899,14 @@
       "license": "CC BY 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Abashiri_Hokkaido_-_random_scenes_-_2022_Aug_9_various_13_39_42_727000.jpeg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "北天の丘 あばしり湖鶴雅リゾート",
+      "catchcopy": "オホーツク文化をテーマにした意匠が異彩を放つ、網走湖畔の温泉リゾート。",
+      "hasShuttle": true,
+      "accessStation": "JR網走駅（車約15分）",
+      "jalanUrl": "https://www.jalan.net/yad327628/",
+      "shuttleInfo": "JR網走駅より無料送迎あり（前日20時までの予約制・約15分）"
     }
   },
   {
@@ -29991,6 +30125,14 @@
       "license": "CC BY 2.5",
       "url": "https://commons.wikimedia.org/wiki/File:Lake_Shikotsu17n4272.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "丸駒温泉旅館",
+      "catchcopy": "大正4年創業、支笏湖畔にただ一軒。湖とつながる足元湧出の天然露天が名物。",
+      "hasShuttle": true,
+      "accessStation": "JR千歳駅（バスで支笏湖畔へ約45分）",
+      "jalanUrl": "https://www.jalan.net/yad341087/",
+      "shuttleInfo": "支笏湖畔バスターミナルより無料送迎バスあり（約15分）"
     }
   },
   {
@@ -30417,6 +30559,14 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Oga_city_central_dislict_seen_from_the_Mount_Kanpu.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "男鹿温泉 元湯雄山閣",
+      "catchcopy": "なまはげの口から源泉が噴き出す名物露天。男鹿温泉郷の秘湯を守る会の宿",
+      "hasShuttle": true,
+      "accessStation": "JR男鹿駅",
+      "jalanUrl": "https://www.jalan.net/yad318288/",
+      "shuttleInfo": "JR男鹿駅から無料送迎あり（2日前までに要予約）"
     }
   },
   {
@@ -30611,6 +30761,14 @@
       "license": "CC0",
       "url": "https://commons.wikimedia.org/wiki/File:Yonezawa_City_Healthy_Center_8.jpg",
       "attributionRequired": false
+    },
+    "featured_stay": {
+      "name": "白布温泉 湯滝の宿 西屋",
+      "catchcopy": "鎌倉時代開湯の白布温泉に唯一残る茅葺の老舗。名物の湯滝風呂が圧巻",
+      "hasShuttle": true,
+      "accessStation": "JR米沢駅",
+      "jalanUrl": "https://www.jalan.net/yad303948/",
+      "shuttleInfo": "米沢駅から送迎バスあり（要予約）"
     }
   },
   {
@@ -30819,6 +30977,12 @@
       "license": "CC BY 2.0",
       "url": "https://commons.wikimedia.org/wiki/File:2021-02-13_Dewa_Sanzan_Shrine.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "羽黒山参籠所 斎館",
+      "catchcopy": "羽黒山中に残る元禄再建の参籠所。山伏ゆかりの精進料理と静寂の朝を体験",
+      "hasShuttle": false,
+      "accessStation": "JR鶴岡駅からバス"
     }
   },
   {
@@ -31019,17 +31183,10 @@
     "featured_stay": {
       "name": "伝承千年の宿 佐勘",
       "catchcopy": "伊達政宗公の湯浴み御殿。代々湯守を務める秋保の名門",
-      "image": "/images/stays/sakunami-onsen.jpg",
       "jalanUrl": "https://www.jalan.net/yad318193/",
       "hasShuttle": true,
       "shuttleInfo": "仙台駅東口から無料送迎バスあり（予約定員制）",
-      "accessStation": "仙台駅",
-      "imageCredit": {
-        "author": "JustinSendai",
-        "license": "CC BY-SA 4.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Sakan%20Hotel%20lobby.jpg",
-        "attributionRequired": true
-      }
+      "accessStation": "仙台駅"
     }
   },
   {
@@ -31448,6 +31605,13 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Kawagoe_Kura_no_Machi_32.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "松村屋旅館",
+      "catchcopy": "明治五年創業、蔵造りの町並みと時の鐘に徒歩圏の小江戸川越唯一の老舗旅館",
+      "hasShuttle": false,
+      "accessStation": "川越駅からバス約15分「市役所前」下車すぐ",
+      "jalanUrl": "https://www.jalan.net/yad327514/"
     }
   },
   {
@@ -31646,7 +31810,15 @@
       "友達と",
       "温泉がおすすめ"
     ],
-    "bestSeason": "秋"
+    "bestSeason": "秋",
+    "featured_stay": {
+      "name": "那須温泉 山楽",
+      "catchcopy": "那須御用邸ゆかりの森に佇む、大正十二年創業の源泉かけ流し老舗旅館",
+      "hasShuttle": true,
+      "accessStation": "JR那須塩原駅",
+      "jalanUrl": "https://www.jalan.net/yad306188/",
+      "shuttleInfo": "JR那須塩原駅から送迎バス約30分（要予約）"
+    }
   },
   {
     "id": "choshi",
@@ -31852,6 +32024,12 @@
       "license": "CC BY 4.0",
       "url": "https://commons.wikimedia.org/wiki/File%3A%E3%82%B5%E3%83%AB%E3%82%A8%E3%83%93%E3%81%8B%E3%81%8D%E6%8F%9A%E3%81%92%EF%BC%88%E7%8A%AC%E8%8B%A5%E9%A3%9F%E5%A0%82%E3%83%BB%E5%8D%83%E8%91%89%E7%9C%8C%E9%8A%9A%E5%AD%90%E5%B8%82%E7%8A%AC%E8%8B%A5%EF%BC%8920250222-P1064474.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "絶景の宿 犬吠埼ホテル ぎょうけい館",
+      "catchcopy": "明治七年創業、犬吠埼灯台を望む波打ち際で朝日と海の幸を味わう老舗宿",
+      "hasShuttle": false,
+      "accessStation": "銚子電鉄 犬吠駅"
     }
   },
   {
@@ -32489,6 +32667,12 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Hand_sanitizer_in_Sado_Gold_Mine.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "佐渡加茂湖温泉 湖畔の宿 吉田家",
+      "catchcopy": "創業1858年、加茂湖畔の老舗宿。湖と大佐渡山脈を眺め佐渡の幸に舌鼓",
+      "hasShuttle": false,
+      "accessStation": "両津港"
     }
   },
   {
@@ -32697,6 +32881,13 @@
       "license": "CC BY 2.5",
       "url": "https://commons.wikimedia.org/wiki/File%3AIn_front_of_Kiyosato_Station03n4592.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "清泉寮",
+      "catchcopy": "標高1400mの牧草地に立つ清里のシンボル。名物ソフトクリームと満天の星",
+      "hasShuttle": true,
+      "accessStation": "JR清里駅",
+      "shuttleInfo": "JR清里駅から無料送迎バスあり（宿泊者専用・要予約）"
     }
   },
   {
@@ -33094,7 +33285,14 @@
       "カップル向け",
       "友達と"
     ],
-    "bestSeason": "冬"
+    "bestSeason": "冬",
+    "featured_stay": {
+      "name": "寛ぎの諏訪の湯宿 萃sui-諏訪湖",
+      "catchcopy": "全8室すべてから諏訪湖を一望。露天風呂付き客室で寛ぐ大人の小さな湯宿",
+      "hasShuttle": true,
+      "accessStation": "JR上諏訪駅",
+      "shuttleInfo": "JR上諏訪駅西口から無料送迎あり（予約不要・14:30〜17:00）"
+    }
   },
   {
     "id": "eiheiji",
@@ -33305,6 +33503,13 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Chujakumon_of_Eiheiji_in_September_2024.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "永平寺 親禅の宿 柏樹関",
+      "catchcopy": "禅の里・永平寺門前に立つ宿坊型の宿。朝のお勤めと精進料理で心を調える",
+      "hasShuttle": false,
+      "accessStation": "JR福井駅（永平寺ライナー約30分）",
+      "jalanUrl": "https://www.jalan.net/yad375163/"
     }
   },
   {
@@ -33928,6 +34133,14 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File%3A%E3%81%BF%E3%81%AA%E3%81%BF%E3%81%AE%E6%A1%9C%E3%81%A8%E8%8F%9C%E3%81%AE%E8%8A%B101.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "南伊豆弓ヶ浜温泉 季一遊",
+      "catchcopy": "日本の渚百選・弓ヶ浜を望む湯宿。3種の露天と予約不要の貸切風呂が自慢",
+      "hasShuttle": true,
+      "accessStation": "伊豆急下田駅",
+      "jalanUrl": "https://www.jalan.net/yad302330/",
+      "shuttleInfo": "伊豆急下田駅から無料送迎バスあり（約20分）"
     }
   },
   {
@@ -34348,6 +34561,14 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:%E3%82%B5%E3%83%B3%E3%83%8F%E3%83%88%E3%83%A4.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "伊東温泉 陽気館",
+      "catchcopy": "明治43年創業、専用登山電車で向かう天空の大露天と源泉かけ流しの老舗宿",
+      "hasShuttle": true,
+      "accessStation": "JR伊東駅",
+      "jalanUrl": "https://www.jalan.net/yad346764/",
+      "shuttleInfo": "伊東駅から送迎あり（宿泊者対象）"
     }
   },
   {
@@ -34948,6 +35169,14 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Ya-en_in_Totsukawa-mura.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "十津川温泉 ホテル昴",
+      "catchcopy": "日本一広い村の源泉かけ流し100%の宿。谷瀬の吊り橋と秘境十津川の拠点に",
+      "hasShuttle": true,
+      "accessStation": "奈良交通バス「ホテル昴」バス停から徒歩1分",
+      "jalanUrl": "https://www.jalan.net/yad305032/",
+      "shuttleInfo": "十津川温泉バス停から送迎あり（要予約）"
     }
   },
   {
@@ -35981,6 +36210,12 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File%3AShimizudani_Refinery_Ruins_at_Iwami_Ginzan_Silver_Mine_001.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "暮らす宿 他郷阿部家",
+      "catchcopy": "築230年の武家屋敷を再生、暮らすように泊まる石見銀山・大森町の宿",
+      "hasShuttle": false,
+      "accessStation": "JR大田市駅"
     }
   },
   {
@@ -36191,6 +36426,14 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File%3A%E5%B1%B1%E5%8F%A3%E7%9C%8C%E5%B2%A9%E5%9B%BD%E5%B8%82_%E9%9E%8D%E6%8E%9B%E5%B1%B1.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "錦帯橋温泉 岩国国際観光ホテル",
+      "catchcopy": "錦帯橋まで徒歩2分、岩国城を望む庭園露天が自慢の錦帯橋温泉の宿",
+      "hasShuttle": true,
+      "accessStation": "JR岩国駅",
+      "jalanUrl": "https://www.jalan.net/yad329032/",
+      "shuttleInfo": "無料送迎あり（前日15時までに要予約）"
     }
   },
   {
@@ -36813,7 +37056,15 @@
       "友達と",
       "ゆっくり滞在"
     ],
-    "bestSeason": "夏"
+    "bestSeason": "夏",
+    "featured_stay": {
+      "name": "四万十の宿",
+      "catchcopy": "四万十川河口の木立に包まれた癒しの宿、海水露天と清流の幸を味わう",
+      "hasShuttle": true,
+      "accessStation": "土佐くろしお鉄道中村駅",
+      "jalanUrl": "https://www.jalan.net/yad364127/",
+      "shuttleInfo": "土佐くろしお鉄道中村駅から送迎あり（要予約）"
+    }
   },
   {
     "id": "kashiwajima",
@@ -37604,7 +37855,13 @@
       "カップル向け",
       "友達と"
     ],
-    "bestSeason": "冬"
+    "bestSeason": "冬",
+    "featured_stay": {
+      "name": "長湯温泉 大丸旅館",
+      "catchcopy": "世界屈指の炭酸泉・長湯温泉を代表する大正六年創業の老舗",
+      "hasShuttle": false,
+      "accessStation": "JR豊後竹田駅"
+    }
   },
   {
     "id": "usuki",
@@ -38025,7 +38282,15 @@
       "カップル向け",
       "友達と"
     ],
-    "bestSeason": "冬"
+    "bestSeason": "冬",
+    "featured_stay": {
+      "name": "日田温泉 亀山亭ホテル",
+      "catchcopy": "三隈川を一望する明治創業の老舗、屋形船と鵜飼の風情も",
+      "hasShuttle": true,
+      "accessStation": "JR日田駅",
+      "jalanUrl": "https://www.jalan.net/yad310402/",
+      "shuttleInfo": "JR日田駅から無料送迎あり（要予約）"
+    }
   },
   {
     "id": "hasami",
@@ -38834,7 +39099,14 @@
       "福岡に泊まるのがおすすめ",
       "離島の絶景"
     ],
-    "bestSeason": "通年"
+    "bestSeason": "通年",
+    "featured_stay": {
+      "name": "対馬グランドホテル",
+      "catchcopy": "対馬の海を望む島随一のリゾートホテル、夕景の美しさが評判",
+      "hasShuttle": false,
+      "accessStation": "対馬やまねこ空港",
+      "jalanUrl": "https://www.jalan.net/yad340708/"
+    }
   },
   {
     "id": "iki-island",
@@ -39061,7 +39333,14 @@
       "福岡に泊まるのがおすすめ",
       "離島の絶景"
     ],
-    "bestSeason": "通年"
+    "bestSeason": "通年",
+    "featured_stay": {
+      "name": "奥壱岐の千年湯 平山旅館",
+      "catchcopy": "1500年の古湯・湯ノ本温泉、自家製食材の島料理が名物の秘湯宿",
+      "hasShuttle": false,
+      "accessStation": "郷ノ浦港",
+      "jalanUrl": "https://www.jalan.net/yad324954/"
+    }
   },
   {
     "id": "tanegashima",
@@ -39718,7 +39997,13 @@
       "離島の絶景",
       "海を眺める"
     ],
-    "bestSeason": "夏"
+    "bestSeason": "夏",
+    "featured_stay": {
+      "name": "星のや竹富島",
+      "catchcopy": "赤瓦と珊瑚の石垣、島の集落様式でつくられた滞在型リゾート",
+      "hasShuttle": false,
+      "accessStation": "竹富港"
+    }
   },
   {
     "id": "yonaguni-island",
@@ -39946,7 +40231,15 @@
       "友達と",
       "那覇に泊まるのがおすすめ"
     ],
-    "bestSeason": "夏"
+    "bestSeason": "夏",
+    "featured_stay": {
+      "name": "アイランドホテル与那国",
+      "catchcopy": "日本最西端の島でただ一つのリゾートホテル",
+      "hasShuttle": true,
+      "accessStation": "与那国空港",
+      "jalanUrl": "https://www.jalan.net/yad382795/",
+      "shuttleInfo": "与那国空港から無料送迎あり（前日15時までに要予約）"
+    }
   },
   {
     "id": "nakijin",
@@ -40363,7 +40656,13 @@
       "海を眺める",
       "ゆっくり滞在"
     ],
-    "bestSeason": "夏"
+    "bestSeason": "夏",
+    "featured_stay": {
+      "name": "ホテル オリオン モトブ リゾート＆スパ",
+      "catchcopy": "美ら海水族館に隣接、エメラルドビーチを望むリゾートホテル",
+      "hasShuttle": false,
+      "accessStation": "本部港"
+    }
   },
   {
     "id": "zamami-island",
@@ -41036,6 +41335,13 @@
       "license": "CC BY 2.0",
       "url": "https://commons.wikimedia.org/wiki/File%3AAerial_view_of_Ishigaki_island_Taketomi_and_Kohama_2014.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "はいむるぶし",
+      "catchcopy": "南十字星の名を持つ、日本最南端のアイランドビーチリゾート",
+      "hasShuttle": true,
+      "accessStation": "小浜港",
+      "shuttleInfo": "小浜港から全定期便に合わせ専用送迎バス運行（予約不要）"
     }
   },
   {
@@ -41231,7 +41537,14 @@
       "友達と",
       "温泉がおすすめ"
     ],
-    "bestSeason": "夏"
+    "bestSeason": "夏",
+    "featured_stay": {
+      "name": "黄金の湯 松代荘",
+      "catchcopy": "真田十万石の城下町に湧く黄金色の源泉かけ流し。武家屋敷風の公共の宿",
+      "hasShuttle": false,
+      "accessStation": "JR長野駅（バスで松代温泉下車）",
+      "jalanUrl": "https://www.jalan.net/yad328777/"
+    }
   },
   {
     "id": "iiyama",
@@ -41627,6 +41940,12 @@
       "license": "CC BY 2.5",
       "url": "https://commons.wikimedia.org/wiki/File:160320_Yakage-juku_Yakage_Okayama_pref_Japan05n.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "矢掛屋 INN&SUITES",
+      "catchcopy": "旧山陽道の宿場町に客室が点在、日本初アルベルゴ・ディフーゾ認定の古民家宿",
+      "hasShuttle": false,
+      "accessStation": "井原鉄道矢掛駅"
     }
   },
   {
@@ -42034,6 +42353,12 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Mount_Tsurugi_from_Mount_Harinoki.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "剣山頂上ヒュッテ",
+      "catchcopy": "標高1955mの頂上直下、雲海とご来光に出会う剣山唯一の山小屋",
+      "hasShuttle": false,
+      "accessStation": "剣山観光登山リフト西島駅"
     }
   },
   {
@@ -42427,7 +42752,15 @@
       "ひとり旅向け",
       "カップル向け"
     ],
-    "bestSeason": "夏"
+    "bestSeason": "夏",
+    "featured_stay": {
+      "name": "浜べの料理宿 宝来館",
+      "catchcopy": "根浜海岸の浜べに建つ料理宿。三陸大槌湾の幸と女将のもてなしに出会う一軒",
+      "hasShuttle": true,
+      "accessStation": "三陸鉄道鵜住居駅",
+      "jalanUrl": "https://www.jalan.net/yad342462/",
+      "shuttleInfo": "釜石駅・鵜住居駅から無料送迎あり（要予約）"
+    }
   },
   {
     "id": "ofunato",
@@ -43249,6 +43582,12 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:%E5%B8%AF%E5%BA%83%E7%AB%B6%E9%A6%AC%E5%A0%B4%E3%81%AE%E7%AC%AC2%E9%9A%9C%E5%AE%B3%E3%82%92%E4%B8%8A%E3%81%8C%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E9%A2%A8%E6%99%AF%EF%BC%882016%E5%B9%B41%E6%9C%881%E6%97%A5%E7%AC%AC2%E7%AB%B6%E8%B5%B0%EF%BC%89.JPG",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "森のスパリゾート 北海道ホテル",
+      "catchcopy": "創業125年余、北海道遺産のモール温泉とサウナで知られる十勝の名門ホテル。",
+      "hasShuttle": false,
+      "accessStation": "JR帯広駅（車約5分）"
     }
   },
   {
@@ -43470,6 +43809,13 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Rausu_Kunashiri_Observatory_Deck_1.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "陶灯りの宿 らうす第一ホテル",
+      "catchcopy": "世界遺産知床・羅臼温泉郷に立ち、陶灯りの明かりが迎える源泉の宿。",
+      "hasShuttle": false,
+      "accessStation": "阿寒バス 羅臼本町バス停（車約5分）",
+      "jalanUrl": "https://www.jalan.net/yad357778/"
     }
   },
   {
@@ -43890,7 +44236,14 @@
       "友達と"
     ],
     "bestSeason": "冬",
-    "_accessAutoFixed": "honshuFlightRemoved"
+    "_accessAutoFixed": "honshuFlightRemoved",
+    "featured_stay": {
+      "name": "大沢温泉 湯治屋",
+      "catchcopy": "宮沢賢治も通った二百年の湯治宿。豊沢川を望む名物混浴露天「大沢の湯」",
+      "hasShuttle": true,
+      "accessStation": "JR花巻駅",
+      "shuttleInfo": "新花巻駅・花巻駅から無料送迎バスあり（前日までに要予約）"
+    }
   },
   {
     "id": "hachimantai",
@@ -44108,6 +44461,13 @@
       "license": "CC BY 2.0",
       "url": "https://commons.wikimedia.org/wiki/File:Mount_Hachimantai_and_its_surroundings,_Japan;_October_2017_(02).jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "藤七温泉 彩雲荘",
+      "catchcopy": "標高1400m、東北最高所の秘湯。雲海とご来光を望む野趣あふれる露天風呂群",
+      "hasShuttle": false,
+      "accessStation": "JR盛岡駅からバス",
+      "jalanUrl": "https://www.jalan.net/yad316900/"
     }
   },
   {
@@ -44315,6 +44675,12 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Lake_Tazawa_and_Kansa-g%C5%AB_20210213.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "乳頭温泉郷 妙乃湯",
+      "catchcopy": "渓流沿いに金の湯・銀の湯を湛える、乳頭温泉郷の洗練された人気湯宿",
+      "hasShuttle": false,
+      "accessStation": "JR田沢湖駅"
     }
   },
   {
@@ -44724,7 +45090,15 @@
       "海を眺める"
     ],
     "bestSeason": "通年",
-    "_accessAutoFixed": "honshuFlightRemoved"
+    "_accessAutoFixed": "honshuFlightRemoved",
+    "featured_stay": {
+      "name": "気仙沼プラザホテル",
+      "catchcopy": "気仙沼湾を一望する高台の温泉宿。港直送の海の幸会席が高評価の料理自慢",
+      "hasShuttle": true,
+      "accessStation": "JR気仙沼駅",
+      "jalanUrl": "https://www.jalan.net/yad338076/",
+      "shuttleInfo": "送迎あり（2名以上・事前予約制）"
+    }
   },
   {
     "id": "ikaho",
@@ -44936,6 +45310,13 @@
       "license": "CC BY 2.0",
       "url": "https://commons.wikimedia.org/wiki/File%3AIkaho_Onsen_02.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "伊香保温泉 千明仁泉亭",
+      "catchcopy": "文亀二年創業五百年、徳冨蘆花が愛した黄金の湯かけ流しの石段街の老舗",
+      "hasShuttle": false,
+      "accessStation": "JR渋川駅からバス約30分「伊香保温泉」下車徒歩約3分",
+      "jalanUrl": "https://www.jalan.net/yad335384/"
     }
   },
   {
@@ -45147,6 +45528,12 @@
       "license": "CC0",
       "url": "https://commons.wikimedia.org/wiki/File:Constructed_areas_on_Enoshima_2.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "岩本楼本館",
+      "catchcopy": "江の島岩本院の流れを汲む老舗旅館、登録有形文化財のローマ風呂が名物",
+      "hasShuttle": false,
+      "accessStation": "小田急 片瀬江ノ島駅から徒歩約15分"
     }
   },
   {
@@ -45367,6 +45754,14 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Seibu_Kanko_Bus_anohana_wrapping.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "和銅鉱泉 ゆの宿 和どう",
+      "catchcopy": "秩父七湯最古の和銅鉱泉「薬師の湯」を守る、露天風呂付客室自慢の湯宿",
+      "hasShuttle": true,
+      "accessStation": "和銅黒谷駅／西武秩父駅からタクシー約15分",
+      "jalanUrl": "https://www.jalan.net/yad319829/",
+      "shuttleInfo": "秩父鉄道 和銅黒谷駅から無料送迎あり"
     }
   },
   {
@@ -45569,7 +45964,14 @@
       "1泊がおすすめ",
       "ひとり旅向け"
     ],
-    "bestSeason": "夏"
+    "bestSeason": "夏",
+    "featured_stay": {
+      "name": "里海邸 -金波楼本邸-",
+      "catchcopy": "大洗磯前神社の杜のそば、波打ち際に建つ全八室の静謐な海辺の別邸",
+      "hasShuttle": false,
+      "accessStation": "鹿島臨海鉄道 大洗駅",
+      "jalanUrl": "https://www.jalan.net/yad325639/"
+    }
   },
   {
     "id": "sano",
@@ -45976,6 +46378,13 @@
       "license": "CC BY 3.0",
       "url": "https://commons.wikimedia.org/wiki/File:%E9%83%A1%E4%B8%8A%E5%85%AB%E5%B9%A1_(%E5%B2%90%E9%98%9C%E7%9C%8C%E9%83%A1%E4%B8%8A%E5%B8%82)_-_panoramio_(5).jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "料理旅館 備前屋",
+      "catchcopy": "水の町・郡上八幡に現存最古、250年余の歴史を刻む料理旅館。庭園も見事",
+      "hasShuttle": false,
+      "accessStation": "長良川鉄道郡上八幡駅",
+      "jalanUrl": "https://www.jalan.net/yad336285/"
     }
   },
   {
@@ -46183,6 +46592,13 @@
       "license": "CC BY 3.0",
       "url": "https://commons.wikimedia.org/wiki/File%3A%E5%A5%88%E8%89%AF%E4%BA%95%E5%AE%BF_-_panoramio_(10).jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "BYAKU Narai",
+      "catchcopy": "奈良井宿の酒蔵と築約200年の商家を再生。百の物語に出逢う静謐な滞在",
+      "hasShuttle": false,
+      "accessStation": "JR奈良井駅（徒歩約5分）",
+      "jalanUrl": "https://www.jalan.net/yad395784/"
     }
   },
   {
@@ -46590,6 +47006,14 @@
       "license": "CC BY 3.0",
       "url": "https://commons.wikimedia.org/wiki/File%3AMurakami_Station_-_%E6%9D%91%E4%B8%8A%E9%A7%85%EF%BC%88%E6%96%B0%E6%BD%9F%E7%9C%8C%EF%BC%89_-_panoramio.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "大観荘せなみの湯",
+      "catchcopy": "日本海に沈む夕陽を一望する瀬波温泉の宿。海辺の露天風呂と新潟の幸",
+      "hasShuttle": true,
+      "accessStation": "JR村上駅",
+      "jalanUrl": "https://www.jalan.net/yad313539/",
+      "shuttleInfo": "JR村上駅から無料送迎あり（前日までに要予約）"
     }
   },
   {
@@ -46786,6 +47210,14 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Sakazaki_in_Shima.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "汀渚 ばさら邸",
+      "catchcopy": "英虞湾を見渡す五千坪に全20室露天風呂付き。和モダンの大人の隠れ家",
+      "hasShuttle": true,
+      "accessStation": "近鉄賢島駅",
+      "jalanUrl": "https://www.jalan.net/yad361058/",
+      "shuttleInfo": "賢島駅から無料送迎あり（到着後電話・約5分）"
     }
   },
   {
@@ -47395,6 +47827,14 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Myoko-Kogen_sta_SR1-S308%2BET127-V1.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "赤倉観光ホテル",
+      "catchcopy": "昭和12年創業、雲海を見下ろす高原の名門リゾート。源泉かけ流しの絶景露天",
+      "hasShuttle": true,
+      "accessStation": "えちごトキめき鉄道妙高高原駅",
+      "jalanUrl": "https://www.jalan.net/yad312850/",
+      "shuttleInfo": "妙高高原駅から予約制の無料送迎シャトルあり"
     }
   },
   {
@@ -47795,6 +48235,13 @@
       "license": "CC BY-SA 2.0",
       "url": "https://commons.wikimedia.org/wiki/File:%E3%83%8F%E3%82%AF%E3%83%88%E3%83%A4_%E4%B8%B9%E6%B3%A2%E7%AF%A0%E5%B1%B1_Oct_27,_2012.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "篠山城下町ホテルNIPPONIA",
+      "catchcopy": "城下町の歴史的建築を再生した分散型ホテル。丹波の美食と町ごと泊まる体験",
+      "hasShuttle": true,
+      "accessStation": "JR福知山線 篠山口駅",
+      "shuttleInfo": "JR篠山口駅から無料送迎あり（要予約）"
     }
   },
   {
@@ -48000,6 +48447,14 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:%E9%82%A3%E6%99%BA%E5%8B%9D%E6%B5%A6%E6%B8%AF%E3%81%AE%E5%A4%95%E9%99%BD.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "碧き島の宿 熊野別邸 中の島",
+      "catchcopy": "船でしか行けない紺碧の島の温泉宿。海と一体になる絶景の露天風呂が待つ",
+      "hasShuttle": true,
+      "accessStation": "JR紀伊勝浦駅から徒歩で勝浦港桟橋へ",
+      "jalanUrl": "https://www.jalan.net/yad313265/",
+      "shuttleInfo": "勝浦港の桟橋から無料の専用送迎船で約5分"
     }
   },
   {
@@ -48222,6 +48677,13 @@
       "license": "CC BY-SA 2.0",
       "url": "https://commons.wikimedia.org/wiki/File:Inside_the_Kumano_Hongu_Taisha.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "旅館あづまや",
+      "catchcopy": "日本最古の湯・湯の峰温泉の江戸期創業老舗。マルローが愛した槙風呂の名宿",
+      "hasShuttle": false,
+      "accessStation": "龍神バス「湯の峰温泉」バス停すぐ",
+      "jalanUrl": "https://www.jalan.net/yad397532/"
     }
   },
   {
@@ -48431,6 +48893,14 @@
       "license": "CC BY 2.5",
       "url": "https://commons.wikimedia.org/wiki/File:141115_Ako_Castle_Ako_Hyogo_pref_Japan23n.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "赤穂温泉 絶景露天風呂の宿 銀波荘",
+      "catchcopy": "瀬戸内の海に浮かぶような絶景露天風呂。赤穂御崎で夕陽と海の幸会席を堪能",
+      "hasShuttle": true,
+      "accessStation": "JR播州赤穂駅",
+      "jalanUrl": "https://www.jalan.net/yad313364/",
+      "shuttleInfo": "JR播州赤穂駅から無料送迎バスで約15分（前日までに要予約）"
     }
   },
   {
@@ -48851,6 +49321,14 @@
       "license": "CC0",
       "url": "https://commons.wikimedia.org/wiki/File:Tomonoura_viewed_from_Taishiden.jpg",
       "attributionRequired": false
+    },
+    "featured_stay": {
+      "name": "汀邸 遠音近音",
+      "catchcopy": "江戸期の宿を継ぐ全室オーシャンビュー露天付き、鞆の浦の潮騒に憩う湯宿",
+      "hasShuttle": true,
+      "accessStation": "JR福山駅",
+      "jalanUrl": "https://www.jalan.net/yad325753/",
+      "shuttleInfo": "JR福山駅から無料送迎あり（前日までに要予約）"
     }
   },
   {
@@ -49047,7 +49525,14 @@
       "街歩き向け"
     ],
     "bestSeason": "夏",
-    "_accessAutoFixed": "honshuFlightRemoved"
+    "_accessAutoFixed": "honshuFlightRemoved",
+    "featured_stay": {
+      "name": "天然温泉 境港 夕凪の湯 御宿 野乃",
+      "catchcopy": "水木しげるロード徒歩圏、最上階の天然温泉から大山を望む高評価の和風宿",
+      "hasShuttle": false,
+      "accessStation": "JR境港駅",
+      "jalanUrl": "https://www.jalan.net/yad316500/"
+    }
   },
   {
     "id": "ushimado",
@@ -49269,6 +49754,14 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Ushimado_Satake_Toku%27s_atelier.JPG",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "ホテルリマーニ",
+      "catchcopy": "日本のエーゲ海・牛窓の海辺に立つ全室オーシャンビューのリゾートホテル",
+      "hasShuttle": true,
+      "accessStation": "JR邑久駅",
+      "jalanUrl": "https://www.jalan.net/yad314512/",
+      "shuttleInfo": "JR邑久駅から無料送迎あり（1日2便・3日前までに要予約）"
     }
   },
   {
@@ -49672,6 +50165,14 @@
       "license": "CC BY 2.0",
       "url": "https://commons.wikimedia.org/wiki/File:%E8%A7%92%E5%B3%B6%E5%A4%A7%E6%A9%8B_(38654569244).jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "ホテル西長門リゾート",
+      "catchcopy": "角島大橋を望む海辺のリゾート、全室から響灘のコバルトブルーを一望",
+      "hasShuttle": true,
+      "accessStation": "JR新下関駅",
+      "jalanUrl": "https://www.jalan.net/yad325443/",
+      "shuttleInfo": "JR新下関駅から無料送迎バスあり（3日前までに要予約）"
     }
   },
   {
@@ -50288,7 +50789,13 @@
       "カップル向け",
       "友達と"
     ],
-    "bestSeason": "通年"
+    "bestSeason": "通年",
+    "featured_stay": {
+      "name": "柳川藩主立花邸 御花",
+      "catchcopy": "国指定名勝の松濤園を擁する、柳川藩主立花家の邸宅に泊まる宿",
+      "hasShuttle": false,
+      "accessStation": "西鉄柳川駅"
+    }
   },
   {
     "id": "hyuga",
@@ -50715,6 +51222,12 @@
       "license": "Public domain",
       "url": "https://commons.wikimedia.org/wiki/File:Kami-Koshikijima_ISS022.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "FUJIYA HOSTEL",
+      "catchcopy": "築100年超の古民家を継いだ1日4組の島宿、名物は豆腐の朝ごはん",
+      "hasShuttle": false,
+      "accessStation": "里港（上甑島）"
     }
   },
   {
@@ -50932,6 +51445,12 @@
       "license": "CC BY 2.5",
       "url": "https://commons.wikimedia.org/wiki/File:Kagoshima_Airport01n4592.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "霧島ホテル",
+      "catchcopy": "坂本龍馬新婚旅行ゆかりの硫黄谷温泉、名物は巨大な庭園大浴場",
+      "hasShuttle": false,
+      "accessStation": "JR霧島神宮駅"
     }
   },
   {
@@ -51151,6 +51670,13 @@
       "license": "CC BY 2.5",
       "url": "https://commons.wikimedia.org/wiki/File:Ebino_Plateau01n4592.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "えびの高原ホテル",
+      "catchcopy": "韓国岳の裾野・標高1200mに立つ源泉かけ流しの高原ホテル",
+      "hasShuttle": false,
+      "accessStation": "JR小林駅",
+      "jalanUrl": "https://www.jalan.net/yad341741/"
     }
   },
   {
@@ -51356,6 +51882,12 @@
       "license": "CC0",
       "url": "https://commons.wikimedia.org/wiki/File:Views_of_Onna_21.jpg",
       "attributionRequired": false
+    },
+    "featured_stay": {
+      "name": "ハレクラニ沖縄",
+      "catchcopy": "ハワイの名門ブランドが恩納村の海岸に開いた極上ビーチリゾート",
+      "hasShuttle": false,
+      "accessStation": "那覇空港"
     }
   },
   {
@@ -51555,6 +52087,12 @@
       "license": "CC BY 4.0",
       "url": "https://commons.wikimedia.org/wiki/File%3ACtenoides_lischkei%2C_%E7%80%AC%E5%B5%A9%2C_%E5%90%8D%E8%AD%B7%E5%B8%82%2C_%E6%B2%96%E7%B8%84%E7%9C%8C%2C_JP_imported_from_iNaturalist_photo_94293765.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "ザ・ブセナテラス",
+      "catchcopy": "部瀬名岬に立つ、沖縄リゾートの草分け的ラグジュアリーホテル",
+      "hasShuttle": false,
+      "accessStation": "那覇空港"
     }
   },
   {
@@ -51759,7 +52297,13 @@
       "友達と",
       "海を眺める"
     ],
-    "bestSeason": "夏"
+    "bestSeason": "夏",
+    "featured_stay": {
+      "name": "星のや沖縄",
+      "catchcopy": "グスクの城壁に囲まれ海と暮らすように滞在する海辺のリゾート",
+      "hasShuttle": false,
+      "accessStation": "那覇空港"
+    }
   },
   {
     "id": "niseko",
@@ -51968,6 +52512,13 @@
       "license": "CC BY 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Niseko_helipad_building.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "坐忘林",
+      "catchcopy": "全15室に源泉かけ流しの内湯と露天を備えた、ニセコの森に潜む静寂の高級旅館。",
+      "hasShuttle": true,
+      "accessStation": "JR倶知安駅（車約15分）",
+      "shuttleInfo": "JR倶知安駅より無料送迎あり（約15分）"
     }
   },
   {
@@ -52192,6 +52743,13 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Mount_Asahi_(Daisetsuzan)_under_snow,_April_2023_02.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "旭岳温泉 湯元 湧駒荘",
+      "catchcopy": "大正3年開湯、5つの源泉を持つ日本秘湯を守る会の宿。旭岳登山の拠点にも。",
+      "hasShuttle": false,
+      "accessStation": "JR旭川駅（車約60分）",
+      "jalanUrl": "https://www.jalan.net/yad341740/"
     }
   },
   {
@@ -52384,7 +52942,14 @@
       "カップル向け",
       "友達と"
     ],
-    "bestSeason": "夏・冬"
+    "bestSeason": "夏・冬",
+    "featured_stay": {
+      "name": "星野リゾート 界 ポロト",
+      "catchcopy": "ポロト湖畔に立つとんがり湯小屋とモール温泉、アイヌ文化に浸る温泉旅館。",
+      "hasShuttle": false,
+      "accessStation": "JR白老駅（徒歩約10分）",
+      "jalanUrl": "https://www.jalan.net/yad321463/"
+    }
   },
   {
     "id": "tomamu",
@@ -52587,6 +53152,14 @@
       "license": "CC BY 2.0",
       "url": "https://commons.wikimedia.org/wiki/File:UNKAI_TERRACE.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "星野リゾート リゾナーレトマム",
+      "catchcopy": "雲海テラスと全室スイートのタワーで知られる、北海道最大級の滞在型リゾート。",
+      "hasShuttle": true,
+      "accessStation": "JRトマム駅（送迎バス約10分）",
+      "jalanUrl": "https://www.jalan.net/yad315616/",
+      "shuttleInfo": "JRトマム駅より無料送迎バスあり（列車到着に合わせ運行・約10分）"
     }
   },
   {
@@ -52805,6 +53378,12 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Towada_Hotel.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "星野リゾート 奥入瀬渓流ホテル",
+      "catchcopy": "奥入瀬渓流沿いに佇むリゾートホテル。渓流テラスと苔さんぽで自然に浸る滞在",
+      "hasShuttle": false,
+      "accessStation": "JR八戸駅"
     }
   },
   {
@@ -53013,6 +53592,12 @@
       "license": "CC0",
       "url": "https://commons.wikimedia.org/wiki/File:Fumerole_-_Mount_Osore_-_Mutsu,_Aomori_-_DSC00452.jpg",
       "attributionRequired": false
+    },
+    "featured_stay": {
+      "name": "恐山 宿坊 吉祥閣",
+      "catchcopy": "霊場恐山の境内に泊まる宿坊。精進料理と境内の硫黄泉で心身を清める一夜",
+      "hasShuttle": false,
+      "accessStation": "JR下北駅"
     }
   },
   {
@@ -53230,6 +53815,14 @@
       "license": "CC BY 2.0",
       "url": "https://commons.wikimedia.org/wiki/File:The_emerald_waters_at_%E9%9D%92%E6%B2%BC_(%E8%A3%8F%E7%A3%90%E6%A2%AF%E4%BA%94%E8%89%B2%E6%B2%BC)_(3780510114).jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "裏磐梯高原ホテル",
+      "catchcopy": "磐梯山と弥六沼を一望する高原リゾート。五色沼散策の拠点となる名ホテル",
+      "hasShuttle": true,
+      "accessStation": "JR猪苗代駅",
+      "jalanUrl": "https://www.jalan.net/yad324277/",
+      "shuttleInfo": "猪苗代駅から無料送迎バスあり（前日までに要予約）"
     }
   },
   {
@@ -53447,6 +54040,13 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Arashima_in_Minamisanriku_Town.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "南三陸ホテル観洋",
+      "catchcopy": "志津川湾を望む絶景露天と鮑・蛸の海鮮会席。南三陸を代表する大型温泉宿",
+      "hasShuttle": true,
+      "accessStation": "BRT志津川駅",
+      "shuttleInfo": "仙台駅東口から宿泊者専用無料送迎バスあり（前日15時までに要予約）"
     }
   },
   {
@@ -53853,16 +54453,9 @@
     "featured_stay": {
       "name": "あさやホテル",
       "catchcopy": "明治21年創業。鬼怒川を代表する老舗の大型温泉ホテル",
-      "image": "/images/stays/kinugawa-onsen.jpg",
       "hasShuttle": true,
       "shuttleInfo": "宇都宮駅から送迎バスあり（要予約）",
-      "accessStation": "鬼怒川温泉駅からダイヤルバス約8分",
-      "imageCredit": {
-        "author": "妖精書士 (talk)",
-        "license": "CC0",
-        "url": "https://commons.wikimedia.org/wiki/File:ASAYA%20Hotel.JPG",
-        "attributionRequired": false
-      }
+      "accessStation": "鬼怒川温泉駅からダイヤルバス約8分"
     }
   },
   {
@@ -54271,7 +54864,13 @@
       "車なしOK",
       "日帰り最適"
     ],
-    "bestSeason": "秋"
+    "bestSeason": "秋",
+    "featured_stay": {
+      "name": "筑波山江戸屋",
+      "catchcopy": "筑波山神社門前で江戸期から続く老舗旅館、山の霊気と門前情緒に浸る",
+      "hasShuttle": false,
+      "accessStation": "つくば駅からバス「筑波山神社入口」下車"
+    }
   },
   {
     "id": "kasama",
@@ -54660,6 +55259,13 @@
       "license": "CC0",
       "url": "https://commons.wikimedia.org/wiki/File:Shinsh%C5%8D-ji_(Arakawa,_Arakawa)_04.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "成田山門前 旅館 若松本店",
+      "catchcopy": "明和五年創業二百五十余年、成田山新勝寺門前で名物うなぎと共に泊まる老舗",
+      "hasShuttle": false,
+      "accessStation": "京成成田駅から徒歩約15分",
+      "jalanUrl": "https://www.jalan.net/yad339445/"
     }
   },
   {
@@ -55266,6 +55872,12 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Rackcar_at_a_private_residence_in_Okutama_town.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "三河屋旅館",
+      "catchcopy": "創業約二百年、名湯「氷川郷麻葉の湯」と奥多摩の渓谷美に癒される老舗旅館",
+      "hasShuttle": false,
+      "accessStation": "JR青梅線 奥多摩駅"
     }
   },
   {
@@ -55466,6 +56078,12 @@
       "license": "CC BY-SA 2.0",
       "url": "https://commons.wikimedia.org/wiki/File:%E5%9C%B0%E7%8D%84%E8%B0%B7%E9%87%8E%E7%8C%BF%E5%85%AC%E8%8B%91-Snow_Monkey_-_Flickr_-_%E8%BF%B7%E6%83%98%E7%9A%84%E4%BA%BA%E7%94%9F.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "地獄谷温泉 後楽館",
+      "catchcopy": "温泉に入る野猿で名高い地獄谷唯一の一軒宿。渓谷の秘湯と山里の味を楽しむ",
+      "hasShuttle": false,
+      "accessStation": "長野電鉄湯田中駅（バス上林温泉下車徒歩約30分）"
     }
   },
   {
@@ -55673,6 +56291,14 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Tateshina_high_school_in_Nagano.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "蓼科親湯温泉",
+      "catchcopy": "創業大正十五年。3万冊の本棚に囲まれ、蓼科の渓流音に憩う老舗温泉宿",
+      "hasShuttle": true,
+      "accessStation": "JR茅野駅",
+      "jalanUrl": "https://www.jalan.net/yad331396/",
+      "shuttleInfo": "JR茅野駅東口から無料定期送迎バスあり（要予約）"
     }
   },
   {
@@ -55865,6 +56491,13 @@
       "license": "CC0",
       "url": "https://commons.wikimedia.org/wiki/File:Yuzawa,_Niigata_-_DSC09357.JPG",
       "attributionRequired": false
+    },
+    "featured_stay": {
+      "name": "雪国の宿 高半",
+      "catchcopy": "川端康成が『雪国』を執筆した創業900年の宿。「かすみの間」が残る文学の湯",
+      "hasShuttle": true,
+      "accessStation": "JR越後湯沢駅",
+      "shuttleInfo": "JR越後湯沢駅から送迎あり（要連絡・8時〜18時）"
     }
   },
   {
@@ -57061,6 +57694,13 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Kimono_Forest_at_night,_Arashiyama_Station,_Arashiyama,_Kyoto,_Japan.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "星のや京都",
+      "catchcopy": "渡月橋から専用の舟で川を遡り辿り着く、全室リバービューの水辺の隠れ家リゾート",
+      "hasShuttle": true,
+      "accessStation": "嵐電嵐山駅（渡月橋南詰の舟待合へ）",
+      "shuttleInfo": "渡月橋南詰の舟待合から専用舟で送迎（事前予約制）"
     }
   },
   {
@@ -57663,6 +58303,13 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File%3AMatsusaka_Beef_Sushi_by_Uobei.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "鯛屋旅館",
+      "catchcopy": "旧参宮街道の旅籠の風情を残す創業220年の老舗。名物松阪肉すき焼きも",
+      "hasShuttle": false,
+      "accessStation": "JR・近鉄松阪駅",
+      "jalanUrl": "https://www.jalan.net/yad317487/"
     }
   },
   {
@@ -58077,6 +58724,12 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:%E6%B5%B7%E5%A3%AB%E7%94%BA%E5%BE%8C%E9%B3%A5%E7%BE%BD%E9%99%A2%E8%B3%87%E6%96%99%E9%A4%A8_ac.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "Entô（エントウ）",
+      "catchcopy": "隠岐ジオパークの拠点、全面ガラス張りの客室で海と一体になる島のホテル",
+      "hasShuttle": false,
+      "accessStation": "菱浦港"
     }
   },
   {
@@ -59140,6 +59793,12 @@
       "license": "CC BY 2.0",
       "url": "https://commons.wikimedia.org/wiki/File%3A%E5%94%90%E6%AB%83%E3%81%AE%E6%B8%85%E6%B0%B4_%E8%B1%8A%E5%B3%B6_%E9%A6%99%E5%B7%9D%E7%9C%8C_Mar_27%2C_2013.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "ウミトタ",
+      "catchcopy": "皆川明ディレクションの一棟貸し、棚田と瀬戸内海を結ぶ豊島の暮らす宿",
+      "hasShuttle": false,
+      "accessStation": "家浦港"
     }
   },
   {
@@ -59548,6 +60207,12 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Yusuhara_town_office.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "雲の上のホテル別館 マルシェ・ユスハラ",
+      "catchcopy": "隈研吾設計、杉と茅の温もりに包まれる雲の上の町・梼原の小さなホテル",
+      "hasShuttle": false,
+      "accessStation": "JR須崎駅"
     }
   },
   {
@@ -59949,6 +60614,12 @@
       "license": "CC BY 2.0",
       "url": "https://commons.wikimedia.org/wiki/File:Shikoku_Karst_(52005828280).jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "星ふるヴィレッジTENGU",
+      "catchcopy": "標高1400mの四国カルストに立つ、プラネタリウムと星空客室の高原リゾート",
+      "hasShuttle": false,
+      "accessStation": "JR須崎駅"
     }
   },
   {
@@ -60353,6 +61024,12 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Former_Yasuda_Bank_Yamaga_Branch_ac_(2).jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "平山温泉 お宿 湯の蔵",
+      "catchcopy": "全室離れに源泉かけ流し、ミシュラン掲載の創作料理が評判の宿",
+      "hasShuttle": false,
+      "accessStation": "JR新玉名駅"
     }
   },
   {
@@ -61172,6 +61849,12 @@
       "license": "Public domain",
       "url": "https://commons.wikimedia.org/wiki/File:OjikaIslands.jpg",
       "attributionRequired": false
+    },
+    "featured_stay": {
+      "name": "五島列島おぢか島 古民家ステイ",
+      "catchcopy": "アレックス・カー監修、築100年超の古民家6棟を一棟貸しで",
+      "hasShuttle": false,
+      "accessStation": "小値賀港"
     }
   },
   {
@@ -61393,6 +62076,12 @@
       "license": "CC BY 2.0",
       "url": "https://commons.wikimedia.org/wiki/File:%E6%B8%A1%E5%8F%A3%E3%81%AE%E6%B5%9C%E3%81%AB%E3%81%A6_-_51906811470.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "イラフ SUI ラグジュアリーコレクションホテル 沖縄宮古",
+      "catchcopy": "伊良部島の高台に立つ全室スイートのスモールラグジュアリー",
+      "hasShuttle": false,
+      "accessStation": "宮古空港"
     }
   },
   {
@@ -62499,7 +63188,15 @@
       "カップル向け",
       "友達と"
     ],
-    "bestSeason": "夏"
+    "bestSeason": "夏",
+    "featured_stay": {
+      "name": "リードパークリゾート八丈島",
+      "catchcopy": "太平洋を見下ろす高台に建ち、八丈富士と星空を望む島随一のリゾートホテル",
+      "hasShuttle": true,
+      "accessStation": "八丈島空港から車約8分",
+      "jalanUrl": "https://www.jalan.net/yad342149/",
+      "shuttleInfo": "八丈島空港・港から送迎あり（前日までに要予約）"
+    }
   },
   {
     "id": "niijima",
@@ -63503,6 +64200,12 @@
       "license": "CC BY-SA 3.0",
       "url": "https://commons.wikimedia.org/wiki/File:%E8%8D%89%E5%80%89%E6%B2%A2%E3%81%8B%E3%82%89%E9%83%A1%E5%B1%B1%E5%B8%82%E8%A1%97_-_panoramio.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "磐梯熱海温泉 四季彩一力",
+      "catchcopy": "磐梯熱海温泉で百余年、約八千坪の日本庭園を誇る老舗の名園旅館",
+      "hasShuttle": false,
+      "accessStation": "JR磐梯熱海駅"
     }
   },
   {
@@ -66700,7 +67403,14 @@
       "ひとり旅向け",
       "カップル向け"
     ],
-    "bestSeason": "通年"
+    "bestSeason": "通年",
+    "featured_stay": {
+      "name": "宿坊 極意",
+      "catchcopy": "戸隠神社中社の隣、茅葺屋根の文化財宿坊。名物手打ちそばと朝のお勤め体験",
+      "hasShuttle": false,
+      "accessStation": "JR長野駅（バスで戸隠中社下車）",
+      "jalanUrl": "https://www.jalan.net/yad312570/"
+    }
   },
   {
     "id": "omihachiman",
@@ -66891,6 +67601,14 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Hachiman-bori_Canal_ac_(5).jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "休暇村近江八幡",
+      "catchcopy": "琵琶湖国定公園の湖畔に立つリゾート。近江牛と湖の幸、湖水浴も楽しめる立地",
+      "hasShuttle": true,
+      "accessStation": "JR近江八幡駅",
+      "jalanUrl": "https://www.jalan.net/yad346560/",
+      "shuttleInfo": "JR近江八幡駅から送迎バス1日3便（前日までに要予約）"
     }
   },
   {
@@ -67447,7 +68165,13 @@
       "カップル向け",
       "友達と"
     ],
-    "bestSeason": "通年"
+    "bestSeason": "通年",
+    "featured_stay": {
+      "name": "アオアヲ ナルト リゾート",
+      "catchcopy": "鳴門海峡を望む白砂のビーチに立つ、渦潮観光の拠点となる海辺の大型リゾート",
+      "hasShuttle": false,
+      "accessStation": "JR鳴門駅"
+    }
   },
   {
     "id": "innoshima",
@@ -68210,6 +68934,13 @@
       "license": "Public domain",
       "url": "https://commons.wikimedia.org/wiki/File%3A%E4%BD%90%E8%B3%80%E7%9C%8C%E5%94%90%E6%B4%A5%E5%B8%82_%E4%B8%96%E7%95%8C%E9%A4%A8.jpg",
       "attributionRequired": false
+    },
+    "featured_stay": {
+      "name": "洋々閣",
+      "catchcopy": "明治創業、唐津焼ギャラリーを備えた木造二階建ての名旅館",
+      "hasShuttle": false,
+      "accessStation": "JR唐津駅",
+      "jalanUrl": "https://www.jalan.net/yad323537/"
     }
   },
   {
@@ -68403,6 +69134,13 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:View_of_Dazaifu_City_near_Kamado_Shrine.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "HOTEL CULTIA 太宰府",
+      "catchcopy": "天満宮門前町の歴史的邸宅を改修した分散型スモールラグジュアリー",
+      "hasShuttle": false,
+      "accessStation": "西鉄太宰府駅",
+      "jalanUrl": "https://www.jalan.net/yad332596/"
     }
   },
   {
@@ -69940,7 +70678,14 @@
       "カップル向け",
       "友達と"
     ],
-    "bestSeason": "通年"
+    "bestSeason": "通年",
+    "featured_stay": {
+      "name": "鎌先温泉 時音の宿 湯主一條",
+      "catchcopy": "創業六百年、木造本館は登録有形文化財。個室料亭で味わう会席が評判の名宿",
+      "hasShuttle": true,
+      "accessStation": "JR白石蔵王駅",
+      "shuttleInfo": "白石蔵王駅・白石駅から無料送迎あり（3日前までに要予約）"
+    }
   },
   {
     "id": "tendou",
@@ -70131,6 +70876,12 @@
       "license": "CC0",
       "url": "https://commons.wikimedia.org/wiki/File:Tendo_park.jpg",
       "attributionRequired": false
+    },
+    "featured_stay": {
+      "name": "天童温泉 ほほえみの宿 滝の湯",
+      "catchcopy": "将棋駒の里・天童温泉を代表する宿。山形の旬を映す出羽会席と庭園露天",
+      "hasShuttle": false,
+      "accessStation": "JR天童駅"
     }
   },
   {
@@ -70315,7 +71066,15 @@
       "カップル向け",
       "友達と"
     ],
-    "bestSeason": "春"
+    "bestSeason": "春",
+    "featured_stay": {
+      "name": "湯田川温泉 九兵衛旅館",
+      "catchcopy": "開湯千三百年の湯田川温泉で源泉かけ流しと手づくり料理を味わう人気湯宿",
+      "hasShuttle": true,
+      "accessStation": "JR鶴岡駅",
+      "jalanUrl": "https://www.jalan.net/yad338460/",
+      "shuttleInfo": "鶴岡駅から無料送迎あり（要予約）"
+    }
   },
   {
     "id": "rikuzentakata",
@@ -70704,6 +71463,13 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:%E6%B5%84%E5%9C%9F%E3%83%B6%E6%B5%9C02.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "浄土ヶ浜パークホテル",
+      "catchcopy": "浄土ヶ浜を見下ろす高台に建ち、宮古湾の朝日と三陸の海の幸を堪能する宿",
+      "hasShuttle": true,
+      "accessStation": "JR宮古駅",
+      "shuttleInfo": "宮古駅から無料送迎バスあり（要事前連絡）"
     }
   },
   {
@@ -71280,6 +72046,12 @@
       "license": "CC BY-SA 3.0",
       "url": "https://commons.wikimedia.org/wiki/File:Paddy_fields_in_Semboku,_Akita.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "角館山荘 侘桜",
+      "catchcopy": "武家屋敷の里・角館の山あいに建つ茅葺の隠れ宿。全室源泉かけ流し露天付き",
+      "hasShuttle": false,
+      "accessStation": "JR角館駅から車約15分"
     }
   },
   {
@@ -74245,6 +75017,12 @@
       "license": "CC BY 2.0",
       "url": "https://commons.wikimedia.org/wiki/File:%E6%9C%9D%E5%80%89%E5%B8%82_2017-08_(36163497220).jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "原鶴温泉 泰泉閣",
+      "catchcopy": "筑後川畔の湯の里、名物ジャングル風呂で知られる老舗旅館",
+      "hasShuttle": false,
+      "accessStation": "JR筑後吉井駅"
     }
   },
   {
@@ -74621,6 +75399,12 @@
       "license": "CC0",
       "url": "https://commons.wikimedia.org/wiki/File:Hitoyoshi_City_viewed_from_Hitoyoshi_Castle.jpg",
       "attributionRequired": false
+    },
+    "featured_stay": {
+      "name": "清流山水花 あゆの里",
+      "catchcopy": "球磨川を望む露天と人吉の食を味わう城下町の和風旅館",
+      "hasShuttle": false,
+      "accessStation": "人吉駅"
     }
   },
   {
@@ -76997,6 +77781,13 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Tree_of_Hakodate_Christmas_Fantasy_in_daytime.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "望楼NOGUCHI函館",
+      "catchcopy": "湯の川温泉の最高所から函館の夜景と海を望む、大人のための和風スイート宿。",
+      "hasShuttle": true,
+      "accessStation": "市電 湯の川温泉停留場（徒歩約3分）",
+      "shuttleInfo": "JR札幌駅より予約制送迎バスあり（有料・週3便運行）"
     }
   },
   {
@@ -77207,6 +77998,13 @@
       "license": "CC BY 2.5",
       "url": "https://commons.wikimedia.org/wiki/File%3A140724_Asahikawa_Airport_Hokkaido_Japan02s3.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "OMO7旭川 by 星野リゾート",
+      "catchcopy": "旭山動物園への拠点に便利な、街ナカ観光を楽しみ尽くす星野リゾートの都市型ホテル。",
+      "hasShuttle": false,
+      "accessStation": "JR旭川駅（徒歩約13分）",
+      "jalanUrl": "https://www.jalan.net/yad370482/"
     }
   },
   {
@@ -77415,6 +78213,13 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Tancho%26kushiro_airports.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "天然温泉 幣舞の湯 ドーミーインPREMIUM釧路",
+      "catchcopy": "最上階の天然温泉大浴場から太平洋を一望、海鮮朝食が名物の高評価ホテル。",
+      "hasShuttle": false,
+      "accessStation": "JR釧路駅（徒歩約9分）",
+      "jalanUrl": "https://www.jalan.net/yad363688/"
     }
   },
   {
@@ -79540,6 +80345,12 @@
       "license": "CC BY-SA 3.0",
       "url": "https://commons.wikimedia.org/wiki/File:%E6%B0%B4%E9%83%B7%E4%BD%90%E5%8E%9F_-_panoramio.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "佐原商家町ホテル NIPPONIA",
+      "catchcopy": "水郷佐原の歴史的商家を再生した分散型ホテル、町に溶け込むように泊まる",
+      "hasShuttle": false,
+      "accessStation": "JR佐原駅から徒歩約10分"
     }
   },
   {
@@ -80662,7 +81473,13 @@
       "カップル向け",
       "友達と"
     ],
-    "bestSeason": "通年"
+    "bestSeason": "通年",
+    "featured_stay": {
+      "name": "山水館欣龍",
+      "catchcopy": "舘山寺温泉最古の歴史を誇る湖畔の宿。全室から浜名湖を一望する寛ぎの眺め",
+      "hasShuttle": false,
+      "accessStation": "JR浜松駅から遠鉄バス「舘山寺温泉」下車"
+    }
   },
   {
     "id": "gamagori",
@@ -80849,7 +81666,13 @@
       "友達と",
       "海を眺める"
     ],
-    "bestSeason": "冬"
+    "bestSeason": "冬",
+    "featured_stay": {
+      "name": "蒲郡クラシックホテル",
+      "catchcopy": "昭和9年創業、三河湾を望む高台の名建築。日本を代表するクラシックホテル",
+      "hasShuttle": false,
+      "accessStation": "JR蒲郡駅"
+    }
   },
   {
     "id": "toyota-city",
@@ -81220,6 +82043,14 @@
       "license": "CC BY 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Denkoin_(Otsu)_hdsr_Temple_S5_03.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "おごと温泉 湯元舘",
+      "catchcopy": "開湯千二百年のおごと温泉を代表する老舗。琵琶湖を望む多彩な湯めぐりが自慢",
+      "hasShuttle": true,
+      "accessStation": "JR湖西線 おごと温泉駅",
+      "jalanUrl": "https://www.jalan.net/yad342458/",
+      "shuttleInfo": "JRおごと温泉駅から送迎バスで約5分（要連絡）"
     }
   },
   {
@@ -81779,6 +82610,14 @@
       "license": "CC0",
       "url": "https://commons.wikimedia.org/wiki/File:%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E4%B8%B9%E5%BE%8C%E5%B8%82%E4%B9%85%E7%BE%8E%E6%B5%9C%E7%94%BA%E8%92%B2%E4%BA%95%EF%BC%88%E9%9B%86%E8%90%BD%E5%8D%97%E5%81%B4%EF%BC%89%E3%81%AE%E5%9C%B0%E8%94%B5.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "間人温泉 炭平",
+      "catchcopy": "明治元年創業、幻の間人ガニを堪能する全室オーシャンビューの丹後の名宿",
+      "hasShuttle": true,
+      "accessStation": "京都丹後鉄道 網野駅",
+      "jalanUrl": "https://www.jalan.net/yad367146/",
+      "shuttleInfo": "京都丹後鉄道網野駅から無料送迎約20分（要予約）"
     }
   },
   {
@@ -82923,7 +83762,15 @@
       "カップル向け",
       "友達と"
     ],
-    "bestSeason": "冬"
+    "bestSeason": "冬",
+    "featured_stay": {
+      "name": "大谷山荘",
+      "catchcopy": "音信川のせせらぎに寄り添う創業140年の名旅館、長門湯本温泉を代表する宿",
+      "hasShuttle": true,
+      "accessStation": "JR長門湯本駅",
+      "jalanUrl": "https://www.jalan.net/yad324375/",
+      "shuttleInfo": "JR長門湯本駅から無料送迎あり（要事前連絡）"
+    }
   },
   {
     "id": "mine-yamaguchi",
@@ -84241,6 +85088,12 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%E5%87%BA%E6%B0%B4%E5%B8%82%E3%81%AE%E6%9C%A8%E7%89%9F%E7%A4%BC%E5%9F%8E%E5%9D%80.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "RITA 出水麓",
+      "catchcopy": "薩摩最大の武家屋敷群・重伝建地区に泊まる分散型古民家ホテル",
+      "hasShuttle": false,
+      "accessStation": "九州新幹線 出水駅"
     }
   },
   {
@@ -84804,7 +85657,14 @@
       "カップル向け",
       "友達と"
     ],
-    "bestSeason": "夏"
+    "bestSeason": "夏",
+    "featured_stay": {
+      "name": "百名伽藍",
+      "catchcopy": "神の島・久高島を望む海辺に立つ琉球様式の隠れ家リゾート",
+      "hasShuttle": false,
+      "accessStation": "那覇空港（車で約35分）",
+      "jalanUrl": "https://www.jalan.net/yad385690/"
+    }
   },
   {
     "id": "aogashima",
@@ -85352,6 +86212,12 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Zeyopia_ac_(1).jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "鰹乃國の湯宿 黒潮本陣",
+      "catchcopy": "カツオの町・久礼の高台で太平洋を一望、藁焼きタタキと汐湯の料理宿",
+      "hasShuttle": false,
+      "accessStation": "JR土佐久礼駅"
     }
   },
   {
@@ -86680,6 +87546,12 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Yonago_ekimae_square_20170127.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "皆生温泉 東光園",
+      "catchcopy": "菊竹清訓のメタボリズム建築が国登録有形文化財、皆生温泉の名物宿",
+      "hasShuttle": false,
+      "accessStation": "JR米子駅"
     }
   },
   {
@@ -87253,6 +88125,12 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Miyanoshita_station_platform_04.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "富士屋ホテル",
+      "catchcopy": "明治11年創業、国内外の賓客を迎えてきた登録有形文化財のクラシックホテル",
+      "hasShuttle": false,
+      "accessStation": "箱根登山鉄道 宮ノ下駅から徒歩約7分"
     }
   },
   {
@@ -87439,16 +88317,9 @@
     "featured_stay": {
       "name": "歴史の宿 金具屋",
       "catchcopy": "昭和11年築の木造四階「斉月楼」は国登録有形文化財",
-      "image": "/images/stays/shibu-onsen.jpg",
       "hasShuttle": true,
       "shuttleInfo": "湯田中駅から送迎あり（15時以降・要予約）",
-      "accessStation": "湯田中駅",
-      "imageCredit": {
-        "author": "ほっきー",
-        "license": "CC BY-SA 4.0",
-        "url": "https://commons.wikimedia.org/wiki/File:%E6%B8%8B%E6%B8%A9%E6%B3%89%20%E9%87%91%E5%85%B7%E5%B1%8B%E3%83%BB%E5%A4%9C%E6%99%AF.jpg",
-        "attributionRequired": true
-      }
+      "accessStation": "湯田中駅"
     }
   },
   {
@@ -88439,6 +89310,12 @@
       "license": "CC BY 4.0",
       "url": "https://commons.wikimedia.org/wiki/File%3AAirPhoto_Hioki%2C_Hioki%2C_Kagoshima_2013.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "吹上温泉 湖畔の宿 みどり荘",
+      "catchcopy": "木立の池を囲む露天が名物、湯治の歴史を継ぐ吹上の湯宿",
+      "hasShuttle": false,
+      "accessStation": "JR伊集院駅"
     }
   },
   {
@@ -88826,6 +89703,12 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File%3AHira_River_in_Owani_Town.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "南田温泉 ホテルアップルランド",
+      "catchcopy": "名物りんご風呂で知られる津軽の温泉ホテル。津軽富士・岩木山を望む湯処",
+      "hasShuttle": false,
+      "accessStation": "弘南鉄道平賀駅"
     }
   },
   {
@@ -89213,6 +90096,12 @@
       "license": "CC BY-SA 2.0",
       "url": "https://commons.wikimedia.org/wiki/File%3AShimokita_pen._%E4%B8%8B%E5%8C%97%E5%8D%8A%E5%B3%B6_(3537756279).jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "下風呂温泉 まるほん旅館",
+      "catchcopy": "本州最北の温泉郷・下風呂で百三十余年。イカ料理と硫黄泉が自慢の湯宿",
+      "hasShuttle": false,
+      "accessStation": "JR下北駅"
     }
   },
   {
@@ -89406,6 +90295,14 @@
       "license": "CC BY 2.0",
       "url": "https://commons.wikimedia.org/wiki/File:Towada_lake_in_Winter_(51901382099).jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "十和田ホテル",
+      "catchcopy": "昭和14年築の秋田杉の本館は国登録有形文化財。十和田湖畔の名門クラシックホテル",
+      "hasShuttle": true,
+      "accessStation": "JRバス十和田湖バス停",
+      "jalanUrl": "https://www.jalan.net/yad313740/",
+      "shuttleInfo": "十和田湖（休屋）バス停から送迎あり"
     }
   },
   {
@@ -90914,6 +91811,14 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Toriisaki_Lighthouse,_Fukaura,_Aomori,_April_2023_02.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "黄金崎不老ふ死温泉",
+      "catchcopy": "日本海の波打ち際に湧く黄金色の露天風呂。夕陽の絶景で名高い深浦の一軒宿",
+      "hasShuttle": true,
+      "accessStation": "JRウェスパ椿山駅",
+      "jalanUrl": "https://www.jalan.net/yad323694/",
+      "shuttleInfo": "ウェスパ椿山駅から送迎バスあり（要予約）"
     }
   },
   {
@@ -91669,6 +92574,13 @@
       "license": "CC BY 4.0",
       "url": "https://commons.wikimedia.org/wiki/File%3AMount_Sanbe_2023_Jan_03_02-28PM.jpeg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "三瓶温泉 国民宿舎さんべ荘",
+      "catchcopy": "酒樽や鉄釜など16種の露天で含鉄泉を湯めぐり、三瓶山麓の源泉かけ流しの宿",
+      "hasShuttle": false,
+      "accessStation": "JR大田市駅",
+      "jalanUrl": "https://www.jalan.net/yad302744/"
     }
   },
   {
@@ -91863,6 +92775,13 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Tsurutomi_House_at_Shiiba01.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "旅館 鶴富屋敷",
+      "catchcopy": "平家伝説の国指定重要文化財屋敷に隣接する秘境椎葉の郷土宿",
+      "hasShuttle": false,
+      "accessStation": "JR日向市駅（車で約2時間）",
+      "jalanUrl": "https://www.jalan.net/yad314975/"
     }
   },
   {
@@ -92816,16 +93735,9 @@
     "featured_stay": {
       "name": "雲仙観光ホテル",
       "catchcopy": "昭和10年築・国登録有形文化財のクラシックホテル",
-      "image": "/images/stays/unzen2.jpg",
       "hasShuttle": true,
       "shuttleInfo": "諫早駅・長崎空港から無料シャトルあり（約1時間）",
-      "accessStation": "諫早駅",
-      "imageCredit": {
-        "author": "663highland",
-        "license": "CC BY 2.5",
-        "url": "https://commons.wikimedia.org/wiki/File:140322%20Unzen%20Kanko%20Hotel%20Unzen%20Nagasaki%20pref%20Japan04s3.jpg",
-        "attributionRequired": true
-      }
+      "accessStation": "諫早駅"
     }
   },
   {
@@ -93560,6 +94472,13 @@
       "license": "CC BY 3.0",
       "url": "https://commons.wikimedia.org/wiki/File:%E9%BB%92%E9%83%A8%E5%B9%B3%E9%A7%85%E3%81%8B%E3%82%89%E3%81%AE%E9%A2%A8%E6%99%AF_-_panoramio.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "黒部峡谷 宇奈月温泉 延楽",
+      "catchcopy": "黒部峡谷を望む数寄屋造りの老舗旅館。湯船から眺めるトロッコ電車と峡谷美",
+      "hasShuttle": true,
+      "accessStation": "富山地方鉄道宇奈月温泉駅",
+      "shuttleInfo": "宇奈月温泉駅から送迎あり（当日連絡可）。JR黒部宇奈月温泉駅は要予約"
     }
   },
   {
@@ -94281,16 +95200,9 @@
     "featured_stay": {
       "name": "湯元 湧駒荘",
       "catchcopy": "大雪山の麓、5つの自家源泉をかけ流す秘湯の宿",
-      "image": "/images/stays/gen_北海_旭岳温泉.jpg",
       "jalanUrl": "https://www.jalan.net/yad341740/",
       "hasShuttle": false,
-      "accessStation": "旭川駅からバス約90分",
-      "imageCredit": {
-        "author": "Soica2001 (talk)",
-        "license": "Public domain",
-        "url": "https://commons.wikimedia.org/wiki/File:Asahidake%20spa%20Yukomaso.JPG",
-        "attributionRequired": false
-      }
+      "accessStation": "旭川駅からバス約90分"
     }
   },
   {
@@ -97345,16 +98257,9 @@
     "featured_stay": {
       "name": "第一滝本館",
       "catchcopy": "登別最古の老舗。1500坪・35槽の大浴場に5つの泉質が揃う",
-      "image": "/images/stays/gen_北海_登別温泉.jpg",
       "jalanUrl": "https://www.jalan.net/yad364904/",
       "hasShuttle": false,
-      "accessStation": "登別駅からバス・タクシー約15分",
-      "imageCredit": {
-        "author": "T DMY",
-        "license": "CC BY 3.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Spa%20Noboribetu%EF%BC%8F%E7%99%BB%E5%88%A5%E7%AC%AC%E4%B8%80%E6%BB%9D%E6%9C%AC%E9%A4%A8%20-%20panoramio.jpg",
-        "attributionRequired": true
-      }
+      "accessStation": "登別駅からバス・タクシー約15分"
     }
   },
   {
@@ -109422,17 +110327,10 @@
     "featured_stay": {
       "name": "東大雪荘",
       "catchcopy": "大雪山最深部・トムラウシの一軒宿。登山基地としても名高い",
-      "image": "/images/stays/gen_北海_トムラウシ温泉.jpg",
       "jalanUrl": "https://www.jalan.net/yad307810/",
       "hasShuttle": true,
       "shuttleInfo": "新得駅から無料送迎あり（要予約・前日当日不可）",
-      "accessStation": "新得駅から車約60分",
-      "imageCredit": {
-        "author": "Soica2001 (talk)",
-        "license": "Public domain",
-        "url": "https://commons.wikimedia.org/wiki/File:Higashi-Taisetsu%20so.JPG",
-        "attributionRequired": false
-      }
+      "accessStation": "新得駅から車約60分"
     }
   },
   {
@@ -124082,6 +124980,14 @@
       "license": "CC BY-SA 3.0",
       "url": "https://commons.wikimedia.org/wiki/File%3A(%E9%95%B7%E9%87%8E%E7%9C%8C)_%E9%9C%A7%E3%82%B1%E5%B3%B0%E8%8D%89%E5%8E%9F%E3%80%82%E8%AB%8F%E8%A8%AA%E6%B9%96%E3%81%8B%E3%82%89%E3%81%99%E3%81%90%E3%81%9D%E3%81%B0%E3%80%82%E5%B0%91%E3%81%97%E8%A1%8C%E3%81%8F%E3%81%A8%E7%BE%8E%E3%83%B6%E5%8E%9F%E3%81%8C%E3%81%82%E3%82%8B%E3%80%82_-_panoramio.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "王ヶ頭ホテル",
+      "catchcopy": "標高2034m、美ヶ原山頂の一軒宿。雲海と360度の大パノラマに泊まる",
+      "hasShuttle": true,
+      "accessStation": "JR松本駅（タクシー・送迎バス乗継）",
+      "jalanUrl": "https://www.jalan.net/yad362685/",
+      "shuttleInfo": "山本小屋など指定駐車場から送迎バスあり（冬期は山辺ワイナリー発着）"
     }
   },
   {
@@ -124290,6 +125196,13 @@
       "license": "CC BY 2.5",
       "url": "https://commons.wikimedia.org/wiki/File%3AByodoin_Phoenix_Hall_Uji_2009.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "花やしき浮舟園",
+      "catchcopy": "平等院まで徒歩5分、全室から宇治川を望む老舗。旬の京料理と川霧の朝",
+      "hasShuttle": false,
+      "accessStation": "JR奈良線 宇治駅からタクシー約5分",
+      "jalanUrl": "https://www.jalan.net/yad304889/"
     }
   },
   {
@@ -125171,16 +126084,9 @@
     "featured_stay": {
       "name": "旅館玉子湯",
       "catchcopy": "明治元年創業。茅葺の湯小屋に乳白色の硫黄泉が満ちる",
-      "image": "/images/stays/takayu-onsen.jpg",
       "hasShuttle": true,
       "shuttleInfo": "福島駅西口から送迎あり（2日前までに要予約）",
-      "accessStation": "福島駅",
-      "imageCredit": {
-        "author": "雄犬",
-        "license": "CC BY-SA 2.1 jp",
-        "url": "https://commons.wikimedia.org/wiki/File:Tamago-yu%2C%20Takayu%20Onsen%2001.jpg",
-        "attributionRequired": true
-      }
+      "accessStation": "福島駅"
     }
   },
   {
@@ -125638,17 +126544,10 @@
     "featured_stay": {
       "name": "宝川温泉 汪泉閣",
       "catchcopy": "延べ470畳の大露天風呂。渓流沿いの秘湯一軒宿",
-      "image": "/images/stays/takarakawa-onsen.jpg",
       "jalanUrl": "https://www.jalan.net/yad312746/",
       "hasShuttle": true,
       "shuttleInfo": "水上駅から送迎バスあり（約35分）",
-      "accessStation": "水上駅",
-      "imageCredit": {
-        "author": "nobiinue",
-        "license": "CC BY-SA 2.1 jp",
-        "url": "https://commons.wikimedia.org/wiki/File:Takaragawa%20Onsen%2001.jpg",
-        "attributionRequired": true
-      }
+      "accessStation": "水上駅"
     }
   },
   {
@@ -126057,6 +126956,14 @@
       "license": "CC BY 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:%E4%B8%8E%E8%AB%96%E5%B3%B6%E3%81%AE%E3%83%93%E3%83%BC%E3%83%81.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "プリシアリゾートヨロン",
+      "catchcopy": "与論島随一のリゾート。白い砂浜と海を望む客室で離島時間を満喫",
+      "hasShuttle": true,
+      "accessStation": "与論空港（車3分）",
+      "jalanUrl": "https://www.jalan.net/yad355880/",
+      "shuttleInfo": "与論空港・港から無料送迎あり（要事前予約）"
     }
   },
   {
@@ -127524,6 +128431,13 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:%C5%8Cmishima_12.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "WAKKA",
+      "catchcopy": "しまなみ海道の真ん中・大三島、サイクリストを支える海辺のツーリズム拠点",
+      "hasShuttle": false,
+      "accessStation": "JR今治駅",
+      "jalanUrl": "https://www.jalan.net/yad372988/"
     }
   },
   {
@@ -129792,6 +130706,12 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Mt_minobu_ropeway.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "行学院 覚林坊",
+      "catchcopy": "身延山で550年の歴史を刻む宿坊。名庭を眺めて名物ゆば精進料理を味わう",
+      "hasShuttle": false,
+      "accessStation": "JR身延駅（バスで身延山下車）"
     }
   },
   {
@@ -129990,6 +130910,13 @@
       "license": "Public domain",
       "url": "https://commons.wikimedia.org/wiki/File%3ANagatoro_Town_Office.JPG",
       "attributionRequired": false
+    },
+    "featured_stay": {
+      "name": "長瀞温泉 花のおもてなし 長生館",
+      "catchcopy": "大正元年創業、名勝・長瀞岩畳を望む庭園と荒川の眺望が自慢の老舗旅館",
+      "hasShuttle": false,
+      "accessStation": "秩父鉄道 長瀞駅から徒歩約3分",
+      "jalanUrl": "https://www.jalan.net/yad329295/"
     }
   },
   {
@@ -130183,6 +131110,14 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Hanno_City_Library_exterior_ac_(1).jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "名栗温泉 大松閣",
+      "catchcopy": "名栗渓谷の山あいに建つ一軒宿、木の香の展望風呂と里山の恵みで寛ぐ",
+      "hasShuttle": true,
+      "accessStation": "西武池袋線 飯能駅",
+      "jalanUrl": "https://www.jalan.net/yad391254/",
+      "shuttleInfo": "飯能駅南口から無料送迎バス約30分（1日4便・要予約）"
     }
   },
   {
@@ -130568,6 +131503,13 @@
       "license": "CC BY-SA 3.0",
       "url": "https://commons.wikimedia.org/wiki/File:%E6%9C%89%E7%94%B0%E9%99%B6%E5%99%A8%E5%B8%82%E3%80%8C%E9%99%B6%E7%A3%81%E5%99%A8%E3%81%AE%E9%87%8C%E3%80%8D_-_panoramio_(1).jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "arita huis（アリタハウス）",
+      "catchcopy": "有田焼の里に佇む全10室のデザインオーベルジュ。器と美食の宿",
+      "hasShuttle": false,
+      "accessStation": "JR有田駅",
+      "jalanUrl": "https://www.jalan.net/yad397169/"
     }
   },
   {
@@ -130757,7 +131699,15 @@
       "絶景スポット",
       "ゆっくり滞在"
     ],
-    "bestSeason": "夏・冬"
+    "bestSeason": "夏・冬",
+    "featured_stay": {
+      "name": "函館大沼プリンスホテル",
+      "catchcopy": "駒ヶ岳を望む大沼国定公園の森に囲まれた、温泉とゴルフを備えたリゾートホテル。",
+      "hasShuttle": true,
+      "accessStation": "JR大沼公園駅（送迎バス約10分）",
+      "jalanUrl": "https://www.jalan.net/yad309788/",
+      "shuttleInfo": "JR大沼公園駅・JR函館駅・函館空港より無料シャトルバスあり（事前予約制）"
+    }
   },
   {
     "id": "uradome",
@@ -130934,7 +131884,14 @@
       "海を眺める",
       "絶景スポット"
     ],
-    "bestSeason": "通年"
+    "bestSeason": "通年",
+    "featured_stay": {
+      "name": "岩井温泉 岩井屋",
+      "catchcopy": "山陰最古の湯を守る木造三階の湯宿、胸まで浸かる自噴の長寿の湯が名物",
+      "hasShuttle": false,
+      "accessStation": "JR岩美駅",
+      "jalanUrl": "https://www.jalan.net/yad314800/"
+    }
   },
   {
     "id": "chizu",
@@ -133599,7 +134556,14 @@
       "カップル向け"
     ],
     "staySearchUrl": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%25E5%25A4%25A7%25E4%25B9%2585%25E9%2587%258E%25E5%25B3%25B6",
-    "bestSeason": "通年"
+    "bestSeason": "通年",
+    "featured_stay": {
+      "name": "休暇村大久野島",
+      "catchcopy": "うさぎの島にただ一軒、瀬戸内の海と温泉に癒される宿",
+      "hasShuttle": true,
+      "accessStation": "忠海港からフェリー15分・大久野島桟橋",
+      "shuttleInfo": "大久野島桟橋から本館まで無料送迎バスあり（予約不要）"
+    }
   },
   {
     "id": "ikuchijima",
@@ -133827,6 +134791,12 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Ikuchijima_94.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "Azumi Setoda",
+      "catchcopy": "明治9年築の豪商邸を再生、アマン創業者が手掛ける瀬戸田の名旅館",
+      "hasShuttle": false,
+      "accessStation": "瀬戸田港から徒歩2分"
     }
   },
   {
@@ -134496,6 +135466,12 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Manabeshima_Enpukuji_temple_approach.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "島宿 三虎",
+      "catchcopy": "目の前がプライベートビーチ、瀬戸内の魚介尽くしの島宿",
+      "hasShuttle": false,
+      "accessStation": "真鍋島本浦港から徒歩約10分"
     }
   },
   {
@@ -134892,6 +135868,12 @@
       "license": "CC BY 3.0",
       "url": "https://commons.wikimedia.org/wiki/File%3AMitsumine_Shrine_-_%E4%B8%89%E5%B3%AF%E7%A5%9E%E7%A4%BE_-_panoramio_(3).jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "三峯神社 興雲閣",
+      "catchcopy": "標高1100mの三峯神社境内に泊まる宿坊、朝のご祈祷と雲海の絶景が待つ",
+      "hasShuttle": false,
+      "accessStation": "西武秩父駅からバス約75分「三峯神社」下車"
     }
   },
   {
@@ -135295,6 +136277,13 @@
       "license": "CC BY 3.0",
       "url": "https://commons.wikimedia.org/wiki/File:Ikeda-city_hall,_Osaka01.JPG",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "伏尾温泉 不死王閣",
+      "catchcopy": "大阪梅田から約30分の温泉郷・伏尾温泉。緑に囲まれた露天風呂の一軒宿",
+      "hasShuttle": true,
+      "accessStation": "阪急宝塚線 池田駅",
+      "shuttleInfo": "阪急池田駅から無料送迎バスあり（要予約）"
     }
   },
   {
@@ -137097,6 +138086,13 @@
       "license": "CC BY-SA 3.0",
       "url": "https://commons.wikimedia.org/wiki/File%3AYugawara_view_of_downtown.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "湯河原温泉 源泉 上野屋",
+      "catchcopy": "創業三百余年、国登録有形文化財の木造建築で自家源泉「傷の湯」に浸かる",
+      "hasShuttle": false,
+      "accessStation": "JR湯河原駅からバスで温泉街へ",
+      "jalanUrl": "https://www.jalan.net/yad345539/"
     }
   },
   {
@@ -137702,6 +138698,13 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:2025-09-08_Sakurajima_Sunrise.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "桜島マグマ温泉 国民宿舎 レインボー桜島",
+      "catchcopy": "地下1000mから湧く茶褐色のマグマ温泉と錦江湾の眺めが自慢",
+      "hasShuttle": false,
+      "accessStation": "桜島港（徒歩8分）",
+      "jalanUrl": "https://www.jalan.net/yad304437/"
     }
   },
   {
@@ -138100,7 +139103,13 @@
       "ひとり旅向け",
       "カップル向け"
     ],
-    "bestSeason": "通年"
+    "bestSeason": "通年",
+    "featured_stay": {
+      "name": "大屋旅館",
+      "catchcopy": "江戸期創業・国登録有形文化財、つげ義春が愛した城下町大多喜の商人宿",
+      "hasShuttle": false,
+      "accessStation": "いすみ鉄道 大多喜駅"
+    }
   },
   {
     "id": "kamogawa",
@@ -138299,6 +139308,14 @@
       "license": "CC BY 3.0",
       "url": "https://commons.wikimedia.org/wiki/File:%E9%B4%A8%E5%B7%9D%E9%9D%92%E5%B9%B4%E3%81%AE%E5%AE%B6%E5%89%8D%E3%81%8B%E3%82%89%E3%81%AE%E9%A2%A8%E6%99%AF_-_panoramio.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "鴨川館",
+      "catchcopy": "松林に囲まれた数寄屋造りの宿で、南房総の海の幸と潮騒の湯を堪能する",
+      "hasShuttle": true,
+      "accessStation": "JR安房鴨川駅",
+      "jalanUrl": "https://www.jalan.net/yad313560/",
+      "shuttleInfo": "JR安房鴨川駅から送迎バス約7分（要予約）"
     }
   },
   {
@@ -139318,6 +140335,13 @@
       "license": "CC BY-SA 2.0",
       "url": "https://commons.wikimedia.org/wiki/File:%E8%B2%A1%E7%94%B0%E5%B7%9D_%E4%B8%89%E8%B1%8A%E5%B8%82_(13975238981).jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "URASHIMA VILLAGE",
+      "catchcopy": "父母ヶ浜近く、浦島伝説の半島に建つ絶景一棟貸しヴィラ",
+      "hasShuttle": false,
+      "accessStation": "JR詫間駅",
+      "jalanUrl": "https://www.jalan.net/yad372643/"
     }
   },
   {
@@ -140798,6 +141822,12 @@
       "license": "Public domain",
       "url": "https://commons.wikimedia.org/wiki/File:Tumagoi_aisaino_oka.jpg",
       "attributionRequired": false
+    },
+    "featured_stay": {
+      "name": "万座温泉 日進舘",
+      "catchcopy": "標高1800mの万座温泉で乳白色の硫黄泉かけ流しと湯治文化を今に伝える老舗",
+      "hasShuttle": false,
+      "accessStation": "JR万座・鹿沢口駅からバス"
     }
   },
   {
@@ -141018,6 +142048,13 @@
       "license": "CC BY 3.0",
       "url": "https://commons.wikimedia.org/wiki/File:Etat_fasciste,_sarkommence_(2).JPG",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "松之山温泉 ひなの宿ちとせ",
+      "catchcopy": "日本三大薬湯・松之山温泉の宿。雪国の里山文化と地の食材の美食に癒される",
+      "hasShuttle": true,
+      "accessStation": "ほくほく線まつだい駅",
+      "shuttleInfo": "ほくほく線まつだい駅から定時送迎あり（要予約）"
     }
   },
   {
@@ -141445,7 +142482,14 @@
       "ひとり旅向け",
       "カップル向け"
     ],
-    "bestSeason": "春"
+    "bestSeason": "春",
+    "featured_stay": {
+      "name": "寛ぎの宿 輝雲荘",
+      "catchcopy": "世界遺産の温泉街・温泉津にたたずむ、露天風呂自慢の湯宿",
+      "hasShuttle": false,
+      "accessStation": "JR温泉津駅",
+      "jalanUrl": "https://www.jalan.net/yad301992/"
+    }
   },
   {
     "id": "hiraodai",
@@ -142306,6 +143350,14 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File%3ASaroma-lake_Salicornia-europaea.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "サロマ湖鶴雅リゾート",
+      "catchcopy": "日本一の夕陽と称されるサロマ湖の夕景とホタテ料理を堪能する湖畔リゾート。",
+      "hasShuttle": true,
+      "accessStation": "JR北見駅（送迎バス利用）",
+      "jalanUrl": "https://www.jalan.net/yad330181/",
+      "shuttleInfo": "北見市内・女満別空港より無料送迎バスあり（3日前までの予約制）"
     }
   },
   {
@@ -142974,7 +144026,15 @@
       "友達と",
       "温泉がおすすめ"
     ],
-    "bestSeason": "冬"
+    "bestSeason": "冬",
+    "featured_stay": {
+      "name": "屈斜路プリンスホテル",
+      "catchcopy": "屈斜路湖畔に立つ大型リゾート。湖を望む温泉と大自然の静けさが魅力。",
+      "hasShuttle": true,
+      "accessStation": "JR摩周駅（車約25分）",
+      "jalanUrl": "https://www.jalan.net/yad334293/",
+      "shuttleInfo": "JR摩周駅より無料送迎バスあり（要予約）"
+    }
   },
   {
     "id": "uryunuma",
@@ -145342,6 +146402,12 @@
       "license": "CC BY 3.0",
       "url": "https://commons.wikimedia.org/wiki/File:%E6%9D%B1%E5%B0%8B%E5%9D%8A_-_panoramio_(1).jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "三国温泉 料理旅館 望洋楼",
+      "catchcopy": "東尋坊にほど近い明治創業の料理旅館。全7室の露天風呂付客室で越前がにを味わう",
+      "hasShuttle": false,
+      "accessStation": "えちぜん鉄道・三国港駅から徒歩約13分"
     }
   },
   {
@@ -145568,6 +146634,12 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Shimanami_kaid%C5%8D_to_Tatara_Bridge.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "HOTEL CYCLE（ONOMICHI U2）",
+      "catchcopy": "海運倉庫を再生、自転車ごと泊まれるしまなみの基地ホテル",
+      "hasShuttle": false,
+      "accessStation": "JR尾道駅から徒歩5分"
     }
   },
   {
@@ -146853,6 +147925,14 @@
       "license": "CC BY-SA 3.0",
       "url": "https://commons.wikimedia.org/wiki/File:%E4%B9%85%E4%BD%8F%E9%AB%98%E5%8E%9F%E3%83%AD%E3%83%BC%E3%83%89%E3%83%91%E3%83%BC%E3%82%AF_-_panoramio.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "レゾネイトクラブくじゅう",
+      "catchcopy": "阿蘇くじゅう国立公園内の高原リゾート。満天の星と久住の絶景",
+      "hasShuttle": true,
+      "accessStation": "JR由布院駅",
+      "jalanUrl": "https://www.jalan.net/yad326634/",
+      "shuttleInfo": "JR由布院駅より無料送迎バスあり（3日前までに要予約）"
     }
   },
   {
@@ -147482,6 +148562,14 @@
       "license": "CC BY 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Okinawa_Nanjo_Cape_Chinen_view_hdsr_VLux5_03.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "百名伽藍",
+      "catchcopy": "南城の海に臨む全室オーシャンフロントの隠れ家和琉リゾート",
+      "hasShuttle": true,
+      "accessStation": "那覇空港（車約35分）",
+      "jalanUrl": "https://www.jalan.net/yad385690/",
+      "shuttleInfo": "有料送迎あり（要予約）"
     }
   },
   {
@@ -147697,6 +148785,13 @@
       "license": "CC BY 3.0",
       "url": "https://commons.wikimedia.org/wiki/File%3ABise%2C_Motobu%2C_Kunigami_District%2C_Okinawa_Prefecture_905-0207%2C_Japan_-_panoramio_(1).jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "オリオンホテル モトブ リゾート&スパ",
+      "catchcopy": "備瀬のフクギ並木徒歩圏、美ら海水族館至近の全室オーシャンフロント",
+      "hasShuttle": false,
+      "accessStation": "那覇空港（車約2時間）",
+      "jalanUrl": "https://www.jalan.net/yad307948/"
     }
   },
   {
@@ -148291,7 +149386,14 @@
       "url": "https://commons.wikimedia.org/wiki/File:Hakkoda_mountains_(50613392051).jpg",
       "attributionRequired": true
     },
-    "mainSpot": "八甲田ロープウェイ"
+    "mainSpot": "八甲田ロープウェイ",
+    "featured_stay": {
+      "name": "酸ヶ湯温泉旅館",
+      "catchcopy": "総ヒバ造り千人風呂で名高い、三百年余の歴史を刻む八甲田山中の一軒宿",
+      "hasShuttle": true,
+      "accessStation": "JR新青森駅",
+      "shuttleInfo": "新青森駅から宿泊者専用無料送迎バスあり（前日までに要予約）"
+    }
   },
   {
     "id": "sannai-maruyama",
@@ -149780,7 +150882,15 @@
       "url": "https://commons.wikimedia.org/wiki/File:Himakajima_West_Port_2019-06_ac.jpg",
       "attributionRequired": true
     },
-    "mainSpot": "日間賀島港"
+    "mainSpot": "日間賀島港",
+    "featured_stay": {
+      "name": "ホテル 日間賀荘",
+      "catchcopy": "タコとフグの島・日間賀島で新鮮魚介を堪能する海辺の宿。東港から徒歩5分",
+      "hasShuttle": true,
+      "accessStation": "師崎港から高速船で日間賀島東港",
+      "jalanUrl": "https://www.jalan.net/yad347600/",
+      "shuttleInfo": "日間賀島西港から送迎可（東港からは徒歩5分）"
+    }
   },
   {
     "id": "ukujima",
@@ -150144,7 +151254,14 @@
       "url": "https://commons.wikimedia.org/wiki/File:%E6%A4%8E%E8%91%89%E6%9D%91%E5%8D%81%E6%A0%B9%E5%B7%9D_02.jpg",
       "attributionRequired": false
     },
-    "mainSpot": "椎葉村役場"
+    "mainSpot": "椎葉村役場",
+    "featured_stay": {
+      "name": "旅館 鶴富屋敷",
+      "catchcopy": "国指定重要文化財・鶴富屋敷に隣接。秘境椎葉の山里料理を味わう宿",
+      "hasShuttle": false,
+      "accessStation": "JR日向市駅からバス・車",
+      "jalanUrl": "https://www.jalan.net/yad314975/"
+    }
   },
   {
     "id": "tateyamasaki",
@@ -150622,7 +151739,14 @@
       "url": "https://commons.wikimedia.org/wiki/File:KudamatsuKasadoBridge.jpg",
       "attributionRequired": true
     },
-    "mainSpot": "長浜海水浴場"
+    "mainSpot": "長浜海水浴場",
+    "featured_stay": {
+      "name": "国民宿舎 大城",
+      "catchcopy": "全室オーシャンビュー、笠戸湾に沈む夕日と笠戸ひらめの宿",
+      "hasShuttle": false,
+      "accessStation": "JR下松駅",
+      "jalanUrl": "https://www.jalan.net/yad368375/"
+    }
   },
   {
     "id": "noko-island",
@@ -150867,7 +151991,14 @@
       "url": "https://commons.wikimedia.org/wiki/File:%E9%B3%A5%E7%94%B2%E5%B1%B1%E7%A8%9C%E7%B7%9A%E3%81%8B%E3%82%89%E8%8B%97%E5%A0%B4%E5%B1%B1%E3%81%A8%E7%A7%8B%E5%B1%B1%E9%83%B7%E3%82%92%E6%9C%9B%E3%82%80.jpg",
       "attributionRequired": true
     },
-    "mainSpot": "秋山郷温泉"
+    "mainSpot": "秋山郷温泉",
+    "featured_stay": {
+      "name": "秋山郷結東温泉 かたくりの宿",
+      "catchcopy": "秘境秋山郷の廃校をいかした温泉宿。木の温もりと山人料理、里山の時間に浸る",
+      "hasShuttle": false,
+      "accessStation": "JR飯山線・津南駅から車",
+      "jalanUrl": "https://www.jalan.net/yad319265/"
+    }
   },
   {
     "id": "okitama",
@@ -150983,7 +152114,13 @@
       "温泉がおすすめ"
     ],
     "bestSeason": "夏・冬",
-    "mainSpot": "米沢城跡"
+    "mainSpot": "米沢城跡",
+    "featured_stay": {
+      "name": "赤湯温泉 山形座 瀧波",
+      "catchcopy": "開湯九百年の赤湯温泉。蔵座敷の意匠とカウンター割烹が光る再生の名宿",
+      "hasShuttle": false,
+      "accessStation": "JR赤湯駅"
+    }
   },
   {
     "id": "osorezan-area",
@@ -151449,7 +152586,13 @@
       "url": "https://commons.wikimedia.org/wiki/File:Japan_meteorological_agency_Chichijima_weather_observatory.jpg",
       "attributionRequired": true
     },
-    "mainSpot": "小港海岸"
+    "mainSpot": "小港海岸",
+    "featured_stay": {
+      "name": "ホテルホライズン",
+      "catchcopy": "扇浦海岸の白砂ビーチを目の前に望む、父島随一の本格リゾートホテル",
+      "hasShuttle": false,
+      "accessStation": "父島・二見港（竹芝からおがさわら丸で約24時間）"
+    }
   },
   {
     "id": "hahajima",
@@ -152574,7 +153717,13 @@
       "url": "https://commons.wikimedia.org/wiki/File:Pink_roses,_Nakanoshima_Park,_Osaka.jpg",
       "attributionRequired": true
     },
-    "mainSpot": "後鳥羽天皇御火葬塚"
+    "mainSpot": "後鳥羽天皇御火葬塚",
+    "featured_stay": {
+      "name": "Entô（エントウ）",
+      "catchcopy": "隠岐ジオパークに泊まる、全室カルデラの海を望む離島ホテル",
+      "hasShuttle": false,
+      "accessStation": "菱浦港から徒歩3分"
+    }
   },
   {
     "id": "etajima",
@@ -152707,7 +153856,15 @@
       "url": "https://commons.wikimedia.org/wiki/File:JMSDF_1st_Service_School_2013-08C.JPG",
       "attributionRequired": true
     },
-    "mainSpot": "海上自衛隊第1術科学校"
+    "mainSpot": "海上自衛隊第1術科学校",
+    "featured_stay": {
+      "name": "えたじま温泉 江田島荘",
+      "catchcopy": "源泉かけ流しの島温泉、穏やかな瀬戸内海を望む湯宿",
+      "hasShuttle": true,
+      "accessStation": "中町港",
+      "jalanUrl": "https://www.jalan.net/yad326088/",
+      "shuttleInfo": "中町港から無料送迎あり（要事前連絡）"
+    }
   },
   {
     "id": "omijima",
@@ -153205,7 +154362,14 @@
       ]
     },
     "_accessAutoFixed": "islandFix",
-    "mainSpot": "金印公園"
+    "mainSpot": "金印公園",
+    "featured_stay": {
+      "name": "休暇村志賀島",
+      "catchcopy": "玄界灘を望む展望露天「金印の湯」。源泉かけ流しの島の湯宿",
+      "hasShuttle": false,
+      "accessStation": "JR西戸崎駅からバス25分「休暇村」下車",
+      "jalanUrl": "https://www.jalan.net/yad352988/"
+    }
   },
   {
     "id": "hirado-island",
@@ -153330,7 +154494,14 @@
       ]
     },
     "_accessAutoFixed": "islandFix",
-    "mainSpot": "平戸城"
+    "mainSpot": "平戸城",
+    "featured_stay": {
+      "name": "国際観光ホテル旗松亭",
+      "catchcopy": "平戸港を見下ろす高台の宿。展望大浴場から平戸城と海を一望",
+      "hasShuttle": false,
+      "accessStation": "たびら平戸口駅からバス「平戸桟橋」徒歩5分",
+      "jalanUrl": "https://www.jalan.net/yad310447/"
+    }
   },
   {
     "id": "ikitsukijima",
@@ -153591,7 +154762,15 @@
       "url": "https://commons.wikimedia.org/wiki/File:%E9%AC%BC%E5%B2%B3%E3%82%B9%E3%82%B3%E3%83%AA%E3%82%A2%E4%B8%98%EF%BC%88%E7%A6%8F%E6%B1%9F%E5%8D%98%E6%88%90%E7%81%AB%E5%B1%B1%E7%BE%A4%E3%81%AB%E4%BD%8D%E7%BD%AE%E3%81%99%E3%82%8B%E3%80%82%E9%95%B7%E5%B4%8E%E7%9C%8C,%E7%A6%8F%E6%B1%9F%E5%B3%B6%EF%BC%89.jpg",
       "attributionRequired": true
     },
-    "mainSpot": "鬼岳"
+    "mainSpot": "鬼岳",
+    "featured_stay": {
+      "name": "五島リトリート ray by 温故知新",
+      "catchcopy": "全26室露天付きオーシャンフロント。ミシュランキーの島リトリート",
+      "hasShuttle": true,
+      "accessStation": "福江港",
+      "jalanUrl": "https://www.jalan.net/yad303895/",
+      "shuttleInfo": "五島つばき空港・福江港から無料送迎あり（要予約）"
+    }
   },
   {
     "id": "ikeshima",
@@ -154763,7 +155942,14 @@
       "url": "https://commons.wikimedia.org/wiki/File%3AKurima_aerial.jpg",
       "attributionRequired": true
     },
-    "mainSpot": "竜宮城展望台"
+    "mainSpot": "竜宮城展望台",
+    "featured_stay": {
+      "name": "宮古島来間リゾート シーウッドホテル",
+      "catchcopy": "来間島の森と海に抱かれる169邸のヴィラリゾート。星空体験も",
+      "hasShuttle": false,
+      "accessStation": "宮古空港（車約15分）",
+      "jalanUrl": "https://www.jalan.net/yad389662/"
+    }
   },
   {
     "id": "ikema-island",
@@ -155028,7 +156214,14 @@
       "url": "https://commons.wikimedia.org/wiki/File:Kouri_01.jpg",
       "attributionRequired": true
     },
-    "mainSpot": "古宇利大橋"
+    "mainSpot": "古宇利大橋",
+    "featured_stay": {
+      "name": "One Suite THE GRAND",
+      "catchcopy": "古宇利島の頂に建つ全22室の絶景スイート。インフィニティプール",
+      "hasShuttle": false,
+      "accessStation": "那覇空港（車約1時間40分）",
+      "jalanUrl": "https://www.jalan.net/yad328409/"
+    }
   },
   {
     "id": "izena-island",
@@ -155481,7 +156674,15 @@
       "リゾート気分"
     ],
     "bestSeason": "通年",
-    "mainSpot": "パノラマ台"
+    "mainSpot": "パノラマ台",
+    "featured_stay": {
+      "name": "ホテルマウント富士",
+      "catchcopy": "山中湖を見下ろす高台のリゾート。富士山を望む絶景風呂と雲上のロケーション",
+      "hasShuttle": true,
+      "accessStation": "富士急行線・富士山駅からバス",
+      "jalanUrl": "https://www.jalan.net/yad312309/",
+      "shuttleInfo": "山中湖畔「ホテルマウント富士入口」バス停から無料送迎あり"
+    }
   },
   {
     "id": "motosuko",
@@ -155704,7 +156905,15 @@
       "url": "https://commons.wikimedia.org/wiki/File%3AYatsugatake_Mountains_(53108289746).jpg",
       "attributionRequired": true
     },
-    "mainSpot": "清里高原"
+    "mainSpot": "清里高原",
+    "featured_stay": {
+      "name": "星野リゾート リゾナーレ八ヶ岳",
+      "catchcopy": "八ヶ岳山麓の滞在型リゾート。石畳の回廊街とプール、高原の休日を満喫できる",
+      "hasShuttle": true,
+      "accessStation": "JR中央本線・小淵沢駅",
+      "jalanUrl": "https://www.jalan.net/yad345950/",
+      "shuttleInfo": "JR小淵沢駅から無料シャトルバスで約5分"
+    }
   },
   {
     "id": "ohara",
@@ -155815,7 +157024,15 @@
       "url": "https://commons.wikimedia.org/wiki/File:%C5%8Chara_Station_2024.jpg",
       "attributionRequired": true
     },
-    "mainSpot": "三千院"
+    "mainSpot": "三千院",
+    "featured_stay": {
+      "name": "大原温泉湯元 お宿 芹生",
+      "catchcopy": "三千院門前に佇む湯元の宿。京野菜と山里の旬味、大原温泉に癒される里の休日",
+      "hasShuttle": true,
+      "accessStation": "京都バス「大原」バス停から徒歩約10分",
+      "jalanUrl": "https://www.jalan.net/yad304000/",
+      "shuttleInfo": "大原バスターミナルから送迎あり（要事前連絡）"
+    }
   },
   {
     "id": "kifune",
@@ -155944,7 +157161,15 @@
       "url": "https://commons.wikimedia.org/wiki/File%3AKibune_Kawadoko01s5s4272.jpg",
       "attributionRequired": true
     },
-    "mainSpot": "貴船神社"
+    "mainSpot": "貴船神社",
+    "featured_stay": {
+      "name": "京都貴船 料理旅館ひろ文",
+      "catchcopy": "貴船川の清流に張り出す川床で名物流しそうめんと会席を味わう全3室の料理旅館",
+      "hasShuttle": true,
+      "accessStation": "叡山電鉄 貴船口駅",
+      "jalanUrl": "https://www.jalan.net/yad393332/",
+      "shuttleInfo": "叡山電鉄貴船口駅から送迎あり（2名以上・要予約）"
+    }
   },
   {
     "id": "sumatakyo",
@@ -156053,7 +157278,14 @@
       "url": "https://commons.wikimedia.org/wiki/File%3A%E5%AF%B8%E5%8F%88%E5%B3%A1%E6%B8%A9%E6%B3%89%E3%81%8B%E3%82%897%E6%99%82%E9%96%93%E6%AD%A9%E3%81%8F_1994-11-05_-_panoramio.jpg",
       "attributionRequired": true
     },
-    "mainSpot": "夢の吊り橋"
+    "mainSpot": "夢の吊り橋",
+    "featured_stay": {
+      "name": "寸又峡温泉 翠紅苑",
+      "catchcopy": "夢の吊り橋の麓、寸又峡最古の湯宿。美女づくりの湯とレトロな空間に浸る",
+      "hasShuttle": false,
+      "accessStation": "大井川鐵道千頭駅からバス「寸又峡温泉」下車",
+      "jalanUrl": "https://www.jalan.net/yad311718/"
+    }
   },
   {
     "id": "nishi-izu",
@@ -156161,7 +157393,13 @@
       "url": "https://commons.wikimedia.org/wiki/File%3ANishiizu_20121019.jpg",
       "attributionRequired": false
     },
-    "mainSpot": "堂ヶ島"
+    "mainSpot": "堂ヶ島",
+    "featured_stay": {
+      "name": "堂ヶ島温泉 堂ヶ島ニュー銀水",
+      "catchcopy": "日本の夕陽百選・堂ヶ島の海に沈む夕日を全室オーシャンビューで味わう宿",
+      "hasShuttle": false,
+      "accessStation": "伊豆急下田駅からバス「堂ヶ島」下車"
+    }
   },
   {
     "id": "toyama-city",
@@ -156268,7 +157506,14 @@
       "グルメ目当て"
     ],
     "bestSeason": "夏",
-    "mainSpot": "富山城"
+    "mainSpot": "富山城",
+    "featured_stay": {
+      "name": "リバーリトリート雅樂倶",
+      "catchcopy": "神通峡を望むアートリゾート。300点の美術品と温泉、美食が融合する大人の隠れ家",
+      "hasShuttle": false,
+      "accessStation": "JR富山駅から車約40分",
+      "jalanUrl": "https://www.jalan.net/yad318058/"
+    }
   },
   {
     "id": "ashinoko",
@@ -156379,7 +157624,14 @@
       "url": "https://commons.wikimedia.org/wiki/File%3AThe_Prince_Hakone_Lake_Asinoko_(Winter)_2019.png",
       "attributionRequired": true
     },
-    "mainSpot": "箱根海賊船"
+    "mainSpot": "箱根海賊船",
+    "featured_stay": {
+      "name": "小田急 山のホテル",
+      "catchcopy": "芦ノ湖畔に建つ1948年創業のクラシックリゾート、五月のツツジ庭園が圧巻",
+      "hasShuttle": true,
+      "accessStation": "箱根湯本駅からバス約40分「元箱根港」下車",
+      "shuttleInfo": "元箱根港から無料送迎バス約5分（毎時10・30・50分発）"
+    }
   },
   {
     "id": "minatomirai",
@@ -156585,17 +157837,10 @@
     "featured_stay": {
       "name": "湯けむりの里 柏屋",
       "catchcopy": "大正15年創業。鬼怒川と男鹿川の合流点に立つ風呂自慢の宿",
-      "image": "/images/stays/kawaji-onsen.jpg",
       "jalanUrl": "https://www.jalan.net/yad309059/",
       "hasShuttle": true,
       "shuttleInfo": "川治湯元駅から無料送迎あり（要連絡）",
-      "accessStation": "川治湯元駅",
-      "imageCredit": {
-        "author": "Gene Jackson from Brooklyn, United States",
-        "license": "CC BY-SA 2.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Kawaji%20Onsen%20-Kashiwaya.jpg",
-        "attributionRequired": true
-      }
+      "accessStation": "川治湯元駅"
     }
   },
   {
@@ -156699,7 +157944,14 @@
       "url": "https://commons.wikimedia.org/wiki/File:Haiden_of_Izumo-taisha-1.JPG",
       "attributionRequired": false
     },
-    "mainSpot": "本殿"
+    "mainSpot": "本殿",
+    "featured_stay": {
+      "name": "竹野屋旅館",
+      "catchcopy": "出雲大社正門前、明治10年創業の純和風老舗旅館",
+      "hasShuttle": false,
+      "accessStation": "出雲大社前駅から徒歩5分",
+      "jalanUrl": "https://www.jalan.net/yad343798/"
+    }
   },
   {
     "id": "adachi-museum",
@@ -156796,7 +158048,14 @@
       "url": "https://commons.wikimedia.org/wiki/File:Adachi_Museum_of_Art04st3200.jpg",
       "attributionRequired": true
     },
-    "mainSpot": "足立美術館庭園"
+    "mainSpot": "足立美術館庭園",
+    "featured_stay": {
+      "name": "さぎの湯荘",
+      "catchcopy": "足立美術館まで徒歩1分、源泉かけ流しのさぎの湯温泉宿",
+      "hasShuttle": false,
+      "accessStation": "JR安来駅からバス20分",
+      "jalanUrl": "https://www.jalan.net/yad310662/"
+    }
   },
   {
     "id": "tottori-sakyu",
@@ -156904,7 +158163,14 @@
       "url": "https://commons.wikimedia.org/wiki/File:Tottori_Airport_Aerial_Photograph.jpg",
       "attributionRequired": true
     },
-    "mainSpot": "砂丘センター"
+    "mainSpot": "砂丘センター",
+    "featured_stay": {
+      "name": "鳥取温泉 観水庭こぜにや",
+      "catchcopy": "江戸末期創業180年、砂丘観光の拠点になる天然かけ流しの旅亭",
+      "hasShuttle": false,
+      "accessStation": "JR鳥取駅から徒歩10分",
+      "jalanUrl": "https://www.jalan.net/yad343111/"
+    }
   },
   {
     "id": "tamatsukuri-onsen",
@@ -157016,17 +158282,10 @@
     "featured_stay": {
       "name": "湯之助の宿 長楽園",
       "catchcopy": "明治元年創業。120坪の混浴大露天「龍宮の湯」を擁する湯之助の宿",
-      "image": "/images/stays/tamatsukuri-onsen.jpg",
       "jalanUrl": "https://www.jalan.net/yad323049/",
       "hasShuttle": true,
       "shuttleInfo": "玉造温泉駅からシャトルバスあり",
-      "accessStation": "玉造温泉駅",
-      "imageCredit": {
-        "author": "663highland",
-        "license": "CC BY 2.5",
-        "url": "https://commons.wikimedia.org/wiki/File:140427%20Chorakuen%20Tamatsukuri%20Onsen%20Matsue%20Shimane%20pref%20Japan01s3.jpg",
-        "attributionRequired": true
-      }
+      "accessStation": "玉造温泉駅"
     }
   },
   {
@@ -157334,7 +158593,14 @@
       "url": "https://commons.wikimedia.org/wiki/File:Hiruzen_01.jpg",
       "attributionRequired": true
     },
-    "mainSpot": "蒜山ジャージーランド"
+    "mainSpot": "蒜山ジャージーランド",
+    "featured_stay": {
+      "name": "休暇村 蒜山高原",
+      "catchcopy": "大山を望む高原リゾート、ジャージー牛グルメとラドン温泉の宿",
+      "hasShuttle": false,
+      "accessStation": "JR中国勝山駅からバス",
+      "jalanUrl": "https://www.jalan.net/yad308502/"
+    }
   },
   {
     "id": "yubara-onsen",
@@ -157437,17 +158703,10 @@
     "featured_stay": {
       "name": "元禄旅籠 油屋",
       "catchcopy": "元禄元年（1688）創業。砂湯の湯郷に残る旅籠建築",
-      "image": "/images/stays/yubara-onsen.jpg",
       "jalanUrl": "https://www.jalan.net/yad323331/",
       "hasShuttle": true,
       "shuttleInfo": "湯原温泉バス停から送迎あり",
-      "accessStation": "中国勝山駅からバス約49分",
-      "imageCredit": {
-        "author": "Volfgang (talk)",
-        "license": "CC BY-SA 3.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Aburaya%20in%20Yubara.jpg",
-        "attributionRequired": true
-      }
+      "accessStation": "中国勝山駅からバス約49分"
     }
   },
   {
@@ -157655,15 +158914,8 @@
     "featured_stay": {
       "name": "名泉鍵湯 奥津荘",
       "catchcopy": "昭和2年築・国登録有形文化財。足元湧出の「鍵湯」は津山藩主専用だった名湯",
-      "image": "/images/stays/okutsu.jpg",
       "hasShuttle": false,
-      "accessStation": "津山駅からバス（奥津温泉）",
-      "imageCredit": {
-        "author": "Phronimoi",
-        "license": "CC BY-SA 3.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Okutsu%20Onsen%2004.jpg",
-        "attributionRequired": true
-      }
+      "accessStation": "津山駅からバス（奥津温泉）"
     }
   },
   {
@@ -157878,7 +159130,13 @@
       "url": "https://commons.wikimedia.org/wiki/File:Fukiya_23-Oct-2021.jpg",
       "attributionRequired": true
     },
-    "mainSpot": "ベンガラの町並み"
+    "mainSpot": "ベンガラの町並み",
+    "featured_stay": {
+      "name": "和味の宿 ラ・フォーレ吹屋",
+      "catchcopy": "ベンガラの町並みに近い、木造校舎の面影を残す高原の宿",
+      "hasShuttle": false,
+      "accessStation": "JR備中高梁駅からバス"
+    }
   },
   {
     "id": "nagi-okayama",
@@ -158063,7 +159321,13 @@
       "/images/kasaoka-islands/main.jpg"
     ],
     "bestSeason": "通年",
-    "mainSpot": "白石島"
+    "mainSpot": "白石島",
+    "featured_stay": {
+      "name": "島宿 三虎",
+      "catchcopy": "笠岡諸島・真鍋島の海辺に建つ、獲れたて魚介が名物の一軒宿",
+      "hasShuttle": false,
+      "accessStation": "真鍋島本浦港から徒歩約10分"
+    }
   },
   {
     "id": "ogose",
@@ -158265,7 +159529,13 @@
       "url": "https://commons.wikimedia.org/wiki/File:%E9%81%93%E3%81%AE%E9%A7%85%E3%81%8A%E3%81%8C%E3%82%8F%E3%81%BE%E3%81%A1%E3%81%8B%E3%82%89%E3%81%AE%E4%BB%99%E5%85%83%E5%B1%B1.jpg",
       "attributionRequired": true
     },
-    "mainSpot": "和紙の里"
+    "mainSpot": "和紙の里",
+    "featured_stay": {
+      "name": "割烹旅館 二葉",
+      "catchcopy": "江戸中期創業の割烹旅館、文化財の建物で名物「忠七めし」を味わう和紙の町の宿",
+      "hasShuttle": false,
+      "accessStation": "東武東上線 小川町駅"
+    }
   },
   {
     "id": "osaka-bay",
@@ -158751,7 +160021,14 @@
       "url": "https://commons.wikimedia.org/wiki/File:Izumisano_station_2024_1.jpg",
       "attributionRequired": true
     },
-    "mainSpot": "犬鳴山"
+    "mainSpot": "犬鳴山",
+    "featured_stay": {
+      "name": "犬鳴山温泉 不動口館",
+      "catchcopy": "修験の霊場・犬鳴山の渓谷に湧く大阪の秘湯。四季の渓流美と露天風呂の宿",
+      "hasShuttle": false,
+      "accessStation": "南海泉佐野駅から南海バス「犬鳴山」行き約30分",
+      "jalanUrl": "https://www.jalan.net/yad369355/"
+    }
   },
   {
     "id": "imari",
@@ -159152,7 +160429,15 @@
       "url": "https://commons.wikimedia.org/wiki/File:%E9%A4%8A%E8%80%81%E6%B8%93%E8%B0%B7%E5%B1%95%E6%9C%9B%E5%8F%B0_-_panoramio.jpg",
       "attributionRequired": true
     },
-    "mainSpot": "養老の滝"
+    "mainSpot": "養老の滝",
+    "featured_stay": {
+      "name": "養老温泉 秘湯の宿 滝見苑",
+      "catchcopy": "房総一の名瀑・粟又の滝のほとり、渓谷の四季に抱かれる秘湯の一軒宿",
+      "hasShuttle": true,
+      "accessStation": "小湊鉄道 養老渓谷駅からバス約20分",
+      "jalanUrl": "https://www.jalan.net/yad326505/",
+      "shuttleInfo": "養老渓谷駅方面から無料送迎あり（要予約）"
+    }
   },
   {
     "id": "isumi",
@@ -159755,7 +161040,15 @@
       "/images/hayakawa/main.jpg"
     ],
     "bestSeason": "夏・冬",
-    "mainSpot": "赤沢宿"
+    "mainSpot": "赤沢宿",
+    "featured_stay": {
+      "name": "西山温泉 慶雲館",
+      "catchcopy": "ギネス認定・世界最古の温泉宿。慶雲2年開湯、山峡の一軒宿で源泉掛け流しを堪能",
+      "hasShuttle": true,
+      "accessStation": "JR身延線・身延駅",
+      "jalanUrl": "https://www.jalan.net/yad321825/",
+      "shuttleInfo": "JR身延線・身延駅から送迎バス1日1便（要事前予約）"
+    }
   },
   {
     "id": "inawashiro",
@@ -159954,16 +161247,9 @@
     "featured_stay": {
       "name": "古滝屋",
       "catchcopy": "元禄8年（1695）創業330年。湯本の湯を守り続ける老舗",
-      "image": "/images/stays/iwaki-spa.jpg",
       "jalanUrl": "https://www.jalan.net/yad335663/",
       "hasShuttle": false,
-      "accessStation": "湯本駅から徒歩約7分",
-      "imageCredit": {
-        "author": "妖精書士",
-        "license": "CC0",
-        "url": "https://commons.wikimedia.org/wiki/File:Furutakiya.jpg",
-        "attributionRequired": false
-      }
+      "accessStation": "湯本駅から徒歩約7分"
     }
   },
   {
@@ -160061,7 +161347,13 @@
       "秘境感あり"
     ],
     "bestSeason": "夏",
-    "mainSpot": "北村"
+    "mainSpot": "北村",
+    "featured_stay": {
+      "name": "かやぶきのお宿 またべ",
+      "catchcopy": "かやぶきの里の集落内に泊まれる希少な宿。囲炉裏端の夕餉と朝霧に包まれる里山",
+      "hasShuttle": false,
+      "accessStation": "南丹市営バス「北」バス停から徒歩5分"
+    }
   },
   {
     "id": "arashiyama-2",
@@ -160168,7 +161460,13 @@
       "街歩き向け"
     ],
     "bestSeason": "夏・秋",
-    "mainSpot": "竹林の道"
+    "mainSpot": "竹林の道",
+    "featured_stay": {
+      "name": "翠嵐ラグジュアリーコレクションホテル京都",
+      "catchcopy": "保津川のほとり、旧邸宅の面影を残すラグジュアリーホテルで味わう雅な嵐山時間",
+      "hasShuttle": false,
+      "accessStation": "嵐電嵐山駅から徒歩約6分"
+    }
   },
   {
     "id": "ohara-2",
@@ -160275,7 +161573,15 @@
       "url": "https://commons.wikimedia.org/wiki/File%3A%E9%AB%98%E5%80%89%E5%A4%A9%E7%9A%87%E7%9A%87%E5%90%8E%E5%BE%B3%E5%AD%90%E5%A4%A7%E5%8E%9F%E8%A5%BF%E9%99%B5%EF%BC%88%E5%AF%82%E5%85%89%E9%99%A2%EF%BC%89.jpg",
       "attributionRequired": true
     },
-    "mainSpot": "寂光院"
+    "mainSpot": "寂光院",
+    "featured_stay": {
+      "name": "大原温泉湯元 お宿 芹生",
+      "catchcopy": "紅葉の大原で味わう静寂。三千院まで徒歩すぐ、料理自慢の温泉宿で山里ステイ",
+      "hasShuttle": true,
+      "accessStation": "京都バス「大原」バス停から徒歩約10分",
+      "jalanUrl": "https://www.jalan.net/yad304000/",
+      "shuttleInfo": "大原バスターミナルから送迎あり（要事前連絡）"
+    }
   },
   {
     "id": "keihoku",
@@ -160470,7 +161776,13 @@
       "/images/takeda-castle/main.jpg"
     ],
     "bestSeason": "秋",
-    "mainSpot": "竹田城跡"
+    "mainSpot": "竹田城跡",
+    "featured_stay": {
+      "name": "竹田城 城下町ホテルEN",
+      "catchcopy": "天空の城のふもと、築400年の旧酒造場に泊まる全13室の文化財ホテル",
+      "hasShuttle": false,
+      "accessStation": "JR播但線 竹田駅から徒歩約5分"
+    }
   },
   {
     "id": "takamatsu-ritsurin",
@@ -160747,7 +162059,14 @@
       "/images/katsurahama/main.jpg"
     ],
     "bestSeason": "通年",
-    "mainSpot": "坂本龍馬像"
+    "mainSpot": "坂本龍馬像",
+    "featured_stay": {
+      "name": "高知城下の天然温泉 三翠園",
+      "catchcopy": "土佐藩主山内家下屋敷跡、高知市中心で天然温泉に浸かる宿",
+      "hasShuttle": false,
+      "accessStation": "JR高知駅からタクシー約10分",
+      "jalanUrl": "https://www.jalan.net/yad341796/"
+    }
   },
   {
     "id": "takayama-2",
@@ -160871,7 +162190,15 @@
       "takayama-kogen"
     ],
     "bestSeason": "冬",
-    "mainSpot": "古い町並み"
+    "mainSpot": "古い町並み",
+    "featured_stay": {
+      "name": "本陣平野屋 花兆庵",
+      "catchcopy": "古い町並みまで徒歩1分、飛騨高山の中心に佇む上質なおもてなしの老舗宿",
+      "hasShuttle": true,
+      "accessStation": "JR高山駅",
+      "jalanUrl": "https://www.jalan.net/yad330857/",
+      "shuttleInfo": "高山駅から無料送迎あり（随時・要連絡）"
+    }
   },
   {
     "id": "kumamoto-castle",
@@ -160964,7 +162291,13 @@
       "/images/kumamoto-castle/main.jpg"
     ],
     "bestSeason": "春",
-    "mainSpot": "熊本城"
+    "mainSpot": "熊本城",
+    "featured_stay": {
+      "name": "熊本ホテルキャッスル",
+      "catchcopy": "熊本城を目前に望む1960年開業の老舗。城下の迎賓館的ホテル",
+      "hasShuttle": false,
+      "accessStation": "市電 熊本城・市役所前電停"
+    }
   },
   {
     "id": "hitoyoshi-onsen",
@@ -161260,7 +162593,13 @@
       "url": "https://commons.wikimedia.org/wiki/File%3ANiigata_municipal_airport.jpg",
       "attributionRequired": true
     },
-    "mainSpot": "ピアBandai"
+    "mainSpot": "ピアBandai",
+    "featured_stay": {
+      "name": "ホテルイタリア軒",
+      "catchcopy": "明治7年創業、『新潟の迎賓館』と呼ばれた老舗ホテル。古町で歴史と美食に浸る",
+      "hasShuttle": false,
+      "accessStation": "JR新潟駅からバス（古町）"
+    }
   },
   {
     "id": "echigo-tsumari",
@@ -161371,7 +162710,13 @@
       "url": "https://commons.wikimedia.org/wiki/File:Etat_fasciste,_sarkommence_(2).JPG",
       "attributionRequired": true
     },
-    "mainSpot": "大地の芸術祭"
+    "mainSpot": "大地の芸術祭",
+    "featured_stay": {
+      "name": "光の館",
+      "catchcopy": "ジェームズ・タレルの泊まれるアート作品。開閉する天井から光と空を体感する一夜",
+      "hasShuttle": false,
+      "accessStation": "JR飯山線・十日町駅から車"
+    }
   },
   {
     "id": "nozawa-onsen-niigata",
@@ -161483,16 +162828,9 @@
     "featured_stay": {
       "name": "雪国の宿 高半",
       "catchcopy": "開湯900余年の湯元。川端康成が「雪国」を書いた宿",
-      "image": "/images/stays/nozawa-onsen-niigata.jpg",
       "hasShuttle": true,
       "shuttleInfo": "越後湯沢駅から迎えあり（到着後に連絡）",
-      "accessStation": "越後湯沢駅",
-      "imageCredit": {
-        "author": "senngokujidai4434",
-        "license": "CC BY 2.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Entrance%20of%20Kasumi%20room%2C%20Takahan%20ryokan%2C%20Yuzawa%20-%20Mar%2031%2C%202018.jpg",
-        "attributionRequired": true
-      }
+      "accessStation": "越後湯沢駅"
     }
   },
   {
@@ -162071,7 +163409,13 @@
       "グルメ目当て"
     ],
     "bestSeason": "春・夏",
-    "mainSpot": "盛岡冷麺"
+    "mainSpot": "盛岡冷麺",
+    "featured_stay": {
+      "name": "つなぎ温泉 ホテル紫苑",
+      "catchcopy": "盛岡の奥座敷・つなぎ温泉。御所湖畔の眺望と岩造りの大露天風呂が自慢",
+      "hasShuttle": false,
+      "accessStation": "JR盛岡駅からバス"
+    }
   },
   {
     "id": "hanamaki-onsen",
@@ -162170,16 +163514,9 @@
     "featured_stay": {
       "name": "鉛温泉 藤三旅館",
       "catchcopy": "昭和16年築の本館と日本一深い岩風呂「白猿の湯」は国登録有形文化財",
-      "image": "/images/stays/hanamaki-onsen.jpg",
       "hasShuttle": true,
       "shuttleInfo": "花巻駅・新花巻駅から無料シャトルあり（要予約）",
-      "accessStation": "花巻駅",
-      "imageCredit": {
-        "author": "Soica2001 (talk)",
-        "license": "Public domain",
-        "url": "https://commons.wikimedia.org/wiki/File:Namari%20spa%20Fujisann%20ryokan%202008.jpg",
-        "attributionRequired": false
-      }
+      "accessStation": "花巻駅"
     }
   },
   {
@@ -162273,7 +163610,13 @@
       "/images/zao-snow-monsters/main.jpg"
     ],
     "bestSeason": "冬",
-    "mainSpot": "蔵王ロープウェイ"
+    "mainSpot": "蔵王ロープウェイ",
+    "featured_stay": {
+      "name": "蔵王国際ホテル",
+      "catchcopy": "樹氷観光の拠点に便利な温泉ホテル。乳白色の硫黄泉を木の温もりの湯屋で",
+      "hasShuttle": false,
+      "accessStation": "JR山形駅からバス"
+    }
   },
   {
     "id": "mogami-funakudari",
@@ -162943,7 +164286,14 @@
       "街歩き向け"
     ],
     "bestSeason": "夏",
-    "mainSpot": "松本城"
+    "mainSpot": "松本城",
+    "featured_stay": {
+      "name": "松本ホテル花月",
+      "catchcopy": "明治20年創業、松本城まで徒歩5分の老舗。民芸家具が彩るクラシックホテル",
+      "hasShuttle": true,
+      "accessStation": "JR松本駅",
+      "shuttleInfo": "JR松本駅から定時送迎あり（要事前予約）"
+    }
   },
   {
     "id": "nakasendo-tsumago",
@@ -163040,7 +164390,13 @@
       "秘境感あり"
     ],
     "bestSeason": "秋",
-    "mainSpot": "妻籠宿"
+    "mainSpot": "妻籠宿",
+    "featured_stay": {
+      "name": "旅籠 松代屋",
+      "catchcopy": "文化元年創業、妻籠宿に残る旅籠の宿。江戸の面影そのままに木曽路の夜を過ごす",
+      "hasShuttle": false,
+      "accessStation": "JR中央本線・南木曽駅"
+    }
   },
   {
     "id": "wajima-asaichi",
@@ -163355,7 +164711,13 @@
       "伊勢神宮内宮"
     ],
     "bestSeason": "夏・秋",
-    "mainSpot": "内宮"
+    "mainSpot": "内宮",
+    "featured_stay": {
+      "name": "麻吉旅館",
+      "catchcopy": "東海道中膝栗毛にも登場、懸崖造りの木造楼閣が圧巻の創業200年超の宿",
+      "hasShuttle": false,
+      "accessStation": "近鉄宇治山田駅"
+    }
   },
   {
     "id": "miho-museum",
@@ -163564,7 +164926,15 @@
       "/images/kibune-kurama/main.jpg"
     ],
     "bestSeason": "春・秋",
-    "mainSpot": "鞍馬寺"
+    "mainSpot": "鞍馬寺",
+    "featured_stay": {
+      "name": "京都貴船 料理旅館ひろ文",
+      "catchcopy": "貴船神社結社のすぐ隣、川のせせらぎに包まれて眠る貴船屈指の川床料理旅館",
+      "hasShuttle": true,
+      "accessStation": "叡山電鉄 貴船口駅",
+      "jalanUrl": "https://www.jalan.net/yad393332/",
+      "shuttleInfo": "叡山電鉄貴船口駅から送迎あり（2名以上・要予約）"
+    }
   },
   {
     "id": "koshien",
@@ -163838,7 +165208,14 @@
       "/images/horyuji/main.jpg"
     ],
     "bestSeason": "通年",
-    "mainSpot": "法隆寺"
+    "mainSpot": "法隆寺",
+    "featured_stay": {
+      "name": "門前宿 和空法隆寺",
+      "catchcopy": "法隆寺南大門まで徒歩すぐ。朝の静かな伽藍を独り占めできる参道の門前宿",
+      "hasShuttle": false,
+      "accessStation": "JR法隆寺駅からバス「法隆寺参道」下車すぐ",
+      "jalanUrl": "https://www.jalan.net/yad387965/"
+    }
   },
   {
     "id": "kumano-kodo",
@@ -163947,7 +165324,15 @@
       "url": "https://commons.wikimedia.org/wiki/File:(%E5%92%8C%E6%AD%8C%E5%B1%B1%E7%9C%8C)%E7%86%8A%E9%87%8E%E5%8F%A4%E9%81%93%E3%81%8B%E3%82%89%E3%81%AE%E5%B8%B0%E3%82%8A%E9%81%93%E3%80%82%E7%B4%80%E4%BC%8A%E5%8D%8A%E5%B3%B6%E3%81%AB%E3%81%AF%E5%8F%A4%E9%81%93%E3%81%8C%E5%A4%9A%E3%81%8F%E5%AD%98%E5%9C%A8%E3%81%97%E3%80%81%E5%9B%BD%E9%81%93%E3%81%8B%E3%82%89%E3%81%AF%E5%85%A5%E3%82%8A%E5%8F%A3%E3%81%AE%E7%9C%8B%E6%9D%BF%E3%81%8C%E3%81%82%E3%82%8B%E3%80%82_-_panoramio.jpg",
       "attributionRequired": true
     },
-    "mainSpot": "熊野本宮大社"
+    "mainSpot": "熊野本宮大社",
+    "featured_stay": {
+      "name": "霧の郷たかはら",
+      "catchcopy": "標高320m、雲海を見下ろす「天空の宿」。熊野古道中辺路まで徒歩2分",
+      "hasShuttle": true,
+      "accessStation": "JR紀伊田辺駅からバス「栗栖川」バス停",
+      "jalanUrl": "https://www.jalan.net/yad366504/",
+      "shuttleInfo": "栗栖川・滝尻バス停まで送迎あり（要事前申込）"
+    }
   },
   {
     "id": "nachi-falls",
@@ -164362,7 +165747,14 @@
       "url": "https://commons.wikimedia.org/wiki/File:View_of_Dazaifu_City_near_Kamado_Shrine.jpg",
       "attributionRequired": true
     },
-    "mainSpot": "太宰府天満宮"
+    "mainSpot": "太宰府天満宮",
+    "featured_stay": {
+      "name": "二日市温泉 大丸別荘",
+      "catchcopy": "創業慶応元年、昭和天皇も逗留した3500坪の庭園を有する老舗湯宿",
+      "hasShuttle": false,
+      "accessStation": "JR二日市駅（タクシー5分）",
+      "jalanUrl": "https://www.jalan.net/yad313868/"
+    }
   },
   {
     "id": "saga-castle",
@@ -164555,7 +165947,14 @@
       "/images/nagasaki-city/main.jpg"
     ],
     "bestSeason": "通年",
-    "mainSpot": "グラバー園"
+    "mainSpot": "グラバー園",
+    "featured_stay": {
+      "name": "ガーデンテラス長崎 ホテル&リゾート",
+      "catchcopy": "隈研吾設計、全室オーシャンビュー。世界新三大夜景を望むホテル",
+      "hasShuttle": false,
+      "accessStation": "JR長崎駅（車10分）",
+      "jalanUrl": "https://www.jalan.net/yad326878/"
+    }
   },
   {
     "id": "yufuin-2",
@@ -164772,7 +166171,15 @@
       "url": "https://commons.wikimedia.org/wiki/File%3AKagoshima_Airport01n4592.jpg",
       "attributionRequired": true
     },
-    "mainSpot": "仙厳園"
+    "mainSpot": "仙厳園",
+    "featured_stay": {
+      "name": "城山ホテル鹿児島",
+      "catchcopy": "城山の丘に建つ鹿児島の迎賓館。露天から桜島を望む名物朝食の宿",
+      "hasShuttle": true,
+      "accessStation": "JR鹿児島中央駅",
+      "jalanUrl": "https://www.jalan.net/yad318207/",
+      "shuttleInfo": "鹿児島中央駅・天文館経由の無料シャトルバスを約30分毎に運行"
+    }
   },
   {
     "id": "ibusuki-onsen",
@@ -165970,7 +167377,13 @@
       "/images/mifuneyama/main.jpg"
     ],
     "bestSeason": "春・秋",
-    "mainSpot": "御船山楽園"
+    "mainSpot": "御船山楽園",
+    "featured_stay": {
+      "name": "御船山楽園ホテル",
+      "catchcopy": "15万坪の御船山楽園に建つ宿。チームラボのアートとらかんの湯",
+      "hasShuttle": false,
+      "accessStation": "JR武雄温泉駅（車5分）"
+    }
   },
   {
     "id": "yutoku-inari",
@@ -166158,7 +167571,14 @@
       "秘境感あり"
     ],
     "bestSeason": "通年",
-    "mainSpot": "七ツ釜"
+    "mainSpot": "七ツ釜",
+    "featured_stay": {
+      "name": "洋々閣",
+      "catchcopy": "唐津の名旅館。松の庭と唐津焼の器で味わう玄界灘の幸",
+      "hasShuttle": false,
+      "accessStation": "JR唐津駅（車6分）",
+      "jalanUrl": "https://www.jalan.net/yad323537/"
+    }
   },
   {
     "id": "niji-no-matsubara",
@@ -166363,7 +167783,13 @@
       "家族で楽しめる"
     ],
     "bestSeason": "秋",
-    "mainSpot": "鹿"
+    "mainSpot": "鹿",
+    "featured_stay": {
+      "name": "奈良ホテル",
+      "catchcopy": "明治42年創業「関西の迎賓館」。鹿の遊ぶ奈良公園でクラシックホテルの気品を",
+      "hasShuttle": false,
+      "accessStation": "近鉄奈良駅から徒歩約15分"
+    }
   },
   {
     "id": "tenkawa",
@@ -166462,7 +167888,15 @@
       "/images/tenkawa/main.jpg"
     ],
     "bestSeason": "夏・秋",
-    "mainSpot": "みたらい渓谷"
+    "mainSpot": "みたらい渓谷",
+    "featured_stay": {
+      "name": "宿 花屋徳兵衛",
+      "catchcopy": "創業500年、洞川温泉最古の宿。行者の湯と提灯灯る温泉街の風情に浸る",
+      "hasShuttle": true,
+      "accessStation": "近鉄下市口駅からバス「洞川温泉」バス停",
+      "jalanUrl": "https://www.jalan.net/yad343142/",
+      "shuttleInfo": "洞川温泉バス停から送迎あり（要事前連絡）"
+    }
   },
   {
     "id": "soni-kogen",
@@ -166655,7 +168089,13 @@
       "/images/mt-yamato/main.jpg"
     ],
     "bestSeason": "秋",
-    "mainSpot": "大神神社"
+    "mainSpot": "大神神社",
+    "featured_stay": {
+      "name": "料理旅館 大正楼",
+      "catchcopy": "大神神社御用達、大正元年創業の料理旅館。三輪素麺と大和の滋味を味わう",
+      "hasShuttle": false,
+      "accessStation": "JR万葉まほろば線 三輪駅から徒歩3分"
+    }
   },
   {
     "id": "tottori-castle",
@@ -167139,7 +168579,13 @@
       "/images/matsuba-gani/main.jpg"
     ],
     "bestSeason": "冬",
-    "mainSpot": "香住漁港"
+    "mainSpot": "香住漁港",
+    "featured_stay": {
+      "name": "岩井温泉 岩井屋",
+      "catchcopy": "山陰最古の湯に浸かり松葉ガニを味わう、創業150年の木造宿",
+      "hasShuttle": false,
+      "accessStation": "JR岩美駅からバス約10分"
+    }
   },
   {
     "id": "echizen-cape",
@@ -167516,7 +168962,14 @@
       "/images/mihama-fukui/main.jpg"
     ],
     "bestSeason": "冬",
-    "mainSpot": "水晶浜"
+    "mainSpot": "水晶浜",
+    "featured_stay": {
+      "name": "虹岳島温泉 虹岳島荘",
+      "catchcopy": "三方五湖に浮かぶように建つ茅葺の一軒宿。湖上の静寂と若狭の幸に癒される隠れ宿",
+      "hasShuttle": true,
+      "accessStation": "JR小浜線・気山駅",
+      "shuttleInfo": "JR小浜線・気山駅から送迎あり（要事前連絡）"
+    }
   },
   {
     "id": "echizen-cliff",
@@ -168377,7 +169830,15 @@
       "湖畔のんびり"
     ],
     "bestSeason": "通年",
-    "mainSpot": "河口湖"
+    "mainSpot": "河口湖",
+    "featured_stay": {
+      "name": "湖山亭うぶや",
+      "catchcopy": "全室から富士山と河口湖を望む絶景宿。記念日を祝う宿として愛される高評価の名旅館",
+      "hasShuttle": true,
+      "accessStation": "富士急行線・河口湖駅",
+      "jalanUrl": "https://www.jalan.net/yad310215/",
+      "shuttleInfo": "富士急行線・河口湖駅から送迎あり（駅到着時に要連絡）"
+    }
   },
   {
     "id": "ryujin-suspension",
@@ -169061,7 +170522,15 @@
       "url": "https://commons.wikimedia.org/wiki/File%3ATokushima_Prefectural_Naruto-Uzushio_(Ohtsu)_High_School.jpg",
       "attributionRequired": true
     },
-    "mainSpot": "渦の道"
+    "mainSpot": "渦の道",
+    "featured_stay": {
+      "name": "アオアヲ ナルト リゾート",
+      "catchcopy": "鳴門海峡を望む白砂のビーチリゾート、渦潮観光の拠点に",
+      "hasShuttle": true,
+      "accessStation": "JR鳴門駅",
+      "jalanUrl": "https://www.jalan.net/yad325886/",
+      "shuttleInfo": "JR鳴門駅・高速鳴門から無料送迎あり（3日前までに要予約）"
+    }
   },
   {
     "id": "iya-vine-2",
@@ -169155,7 +170624,14 @@
       "/images/iya-vine-2/main.jpg"
     ],
     "bestSeason": "春・夏",
-    "mainSpot": "かずら橋"
+    "mainSpot": "かずら橋",
+    "featured_stay": {
+      "name": "新祖谷温泉 ホテルかずら橋",
+      "catchcopy": "かずら橋近く、ケーブルカーで登る天空露天風呂と囲炉裏料理の宿",
+      "hasShuttle": false,
+      "accessStation": "JR大歩危駅からタクシー15分",
+      "jalanUrl": "https://www.jalan.net/yad328584/"
+    }
   },
   {
     "id": "mt-bizan",
@@ -169744,7 +171220,14 @@
       "/images/asakuradan/main.jpg"
     ],
     "bestSeason": "春・秋",
-    "mainSpot": "秋月城下町"
+    "mainSpot": "秋月城下町",
+    "featured_stay": {
+      "name": "秋月温泉 料亭旅館 清流庵",
+      "catchcopy": "筑前の小京都・秋月に佇む全6室の料亭旅館。全室に温泉露天風呂",
+      "hasShuttle": false,
+      "accessStation": "甘木駅（バス約20分）",
+      "jalanUrl": "https://www.jalan.net/yad362440/"
+    }
   },
   {
     "id": "shin-sekai",
@@ -170766,7 +172249,14 @@
       "/images/kurobe-gorge/main.jpg"
     ],
     "bestSeason": "秋",
-    "mainSpot": "黒部峡谷鉄道"
+    "mainSpot": "黒部峡谷鉄道",
+    "featured_stay": {
+      "name": "黒部峡谷 宇奈月温泉 延楽",
+      "catchcopy": "黒部川の渓谷美を全室から望む老舗旅館。トロッコ電車の旅と名湯宇奈月を満喫",
+      "hasShuttle": true,
+      "accessStation": "富山地方鉄道・宇奈月温泉駅",
+      "shuttleInfo": "宇奈月温泉駅・黒部宇奈月温泉駅から送迎あり（要連絡）"
+    }
   },
   {
     "id": "amaharashi",
@@ -170870,7 +172360,15 @@
       "絶景スポット"
     ],
     "bestSeason": "冬",
-    "mainSpot": "雨晴海岸"
+    "mainSpot": "雨晴海岸",
+    "featured_stay": {
+      "name": "雨晴温泉 磯はなび",
+      "catchcopy": "雨晴海岸の丘に建つ一軒宿。海越しの立山連峰を望む大パノラマ露天風呂が自慢",
+      "hasShuttle": true,
+      "accessStation": "JR氷見線・雨晴駅",
+      "jalanUrl": "https://www.jalan.net/yad316560/",
+      "shuttleInfo": "JR氷見線・雨晴駅から無料送迎あり（要連絡）"
+    }
   },
   {
     "id": "gokayama-2",
@@ -170971,7 +172469,13 @@
       "url": "https://commons.wikimedia.org/wiki/File:%E4%BA%94%E7%AE%87%E5%B1%B1%E7%9B%B8%E5%80%89%E5%90%88%E6%8E%8C%E9%9B%86%E8%90%BD02.jpg",
       "attributionRequired": false
     },
-    "mainSpot": "相倉集落"
+    "mainSpot": "相倉集落",
+    "featured_stay": {
+      "name": "五箇山 民宿勇助",
+      "catchcopy": "世界遺産相倉集落の合掌造りに泊まる。一日一組、囲炉裏端で五箇山の夜を味わう",
+      "hasShuttle": false,
+      "accessStation": "高岡駅から世界遺産バス「相倉口」下車"
+    }
   },
   {
     "id": "uozu",
@@ -171068,7 +172572,13 @@
       "url": "https://commons.wikimedia.org/wiki/File:Uozu_mirage_20190525_1.jpg",
       "attributionRequired": true
     },
-    "mainSpot": "魚津埋没林博物館"
+    "mainSpot": "魚津埋没林博物館",
+    "featured_stay": {
+      "name": "金太郎温泉",
+      "catchcopy": "立山連峰を望む庭園露天と洞窟風呂の湯宿。豊富な湯量を誇る富山屈指の温泉ホテル",
+      "hasShuttle": false,
+      "accessStation": "あいの風とやま鉄道・魚津駅から車"
+    }
   },
   {
     "id": "wakayama-castle",
@@ -171475,17 +172985,10 @@
     "featured_stay": {
       "name": "冨士屋",
       "catchcopy": "川湯温泉最古の宿。冬は川を堰き止めた大露天「仙人風呂」が名物",
-      "image": "/images/stays/kawayu.jpg",
       "jalanUrl": "https://www.jalan.net/yad395264/",
       "hasShuttle": true,
       "shuttleInfo": "熊野古道への無料送迎あり",
-      "accessStation": "新宮駅からバス（川湯温泉）",
-      "imageCredit": {
-        "author": "Nekosuki",
-        "license": "CC BY-SA 4.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Kumano%20Kodo%20pilgrimage%20route%20Kawa-yu%20Onsen%20World%20heritage%20%E7%86%8A%E9%87%8E%E5%8F%A4%E9%81%93%20%E5%B7%9D%E6%B9%AF%E6%B8%A9%E6%B3%89120.JPG",
-        "attributionRequired": true
-      }
+      "accessStation": "新宮駅からバス（川湯温泉）"
     }
   },
   {
@@ -171682,7 +173185,13 @@
       "url": "https://commons.wikimedia.org/wiki/File%3ASendai_castle01s3872.jpg",
       "attributionRequired": true
     },
-    "mainSpot": "仙台城跡"
+    "mainSpot": "仙台城跡",
+    "featured_stay": {
+      "name": "秋保温泉 伝承千年の宿 佐勘",
+      "catchcopy": "伊達政宗公の湯浴み御殿を守り続ける秋保温泉の名門。千年の歴史を誇る宿",
+      "hasShuttle": false,
+      "accessStation": "JR仙台駅からバス"
+    }
   },
   {
     "id": "zuiganji",
@@ -171776,7 +173285,13 @@
       "url": "https://commons.wikimedia.org/wiki/File:211030_Zuigan-ji_Matsushima_Miyagi_pref_Japan09s3.jpg",
       "attributionRequired": true
     },
-    "mainSpot": "瑞巌寺本堂"
+    "mainSpot": "瑞巌寺本堂",
+    "featured_stay": {
+      "name": "松島温泉 松島一の坊",
+      "catchcopy": "松島湾を一望する水上庭園とオールインクルーシブ滞在が人気の絶景リゾート",
+      "hasShuttle": false,
+      "accessStation": "JR松島海岸駅"
+    }
   },
   {
     "id": "hakone-2",
@@ -171882,7 +173397,14 @@
       "url": "https://commons.wikimedia.org/wiki/File:Hakone-Yumoto_station_2024.jpg",
       "attributionRequired": true
     },
-    "mainSpot": "箱根湯本駅"
+    "mainSpot": "箱根湯本駅",
+    "featured_stay": {
+      "name": "萬翠楼福住",
+      "catchcopy": "寛永二年創業、国指定重要文化財の宿で自家源泉「真綿の湯」に浸かる贅沢",
+      "hasShuttle": false,
+      "accessStation": "箱根登山鉄道 箱根湯本駅",
+      "jalanUrl": "https://www.jalan.net/yad329388/"
+    }
   },
   {
     "id": "owakudani",
@@ -172389,7 +173911,13 @@
       "url": "https://commons.wikimedia.org/wiki/File:Hikone_Castle_November_2016_-02.jpg",
       "attributionRequired": true
     },
-    "mainSpot": "彦根城"
+    "mainSpot": "彦根城",
+    "featured_stay": {
+      "name": "彦根キャッスル リゾート＆スパ",
+      "catchcopy": "天守を望む客室でお城時間を満喫。彦根散策に便利な城前の和モダンリゾート",
+      "hasShuttle": false,
+      "accessStation": "JR彦根駅から徒歩約10分"
+    }
   },
   {
     "id": "shigaraki-2-pottery",
@@ -173281,16 +174809,9 @@
     "featured_stay": {
       "name": "べっぴんの湯の宿 丸新荘",
       "catchcopy": "とろみの強い「べっぴんの湯」を掛け流す日南の湯宿",
-      "image": "/images/stays/nichinan-onsen.jpg",
       "jalanUrl": "https://www.jalan.net/yad326520/",
       "hasShuttle": false,
-      "accessStation": "北郷駅から車約5分",
-      "imageCredit": {
-        "author": "舌平目",
-        "license": "CC0",
-        "url": "https://commons.wikimedia.org/wiki/File:%E3%81%B9%E3%81%A3%E3%81%B4%E3%82%93%E3%81%AE%E6%B9%AF%E3%81%AE%E5%AE%BF%20%E4%B8%B8%E6%96%B0%E8%8D%98.jpg",
-        "attributionRequired": false
-      }
+      "accessStation": "北郷駅から車約5分"
     }
   },
   {
@@ -173794,7 +175315,15 @@
       "世界遺産あり"
     ],
     "bestSeason": "通年",
-    "mainSpot": "厳島神社"
+    "mainSpot": "厳島神社",
+    "featured_stay": {
+      "name": "みやじまの宿 岩惣",
+      "catchcopy": "安政元年創業、もみじ谷にたたずむ宮島随一の老舗旅館",
+      "hasShuttle": true,
+      "accessStation": "宮島桟橋",
+      "jalanUrl": "https://www.jalan.net/yad360646/",
+      "shuttleInfo": "宮島桟橋から送迎バスあり（当日予約）"
+    }
   },
   {
     "id": "shobara-2",
@@ -174005,7 +175534,14 @@
       "url": "https://commons.wikimedia.org/wiki/File:Tenshu_of_Iwakuni_Castle_and_Kintaikyo_Bridge_from_bed_of_Nishikigawa_River_3.jpg",
       "attributionRequired": true
     },
-    "mainSpot": "錦帯橋"
+    "mainSpot": "錦帯橋",
+    "featured_stay": {
+      "name": "錦帯橋温泉 岩国国際観光ホテル",
+      "catchcopy": "名橋・錦帯橋まで徒歩2分、五連アーチを望む絶景の湯",
+      "hasShuttle": false,
+      "accessStation": "JR新岩国駅からタクシー10分",
+      "jalanUrl": "https://www.jalan.net/yad329032/"
+    }
   },
   {
     "id": "yamaguchi-city",
@@ -174108,7 +175644,14 @@
       "街歩き向け"
     ],
     "bestSeason": "冬",
-    "mainSpot": "瑠璃光寺五重塔"
+    "mainSpot": "瑠璃光寺五重塔",
+    "featured_stay": {
+      "name": "湯田温泉 松田屋ホテル",
+      "catchcopy": "維新の志士が集った創業340余年の宿、庭園と史跡の湯",
+      "hasShuttle": false,
+      "accessStation": "JR湯田温泉駅",
+      "jalanUrl": "https://www.jalan.net/yad336484/"
+    }
   },
   {
     "id": "motonosumi",
@@ -174212,7 +175755,15 @@
       "url": "https://commons.wikimedia.org/wiki/File:%E5%85%83%E4%B9%83%E9%9A%85%E7%A8%B2%E8%8D%B7%E7%A5%9E%E7%A4%BE_(33131861841).jpg",
       "attributionRequired": true
     },
-    "mainSpot": "元乃隅神社"
+    "mainSpot": "元乃隅神社",
+    "featured_stay": {
+      "name": "大谷山荘",
+      "catchcopy": "元乃隅神社観光の拠点、長門湯本を代表する川辺の名旅館",
+      "hasShuttle": true,
+      "accessStation": "JR長門湯本駅",
+      "jalanUrl": "https://www.jalan.net/yad324375/",
+      "shuttleInfo": "JR長門湯本駅から無料送迎あり（要事前連絡）"
+    }
   },
   {
     "id": "nagano-zenkoji",
@@ -174302,7 +175853,13 @@
       "1泊がおすすめ"
     ],
     "bestSeason": "通年",
-    "mainSpot": "善光寺"
+    "mainSpot": "善光寺",
+    "featured_stay": {
+      "name": "善光寺宿坊 兄部坊",
+      "catchcopy": "善光寺境内に泊まる宿坊。名物の精進料理とお朝事参りで心が整う朝を迎える",
+      "hasShuttle": false,
+      "accessStation": "長野電鉄・善光寺下駅"
+    }
   },
   {
     "id": "mt-yatsugatake",
@@ -174406,7 +175963,15 @@
       "url": "https://commons.wikimedia.org/wiki/File%3ATateshina_kogen_from_Mt.Kitayokodake.JPG",
       "attributionRequired": true
     },
-    "mainSpot": "蓼科"
+    "mainSpot": "蓼科",
+    "featured_stay": {
+      "name": "創業大正十五年 蓼科親湯温泉",
+      "catchcopy": "大正15年創業、蓼科の渓流沿いに建つ宿。3万冊の本に囲まれるライブラリー空間",
+      "hasShuttle": true,
+      "accessStation": "JR中央本線・茅野駅",
+      "jalanUrl": "https://www.jalan.net/yad331396/",
+      "shuttleInfo": "JR茅野駅東口から無料送迎バスあり（要事前予約）"
+    }
   },
   {
     "id": "niigata-spa",
@@ -174910,7 +176475,13 @@
       "url": "https://commons.wikimedia.org/wiki/File:Nakananoka.jpg",
       "attributionRequired": true
     },
-    "mainSpot": "七日町通り"
+    "mainSpot": "七日町通り",
+    "featured_stay": {
+      "name": "会津東山温泉 向瀧",
+      "catchcopy": "国登録有形文化財第一号。会津藩ゆかりの木造建築と源泉かけ流しの名宿",
+      "hasShuttle": false,
+      "accessStation": "JR会津若松駅から周遊バス"
+    }
   },
   {
     "id": "fukushima-iwaki",
@@ -175010,7 +176581,13 @@
       "url": "https://commons.wikimedia.org/wiki/File:%E3%81%84%E3%82%8F%E3%81%8D%E9%A7%8501.jpg",
       "attributionRequired": true
     },
-    "mainSpot": "アクアマリンふくしま"
+    "mainSpot": "アクアマリンふくしま",
+    "featured_stay": {
+      "name": "スパリゾートハワイアンズ モノリスタワー",
+      "catchcopy": "フラガールの街いわき湯本、ハワイアンズ直結で温泉と常磐の幸を楽しむ宿",
+      "hasShuttle": false,
+      "accessStation": "JR湯本駅"
+    }
   },
   {
     "id": "iwate-chuson",
@@ -175601,7 +177178,13 @@
       "url": "https://commons.wikimedia.org/wiki/File:Kankakei_(14108595925).jpg",
       "attributionRequired": true
     },
-    "mainSpot": "寒霞渓ロープウェイ"
+    "mainSpot": "寒霞渓ロープウェイ",
+    "featured_stay": {
+      "name": "島宿 真里",
+      "catchcopy": "醤の郷の古民家宿で味わう醤油会席、自家温泉の小さな名宿",
+      "hasShuttle": false,
+      "accessStation": "坂手港（小豆島）"
+    }
   },
   {
     "id": "kochi-castle",
@@ -175707,7 +177290,14 @@
       "url": "https://commons.wikimedia.org/wiki/File:Kochi_Castle08s3872.jpg",
       "attributionRequired": true
     },
-    "mainSpot": "高知城"
+    "mainSpot": "高知城",
+    "featured_stay": {
+      "name": "城西館",
+      "catchcopy": "明治7年創業、皇室定宿の格式と藁焼きたたきが誇る老舗",
+      "hasShuttle": false,
+      "accessStation": "とさでん「上町一丁目」電停",
+      "jalanUrl": "https://www.jalan.net/yad314784/"
+    }
   },
   {
     "id": "kumamoto-suizenji",
@@ -175910,7 +177500,15 @@
       "url": "https://commons.wikimedia.org/wiki/File:Sengan-en_(4549675312).jpg",
       "attributionRequired": true
     },
-    "mainSpot": "仙巌園"
+    "mainSpot": "仙巌園",
+    "featured_stay": {
+      "name": "城山ホテル鹿児島",
+      "catchcopy": "仙巌園と同じ桜島の眺め。城山展望台そばに建つ老舗ホテル",
+      "hasShuttle": true,
+      "accessStation": "JR鹿児島中央駅",
+      "jalanUrl": "https://www.jalan.net/yad318207/",
+      "shuttleInfo": "鹿児島中央駅・天文館経由の無料シャトルバスを約30分毎に運行"
+    }
   },
   {
     "id": "sakurajima-onsen",
@@ -175996,7 +177594,14 @@
       "/images/sakurajima-onsen/main.jpg"
     ],
     "bestSeason": "春",
-    "mainSpot": "古里温泉"
+    "mainSpot": "古里温泉",
+    "featured_stay": {
+      "name": "桜島シーサイドホテル",
+      "catchcopy": "古里温泉の源泉かけ流し。海を目の前にする絶景露天風呂が名物",
+      "hasShuttle": false,
+      "accessStation": "桜島港（車10分）",
+      "jalanUrl": "https://www.jalan.net/yad346506/"
+    }
   },
   {
     "id": "shuri-castle",
@@ -176616,7 +178221,13 @@
       "url": "https://commons.wikimedia.org/wiki/File:Cliff_of_Cape_Zampa.JPG",
       "attributionRequired": true
     },
-    "mainSpot": "残波岬灯台"
+    "mainSpot": "残波岬灯台",
+    "featured_stay": {
+      "name": "星のや沖縄",
+      "catchcopy": "読谷の海辺に「暮らすように泊まる」全室オーシャンフロントの宿",
+      "hasShuttle": false,
+      "accessStation": "那覇空港（車約1時間）"
+    }
   },
   {
     "id": "okinawa-cape-hedo",
@@ -177098,7 +178709,14 @@
       "/images/shiga-otsu/main.jpg"
     ],
     "bestSeason": "通年",
-    "mainSpot": "延暦寺"
+    "mainSpot": "延暦寺",
+    "featured_stay": {
+      "name": "延暦寺会館",
+      "catchcopy": "世界遺産・比叡山延暦寺境内で唯一の宿坊。精進料理と朝のお勤めで心を整える",
+      "hasShuttle": false,
+      "accessStation": "坂本ケーブル 延暦寺駅から徒歩約10分",
+      "jalanUrl": "https://www.jalan.net/yad395948/"
+    }
   },
   {
     "id": "biwako-valley",
@@ -177499,7 +179117,14 @@
       "url": "https://commons.wikimedia.org/wiki/File:Highland_Hotel_Sansou.jpg",
       "attributionRequired": true
     },
-    "mainSpot": "田沢湖高原温泉"
+    "mainSpot": "田沢湖高原温泉",
+    "featured_stay": {
+      "name": "乳頭温泉郷 鶴の湯温泉",
+      "catchcopy": "江戸時代開湯、乳白色の露天風呂が名高い乳頭温泉郷最古の秘湯の一軒宿",
+      "hasShuttle": true,
+      "accessStation": "JR田沢湖駅",
+      "shuttleInfo": "路線バス終点「アルパこまくさ」バス停まで送迎あり（要事前連絡）"
+    }
   },
   {
     "id": "fukushima-aizu-2",
@@ -177698,7 +179323,15 @@
       "url": "https://commons.wikimedia.org/wiki/File%3AIyahiko-jinja_1.JPG",
       "attributionRequired": true
     },
-    "mainSpot": "弥彦神社"
+    "mainSpot": "弥彦神社",
+    "featured_stay": {
+      "name": "岩室温泉 高志の宿 高島屋",
+      "catchcopy": "築260年の庄屋屋敷に泊まれる料亭。国登録有形文化財で味わう新潟の美食",
+      "hasShuttle": true,
+      "accessStation": "JR越後線・岩室駅",
+      "jalanUrl": "https://www.jalan.net/yad314098/",
+      "shuttleInfo": "JR岩室駅・弥彦駅から無料送迎あり（3日前までに要予約）"
+    }
   },
   {
     "id": "saga-yoshino",
@@ -177911,7 +179544,14 @@
       "url": "https://commons.wikimedia.org/wiki/File:Japan_Tottori_MitokuSan_Nageiredo_DSC01248.jpg",
       "attributionRequired": true
     },
-    "mainSpot": "三徳山三佛寺"
+    "mainSpot": "三徳山三佛寺",
+    "featured_stay": {
+      "name": "有形文化財の湯宿 旅館大橋",
+      "catchcopy": "ほぼ全館が国登録有形文化財、三朝の自噴泉かけ流しの名宿",
+      "hasShuttle": false,
+      "accessStation": "JR倉吉駅からバス約20分",
+      "jalanUrl": "https://www.jalan.net/yad345546/"
+    }
   },
   {
     "id": "miyagi-matsushima-2",
@@ -178489,7 +180129,14 @@
       "道後温泉"
     ],
     "bestSeason": "冬",
-    "mainSpot": "道後温泉本館"
+    "mainSpot": "道後温泉本館",
+    "featured_stay": {
+      "name": "道後温泉 ふなや",
+      "catchcopy": "創業390余年、漱石や子規も愛した道後一の老舗旅館",
+      "hasShuttle": false,
+      "accessStation": "道後温泉駅から徒歩3分",
+      "jalanUrl": "https://www.jalan.net/yad356524/"
+    }
   },
   {
     "id": "ryugado",
@@ -178824,6 +180471,12 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Pedestrian_road_with_pavements,_paper_umbrellas_and_people_in_yukata,_Higashiyama-ku,_Kyoto,_Japan.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "俵屋旅館",
+      "catchcopy": "創業三百年余、文人墨客に愛され続ける京都最古級の老舗旅館で過ごす静謐なひととき",
+      "hasShuttle": false,
+      "accessStation": "地下鉄東西線 京都市役所前駅から徒歩約7分"
     }
   },
   {
@@ -179573,6 +181226,12 @@
       "license": "CC BY 2.5",
       "url": "https://commons.wikimedia.org/wiki/File%3AKobe_Airport06s5s3200.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "神戸北野ホテル",
+      "catchcopy": "「世界一の朝食」で名高い異人館街のオーベルジュ。北野の優雅な洋館ステイ",
+      "hasShuttle": false,
+      "accessStation": "JR三ノ宮駅から徒歩約15分"
     }
   },
   {
@@ -180254,6 +181913,12 @@
       "license": "CC0",
       "url": "https://commons.wikimedia.org/wiki/File:Looking_down_Konya-zaka_with_sakura_blossoms,_Kanazawa,_2016.jpg",
       "attributionRequired": false
+    },
+    "featured_stay": {
+      "name": "料亭旅館 金城樓",
+      "catchcopy": "創業百三十余年、金沢を代表する料亭旅館。加賀料理と数寄屋の粋を全7室で",
+      "hasShuttle": false,
+      "accessStation": "JR金沢駅からバス「橋場町」下車"
     }
   },
   {
@@ -207011,6 +208676,12 @@
       "license": "CC BY-SA 2.0",
       "url": "https://commons.wikimedia.org/wiki/File%3AJR_Hokkaido_Rapid_Train%2C_Sapporo%2C_Hokkaido%2C_Japan%2C_JR%E5%BF%AB%E9%80%9F%E5%88%97%E8%BB%8A%2C_%E6%9C%AD%E5%B9%8C%2C_%E5%8C%97%E6%B5%B7%E9%81%93%2C_%E6%97%A5%E6%9C%AC%2C_JR%E5%BF%AB%E9%80%9F%E3%82%A8%E3%82%A2%E3%83%9D%E3%83%BC%E3%83%88%2C_%E3%81%95%E3%81%A3%E3%81%BD%E3%82%8D%E3%81%97%2C_%E3%81%BB%E3%81%A3%E3%81%8B%E3%81%84%E3%81%A9%E3%81%86%2C_%E3%81%AB%E3%81%A3%E3%81%BD%E3%82%93%2C_%E3%81%AB%E3%81%BB%E3%82%93_(16765610585).jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "ONSEN RYOKAN 由縁 札幌",
+      "catchcopy": "すすきの至近で登別カルルスの湯に浸かれる、都心の温泉旅館という新体験。",
+      "hasShuttle": false,
+      "accessStation": "地下鉄すすきの駅（徒歩圏）"
     }
   },
   {
@@ -207234,6 +208905,12 @@
       "license": "CC BY 3.0",
       "url": "https://commons.wikimedia.org/wiki/File:%E9%9D%92%E6%A3%AE%E3%83%99%E3%82%A4%E3%83%96%E3%83%AA%E3%83%83%E3%82%B8%E3%81%8B%E3%82%89%E3%81%AE%E9%A2%A8%E6%99%AF_-_panoramio_(1).jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "浅虫温泉 南部屋・海扇閣",
+      "catchcopy": "青森の奥座敷・浅虫温泉。最上階の展望浴場と津軽三味線の生演奏が名物",
+      "hasShuttle": false,
+      "accessStation": "青い森鉄道浅虫温泉駅"
     }
   },
   {
@@ -207849,6 +209526,13 @@
       "license": "CC BY-SA 3.0",
       "url": "https://commons.wikimedia.org/wiki/File%3AFukushima-Airport.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "高湯温泉 旅館玉子湯",
+      "catchcopy": "明治元年創業、茅葺の湯小屋に乳白色の硫黄泉が湧く高湯温泉の老舗湯宿",
+      "hasShuttle": true,
+      "accessStation": "JR福島駅",
+      "shuttleInfo": "福島駅西口から送迎バスあり（前日までに要予約）"
     }
   },
   {
@@ -208057,6 +209741,14 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Traditional_hour_bell_tower_in_Kofu.Nov._2016.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "信玄の湯 湯村温泉 常磐ホテル",
+      "catchcopy": "昭和4年創業、皇室ゆかりの甲府の迎賓館。三千坪の日本庭園と信玄の隠し湯を継ぐ",
+      "hasShuttle": true,
+      "accessStation": "JR甲府駅からバス約15分",
+      "jalanUrl": "https://www.jalan.net/yad311280/",
+      "shuttleInfo": "無料送迎バスあり（要事前連絡）"
     }
   },
   {
@@ -208479,6 +210171,13 @@
       "license": "CC BY 2.5",
       "url": "https://commons.wikimedia.org/wiki/File:140720_Ruriko-ji_Yamaguchi_Yamaguchi_pref_Japan04s3.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "やまぐち・湯田温泉 古稀庵",
+      "catchcopy": "全室源泉かけ流しの露天風呂付き、山里の隠れ家のような名宿",
+      "hasShuttle": false,
+      "accessStation": "JR湯田温泉駅から徒歩10分",
+      "jalanUrl": "https://www.jalan.net/yad372199/"
     }
   },
   {
@@ -208690,6 +210389,13 @@
       "license": "CC BY 3.0",
       "url": "https://commons.wikimedia.org/wiki/File:%E9%AB%98%E7%9F%A5%E9%BE%8D%E9%A6%AC%E7%A9%BA%E6%B8%AF%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB_-_panoramio.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "城西館",
+      "catchcopy": "創業150年、屋上露天から高知城を望む土佐随一の老舗宿",
+      "hasShuttle": false,
+      "accessStation": "とさでん「上町一丁目」電停",
+      "jalanUrl": "https://www.jalan.net/yad314784/"
     }
   },
   {
@@ -208900,6 +210606,13 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Cityscape_around_Saga_Castle_western_moat_and_gate.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "旅館あけぼの",
+      "catchcopy": "創業明治22年、画家・青木繁ら文人に愛された佐賀の老舗料亭旅館",
+      "hasShuttle": false,
+      "accessStation": "JR佐賀駅（車5分）",
+      "jalanUrl": "https://www.jalan.net/yad346524/"
     }
   },
   {
@@ -209324,6 +211037,13 @@
       "license": "Public domain",
       "url": "https://commons.wikimedia.org/wiki/File:Miyazaki_Airport_Feb_2008.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "天然温泉たまゆらの湯 宮崎観光ホテル",
+      "catchcopy": "1954年創業、大淀川畔に建つ宮崎随一の老舗。温泉と郷土朝食",
+      "hasShuttle": false,
+      "accessStation": "JR宮崎駅（車5分）",
+      "jalanUrl": "https://www.jalan.net/yad300515/"
     }
   },
   {
@@ -209878,6 +211598,12 @@
       "license": "CC BY 3.0",
       "url": "https://commons.wikimedia.org/wiki/File:%E8%B6%B3%E5%8A%A9%E5%85%AB%E5%B9%A1%E5%AE%AE_(%E6%84%9B%E7%9F%A5%E7%9C%8C%E8%B1%8A%E7%94%B0%E5%B8%82%E8%B6%B3%E5%8A%A9%E7%94%BA)_-_panoramio_(1).jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "ホテル百年草",
+      "catchcopy": "香嵐渓近く足助川畔に建つ全10室の宿。自家製ハム工房とベーカリーが名物",
+      "hasShuttle": false,
+      "accessStation": "名鉄豊田市駅からバス「百年草」下車"
     }
   },
   {
@@ -210229,6 +211955,12 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E6%9D%A3%E5%85%AC%E5%9C%92%E7%A5%AD%E3%81%AE%E6%A7%98%E5%AD%90%EF%BC%88%E7%A6%8F%E5%B2%A1%E7%9C%8C%E5%85%AB%E5%A5%B3%E5%B8%82%EF%BC%89.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "NIPPONIA HOTEL 八女福島 商家町",
+      "catchcopy": "伝建地区の茶商屋敷を改修した分散型ホテル。玉露の里に泊まる",
+      "hasShuttle": false,
+      "accessStation": "JR羽犬塚駅（バス約20分）"
     }
   },
   {
@@ -210601,6 +212333,12 @@
       "license": "CC BY 3.0",
       "url": "https://commons.wikimedia.org/wiki/File%3AMichinoeki_Sekijuku01.JPG",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "旅人宿 石垣屋",
+      "catchcopy": "東海道関宿の町並みに残る築130年の古民家宿。旅人が集う囲炉裏の土間",
+      "hasShuttle": false,
+      "accessStation": "JR関駅"
     }
   },
   {
@@ -210889,14 +212627,7 @@
       "jalanUrl": "https://www.jalan.net/yad349715/",
       "hasShuttle": true,
       "shuttleInfo": "峠駅から送迎車あり（宿泊者のみ・要予約・約30分）",
-      "accessStation": "峠駅（営業は例年4月下旬〜11月上旬）",
-      "image": "/images/stays/ubayu-onsen.jpg",
-      "imageCredit": {
-        "author": "Soica2001 (talk)",
-        "license": "Public domain",
-        "url": "https://commons.wikimedia.org/wiki/File:Ubayu%20roten.jpg",
-        "attributionRequired": false
-      }
+      "accessStation": "峠駅（営業は例年4月下旬〜11月上旬）"
     },
     "hotelKeyword": "姥湯温泉",
     "access": {

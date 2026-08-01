@@ -1,0 +1,316 @@
+[
+ {
+  "id": "akita-nyuto",
+  "name": "乳頭温泉郷 鶴の湯温泉",
+  "catchcopy": "江戸時代開湯、乳白色の露天風呂が名高い乳頭温泉郷最古の秘湯の一軒宿",
+  "hasShuttle": true,
+  "shuttleInfo": "路線バス終点「アルパこまくさ」バス停まで送迎あり（要事前連絡）",
+  "accessStation": "JR田沢湖駅",
+  "imageQuery": "Tsurunoyu Onsen"
+ },
+ {
+  "id": "tazawako",
+  "name": "乳頭温泉郷 妙乃湯",
+  "catchcopy": "渓流沿いに金の湯・銀の湯を湛える、乳頭温泉郷の洗練された人気湯宿",
+  "hasShuttle": false,
+  "accessStation": "JR田沢湖駅",
+  "imageQuery": "Nyuto Onsen"
+ },
+ {
+  "id": "oga",
+  "name": "男鹿温泉 元湯雄山閣",
+  "catchcopy": "なまはげの口から源泉が噴き出す名物露天。男鹿温泉郷の秘湯を守る会の宿",
+  "jalanUrl": "https://www.jalan.net/yad318288/",
+  "hasShuttle": true,
+  "shuttleInfo": "JR男鹿駅から無料送迎あり（2日前までに要予約）",
+  "accessStation": "JR男鹿駅",
+  "imageQuery": "Oga Onsen"
+ },
+ {
+  "id": "towada-lake",
+  "name": "十和田ホテル",
+  "catchcopy": "昭和14年築の秋田杉の本館は国登録有形文化財。十和田湖畔の名門クラシックホテル",
+  "jalanUrl": "https://www.jalan.net/yad313740/",
+  "hasShuttle": true,
+  "shuttleInfo": "十和田湖（休屋）バス停から送迎あり",
+  "accessStation": "JRバス十和田湖バス停",
+  "imageQuery": "Towada Hotel"
+ },
+ {
+  "id": "towada",
+  "name": "星野リゾート 奥入瀬渓流ホテル",
+  "catchcopy": "奥入瀬渓流沿いに佇むリゾートホテル。渓流テラスと苔さんぽで自然に浸る滞在",
+  "hasShuttle": false,
+  "accessStation": "JR八戸駅",
+  "imageQuery": "Oirase Gorge"
+ },
+ {
+  "id": "ouchi-juku",
+  "name": "蔵の民宿 本家扇屋",
+  "catchcopy": "茅葺の宿場・大内宿に泊まる。囲炉裏端で味わう会津の郷土料理と蔵座敷の民宿",
+  "jalanUrl": "https://www.jalan.net/yad379416/",
+  "hasShuttle": false,
+  "accessStation": "会津鉄道湯野上温泉駅",
+  "imageQuery": "Ouchi-juku"
+ },
+ {
+  "id": "hakkoda",
+  "name": "酸ヶ湯温泉旅館",
+  "catchcopy": "総ヒバ造り千人風呂で名高い、三百年余の歴史を刻む八甲田山中の一軒宿",
+  "hasShuttle": true,
+  "shuttleInfo": "新青森駅から宿泊者専用無料送迎バスあり（前日までに要予約）",
+  "accessStation": "JR新青森駅",
+  "imageQuery": "Sukayu Onsen"
+ },
+ {
+  "id": "kesennuma",
+  "name": "気仙沼プラザホテル",
+  "catchcopy": "気仙沼湾を一望する高台の温泉宿。港直送の海の幸会席が高評価の料理自慢",
+  "jalanUrl": "https://www.jalan.net/yad338076/",
+  "hasShuttle": true,
+  "shuttleInfo": "送迎あり（2名以上・事前予約制）",
+  "accessStation": "JR気仙沼駅",
+  "imageQuery": "Kesennuma Bay"
+ },
+ {
+  "id": "shonai",
+  "name": "湯田川温泉 九兵衛旅館",
+  "catchcopy": "開湯千三百年の湯田川温泉で源泉かけ流しと手づくり料理を味わう人気湯宿",
+  "jalanUrl": "https://www.jalan.net/yad338460/",
+  "hasShuttle": true,
+  "shuttleInfo": "鶴岡駅から無料送迎あり（要予約）",
+  "accessStation": "JR鶴岡駅",
+  "imageQuery": "Yudagawa Onsen"
+ },
+ {
+  "id": "sakata",
+  "name": "時を奏でる宿 若葉旅館",
+  "catchcopy": "山居倉庫へ徒歩圏、昭和27年創業。庄内の恵みを味わう酒田の街なか老舗旅館",
+  "jalanUrl": "https://www.jalan.net/yad348198/",
+  "hasShuttle": false,
+  "accessStation": "JR酒田駅",
+  "imageQuery": "Sankyo Warehouse Sakata"
+ },
+ {
+  "id": "hirosaki",
+  "name": "石場旅館",
+  "catchcopy": "明治12年築、弘前に現存最古の旅館建築。国登録有形文化財に泊まる城下町の宿",
+  "hasShuttle": false,
+  "accessStation": "JR弘前駅",
+  "imageQuery": "Ishiba Ryokan Hirosaki"
+ },
+ {
+  "id": "shimokita",
+  "name": "下風呂温泉 まるほん旅館",
+  "catchcopy": "本州最北の温泉郷・下風呂で百三十余年。イカ料理と硫黄泉が自慢の湯宿",
+  "hasShuttle": false,
+  "accessStation": "JR下北駅",
+  "imageQuery": "Shimofuro Onsen"
+ },
+ {
+  "id": "osorezan",
+  "name": "恐山 宿坊 吉祥閣",
+  "catchcopy": "霊場恐山の境内に泊まる宿坊。精進料理と境内の硫黄泉で心身を清める一夜",
+  "hasShuttle": false,
+  "accessStation": "JR下北駅",
+  "imageQuery": "Osorezan Bodaiji"
+ },
+ {
+  "id": "fukaura",
+  "name": "黄金崎不老ふ死温泉",
+  "catchcopy": "日本海の波打ち際に湧く黄金色の露天風呂。夕陽の絶景で名高い深浦の一軒宿",
+  "jalanUrl": "https://www.jalan.net/yad323694/",
+  "hasShuttle": true,
+  "shuttleInfo": "ウェスパ椿山駅から送迎バスあり（要予約）",
+  "accessStation": "JRウェスパ椿山駅",
+  "imageQuery": "Koganezaki Furofushi Onsen"
+ },
+ {
+  "id": "hachimantai",
+  "name": "藤七温泉 彩雲荘",
+  "catchcopy": "標高1400m、東北最高所の秘湯。雲海とご来光を望む野趣あふれる露天風呂群",
+  "jalanUrl": "https://www.jalan.net/yad316900/",
+  "hasShuttle": false,
+  "accessStation": "JR盛岡駅からバス",
+  "imageQuery": "Toshichi Onsen"
+ },
+ {
+  "id": "hanamaki",
+  "name": "大沢温泉 湯治屋",
+  "catchcopy": "宮沢賢治も通った二百年の湯治宿。豊沢川を望む名物混浴露天「大沢の湯」",
+  "hasShuttle": true,
+  "shuttleInfo": "新花巻駅・花巻駅から無料送迎バスあり（前日までに要予約）",
+  "accessStation": "JR花巻駅",
+  "imageQuery": "Osawa Onsen Hanamaki"
+ },
+ {
+  "id": "aizu-2",
+  "name": "会津東山温泉 向瀧",
+  "catchcopy": "国登録有形文化財第一号。会津藩ゆかりの木造建築と源泉かけ流しの名宿",
+  "hasShuttle": false,
+  "accessStation": "JR会津若松駅から周遊バス",
+  "imageQuery": "Mukaitaki"
+ },
+ {
+  "id": "shiraoishi",
+  "name": "鎌先温泉 時音の宿 湯主一條",
+  "catchcopy": "創業六百年、木造本館は登録有形文化財。個室料亭で味わう会席が評判の名宿",
+  "hasShuttle": true,
+  "shuttleInfo": "白石蔵王駅・白石駅から無料送迎あり（3日前までに要予約）",
+  "accessStation": "JR白石蔵王駅",
+  "imageQuery": "Kamasaki Onsen"
+ },
+ {
+  "id": "minami-sanriku",
+  "name": "南三陸ホテル観洋",
+  "catchcopy": "志津川湾を望む絶景露天と鮑・蛸の海鮮会席。南三陸を代表する大型温泉宿",
+  "hasShuttle": true,
+  "shuttleInfo": "仙台駅東口から宿泊者専用無料送迎バスあり（前日15時までに要予約）",
+  "accessStation": "BRT志津川駅",
+  "imageQuery": "Shizugawa Bay Minamisanriku"
+ },
+ {
+  "id": "kamaishi",
+  "name": "浜べの料理宿 宝来館",
+  "catchcopy": "根浜海岸の浜べに建つ料理宿。三陸大槌湾の幸と女将のもてなしに出会う一軒",
+  "jalanUrl": "https://www.jalan.net/yad342462/",
+  "hasShuttle": true,
+  "shuttleInfo": "釜石駅・鵜住居駅から無料送迎あり（要予約）",
+  "accessStation": "三陸鉄道鵜住居駅",
+  "imageQuery": "Nebama Beach Kamaishi"
+ },
+ {
+  "id": "fukushima",
+  "name": "高湯温泉 旅館玉子湯",
+  "catchcopy": "明治元年創業、茅葺の湯小屋に乳白色の硫黄泉が湧く高湯温泉の老舗湯宿",
+  "hasShuttle": true,
+  "shuttleInfo": "福島駅西口から送迎バスあり（前日までに要予約）",
+  "accessStation": "JR福島駅",
+  "imageQuery": "Takayu Onsen"
+ },
+ {
+  "id": "urabandai",
+  "name": "裏磐梯高原ホテル",
+  "catchcopy": "磐梯山と弥六沼を一望する高原リゾート。五色沼散策の拠点となる名ホテル",
+  "jalanUrl": "https://www.jalan.net/yad324277/",
+  "hasShuttle": true,
+  "shuttleInfo": "猪苗代駅から無料送迎バスあり（前日までに要予約）",
+  "accessStation": "JR猪苗代駅",
+  "imageQuery": "Goshikinuma"
+ },
+ {
+  "id": "yonezawa",
+  "name": "白布温泉 湯滝の宿 西屋",
+  "catchcopy": "鎌倉時代開湯の白布温泉に唯一残る茅葺の老舗。名物の湯滝風呂が圧巻",
+  "jalanUrl": "https://www.jalan.net/yad303948/",
+  "hasShuttle": true,
+  "shuttleInfo": "米沢駅から送迎バスあり（要予約）",
+  "accessStation": "JR米沢駅",
+  "imageQuery": "Shirabu Onsen"
+ },
+ {
+  "id": "dewa-sanzan",
+  "name": "羽黒山参籠所 斎館",
+  "catchcopy": "羽黒山中に残る元禄再建の参籠所。山伏ゆかりの精進料理と静寂の朝を体験",
+  "hasShuttle": false,
+  "accessStation": "JR鶴岡駅からバス",
+  "imageQuery": "Mount Haguro"
+ },
+ {
+  "id": "sanriku-miyako",
+  "name": "浄土ヶ浜パークホテル",
+  "catchcopy": "浄土ヶ浜を見下ろす高台に建ち、宮古湾の朝日と三陸の海の幸を堪能する宿",
+  "hasShuttle": true,
+  "shuttleInfo": "宮古駅から無料送迎バスあり（要事前連絡）",
+  "accessStation": "JR宮古駅",
+  "imageQuery": "Jodogahama"
+ },
+ {
+  "id": "sendai-2",
+  "name": "秋保温泉 伝承千年の宿 佐勘",
+  "catchcopy": "伊達政宗公の湯浴み御殿を守り続ける秋保温泉の名門。千年の歴史を誇る宿",
+  "hasShuttle": false,
+  "accessStation": "JR仙台駅からバス",
+  "imageQuery": "Akiu Onsen"
+ },
+ {
+  "id": "zuiganji",
+  "name": "松島温泉 松島一の坊",
+  "catchcopy": "松島湾を一望する水上庭園とオールインクルーシブ滞在が人気の絶景リゾート",
+  "hasShuttle": false,
+  "accessStation": "JR松島海岸駅",
+  "imageQuery": "Matsushima Bay"
+ },
+ {
+  "id": "zao-snow-monsters",
+  "name": "蔵王国際ホテル",
+  "catchcopy": "樹氷観光の拠点に便利な温泉ホテル。乳白色の硫黄泉を木の温もりの湯屋で",
+  "hasShuttle": false,
+  "accessStation": "JR山形駅からバス",
+  "imageQuery": "Zao snow monsters"
+ },
+ {
+  "id": "tendou",
+  "name": "天童温泉 ほほえみの宿 滝の湯",
+  "catchcopy": "将棋駒の里・天童温泉を代表する宿。山形の旬を映す出羽会席と庭園露天",
+  "hasShuttle": false,
+  "accessStation": "JR天童駅",
+  "imageQuery": "Tendo Onsen"
+ },
+ {
+  "id": "fukushima-iwaki",
+  "name": "スパリゾートハワイアンズ モノリスタワー",
+  "catchcopy": "フラガールの街いわき湯本、ハワイアンズ直結で温泉と常磐の幸を楽しむ宿",
+  "hasShuttle": false,
+  "accessStation": "JR湯本駅",
+  "imageQuery": "Spa Resort Hawaiians"
+ },
+ {
+  "id": "koriyama",
+  "name": "磐梯熱海温泉 四季彩一力",
+  "catchcopy": "磐梯熱海温泉で百余年、約八千坪の日本庭園を誇る老舗の名園旅館",
+  "hasShuttle": false,
+  "accessStation": "JR磐梯熱海駅",
+  "imageQuery": "Bandai Atami Onsen"
+ },
+ {
+  "id": "morioka",
+  "name": "つなぎ温泉 ホテル紫苑",
+  "catchcopy": "盛岡の奥座敷・つなぎ温泉。御所湖畔の眺望と岩造りの大露天風呂が自慢",
+  "hasShuttle": false,
+  "accessStation": "JR盛岡駅からバス",
+  "imageQuery": "Gosho Lake Morioka"
+ },
+ {
+  "id": "aomori",
+  "name": "浅虫温泉 南部屋・海扇閣",
+  "catchcopy": "青森の奥座敷・浅虫温泉。最上階の展望浴場と津軽三味線の生演奏が名物",
+  "hasShuttle": false,
+  "accessStation": "青い森鉄道浅虫温泉駅",
+  "imageQuery": "Asamushi Onsen"
+ },
+ {
+  "id": "akita-semboku",
+  "name": "角館山荘 侘桜",
+  "catchcopy": "武家屋敷の里・角館の山あいに建つ茅葺の隠れ宿。全室源泉かけ流し露天付き",
+  "hasShuttle": false,
+  "accessStation": "JR角館駅から車約15分",
+  "imageQuery": "Kakunodate samurai district"
+ },
+ {
+  "id": "okitama",
+  "name": "赤湯温泉 山形座 瀧波",
+  "catchcopy": "開湯九百年の赤湯温泉。蔵座敷の意匠とカウンター割烹が光る再生の名宿",
+  "hasShuttle": false,
+  "accessStation": "JR赤湯駅",
+  "imageQuery": "Akayu Onsen"
+ },
+ {
+  "id": "hirakawa",
+  "name": "南田温泉 ホテルアップルランド",
+  "catchcopy": "名物りんご風呂で知られる津軽の温泉ホテル。津軽富士・岩木山を望む湯処",
+  "hasShuttle": false,
+  "accessStation": "弘南鉄道平賀駅",
+  "imageQuery": "Mount Iwaki"
+ }
+]

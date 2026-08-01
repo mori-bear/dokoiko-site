@@ -1,0 +1,21 @@
+[
+  {"id":"shirakawago-t","name":"御宿 結の庄","catchcopy":"世界遺産・白川郷の集落入口に佇む飛騨の湯宿。合掌造りの郷愁と温泉に浸る","jalanUrl":"https://www.jalan.net/yad303212/","hasShuttle":true,"shuttleInfo":"白川郷バスターミナルから無料シャトルバスあり（定時運行）","accessStation":"白川郷バスターミナル","imageQuery":"Shirakawa-go gassho"},
+  {"id":"inuyama","name":"灯屋 迎帆楼","catchcopy":"国宝犬山城を仰ぐ木曽川畔、大正八年創業・全10室半露天風呂付きの老舗宿","jalanUrl":"https://www.jalan.net/yad391528/","hasShuttle":true,"shuttleInfo":"名鉄犬山駅から送迎あり（要連絡）","accessStation":"名鉄犬山駅","imageQuery":"Inuyama Castle"},
+  {"id":"magome","name":"旅人御宿 但馬屋","catchcopy":"馬籠宿の石畳に建つ築百余年の旅人御宿。囲炉裏端と山里の恵みの膳が迎える","hasShuttle":false,"accessStation":"JR中津川駅からバス「馬籠」下車","imageQuery":"Magome-juku"},
+  {"id":"kumano","name":"里創人 熊野倶楽部","catchcopy":"世界遺産熊野の山里に広がる全室スイートの隠れ里。美食オールインクルーシブ","jalanUrl":"https://www.jalan.net/yad398080/","hasShuttle":false,"accessStation":"JR熊野市駅","imageQuery":"Onigajo Kumano"},
+  {"id":"izu-kogen","name":"八幡野温泉郷 杜の湯 きらの里","catchcopy":"雑木林の里山に離れと湯処が点在。囲炉裏の風情と温泉三昧のくつろぎ宿","hasShuttle":false,"accessStation":"伊豆急行伊豆高原駅","imageQuery":"Mount Omuro Izu"},
+  {"id":"minami-izu","name":"南伊豆弓ヶ浜温泉 季一遊","catchcopy":"日本の渚百選・弓ヶ浜を望む湯宿。3種の露天と予約不要の貸切風呂が自慢","jalanUrl":"https://www.jalan.net/yad302330/","hasShuttle":true,"shuttleInfo":"伊豆急下田駅から無料送迎バスあり（約20分）","accessStation":"伊豆急下田駅","imageQuery":"Yumigahama Minamiizu"},
+  {"id":"ito","name":"伊東温泉 陽気館","catchcopy":"明治43年創業、専用登山電車で向かう天空の大露天と源泉かけ流しの老舗宿","jalanUrl":"https://www.jalan.net/yad346764/","hasShuttle":true,"shuttleInfo":"伊東駅から送迎あり（宿泊者対象）","accessStation":"JR伊東駅","imageQuery":"Tokaikan Ito"},
+  {"id":"gujo-hachiman","name":"料理旅館 備前屋","catchcopy":"水の町・郡上八幡に現存最古、250年余の歴史を刻む料理旅館。庭園も見事","jalanUrl":"https://www.jalan.net/yad336285/","hasShuttle":false,"accessStation":"長良川鉄道郡上八幡駅","imageQuery":"Gujo Hachiman Castle"},
+  {"id":"shima","name":"汀渚 ばさら邸","catchcopy":"英虞湾を見渡す五千坪に全20室露天風呂付き。和モダンの大人の隠れ家","jalanUrl":"https://www.jalan.net/yad361058/","hasShuttle":true,"shuttleInfo":"賢島駅から無料送迎あり（到着後電話・約5分）","accessStation":"近鉄賢島駅","imageQuery":"Ago Bay"},
+  {"id":"matsusaka","name":"鯛屋旅館","catchcopy":"旧参宮街道の旅籠の風情を残す創業220年の老舗。名物松阪肉すき焼きも","jalanUrl":"https://www.jalan.net/yad317487/","hasShuttle":false,"accessStation":"JR・近鉄松阪駅","imageQuery":"Matsusaka Castle"},
+  {"id":"hamanako","name":"山水館欣龍","catchcopy":"舘山寺温泉最古の歴史を誇る湖畔の宿。全室から浜名湖を一望する寛ぎの眺め","hasShuttle":false,"accessStation":"JR浜松駅から遠鉄バス「舘山寺温泉」下車","imageQuery":"Lake Hamana Kanzanji"},
+  {"id":"gamagori","name":"蒲郡クラシックホテル","catchcopy":"昭和9年創業、三河湾を望む高台の名建築。日本を代表するクラシックホテル","hasShuttle":false,"accessStation":"JR蒲郡駅","imageQuery":"Gamagori Classic Hotel"},
+  {"id":"sumatakyo","name":"寸又峡温泉 翠紅苑","catchcopy":"夢の吊り橋の麓、寸又峡最古の湯宿。美女づくりの湯とレトロな空間に浸る","jalanUrl":"https://www.jalan.net/yad311718/","hasShuttle":false,"accessStation":"大井川鐵道千頭駅からバス「寸又峡温泉」下車","imageQuery":"Sumatakyo"},
+  {"id":"nishi-izu","name":"堂ヶ島温泉 堂ヶ島ニュー銀水","catchcopy":"日本の夕陽百選・堂ヶ島の海に沈む夕日を全室オーシャンビューで味わう宿","hasShuttle":false,"accessStation":"伊豆急下田駅からバス「堂ヶ島」下車","imageQuery":"Dogashima"},
+  {"id":"takayama-2","name":"本陣平野屋 花兆庵","catchcopy":"古い町並みまで徒歩1分、飛騨高山の中心に佇む上質なおもてなしの老舗宿","jalanUrl":"https://www.jalan.net/yad330857/","hasShuttle":true,"shuttleInfo":"高山駅から無料送迎あり（随時・要連絡）","accessStation":"JR高山駅","imageQuery":"Takayama Sanmachi"},
+  {"id":"iseshima","name":"麻吉旅館","catchcopy":"東海道中膝栗毛にも登場、懸崖造りの木造楼閣が圧巻の創業200年超の宿","hasShuttle":false,"accessStation":"近鉄宇治山田駅","imageQuery":"Ise Grand Shrine"},
+  {"id":"himakajima","name":"ホテル 日間賀荘","catchcopy":"タコとフグの島・日間賀島で新鮮魚介を堪能する海辺の宿。東港から徒歩5分","jalanUrl":"https://www.jalan.net/yad347600/","hasShuttle":true,"shuttleInfo":"日間賀島西港から送迎可（東港からは徒歩5分）","accessStation":"師崎港から高速船で日間賀島東港","imageQuery":"Himakajima"},
+  {"id":"asuke","name":"ホテル百年草","catchcopy":"香嵐渓近く足助川畔に建つ全10室の宿。自家製ハム工房とベーカリーが名物","hasShuttle":false,"accessStation":"名鉄豊田市駅からバス「百年草」下車","imageQuery":"Korankei"},
+  {"id":"seki-juku","name":"旅人宿 石垣屋","catchcopy":"東海道関宿の町並みに残る築130年の古民家宿。旅人が集う囲炉裏の土間","hasShuttle":false,"accessStation":"JR関駅","imageQuery":"Sekijuku Kameyama"}
+]

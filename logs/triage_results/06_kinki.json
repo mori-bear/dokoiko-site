@@ -1,0 +1,276 @@
+[
+ {
+  "id": "kyoto",
+  "name": "俵屋旅館",
+  "catchcopy": "創業三百年余、文人墨客に愛され続ける京都最古級の老舗旅館で過ごす静謐なひととき",
+  "hasShuttle": false,
+  "accessStation": "地下鉄東西線 京都市役所前駅から徒歩約7分"
+ },
+ {
+  "id": "arashiyama",
+  "name": "星のや京都",
+  "catchcopy": "渡月橋から専用の舟で川を遡り辿り着く、全室リバービューの水辺の隠れ家リゾート",
+  "hasShuttle": true,
+  "shuttleInfo": "渡月橋南詰の舟待合から専用舟で送迎（事前予約制）",
+  "accessStation": "嵐電嵐山駅（渡月橋南詰の舟待合へ）"
+ },
+ {
+  "id": "arashiyama-2",
+  "name": "翠嵐ラグジュアリーコレクションホテル京都",
+  "catchcopy": "保津川のほとり、旧邸宅の面影を残すラグジュアリーホテルで味わう雅な嵐山時間",
+  "hasShuttle": false,
+  "accessStation": "嵐電嵐山駅から徒歩約6分"
+ },
+ {
+  "id": "ohara",
+  "name": "大原温泉湯元 お宿 芹生",
+  "catchcopy": "三千院門前に佇む湯元の宿。京野菜と山里の旬味、大原温泉に癒される里の休日",
+  "jalanUrl": "https://www.jalan.net/yad304000/",
+  "hasShuttle": true,
+  "shuttleInfo": "大原バスターミナルから送迎あり（要事前連絡）",
+  "accessStation": "京都バス「大原」バス停から徒歩約10分"
+ },
+ {
+  "id": "ohara-2",
+  "name": "大原温泉湯元 お宿 芹生",
+  "catchcopy": "紅葉の大原で味わう静寂。三千院まで徒歩すぐ、料理自慢の温泉宿で山里ステイ",
+  "jalanUrl": "https://www.jalan.net/yad304000/",
+  "hasShuttle": true,
+  "shuttleInfo": "大原バスターミナルから送迎あり（要事前連絡）",
+  "accessStation": "京都バス「大原」バス停から徒歩約10分"
+ },
+ {
+  "id": "kifune",
+  "name": "京都貴船 料理旅館ひろ文",
+  "catchcopy": "貴船川の清流に張り出す川床で名物流しそうめんと会席を味わう全3室の料理旅館",
+  "jalanUrl": "https://www.jalan.net/yad393332/",
+  "hasShuttle": true,
+  "shuttleInfo": "叡山電鉄貴船口駅から送迎あり（2名以上・要予約）",
+  "accessStation": "叡山電鉄 貴船口駅"
+ },
+ {
+  "id": "kibune-kurama",
+  "name": "京都貴船 料理旅館ひろ文",
+  "catchcopy": "貴船神社結社のすぐ隣、川のせせらぎに包まれて眠る貴船屈指の川床料理旅館",
+  "jalanUrl": "https://www.jalan.net/yad393332/",
+  "hasShuttle": true,
+  "shuttleInfo": "叡山電鉄貴船口駅から送迎あり（2名以上・要予約）",
+  "accessStation": "叡山電鉄 貴船口駅"
+ },
+ {
+  "id": "miyama",
+  "name": "かやぶきのお宿 またべ",
+  "catchcopy": "かやぶき屋根の下、囲炉裏を囲んで地鶏すき焼き。日本の原風景に泊まる農家民宿",
+  "hasShuttle": false,
+  "accessStation": "南丹市営バス「北」バス停から徒歩5分"
+ },
+ {
+  "id": "miyama-kayabuki",
+  "name": "かやぶきのお宿 またべ",
+  "catchcopy": "かやぶきの里の集落内に泊まれる希少な宿。囲炉裏端の夕餉と朝霧に包まれる里山",
+  "hasShuttle": false,
+  "accessStation": "南丹市営バス「北」バス停から徒歩5分"
+ },
+ {
+  "id": "tanba-sasayama",
+  "name": "篠山城下町ホテルNIPPONIA",
+  "catchcopy": "城下町の歴史的建築を再生した分散型ホテル。丹波の美食と町ごと泊まる体験",
+  "hasShuttle": true,
+  "shuttleInfo": "JR篠山口駅から無料送迎あり（要予約）",
+  "accessStation": "JR福知山線 篠山口駅"
+ },
+ {
+  "id": "omihachiman",
+  "name": "休暇村近江八幡",
+  "catchcopy": "琵琶湖国定公園の湖畔に立つリゾート。近江牛と湖の幸、湖水浴も楽しめる立地",
+  "jalanUrl": "https://www.jalan.net/yad346560/",
+  "hasShuttle": true,
+  "shuttleInfo": "JR近江八幡駅から送迎バス1日3便（前日までに要予約）",
+  "accessStation": "JR近江八幡駅"
+ },
+ {
+  "id": "otsu-shiga",
+  "name": "おごと温泉 湯元舘",
+  "catchcopy": "開湯千二百年のおごと温泉を代表する老舗。琵琶湖を望む多彩な湯めぐりが自慢",
+  "jalanUrl": "https://www.jalan.net/yad342458/",
+  "hasShuttle": true,
+  "shuttleInfo": "JRおごと温泉駅から送迎バスで約5分（要連絡）",
+  "accessStation": "JR湖西線 おごと温泉駅"
+ },
+ {
+  "id": "shiga-otsu",
+  "name": "延暦寺会館",
+  "catchcopy": "世界遺産・比叡山延暦寺境内で唯一の宿坊。精進料理と朝のお勤めで心を整える",
+  "jalanUrl": "https://www.jalan.net/yad395948/",
+  "hasShuttle": false,
+  "accessStation": "坂本ケーブル 延暦寺駅から徒歩約10分"
+ },
+ {
+  "id": "hikone",
+  "name": "彦根キャッスル リゾート＆スパ",
+  "catchcopy": "彦根城の目の前に立つ和モダンな城見ホテル。城下町散策の拠点に最適な一軒",
+  "hasShuttle": false,
+  "accessStation": "JR彦根駅から徒歩約10分"
+ },
+ {
+  "id": "hikone-2",
+  "name": "彦根キャッスル リゾート＆スパ",
+  "catchcopy": "天守を望む客室でお城時間を満喫。彦根散策に便利な城前の和モダンリゾート",
+  "hasShuttle": false,
+  "accessStation": "JR彦根駅から徒歩約10分"
+ },
+ {
+  "id": "yoshino",
+  "name": "竹林院群芳園",
+  "catchcopy": "西行や秀吉ゆかり、大和三庭園「群芳園」を有する吉野山の歴史ある宿坊旅館",
+  "jalanUrl": "https://www.jalan.net/yad325267/",
+  "hasShuttle": false,
+  "accessStation": "近鉄吉野線 吉野駅（ロープウェイ吉野山駅）"
+ },
+ {
+  "id": "tenkawa",
+  "name": "宿 花屋徳兵衛",
+  "catchcopy": "創業500年、洞川温泉最古の宿。行者の湯と提灯灯る温泉街の風情に浸る",
+  "jalanUrl": "https://www.jalan.net/yad343142/",
+  "hasShuttle": true,
+  "shuttleInfo": "洞川温泉バス停から送迎あり（要事前連絡）",
+  "accessStation": "近鉄下市口駅からバス「洞川温泉」バス停"
+ },
+ {
+  "id": "mt-yamato",
+  "name": "料理旅館 大正楼",
+  "catchcopy": "大神神社御用達、大正元年創業の料理旅館。三輪素麺と大和の滋味を味わう",
+  "hasShuttle": false,
+  "accessStation": "JR万葉まほろば線 三輪駅から徒歩3分"
+ },
+ {
+  "id": "horyuji",
+  "name": "門前宿 和空法隆寺",
+  "catchcopy": "法隆寺南大門まで徒歩すぐ。朝の静かな伽藍を独り占めできる参道の門前宿",
+  "jalanUrl": "https://www.jalan.net/yad387965/",
+  "hasShuttle": false,
+  "accessStation": "JR法隆寺駅からバス「法隆寺参道」下車すぐ"
+ },
+ {
+  "id": "nara-park",
+  "name": "奈良ホテル",
+  "catchcopy": "明治42年創業「関西の迎賓館」。鹿の遊ぶ奈良公園でクラシックホテルの気品を",
+  "hasShuttle": false,
+  "accessStation": "近鉄奈良駅から徒歩約15分"
+ },
+ {
+  "id": "shirahama-o",
+  "name": "浜千鳥の湯 海舟",
+  "catchcopy": "太平洋に溶け込む岬の湯宿。波音に包まれる混浴露天「浜千鳥の湯」が名物",
+  "hasShuttle": false,
+  "accessStation": "JR白浜駅から車約15分"
+ },
+ {
+  "id": "awaji",
+  "name": "ホテルニューアワジ",
+  "catchcopy": "淡路島を代表する海辺の温泉リゾート。紀淡海峡から昇る朝日と海を望む露天",
+  "jalanUrl": "https://www.jalan.net/yad322711/",
+  "hasShuttle": true,
+  "shuttleInfo": "洲本高速バスセンターから送迎バスあり（要事前連絡）",
+  "accessStation": "洲本高速バスセンター"
+ },
+ {
+  "id": "tanabe",
+  "name": "龍神温泉 上御殿",
+  "catchcopy": "紀州藩主のために建てられた登録有形文化財の宿。日本三美人の湯・龍神温泉",
+  "jalanUrl": "https://www.jalan.net/yad312103/",
+  "hasShuttle": false,
+  "accessStation": "JR紀伊田辺駅から龍神バス「龍神温泉」下車"
+ },
+ {
+  "id": "totsukawa",
+  "name": "十津川温泉 ホテル昴",
+  "catchcopy": "日本一広い村の源泉かけ流し100%の宿。谷瀬の吊り橋と秘境十津川の拠点に",
+  "jalanUrl": "https://www.jalan.net/yad305032/",
+  "hasShuttle": true,
+  "shuttleInfo": "十津川温泉バス停から送迎あり（要予約）",
+  "accessStation": "奈良交通バス「ホテル昴」バス停から徒歩1分"
+ },
+ {
+  "id": "nachikatsuura",
+  "name": "碧き島の宿 熊野別邸 中の島",
+  "catchcopy": "船でしか行けない紺碧の島の温泉宿。海と一体になる絶景の露天風呂が待つ",
+  "jalanUrl": "https://www.jalan.net/yad313265/",
+  "hasShuttle": true,
+  "shuttleInfo": "勝浦港の桟橋から無料の専用送迎船で約5分",
+  "accessStation": "JR紀伊勝浦駅から徒歩で勝浦港桟橋へ"
+ },
+ {
+  "id": "kumano-hongu",
+  "name": "旅館あづまや",
+  "catchcopy": "日本最古の湯・湯の峰温泉の江戸期創業老舗。マルローが愛した槙風呂の名宿",
+  "jalanUrl": "https://www.jalan.net/yad397532/",
+  "hasShuttle": false,
+  "accessStation": "龍神バス「湯の峰温泉」バス停すぐ"
+ },
+ {
+  "id": "kumano-kodo",
+  "name": "霧の郷たかはら",
+  "catchcopy": "標高320m、雲海を見下ろす「天空の宿」。熊野古道中辺路まで徒歩2分",
+  "jalanUrl": "https://www.jalan.net/yad366504/",
+  "hasShuttle": true,
+  "shuttleInfo": "栗栖川・滝尻バス停まで送迎あり（要事前申込）",
+  "accessStation": "JR紀伊田辺駅からバス「栗栖川」バス停"
+ },
+ {
+  "id": "ako",
+  "name": "赤穂温泉 絶景露天風呂の宿 銀波荘",
+  "catchcopy": "瀬戸内の海に浮かぶような絶景露天風呂。赤穂御崎で夕陽と海の幸会席を堪能",
+  "jalanUrl": "https://www.jalan.net/yad313364/",
+  "hasShuttle": true,
+  "shuttleInfo": "JR播州赤穂駅から無料送迎バスで約15分（前日までに要予約）",
+  "accessStation": "JR播州赤穂駅"
+ },
+ {
+  "id": "takeda-castle",
+  "name": "竹田城 城下町ホテルEN",
+  "catchcopy": "天空の城のふもと、築400年の旧酒造場に泊まる全13室の文化財ホテル",
+  "hasShuttle": false,
+  "accessStation": "JR播但線 竹田駅から徒歩約5分"
+ },
+ {
+  "id": "tango-kyoto",
+  "name": "間人温泉 炭平",
+  "catchcopy": "明治元年創業、幻の間人ガニを堪能する全室オーシャンビューの丹後の名宿",
+  "jalanUrl": "https://www.jalan.net/yad367146/",
+  "hasShuttle": true,
+  "shuttleInfo": "京都丹後鉄道網野駅から無料送迎約20分（要予約）",
+  "accessStation": "京都丹後鉄道 網野駅"
+ },
+ {
+  "id": "uji",
+  "name": "花やしき浮舟園",
+  "catchcopy": "平等院まで徒歩5分、全室から宇治川を望む老舗。旬の京料理と川霧の朝",
+  "jalanUrl": "https://www.jalan.net/yad304889/",
+  "hasShuttle": false,
+  "accessStation": "JR奈良線 宇治駅からタクシー約5分"
+ },
+ {
+  "id": "ikeda-osaka",
+  "name": "伏尾温泉 不死王閣",
+  "catchcopy": "大阪梅田から約30分の温泉郷・伏尾温泉。緑に囲まれた露天風呂の一軒宿",
+  "hasShuttle": true,
+  "shuttleInfo": "阪急池田駅から無料送迎バスあり（要予約）",
+  "accessStation": "阪急宝塚線 池田駅"
+ },
+ {
+  "id": "izumiotsu",
+  "name": "犬鳴山温泉 不動口館",
+  "catchcopy": "修験の霊場・犬鳴山の渓谷に湧く大阪の秘湯。四季の渓流美と露天風呂の宿",
+  "jalanUrl": "https://www.jalan.net/yad369355/",
+  "hasShuttle": false,
+  "accessStation": "南海泉佐野駅から南海バス「犬鳴山」行き約30分"
+ },
+ {
+  "id": "kobe",
+  "name": "神戸北野ホテル",
+  "catchcopy": "「世界一の朝食」で名高い異人館街のオーベルジュ。北野の優雅な洋館ステイ",
+  "hasShuttle": false,
+  "accessStation": "JR三ノ宮駅から徒歩約15分"
+ }
+]

@@ -1601,38 +1601,6 @@ const hubCity = _destHubCity && _destHubCity !== dest.name
 
     <hr class="section-divider" id="hotel" />
 
-    <!-- 注目の宿: 温泉・秘湯・老舗宿キュレーション（featured_stay） -->
-    {featuredStay && (
-      <div class="fs-card">
-        {featuredStay.image && (
-          <div class="fs-img-wrap">
-            <img class="fs-img" src={featuredStay.image}
-                 alt={`${dest.name}の宿 ${featuredStay.name}`} loading="lazy"
-                 onerror="this.parentElement.style.display='none'" />
-            {featuredStay.imageCredit?.attributionRequired && (
-              <p class="fs-credit">
-                Photo: <a href={featuredStay.imageCredit.url} target="_blank" rel="noopener noreferrer">{featuredStay.imageCredit.author}</a> / {featuredStay.imageCredit.license}
-              </p>
-            )}
-          </div>
-        )}
-        <div class="fs-body">
-          <p class="fs-eyebrow">注目の宿</p>
-          <h3 class="fs-name">{featuredStay.name}</h3>
-          <p class="fs-catch">{featuredStay.catchcopy}</p>
-          {featuredStay.hasShuttle && featuredStay.shuttleInfo && (
-            <p class="fs-shuttle">🚐 {featuredStay.shuttleInfo}</p>
-          )}
-          {!featuredStay.hasShuttle && featuredStay.accessStation && (
-            <p class="fs-access">📍 {featuredStay.accessStation}</p>
-          )}
-          <div class="fs-links">
-            <a href={fsRakutenUrl} target="_blank" rel="noopener noreferrer" class="fs-link fs-link-rakuten">楽天トラベルで見る</a>
-            <a href={fsJalanUrl} target="_blank" rel="noopener noreferrer" class="fs-link fs-link-jalan">じゃらんで見る</a>
-          </div>
-        </div>
-      </div>
-    )}
 
     <!-- 宿泊: 現地泊 / hub泊 / 県庁所在地fallback。離島系 (showDualHotel) はタブ表示 -->
     {showDualHotel ? (
@@ -1749,6 +1717,20 @@ const hubCity = _destHubCity && _destHubCity !== dest.name
             </div>
             <span class="hotel-card-arrow">→</span>
           </a>
+        </div>
+      </div>
+    )}
+
+    <!-- おすすめの宿: 実在・送迎確認済みキュレーション（featured_stay・検索リンクの下に表示） -->
+    {featuredStay && (
+      <div class="fs-card">
+        <div class="fs-body">
+          <p class="fs-eyebrow">おすすめの宿はこちら</p>
+          <h3 class="fs-name">{featuredStay.name}</h3>
+          <div class="fs-links">
+            <a href={fsRakutenUrl} target="_blank" rel="noopener noreferrer" class="fs-link fs-link-rakuten">楽天トラベルで見る</a>
+            <a href={fsJalanUrl} target="_blank" rel="noopener noreferrer" class="fs-link fs-link-jalan">じゃらんで見る</a>
+          </div>
         </div>
       </div>
     )}

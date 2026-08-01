@@ -1,0 +1,248 @@
+[
+ {
+  "id": "kawagoe",
+  "name": "松村屋旅館",
+  "catchcopy": "明治五年創業、蔵造りの町並みと時の鐘に徒歩圏の小江戸川越唯一の老舗旅館",
+  "jalanUrl": "https://www.jalan.net/yad327514/",
+  "hasShuttle": false,
+  "accessStation": "川越駅からバス約15分「市役所前」下車すぐ",
+  "imageQuery": "Kawagoe warehouse district"
+ },
+ {
+  "id": "nasu",
+  "name": "那須温泉 山楽",
+  "catchcopy": "那須御用邸ゆかりの森に佇む、大正十二年創業の源泉かけ流し老舗旅館",
+  "jalanUrl": "https://www.jalan.net/yad306188/",
+  "hasShuttle": true,
+  "shuttleInfo": "JR那須塩原駅から送迎バス約30分（要予約）",
+  "accessStation": "JR那須塩原駅",
+  "imageQuery": "Nasu Onsen"
+ },
+ {
+  "id": "ikaho",
+  "name": "伊香保温泉 千明仁泉亭",
+  "catchcopy": "文亀二年創業五百年、徳冨蘆花が愛した黄金の湯かけ流しの石段街の老舗",
+  "jalanUrl": "https://www.jalan.net/yad335384/",
+  "hasShuttle": false,
+  "accessStation": "JR渋川駅からバス約30分「伊香保温泉」下車徒歩約3分",
+  "imageQuery": "Ikaho Onsen stone steps"
+ },
+ {
+  "id": "chichibu",
+  "name": "和銅鉱泉 ゆの宿 和どう",
+  "catchcopy": "秩父七湯最古の和銅鉱泉「薬師の湯」を守る、露天風呂付客室自慢の湯宿",
+  "jalanUrl": "https://www.jalan.net/yad319829/",
+  "hasShuttle": true,
+  "shuttleInfo": "秩父鉄道 和銅黒谷駅から無料送迎あり",
+  "accessStation": "和銅黒谷駅／西武秩父駅からタクシー約15分",
+  "imageQuery": "Chichibu"
+ },
+ {
+  "id": "sawara",
+  "name": "佐原商家町ホテル NIPPONIA",
+  "catchcopy": "水郷佐原の歴史的商家を再生した分散型ホテル、町に溶け込むように泊まる",
+  "hasShuttle": false,
+  "accessStation": "JR佐原駅から徒歩約10分",
+  "imageQuery": "Sawara Katori historic district"
+ },
+ {
+  "id": "yugawara",
+  "name": "湯河原温泉 源泉 上野屋",
+  "catchcopy": "創業三百余年、国登録有形文化財の木造建築で自家源泉「傷の湯」に浸かる",
+  "jalanUrl": "https://www.jalan.net/yad345539/",
+  "hasShuttle": false,
+  "accessStation": "JR湯河原駅からバスで温泉街へ",
+  "imageQuery": "Yugawara Onsen"
+ },
+ {
+  "id": "hakone-2",
+  "name": "萬翠楼福住",
+  "catchcopy": "寛永二年創業、国指定重要文化財の宿で自家源泉「真綿の湯」に浸かる贅沢",
+  "jalanUrl": "https://www.jalan.net/yad329388/",
+  "hasShuttle": false,
+  "accessStation": "箱根登山鉄道 箱根湯本駅",
+  "imageQuery": "Bansuiro Fukuzumi Hakone"
+ },
+ {
+  "id": "nagatoro",
+  "name": "長瀞温泉 花のおもてなし 長生館",
+  "catchcopy": "大正元年創業、名勝・長瀞岩畳を望む庭園と荒川の眺望が自慢の老舗旅館",
+  "jalanUrl": "https://www.jalan.net/yad329295/",
+  "hasShuttle": false,
+  "accessStation": "秩父鉄道 長瀞駅から徒歩約3分",
+  "imageQuery": "Nagatoro Iwadatami"
+ },
+ {
+  "id": "hachijojima",
+  "name": "リードパークリゾート八丈島",
+  "catchcopy": "太平洋を見下ろす高台に建ち、八丈富士と星空を望む島随一のリゾートホテル",
+  "jalanUrl": "https://www.jalan.net/yad342149/",
+  "hasShuttle": true,
+  "shuttleInfo": "八丈島空港・港から送迎あり（前日までに要予約）",
+  "accessStation": "八丈島空港から車約8分",
+  "imageQuery": "Hachijojima"
+ },
+ {
+  "id": "oku-tama",
+  "name": "三河屋旅館",
+  "catchcopy": "創業約二百年、名湯「氷川郷麻葉の湯」と奥多摩の渓谷美に癒される老舗旅館",
+  "hasShuttle": false,
+  "accessStation": "JR青梅線 奥多摩駅",
+  "imageQuery": "Okutama Hikawa"
+ },
+ {
+  "id": "naritasan",
+  "name": "成田山門前 旅館 若松本店",
+  "catchcopy": "明和五年創業二百五十余年、成田山新勝寺門前で名物うなぎと共に泊まる老舗",
+  "jalanUrl": "https://www.jalan.net/yad339445/",
+  "hasShuttle": false,
+  "accessStation": "京成成田駅から徒歩約15分",
+  "imageQuery": "Naritasan Shinshoji Omotesando"
+ },
+ {
+  "id": "minakami-onsen",
+  "name": "谷川温泉 別邸 仙寿庵",
+  "catchcopy": "谷川岳山麓の清流際に建つ全室露天風呂付きの宿で、四季の渓谷美に浸る",
+  "jalanUrl": "https://www.jalan.net/yad304222/",
+  "hasShuttle": false,
+  "accessStation": "JR水上駅から車約8分",
+  "imageQuery": "Tanigawadake"
+ },
+ {
+  "id": "ashinoko",
+  "name": "小田急 山のホテル",
+  "catchcopy": "芦ノ湖畔に建つ1948年創業のクラシックリゾート、五月のツツジ庭園が圧巻",
+  "hasShuttle": true,
+  "shuttleInfo": "元箱根港から無料送迎バス約5分（毎時10・30・50分発）",
+  "accessStation": "箱根湯本駅からバス約40分「元箱根港」下車",
+  "imageQuery": "Lake Ashi Hakone"
+ },
+ {
+  "id": "oarai",
+  "name": "里海邸 -金波楼本邸-",
+  "catchcopy": "大洗磯前神社の杜のそば、波打ち際に建つ全八室の静謐な海辺の別邸",
+  "jalanUrl": "https://www.jalan.net/yad325639/",
+  "hasShuttle": false,
+  "accessStation": "鹿島臨海鉄道 大洗駅",
+  "imageQuery": "Oarai Isosaki Shrine torii"
+ },
+ {
+  "id": "boso-hills",
+  "name": "養老温泉 秘湯の宿 滝見苑",
+  "catchcopy": "房総一の名瀑・粟又の滝のほとり、渓谷の四季に抱かれる秘湯の一軒宿",
+  "jalanUrl": "https://www.jalan.net/yad326505/",
+  "hasShuttle": true,
+  "shuttleInfo": "養老渓谷駅方面から無料送迎あり（要予約）",
+  "accessStation": "小湊鉄道 養老渓谷駅からバス約20分",
+  "imageQuery": "Awamata Falls"
+ },
+ {
+  "id": "kamogawa",
+  "name": "鴨川館",
+  "catchcopy": "松林に囲まれた数寄屋造りの宿で、南房総の海の幸と潮騒の湯を堪能する",
+  "jalanUrl": "https://www.jalan.net/yad313560/",
+  "hasShuttle": true,
+  "shuttleInfo": "JR安房鴨川駅から送迎バス約7分（要予約）",
+  "accessStation": "JR安房鴨川駅",
+  "imageQuery": "Kamogawa Chiba coast"
+ },
+ {
+  "id": "chichijima",
+  "name": "ホテルホライズン",
+  "catchcopy": "扇浦海岸の白砂ビーチを目の前に望む、父島随一の本格リゾートホテル",
+  "hasShuttle": false,
+  "accessStation": "父島・二見港（竹芝からおがさわら丸で約24時間）",
+  "imageQuery": "Chichijima Ogasawara"
+ },
+ {
+  "id": "takao",
+  "name": "タカオネ",
+  "catchcopy": "高尾山口駅から徒歩1分、焚き火や山遊びを楽しむ体験型アクティビティホテル",
+  "hasShuttle": false,
+  "accessStation": "京王線 高尾山口駅から徒歩約1分",
+  "imageQuery": "Takaosanguchi Station"
+ },
+ {
+  "id": "hanno",
+  "name": "名栗温泉 大松閣",
+  "catchcopy": "名栗渓谷の山あいに建つ一軒宿、木の香の展望風呂と里山の恵みで寛ぐ",
+  "jalanUrl": "https://www.jalan.net/yad391254/",
+  "hasShuttle": true,
+  "shuttleInfo": "飯能駅南口から無料送迎バス約30分（1日4便・要予約）",
+  "accessStation": "西武池袋線 飯能駅",
+  "imageQuery": "Naguri Hanno"
+ },
+ {
+  "id": "otaki",
+  "name": "大屋旅館",
+  "catchcopy": "江戸期創業・国登録有形文化財、つげ義春が愛した城下町大多喜の商人宿",
+  "hasShuttle": false,
+  "accessStation": "いすみ鉄道 大多喜駅",
+  "imageQuery": "Otaki Chiba castle town"
+ },
+ {
+  "id": "izu-oshima",
+  "name": "大島温泉ホテル",
+  "catchcopy": "三原山外輪・標高500mに建ち、火口と海を一望する源泉かけ流し露天が名物",
+  "hasShuttle": true,
+  "shuttleInfo": "元町港・岡田港から無料送迎バス約20分（要予約）",
+  "accessStation": "元町港・岡田港から車約20分",
+  "imageQuery": "Mount Mihara Izu Oshima"
+ },
+ {
+  "id": "tsumagoi",
+  "name": "万座温泉 日進舘",
+  "catchcopy": "標高1800mの万座温泉で乳白色の硫黄泉かけ流しと湯治文化を今に伝える老舗",
+  "hasShuttle": false,
+  "accessStation": "JR万座・鹿沢口駅からバス",
+  "imageQuery": "Manza Onsen"
+ },
+ {
+  "id": "miyanoshita",
+  "name": "富士屋ホテル",
+  "catchcopy": "明治11年創業、国内外の賓客を迎えてきた登録有形文化財のクラシックホテル",
+  "hasShuttle": false,
+  "accessStation": "箱根登山鉄道 宮ノ下駅から徒歩約7分",
+  "imageQuery": "Fujiya Hotel Miyanoshita"
+ },
+ {
+  "id": "mitsuminejinja",
+  "name": "三峯神社 興雲閣",
+  "catchcopy": "標高1100mの三峯神社境内に泊まる宿坊、朝のご祈祷と雲海の絶景が待つ",
+  "hasShuttle": false,
+  "accessStation": "西武秩父駅からバス約75分「三峯神社」下車",
+  "imageQuery": "Mitsumine Shrine"
+ },
+ {
+  "id": "ogawa-saitama",
+  "name": "割烹旅館 二葉",
+  "catchcopy": "江戸中期創業の割烹旅館、文化財の建物で名物「忠七めし」を味わう和紙の町の宿",
+  "hasShuttle": false,
+  "accessStation": "東武東上線 小川町駅",
+  "imageQuery": "Ogawa Saitama"
+ },
+ {
+  "id": "choshi",
+  "name": "絶景の宿 犬吠埼ホテル ぎょうけい館",
+  "catchcopy": "明治七年創業、犬吠埼灯台を望む波打ち際で朝日と海の幸を味わう老舗宿",
+  "hasShuttle": false,
+  "accessStation": "銚子電鉄 犬吠駅",
+  "imageQuery": "Inubosaki Lighthouse"
+ },
+ {
+  "id": "tsukuba",
+  "name": "筑波山江戸屋",
+  "catchcopy": "筑波山神社門前で江戸期から続く老舗旅館、山の霊気と門前情緒に浸る",
+  "hasShuttle": false,
+  "accessStation": "つくば駅からバス「筑波山神社入口」下車",
+  "imageQuery": "Tsukubasan Shrine"
+ },
+ {
+  "id": "enoshima",
+  "name": "岩本楼本館",
+  "catchcopy": "江の島岩本院の流れを汲む老舗旅館、登録有形文化財のローマ風呂が名物",
+  "hasShuttle": false,
+  "accessStation": "小田急 片瀬江ノ島駅から徒歩約15分",
+  "imageQuery": "Enoshima"
+ }
+]

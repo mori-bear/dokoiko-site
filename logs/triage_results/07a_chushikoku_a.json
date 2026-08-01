@@ -1,0 +1,209 @@
+[
+ {
+  "id": "mihonoseki",
+  "name": "国文化財の宿 美保館",
+  "catchcopy": "明治創業、国登録有形文化財の本館が青石畳通りに残る美保関の老舗割烹旅館",
+  "jalanUrl": "https://www.jalan.net/yad310165/",
+  "hasShuttle": true,
+  "shuttleInfo": "境港まで送迎あり（1組1,000円・要予約）",
+  "accessStation": "JR境港駅"
+ },
+ {
+  "id": "uwajima",
+  "name": "木屋旅館",
+  "catchcopy": "犬養毅も泊まった明治44年創業の文化財旅館を一日一組の一棟貸しで再生",
+  "hasShuttle": false,
+  "accessStation": "JR宇和島駅"
+ },
+ {
+  "id": "oboke",
+  "name": "和の宿 ホテル祖谷温泉",
+  "catchcopy": "ケーブルカーで170m下る谷底の源泉かけ流し露天、祖谷渓に佇む秘境の一軒宿",
+  "jalanUrl": "https://www.jalan.net/yad336010/",
+  "hasShuttle": true,
+  "shuttleInfo": "JR大歩危駅から無料送迎あり（1日1便・前日までに要予約）",
+  "accessStation": "JR大歩危駅"
+ },
+ {
+  "id": "iwami-ginzan",
+  "name": "暮らす宿 他郷阿部家",
+  "catchcopy": "築230年の武家屋敷を再生、暮らすように泊まる石見銀山・大森町の宿",
+  "hasShuttle": false,
+  "accessStation": "JR大田市駅"
+ },
+ {
+  "id": "yakake",
+  "name": "矢掛屋 INN&SUITES",
+  "catchcopy": "旧山陽道の宿場町に客室が点在、日本初アルベルゴ・ディフーゾ認定の古民家宿",
+  "hasShuttle": false,
+  "accessStation": "井原鉄道矢掛駅"
+ },
+ {
+  "id": "tomonoura",
+  "name": "汀邸 遠音近音",
+  "catchcopy": "江戸期の宿を継ぐ全室オーシャンビュー露天付き、鞆の浦の潮騒に憩う湯宿",
+  "jalanUrl": "https://www.jalan.net/yad325753/",
+  "hasShuttle": true,
+  "shuttleInfo": "JR福山駅から無料送迎あり（前日までに要予約）",
+  "accessStation": "JR福山駅"
+ },
+ {
+  "id": "tsunoshima",
+  "name": "ホテル西長門リゾート",
+  "catchcopy": "角島大橋を望む海辺のリゾート、全室から響灘のコバルトブルーを一望",
+  "jalanUrl": "https://www.jalan.net/yad325443/",
+  "hasShuttle": true,
+  "shuttleInfo": "JR新下関駅から無料送迎バスあり（3日前までに要予約）",
+  "accessStation": "JR新下関駅"
+ },
+ {
+  "id": "ama-island",
+  "name": "Entô（エントウ）",
+  "catchcopy": "隠岐ジオパークの拠点、全面ガラス張りの客室で海と一体になる島のホテル",
+  "hasShuttle": false,
+  "accessStation": "菱浦港"
+ },
+ {
+  "id": "yusuhara",
+  "name": "雲の上のホテル別館 マルシェ・ユスハラ",
+  "catchcopy": "隈研吾設計、杉と茅の温もりに包まれる雲の上の町・梼原の小さなホテル",
+  "hasShuttle": false,
+  "accessStation": "JR須崎駅"
+ },
+ {
+  "id": "shikoku-karst",
+  "name": "星ふるヴィレッジTENGU",
+  "catchcopy": "標高1400mの四国カルストに立つ、プラネタリウムと星空客室の高原リゾート",
+  "hasShuttle": false,
+  "accessStation": "JR須崎駅"
+ },
+ {
+  "id": "naruto",
+  "name": "アオアヲ ナルト リゾート",
+  "catchcopy": "鳴門海峡を望む白砂のビーチに立つ、渦潮観光の拠点となる海辺の大型リゾート",
+  "hasShuttle": false,
+  "accessStation": "JR鳴門駅"
+ },
+ {
+  "id": "nagato-yamaguchi",
+  "name": "大谷山荘",
+  "catchcopy": "音信川のせせらぎに寄り添う創業140年の名旅館、長門湯本温泉を代表する宿",
+  "jalanUrl": "https://www.jalan.net/yad324375/",
+  "hasShuttle": true,
+  "shuttleInfo": "JR長門湯本駅から無料送迎あり（要事前連絡）",
+  "accessStation": "JR長門湯本駅"
+ },
+ {
+  "id": "nakatosa",
+  "name": "鰹乃國の湯宿 黒潮本陣",
+  "catchcopy": "カツオの町・久礼の高台で太平洋を一望、藁焼きタタキと汐湯の料理宿",
+  "hasShuttle": false,
+  "accessStation": "JR土佐久礼駅"
+ },
+ {
+  "id": "yonago",
+  "name": "皆生温泉 東光園",
+  "catchcopy": "菊竹清訓のメタボリズム建築が国登録有形文化財、皆生温泉の名物宿",
+  "hasShuttle": false,
+  "accessStation": "JR米子駅"
+ },
+ {
+  "id": "uradome",
+  "name": "岩井温泉 岩井屋",
+  "catchcopy": "山陰最古の湯を守る木造三階の湯宿、胸まで浸かる自噴の長寿の湯が名物",
+  "jalanUrl": "https://www.jalan.net/yad314800/",
+  "hasShuttle": false,
+  "accessStation": "JR岩美駅"
+ },
+ {
+  "id": "suo-sanbe",
+  "name": "三瓶温泉 国民宿舎さんべ荘",
+  "catchcopy": "酒樽や鉄釜など16種の露天で含鉄泉を湯めぐり、三瓶山麓の源泉かけ流しの宿",
+  "jalanUrl": "https://www.jalan.net/yad302744/",
+  "hasShuttle": false,
+  "accessStation": "JR大田市駅"
+ },
+ {
+  "id": "ashizuri",
+  "name": "TheMana Village",
+  "catchcopy": "足摺岬の断崖に立つ、星空と海を遊び尽くす四国最大級のアクティビティリゾート",
+  "jalanUrl": "https://www.jalan.net/yad384060/",
+  "hasShuttle": true,
+  "shuttleInfo": "足摺岬エリアのバス停から送迎あり（要事前連絡）",
+  "accessStation": "土佐くろしお鉄道中村駅"
+ },
+ {
+  "id": "tosa-shimizu",
+  "name": "足摺国際ホテル",
+  "catchcopy": "足摺岬灯台へ徒歩圏、太平洋の水平線と朝日を望むあしずり温泉郷の宿",
+  "hasShuttle": true,
+  "shuttleInfo": "足摺岬バス停・金剛福寺から送迎あり（要事前連絡）",
+  "accessStation": "土佐くろしお鉄道中村駅"
+ },
+ {
+  "id": "shimanto",
+  "name": "四万十の宿",
+  "catchcopy": "四万十川河口の木立に包まれた癒しの宿、海水露天と清流の幸を味わう",
+  "jalanUrl": "https://www.jalan.net/yad364127/",
+  "hasShuttle": true,
+  "shuttleInfo": "土佐くろしお鉄道中村駅から送迎あり（要予約）",
+  "accessStation": "土佐くろしお鉄道中村駅"
+ },
+ {
+  "id": "oku-izumo",
+  "name": "亀嵩温泉 玉峰山荘",
+  "catchcopy": "奥出雲・亀嵩の山懐に湧く美肌の湯、山陰唯一の砂風呂を備えた温泉宿",
+  "jalanUrl": "https://www.jalan.net/yad384572/",
+  "hasShuttle": true,
+  "shuttleInfo": "JR亀嵩駅から送迎あり（要事前連絡）",
+  "accessStation": "JR亀嵩駅"
+ },
+ {
+  "id": "omishima-island",
+  "name": "WAKKA",
+  "catchcopy": "しまなみ海道の真ん中・大三島、サイクリストを支える海辺のツーリズム拠点",
+  "jalanUrl": "https://www.jalan.net/yad372988/",
+  "hasShuttle": false,
+  "accessStation": "JR今治駅"
+ },
+ {
+  "id": "teshima",
+  "name": "ウミトタ",
+  "catchcopy": "皆川明ディレクションの一棟貸し、棚田と瀬戸内海を結ぶ豊島の暮らす宿",
+  "hasShuttle": false,
+  "accessStation": "家浦港"
+ },
+ {
+  "id": "ushimado",
+  "name": "ホテルリマーニ",
+  "catchcopy": "日本のエーゲ海・牛窓の海辺に立つ全室オーシャンビューのリゾートホテル",
+  "jalanUrl": "https://www.jalan.net/yad314512/",
+  "hasShuttle": true,
+  "shuttleInfo": "JR邑久駅から無料送迎あり（1日2便・3日前までに要予約）",
+  "accessStation": "JR邑久駅"
+ },
+ {
+  "id": "sakaiminato",
+  "name": "天然温泉 境港 夕凪の湯 御宿 野乃",
+  "catchcopy": "水木しげるロード徒歩圏、最上階の天然温泉から大山を望む高評価の和風宿",
+  "jalanUrl": "https://www.jalan.net/yad316500/",
+  "hasShuttle": false,
+  "accessStation": "JR境港駅"
+ },
+ {
+  "id": "iwakuni",
+  "name": "錦帯橋温泉 岩国国際観光ホテル",
+  "catchcopy": "錦帯橋まで徒歩2分、岩国城を望む庭園露天が自慢の錦帯橋温泉の宿",
+  "jalanUrl": "https://www.jalan.net/yad329032/",
+  "hasShuttle": true,
+  "shuttleInfo": "無料送迎あり（前日15時までに要予約）",
+  "accessStation": "JR岩国駅"
+ },
+ {
+  "id": "tsurugi-san",
+  "name": "剣山頂上ヒュッテ",
+  "catchcopy": "標高1955mの頂上直下、雲海とご来光に出会う剣山唯一の山小屋",
+  "hasShuttle": false,
+  "accessStation": "剣山観光登山リフト西島駅"
+ }
+]
