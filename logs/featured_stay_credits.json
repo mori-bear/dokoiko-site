@@ -160,5 +160,41 @@
   "license": "Public domain",
   "url": "https://commons.wikimedia.org/wiki/File:Higashi-Taisetsu%20so.JPG",
   "attributionRequired": false
+ },
+ "nikko": {
+  "author": "Miyuki Meinaka",
+  "license": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Nikko%20Kanaya%20Hotel%20Main%20Building.jpg",
+  "attributionRequired": true
+ },
+ "karuizawa": {
+  "author": "Daderot",
+  "license": "CC0",
+  "url": "https://commons.wikimedia.org/wiki/File:Lobby%2C%20Mampei%20Hotel%20-%20Karuizawa%2C%20Japan%20-%20DSC02093.JPG",
+  "attributionRequired": false
+ },
+ "nara": {
+  "author": "Waei",
+  "license": "CC BY-SA 3.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Nara%20Hotel%2001.jpg",
+  "attributionRequired": true
+ },
+ "hakone": {
+  "author": "MichaelMaggs",
+  "license": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:The%20main%20dining%20room%2C%20Fujiya%20Hotel%2C%20Miyanoshita%2C%20Hakone.jpg",
+  "attributionRequired": true
+ },
+ "kamakura": {
+  "author": "Abasaa",
+  "license": "Public domain",
+  "url": "https://commons.wikimedia.org/wiki/File:Kaihin-so%20Kamakura.JPG",
+  "attributionRequired": false
+ },
+ "ise": {
+  "author": "No machine-readable author provided. N yotarou assumed (based on copyright claims).",
+  "license": "CC BY 2.5",
+  "url": "https://commons.wikimedia.org/wiki/File:Asakichi(Ise)%2001.JPG",
+  "attributionRequired": true
  }
 }

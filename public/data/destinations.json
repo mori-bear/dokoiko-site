@@ -199,7 +199,21 @@
       "友達と",
       "海を眺める"
     ],
-    "bestSeason": "夏"
+    "bestSeason": "夏",
+    "featured_stay": {
+      "name": "かいひん荘鎌倉",
+      "catchcopy": "大正13年築の洋館は国登録有形文化財。由比ヶ浜の割烹旅館",
+      "image": "/images/stays/kamakura.jpg",
+      "jalanUrl": "https://www.jalan.net/yad310363/",
+      "hasShuttle": false,
+      "accessStation": "由比ヶ浜駅から徒歩約1分",
+      "imageCredit": {
+        "author": "Abasaa",
+        "license": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Kaihin-so%20Kamakura.JPG",
+        "attributionRequired": false
+      }
+    }
   },
   {
     "id": "atami",
@@ -397,6 +411,14 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Atami_Castle2024.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "熱海 大観荘",
+      "catchcopy": "横山大観ゆかりの数寄屋の名宿。相模灘を望む高台に立つ",
+      "jalanUrl": "https://www.jalan.net/yad326876/",
+      "hasShuttle": true,
+      "shuttleInfo": "熱海駅から定時送迎あり（予約不要・13:45〜16:45）",
+      "accessStation": "熱海駅"
     }
   },
   {
@@ -647,6 +669,20 @@
       "license": "CC0",
       "url": "https://commons.wikimedia.org/wiki/File:October_2008_tourism_in_Nikko_6.jpg",
       "attributionRequired": false
+    },
+    "featured_stay": {
+      "name": "日光金谷ホテル",
+      "catchcopy": "1873年創業・現存する日本最古のリゾートクラシックホテル",
+      "image": "/images/stays/nikko.jpg",
+      "hasShuttle": true,
+      "shuttleInfo": "東武日光駅から無料シャトルあり（定時運行）",
+      "accessStation": "東武日光駅",
+      "imageCredit": {
+        "author": "Miyuki Meinaka",
+        "license": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Nikko%20Kanaya%20Hotel%20Main%20Building.jpg",
+        "attributionRequired": true
+      }
     }
   },
   {
@@ -860,6 +896,20 @@
       "license": "CC BY 3.0",
       "url": "https://commons.wikimedia.org/wiki/File:%E8%BB%BD%E4%BA%95%E6%B2%A2%E9%A7%85%E3%81%8B%E3%82%89%E3%81%AE%E9%A2%A8%E6%99%AF_-_panoramio.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "万平ホテル",
+      "catchcopy": "1894年創業。ジョン・レノンも愛した軽井沢クラシックの象徴",
+      "image": "/images/stays/karuizawa.jpg",
+      "hasShuttle": true,
+      "shuttleInfo": "軽井沢駅から宿泊者送迎バスあり（要予約）",
+      "accessStation": "軽井沢駅",
+      "imageCredit": {
+        "author": "Daderot",
+        "license": "CC0",
+        "url": "https://commons.wikimedia.org/wiki/File:Lobby%2C%20Mampei%20Hotel%20-%20Karuizawa%2C%20Japan%20-%20DSC02093.JPG",
+        "attributionRequired": false
+      }
     }
   },
   {
@@ -1300,7 +1350,21 @@
       "ひとり旅向け",
       "カップル向け"
     ],
-    "bestSeason": "春"
+    "bestSeason": "春",
+    "featured_stay": {
+      "name": "奈良ホテル",
+      "catchcopy": "1909年創業「関西の迎賓館」。辰野金吾設計の桃山御殿風建築",
+      "image": "/images/stays/nara.jpg",
+      "hasShuttle": true,
+      "shuttleInfo": "近鉄奈良駅への送迎バスあり",
+      "accessStation": "近鉄奈良駅からタクシー約5分",
+      "imageCredit": {
+        "author": "Waei",
+        "license": "CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Nara%20Hotel%2001.jpg",
+        "attributionRequired": true
+      }
+    }
   },
   {
     "id": "ishigaki",
@@ -1735,7 +1799,20 @@
       "1泊がおすすめ",
       "ひとり旅向け"
     ],
-    "bestSeason": "通年"
+    "bestSeason": "通年",
+    "featured_stay": {
+      "name": "麻吉旅館",
+      "catchcopy": "創業200余年・木造五層の懸崖造。遊郭建築が今も生きる文化財の宿",
+      "image": "/images/stays/ise.jpg",
+      "hasShuttle": false,
+      "accessStation": "近鉄宇治山田駅からタクシー約5分",
+      "imageCredit": {
+        "author": "No machine-readable author provided. N yotarou assumed (based on copyright claims).",
+        "license": "CC BY 2.5",
+        "url": "https://commons.wikimedia.org/wiki/File:Asakichi(Ise)%2001.JPG",
+        "attributionRequired": true
+      }
+    }
   },
   {
     "id": "beppu",
@@ -2894,6 +2971,13 @@
       "license": "CC BY-SA 3.0",
       "url": "https://commons.wikimedia.org/wiki/File:20181111_Itsukushima_Shrine_torii-2.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "みやじまの宿 岩惣",
+      "catchcopy": "安政元年創業。もみじ谷に佇むG7晩餐会場にもなった名旅館",
+      "hasShuttle": true,
+      "shuttleInfo": "宮島桟橋から送迎あり（要事前連絡）",
+      "accessStation": "宮島桟橋から徒歩約15分"
     }
   },
   {
@@ -4874,6 +4958,21 @@
       "license": "CC0",
       "url": "https://commons.wikimedia.org/wiki/File%3AAugust_2009%2C_Rain_in_Hakone_-87760.jpeg",
       "attributionRequired": false
+    },
+    "featured_stay": {
+      "name": "富士屋ホテル",
+      "catchcopy": "1878年開業・日本初の本格リゾートホテル。花御殿と大食堂は必見",
+      "image": "/images/stays/hakone.jpg",
+      "jalanUrl": "https://www.jalan.net/yad325862/",
+      "hasShuttle": true,
+      "shuttleInfo": "宮ノ下駅から迎えあり（到着後に連絡）",
+      "accessStation": "宮ノ下駅から徒歩約7分",
+      "imageCredit": {
+        "author": "MichaelMaggs",
+        "license": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:The%20main%20dining%20room%2C%20Fujiya%20Hotel%2C%20Miyanoshita%2C%20Hakone.jpg",
+        "attributionRequired": true
+      }
     }
   },
   {
@@ -6659,6 +6758,12 @@
       "license": "CC BY 2.0",
       "url": "https://commons.wikimedia.org/wiki/File%3A%E5%B2%A1%E5%B1%B1%E7%9C%8C%E5%80%89%E6%95%B7%E5%B8%82%E5%80%89%E6%95%B7%E5%BA%97%2C_%E3%82%B9%E3%82%B7%E3%83%AD%E3%83%BC%E5%9B%9E%E8%BB%A2%E5%AF%BF%E5%8F%B8%2C_%E5%80%89%E6%95%B7%2C_Kurashiki%2C_%E5%B2%A1%E5%B1%B1%2C_Okayama_(6237910593).jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "旅館くらしき",
+      "catchcopy": "美観地区の中心、江戸期の砂糖問屋を改装した8室の料理旅館",
+      "hasShuttle": false,
+      "accessStation": "倉敷駅から徒歩約15分（美観地区内）"
     }
   },
   {
@@ -7109,6 +7214,14 @@
       "license": "CC BY 2.0",
       "url": "https://commons.wikimedia.org/wiki/File%3ATakayama_(15485428565).jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "本陣平野屋 花兆庵",
+      "catchcopy": "古い町並まで徒歩1分。「100のおもてなし」の宿",
+      "jalanUrl": "https://www.jalan.net/yad330857/",
+      "hasShuttle": true,
+      "shuttleInfo": "高山駅から送迎あり（到着時間に合わせて迎え）",
+      "accessStation": "高山駅から徒歩約10分"
     }
   },
   {
