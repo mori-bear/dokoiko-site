@@ -250,5 +250,17 @@
   "license": "CC BY-SA 3.0",
   "url": "https://commons.wikimedia.org/wiki/File:Unzen%20kyusyu%20hotel.JPG",
   "attributionRequired": true
+ },
+ "ozu": {
+  "author": "キアラア",
+  "license": "CC0",
+  "url": "https://commons.wikimedia.org/wiki/File:NIPPONIA%20HOTEL%20%E5%A4%A7%E6%B4%B2%20%E5%9F%8E%E4%B8%8B%E7%94%BA.jpg",
+  "attributionRequired": false
+ },
+ "toyako": {
+  "author": "veroyama",
+  "license": "CC BY 2.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Windsor%20Hotel%20Toya%20side%20by%20veroyama%20at%20lakeside%20of%20Toya.jpg",
+  "attributionRequired": true
  }
 }

@@ -10796,6 +10796,19 @@
       "license": "CC BY 2.5",
       "url": "https://commons.wikimedia.org/wiki/File:130922_Lake_Toya_Toyako_Hokkaido_Japan03s3.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "ザ・ウィンザーホテル洞爺",
+      "catchcopy": "G8サミット会場となった山頂の絶景リゾート",
+      "image": "/images/stays/toyako.jpg",
+      "hasShuttle": false,
+      "accessStation": "洞爺駅から車約30分",
+      "imageCredit": {
+        "author": "veroyama",
+        "license": "CC BY 2.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Windsor%20Hotel%20Toya%20side%20by%20veroyama%20at%20lakeside%20of%20Toya.jpg",
+        "attributionRequired": true
+      }
     }
   },
   {
@@ -10996,7 +11009,14 @@
       "カップル向け",
       "友達と"
     ],
-    "bestSeason": "冬"
+    "bestSeason": "冬",
+    "featured_stay": {
+      "name": "第一滝本館",
+      "catchcopy": "登別最古の老舗。1500坪・35槽の大浴場に5つの泉質が揃う",
+      "jalanUrl": "https://www.jalan.net/yad364904/",
+      "hasShuttle": false,
+      "accessStation": "登別駅からバス・タクシー約15分"
+    }
   },
   {
     "id": "shiretoko",
@@ -12891,6 +12911,14 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Tenmple_%26_Church_in_Hirado.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "国際観光ホテル旗松亭",
+      "catchcopy": "昭和天皇も宿泊。平戸城を望む露天と平戸牛の宿",
+      "jalanUrl": "https://www.jalan.net/yad310447/",
+      "hasShuttle": true,
+      "shuttleInfo": "平戸桟橋から無料送迎あり（要事前連絡）",
+      "accessStation": "たびら平戸口駅から車約13分"
     }
   },
   {
@@ -15218,6 +15246,14 @@
       "license": "CC BY-SA 3.0",
       "url": "https://commons.wikimedia.org/wiki/File:Takachiho-tekyou2.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "旅館 神仙",
+      "catchcopy": "「泊まってよかった大賞」の隠れ宿。神話の里の京風懐石",
+      "jalanUrl": "https://www.jalan.net/yad322840/",
+      "hasShuttle": true,
+      "shuttleInfo": "高千穂バスセンターから送迎あり（要連絡）",
+      "accessStation": "高千穂バスセンター"
     }
   },
   {
@@ -16505,6 +16541,13 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File%3AView_from_Taikodani_Inari_Shrine_4.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "のれん宿 明月",
+      "catchcopy": "城下に百余年。和紙の間と檜風呂の純和風「のれん宿」",
+      "jalanUrl": "https://www.jalan.net/yad327994/",
+      "hasShuttle": false,
+      "accessStation": "津和野駅から徒歩約7分"
     }
   },
   {
@@ -18381,6 +18424,12 @@
       "license": "CC BY-SA 3.0",
       "url": "https://commons.wikimedia.org/wiki/File%3AObuse_town-office.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "桝一客殿",
+      "catchcopy": "小布施堂が営む、土蔵三棟を移築した栗の町の文化サロン宿",
+      "hasShuttle": false,
+      "accessStation": "小布施駅から徒歩約10分"
     }
   },
   {
@@ -22179,6 +22228,13 @@
       "license": "CC BY 3.0",
       "url": "https://commons.wikimedia.org/wiki/File:%E5%A5%A5%E5%85%A5%E7%80%AC%E6%B8%93%E6%B5%81_-_panoramio_(4).jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "奥入瀬渓流ホテル",
+      "catchcopy": "渓流畔に立つ唯一のリゾート。岡本太郎の巨大暖炉が迎える",
+      "jalanUrl": "https://www.jalan.net/yad307225/",
+      "hasShuttle": false,
+      "accessStation": "八戸駅からバス約90分"
     }
   },
   {
@@ -24706,6 +24762,21 @@
       "license": "CC BY-SA 3.0",
       "url": "https://commons.wikimedia.org/wiki/File%3A%C5%8Czu_from_atop_Tomisuyama.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "NIPPONIA HOTEL 大洲 城下町",
+      "catchcopy": "城下町全体がホテル。日本最大級の分散型ホテルに泊まる",
+      "image": "/images/stays/ozu.jpg",
+      "jalanUrl": "https://www.jalan.net/yad334875/",
+      "hasShuttle": true,
+      "shuttleInfo": "伊予大洲駅から無料送迎あり（要予約）",
+      "accessStation": "伊予大洲駅",
+      "imageCredit": {
+        "author": "キアラア",
+        "license": "CC0",
+        "url": "https://commons.wikimedia.org/wiki/File:NIPPONIA%20HOTEL%20%E5%A4%A7%E6%B4%B2%20%E5%9F%8E%E4%B8%8B%E7%94%BA.jpg",
+        "attributionRequired": false
+      }
     }
   },
   {
