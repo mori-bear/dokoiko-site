@@ -2299,6 +2299,21 @@
       "license": "CC BY-SA 2.0",
       "url": "https://commons.wikimedia.org/wiki/File%3A%E9%AD%9A%E6%9D%BF%2C_%E9%AD%9A%E6%9D%BF%E6%A6%AE%2C_KAMA%E6%A6%AE%2C_%E5%B0%8F%E6%A8%BD%2C_%E5%8C%97%E6%B5%B7%E9%81%93%2C_%E6%97%A5%E6%9C%AC%2C_Kamaei%2C_Otaru%2C_Hokkaido%2C_Japan%2C_%E3%81%8B%E3%81%BE%E6%A0%84%2C_%E5%B7%A5%E5%A0%B4%E7%9B%B4%E5%A3%B2%E5%BA%97%2C_%E3%81%8A%E3%81%9F%E3%82%8B%E3%81%97%2C_%E3%81%BB%E3%81%A3%E3%81%8B%E3%81%84%E3%81%A9%E3%81%86%2C_%E3%81%AB%E3%81%A3%E3%81%BD%E3%82%93%2C_%E3%81%AB%E3%81%BB%E3%82%93_(32871713447).jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "料亭湯宿 銀鱗荘",
+      "catchcopy": "明治6年築の鰊御殿を移築。小樽を見下ろす高台の文化財宿",
+      "image": "/images/stays/otaru.jpg",
+      "jalanUrl": "https://www.jalan.net/yad335042/",
+      "hasShuttle": true,
+      "shuttleInfo": "小樽築港駅から無料送迎あり（15〜18時）",
+      "accessStation": "小樽築港駅",
+      "imageCredit": {
+        "author": "山本昂左衛門",
+        "license": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Ginrinsou%2C%20Former%20Inomata%20Residence.jpg",
+        "attributionRequired": true
+      }
     }
   },
   {
@@ -2750,6 +2765,14 @@
       "license": "CC BY 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Miyagi-Landscape_of_cherry_blossoms_and_Matsushima_Bay-xl.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "小松館 好風亭",
+      "catchcopy": "松島湾の絶景を独り占めする海辺の宿。露天から島々を望む",
+      "jalanUrl": "https://www.jalan.net/yad312115/",
+      "hasShuttle": true,
+      "shuttleInfo": "松島海岸駅・松島駅から送迎あり（到着時に連絡）",
+      "accessStation": "松島海岸駅"
     }
   },
   {
@@ -3186,7 +3209,21 @@
       "友達と",
       "街歩き向け"
     ],
-    "bestSeason": "夏"
+    "bestSeason": "夏",
+    "featured_stay": {
+      "name": "Ryokan 尾道西山（西山別館）",
+      "catchcopy": "文豪が愛した1943年創業の離れの宿。芝庭の先に瀬戸内が広がる",
+      "image": "/images/stays/onomichi.jpg",
+      "jalanUrl": "https://www.jalan.net/yad305831/",
+      "hasShuttle": false,
+      "accessStation": "尾道駅から車約10分",
+      "imageCredit": {
+        "author": "minato kaidou",
+        "license": "CC BY-SA 2.0",
+        "url": "https://commons.wikimedia.org/wiki/File:%E8%A5%BF%E5%B1%B1%E5%88%A5%E9%A4%A8%20%E8%97%81%E3%81%AE%E5%AE%B6.jpg",
+        "attributionRequired": true
+      }
+    }
   },
   {
     "id": "shodoshima",
@@ -3407,6 +3444,13 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:Shodoshima_Town_Library_ac_(1).jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "島宿真里",
+      "catchcopy": "醤の郷に佇む7室の宿。「醤油会席」で島の発酵文化を味わう",
+      "hasShuttle": true,
+      "shuttleInfo": "池田港から送迎あり",
+      "accessStation": "池田港"
     }
   },
   {
@@ -7662,6 +7706,12 @@
       "license": "CC BY-SA 4.0",
       "url": "https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E5%88%86%E7%B8%A3%E7%94%B1%E5%B8%83%E5%B8%82%E6%B9%AF%E5%B8%83%E9%99%A2%E7%94%BA%E9%87%91%E9%B1%97%E6%B9%96%E6%99%AF2.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "由布院 玉の湯",
+      "catchcopy": "「西の玉の湯」と称される御三家。雑木林の離れで過ごす静寂",
+      "hasShuttle": false,
+      "accessStation": "由布院駅から徒歩約15分"
     }
   },
   {
@@ -8336,7 +8386,15 @@
       "鹿児島に泊まるのがおすすめ",
       "離島の絶景"
     ],
-    "bestSeason": "夏"
+    "bestSeason": "夏",
+    "featured_stay": {
+      "name": "sankara hotel&spa 屋久島",
+      "catchcopy": "世界遺産の森を望むオーベルジュ型リゾートの最高峰",
+      "jalanUrl": "https://www.jalan.net/yad386188/",
+      "hasShuttle": true,
+      "shuttleInfo": "屋久島空港から送迎あり",
+      "accessStation": "屋久島空港"
+    }
   },
   {
     "id": "amakusa",
@@ -8950,7 +9008,14 @@
       "友達と",
       "城下町散策"
     ],
-    "bestSeason": "春"
+    "bestSeason": "春",
+    "featured_stay": {
+      "name": "角館山荘 侘桜",
+      "catchcopy": "築200年の茅葺古民家を移築。全室かけ流し・野﨑洋光監修の食",
+      "hasShuttle": true,
+      "shuttleInfo": "角館駅から送迎あり（要予約）",
+      "accessStation": "角館駅から車約15分"
+    }
   },
   {
     "id": "aizu",
@@ -9177,6 +9242,19 @@
       "license": "CC BY-SA 3.0",
       "url": "https://commons.wikimedia.org/wiki/File:Aizuwakamatsu,_Fukushima_Oka.jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "向瀧",
+      "catchcopy": "国の登録有形文化財第1号。会津藩指定保養所の流れをくむ木造宿",
+      "image": "/images/stays/aizu.jpg",
+      "hasShuttle": false,
+      "accessStation": "会津若松駅から周遊バス約15分「東山温泉駅」下車",
+      "imageCredit": {
+        "author": "M Murakami from Fukushima, Japan",
+        "license": "CC BY-SA 2.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Mukaitaki%20(7477420790).jpg",
+        "attributionRequired": true
+      }
     }
   },
   {
@@ -9589,7 +9667,13 @@
       "1泊がおすすめ",
       "ひとり旅向け"
     ],
-    "bestSeason": "夏"
+    "bestSeason": "夏",
+    "featured_stay": {
+      "name": "萩城三の丸 北門屋敷",
+      "catchcopy": "毛利屋敷跡・世界遺産の城下町に立つ格式の宿",
+      "hasShuttle": false,
+      "accessStation": "萩循環まぁーるバス「北門屋敷入口」下車"
+    }
   },
   {
     "id": "shimonoseki",
@@ -10022,6 +10106,20 @@
       "license": "CC BY-SA 2.0",
       "url": "https://commons.wikimedia.org/wiki/File:Naoshima_(7046724589).jpg",
       "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "ベネッセハウス",
+      "catchcopy": "安藤忠雄設計・美術館に泊まる。23時まで作品鑑賞できる特権も",
+      "image": "/images/stays/naoshima.jpg",
+      "hasShuttle": true,
+      "shuttleInfo": "宮浦港から宿泊者専用送迎バスあり",
+      "accessStation": "宮浦港",
+      "imageCredit": {
+        "author": "663highland",
+        "license": "CC BY 2.5",
+        "url": "https://commons.wikimedia.org/wiki/File:Benesse%20house01s3200.jpg",
+        "attributionRequired": true
+      }
     }
   },
   {
