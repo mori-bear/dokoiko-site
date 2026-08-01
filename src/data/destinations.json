@@ -210734,5 +210734,214 @@
       "url": "https://commons.wikimedia.org/wiki/File:Hiketa_Kanzaki_House_ac_(3).jpg",
       "attributionRequired": true
     }
+  },
+  {
+    "id": "ubayu-onsen",
+    "name": "姥湯温泉",
+    "type": "destination",
+    "region": "東北",
+    "hub": "山形",
+    "stayAllowed": [
+      "1night"
+    ],
+    "departures": [
+      "仙台",
+      "東京",
+      "山形",
+      "福島"
+    ],
+    "weight": 1.4,
+    "description": "吾妻連峰の標高約1300メートル、切り立った岩壁にぐるりと囲まれた谷底に、姥湯温泉はぽつんと湯けむりを上げる。宿は開湯およそ五百年と伝わる一軒宿・桝形屋のみ。乳白色の硫黄泉を湛えた野天風呂に身を沈めると、目の前に迫る岩峰と空だけが視界を占める。秋には全山が紅葉に染まり、湯船が燃えるような錦繡に包まれる。玄関口はスイッチバックで知られる奥羽本線の秘境駅・峠駅。ここから送迎車で山道を約30分登る道のりが、すでに旅のハイライトだ。冬季は雪に閉ざされ、営業は例年4月下旬から11月上旬まで。",
+    "tags": [
+      "温泉",
+      "秘湯",
+      "絶景",
+      "紅葉",
+      "山"
+    ],
+    "spots": [
+      {
+        "name": "桝形屋",
+        "description": "開湯約五百年と伝わる姥湯唯一の一軒宿。日本秘湯を守る会の会員宿で、源泉かけ流しの白濁湯を守り続ける。",
+        "googleMapsQuery": "姥湯温泉桝形屋 山形県米沢市"
+      },
+      {
+        "name": "岩壁の野天風呂",
+        "description": "荒々しい岩壁を仰ぎながら浸かる乳白色の野天風呂。紅葉期は湯船ごと錦の谷に包まれる姥湯の象徴。",
+        "googleMapsQuery": "姥湯温泉 露天風呂"
+      },
+      {
+        "name": "峠駅",
+        "description": "スイッチバック遺構が残る奥羽本線の秘境駅。ホームで立ち売りされる名物「峠の力餅」も旅情を誘う。",
+        "googleMapsQuery": "峠駅 山形県米沢市"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": true,
+    "hotelSearch": "姥湯温泉",
+    "gateways": {
+      "rail": [
+        "峠駅"
+      ],
+      "airport": [],
+      "bus": [],
+      "ferry": []
+    },
+    "accessHub": "山形",
+    "railNote": "送迎",
+    "secondaryTransport": null,
+    "destType": "onsen",
+    "railGateway": "峠駅",
+    "busGateway": null,
+    "ferryGateway": null,
+    "airportGateway": null,
+    "prefecture": "山形県",
+    "lat": 37.7799,
+    "lng": 140.1837,
+    "stayBias": 1,
+    "airportHub": null,
+    "railProvider": "ekinet",
+    "travelTime": {
+      "tokyo": 180,
+      "osaka": 390,
+      "nagoya": 350,
+      "fukuoka": 500,
+      "takamatsu": 440,
+      "mito": 225,
+      "maebashi": 240,
+      "takasaki": 240,
+      "hamamatsu": 380,
+      "gifu": 370,
+      "kofu": 270,
+      "shingu": 510,
+      "tanabe": 480,
+      "shirahama": 490,
+      "kushimoto": 510,
+      "tottori": 510,
+      "shimonoseki": 530,
+      "saga": 530,
+      "oita": 560,
+      "beppu": 570
+    },
+    "stayRecommendation": "1night",
+    "city": "米沢市",
+    "hubStation": "米沢駅",
+    "accessStation": "峠駅",
+    "hotelArea": "yamagata",
+    "featured_stay": {
+      "name": "桝形屋",
+      "catchcopy": "開湯約五百年・岩壁の谷底にただ一軒。乳白色の野天が待つ秘湯",
+      "jalanUrl": "https://www.jalan.net/yad349715/",
+      "hasShuttle": true,
+      "shuttleInfo": "峠駅から送迎車あり（宿泊者のみ・要予約・約30分）",
+      "accessStation": "峠駅（営業は例年4月下旬〜11月上旬）",
+      "image": "/images/stays/ubayu-onsen.jpg",
+      "imageCredit": {
+        "author": "Soica2001 (talk)",
+        "license": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Ubayu%20roten.jpg",
+        "attributionRequired": false
+      }
+    },
+    "hotelKeyword": "姥湯温泉",
+    "access": {
+      "steps": [
+        {
+          "type": "rail",
+          "to": "新庄駅",
+          "provider": "えきねっと"
+        },
+        {
+          "type": "local",
+          "from": "新庄駅",
+          "to": "肘折温泉",
+          "method": "バス"
+        }
+      ]
+    },
+    "fallbackCity": "新庄",
+    "gateway": null,
+    "gatewayStations": [
+      {
+        "name": "新庄駅",
+        "type": "major",
+        "priority": 1
+      }
+    ],
+    "localAccess": {
+      "type": "bus",
+      "from": "新庄駅",
+      "to": "肘折温泉"
+    },
+    "situations": [
+      "solo",
+      "couple"
+    ],
+    "catch": "江戸の湯治文化がそのまま残る、山奥の温泉街。",
+    "primary": [
+      "温泉",
+      "秘境"
+    ],
+    "secondary": [
+      "自然",
+      "湯治",
+      "冬",
+      "グルメ"
+    ],
+    "onsenLevel": 3,
+    "hasDirectFlight": false,
+    "mapPoint": "肘折温泉街",
+    "subType": "onsen",
+    "stayDescription": "朝市で地元の人と言葉を交わし、炭酸泉で体をほぐす。山奥の温泉街の静かな時間。",
+    "hubCity": "肘折温泉",
+    "stayPriority": "high",
+    "representativeStation": "新庄駅",
+    "finalAccess": {
+      "type": "bus",
+      "from": "新庄駅"
+    },
+    "accessPoint": {
+      "type": "station",
+      "name": "新庄"
+    },
+    "bookingStation": {
+      "name": "新庄駅",
+      "company": "JR"
+    },
+    "mainSpot": "肘折温泉街",
+    "stayArea": {
+      "rakuten": "肘折温泉",
+      "jalan": "肘折温泉"
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fyamagata%2F",
+      "jalan": "https://www.jalan.net/060000/"
+    },
+    "accessType": "car",
+    "tier": "area",
+    "icCard": "suica",
+    "tier2": "area",
+    "hubName": "山形",
+    "unsplashUrl": "https://images.unsplash.com/photo-1739609718564-6b01cc6442b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTglODIlOTglRTYlOEElOTglRTYlQjglQTklRTYlQjMlODklMjAlRTUlQjElQjElRTUlQkQlQTIlRTclOUMlOEMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODQwOTUyNXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "unsplashThumbUrl": "https://images.unsplash.com/photo-1739609718564-6b01cc6442b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTglODIlOTglRTYlOEElOTglRTYlQjglQTklRTYlQjMlODklMjAlRTUlQjElQjElRTUlQkQlQTIlRTclOUMlOEMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODQwOTUyNXww&ixlib=rb-4.1.0&q=80&w=400",
+    "unsplashCredit": "HANVIN CHEONG",
+    "unsplashCreditUrl": "https://unsplash.com/@hktram0311?utm_source=dokoiko&utm_medium=referral",
+    "unsplashPhotoUrl": "https://unsplash.com/photos/a-city-street-at-night-with-people-walking-on-the-sidewalk-mXsL2M5fsL8?utm_source=dokoiko&utm_medium=referral",
+    "rentalCarRecommended": true,
+    "images": [
+      "/images/hijori-onsen/main.jpg",
+      "/images/hijori-onsen/spot-1.jpg",
+      "/images/hijori-onsen/spot-2.jpg"
+    ],
+    "reasonChips": [
+      "温泉",
+      "自然と過ごす",
+      "ひとり旅向け",
+      "カップル向け",
+      "温泉がおすすめ",
+      "秘境感あり",
+      "ゆっくり滞在"
+    ],
+    "bestSeason": "冬"
   }
 ]
