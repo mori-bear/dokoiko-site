@@ -17,7 +17,7 @@ import Anthropic from '@anthropic-ai/sdk';
 const env = fs.readFileSync('./.env', 'utf-8');
 for (const line of env.split('\n')) { const m = line.match(/^([A-Z_]+)=(.+)$/); if (m) process.env[m[1]] = m[2].trim(); }
 const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
-const MODEL = 'claude-sonnet-4-6';
+const MODEL = 'claude-haiku-4-5-20251001';
 const BATCH = 4;
 const CONCURRENCY = 5;
 const OUT = 'logs/vision_full_audit.json';
@@ -95,7 +95,7 @@ async function runBatch(batch, attempt = 0) {
     arr.forEach((r, i) => {
       const it = batch[r.n ? r.n - 1 : i];
       if (!it) return;
-      results[it.path] = { verdict: r.verdict, issues: r.issues || [], confidence: r.confidence || '-', reason: r.reason || '', ctx: it.ctx };
+      results[it.path] = { verdict: r.verdict, issues: r.issues || [], confidence: r.confidence || '-', reason: r.reason || '', ctx: it.ctx, model: MODEL };
     });
     for (const it of batch) if (!results[it.path]) results[it.path] = { verdict: 'ok', issues: [], confidence: '-', reason: 'NO_RESULT', ctx: it.ctx };
   } catch (e) {
