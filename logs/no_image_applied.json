@@ -1,0 +1,1404 @@
+{
+ "mains": [
+  {
+   "id": "ainan",
+   "name": "愛南",
+   "pref": "愛媛県"
+  },
+  {
+   "id": "akashi",
+   "name": "明石",
+   "pref": "兵庫県"
+  },
+  {
+   "id": "akita-oga",
+   "name": "男鹿温泉",
+   "pref": "秋田県"
+  },
+  {
+   "id": "akita-yokote",
+   "name": "横手",
+   "pref": "秋田県"
+  },
+  {
+   "id": "akiyoshido",
+   "name": "秋芳洞",
+   "pref": "山口県"
+  },
+  {
+   "id": "anan",
+   "name": "阿南",
+   "pref": "徳島県"
+  },
+  {
+   "id": "arita",
+   "name": "有田",
+   "pref": "佐賀県"
+  },
+  {
+   "id": "aso",
+   "name": "阿蘇",
+   "pref": "熊本県"
+  },
+  {
+   "id": "biwako",
+   "name": "琵琶湖",
+   "pref": "滋賀県"
+  },
+  {
+   "id": "chizu",
+   "name": "智頭",
+   "pref": "鳥取県"
+  },
+  {
+   "id": "chokai-san",
+   "name": "鳥海山",
+   "pref": "秋田県"
+  },
+  {
+   "id": "echizen",
+   "name": "越前",
+   "pref": "福井県"
+  },
+  {
+   "id": "fuchu-hiroshima",
+   "name": "府中",
+   "pref": "広島県"
+  },
+  {
+   "id": "fukushima-aizu-2",
+   "name": "塔のへつり",
+   "pref": "福島県"
+  },
+  {
+   "id": "gen_群馬_奥嬬恋温泉",
+   "name": "奥嬬恋温泉",
+   "pref": "群馬県"
+  },
+  {
+   "id": "gen_群馬_花敷温泉",
+   "name": "花敷温泉",
+   "pref": "群馬県"
+  },
+  {
+   "id": "gen_群馬_川中温泉",
+   "name": "川中温泉",
+   "pref": "群馬県"
+  },
+  {
+   "id": "gen_群馬_片品温泉",
+   "name": "片品温泉",
+   "pref": "群馬県"
+  },
+  {
+   "id": "gen_青森_秋元温泉",
+   "name": "秋元温泉",
+   "pref": "青森県"
+  },
+  {
+   "id": "gen_青森_十和田湖畔温泉",
+   "name": "十和田湖畔温泉",
+   "pref": "青森県"
+  },
+  {
+   "id": "gen_青森_相乗温泉",
+   "name": "相乗温泉",
+   "pref": "青森県"
+  },
+  {
+   "id": "gen_青森_馬門温泉",
+   "name": "馬門温泉",
+   "pref": "青森県"
+  },
+  {
+   "id": "gen_青森_板留温泉",
+   "name": "板留温泉",
+   "pref": "青森県"
+  },
+  {
+   "id": "gen_青森_落合温泉",
+   "name": "落合温泉",
+   "pref": "青森県"
+  },
+  {
+   "id": "gen_青森_嶽温泉",
+   "name": "嶽温泉",
+   "pref": "青森県"
+  },
+  {
+   "id": "gen_栃木_湯西川温泉",
+   "name": "湯西川温泉",
+   "pref": "栃木県"
+  },
+  {
+   "id": "gen_北海_オーロラ温泉",
+   "name": "オーロラ温泉",
+   "pref": "北海道"
+  },
+  {
+   "id": "gen_北海_かみゆうべつ温泉",
+   "name": "かみゆうべつ温泉",
+   "pref": "北海道"
+  },
+  {
+   "id": "gen_北海_伊達温泉",
+   "name": "伊達温泉",
+   "pref": "北海道"
+  },
+  {
+   "id": "gen_北海_臼別温泉",
+   "name": "臼別温泉",
+   "pref": "北海道"
+  },
+  {
+   "id": "gen_北海_浦臼神社",
+   "name": "浦臼神社",
+   "pref": "北海道"
+  },
+  {
+   "id": "gen_北海_花の拠点「はなふる」",
+   "name": "花の拠点 はなふる",
+   "pref": "北海道"
+  },
+  {
+   "id": "gen_北海_見市温泉",
+   "name": "見市温泉",
+   "pref": "北海道"
+  },
+  {
+   "id": "gen_北海_黒松内温泉",
+   "name": "黒松内温泉",
+   "pref": "北海道"
+  },
+  {
+   "id": "gen_北海_支笏湖いとう温泉",
+   "name": "支笏湖温泉",
+   "pref": "北海道"
+  },
+  {
+   "id": "gen_北海_鹿部温泉",
+   "name": "鹿部温泉",
+   "pref": "北海道"
+  },
+  {
+   "id": "gen_北海_樹海温泉",
+   "name": "樹海温泉",
+   "pref": "北海道"
+  },
+  {
+   "id": "gen_北海_神威脇温泉",
+   "name": "神威脇温泉",
+   "pref": "北海道"
+  },
+  {
+   "id": "gen_北海_神居岩温泉",
+   "name": "神居岩温泉",
+   "pref": "北海道"
+  },
+  {
+   "id": "gen_北海_石狩弁天社",
+   "name": "石狩弁天社",
+   "pref": "北海道"
+  },
+  {
+   "id": "gen_北海_滝の湯温泉",
+   "name": "滝の湯温泉",
+   "pref": "北海道"
+  },
+  {
+   "id": "gen_北海_朝里川温泉",
+   "name": "朝里川温泉",
+   "pref": "北海道"
+  },
+  {
+   "id": "gen_北海_天塩温泉",
+   "name": "天塩温泉",
+   "pref": "北海道"
+  },
+  {
+   "id": "gen_北海_白老温泉",
+   "name": "白老温泉",
+   "pref": "北海道"
+  },
+  {
+   "id": "gen_北海_網走湖畔温泉",
+   "name": "網走湖畔温泉",
+   "pref": "北海道"
+  },
+  {
+   "id": "gen_北海_羅臼温泉",
+   "name": "羅臼温泉",
+   "pref": "北海道"
+  },
+  {
+   "id": "hachimantai",
+   "name": "八幡平",
+   "pref": "岩手県"
+  },
+  {
+   "id": "hakuba",
+   "name": "白馬",
+   "pref": "長野県"
+  },
+  {
+   "id": "higashihiroshima",
+   "name": "東広島",
+   "pref": "広島県"
+  },
+  {
+   "id": "higashine",
+   "name": "東根",
+   "pref": "山形県"
+  },
+  {
+   "id": "hokkaido-asahikawa",
+   "name": "旭川",
+   "pref": "北海道"
+  },
+  {
+   "id": "iga",
+   "name": "伊賀",
+   "pref": "三重県"
+  },
+  {
+   "id": "isawa-onsen",
+   "name": "石和温泉",
+   "pref": "山梨県"
+  },
+  {
+   "id": "iwaishima",
+   "name": "祝島",
+   "pref": "山口県"
+  },
+  {
+   "id": "joetsu",
+   "name": "上越",
+   "pref": "新潟県"
+  },
+  {
+   "id": "jozankei",
+   "name": "定山渓",
+   "pref": "北海道"
+  },
+  {
+   "id": "kagoshima-city",
+   "name": "鹿児島",
+   "pref": "鹿児島県"
+  },
+  {
+   "id": "kamaishi",
+   "name": "釜石",
+   "pref": "岩手県"
+  },
+  {
+   "id": "kasama",
+   "name": "笠間",
+   "pref": "茨城県"
+  },
+  {
+   "id": "kashiwara-wine",
+   "name": "柏原",
+   "pref": "大阪府"
+  },
+  {
+   "id": "kisakata",
+   "name": "象潟",
+   "pref": "秋田県"
+  },
+  {
+   "id": "kitsuki",
+   "name": "杵築",
+   "pref": "大分県"
+  },
+  {
+   "id": "koka",
+   "name": "甲賀",
+   "pref": "滋賀県"
+  },
+  {
+   "id": "kumano-kodo",
+   "name": "熊野古道",
+   "pref": "和歌山県"
+  },
+  {
+   "id": "mihara",
+   "name": "三原",
+   "pref": "広島県"
+  },
+  {
+   "id": "mimasaka",
+   "name": "美作",
+   "pref": "岡山県"
+  },
+  {
+   "id": "minami-aizu",
+   "name": "南会津",
+   "pref": "福島県"
+  },
+  {
+   "id": "mitoyo",
+   "name": "三豊",
+   "pref": "香川県"
+  },
+  {
+   "id": "miyagi-matsushima-2",
+   "name": "塩釜",
+   "pref": "宮城県"
+  },
+  {
+   "id": "miyazaki",
+   "name": "宮崎",
+   "pref": "宮崎県"
+  },
+  {
+   "id": "miyoshi-hiroshima",
+   "name": "三次",
+   "pref": "広島県"
+  },
+  {
+   "id": "mt-fuji-fifth",
+   "name": "富士山五合目",
+   "pref": "山梨県"
+  },
+  {
+   "id": "mt-yatsugatake",
+   "name": "蓼科高原",
+   "pref": "長野県"
+  },
+  {
+   "id": "murakami",
+   "name": "村上",
+   "pref": "新潟県"
+  },
+  {
+   "id": "myoko",
+   "name": "妙高",
+   "pref": "新潟県"
+  },
+  {
+   "id": "nabari",
+   "name": "名張",
+   "pref": "三重県"
+  },
+  {
+   "id": "nachikatsuura",
+   "name": "那智勝浦",
+   "pref": "和歌山県"
+  },
+  {
+   "id": "nakanoshima-oki",
+   "name": "中ノ島",
+   "pref": "島根県"
+  },
+  {
+   "id": "nakasu",
+   "name": "中洲屋台",
+   "pref": "福岡県"
+  },
+  {
+   "id": "niche_愛知_4",
+   "name": "内子町の三間町並み",
+   "pref": "愛媛県"
+  },
+  {
+   "id": "niche_愛知_7",
+   "name": "吉良町漁村",
+   "pref": "愛知県"
+  },
+  {
+   "id": "niche_愛媛_1",
+   "name": "鬼北町の仁淀川沿い渓谷",
+   "pref": "愛媛県"
+  },
+  {
+   "id": "niche_愛媛_4",
+   "name": "鬼北町の白滝温泉郷",
+   "pref": "愛媛県"
+  },
+  {
+   "id": "niche_茨城_1",
+   "name": "真壁の古い町並み",
+   "pref": "茨城県"
+  },
+  {
+   "id": "niche_岐阜_8",
+   "name": "養老公園",
+   "pref": "岐阜県"
+  },
+  {
+   "id": "niche_宮崎_2",
+   "name": "西米良村 仙人の湯",
+   "pref": "宮崎県"
+  },
+  {
+   "id": "niche_宮崎_3",
+   "name": "みやざき地鶏の里",
+   "pref": "宮崎県"
+  },
+  {
+   "id": "niche_宮城_1",
+   "name": "女川漁港と海産物市場",
+   "pref": "宮城県"
+  },
+  {
+   "id": "niche_宮城_3",
+   "name": "七ヶ宿町のダム湖",
+   "pref": "宮城県"
+  },
+  {
+   "id": "niche_宮城_5",
+   "name": "登米の蔵の町並み",
+   "pref": "宮城県"
+  },
+  {
+   "id": "niche_京都_3",
+   "name": "青谷地区",
+   "pref": "京都府"
+  },
+  {
+   "id": "niche_京都_5",
+   "name": "由良川渓谷",
+   "pref": "京都府"
+  },
+  {
+   "id": "niche_京都_6",
+   "name": "北の宿温泉",
+   "pref": "京都府"
+  },
+  {
+   "id": "niche_熊本_1",
+   "name": "五木村の清流と棚田",
+   "pref": "熊本県"
+  },
+  {
+   "id": "niche_熊本_2",
+   "name": "産山村の星の宮古墳",
+   "pref": "熊本県"
+  },
+  {
+   "id": "niche_熊本_6",
+   "name": "白糸台地の棚田",
+   "pref": "熊本県"
+  },
+  {
+   "id": "niche_熊本_8",
+   "name": "三角町の漁師町",
+   "pref": "熊本県"
+  },
+  {
+   "id": "niche_群馬_1",
+   "name": "佐野の門前町",
+   "pref": "栃木県"
+  },
+  {
+   "id": "niche_群馬_4",
+   "name": "桐生の工場跡と町並み",
+   "pref": "群馬県"
+  },
+  {
+   "id": "niche_広島_6",
+   "name": "世羅ラベンダー畑",
+   "pref": "広島県"
+  },
+  {
+   "id": "niche_香川_2",
+   "name": "仁尾の町並みと造り酒屋",
+   "pref": "香川県"
+  },
+  {
+   "id": "niche_高知_1",
+   "name": "佐川町の酒蔵と古い町並み",
+   "pref": "高知県"
+  },
+  {
+   "id": "niche_高知_6",
+   "name": "日高村",
+   "pref": "高知県"
+  },
+  {
+   "id": "niche_埼玉_1",
+   "name": "寄居町の荒川渓谷",
+   "pref": "埼玉県"
+  },
+  {
+   "id": "niche_三重_2",
+   "name": "宮川渓谷",
+   "pref": "三重県"
+  },
+  {
+   "id": "niche_三重_4",
+   "name": "大石のしずく",
+   "pref": "三重県"
+  },
+  {
+   "id": "niche_三重_5",
+   "name": "天佐羅の棚田",
+   "pref": "三重県"
+  },
+  {
+   "id": "niche_山形_1",
+   "name": "白鷹町べにばな温泉郷",
+   "pref": "山形県"
+  },
+  {
+   "id": "niche_山形_2",
+   "name": "庄内町庭月観音温泉",
+   "pref": "山形県"
+  },
+  {
+   "id": "niche_山形_6",
+   "name": "白鷹大橋渓谷",
+   "pref": "山形県"
+  },
+  {
+   "id": "niche_山口_2",
+   "name": "錦川峡谷",
+   "pref": "山口県"
+  },
+  {
+   "id": "niche_山梨_1",
+   "name": "道志村渓谷",
+   "pref": "山梨県"
+  },
+  {
+   "id": "niche_山梨_2",
+   "name": "南部町・湯船温泉",
+   "pref": "山梨県"
+  },
+  {
+   "id": "niche_山梨_3",
+   "name": "丹波山温泉・多摩川源流",
+   "pref": "山梨県"
+  },
+  {
+   "id": "niche_山梨_4",
+   "name": "猿橋宿場町",
+   "pref": "山梨県"
+  },
+  {
+   "id": "niche_山梨_5",
+   "name": "猿が城跡",
+   "pref": "山梨県"
+  },
+  {
+   "id": "niche_山梨_7",
+   "name": "塩山梅林",
+   "pref": "山梨県"
+  },
+  {
+   "id": "niche_滋賀_1",
+   "name": "日野商人の町並み",
+   "pref": "滋賀県"
+  },
+  {
+   "id": "niche_滋賀_3",
+   "name": "永源寺門前と愛知川",
+   "pref": "滋賀県"
+  },
+  {
+   "id": "niche_滋賀_4",
+   "name": "五個荘近江商人の館",
+   "pref": "滋賀県"
+  },
+  {
+   "id": "niche_滋賀_6",
+   "name": "賤ヶ岳と湖北山里",
+   "pref": "滋賀県"
+  },
+  {
+   "id": "niche_鹿児島_1",
+   "name": "串木野港周辺の漁師町",
+   "pref": "鹿児島県"
+  },
+  {
+   "id": "niche_鹿児島_5",
+   "name": "栗野岳温泉郷",
+   "pref": "鹿児島県"
+  },
+  {
+   "id": "niche_秋田_3",
+   "name": "神代ダム湖畔と周辺渓谷",
+   "pref": "秋田県"
+  },
+  {
+   "id": "niche_秋田_4",
+   "name": "小坂鉄道遺産と銀山跡",
+   "pref": "秋田県"
+  },
+  {
+   "id": "niche_秋田_5",
+   "name": "太平湖と奥ノ松渓谷",
+   "pref": "秋田県"
+  },
+  {
+   "id": "niche_新潟_2",
+   "name": "寺泊アメの横丁",
+   "pref": "新潟県"
+  },
+  {
+   "id": "niche_新潟_3",
+   "name": "越後松代の棚田と旧街道",
+   "pref": "新潟県"
+  },
+  {
+   "id": "niche_新潟_6",
+   "name": "加茂の古い酒蔵群と職人街",
+   "pref": "新潟県"
+  },
+  {
+   "id": "niche_神奈川_4",
+   "name": "大磯照ヶ崎海岸",
+   "pref": "神奈川県"
+  },
+  {
+   "id": "niche_神奈川_5",
+   "name": "開成町水田",
+   "pref": "神奈川県"
+  },
+  {
+   "id": "niche_静岡_3",
+   "name": "石部棚田",
+   "pref": "静岡県"
+  },
+  {
+   "id": "niche_石川_6",
+   "name": "九谷陶芸村",
+   "pref": "石川県"
+  },
+  {
+   "id": "niche_千葉_2",
+   "name": "小湊鐵道沿線",
+   "pref": "千葉県"
+  },
+  {
+   "id": "niche_大阪_1",
+   "name": "能勢白滝",
+   "pref": "大阪府"
+  },
+  {
+   "id": "niche_大阪_2",
+   "name": "太子町の古刹群",
+   "pref": "大阪府"
+  },
+  {
+   "id": "niche_大阪_3",
+   "name": "山崎の古い町並み",
+   "pref": "京都府"
+  },
+  {
+   "id": "niche_大分_1",
+   "name": "佐賀関漁港と三浦海岸",
+   "pref": "大分県"
+  },
+  {
+   "id": "niche_大分_2",
+   "name": "青の洞門と耶馬渓",
+   "pref": "大分県"
+  },
+  {
+   "id": "niche_大分_5",
+   "name": "国見町の武家屋敷",
+   "pref": "鹿児島県"
+  },
+  {
+   "id": "niche_長野_4",
+   "name": "結東温泉",
+   "pref": "長野県"
+  },
+  {
+   "id": "niche_鳥取_2",
+   "name": "若桜町商店街",
+   "pref": "鳥取県"
+  },
+  {
+   "id": "niche_鳥取_8",
+   "name": "琴浦町の漁村風景",
+   "pref": "鳥取県"
+  },
+  {
+   "id": "niche_島根_1",
+   "name": "斐伊川荒島地区",
+   "pref": "島根県"
+  },
+  {
+   "id": "niche_島根_4",
+   "name": "掛合町の鐘乳洞群",
+   "pref": "島根県"
+  },
+  {
+   "id": "niche_徳島_2",
+   "name": "勝浦川峡谷",
+   "pref": "徳島県"
+  },
+  {
+   "id": "niche_栃木_4",
+   "name": "馬頭温泉郷",
+   "pref": "栃木県"
+  },
+  {
+   "id": "niche_奈良_2",
+   "name": "野迫川村の深山と秘湯群",
+   "pref": "奈良県"
+  },
+  {
+   "id": "niche_奈良_3",
+   "name": "月ヶ瀬温泉と梅林の里",
+   "pref": "奈良県"
+  },
+  {
+   "id": "niche_奈良_4",
+   "name": "上北山村",
+   "pref": "奈良県"
+  },
+  {
+   "id": "niche_富山_3",
+   "name": "福光地区",
+   "pref": "富山県"
+  },
+  {
+   "id": "niche_福井_1",
+   "name": "河野海岸の三角波紋",
+   "pref": "福井県"
+  },
+  {
+   "id": "niche_福井_2",
+   "name": "白山平泉寺門前町",
+   "pref": "福井県"
+  },
+  {
+   "id": "niche_福井_3",
+   "name": "芦原温泉共同浴場群",
+   "pref": "福井県"
+  },
+  {
+   "id": "niche_福井_4",
+   "name": "九頭竜湖・西野ダム展望台",
+   "pref": "福井県"
+  },
+  {
+   "id": "niche_福島_1",
+   "name": "只見町ブナ林と清流",
+   "pref": "福島県"
+  },
+  {
+   "id": "niche_福島_4",
+   "name": "小高区歴史的町並み",
+   "pref": "福島県"
+  },
+  {
+   "id": "niche_兵庫_2",
+   "name": "湯村温泉・荒湯地獄",
+   "pref": "兵庫県"
+  },
+  {
+   "id": "niche_兵庫_4",
+   "name": "鳥飼漁港と丸島番所跡",
+   "pref": "兵庫県"
+  },
+  {
+   "id": "niche_兵庫_6",
+   "name": "法隆寺周辺",
+   "pref": "奈良県"
+  },
+  {
+   "id": "niche_和歌山_3",
+   "name": "北山村いかだ下り",
+   "pref": "和歌山県"
+  },
+  {
+   "id": "niche_和歌山_6",
+   "name": "高野龍神スカイライン",
+   "pref": "和歌山県"
+  },
+  {
+   "id": "niche_和歌山_8",
+   "name": "印南くじらの浜",
+   "pref": "和歌山県"
+  },
+  {
+   "id": "niimi",
+   "name": "新見",
+   "pref": "岡山県"
+  },
+  {
+   "id": "niseko",
+   "name": "ニセコ",
+   "pref": "北海道"
+  },
+  {
+   "id": "noto-kiriko",
+   "name": "奥能登",
+   "pref": "石川県"
+  },
+  {
+   "id": "nyukasa",
+   "name": "入笠山",
+   "pref": "長野県"
+  },
+  {
+   "id": "oarai",
+   "name": "大洗",
+   "pref": "茨城県"
+  },
+  {
+   "id": "obihiro",
+   "name": "帯広",
+   "pref": "北海道"
+  },
+  {
+   "id": "ogose",
+   "name": "越生",
+   "pref": "埼玉県"
+  },
+  {
+   "id": "ono-fukui",
+   "name": "越前大野",
+   "pref": "福井県"
+  },
+  {
+   "id": "otari-onsen",
+   "name": "小谷温泉",
+   "pref": "長野県"
+  },
+  {
+   "id": "saga",
+   "name": "佐賀",
+   "pref": "佐賀県"
+  },
+  {
+   "id": "saiko",
+   "name": "西湖",
+   "pref": "山梨県"
+  },
+  {
+   "id": "sakai",
+   "name": "堺",
+   "pref": "大阪府"
+  },
+  {
+   "id": "senri",
+   "name": "万博記念公園",
+   "pref": "大阪府"
+  },
+  {
+   "id": "shinjou",
+   "name": "新庄",
+   "pref": "山形県"
+  },
+  {
+   "id": "shizu-shimizu",
+   "name": "清水",
+   "pref": "静岡県"
+  },
+  {
+   "id": "sozogi",
+   "name": "曽々木海岸",
+   "pref": "石川県"
+  },
+  {
+   "id": "suwa",
+   "name": "諏訪",
+   "pref": "長野県"
+  },
+  {
+   "id": "tajimi",
+   "name": "多治見",
+   "pref": "岐阜県"
+  },
+  {
+   "id": "takashima-shiga",
+   "name": "高島",
+   "pref": "滋賀県"
+  },
+  {
+   "id": "takatsuki",
+   "name": "高槻",
+   "pref": "大阪府"
+  },
+  {
+   "id": "tateyama-toyama",
+   "name": "立山",
+   "pref": "富山県"
+  },
+  {
+   "id": "tendou",
+   "name": "天童",
+   "pref": "山形県"
+  },
+  {
+   "id": "tokyo",
+   "name": "東京",
+   "pref": "東京都"
+  },
+  {
+   "id": "tomakomai",
+   "name": "苫小牧",
+   "pref": "北海道"
+  },
+  {
+   "id": "toshima",
+   "name": "利島",
+   "pref": "東京都"
+  },
+  {
+   "id": "toyohashi",
+   "name": "豊橋",
+   "pref": "愛知県"
+  },
+  {
+   "id": "toyota-city",
+   "name": "豊田",
+   "pref": "愛知県"
+  },
+  {
+   "id": "tsubamesanjo",
+   "name": "燕三条",
+   "pref": "新潟県"
+  },
+  {
+   "id": "tsuchiura",
+   "name": "土浦",
+   "pref": "茨城県"
+  },
+  {
+   "id": "tsunan",
+   "name": "津南",
+   "pref": "新潟県"
+  },
+  {
+   "id": "tsuruoka-kinzan",
+   "name": "金山町",
+   "pref": "山形県"
+  },
+  {
+   "id": "tsuyama",
+   "name": "津山",
+   "pref": "岡山県"
+  },
+  {
+   "id": "uchiko",
+   "name": "内子",
+   "pref": "愛媛県"
+  },
+  {
+   "id": "usuki",
+   "name": "臼杵",
+   "pref": "大分県"
+  },
+  {
+   "id": "yaizu",
+   "name": "焼津",
+   "pref": "静岡県"
+  },
+  {
+   "id": "yamaguchi-city",
+   "name": "山口市",
+   "pref": "山口県"
+  },
+  {
+   "id": "yatsushiro",
+   "name": "八代",
+   "pref": "熊本県"
+  },
+  {
+   "id": "yura-wakayama",
+   "name": "由良",
+   "pref": "和歌山県"
+  },
+  {
+   "id": "zushi",
+   "name": "逗子",
+   "pref": "神奈川県"
+  },
+  {
+   "id": "iga-ueno",
+   "name": "伊賀上野",
+   "pref": "三重県"
+  },
+  {
+   "id": "ikuno",
+   "name": "生野",
+   "pref": "兵庫県"
+  },
+  {
+   "id": "okayama-city",
+   "name": "岡山",
+   "pref": "岡山県"
+  },
+  {
+   "id": "rikuzentakata",
+   "name": "陸前高田",
+   "pref": "岩手県"
+  }
+ ],
+ "spots": [
+  {
+   "id": "aji-peninsula",
+   "file": "spot-1.jpg"
+  },
+  {
+   "id": "akakura-onsen",
+   "file": "spot-2.jpg"
+  },
+  {
+   "id": "amami",
+   "file": "spot-3.jpg"
+  },
+  {
+   "id": "arita",
+   "file": "spot-2.jpg"
+  },
+  {
+   "id": "chinatown",
+   "file": "spot-3.jpg"
+  },
+  {
+   "id": "chokai-san",
+   "file": "spot-2.jpg"
+  },
+  {
+   "id": "echizen-cape",
+   "file": "spot-2.jpg"
+  },
+  {
+   "id": "echizen-kaigan",
+   "file": "spot-3.jpg"
+  },
+  {
+   "id": "echizen",
+   "file": "spot-1.jpg"
+  },
+  {
+   "id": "eshima-miyagi",
+   "file": "spot-2.jpg"
+  },
+  {
+   "id": "fukushima-aizu-2",
+   "file": "spot-1.jpg"
+  },
+  {
+   "id": "gen_茨城_国営ひたち海浜公園",
+   "file": "spot-3.jpg"
+  },
+  {
+   "id": "gen_茨城_酒列磯前神社",
+   "file": "spot-3.jpg"
+  },
+  {
+   "id": "gen_群馬_奥嬬恋温泉",
+   "file": "spot-1.jpg"
+  },
+  {
+   "id": "gen_群馬_花敷温泉",
+   "file": "spot-1.jpg"
+  },
+  {
+   "id": "gen_群馬_片品温泉",
+   "file": "spot-1.jpg"
+  },
+  {
+   "id": "gen_青森_十和田湖畔温泉",
+   "file": "spot-1.jpg"
+  },
+  {
+   "id": "gen_青森_相乗温泉",
+   "file": "spot-1.jpg"
+  },
+  {
+   "id": "gen_青森_馬門温泉",
+   "file": "spot-1.jpg"
+  },
+  {
+   "id": "gen_青森_板留温泉",
+   "file": "spot-1.jpg"
+  },
+  {
+   "id": "gen_北海_オーロラ温泉",
+   "file": "spot-1.jpg"
+  },
+  {
+   "id": "gen_北海_オソウシ温泉",
+   "file": "spot-3.jpg"
+  },
+  {
+   "id": "gen_北海_臼別温泉",
+   "file": "spot-1.jpg"
+  },
+  {
+   "id": "gen_北海_花の拠点「はなふる」",
+   "file": "spot-1.jpg"
+  },
+  {
+   "id": "gen_北海_黒松内温泉",
+   "file": "spot-1.jpg"
+  },
+  {
+   "id": "gen_北海_神居岩温泉",
+   "file": "spot-1.jpg"
+  },
+  {
+   "id": "gen_北海_白老温泉",
+   "file": "spot-1.jpg"
+  },
+  {
+   "id": "hachijojima",
+   "file": "spot-1.jpg"
+  },
+  {
+   "id": "higashine",
+   "file": "spot-2.jpg"
+  },
+  {
+   "id": "hioki",
+   "file": "spot-3.jpg"
+  },
+  {
+   "id": "hita",
+   "file": "spot-2.jpg"
+  },
+  {
+   "id": "hita",
+   "file": "spot-3.jpg"
+  },
+  {
+   "id": "ibukijima",
+   "file": "spot-2.jpg"
+  },
+  {
+   "id": "ikata",
+   "file": "spot-3.jpg"
+  },
+  {
+   "id": "iwaishima",
+   "file": "spot-1.jpg"
+  },
+  {
+   "id": "kamaishi",
+   "file": "spot-1.jpg"
+  },
+  {
+   "id": "kamogawa",
+   "file": "spot-3.jpg"
+  },
+  {
+   "id": "kashiwara-wine",
+   "file": "spot-2.jpg"
+  },
+  {
+   "id": "kasuga-gifu",
+   "file": "spot-2.jpg"
+  },
+  {
+   "id": "kirigamine",
+   "file": "spot-2.jpg"
+  },
+  {
+   "id": "koriyama",
+   "file": "spot-2.jpg"
+  },
+  {
+   "id": "kuju-kogen",
+   "file": "spot-1.jpg"
+  },
+  {
+   "id": "kujukuri-icho",
+   "file": "spot-3.jpg"
+  },
+  {
+   "id": "kujukuri",
+   "file": "spot-3.jpg"
+  },
+  {
+   "id": "kure",
+   "file": "spot-3.jpg"
+  },
+  {
+   "id": "manabeshima",
+   "file": "spot-1.jpg"
+  },
+  {
+   "id": "megijima",
+   "file": "spot-1.jpg"
+  },
+  {
+   "id": "mitsuke-jima",
+   "file": "spot-3.jpg"
+  },
+  {
+   "id": "miura",
+   "file": "spot-2.jpg"
+  },
+  {
+   "id": "miyoshi-hiroshima",
+   "file": "spot-1.jpg"
+  },
+  {
+   "id": "muroran",
+   "file": "spot-2.jpg"
+  },
+  {
+   "id": "nakatosa",
+   "file": "spot-3.jpg"
+  },
+  {
+   "id": "nakatsu",
+   "file": "spot-3.jpg"
+  },
+  {
+   "id": "niche_広島_6",
+   "file": "spot-1.jpg"
+  },
+  {
+   "id": "nima",
+   "file": "spot-3.jpg"
+  },
+  {
+   "id": "nobeoka",
+   "file": "spot-2.jpg"
+  },
+  {
+   "id": "noko-island",
+   "file": "spot-3.jpg"
+  },
+  {
+   "id": "numata",
+   "file": "spot-3.jpg"
+  },
+  {
+   "id": "nyukasa",
+   "file": "spot-3.jpg"
+  },
+  {
+   "id": "ofunato",
+   "file": "spot-3.jpg"
+  },
+  {
+   "id": "omaezaki",
+   "file": "spot-2.jpg"
+  },
+  {
+   "id": "omagari",
+   "file": "spot-3.jpg"
+  },
+  {
+   "id": "senri-bamboo",
+   "file": "spot-1.jpg"
+  },
+  {
+   "id": "shikotsu",
+   "file": "spot-3.jpg"
+  },
+  {
+   "id": "shima",
+   "file": "spot-2.jpg"
+  },
+  {
+   "id": "shishikui",
+   "file": "spot-1.jpg"
+  },
+  {
+   "id": "sozogi",
+   "file": "spot-1.jpg"
+  },
+  {
+   "id": "sozogi",
+   "file": "spot-2.jpg"
+  },
+  {
+   "id": "suo-oshima",
+   "file": "spot-3.jpg"
+  },
+  {
+   "id": "tajimi",
+   "file": "spot-1.jpg"
+  },
+  {
+   "id": "takachihogo-shishiku",
+   "file": "spot-3.jpg"
+  },
+  {
+   "id": "takarakawa-onsen",
+   "file": "spot-2.jpg"
+  },
+  {
+   "id": "tateyama-chiba",
+   "file": "spot-3.jpg"
+  },
+  {
+   "id": "toba",
+   "file": "spot-4.jpg"
+  },
+  {
+   "id": "tondabayashi",
+   "file": "spot-3.jpg"
+  },
+  {
+   "id": "toshima",
+   "file": "spot-1.jpg"
+  },
+  {
+   "id": "tottori-sakyu",
+   "file": "spot-3.jpg"
+  },
+  {
+   "id": "tsuchiura",
+   "file": "spot-1.jpg"
+  },
+  {
+   "id": "tsunan",
+   "file": "spot-1.jpg"
+  },
+  {
+   "id": "tsunan",
+   "file": "spot-3.jpg"
+  },
+  {
+   "id": "ube",
+   "file": "spot-3.jpg"
+  },
+  {
+   "id": "ureshino-onsen",
+   "file": "spot-2.jpg"
+  },
+  {
+   "id": "ushibuka",
+   "file": "spot-3.jpg"
+  },
+  {
+   "id": "uwajima",
+   "file": "spot-2.jpg"
+  },
+  {
+   "id": "yanai",
+   "file": "spot-1.jpg"
+  },
+  {
+   "id": "yorojima",
+   "file": "spot-2.jpg"
+  },
+  {
+   "id": "gen_北海_網走湖畔温泉",
+   "file": "spot-1.jpg"
+  },
+  {
+   "id": "honjima",
+   "file": "spot-3.jpg"
+  },
+  {
+   "id": "ie-island",
+   "file": "spot-2.jpg"
+  },
+  {
+   "id": "innoshima",
+   "file": "spot-3.jpg"
+  },
+  {
+   "id": "kagawa-takamatsu",
+   "file": "spot-3.jpg"
+  },
+  {
+   "id": "kurobe",
+   "file": "spot-2.jpg"
+  }
+ ]
+}

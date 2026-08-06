@@ -7321,14 +7321,7 @@
    },
    {
     "name": "伊良湖岬",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Topographic_map_of_Chubu%2C_Japan.webp/500px-Topographic_map_of_Chubu%2C_Japan.webp.png",
-    "description": "鳥羽から車で1時間ほど、渥美半島の先端の岬。整備された道を灯台まで歩けば、人の少ない静けさを味わえる。",
-    "imageCredit": {
-     "author": "Tawashi2006",
-     "license": "CC BY-SA 3.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Irago_Channel_view_from_Toba-Observatory_S.jpg",
-     "attributionRequired": true
-    }
+    "description": "鳥羽から車で1時間ほど、渥美半島の先端の岬。整備された道を灯台まで歩けば、人の少ない静けさを味わえる。"
    },
    {
     "name": "夫婦岩",
@@ -8149,12 +8142,6 @@
    "aso-volcano"
   ],
   "bestSeason": "夏",
-  "imageCredit": {
-   "author": "迷惘的人生",
-   "license": "CC BY-SA 2.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Aso_Volcano_Museum,_Kumamoto-_Jan_31,_2013.jpg",
-   "attributionRequired": true
-  },
   "featured_stay": {
    "name": "阿蘇内牧温泉 蘇山郷",
    "catchcopy": "与謝野晶子・鉄幹ゆかりの杉の間が残る内牧温泉の老舗和風旅館",
@@ -10404,14 +10391,7 @@
    },
    {
     "name": "道後温泉",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/%E9%81%93%E5%BE%8C%E6%B8%A9%E6%B3%89_Dogo_Hot_Springs_-_panoramio.jpg/1280px-%E9%81%93%E5%BE%8C%E6%B8%A9%E6%B3%89_Dogo_Hot_Springs_-_panoramio.jpg",
-    "description": "宇和島から特急で約1時間10分、松山の名湯。本館工事中の時期も飛鳥乃湯泉に入れる。夜が空いていて狙い目。",
-    "imageCredit": {
-     "author": "lienyuan lee",
-     "license": "CC BY 3.0",
-     "url": "https://commons.wikimedia.org/wiki/File:%E9%81%93%E5%BE%8C%E6%B8%A9%E6%B3%89_Dogo_Hot_Springs_-_panoramio.jpg",
-     "attributionRequired": true
-    }
+    "description": "宇和島から特急で約1時間10分、松山の名湯。本館工事中の時期も飛鳥乃湯泉に入れる。夜が空いていて狙い目。"
    },
    {
     "name": "じゃこ天",
@@ -11855,12 +11835,6 @@
    "山岳ハイキング"
   ],
   "bestSeason": "冬",
-  "imageCredit": {
-   "author": "くろふね",
-   "license": "CC BY-SA 4.0",
-   "url": "https://commons.wikimedia.org/wiki/File:%E7%99%BD%E9%A6%AC%E6%9D%91%E3%81%AE%E9%81%93%E7%A5%96%E7%A5%9E%E3%81%A8%E6%A1%9C.jpg",
-   "attributionRequired": true
-  },
   "featured_stay": {
    "name": "白馬八方温泉 しろうま荘",
    "catchcopy": "八方尾根の麓、古材を活かした和の湯宿。白馬三山を望む",
@@ -13800,14 +13774,7 @@
    },
    {
     "name": "花畑",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Rape_blossoms_P4268885%E8%8F%9C%E3%81%AE%E8%8A%B1%E7%95%91.jpg/500px-Rape_blossoms_P4268885%E8%8F%9C%E3%81%AE%E8%8A%B1%E7%95%91.jpg",
-    "description": "冬から春、街のあちこちに花が咲く「花の街」館山の風物詩。2月には道路沿いが一面の菜の花に染まる。",
-    "imageCredit": {
-     "author": "源泉館主人",
-     "license": "CC BY-SA 3.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Rape_blossoms_P4268885%E8%8F%9C%E3%81%AE%E8%8A%B1%E7%95%91.jpg",
-     "attributionRequired": true
-    }
+    "description": "冬から春、街のあちこちに花が咲く「花の街」館山の風物詩。2月には道路沿いが一面の菜の花に染まる。"
    },
    {
     "name": "マザー牧場",
@@ -14380,12 +14347,6 @@
    "温泉がおすすめ"
   ],
   "bestSeason": "秋・冬",
-  "imageCredit": {
-   "author": "Unknown",
-   "license": "Public domain",
-   "url": "https://commons.wikimedia.org/wiki/File%3A%E5%8C%97%E6%B5%B7%E9%81%93%E9%81%931%E5%8F%B7%E5%B0%8F%E6%A8%BD%E5%AE%9A%E5%B1%B1%E6%B8%93%E7%B7%9A.jpg",
-   "attributionRequired": false
-  },
   "featured_stay": {
    "name": "定山渓温泉 ぬくもりの宿ふる川",
    "catchcopy": "囲炉裏の火と手作りの湯宿らしさが灯る、札幌の奥座敷の癒やしの隠れ宿。",
@@ -15341,14 +15302,7 @@
    },
    {
     "name": "マングローブカヌー",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Mangrove_park1.JPG/500px-Mangrove_park1.JPG",
-    "description": "住用町の川内川河口、日本2位の規模のマングローブをカヌーで漕ぎ進む。約2時間のツアーで森の奥まで入っていける。",
-    "imageCredit": {
-     "author": "Vanquish0",
-     "license": "CC BY-SA 3.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Mangrove_park1.JPG",
-     "attributionRequired": true
-    }
+    "description": "住用町の川内川河口、日本2位の規模のマングローブをカヌーで漕ぎ進む。約2時間のツアーで森の奥まで入っていける。"
    }
   ],
   "shinkansenAccess": false,
@@ -16011,10 +15965,10 @@
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Manjiro_Nakahama_circa_1880%2C_Millicent_Library_collection.jpg/500px-Manjiro_Nakahama_circa_1880%2C_Millicent_Library_collection.jpg",
     "description": "椿の根が張り出す石段を登った先、太平洋を向いて立つ像。幕末にこの岬から黒潮に乗った少年の物語に思いを馳せられる。",
     "imageCredit": {
-     "author": "Photographer uncredited",
-     "license": "Public domain",
-     "url": "https://commons.wikimedia.org/wiki/File:Manjiro_Nakahama_circa_1880,_Millicent_Library_collection.jpg",
-     "attributionRequired": false
+     "author": "z tanuki",
+     "license": "CC BY 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Cape_Ashizuri_-_%E8%B6%B3%E6%91%BA%E5%B2%AC_-_panoramio_(8).jpg",
+     "attributionRequired": true
     }
    }
   ],
@@ -18131,14 +18085,7 @@
    },
    {
     "name": "嬉野茶の農園",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Green_tea_leaves.jpg/500px-Green_tea_leaves.jpg",
-    "description": "日本有数の茶産地・嬉野の農園。冬は霜の残る茶畑の風景を眺めながら、温泉とはまた別の嬉野の顔に出会える。",
-    "imageCredit": {
-     "author": "たね",
-     "license": "CC BY-SA 3.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Green_tea_leaves.jpg",
-     "attributionRequired": true
-    }
+    "description": "日本有数の茶産地・嬉野の農園。冬は霜の残る茶畑の風景を眺めながら、温泉とはまた別の嬉野の顔に出会える。"
    },
    {
     "name": "不動山温泉",
@@ -18697,13 +18644,7 @@
    "街歩き向け",
    "ゆっくり滞在"
   ],
-  "bestSeason": "通年",
-  "imageCredit": {
-   "author": "Suicasmo",
-   "license": "CC BY-SA 4.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Uchiko-za_20170611.jpg",
-   "attributionRequired": true
-  }
+  "bestSeason": "通年"
  },
  {
   "id": "muroto",
@@ -22165,7 +22106,13 @@
    {
     "name": "蔦沼",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mt.Poroshiridake_from_Mt.Tottabetsudake.jpg/500px-Mt.Poroshiridake_from_Mt.Tottabetsudake.jpg",
-    "description": "日の出直後の1時間だけ紅葉が沼に映える絶景。朝イチに訪れて、限られた時間にしか現れない輝きを狙える。"
+    "description": "日の出直後の1時間だけ紅葉が沼に映える絶景。朝イチに訪れて、限られた時間にしか現れない輝きを狙える。",
+    "imageCredit": {
+     "author": "z tanuki",
+     "license": "CC BY 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Oisase_stream_,_%E5%A5%A5%E5%85%A5%E7%80%AC%E6%B8%93%E6%B5%81_-_panoramio_(19).jpg",
+     "attributionRequired": true
+    }
    }
   ],
   "shinkansenAccess": false,
@@ -28113,9 +28060,9 @@
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Keya_no_ooto.jpg/500px-Keya_no_ooto.jpg",
     "description": "遊覧船で玄武岩の柱が並ぶ洞窟へ。波音が反響し冷気が肌を撫でる、柱状節理の天井が迫る海蝕洞の内側を体感できる。",
     "imageCredit": {
-     "author": "水だらけのプール",
-     "license": "CC BY-SA 4.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Keya_no_ooto.jpg",
+     "author": "STA3816",
+     "license": "CC BY-SA 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Keya_no_Oto.jpg",
      "attributionRequired": true
     }
    },
@@ -29998,14 +29945,7 @@
    },
    {
     "name": "苔の洞門",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Mount_Tarumae_seen_from_the_SSE.jpg/500px-Mount_Tarumae_seen_from_the_SSE.jpg",
-    "description": "崩落の危険のため11月〜4月末は通行止め。訪れられるのは夏だけという、名前の通り苔が主役の洞門だ。",
-    "imageCredit": {
-     "author": "Ray Swi-hymn",
-     "license": "CC BY-SA 2.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Mount_Tarumae_seen_from_the_SSE.jpg",
-     "attributionRequired": true
-    }
+    "description": "崩落の危険のため11月〜4月末は通行止め。訪れられるのは夏だけという、名前の通り苔が主役の洞門だ。"
    }
   ],
   "shinkansenAccess": false,
@@ -31433,9 +31373,9 @@
   "bestSeason": "冬",
   "_accessAutoFixed": "honshuFlightRemoved",
   "imageCredit": {
-   "author": "Tatata",
-   "license": "CC BY-SA",
-   "url": "https://commons.wikimedia.org/wiki/File%3AJP_Aomori_Goshogawara_City_Location.png",
+   "author": "M Murakami",
+   "license": "CC BY-SA 2.0",
+   "url": "https://commons.wikimedia.org/wiki/File:2015-02-15_Goshogawara_Station_01.jpg",
    "attributionRequired": true
   }
  },
@@ -32323,10 +32263,10 @@
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Yuppo_no_Sato.JPG/500px-Yuppo_no_Sato.JPG",
     "description": "根と石の遊歩道を下ると箒川の瀬音が響き、秋は紅葉が崖を染め上げる。急勾配の先に静かな別世界が待っている。",
     "imageCredit": {
-     "author": "Abasaa",
+     "author": "Kanohara (talk)",
      "license": "Public domain",
-     "url": "https://commons.wikimedia.org/wiki/File:Yuppo_no_Sato.JPG",
-     "attributionRequired": false
+     "url": "https://commons.wikimedia.org/wiki/File:Hokigawa_river_and_Shiobara_valley_002.jpg",
+     "attributionRequired": true
     }
    },
    {
@@ -34219,14 +34159,7 @@
   "spots": [
    {
     "name": "越前海岸（水仙）",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/%E8%B6%8A%E5%89%8D%E6%B0%B4%E4%BB%99%E3%81%AE%E9%87%8C%E5%85%AC%E5%9C%92%28%E3%82%B2%E3%83%BC%E3%83%88%29.jpg/1280px-%E8%B6%8A%E5%89%8D%E6%B0%B4%E4%BB%99%E3%81%AE%E9%87%8C%E5%85%AC%E5%9C%92%28%E3%82%B2%E3%83%BC%E3%83%88%29.jpg",
-    "description": "冬の海岸を白く埋める水仙の群落。甘い香りが潮風に混じり、崖から落ちる水簾や砲台跡の歴史にも触れられる。",
-    "imageCredit": {
-     "author": "Indiana jo",
-     "license": "CC BY-SA 4.0",
-     "url": "https://commons.wikimedia.org/wiki/File:%E8%B6%8A%E5%89%8D%E6%B0%B4%E4%BB%99%E3%81%AE%E9%87%8C%E5%85%AC%E5%9C%92(%E3%82%B2%E3%83%BC%E3%83%88).jpg",
-     "attributionRequired": true
-    }
+    "description": "冬の海岸を白く埋める水仙の群落。甘い香りが潮風に混じり、崖から落ちる水簾や砲台跡の歴史にも触れられる。"
    },
    {
     "name": "越前岬",
@@ -34397,13 +34330,7 @@
    "ひとり旅向け",
    "カップル向け"
   ],
-  "bestSeason": "夏",
-  "imageCredit": {
-   "author": "Minami-Echizen Town Board of Education",
-   "license": "CC BY-SA 4.0",
-   "url": "https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E6%9D%91%E5%AE%B6%E4%BD%8F%E5%AE%85%E4%B8%BB%E5%B1%8B%E5%BA%A7%E6%95%B7.jpg",
-   "attributionRequired": true
-  }
+  "bestSeason": "夏"
  },
  {
   "id": "ito",
@@ -34813,13 +34740,7 @@
    "ひとり旅向け",
    "カップル向け"
   ],
-  "bestSeason": "夏",
-  "imageCredit": {
-   "author": "Marantz7",
-   "license": "CC BY-SA 4.0",
-   "url": "https://commons.wikimedia.org/wiki/File%3A%E3%83%9F%E3%82%A8%E3%82%BE%E3%82%A6%E3%81%AE%E8%B6%B3%E8%B7%A1%EF%BC%88%E4%B8%89%E9%87%8D%E7%9C%8C%E4%BC%8A%E8%B3%80%E5%B8%82_%E3%81%9B%E3%81%9B%E3%82%89%E3%81%8E%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92%EF%BC%89.jpg",
-   "attributionRequired": true
-  }
+  "bestSeason": "夏"
  },
  {
   "id": "kashihara",
@@ -36749,14 +36670,7 @@
    },
    {
     "name": "みかん狩り",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Citrus_unshiu_20101127_c.jpg/500px-Citrus_unshiu_20101127_c.jpg",
-    "description": "島の斜面を覆う段々畑が10月下旬にオレンジ色に染まる。産地ならではのみかん狩りを農園で体験できる。",
-    "imageCredit": {
-     "author": "Batholith",
-     "license": "Public domain",
-     "url": "https://commons.wikimedia.org/wiki/File:Citrus_unshiu_20101127_c.jpg",
-     "attributionRequired": false
-    }
+    "description": "島の斜面を覆う段々畑が10月下旬にオレンジ色に染まる。産地ならではのみかん狩りを農園で体験できる。"
    }
   ],
   "shinkansenAccess": false,
@@ -37721,13 +37635,7 @@
    "友達と",
    "海を眺める"
   ],
-  "bestSeason": "冬",
-  "imageCredit": {
-   "author": "運動会プロテインパワー",
-   "license": "CC BY-SA 4.0",
-   "url": "https://commons.wikimedia.org/wiki/File%3AAinan_town_Iekushi_elementary_school.jpg",
-   "attributionRequired": true
-  }
+  "bestSeason": "冬"
  },
  {
   "id": "taketa",
@@ -38124,11 +38032,7 @@
   "icCard": "nimoca",
   "tier2": "area",
   "hubName": "熊本",
-  "unsplashUrl": "https://images.unsplash.com/photo-1564490163269-6a9fe2c4009f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTglODclQkMlRTYlOUQlQjUlMjAlRTUlQTQlQTclRTUlODglODYlRTclOUMlOEMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODM0MjEwNHww&ixlib=rb-4.1.0&q=80&w=1080",
   "unsplashThumbUrl": "https://images.unsplash.com/photo-1564490163269-6a9fe2c4009f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTglODclQkMlRTYlOUQlQjUlMjAlRTUlQTQlQTclRTUlODglODYlRTclOUMlOEMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODM0MjEwNHww&ixlib=rb-4.1.0&q=80&w=400",
-  "unsplashCredit": "Shunsuke Ono",
-  "unsplashCreditUrl": "https://unsplash.com/@genmai?utm_source=dokoiko&utm_medium=referral",
-  "unsplashPhotoUrl": "https://unsplash.com/photos/man-standing-on-rock-near-beach-CzQqJBpOEMU?utm_source=dokoiko&utm_medium=referral",
   "rentalCarRecommended": false,
   "images": [
    "/images/usuki/main.jpg",
@@ -38182,25 +38086,11 @@
    },
    {
     "name": "三隈川鵜飼い",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Ukai_gifu_1.jpg/500px-Ukai_gifu_1.jpg",
-    "description": "夜、鵜船の篝火が水面を照らす江戸時代から続く鮎漁。温泉から眺める幻想的な光景も楽しめる。",
-    "imageCredit": {
-     "author": "Masabb at Japanese Wikipedia",
-     "license": "CC BY 3.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Ukai_gifu_1.jpg",
-     "attributionRequired": true
-    }
+    "description": "夜、鵜船の篝火が水面を照らす江戸時代から続く鮎漁。温泉から眺める幻想的な光景も楽しめる。"
    },
    {
     "name": "天領日田おひなまつり",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Hinamatsuri_in_Hirose_museum%2C_Hita.jpg/500px-Hinamatsuri_in_Hirose_museum%2C_Hita.jpg",
-    "description": "2月から3月初旬、商家や蔵に江戸・明治の雛が並ぶ。冬の光に映える段飾りの朱色を巡り歩ける。",
-    "imageCredit": {
-     "author": "水だらけのプール",
-     "license": "CC0",
-     "url": "https://commons.wikimedia.org/wiki/File:Hinamatsuri_in_Hirose_museum,_Hita.jpg",
-     "attributionRequired": false
-    }
+    "description": "2月から3月初旬、商家や蔵に江戸・明治の雛が並ぶ。冬の光に映える段飾りの朱色を巡り歩ける。"
    }
   ],
   "shinkansenAccess": false,
@@ -41013,14 +40903,7 @@
    },
    {
     "name": "百合ヶ浜",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Comic_Yuri_Hime_2013.png",
-    "description": "島の東端からグラスボートで向かう、晴れた日だけ現れる砂の浜。潮が満ちれば消える、エメラルドの海の奇跡。",
-    "imageCredit": {
-     "author": "Ichijinsha",
-     "license": "Public domain",
-     "url": "https://commons.wikimedia.org/wiki/File:Comic_Yuri_Hime_2013.png",
-     "attributionRequired": false
-    }
+    "description": "島の東端からグラスボートで向かう、晴れた日だけ現れる砂の浜。潮が満ちれば消える、エメラルドの海の奇跡。"
    },
    {
     "name": "伊江島百合の花まつり",
@@ -42218,13 +42101,7 @@
    "ひとり旅向け"
   ],
   "bestSeason": "春",
-  "_accessAutoFixed": "honshuFlightRemoved",
-  "imageCredit": {
-   "author": "VZP10224",
-   "license": "CC BY-SA 4.0",
-   "url": "https://commons.wikimedia.org/wiki/File%3ATsuyama_Funatsukiba_01.jpg",
-   "attributionRequired": true
-  }
+  "_accessAutoFixed": "honshuFlightRemoved"
  },
  {
   "id": "tsurugi-san",
@@ -42468,14 +42345,7 @@
    },
    {
     "name": "北川渓谷",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/KitagawaFuyuhiko.JPG/500px-KitagawaFuyuhiko.JPG",
-    "description": "市街から車で約40分。夏でもひんやり涼しく、高い木々の間に空が細く延びる。静かな渓谷の空気に浸れる。",
-    "imageCredit": {
-     "author": "松本政利",
-     "license": "Public domain",
-     "url": "https://commons.wikimedia.org/wiki/File:KitagawaFuyuhiko.JPG",
-     "attributionRequired": false
-    }
+    "description": "市街から車で約40分。夏でもひんやり涼しく、高い木々の間に空が細く延びる。静かな渓谷の空気に浸れる。"
    },
    {
     "name": "道の駅北川はゆま",
@@ -42666,14 +42536,7 @@
   "spots": [
    {
     "name": "根浜海岸",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Kujukuri_beach%28%E4%B9%9D%E5%8D%81%E4%B9%9D%E9%87%8C%E6%B5%9C%29%2C_Chiba%28Japan%29_from_Airplane%28%E8%88%AA%E7%A9%BA%E5%86%99%E7%9C%9F%29_-_panoramio.jpg/500px-Kujukuri_beach%28%E4%B9%9D%E5%8D%81%E4%B9%9D%E9%87%8C%E6%B5%9C%29%2C_Chiba%28Japan%29_from_Airplane%28%E8%88%AA%E7%A9%BA%E5%86%99%E7%9C%9F%29_-_panoramio.jpg",
-    "description": "夏でも人が少ない白い砂浜が弧を描き、透明度の高い三陸の海が広がる。静かに海と向き合える浜だ。",
-    "imageCredit": {
-     "author": "PSnyan",
-     "license": "CC BY-SA 3.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Kujukuri_beach(%E4%B9%9D%E5%8D%81%E4%B9%9D%E9%87%8C%E6%B5%9C),_Chiba(Japan)_from_Airplane(%E8%88%AA%E7%A9%BA%E5%86%99%E7%9C%9F)_-_panoramio.jpg",
-     "attributionRequired": true
-    }
+    "description": "夏でも人が少ない白い砂浜が弧を描き、透明度の高い三陸の海が広がる。静かに海と向き合える浜だ。"
    },
    {
     "name": "橋野鉄鉱山",
@@ -42877,14 +42740,7 @@
    },
    {
     "name": "三陸花火",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Miracle_Pine_Tree.jpg/500px-Miracle_Pine_Tree.jpg",
-    "description": "10月、大船渡湾の夜空に轟音とともに大輪が開く競技大会。潮の香る海風の中、光の残像が水面に揺れる。",
-    "imageCredit": {
-     "author": "国土交通省 東北地方整備局",
-     "license": "CC BY 4.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Miracle_Pine_Tree.jpg",
-     "attributionRequired": true
-    }
+    "description": "10月、大船渡湾の夜空に轟音とともに大輪が開く競技大会。潮の香る海風の中、光の残像が水面に揺れる。"
    }
   ],
   "railGateway": "大船渡駅",
@@ -43424,9 +43280,9 @@
   ],
   "bestSeason": "夏・冬",
   "imageCredit": {
-   "author": "Raita Futo from Tokyo, Japan",
-   "license": "CC BY 2.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Cape_Soya_(52357579785).jpg",
+   "author": "Nakakocchi",
+   "license": "CC BY-SA 4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:%E7%A8%9A%E5%86%85%E9%A7%85%E3%81%AB%E3%81%82%E3%82%8B%E3%80%8C%E6%97%A5%E6%9C%AC%E6%9C%80%E5%8C%97%E7%AB%AF%E3%81%AE%E9%A7%85%E3%80%8D%E3%82%92%E7%A4%BA%E3%81%99%E6%A8%99%E6%9F%B1.jpg",
    "attributionRequired": true
   }
  },
@@ -43649,12 +43505,6 @@
    "グルメ目当て"
   ],
   "bestSeason": "夏・冬",
-  "imageCredit": {
-   "author": "馬面長伊奈",
-   "license": "CC BY-SA 4.0",
-   "url": "https://commons.wikimedia.org/wiki/File:%E5%B8%AF%E5%BA%83%E7%AB%B6%E9%A6%AC%E5%A0%B4%E3%81%AE%E7%AC%AC2%E9%9A%9C%E5%AE%B3%E3%82%92%E4%B8%8A%E3%81%8C%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E9%A2%A8%E6%99%AF%EF%BC%882016%E5%B9%B41%E6%9C%881%E6%97%A5%E7%AC%AC2%E7%AB%B6%E8%B5%B0%EF%BC%89.JPG",
-   "attributionRequired": true
-  },
   "featured_stay": {
    "name": "森のスパリゾート 北海道ホテル",
    "catchcopy": "創業125年余、北海道遺産のモール温泉とサウナで知られる十勝の名門ホテル。",
@@ -44140,9 +43990,9 @@
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Miyazawa_Kenji.jpg/500px-Miyazawa_Kenji.jpg",
     "description": "胡四王山の斜面を少し息を切らして登った先に立つ。入館料350円で、賢治の手書きの文字にじかに向き合える。",
     "imageCredit": {
-     "author": "M.Hiraga",
-     "license": "CC BY 3.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Wild_Cat_House_-_%E5%AE%AE%E6%B2%A2%E8%B3%A2%E6%B2%BB%E8%A8%98%E5%BF%B5%E9%A4%A8%E3%81%AE%E3%83%AC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B3%E5%B1%B1%E7%8C%AB%E8%BB%92_-_panoramio.jpg",
+     "author": "Isjsjxid",
+     "license": "CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:%E5%B2%A9%E6%89%8B%E7%9C%8C%E8%8A%B1%E5%B7%BB%E5%B8%82%E8%B1%8A%E6%B2%A2%E5%85%89%E6%9E%97%E5%AF%BA.jpg",
      "attributionRequired": true
     }
    },
@@ -44534,12 +44384,6 @@
   ],
   "bestSeason": "冬",
   "_accessAutoFixed": "honshuFlightRemoved",
-  "imageCredit": {
-   "author": "Raita Futo",
-   "license": "CC BY 2.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Mount_Hachimantai_and_its_surroundings,_Japan;_October_2017_(02).jpg",
-   "attributionRequired": true
-  },
   "featured_stay": {
    "name": "藤七温泉 彩雲荘",
    "catchcopy": "標高1400m、東北最高所の秘湯。雲海とご来光を望む野趣あふれる露天風呂群",
@@ -47085,12 +46929,6 @@
    "カップル向け"
   ],
   "bestSeason": "冬",
-  "imageCredit": {
-   "author": "friendD",
-   "license": "CC BY 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File%3AMurakami_Station_-_%E6%9D%91%E4%B8%8A%E9%A7%85%EF%BC%88%E6%96%B0%E6%BD%9F%E7%9C%8C%EF%BC%89_-_panoramio.jpg",
-   "attributionRequired": true
-  },
   "featured_stay": {
    "name": "大観荘せなみの湯",
    "catchcopy": "日本海に沈む夕陽を一望する瀬波温泉の宿。海辺の露天風呂と新潟の幸",
@@ -47135,23 +46973,16 @@
    },
    {
     "name": "賢島",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Kashikojima_Island_Aerial_photograph.2015.jpg/500px-Kashikojima_Island_Aerial_photograph.2015.jpg",
-    "description": "近鉄志摩線の終点、駅を降りればそこが島。橋で繋がっていて島の感覚は薄いが、確かに海に囲まれた旅情がある。",
-    "imageCredit": {
-     "author": "国土地理院",
-     "license": "Attribution",
-     "url": "https://commons.wikimedia.org/wiki/File:Kashikojima_Island_Aerial_photograph.2015.jpg",
-     "attributionRequired": false
-    }
+    "description": "近鉄志摩線の終点、駅を降りればそこが島。橋で繋がっていて島の感覚は薄いが、確かに海に囲まれた旅情がある。"
    },
    {
     "name": "海女小屋体験",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/%E6%B5%B7%E5%A5%B3%E5%B0%8F%E5%B1%8B%E4%BD%93%E9%A8%93%E6%96%BD%E8%A8%AD%E3%81%95%E3%81%A8%E3%81%86%E3%81%BF%E5%BA%B5.jpg/1280px-%E6%B5%B7%E5%A5%B3%E5%B0%8F%E5%B1%8B%E4%BD%93%E9%A8%93%E6%96%BD%E8%A8%AD%E3%81%95%E3%81%A8%E3%81%86%E3%81%BF%E5%BA%B5.jpg",
     "description": "囲炉裏を囲み、海女が素手でさばくサザエの焼ける音と塩の香りを味わう。海の深さを言葉より早く伝える体験だ。",
     "imageCredit": {
-     "author": "Sakusakupanda",
-     "license": "CC BY-SA 4.0",
-     "url": "https://commons.wikimedia.org/wiki/File:%E6%B5%B7%E5%A5%B3%E5%B0%8F%E5%B1%8B%E4%BD%93%E9%A8%93%E6%96%BD%E8%A8%AD%E3%81%95%E3%81%A8%E3%81%86%E3%81%BF%E5%BA%B5.jpg",
+     "author": "inunami",
+     "license": "CC BY 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Shima_20200926175844_(50874073416).jpg",
      "attributionRequired": true
     }
    }
@@ -47543,14 +47374,7 @@
    },
    {
     "name": "越前松島",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Giant_squid_-_Echizen_Matsushima_Aquarium_%282%29.jpg/1280px-Giant_squid_-_Echizen_Matsushima_Aquarium_%282%29.jpg",
-    "description": "岩礁の上に松が生え、海がそれを囲む「日本っぽい」景色。ただそれだけなのに、いつまでも眺めていたくなる。",
-    "imageCredit": {
-     "author": "Mgiganteus1",
-     "license": "CC BY-SA 4.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Giant_squid_-_Echizen_Matsushima_Aquarium_(2).jpg",
-     "attributionRequired": true
-    }
+    "description": "岩礁の上に松が生え、海がそれを囲む「日本っぽい」景色。ただそれだけなのに、いつまでも眺めていたくなる。"
    }
   ],
   "shinkansenAccess": false,
@@ -48526,12 +48350,6 @@
    "友達と"
   ],
   "bestSeason": "秋",
-  "imageCredit": {
-   "author": "ありきたり",
-   "license": "CC BY-SA 4.0",
-   "url": "https://commons.wikimedia.org/wiki/File:%E9%82%A3%E6%99%BA%E5%8B%9D%E6%B5%A6%E6%B8%AF%E3%81%AE%E5%A4%95%E9%99%BD.jpg",
-   "attributionRequired": true
-  },
   "featured_stay": {
    "name": "碧き島の宿 熊野別邸 中の島",
    "catchcopy": "船でしか行けない紺碧の島の温泉宿。海と一体になる絶景の露天風呂が待つ",
@@ -52577,11 +52395,7 @@
   "icCard": "suica",
   "tier2": "spot",
   "hubName": "札幌",
-  "unsplashUrl": "https://images.unsplash.com/photo-1629356309084-95ba7edb7055?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTMlODMlOEIlRTMlODIlQkIlRTMlODIlQjMlMjAlRTUlOEMlOTclRTYlQjUlQjclRTklODElOTMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODM3NDI2MXww&ixlib=rb-4.1.0&q=80&w=1080",
   "unsplashThumbUrl": "https://images.unsplash.com/photo-1629356309084-95ba7edb7055?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTMlODMlOEIlRTMlODIlQkIlRTMlODIlQjMlMjAlRTUlOEMlOTclRTYlQjUlQjclRTklODElOTMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODM3NDI2MXww&ixlib=rb-4.1.0&q=80&w=400",
-  "unsplashCredit": "Ozgu Ozden",
-  "unsplashCreditUrl": "https://unsplash.com/@ozgut?utm_source=dokoiko&utm_medium=referral",
-  "unsplashPhotoUrl": "https://unsplash.com/photos/green-grass-field-near-green-trees-and-mountain-under-white-clouds-and-blue-sky-during-daytime-Gp754197b6Y?utm_source=dokoiko&utm_medium=referral",
   "rentalCarRecommended": true,
   "images": [
    "/images/niseko/main.jpg"
@@ -52597,12 +52411,6 @@
    "山岳ハイキング"
   ],
   "bestSeason": "冬",
-  "imageCredit": {
-   "author": "ブルーノ・プラス",
-   "license": "CC BY 4.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Niseko_helipad_building.jpg",
-   "attributionRequired": true
-  },
   "featured_stay": {
    "name": "坐忘林",
    "catchcopy": "全15室に源泉かけ流しの内湯と露天を備えた、ニセコの森に潜む静寂の高級旅館。",
@@ -54126,9 +53934,9 @@
   ],
   "bestSeason": "通年",
   "imageCredit": {
-   "author": "ブルーノ・プラス",
-   "license": "CC BY-SA 4.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Arashima_in_Minamisanriku_Town.jpg",
+   "author": "中央特快201",
+   "license": "CC BY-SA 3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:JR_Kesennuma-Line(BRT)_Bayside-Arena_%EF%BD%93tation(2).JPG",
    "attributionRequired": true
   },
   "featured_stay": {
@@ -55149,13 +54957,7 @@
    "日帰り最適",
    "1泊がおすすめ"
   ],
-  "bestSeason": "通年",
-  "imageCredit": {
-   "author": "小石川人晃",
-   "license": "CC BY-SA 4.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Kitayama_Park_(Kasama_City,_Ibaraki_Prefecture)_02.jpg",
-   "attributionRequired": true
-  }
+  "bestSeason": "通年"
  },
  {
   "id": "naritasan",
@@ -55415,14 +55217,7 @@
    },
    {
     "name": "いわし丸干し",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Riboflavin_v2.svg/500px-Riboflavin_v2.svg.png",
-    "description": "九十九里名物のいわし。国道沿いに干し場が並ぶ光景が、この土地と海との関わりの深さを物語る。",
-    "imageCredit": {
-     "author": "User:Innerstream",
-     "license": "Public domain",
-     "url": "https://commons.wikimedia.org/wiki/File:Riboflavin_v2.svg",
-     "attributionRequired": false
-    }
+    "description": "九十九里名物のいわし。国道沿いに干し場が並ぶ光景が、この土地と海との関わりの深さを物語る。"
    }
   ],
   "shinkansenAccess": false,
@@ -55617,14 +55412,7 @@
    },
    {
     "name": "三崎港まぐろ",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Mount_Fuji_and_Port_of_Shimizu_from_Nihondaira.jpg/500px-Mount_Fuji_and_Port_of_Shimizu_from_Nihondaira.jpg",
-    "description": "三崎港名物のまぐろは、実際に食べると違いがわかる。人気の食堂は開店の11時前から並ぶのが確実だ。",
-    "imageCredit": {
-     "author": "Alpsdake",
-     "license": "CC BY-SA 4.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Mount_Fuji_and_Port_of_Shimizu_from_Nihondaira.jpg",
-     "attributionRequired": true
-    }
+    "description": "三崎港名物のまぐろは、実際に食べると違いがわかる。人気の食堂は開店の11時前から並ぶのが確実だ。"
    },
    {
     "name": "三浦海岸",
@@ -56170,9 +55958,9 @@
   ],
   "bestSeason": "冬",
   "imageCredit": {
-   "author": "迷惘的人生",
-   "license": "CC BY-SA 2.0",
-   "url": "https://commons.wikimedia.org/wiki/File:%E5%9C%B0%E7%8D%84%E8%B0%B7%E9%87%8E%E7%8C%BF%E5%85%AC%E8%8B%91-Snow_Monkey_-_Flickr_-_%E8%BF%B7%E6%83%98%E7%9A%84%E4%BA%BA%E7%94%9F.jpg",
+   "author": "Yosemite",
+   "license": "CC BY-SA 3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Jigokudani_hotspring_in_Nagano_Japan_001.jpg",
    "attributionRequired": true
   },
   "featured_stay": {
@@ -58050,9 +57838,9 @@
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Syuureimine_gyokusendou.JPG/500px-Syuureimine_gyokusendou.JPG",
     "description": "入口に立つと冷気が顔に当たる。洞内は年間を通じて8度前後、外より寒いほどの地底の世界を歩ける。",
     "imageCredit": {
-     "author": "かわかみ みお",
-     "license": "CC BY 3.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Syuureimine_gyokusendou.JPG",
+     "author": "伊勢雷堂2",
+     "license": "CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:%E6%B4%9E%E5%B7%9D%E6%B8%A9%E6%B3%89_%E5%B1%B1%E4%B8%8A%E5%B7%9D.jpg",
      "attributionRequired": true
     }
    }
@@ -58830,7 +58618,7 @@
   "imageCredit": {
    "author": "Asturio Cantabrio",
    "license": "CC BY-SA 4.0",
-   "url": "https://commons.wikimedia.org/wiki/File:%E6%B5%B7%E5%A3%AB%E7%94%BA%E5%BE%8C%E9%B3%A5%E7%BE%BD%E9%99%A2%E8%B3%87%E6%96%99%E9%A4%A8_ac.jpg",
+   "url": "https://commons.wikimedia.org/wiki/File:Ama_town_Kinnyamonya_Center_exterior_ac.jpg",
    "attributionRequired": true
   },
   "featured_stay": {
@@ -59075,14 +58863,7 @@
   "spots": [
    {
     "name": "白壁の街並み",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Yanai_City_01.JPG/500px-Yanai_City_01.JPG",
-    "description": "古市・金屋地区の約200メートルの通りに白漆喰の商家が並ぶ。空気の変わる路地をゆっくり歩いて楽しめる。",
-    "imageCredit": {
-     "author": "ja:User:Sanjo",
-     "license": "CC BY-SA 3.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Yanai_City_01.JPG",
-     "attributionRequired": true
-    }
+    "description": "古市・金屋地区の約200メートルの通りに白漆喰の商家が並ぶ。空気の変わる路地をゆっくり歩いて楽しめる。"
    },
    {
     "name": "金魚ちょうちん",
@@ -59903,9 +59684,9 @@
   ],
   "bestSeason": "通年",
   "imageCredit": {
-   "author": "Naoharu",
-   "license": "CC BY 2.0",
-   "url": "https://commons.wikimedia.org/wiki/File%3A%E5%94%90%E6%AB%83%E3%81%AE%E6%B8%85%E6%B0%B4_%E8%B1%8A%E5%B3%B6_%E9%A6%99%E5%B7%9D%E7%9C%8C_Mar_27%2C_2013.jpg",
+   "author": "HQA02330",
+   "license": "CC BY-SA 4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:TT-Toshima-station-sign.jpg",
    "attributionRequired": true
   },
   "featured_stay": {
@@ -60507,13 +60288,7 @@
    "海を眺める",
    "ゆっくり滞在"
   ],
-  "bestSeason": "通年",
-  "imageCredit": {
-   "author": "yano@mama.akari.ne.j…",
-   "license": "CC BY-SA 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Anan_power_station_-_%E9%98%BF%E5%8D%97%E7%99%BA%E9%9B%BB%E6%89%80_-_panoramio_(5).jpg",
-   "attributionRequired": true
-  }
+  "bestSeason": "通年"
  },
  {
   "id": "shikoku-karst",
@@ -61788,9 +61563,9 @@
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Nokubi_Church2010.jpg/500px-Nokubi_Church2010.jpg",
     "description": "宿から自転車で15分。ペダルを止めれば波音だけが耳に満ち、五島灘の青が砂浜に透ける浜辺でくつろげる。",
     "imageCredit": {
-     "author": "ぱちょぴ（投稿者）撮影",
-     "license": "CC BY-SA 3.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Nokubi_Church2010.jpg",
+     "author": "Batholith",
+     "license": "Public domain",
+     "url": "https://commons.wikimedia.org/wiki/File:Ojikajima_Volcano_Group,_SRTM-1.jpg",
      "attributionRequired": true
     }
    },
@@ -62032,9 +61807,9 @@
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/1_tou_sankakuen.jpg/500px-1_tou_sankakuen.jpg",
     "description": "島の最高地点・標高89m。宮古ブルーの海が360度広がり、晴れれば宮古島や池間島の輪郭まで見渡せる。",
     "imageCredit": {
-     "author": "Kugel~commonswiki",
-     "license": "CC BY-SA 4.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Triangulation_point_at_Mount_Oppa_202408.jpg",
+     "author": "Paipateroma",
+     "license": "CC BY 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Irabu_yamatobu.jpg",
      "attributionRequired": true
     }
    }
@@ -63115,14 +62890,7 @@
   "spots": [
    {
     "name": "底土海水浴場",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Landsat_Hachijojima_Island.jpg/500px-Landsat_Hachijojima_Island.jpg",
-    "description": "午前の青から正午の碧へ、時間ごとに色を変える海。黒潮の温もりを感じながら泳げる、島唯一の砂浜。",
-    "imageCredit": {
-     "author": "っ at Japanese Wikipedia",
-     "license": "CC BY-SA 3.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Landsat_Hachijojima_Island.jpg",
-     "attributionRequired": true
-    }
+    "description": "午前の青から正午の碧へ、時間ごとに色を変える海。黒潮の温もりを感じながら泳げる、島唯一の砂浜。"
    },
    {
     "name": "黄八丈染物",
@@ -64169,14 +63937,7 @@
    },
    {
     "name": "猪苗代湖（日帰り）",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Koriyama_Montage.jpg/500px-Koriyama_Montage.jpg",
-    "description": "郡山駅から車で約40分、バスなら1時間ちょっと。想像を裏切る湖面の色を、日帰りで眺めに行ける。",
-    "imageCredit": {
-     "author": "水だらけのプール",
-     "license": "CC BY-SA 4.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Koriyama_Montage.jpg",
-     "attributionRequired": true
-    }
+    "description": "郡山駅から車で約40分、バスなら1時間ちょっと。想像を裏切る湖面の色を、日帰りで眺めに行ける。"
    },
    {
     "name": "磐梯山（日帰り）",
@@ -64899,12 +64660,6 @@
    "海を眺める"
   ],
   "bestSeason": "冬",
-  "imageCredit": {
-   "author": "掬茶",
-   "license": "CC BY-SA 4.0",
-   "url": "https://commons.wikimedia.org/wiki/File:YAMADO_Oga_Resort.jpg",
-   "attributionRequired": true
-  },
   "featured_stay": {
    "name": "元湯 雄山閣",
    "catchcopy": "なまはげの口から源泉が噴き出す名物大浴場の湯元宿",
@@ -64953,9 +64708,9 @@
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Kitakujyukushima_from_nagushiyama.jpg/500px-Kitakujyukushima_from_nagushiyama.jpg",
     "description": "田んぼの中に小島がいくつも浮かぶ象潟ならではの奇観を一望。思わず声が出るほどの眺めが待っている。",
     "imageCredit": {
-     "author": "Atsasebo",
-     "license": "CC BY-SA 3.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Kitakujyukushima_from_nagushiyama.jpg",
+     "author": "掬茶",
+     "license": "CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Scenery_of_Kisakata_20180526b.jpg",
      "attributionRequired": true
     }
    },
@@ -65093,13 +64848,7 @@
    "ひとり旅向け",
    "カップル向け"
   ],
-  "bestSeason": "秋",
-  "imageCredit": {
-   "author": "掬茶",
-   "license": "CC BY-SA 4.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Scenery_of_Kisakata_20180526b.jpg",
-   "attributionRequired": true
-  }
+  "bestSeason": "秋"
  },
  {
   "id": "gassan",
@@ -65321,14 +65070,7 @@
    },
    {
     "name": "大けやき公園",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Hinatazaka46_logomark_2021.svg/500px-Hinatazaka46_logomark_2021.svg.png",
-    "description": "幹回り16メートル、樹齢1500年超の大けやきが立つ。枝の広がりと根元の隆起に圧倒される一本。",
-    "imageCredit": {
-     "author": "Copyright holder : Seed&Flower, Sony Music Entertainment",
-     "license": "Public domain",
-     "url": "https://commons.wikimedia.org/wiki/File:Hinatazaka46_logomark_2021.svg",
-     "attributionRequired": false
-    }
+    "description": "幹回り16メートル、樹齢1500年超の大けやきが立つ。枝の広がりと根元の隆起に圧倒される一本。"
    },
    {
     "name": "さくらんぼ狩り農園",
@@ -65452,11 +65194,7 @@
   "icCard": "suica",
   "tier2": "area",
   "hubName": "山形",
-  "unsplashUrl": "https://images.unsplash.com/photo-1746573909976-c79ccb9d0c25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTYlOUQlQjElRTYlQTAlQjklRTYlQjglQTklRTYlQjMlODklMjAlRTYlOUQlQjElRTYlQTAlQjl8ZW58MHwwfHx8MTc3ODQzNDE0Mnww&ixlib=rb-4.1.0&q=80&w=1080",
   "unsplashThumbUrl": "https://images.unsplash.com/photo-1746573909976-c79ccb9d0c25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTYlOUQlQjElRTYlQTAlQjklRTYlQjglQTklRTYlQjMlODklMjAlRTYlOUQlQjElRTYlQTAlQjl8ZW58MHwwfHx8MTc3ODQzNDE0Mnww&ixlib=rb-4.1.0&q=80&w=400",
-  "unsplashCredit": "Buddy AN",
-  "unsplashCreditUrl": "https://unsplash.com/@stbuddyp?utm_source=dokoiko&utm_medium=referral",
-  "unsplashPhotoUrl": "https://unsplash.com/photos/sunlight-shines-over-a-rooftop-with-a-weather-vane-LiYJLVohv9c?utm_source=dokoiko&utm_medium=referral",
   "rentalCarRecommended": true,
   "images": [
    "/images/higashine/main.jpg",
@@ -65509,14 +65247,7 @@
    },
    {
     "name": "妙高高原いもり池",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Myoko_Montage.jpg/500px-Myoko_Montage.jpg",
-    "description": "妙高山が水面に映り込む定番の構図で知られる池。冬に訪れると、夏とは違う予想外の表情を見せる。",
-    "imageCredit": {
-     "author": "水だらけのプール",
-     "license": "CC BY-SA 4.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Myoko_Montage.jpg",
-     "attributionRequired": true
-    }
+    "description": "妙高山が水面に映り込む定番の構図で知られる池。冬に訪れると、夏とは違う予想外の表情を見せる。"
    },
    {
     "name": "苗名滝",
@@ -66823,9 +66554,9 @@
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Statue_of_Ieyasu_Tokugawa_02.jpg/1280px-Statue_of_Ieyasu_Tokugawa_02.jpg",
     "description": "岡崎公園に立つ高さ約5メートルの銅像。よくある偉人像と違い、家康は座った姿で迎えてくれる。",
     "imageCredit": {
-     "author": "Akahito Yamabe",
-     "license": "CC BY-SA 4.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Statue_of_Ieyasu_Tokugawa_02.jpg",
+     "author": "gundam2345",
+     "license": "CC BY 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:%E5%B2%A1%E5%B4%8E%E5%9F%8E_(%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%B2%A1%E5%B4%8E%E5%B8%82%E5%BA%B7%E7%94%9F%E7%94%BA)_-_panoramio_-_gundam2345_(7).jpg",
      "attributionRequired": true
     }
    }
@@ -67143,13 +66874,7 @@
    "ひとり旅向け",
    "カップル向け"
   ],
-  "bestSeason": "夏",
-  "imageCredit": {
-   "author": "gundam2345",
-   "license": "CC BY 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:%E8%B1%8A%E6%A9%8B%E5%B8%82%E5%85%AC%E4%BC%9A%E5%A0%82_(%E6%84%9B%E7%9F%A5%E7%9C%8C%E8%B1%8A%E6%A9%8B%E5%B8%82%E5%85%AB%E7%94%BA%E9%80%9A)_-_panoramio.jpg",
-   "attributionRequired": true
-  }
+  "bestSeason": "夏"
  },
  {
   "id": "tajimi",
@@ -67173,14 +66898,7 @@
   "spots": [
    {
     "name": "本町オリベストリート",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Eiho-ji_Temple_Garden_%281%29%2C_Kokeizan-cho_Tajimi_2020.jpg/500px-Eiho-ji_Temple_Garden_%281%29%2C_Kokeizan-cho_Tajimi_2020.jpg",
-    "description": "大正期の洋館と美濃焼のタイルが混在する通り。路地の奥からときおり土と釉薬の焦げた香りが漂う。",
-    "imageCredit": {
-     "author": "Tomio344456",
-     "license": "CC BY-SA 4.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Eiho-ji_Temple_Garden_(1),_Kokeizan-cho_Tajimi_2020.jpg",
-     "attributionRequired": true
-    }
+    "description": "大正期の洋館と美濃焼のタイルが混在する通り。路地の奥からときおり土と釉薬の焦げた香りが漂う。"
    },
    {
     "name": "多治見市モザイクタイルミュージアム",
@@ -67313,11 +67031,7 @@
   "icCard": "icoca",
   "tier2": "area",
   "hubName": "岐阜",
-  "unsplashUrl": "https://images.unsplash.com/photo-1715855893748-f3e227d5b9c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTYlOUMlQUMlRTclOTQlQkElRTMlODIlQUElRTMlODMlQUElRTMlODMlOTklRTMlODIlQjklRTMlODMlODglRTMlODMlQUElRTMlODMlQkMlRTMlODMlODglMjAlRTUlQTQlOUElRTYlQjIlQkIlRTglQTYlOEJ8ZW58MHwwfHx8MTc3ODQzNDY1MXww&ixlib=rb-4.1.0&q=80&w=1080",
   "unsplashThumbUrl": "https://images.unsplash.com/photo-1715855893748-f3e227d5b9c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTYlOUMlQUMlRTclOTQlQkElRTMlODIlQUElRTMlODMlQUElRTMlODMlOTklRTMlODIlQjklRTMlODMlODglRTMlODMlQUElRTMlODMlQkMlRTMlODMlODglMjAlRTUlQTQlOUElRTYlQjIlQkIlRTglQTYlOEJ8ZW58MHwwfHx8MTc3ODQzNDY1MXww&ixlib=rb-4.1.0&q=80&w=400",
-  "unsplashCredit": "Seiya Maeda",
-  "unsplashCreditUrl": "https://unsplash.com/@seiya_maeda?utm_source=dokoiko&utm_medium=referral",
-  "unsplashPhotoUrl": "https://unsplash.com/photos/a-small-town-with-a-river-running-through-it-pVvFMOw4My8?utm_source=dokoiko&utm_medium=referral",
   "rentalCarRecommended": false,
   "images": [
    "/images/tajimi/main.jpg",
@@ -67335,13 +67049,7 @@
    "日帰り最適",
    "1泊がおすすめ"
   ],
-  "bestSeason": "春・夏",
-  "imageCredit": {
-   "author": "Asturio Cantabrio",
-   "license": "CC BY-SA 4.0",
-   "url": "https://commons.wikimedia.org/wiki/File:JR_Tajimi_Station_2021-10_ac_(1).jpg",
-   "attributionRequired": true
-  }
+  "bestSeason": "春・夏"
  },
  {
   "id": "togakushi",
@@ -68105,13 +67813,7 @@
    "カップル向け",
    "友達と"
   ],
-  "bestSeason": "通年",
-  "imageCredit": {
-   "author": "Didier Descouens",
-   "license": "CC BY-SA 4.0",
-   "url": "https://commons.wikimedia.org/wiki/File%3AAcherontia_styx_medusa_MHNT_Female_ventral_Akashi_City.jpg",
-   "attributionRequired": true
-  }
+  "bestSeason": "通年"
  },
  {
   "id": "naruto",
@@ -68344,14 +68046,7 @@
    },
    {
     "name": "はっさく発祥の地",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hassaku_fruit_and_cross_section.jpg/500px-Hassaku_fruit_and_cross_section.jpg",
-    "description": "光善寺の境内に、はっさく発祥の原木が今も立つ。江戸末期に島の僧が見つけた黄金色の果実の原点。",
-    "imageCredit": {
-     "author": "Froggieboy",
-     "license": "CC BY-SA 3.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Hassaku_fruit_and_cross_section.jpg",
-     "attributionRequired": true
-    }
+    "description": "光善寺の境内に、はっさく発祥の原木が今も立つ。江戸末期に島の僧が見つけた黄金色の果実の原点。"
    }
   ],
   "shinkansenAccess": false,
@@ -68653,11 +68348,7 @@
   "icCard": "icoca",
   "tier2": "area",
   "hubName": "広島",
-  "unsplashUrl": "https://images.unsplash.com/photo-1766792235478-193c7aba642b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTQlQjglODklRTUlOEUlOUYlRTUlOUYlOEUlRTglQjclQTElMjAlRTQlQjglODklRTUlOEUlOUZ8ZW58MHwwfHx8MTc3ODQzNTA4N3ww&ixlib=rb-4.1.0&q=80&w=1080",
   "unsplashThumbUrl": "https://images.unsplash.com/photo-1766792235478-193c7aba642b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTQlQjglODklRTUlOEUlOUYlRTUlOUYlOEUlRTglQjclQTElMjAlRTQlQjglODklRTUlOEUlOUZ8ZW58MHwwfHx8MTc3ODQzNTA4N3ww&ixlib=rb-4.1.0&q=80&w=400",
-  "unsplashCredit": "Nikolai Kolosov",
-  "unsplashCreditUrl": "https://unsplash.com/@nikolaikolosov?utm_source=dokoiko&utm_medium=referral",
-  "unsplashPhotoUrl": "https://unsplash.com/photos/a-winding-road-through-a-cemetery-with-stone-walls-H8YaGei5HlE?utm_source=dokoiko&utm_medium=referral",
   "rentalCarRecommended": false,
   "images": [
    "/images/mihara/main.jpg",
@@ -68674,13 +68365,7 @@
    "ひとり旅向け",
    "カップル向け"
   ],
-  "bestSeason": "夏",
-  "imageCredit": {
-   "author": "Barsaka2",
-   "license": "CC0",
-   "url": "https://commons.wikimedia.org/wiki/File:Mihara_City_Central_Library(2020).jpg",
-   "attributionRequired": false
-  }
+  "bestSeason": "夏"
  },
  {
   "id": "hofu",
@@ -69314,14 +68999,7 @@
    },
    {
     "name": "中津唐揚げ",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Chicken_karaage_003.jpg/500px-Chicken_karaage_003.jpg",
-    "description": "市内に専門店が70軒以上並ぶ、からあげの街の名物。持ち帰りの揚げたてを頬張るのが醍醐味だ。",
-    "imageCredit": {
-     "author": "Ocdp",
-     "license": "CC0",
-     "url": "https://commons.wikimedia.org/wiki/File:Chicken_karaage_003.jpg",
-     "attributionRequired": false
-    }
+    "description": "市内に専門店が70軒以上並ぶ、からあげの街の名物。持ち帰りの揚げたてを頬張るのが醍醐味だ。"
    }
   ],
   "shinkansenAccess": false,
@@ -69688,14 +69366,7 @@
    },
    {
     "name": "室蘭工場夜景",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Muroran_Montage.jpg/500px-Muroran_Montage.jpg",
-    "description": "測量山の展望台から見下ろす夜景。製鉄所や石油プラントの炎と白煙が、噴火湾の暗い水面に揺れる。",
-    "imageCredit": {
-     "author": "水だらけのプール",
-     "license": "CC BY-SA 4.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Muroran_Montage.jpg",
-     "attributionRequired": true
-    }
+    "description": "測量山の展望台から見下ろす夜景。製鉄所や石油プラントの炎と白煙が、噴火湾の暗い水面に揺れる。"
    },
    {
     "name": "白鳥大橋",
@@ -70050,13 +69721,7 @@
    "グルメ目当て",
    "ゆっくり滞在"
   ],
-  "bestSeason": "夏",
-  "imageCredit": {
-   "author": "MIKI Yoshihito",
-   "license": "CC BY 2.0",
-   "url": "https://commons.wikimedia.org/wiki/File:FUJIKI_at_Port_of_Tomakomai_-_53918222436.jpg",
-   "attributionRequired": true
-  }
+  "bestSeason": "夏"
  },
  {
   "id": "ishinomaki",
@@ -70429,7 +70094,13 @@
    "カップル向け",
    "友達と"
   ],
-  "bestSeason": "春"
+  "bestSeason": "春",
+  "imageCredit": {
+   "author": "Totti",
+   "license": "CC BY-SA 4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Hitachi_station_21-11-14-2.jpg",
+   "attributionRequired": true
+  }
  },
  {
   "id": "kashima",
@@ -70668,9 +70339,9 @@
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Shiroishi-Uumen.JPG/500px-Shiroishi-Uumen.JPG",
     "description": "油を使わず作る長さ9センチの伝統麺。江戸時代から続く白石の名物を、城下町散策とあわせて味わいたい。",
     "imageCredit": {
-     "author": "Kei hashi",
-     "license": "CC BY-SA 3.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Shiroishi-Uumen.JPG",
+     "author": "Suikotei",
+     "license": "CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Shiroishi_Station_Renga_no_Yuko.jpg",
      "attributionRequired": true
     }
    }
@@ -70997,12 +70668,6 @@
    "友達と"
   ],
   "bestSeason": "春",
-  "imageCredit": {
-   "author": "Drivephotographer",
-   "license": "CC0",
-   "url": "https://commons.wikimedia.org/wiki/File:Tendo_park.jpg",
-   "attributionRequired": false
-  },
   "featured_stay": {
    "name": "天童温泉 ほほえみの宿 滝の湯",
    "catchcopy": "将棋駒の里・天童温泉を代表する宿。山形の旬を映す出羽会席と庭園露天",
@@ -71368,11 +71033,7 @@
   "icCard": "suica",
   "tier2": "area",
   "hubName": "盛岡",
-  "unsplashUrl": "https://images.unsplash.com/photo-1701594151572-5e8324979b88?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTklOTklQjglRTUlODklOEQlRTklQUIlOTglRTclOTQlQjAlMjAlRTUlQjIlQTklRTYlODklOEIlRTclOUMlOEMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODM3Nzg4OHww&ixlib=rb-4.1.0&q=80&w=1080",
   "unsplashThumbUrl": "https://images.unsplash.com/photo-1701594151572-5e8324979b88?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTklOTklQjglRTUlODklOEQlRTklQUIlOTglRTclOTQlQjAlMjAlRTUlQjIlQTklRTYlODklOEIlRTclOUMlOEMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODM3Nzg4OHww&ixlib=rb-4.1.0&q=80&w=400",
-  "unsplashCredit": "Jun Ohashi",
-  "unsplashCreditUrl": "https://unsplash.com/@juntarou555?utm_source=dokoiko&utm_medium=referral",
-  "unsplashPhotoUrl": "https://unsplash.com/photos/a-wooden-structure-with-lots-of-notes-attached-to-it-5l0HSpe58N4?utm_source=dokoiko&utm_medium=referral",
   "rentalCarRecommended": true,
   "images": [
    "/images/rikuzentakata/main.jpg",
@@ -71390,13 +71051,7 @@
    "友達と",
    "ゆっくり滞在"
   ],
-  "bestSeason": "通年",
-  "imageCredit": {
-   "author": "Katayokusan",
-   "license": "CC BY-SA 4.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Rikuzentakata_City_New_Municipal_Office.jpg",
-   "attributionRequired": true
-  }
+  "bestSeason": "通年"
  },
  {
   "id": "sanriku-miyako",
@@ -72901,11 +72556,7 @@
   "tier2": "area",
   "hubName": "大阪",
   "rentalCarRecommended": false,
-  "unsplashUrl": "https://images.unsplash.com/photo-1616386232566-80015c23aeff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclOTQlQjIlRTglQjMlODAlRTYlQjUlODElRTUlQkYlOEQlRTglQTElOTMlRTUlQjElOEIlRTYlOTUlQjclMjAlRTclOTQlQjIlRTglQjMlODB8ZW58MHwwfHx8MTc3ODQzNjYxMHww&ixlib=rb-4.1.0&q=80&w=1080",
   "unsplashThumbUrl": "https://images.unsplash.com/photo-1616386232566-80015c23aeff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclOTQlQjIlRTglQjMlODAlRTYlQjUlODElRTUlQkYlOEQlRTglQTElOTMlRTUlQjElOEIlRTYlOTUlQjclMjAlRTclOTQlQjIlRTglQjMlODB8ZW58MHwwfHx8MTc3ODQzNjYxMHww&ixlib=rb-4.1.0&q=80&w=400",
-  "unsplashCredit": "Susann Schuster",
-  "unsplashCreditUrl": "https://unsplash.com/@susannschuster?utm_source=dokoiko&utm_medium=referral",
-  "unsplashPhotoUrl": "https://unsplash.com/photos/woman-in-kimono-standing-on-wooden-bridge-C_ULRNO8q0w?utm_source=dokoiko&utm_medium=referral",
   "images": [
    "/images/koka/main.jpg",
    "/images/koka/spot-1.jpg",
@@ -72967,14 +72618,7 @@
    },
    {
     "name": "PL花火芸術（お盆）",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Itabashi_Hanabi_Taikai_Zenkei_1.jpg/500px-Itabashi_Hanabi_Taikai_Zenkei_1.jpg",
-    "description": "毎年8月1日に約2万発が打ち上がる夏の風物詩。轟音が腹の底まで響く夜空の芸術を体感できる。",
-    "imageCredit": {
-     "author": "板橋区Open Photo",
-     "license": "CC BY 4.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Itabashi_Hanabi_Taikai_Zenkei_1.jpg",
-     "attributionRequired": true
-    }
+    "description": "毎年8月1日に約2万発が打ち上がる夏の風物詩。轟音が腹の底まで響く夜空の芸術を体感できる。"
    }
   ],
   "shinkansenAccess": false,
@@ -73632,11 +73276,7 @@
   "icCard": "icoca",
   "tier2": "area",
   "hubName": "広島",
-  "unsplashUrl": "https://images.unsplash.com/photo-1648610151915-ce0b97a49697?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTYlOUQlQjElRTUlQkElODMlRTUlQjMlQjYlMjAlRTUlQkElODMlRTUlQjMlQjYlRTclOUMlOEMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODM3ODY4N3ww&ixlib=rb-4.1.0&q=80&w=1080",
   "unsplashThumbUrl": "https://images.unsplash.com/photo-1648610151915-ce0b97a49697?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTYlOUQlQjElRTUlQkElODMlRTUlQjMlQjYlMjAlRTUlQkElODMlRTUlQjMlQjYlRTclOUMlOEMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODM3ODY4N3ww&ixlib=rb-4.1.0&q=80&w=400",
-  "unsplashCredit": "Roméo A.",
-  "unsplashCreditUrl": "https://unsplash.com/@gronemo?utm_source=dokoiko&utm_medium=referral",
-  "unsplashPhotoUrl": "https://unsplash.com/photos/a-body-of-water-with-a-building-and-trees-by-it-zUjh0bxLVPc?utm_source=dokoiko&utm_medium=referral",
   "rentalCarRecommended": false,
   "images": [
    "/images/higashihiroshima/main.jpg",
@@ -73872,9 +73512,9 @@
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/%E5%A4%A7%E6%9D%89%E6%BC%A3_%2827988937893%29.jpg",
     "description": "樹高60m、幹回り20m超、樹齢3000年の巨杉。見上げれば首が自然と上を向く、圧倒的な存在感だ。",
     "imageCredit": {
-     "author": "Original : Dick Thomas JohnsonCropped by user:Krorokeroro",
-     "license": "CC BY 2.0",
-     "url": "https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E6%9D%89%E6%BC%A3_(27988937893).jpg",
+     "author": "osami",
+     "license": "Public domain",
+     "url": "https://commons.wikimedia.org/wiki/File:%E5%9B%BD%E9%81%93439%E5%8F%B7%E5%A4%A7%E8%B1%8A%E7%94%BA%E8%A5%BF%E5%B3%B0.jpg",
      "attributionRequired": true
     }
    },
@@ -74747,11 +74387,7 @@
   "icCard": "icoca",
   "tier2": "spot",
   "hubName": "大阪",
-  "unsplashUrl": "https://images.unsplash.com/photo-1652581381256-22df9d668084?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclOTQlQjElRTglODklQUYlMjAlRTUlOTIlOEMlRTYlQUQlOEMlRTUlQjElQjElRTclOUMlOEMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODM3OTA0OXww&ixlib=rb-4.1.0&q=80&w=1080",
   "unsplashThumbUrl": "https://images.unsplash.com/photo-1652581381256-22df9d668084?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclOTQlQjElRTglODklQUYlMjAlRTUlOTIlOEMlRTYlQUQlOEMlRTUlQjElQjElRTclOUMlOEMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODM3OTA0OXww&ixlib=rb-4.1.0&q=80&w=400",
-  "unsplashCredit": "zenigame photo",
-  "unsplashCreditUrl": "https://unsplash.com/@zenigame?utm_source=dokoiko&utm_medium=referral",
-  "unsplashPhotoUrl": "https://unsplash.com/photos/a-rocky-shore-with-a-body-of-water-in-the-background-E5eN5cls2jI?utm_source=dokoiko&utm_medium=referral",
   "rentalCarRecommended": true,
   "images": [
    "/images/yura-wakayama/main.jpg",
@@ -77148,14 +76784,7 @@
   "spots": [
    {
     "name": "椿林",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Camellia_japonica_BotGardBln271207C.jpg/500px-Camellia_japonica_BotGardBln271207C.jpg",
-    "description": "山肌を埋め尽くす椿の林。2月には風が吹くたび鮮紅の花びらが舞い、地面が深紅に染まる光景の中を歩ける。",
-    "imageCredit": {
-     "author": "User:BotBln",
-     "license": "CC BY 2.5",
-     "url": "https://commons.wikimedia.org/wiki/File:Camellia_japonica_BotGardBln271207C.jpg",
-     "attributionRequired": true
-    }
+    "description": "山肌を埋め尽くす椿の林。2月には風が吹くたび鮮紅の花びらが舞い、地面が深紅に染まる光景の中を歩ける。"
    },
    {
     "name": "宮塚山",
@@ -77308,13 +76937,7 @@
    "友達と",
    "東京に泊まるのがおすすめ"
   ],
-  "bestSeason": "春",
-  "imageCredit": {
-   "author": "ゆうき315",
-   "license": "CC BY-SA 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File%3AToshima_street.jpg",
-   "attributionRequired": true
-  }
+  "bestSeason": "春"
  },
  {
   "id": "joetsu",
@@ -77496,13 +77119,7 @@
    "カップル向け",
    "友達と"
   ],
-  "bestSeason": "春",
-  "imageCredit": {
-   "author": "MaedaAkihiko",
-   "license": "CC BY-SA 4.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Joetsu-city_Kubiki-Mountains.jpg",
-   "attributionRequired": true
-  }
+  "bestSeason": "春"
  },
  {
   "id": "myoko",
@@ -77700,13 +77317,7 @@
    "カップル向け",
    "友達と"
   ],
-  "bestSeason": "冬",
-  "imageCredit": {
-   "author": "禁樹なずな",
-   "license": "CC BY-SA 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File%3AMyoko_City_Office.JPG",
-   "attributionRequired": true
-  }
+  "bestSeason": "冬"
  },
  {
   "id": "hokkaido-hakodate",
@@ -78143,12 +77754,6 @@
    "グルメ目当て"
   ],
   "bestSeason": "冬",
-  "imageCredit": {
-   "author": "663highland",
-   "license": "CC BY 2.5",
-   "url": "https://commons.wikimedia.org/wiki/File%3A140724_Asahikawa_Airport_Hokkaido_Japan02s3.jpg",
-   "attributionRequired": true
-  },
   "featured_stay": {
    "name": "OMO7旭川 by 星野リゾート",
    "catchcopy": "旭山動物園への拠点に便利な、街ナカ観光を楽しみ尽くす星野リゾートの都市型ホテル。",
@@ -78422,9 +78027,9 @@
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Niigata_r198_Takada_Honcho_Street_3-chome_August2020.jpg/500px-Niigata_r198_Takada_Honcho_Street_3-chome_August2020.jpg",
     "description": "地元の人も観光客も知る鮮魚店。1階の鮮魚売り場で海の幸を眺め、2階の食堂で食事を楽しめる。",
     "imageCredit": {
-     "author": "Drph17",
-     "license": "CC BY 4.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Niigata_r198_Takada_Honcho_Street_3-chome_August2020.jpg",
+     "author": "Fumitake Taniguchi",
+     "license": "CC BY 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Yoichi_Shrine_%E4%BD%99%E5%B8%82%E7%A5%9E%E7%A4%BE_Jan_3,_2009.jpg",
      "attributionRequired": true
     }
    }
@@ -79206,14 +78811,7 @@
    },
    {
     "name": "大仙市角館（近隣）",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Ugo_Kotsu%2C_headquarters.jpg/500px-Ugo_Kotsu%2C_headquarters.jpg",
-    "description": "武家屋敷の土塀が迷路のように続く町。漆黒の門扉と白壁の対比、燃えるような秋の彩りに歴史の息吹を感じられる。",
-    "imageCredit": {
-     "author": "掬茶",
-     "license": "CC BY-SA 3.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Ugo_Kotsu,_headquarters.jpg",
-     "attributionRequired": true
-    }
+    "description": "武家屋敷の土塀が迷路のように続く町。漆黒の門扉と白壁の対比、燃えるような秋の彩りに歴史の息吹を感じられる。"
    }
   ],
   "shinkansenAccess": true,
@@ -81115,10 +80713,10 @@
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kisokaido43_Magome.jpg/500px-Kisokaido43_Magome.jpg",
     "description": "中津川から車で約20分、県境近くの山中の宿場。電線が地中化された坂道に、古い町並みが続く。",
     "imageCredit": {
-     "author": "Utagawa Hiroshige",
-     "license": "Public domain",
-     "url": "https://commons.wikimedia.org/wiki/File:Kisokaido43_Magome.jpg",
-     "attributionRequired": false
+     "author": "青川山彦",
+     "license": "CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:%E4%B8%B9%E7%BE%BD%E6%B5%B7%E9%B6%B4%E9%A1%95%E5%BD%B0%E7%A2%91%EF%BC%88%E5%B2%90%E9%98%9C%E7%9C%8C%E4%B8%AD%E6%B4%A5%E5%B7%9D%E5%B8%82%E7%94%B0%E7%80%AC%EF%BC%89%E3%80%8C%E6%98%A5%E5%A6%82%E6%B5%B7%EF%BC%88%E3%81%AF%E3%82%8B%E3%81%86%E3%81%BF%E3%81%AE%E3%81%94%E3%81%A8%E3%81%97%EF%BC%89%E3%80%8D.jpg",
+     "attributionRequired": true
     }
    }
   ],
@@ -81435,13 +81033,7 @@
    "ひとり旅向け",
    "カップル向け"
   ],
-  "bestSeason": "通年",
-  "imageCredit": {
-   "author": "Asturio Cantabrio",
-   "license": "CC BY-SA 4.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Yaizu_City_Hall_2020-04_ac_(3).jpg",
-   "attributionRequired": true
-  }
+  "bestSeason": "通年"
  },
  {
   "id": "hamanako",
@@ -82013,13 +81605,7 @@
    "ひとり旅向け",
    "カップル向け"
   ],
-  "bestSeason": "秋",
-  "imageCredit": {
-   "author": "gundam2345",
-   "license": "CC BY 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:%E6%84%9B%E7%9F%A5%E7%9C%8C%E8%B1%8A%E7%94%B0%E5%B8%82%E9%AB%98%E5%B2%A1%E7%94%BA%E6%96%B0%E6%A0%84_-_panoramio_(5).jpg",
-   "attributionRequired": true
-  }
+  "bestSeason": "秋"
  },
  {
   "id": "otsu-shiga",
@@ -82572,13 +82158,7 @@
    "日帰り最適",
    "1泊がおすすめ"
   ],
-  "bestSeason": "春",
-  "imageCredit": {
-   "author": "Bakkai at Japanese Wikipedia",
-   "license": "CC BY-SA 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File%3ATakashima_City_Hall.jpg",
-   "attributionRequired": true
-  }
+  "bestSeason": "春"
  },
  {
   "id": "tango-kyoto",
@@ -82604,9 +82184,9 @@
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Collage_Venezia.jpg/500px-Collage_Venezia.jpg",
     "description": "伊根湾の水際に230棟超の舟屋が連なる漁村の原風景。床板の下に波音が響き、磯の香りの中を歩ける。",
     "imageCredit": {
-     "author": "collection by DanieleDF1995",
-     "license": "CC BY-SA 3.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Collage_Venezia.jpg",
+     "author": "漱石の猫",
+     "license": "CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:%E5%9B%BD%E9%81%93482%E5%8F%B7%E7%B7%9A%EF%BC%88%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E4%B8%B9%E5%BE%8C%E5%B8%82%E5%BC%A5%E6%A0%84%E7%94%BA%E6%BA%9D%E8%B0%B7%EF%BC%89.jpg",
      "attributionRequired": true
     }
    },
@@ -82762,9 +82342,9 @@
   ],
   "bestSeason": "夏",
   "imageCredit": {
-   "author": "Hidaka-Nyo",
-   "license": "CC0",
-   "url": "https://commons.wikimedia.org/wiki/File:%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E4%B8%B9%E5%BE%8C%E5%B8%82%E4%B9%85%E7%BE%8E%E6%B5%9C%E7%94%BA%E8%92%B2%E4%BA%95%EF%BC%88%E9%9B%86%E8%90%BD%E5%8D%97%E5%81%B4%EF%BC%89%E3%81%AE%E5%9C%B0%E8%94%B5.jpg",
+   "author": "Gohachiyasu1214",
+   "license": "CC BY-SA 4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:%E5%8A%A0%E6%82%A6%E9%89%84%E9%81%93_%E4%B8%B9%E5%BE%8C%E5%9B%9B%E8%BE%BB%E9%A7%85%E8%B7%A1-04.jpg",
    "attributionRequired": true
   },
   "featured_stay": {
@@ -83344,7 +82924,13 @@
    "海を眺める",
    "グルメ目当て"
   ],
-  "bestSeason": "通年"
+  "bestSeason": "通年",
+  "imageCredit": {
+   "author": "にっしーーー",
+   "license": "CC BY-SA 4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Rikuzen-Hamada_Station_building.jpg",
+   "attributionRequired": true
+  }
  },
  {
   "id": "kure",
@@ -83390,14 +82976,7 @@
    },
    {
     "name": "呉海軍カレー",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Kure_Montage.jpg/500px-Kure_Montage.jpg",
-    "description": "海上自衛隊が金曜日にカレーを食べる習慣に由来する名物。カレーの街・呉ならではの一皿を味わえる。",
-    "imageCredit": {
-     "author": "水だらけのプール",
-     "license": "CC BY-SA 4.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Kure_Montage.jpg",
-     "attributionRequired": true
-    }
+    "description": "海上自衛隊が金曜日にカレーを食べる習慣に由来する名物。カレーの街・呉ならではの一皿を味わえる。"
    }
   ],
   "shinkansenAccess": false,
@@ -83561,14 +83140,7 @@
   "spots": [
    {
     "name": "霧の海展望台",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Naturpark_Siebengebirge_Petersberg_lub_2024-06-02_img01_Petersberg_Shuttle.jpg/500px-Naturpark_Siebengebirge_Petersberg_lub_2024-06-02_img01_Petersberg_Shuttle.jpg",
-    "description": "盆地を埋め尽くす霧の海を見下ろす展望台。山の頂だけが島のように浮かぶ朝の絶景に出会える。",
-    "imageCredit": {
-     "author": "Lukas Beck",
-     "license": "CC BY 4.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Naturpark_Siebengebirge_Petersberg_lub_2024-06-02_img01_Petersberg_Shuttle.jpg",
-     "attributionRequired": true
-    }
+    "description": "盆地を埋め尽くす霧の海を見下ろす展望台。山の頂だけが島のように浮かぶ朝の絶景に出会える。"
    },
    {
     "name": "三次ワイナリー",
@@ -83706,11 +83278,7 @@
   "icCard": "icoca",
   "tier2": "area",
   "hubName": "広島",
-  "unsplashUrl": "https://images.unsplash.com/photo-1648610151915-ce0b97a49697?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTQlQjglODklRTYlQUMlQTElMjAlRTUlQkElODMlRTUlQjMlQjYlRTclOUMlOEMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODM4MjgyMXww&ixlib=rb-4.1.0&q=80&w=1080",
   "unsplashThumbUrl": "https://images.unsplash.com/photo-1648610151915-ce0b97a49697?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTQlQjglODklRTYlQUMlQTElMjAlRTUlQkElODMlRTUlQjMlQjYlRTclOUMlOEMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODM4MjgyMXww&ixlib=rb-4.1.0&q=80&w=400",
-  "unsplashCredit": "Roméo A.",
-  "unsplashCreditUrl": "https://unsplash.com/@gronemo?utm_source=dokoiko&utm_medium=referral",
-  "unsplashPhotoUrl": "https://unsplash.com/photos/a-body-of-water-with-a-building-and-trees-by-it-zUjh0bxLVPc?utm_source=dokoiko&utm_medium=referral",
   "rentalCarRecommended": true,
   "images": [
    "/images/miyoshi-hiroshima/main.jpg",
@@ -83726,13 +83294,7 @@
    "カップル向け",
    "友達と"
   ],
-  "bestSeason": "通年",
-  "imageCredit": {
-   "author": "HKT3012",
-   "license": "CC BY-SA 4.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Miyoshi_Kinsai_Stadium_facade.JPG",
-   "attributionRequired": true
-  }
+  "bestSeason": "通年"
  },
  {
   "id": "nagato-yamaguchi",
@@ -83759,9 +83321,9 @@
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/%E5%85%83%E4%B9%83%E9%9A%85%E7%A8%B2%E8%8D%B7%E7%A5%9E%E7%A4%BE_%2833131861841%29.jpg/1280px-%E5%85%83%E4%B9%83%E9%9A%85%E7%A8%B2%E8%8D%B7%E7%A5%9E%E7%A4%BE_%2833131861841%29.jpg",
     "description": "123基の赤い鳥居が岬の端まで続く神社。人ひとりが通れるほどの幅の鳥居のトンネルをくぐって歩ける。",
     "imageCredit": {
-     "author": "yuki5287",
-     "license": "CC BY 2.0",
-     "url": "https://commons.wikimedia.org/wiki/File:%E5%85%83%E4%B9%83%E9%9A%85%E7%A8%B2%E8%8D%B7%E7%A5%9E%E7%A4%BE_(33131861841).jpg",
+     "author": "TT mk2",
+     "license": "CC BY-SA 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Nagato_Tainei-ji_Temple_04.JPG",
      "attributionRequired": true
     }
    },
@@ -84162,14 +83724,7 @@
    },
    {
     "name": "うどんめぐり",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Japanese_Quick_serving_soba_noodle_stand_Ikebukuro_1.JPG/500px-Japanese_Quick_serving_soba_noodle_stand_Ikebukuro_1.JPG",
-    "description": "安くて早くてうまい讃岐うどんを店から店へはしご。田んぼの中に立つ「がもううどん」など個性派を巡れる。",
-    "imageCredit": {
-     "author": "DryPot",
-     "license": "CC BY-SA 3.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Japanese_Quick_serving_soba_noodle_stand_Ikebukuro_1.JPG",
-     "attributionRequired": true
-    }
+    "description": "安くて早くてうまい讃岐うどんを店から店へはしご。田んぼの中に立つ「がもううどん」など個性派を巡れる。"
    }
   ],
   "shinkansenAccess": false,
@@ -85859,10 +85414,10 @@
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/%E9%9D%92%E3%83%B6%E5%B3%B6.jpg/500px-%E9%9D%92%E3%83%B6%E5%B3%B6.jpg",
     "description": "カルデラの縁から二重の噴火口と噴気孔の白い煙を見下ろせる。大地がまだ生きていることを目と皮膚で知る場所だ。",
     "imageCredit": {
-     "author": "国土地理院",
-     "license": "Attribution",
-     "url": "https://commons.wikimedia.org/wiki/File:%E9%9D%92%E3%83%B6%E5%B3%B6.jpg",
-     "attributionRequired": false
+     "author": "Soica2001 (talk)",
+     "license": "Public domain",
+     "url": "https://commons.wikimedia.org/wiki/File:Aogasima_maruyama.jpg",
+     "attributionRequired": true
     }
    },
    {
@@ -86008,9 +85563,9 @@
   ],
   "bestSeason": "通年",
   "imageCredit": {
-   "author": "ブルーノ・プラス",
-   "license": "CC BY-SA 4.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Aogashima_heliport.jpg",
+   "author": "Soica2001 (talk)",
+   "license": "Public domain",
+   "url": "https://commons.wikimedia.org/wiki/File:Aogasima_maruyama.jpg",
    "attributionRequired": true
   }
  },
@@ -86234,14 +85789,7 @@
    },
    {
     "name": "仁淀川（近隣）",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/%E3%81%84%E3%81%AE%E7%94%BA%E7%B4%99%E3%81%AE%E5%8D%9A%E7%89%A9%E9%A4%A8.jpg/500px-%E3%81%84%E3%81%AE%E7%94%BA%E7%B4%99%E3%81%AE%E5%8D%9A%E7%89%A9%E9%A4%A8.jpg",
-    "description": "中土佐から車で約40分、仁淀ブルーと呼ばれる透明な流れに出会える。青から緑へ揺れる水の色が目に焼きつく。",
-    "imageCredit": {
-     "author": "Oyazo",
-     "license": "CC BY-SA 3.0",
-     "url": "https://commons.wikimedia.org/wiki/File:%E3%81%84%E3%81%AE%E7%94%BA%E7%B4%99%E3%81%AE%E5%8D%9A%E7%89%A9%E9%A4%A8.jpg",
-     "attributionRequired": true
-    }
+    "description": "中土佐から車で約40分、仁淀ブルーと呼ばれる透明な流れに出会える。青から緑へ揺れる水の色が目に焼きつく。"
    }
   ],
   "shinkansenAccess": false,
@@ -86425,14 +85973,7 @@
    },
    {
     "name": "みかん畑の絶景",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/%E9%B4%BB%E5%B3%B6.jpg/500px-%E9%B4%BB%E5%B3%B6.jpg",
-    "description": "海沿いの急斜面に段々畑がびっしり張り付く伊方らしい風景。国道197号線を走りながら眺められる。",
-    "imageCredit": {
-     "author": "国土地理院",
-     "license": "Attribution",
-     "url": "https://commons.wikimedia.org/wiki/File:%E9%B4%BB%E5%B3%B6.jpg",
-     "attributionRequired": false
-    }
+    "description": "海沿いの急斜面に段々畑がびっしり張り付く伊方らしい風景。国道197号線を走りながら眺められる。"
    }
   ],
   "shinkansenAccess": false,
@@ -86916,11 +86457,7 @@
   "icCard": "icoca",
   "tier2": "spot",
   "hubName": "岡山",
-  "unsplashUrl": "https://images.unsplash.com/photo-1676208850445-590e50a414e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTYlOTYlQjAlRTglQTYlOEIlMjAlRTUlQjIlQTElRTUlQjElQjElRTclOUMlOEMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODM4NDA1M3ww&ixlib=rb-4.1.0&q=80&w=1080",
   "unsplashThumbUrl": "https://images.unsplash.com/photo-1676208850445-590e50a414e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTYlOTYlQjAlRTglQTYlOEIlMjAlRTUlQjIlQTElRTUlQjElQjElRTclOUMlOEMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODM4NDA1M3ww&ixlib=rb-4.1.0&q=80&w=400",
-  "unsplashCredit": "Jane JIANG",
-  "unsplashCreditUrl": "https://unsplash.com/@janeund?utm_source=dokoiko&utm_medium=referral",
-  "unsplashPhotoUrl": "https://unsplash.com/photos/a-train-track-next-to-a-body-of-water-KnFtrRjdpb0?utm_source=dokoiko&utm_medium=referral",
   "rentalCarRecommended": true,
   "images": [
    "/images/niimi/main.jpg",
@@ -86936,13 +86473,7 @@
    "カップル向け",
    "友達と"
   ],
-  "bestSeason": "夏",
-  "imageCredit": {
-   "author": "Phronimosx",
-   "license": "CC BY-SA 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Niimi_city.jpg",
-   "attributionRequired": true
-  }
+  "bestSeason": "夏"
  },
  {
   "id": "uda-nara",
@@ -87324,13 +86855,7 @@
    "カップル向け",
    "友達と"
   ],
-  "bestSeason": "冬",
-  "imageCredit": {
-   "author": "Phronimoi",
-   "license": "CC BY-SA 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File%3AMimasaka_police_station.jpg",
-   "attributionRequired": true
-  }
+  "bestSeason": "冬"
  },
  {
   "id": "kochi-shimanto",
@@ -88094,13 +87619,7 @@
    "カップル向け",
    "友達と"
   ],
-  "bestSeason": "夏",
-  "imageCredit": {
-   "author": "carloshonda",
-   "license": "CC BY 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:140412-1651_Ueno_Park,_Iga_-_panoramio.jpg",
-   "attributionRequired": true
-  }
+  "bestSeason": "夏"
  },
  {
   "id": "miyanoshita",
@@ -89090,13 +88609,7 @@
    "カップル向け",
    "友達と"
   ],
-  "bestSeason": "秋",
-  "imageCredit": {
-   "author": "藤谷良秀 (Yoshihide Fujitani)",
-   "license": "CC BY-SA 4.0",
-   "url": "https://commons.wikimedia.org/wiki/File%3AEchizen-Ono_Station_20171105.jpg",
-   "attributionRequired": true
-  }
+  "bestSeason": "秋"
  },
  {
   "id": "katsuyama",
@@ -89342,14 +88855,7 @@
    },
    {
     "name": "島津義弘公墓",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Mizuno_Katsunari.jpg/500px-Mizuno_Katsunari.jpg",
-    "description": "細い山道の先、木立の中に立つ武将の墓。案内板は小さく、探し当てる過程も含めて歴史散策になる。",
-    "imageCredit": {
-     "author": "Unknown authorUnknown author",
-     "license": "Public domain",
-     "url": "https://commons.wikimedia.org/wiki/File:Mizuno_Katsunari.jpg",
-     "attributionRequired": false
-    }
+    "description": "細い山道の先、木立の中に立つ武将の墓。案内板は小さく、探し当てる過程も含めて歴史散策になる。"
    }
   ],
   "shinkansenAccess": false,
@@ -90266,9 +89772,9 @@
   ],
   "bestSeason": "通年",
   "imageCredit": {
-   "author": "Yamaguchi Yoshiaki from Japan",
-   "license": "CC BY-SA 2.0",
-   "url": "https://commons.wikimedia.org/wiki/File%3AShimokita_pen._%E4%B8%8B%E5%8C%97%E5%8D%8A%E5%B3%B6_(3537756279).jpg",
+   "author": "＋－",
+   "license": "CC BY-SA 3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Hotokegaura_(Aomori).jpg",
    "attributionRequired": true
   },
   "featured_stay": {
@@ -90318,10 +89824,10 @@
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Lake_Towada_from_Ohanabe_2008.jpg/500px-Lake_Towada_from_Ohanabe_2008.jpg",
     "description": "子ノ口から流れ出す清流沿いに、苔むした岩と梢を透かす光が続く。水音を聞きながらの散策が心地よい。",
     "imageCredit": {
-     "author": "Soica2001",
-     "license": "Public domain",
-     "url": "https://commons.wikimedia.org/wiki/File:Lake_Towada_from_Ohanabe_2008.jpg",
-     "attributionRequired": false
+     "author": "z tanuki",
+     "license": "CC BY 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Lake_Towada_,_%E5%8D%81%E5%92%8C%E7%94%B0%E6%B9%96_-_panoramio_(3).jpg",
+     "attributionRequired": true
     }
    },
    {
@@ -90904,14 +90410,7 @@
    },
    {
     "name": "たんばらラベンダーパーク",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tanbarafumoto.JPG/500px-Tanbarafumoto.JPG",
-    "description": "ゴンドラで山頂へ上がると真夏でも22度の涼しさ。視界いっぱいに紫のラベンダーが広がる。",
-    "imageCredit": {
-     "author": "苗場山",
-     "license": "CC BY-SA 3.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Tanbarafumoto.JPG",
-     "attributionRequired": true
-    }
+    "description": "ゴンドラで山頂へ上がると真夏でも22度の涼しさ。視界いっぱいに紫のラベンダーが広がる。"
    }
   ],
   "shinkansenAccess": false,
@@ -91078,14 +90577,7 @@
   "spots": [
    {
     "name": "霞ヶ浦サイクリングロード",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Kasumigaura_landsat.jpg/500px-Kasumigaura_landsat.jpg",
-    "description": "1日1,000円ほどのレンタサイクルで湖岸を走れる。視界が一気に開けた瞬間の爽快感は格別だ。",
-    "imageCredit": {
-     "author": "Tdk at Japanese Wikipedia",
-     "license": "CC BY-SA 3.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Kasumigaura_landsat.jpg",
-     "attributionRequired": true
-    }
+    "description": "1日1,000円ほどのレンタサイクルで湖岸を走れる。視界が一気に開けた瞬間の爽快感は格別だ。"
    },
    {
     "name": "土浦城跡（亀城公園）",
@@ -91236,13 +90728,7 @@
    "カップル向け",
    "友達と"
   ],
-  "bestSeason": "夏・秋",
-  "imageCredit": {
-   "author": "小石川人晃",
-   "license": "CC BY-SA 4.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Shinryuji_Temple_(Tsuchiura,_Ibaraki,_Japan)_03.jpg",
-   "attributionRequired": true
-  }
+  "bestSeason": "夏・秋"
  },
  {
   "id": "kujukuri-icho",
@@ -91291,14 +90777,7 @@
    },
    {
     "name": "一宮海水浴場",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Tamasaki-jinja.jpg/500px-Tamasaki-jinja.jpg",
-    "description": "東浪見海岸の北、砂浜が穏やかな弧を描く海水浴場。夏は素足で波打ち際を歩くのが気持ちいい。",
-    "imageCredit": {
-     "author": "ChiefHira",
-     "license": "CC BY-SA 3.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Tamasaki-jinja.jpg",
-     "attributionRequired": true
-    }
+    "description": "東浪見海岸の北、砂浜が穏やかな弧を描く海水浴場。夏は素足で波打ち際を歩くのが気持ちいい。"
    }
   ],
   "shinkansenAccess": false,
@@ -92191,9 +91670,9 @@
   ],
   "bestSeason": "春",
   "imageCredit": {
-   "author": "上州写真時報",
-   "license": "CC BY-SA 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File%3AIsesaki_City_Hall_001.JPG",
+   "author": "photo: Qurren (talk) Taken with Canon PowerShot G9 X",
+   "license": "CC BY-SA 4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Isesaki_Station_south_2020-11.jpg",
    "attributionRequired": true
   }
  },
@@ -92547,11 +92026,7 @@
   "icCard": "suica",
   "tier2": "spot",
   "hubName": "富山",
-  "unsplashUrl": "https://images.unsplash.com/photo-1762170263991-17f567262ae0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclQUIlOEIlRTUlQjElQjElRTklQTclODUlMjAlRTclQUIlOEIlRTUlQjElQjF8ZW58MHwwfHx8MTc3ODQ0MzI3OHww&ixlib=rb-4.1.0&q=80&w=1080",
   "unsplashThumbUrl": "https://images.unsplash.com/photo-1762170263991-17f567262ae0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclQUIlOEIlRTUlQjElQjElRTklQTclODUlMjAlRTclQUIlOEIlRTUlQjElQjF8ZW58MHwwfHx8MTc3ODQ0MzI3OHww&ixlib=rb-4.1.0&q=80&w=400",
-  "unsplashCredit": "y mashi",
-  "unsplashCreditUrl": "https://unsplash.com/@mashimashi?utm_source=dokoiko&utm_medium=referral",
-  "unsplashPhotoUrl": "https://unsplash.com/photos/japanese-restaurant-storefront-with-food-advertisements-884s9ZlsJHQ?utm_source=dokoiko&utm_medium=referral",
   "rentalCarRecommended": true,
   "images": [
    "/images/tateyama-toyama/main.jpg",
@@ -92567,13 +92042,7 @@
    "カップル向け",
    "友達と"
   ],
-  "bestSeason": "冬",
-  "imageCredit": {
-   "author": "くろふね",
-   "license": "CC BY 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:%E7%AB%8B%E5%B1%B1%E3%83%AD%E3%83%BC%E3%83%97%E3%82%A6%E3%82%A7%E3%82%A4_-_panoramio.jpg",
-   "attributionRequired": true
-  }
+  "bestSeason": "冬"
  },
  {
   "id": "suo-sanbe",
@@ -92813,14 +92282,7 @@
    },
    {
     "name": "九州の屋根・向坂山",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Tsurutomi_Traditional_House.jpg/500px-Tsurutomi_Traditional_House.jpg",
-    "description": "標高1684m、九州脊梁山地でも存在感のある山。冬は雪をまとい、覚悟の要る本格の山になる。",
-    "imageCredit": {
-     "author": "STA3816",
-     "license": "CC BY-SA 3.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Tsurutomi_Traditional_House.jpg",
-     "attributionRequired": true
-    }
+    "description": "標高1684m、九州脊梁山地でも存在感のある山。冬は雪をまとい、覚悟の要る本格の山になる。"
    }
   ],
   "shinkansenAccess": false,
@@ -93393,14 +92855,7 @@
    },
    {
     "name": "宇部興産工場群（夜景）",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Tokuyamazoo.jpg/500px-Tokuyamazoo.jpg",
-    "description": "日没後、煙突やタンク、配管が光に縁取られて闇に浮かぶ工場夜景。車で近くまで行き、迫力ある光景を撮影できる。",
-    "imageCredit": {
-     "author": "",
-     "license": "CC BY-SA 3.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Tokuyamazoo.jpg",
-     "attributionRequired": true
-    }
+    "description": "日没後、煙突やタンク、配管が光に縁取られて闇に浮かぶ工場夜景。車で近くまで行き、迫力ある光景を撮影できる。"
    }
   ],
   "shinkansenAccess": false,
@@ -94321,14 +93776,7 @@
   "spots": [
    {
     "name": "ひまわり広場（7月下旬）",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Haiden_of_Chiriku_Hachiman_Shrine_2.jpg/500px-Haiden_of_Chiriku_Hachiman_Shrine_2.jpg",
-    "description": "斜面一面に見渡す限りのひまわりが咲き誇る夏の名所。朝早めの到着で、黄色に染まる花畑をゆっくり歩ける。",
-    "imageCredit": {
-     "author": "そらみみ",
-     "license": "CC BY-SA 4.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Haiden_of_Chiriku_Hachiman_Shrine_2.jpg",
-     "attributionRequired": true
-    }
+    "description": "斜面一面に見渡す限りのひまわりが咲き誇る夏の名所。朝早めの到着で、黄色に染まる花畑をゆっくり歩ける。"
    },
    {
     "name": "なじょもん縄文の里",
@@ -94337,14 +93785,7 @@
    },
    {
     "name": "津南棚田",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Japan_National_Route_405_in_Iriyama%2CNakanojo_town%2CGUNMA.jpg/500px-Japan_National_Route_405_in_Iriyama%2CNakanojo_town%2CGUNMA.jpg",
-    "description": "信濃川沿いの山肌に幾重にも折り重なる水田。風にざわめく稲穂と棚田の緑、空の青が視界いっぱいに広がる。",
-    "imageCredit": {
-     "author": "小石川人晃",
-     "license": "CC BY-SA 3.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Japan_National_Route_405_in_Iriyama,Nakanojo_town,GUNMA.jpg",
-     "attributionRequired": true
-    }
+    "description": "信濃川沿いの山肌に幾重にも折り重なる水田。風にざわめく稲穂と棚田の緑、空の青が視界いっぱいに広がる。"
    }
   ],
   "shinkansenAccess": false,
@@ -94473,13 +93914,7 @@
    "カップル向け",
    "友達と"
   ],
-  "bestSeason": "冬",
-  "imageCredit": {
-   "author": "Olegushka",
-   "license": "CC0",
-   "url": "https://commons.wikimedia.org/wiki/File:TsunanWaitingroom_20140914.jpg",
-   "attributionRequired": false
-  }
+  "bestSeason": "冬"
  },
  {
   "id": "kurobe",
@@ -94513,14 +93948,7 @@
    },
    {
     "name": "黒部峡谷トロッコ列車",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Kurobe-gorge-railway-logo.svg/500px-Kurobe-gorge-railway-logo.svg.png",
-    "description": "宇奈月駅から欅平駅まで片道約80分・20.1km。車窓に黒部川の峡谷が続き、見飽きない絶景の旅ができる。",
-    "imageCredit": {
-     "author": "黒部峡谷鉄道株式会社",
-     "license": "Public domain",
-     "url": "https://commons.wikimedia.org/wiki/File:Kurobe-gorge-railway-logo.svg",
-     "attributionRequired": false
-    }
+    "description": "宇奈月駅から欅平駅まで片道約80分・20.1km。車窓に黒部川の峡谷が続き、見飽きない絶景の旅ができる。"
    },
    {
     "name": "生地の清水（湧水）",
@@ -94844,13 +94272,7 @@
   "images": [
    "/images/tsuruoka-kinzan/main.jpg"
   ],
-  "bestSeason": "冬",
-  "imageCredit": {
-   "author": "掬茶",
-   "license": "CC BY-SA 4.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Kura_Cafe_in_Kaneyama_Town.jpg",
-   "attributionRequired": true
-  }
+  "bestSeason": "冬"
  },
  {
   "id": "tomari-okinawa",
@@ -95583,13 +95005,7 @@
    "友達と",
    "温泉がおすすめ"
   ],
-  "bestSeason": "冬",
-  "imageCredit": {
-   "author": "663highland",
-   "license": "CC BY 2.5",
-   "url": "https://commons.wikimedia.org/wiki/File:130824_Asarigawa_Onsen_Otaru_Hokkaido_Japan07s3.jpg",
-   "attributionRequired": true
-  }
+  "bestSeason": "冬"
  },
  {
   "id": "gen_北海_網走湖畔温泉",
@@ -95658,14 +95074,7 @@
   "spots": [
    {
     "name": "網走湖畔温泉",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/130713_HOKUTEN_NO_OKA_Lake_Abashiri_Tsuruga_Resort_Abashiri_Hokkaido_Japan27s3.jpg/500px-130713_HOKUTEN_NO_OKA_Lake_Abashiri_Tsuruga_Resort_Abashiri_Hokkaido_Japan27s3.jpg",
-    "description": "湖面から忍び込む冷気と、肌に絡みつく温い湯の対比が心地よい湖畔の湯。朝靄の中、静けさに包まれて浸かれる。",
-    "imageCredit": {
-     "author": "663highland",
-     "license": "CC BY 2.5",
-     "url": "https://commons.wikimedia.org/wiki/File:130713_HOKUTEN_NO_OKA_Lake_Abashiri_Tsuruga_Resort_Abashiri_Hokkaido_Japan27s3.jpg",
-     "attributionRequired": true
-    }
+    "description": "湖面から忍び込む冷気と、肌に絡みつく温い湯の対比が心地よい湖畔の湯。朝靄の中、静けさに包まれて浸かれる。"
    },
    {
     "name": "網走湖",
@@ -95784,13 +95193,7 @@
    "友達と",
    "温泉がおすすめ"
   ],
-  "bestSeason": "冬",
-  "imageCredit": {
-   "author": "663highland",
-   "license": "CC BY 2.5",
-   "url": "https://commons.wikimedia.org/wiki/File%3A130713_HOKUTEN_NO_OKA_Lake_Abashiri_Tsuruga_Resort_Abashiri_Hokkaido_Japan27s3.jpg",
-   "attributionRequired": true
-  }
+  "bestSeason": "冬"
  },
  {
   "id": "gen_北海_岩尾別温泉",
@@ -98242,9 +97645,9 @@
   ],
   "bestSeason": "冬",
   "imageCredit": {
-   "author": "Mamusi Taka",
-   "license": "CC BY-SA 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:%E7%B3%A0%E5%B9%B3%E6%B8%A9%E6%B3%89_-_panoramio.jpg",
+   "author": "Soica2001 (talk)",
+   "license": "Public domain",
+   "url": "https://commons.wikimedia.org/wiki/File:Nukabira_spa_Yumotokan_josei_rotenburo.jpg",
    "attributionRequired": true
   }
  },
@@ -99190,11 +98593,7 @@
   "tier2": "area",
   "hubName": "札幌",
   "rentalCarRecommended": true,
-  "unsplashUrl": "https://images.unsplash.com/photo-1764057145939-0d197221c00e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclQkUlODUlRTglODclQkMlRTYlQjglQTklRTYlQjMlODklMjAlRTclQkUlODUlRTglODclQkMlRTYlQjglQTklRTYlQjMlODl8ZW58MHwwfHx8MTc3ODQ0NDk0NXww&ixlib=rb-4.1.0&q=80&w=1080",
   "unsplashThumbUrl": "https://images.unsplash.com/photo-1764057145939-0d197221c00e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclQkUlODUlRTglODclQkMlRTYlQjglQTklRTYlQjMlODklMjAlRTclQkUlODUlRTglODclQkMlRTYlQjglQTklRTYlQjMlODl8ZW58MHwwfHx8MTc3ODQ0NDk0NXww&ixlib=rb-4.1.0&q=80&w=400",
-  "unsplashCredit": "waa towaw",
-  "unsplashCreditUrl": "https://unsplash.com/@toowaaw?utm_source=dokoiko&utm_medium=referral",
-  "unsplashPhotoUrl": "https://unsplash.com/photos/hot-springs-waterfall-with-traditional-buildings-in-background-c5rfTyxRja4?utm_source=dokoiko&utm_medium=referral",
   "images": [
    "/images/gen_北海_羅臼温泉/main.jpg",
    "/images/gen_北海_羅臼温泉/spot-1.jpg"
@@ -101897,9 +101296,9 @@
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Hokkaid%C5%8D_g%C3%A9olocalisation.svg/500px-Hokkaid%C5%8D_g%C3%A9olocalisation.svg.png",
     "description": "函館港から市営汽船で片道240円、約10分の小さな人工島。潮風と石垣、誰もいない静けさの中で幕末の時間に浸れる。",
     "imageCredit": {
-     "author": "© Bourrichon (talk) - fr:Bourrichon",
-     "license": "CC BY-SA 2.0 fr",
-     "url": "https://commons.wikimedia.org/wiki/File:Hokkaid%C5%8D_g%C3%A9olocalisation.svg",
+     "author": "Shioyama",
+     "license": "CC0",
+     "url": "https://commons.wikimedia.org/wiki/File:%E5%BC%81%E5%A4%A9%E5%8F%B0%E5%A0%B4%E8%B7%A1%E3%81%A8%E5%87%BD%E9%A4%A8%E3%81%A9%E3%81%A4%E3%81%8F%E3%83%AC%E3%83%B3%E3%82%AC%E5%80%89%E5%BA%AB.jpg",
      "attributionRequired": true
     }
    },
@@ -102004,7 +101403,13 @@
    "友達と",
    "ゆっくり滞在"
   ],
-  "bestSeason": "夏"
+  "bestSeason": "夏",
+  "imageCredit": {
+   "author": "Shioyama",
+   "license": "CC0",
+   "url": "https://commons.wikimedia.org/wiki/File:%E5%BC%81%E5%A4%A9%E5%8F%B0%E5%A0%B4%E8%B7%A1%E3%81%A8%E5%87%BD%E9%A4%A8%E3%81%A9%E3%81%A4%E3%81%8F%E3%83%AC%E3%83%B3%E3%82%AC%E5%80%89%E5%BA%AB.jpg",
+   "attributionRequired": true
+  }
  },
  {
   "id": "gen_北海_松前城",
@@ -103087,9 +102492,9 @@
   ],
   "bestSeason": "夏",
   "imageCredit": {
-   "author": "Print made by: Anonymous\n\nPrinted by: C Burckardt\nPublished by: C Burckardt",
-   "license": "Public domain",
-   "url": "https://commons.wikimedia.org/wiki/File:Das_neue_Jerusalem._(The_new_Jerusalem)_(BM_2012,7020.3).jpg",
+   "author": "Misei sen",
+   "license": "CC BY-SA 4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Tennituzukumichi_20190916.jpg",
    "attributionRequired": true
   }
  },
@@ -104278,14 +103683,7 @@
   "spots": [
    {
     "name": "白老温泉",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/Siraoi_spa_2009.jpg",
-    "description": "街の奥に潜むように湧く湯。細い路地に硫黄が香り、宿の引き戸を開けると茶褐色の湯気が顔を包む素朴な温泉。",
-    "imageCredit": {
-     "author": "Soica2001",
-     "license": "Public domain",
-     "url": "https://commons.wikimedia.org/wiki/File:Siraoi_spa_2009.jpg",
-     "attributionRequired": false
-    }
+    "description": "街の奥に潜むように湧く湯。細い路地に硫黄が香り、宿の引き戸を開けると茶褐色の湯気が顔を包む素朴な温泉。"
    },
    {
     "name": "アイヌ民族博物館野外展示区",
@@ -104377,11 +103775,7 @@
   "tier2": "area",
   "hubName": "札幌",
   "rentalCarRecommended": true,
-  "unsplashUrl": "https://images.unsplash.com/photo-1644413638617-02369c89c156?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclOTklQkQlRTglODAlODElRTYlQjglQTklRTYlQjMlODklMjAlRTclOTklQkQlRTglODAlODElRTYlQjglQTklRTYlQjMlODl8ZW58MHwwfHx8MTc3ODQ1MjM0OHww&ixlib=rb-4.1.0&q=80&w=1080",
   "unsplashThumbUrl": "https://images.unsplash.com/photo-1644413638617-02369c89c156?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclOTklQkQlRTglODAlODElRTYlQjglQTklRTYlQjMlODklMjAlRTclOTklQkQlRTglODAlODElRTYlQjglQTklRTYlQjMlODl8ZW58MHwwfHx8MTc3ODQ1MjM0OHww&ixlib=rb-4.1.0&q=80&w=400",
-  "unsplashCredit": "Roméo A.",
-  "unsplashCreditUrl": "https://unsplash.com/@gronemo?utm_source=dokoiko&utm_medium=referral",
-  "unsplashPhotoUrl": "https://unsplash.com/photos/a-large-pool-of-water-next-to-a-tall-building-8X3IMf4W8Ew?utm_source=dokoiko&utm_medium=referral",
   "images": [
    "/images/gen_北海_白老温泉/main.jpg"
   ],
@@ -104395,13 +103789,7 @@
    "カップル向け",
    "友達と"
   ],
-  "bestSeason": "冬",
-  "imageCredit": {
-   "author": "Soica2001",
-   "license": "Public domain",
-   "url": "https://commons.wikimedia.org/wiki/File:Siraoi_spa_2009.jpg",
-   "attributionRequired": false
-  }
+  "bestSeason": "冬"
  },
  {
   "id": "gen_北海_瀬石温泉",
@@ -104962,13 +104350,7 @@
    "温泉がおすすめ",
    "街歩き向け"
   ],
-  "bestSeason": "冬",
-  "imageCredit": {
-   "author": "663highland",
-   "license": "CC BY 2.5",
-   "url": "https://commons.wikimedia.org/wiki/File%3AKamuiwakka_Falls01s3.jpg",
-   "attributionRequired": true
-  }
+  "bestSeason": "冬"
  },
  {
   "id": "gen_北海_天塩温泉",
@@ -105129,11 +104511,7 @@
   "icCard": "suica",
   "tier2": "area",
   "hubName": "札幌",
-  "unsplashUrl": "https://images.unsplash.com/photo-1629356309084-95ba7edb7055?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlQTQlQTklRTUlQTElQTklRTYlQjglQTklRTYlQjMlODklMjAlRTUlOEMlOTclRTYlQjUlQjclRTklODElOTMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODM5NDY0Mnww&ixlib=rb-4.1.0&q=80&w=1080",
   "unsplashThumbUrl": "https://images.unsplash.com/photo-1629356309084-95ba7edb7055?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlQTQlQTklRTUlQTElQTklRTYlQjglQTklRTYlQjMlODklMjAlRTUlOEMlOTclRTYlQjUlQjclRTklODElOTMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODM5NDY0Mnww&ixlib=rb-4.1.0&q=80&w=400",
-  "unsplashCredit": "Ozgu Ozden",
-  "unsplashCreditUrl": "https://unsplash.com/@ozgut?utm_source=dokoiko&utm_medium=referral",
-  "unsplashPhotoUrl": "https://unsplash.com/photos/green-grass-field-near-green-trees-and-mountain-under-white-clouds-and-blue-sky-during-daytime-Gp754197b6Y?utm_source=dokoiko&utm_medium=referral",
   "rentalCarRecommended": true,
   "images": [
    "/images/gen_北海_天塩温泉/main.jpg",
@@ -107274,14 +106652,7 @@
   "spots": [
    {
     "name": "花の拠点「はなふる」",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Gthumb.svg/500px-Gthumb.svg.png",
-    "description": "約5ヘクタールに季節の花が咲き誇る無料の花園。ラベンダーなど色とりどりの花壇を、香りとともに散策できる。",
-    "imageCredit": {
-     "author": "",
-     "license": "CC0",
-     "url": "https://commons.wikimedia.org/wiki/File:Gthumb.svg",
-     "attributionRequired": false
-    }
+    "description": "約5ヘクタールに季節の花が咲き誇る無料の花園。ラベンダーなど色とりどりの花壇を、香りとともに散策できる。"
    },
    {
     "name": "中山峠スカイライン",
@@ -108667,13 +108038,7 @@
    "カップル向け",
    "友達と"
   ],
-  "bestSeason": "冬",
-  "imageCredit": {
-   "author": "Him56",
-   "license": "CC BY-SA 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File%3AMichinoeki_kamiyubetsu_onsen_Tulip_no_yu.jpg",
-   "attributionRequired": true
-  }
+  "bestSeason": "冬"
  },
  {
   "id": "gen_北海_神居岩温泉",
@@ -108742,14 +108107,7 @@
   "spots": [
    {
     "name": "神居岩温泉",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Hokkaid%C5%8D_g%C3%A9olocalisation_relief.svg/500px-Hokkaid%C5%8D_g%C3%A9olocalisation_relief.svg.png",
-    "description": "山と雪に囲まれた源泉かけ流しの湯。冷えた体で湯船に浸かる瞬間の心地よさは格別で、平日午前は静かに過ごせる。",
-    "imageCredit": {
-     "author": "© Bourrichon (talk) - fr:Bourrichon",
-     "license": "CC BY-SA 2.0 fr",
-     "url": "https://commons.wikimedia.org/wiki/File:Hokkaid%C5%8D_g%C3%A9olocalisation_relief.svg",
-     "attributionRequired": true
-    }
+    "description": "山と雪に囲まれた源泉かけ流しの湯。冷えた体で湯船に浸かる瞬間の心地よさは格別で、平日午前は静かに過ごせる。"
    },
    {
     "name": "神居古潭",
@@ -108847,11 +108205,7 @@
   "tier2": "area",
   "hubName": "札幌",
   "rentalCarRecommended": true,
-  "unsplashUrl": "https://images.unsplash.com/photo-1627305455920-4599c07d804d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclQTUlOUUlRTUlQjElODUlRTUlQjIlQTklRTYlQjglQTklRTYlQjMlODklMjAlRTclQTUlOUUlRTUlQjElODUlRTUlQjIlQTklRTYlQjglQTklRTYlQjMlODl8ZW58MHwwfHx8MTc3ODQ1NjYyOHww&ixlib=rb-4.1.0&q=80&w=1080",
   "unsplashThumbUrl": "https://images.unsplash.com/photo-1627305455920-4599c07d804d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclQTUlOUUlRTUlQjElODUlRTUlQjIlQTklRTYlQjglQTklRTYlQjMlODklMjAlRTclQTUlOUUlRTUlQjElODUlRTUlQjIlQTklRTYlQjglQTklRTYlQjMlODl8ZW58MHwwfHx8MTc3ODQ1NjYyOHww&ixlib=rb-4.1.0&q=80&w=400",
-  "unsplashCredit": "Sienna Wall",
-  "unsplashCreditUrl": "https://unsplash.com/@balegep?utm_source=dokoiko&utm_medium=referral",
-  "unsplashPhotoUrl": "https://unsplash.com/photos/brown-wooden-ladder-on-gray-rock-vrEaZ8q4tng?utm_source=dokoiko&utm_medium=referral",
   "images": [
    "/images/gen_北海_神居岩温泉/main.jpg",
    "/images/gen_北海_神居岩温泉/spot-1.jpg"
@@ -108935,14 +108289,7 @@
   "spots": [
    {
     "name": "黒松内温泉",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Gthumb.svg/500px-Gthumb.svg.png",
-    "description": "地元の人が普段使いする気取らない温泉。雪の降る夕暮れ、窓外のブナ林の景色を眺めながら静かに湯を楽しめる。",
-    "imageCredit": {
-     "author": "",
-     "license": "CC0",
-     "url": "https://commons.wikimedia.org/wiki/File:Gthumb.svg",
-     "attributionRequired": false
-    }
+    "description": "地元の人が普段使いする気取らない温泉。雪の降る夕暮れ、窓外のブナ林の景色を眺めながら静かに湯を楽しめる。"
    },
    {
     "name": "黒松内白糸の滝",
@@ -109203,11 +108550,7 @@
   "icCard": "suica",
   "tier2": "area",
   "hubName": "札幌",
-  "unsplashUrl": "https://images.unsplash.com/photo-1748208595013-6bf2472bd0ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTglQTYlOEIlRTUlQjglODIlRTYlQjglQTklRTYlQjMlODklMjAlRTglQTYlOEIlRTUlQjglODIlRTYlQjglQTklRTYlQjMlODl8ZW58MHwwfHx8MTc3ODQ1Njc3NHww&ixlib=rb-4.1.0&q=80&w=1080",
   "unsplashThumbUrl": "https://images.unsplash.com/photo-1748208595013-6bf2472bd0ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTglQTYlOEIlRTUlQjglODIlRTYlQjglQTklRTYlQjMlODklMjAlRTglQTYlOEIlRTUlQjglODIlRTYlQjglQTklRTYlQjMlODl8ZW58MHwwfHx8MTc3ODQ1Njc3NHww&ixlib=rb-4.1.0&q=80&w=400",
-  "unsplashCredit": "Arthur Tseng",
-  "unsplashCreditUrl": "https://unsplash.com/@arthur3607?utm_source=dokoiko&utm_medium=referral",
-  "unsplashPhotoUrl": "https://unsplash.com/photos/a-steamy-calm-pool-beneath-wooden-pillars-NIBr1QZbuwU?utm_source=dokoiko&utm_medium=referral",
   "rentalCarRecommended": true,
   "images": [
    "/images/gen_北海_見市温泉/main.jpg",
@@ -109775,11 +109118,7 @@
   "icCard": "suica",
   "tier2": "area",
   "hubName": "札幌",
-  "unsplashUrl": "https://images.unsplash.com/photo-1696947347316-e4d91e64c6bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTYlOTQlQUYlRTclQUMlOEYlRTYlQjklOTYlRTMlODElODQlRTMlODElQTglRTMlODElODYlRTYlQjglQTklRTYlQjMlODklMjAlRTUlOEMlOTclRTYlQjUlQjclRTklODElOTMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODM5OTQyOXww&ixlib=rb-4.1.0&q=80&w=1080",
   "unsplashThumbUrl": "https://images.unsplash.com/photo-1696947347316-e4d91e64c6bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTYlOTQlQUYlRTclQUMlOEYlRTYlQjklOTYlRTMlODElODQlRTMlODElQTglRTMlODElODYlRTYlQjglQTklRTYlQjMlODklMjAlRTUlOEMlOTclRTYlQjUlQjclRTklODElOTMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODM5OTQyOXww&ixlib=rb-4.1.0&q=80&w=400",
-  "unsplashCredit": "Inna Kasai",
-  "unsplashCreditUrl": "https://unsplash.com/@northern_aurora?utm_source=dokoiko&utm_medium=referral",
-  "unsplashPhotoUrl": "https://unsplash.com/photos/a-large-body-of-water-surrounded-by-trees-3x7U22_6i14?utm_source=dokoiko&utm_medium=referral",
   "rentalCarRecommended": true,
   "images": [
    "/images/gen_北海_支笏湖いとう温泉/main.jpg",
@@ -110333,11 +109672,7 @@
   "tier2": "area",
   "hubName": "札幌",
   "rentalCarRecommended": true,
-  "unsplashUrl": "https://images.unsplash.com/photo-1644413638617-02369c89c156?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTQlQkMlOEElRTklODElOTQlRTYlQjglQTklRTYlQjMlODklMjAlRTQlQkMlOEElRTklODElOTQlRTYlQjglQTklRTYlQjMlODl8ZW58MHwwfHx8MTc3ODQ1Njk5MXww&ixlib=rb-4.1.0&q=80&w=1080",
   "unsplashThumbUrl": "https://images.unsplash.com/photo-1644413638617-02369c89c156?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTQlQkMlOEElRTklODElOTQlRTYlQjglQTklRTYlQjMlODklMjAlRTQlQkMlOEElRTklODElOTQlRTYlQjglQTklRTYlQjMlODl8ZW58MHwwfHx8MTc3ODQ1Njk5MXww&ixlib=rb-4.1.0&q=80&w=400",
-  "unsplashCredit": "Roméo A.",
-  "unsplashCreditUrl": "https://unsplash.com/@gronemo?utm_source=dokoiko&utm_medium=referral",
-  "unsplashPhotoUrl": "https://unsplash.com/photos/a-large-pool-of-water-next-to-a-tall-building-8X3IMf4W8Ew?utm_source=dokoiko&utm_medium=referral",
   "images": [
    "/images/gen_北海_伊達温泉/main.jpg",
    "/images/gen_北海_伊達温泉/spot-1.jpg"
@@ -110735,6 +110070,12 @@
    "jalanUrl": "https://www.jalan.net/yad300776/",
    "hasShuttle": false,
    "accessStation": "中標津空港から車約30分"
+  },
+  "imageCredit": {
+   "author": "Soica2001 (talk)",
+   "license": "Public domain",
+   "url": "https://commons.wikimedia.org/wiki/File:Yorousi_spa_karamatu_no_yu_2009.jpg",
+   "attributionRequired": true
   }
  },
  {
@@ -111184,14 +110525,7 @@
    {
     "name": "日立シビックセンター",
     "description": "モダンな建築と庭園が調和するアートスポット。館内から日立市街と太平洋を一望し、夕刻の美景も楽しめる。",
-    "googleMapsQuery": "日立シビックセンター",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Hitachi_Civic_Center_ac_%281%29.jpg/1280px-Hitachi_Civic_Center_ac_%281%29.jpg",
-    "imageCredit": {
-     "author": "Asturio Cantabrio",
-     "license": "CC BY-SA 4.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Hitachi_Civic_Center_ac_(1).jpg",
-     "attributionRequired": true
-    }
+    "googleMapsQuery": "日立シビックセンター"
    }
   ],
   "description": "春には丘一面がネモフィラの青に染まり、風に揺れる花が波のように見える。潮の香りを含んだ常陸灘の風が頬に当たり、東京の喧騒が遠のいていく。春のネモフィラと秋のコキア、季節ごとにまったく違う顔を見せる350ヘクタールの公園は、1日かけてゆっくり過ごしたい場所だ。花の時期は駐車場が満車になりやすく、JR勝田駅からの直行バス（片道280円）が便利。帰りのバスは混むので閉園1時間前に動き始めるのが賢い。拠点は水戸駅で、現地はバス移動が基本となる。",
@@ -112621,14 +111955,7 @@
    {
     "name": "日立シビックセンター科学館",
     "description": "プラネタリウムと科学展示の施設。星空の投影や触覚を刺激する実験装置で、自然現象を体感しながら学べる。",
-    "googleMapsQuery": "日立シビックセンター科学館 茨城県日立市",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Hitachi_Civic_Center_ac_%282%29.jpg/1280px-Hitachi_Civic_Center_ac_%282%29.jpg",
-    "imageCredit": {
-     "author": "Asturio Cantabrio",
-     "license": "CC BY-SA 4.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Hitachi_Civic_Center_ac_(2).jpg",
-     "attributionRequired": true
-    }
+    "googleMapsQuery": "日立シビックセンター科学館 茨城県日立市"
    }
   ],
   "description": "参道に入った瞬間、ヤブツバキが両脇から覆いかぶさり、約200mの緑のトンネルが薄暗く続く。抜けた先、海沿いの崖の上にひっそりと社殿が立つ。観光地らしさのない静けさこそ、この神社でしか味わえない魅力だ。参拝後は波が岩礁に砕ける磯遊歩道を歩き、潮風の塩辛さを全身で感じたい。ひたちなか海浜鉄道の磯崎駅から徒歩15分だが坂があり、駅近くのレンタサイクルも使える。車なら那珂湊から10分で、大洗とセットで回ると効率がいい。拠点は水戸駅、現地はバス移動が基本だ。",
@@ -114428,11 +113755,7 @@
   "icCard": "suica",
   "tier2": "area",
   "hubName": "宇都宮",
-  "unsplashUrl": "https://images.unsplash.com/photo-1755503171814-ad916ac2b98c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTYlQjklQUYlRTglQTUlQkYlRTUlQjclOUQlRTYlQjglQTklRTYlQjMlODklMjAlRTYlQTAlODMlRTYlOUMlQTglRTclOUMlOEMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODQwMjA0MHww&ixlib=rb-4.1.0&q=80&w=1080",
   "unsplashThumbUrl": "https://images.unsplash.com/photo-1755503171814-ad916ac2b98c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTYlQjklQUYlRTglQTUlQkYlRTUlQjclOUQlRTYlQjglQTklRTYlQjMlODklMjAlRTYlQTAlODMlRTYlOUMlQTglRTclOUMlOEMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODQwMjA0MHww&ixlib=rb-4.1.0&q=80&w=400",
-  "unsplashCredit": "Abhayaranya Yoga Ashram",
-  "unsplashCreditUrl": "https://unsplash.com/@abhayaranyayoga?utm_source=dokoiko&utm_medium=referral",
-  "unsplashPhotoUrl": "https://unsplash.com/photos/misty-mountains-with-traditional-buildings-and-lush-greenery-cXTnmoudxoM?utm_source=dokoiko&utm_medium=referral",
   "rentalCarRecommended": true,
   "images": [
    "/images/gen_栃木_湯西川温泉/main.jpg",
@@ -116408,14 +115731,7 @@
   "spots": [
    {
     "name": "奥嬬恋温泉",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Japan_Joshinetsu_topographic_map.webp/500px-Japan_Joshinetsu_topographic_map.webp.png",
-    "description": "標高1000m超の山中に湧く湯。深い雪に包まれた静寂の中で湯に浸かり、刺さるような冬の空気との対比を味わえる。",
-    "imageCredit": {
-     "author": "Soren Bradley",
-     "license": "CC BY 4.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Japan_Joshinetsu_topographic_map.webp",
-     "attributionRequired": true
-    }
+    "description": "標高1000m超の山中に湧く湯。深い雪に包まれた静寂の中で湯に浸かり、刺さるような冬の空気との対比を味わえる。"
    },
    {
     "name": "鬼押出し園",
@@ -116507,11 +115823,7 @@
   "tier2": "area",
   "hubName": "前橋",
   "rentalCarRecommended": true,
-  "unsplashUrl": "https://images.unsplash.com/photo-1734244362875-3c1ce4090e0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlQTUlQTUlRTUlQUMlQUMlRTYlODElOEIlRTYlQjglQTklRTYlQjMlODklMjAlRTUlQTUlQTUlRTUlQUMlQUMlRTYlODElOEIlRTYlQjglQTklRTYlQjMlODl8ZW58MHwwfHx8MTc3ODQ2MDYxOHww&ixlib=rb-4.1.0&q=80&w=1080",
   "unsplashThumbUrl": "https://images.unsplash.com/photo-1734244362875-3c1ce4090e0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlQTUlQTUlRTUlQUMlQUMlRTYlODElOEIlRTYlQjglQTklRTYlQjMlODklMjAlRTUlQTUlQTUlRTUlQUMlQUMlRTYlODElOEIlRTYlQjglQTklRTYlQjMlODl8ZW58MHwwfHx8MTc3ODQ2MDYxOHww&ixlib=rb-4.1.0&q=80&w=400",
-  "unsplashCredit": "Kouji Tsuru",
-  "unsplashCreditUrl": "https://unsplash.com/@pafuxu?utm_source=dokoiko&utm_medium=referral",
-  "unsplashPhotoUrl": "https://unsplash.com/photos/a-spa-with-a-large-blue-pool-surrounded-by-rocks-Oof_9jsexWo?utm_source=dokoiko&utm_medium=referral",
   "images": [
    "/images/gen_群馬_奥嬬恋温泉/main.jpg",
    "/images/gen_群馬_奥嬬恋温泉/spot-1.jpg"
@@ -116701,7 +116013,13 @@
    "カップル向け",
    "友達と"
   ],
-  "bestSeason": "冬"
+  "bestSeason": "冬",
+  "imageCredit": {
+   "author": "User:Famifamifami",
+   "license": "CC0",
+   "url": "https://commons.wikimedia.org/wiki/File:KASAWAONSEN.JPG",
+   "attributionRequired": true
+  }
  },
  {
   "id": "gen_群馬_片品温泉",
@@ -116770,14 +116088,7 @@
   "spots": [
    {
     "name": "片品温泉",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Japan_Joshinetsu_topographic_map.webp/500px-Japan_Joshinetsu_topographic_map.webp.png",
-    "description": "山道を抜けると急に空が広がる山あいの温泉地。源泉は単純硫黄泉で、素朴な湯にゆっくり浸かれる。",
-    "imageCredit": {
-     "author": "Soren Bradley",
-     "license": "CC BY 4.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Japan_Joshinetsu_topographic_map.webp",
-     "attributionRequired": true
-    }
+    "description": "山道を抜けると急に空が広がる山あいの温泉地。源泉は単純硫黄泉で、素朴な湯にゆっくり浸かれる。"
    },
    {
     "name": "尾瀬ヶ原",
@@ -116874,11 +116185,7 @@
   "tier2": "area",
   "hubName": "前橋",
   "rentalCarRecommended": true,
-  "unsplashUrl": "https://images.unsplash.com/photo-1734244362875-3c1ce4090e0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclODklODclRTUlOTMlODElRTYlQjglQTklRTYlQjMlODklMjAlRTclODklODclRTUlOTMlODElRTYlQjglQTklRTYlQjMlODl8ZW58MHwwfHx8MTc3ODQ2MDc2M3ww&ixlib=rb-4.1.0&q=80&w=1080",
   "unsplashThumbUrl": "https://images.unsplash.com/photo-1734244362875-3c1ce4090e0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclODklODclRTUlOTMlODElRTYlQjglQTklRTYlQjMlODklMjAlRTclODklODclRTUlOTMlODElRTYlQjglQTklRTYlQjMlODl8ZW58MHwwfHx8MTc3ODQ2MDc2M3ww&ixlib=rb-4.1.0&q=80&w=400",
-  "unsplashCredit": "Kouji Tsuru",
-  "unsplashCreditUrl": "https://unsplash.com/@pafuxu?utm_source=dokoiko&utm_medium=referral",
-  "unsplashPhotoUrl": "https://unsplash.com/photos/a-spa-with-a-large-blue-pool-surrounded-by-rocks-Oof_9jsexWo?utm_source=dokoiko&utm_medium=referral",
   "images": [
    "/images/gen_群馬_片品温泉/main.jpg",
    "/images/gen_群馬_片品温泉/spot-1.jpg"
@@ -118097,14 +117404,7 @@
   "spots": [
    {
     "name": "花敷温泉",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Japan_Joshinetsu_topographic_map.webp/500px-Japan_Joshinetsu_topographic_map.webp.png",
-    "description": "深い山奥の秘湯。薪と硫黄の香りが混ざる湯けむりが森を包み、時代を遡ったような静けさの中で湯に浸かれる。",
-    "imageCredit": {
-     "author": "Soren Bradley",
-     "license": "CC BY 4.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Japan_Joshinetsu_topographic_map.webp",
-     "attributionRequired": true
-    }
+    "description": "深い山奥の秘湯。薪と硫黄の香りが混ざる湯けむりが森を包み、時代を遡ったような静けさの中で湯に浸かれる。"
    },
    {
     "name": "中ノ条温泉街 六合地区",
@@ -118190,11 +117490,7 @@
   "tier2": "area",
   "hubName": "前橋",
   "rentalCarRecommended": true,
-  "unsplashUrl": "https://images.unsplash.com/photo-1734244362875-3c1ce4090e0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTglOEElQjElRTYlOTUlQjclRTYlQjglQTklRTYlQjMlODklMjAlRTglOEElQjElRTYlOTUlQjclRTYlQjglQTklRTYlQjMlODl8ZW58MHwwfHx8MTc3ODQ2MTI3MHww&ixlib=rb-4.1.0&q=80&w=1080",
   "unsplashThumbUrl": "https://images.unsplash.com/photo-1734244362875-3c1ce4090e0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTglOEElQjElRTYlOTUlQjclRTYlQjglQTklRTYlQjMlODklMjAlRTglOEElQjElRTYlOTUlQjclRTYlQjglQTklRTYlQjMlODl8ZW58MHwwfHx8MTc3ODQ2MTI3MHww&ixlib=rb-4.1.0&q=80&w=400",
-  "unsplashCredit": "Kouji Tsuru",
-  "unsplashCreditUrl": "https://unsplash.com/@pafuxu?utm_source=dokoiko&utm_medium=referral",
-  "unsplashPhotoUrl": "https://unsplash.com/photos/a-spa-with-a-large-blue-pool-surrounded-by-rocks-Oof_9jsexWo?utm_source=dokoiko&utm_medium=referral",
   "images": [
    "/images/gen_群馬_花敷温泉/main.jpg",
    "/images/gen_群馬_花敷温泉/spot-1.jpg"
@@ -118690,14 +117986,7 @@
   "spots": [
    {
     "name": "臼別温泉",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/Yu-topia_usubetu.jpg",
-    "description": "鍵もロッカーもない素朴な脱衣場が迎える湯。渓流の瀬音を聞きながら、湯面に映る北海道の空を眺めて浸かれる。",
-    "imageCredit": {
-     "author": "Soica2001",
-     "license": "Public domain",
-     "url": "https://commons.wikimedia.org/wiki/File:Yu-topia_usubetu.jpg",
-     "attributionRequired": false
-    }
+    "description": "鍵もロッカーもない素朴な脱衣場が迎える湯。渓流の瀬音を聞きながら、湯面に映る北海道の空を眺めて浸かれる。"
    },
    {
     "name": "臼別駅",
@@ -118782,11 +118071,7 @@
   "icCard": "suica",
   "tier2": "area",
   "hubName": "札幌",
-  "unsplashUrl": "https://images.unsplash.com/photo-1737947133426-4831a1737eda?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTglODclQkMlRTUlODglQTUlRTYlQjglQTklRTYlQjMlODklMjAlRTglODclQkMlRTUlODglQTUlRTYlQjglQTklRTYlQjMlODl8ZW58MHwwfHx8MTc3ODQ2MTU2MHww&ixlib=rb-4.1.0&q=80&w=1080",
   "unsplashThumbUrl": "https://images.unsplash.com/photo-1737947133426-4831a1737eda?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTglODclQkMlRTUlODglQTUlRTYlQjglQTklRTYlQjMlODklMjAlRTglODclQkMlRTUlODglQTUlRTYlQjglQTklRTYlQjMlODl8ZW58MHwwfHx8MTc3ODQ2MTU2MHww&ixlib=rb-4.1.0&q=80&w=400",
-  "unsplashCredit": "Wenying Yuan",
-  "unsplashCreditUrl": "https://unsplash.com/@wy620?utm_source=dokoiko&utm_medium=referral",
-  "unsplashPhotoUrl": "https://unsplash.com/photos/a-train-traveling-through-a-snow-covered-mountain-OF8wHJZ6RL4?utm_source=dokoiko&utm_medium=referral",
   "rentalCarRecommended": true,
   "images": [
    "/images/gen_北海_臼別温泉/main.jpg",
@@ -118802,13 +118087,7 @@
    "温泉がおすすめ",
    "街歩き向け"
   ],
-  "bestSeason": "冬",
-  "imageCredit": {
-   "author": "Soica2001",
-   "license": "Public domain",
-   "url": "https://commons.wikimedia.org/wiki/File:Yu-topia_usubetu.jpg",
-   "attributionRequired": false
-  }
+  "bestSeason": "冬"
  },
  {
   "id": "gen_北海_オーロラ温泉",
@@ -118877,14 +118156,7 @@
   "spots": [
    {
     "name": "オーロラ温泉",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Aurora_vilage_farm2.jpg/500px-Aurora_vilage_farm2.jpg",
-    "description": "街灯のない道の先に待つ小さな湯。夜は満天の星の下で湯気に包まれ、緑の光が流れる空に出会えることもある。",
-    "imageCredit": {
-     "author": "Soica2001",
-     "license": "Public domain",
-     "url": "https://commons.wikimedia.org/wiki/File:Aurora_vilage_farm2.jpg",
-     "attributionRequired": false
-    }
+    "description": "街灯のない道の先に待つ小さな湯。夜は満天の星の下で湯気に包まれ、緑の光が流れる空に出会えることもある。"
    },
    {
     "name": "オーロラ温泉駅",
@@ -118985,13 +118257,7 @@
    "温泉がおすすめ",
    "街歩き向け"
   ],
-  "bestSeason": "冬",
-  "imageCredit": {
-   "author": "Soica2001 (talk)",
-   "license": "Public domain",
-   "url": "https://commons.wikimedia.org/wiki/File%3AAurora_vilage_farm2.jpg",
-   "attributionRequired": false
-  }
+  "bestSeason": "冬"
  },
  {
   "id": "gen_北海_奥美利河温泉",
@@ -119267,14 +118533,7 @@
    {
     "name": "湧別町郷土館",
     "description": "開拓史と漁業文化を伝える資料館。アイヌ民族の生活道具から漁具まで、地域固有の生活様式を立体的に学べる。",
-    "googleMapsQuery": "湧別町郷土館 北海道紋別郡湧別町",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Yubetsu-Furusato-JRY.JPG/1280px-Yubetsu-Furusato-JRY.JPG",
-    "imageCredit": {
-     "author": "RJD",
-     "license": "CC BY 3.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Yubetsu-Furusato-JRY.JPG",
-     "attributionRequired": true
-    }
+    "googleMapsQuery": "湧別町郷土館 北海道紋別郡湧別町"
    }
   ],
   "description": "硫黄の香りが立ち込める浴場に身を沈めると、オホーツクから運ばれてきた冷たい風との温度差が全身に心地よく刻まれる。源泉かけ流しの湯は約43度、熱すぎないぬくもりが長湯を誘う。観光路から外れた原野の秘湯は、温泉愛好家だけが知る特別な存在だ。雪原を歩いてオソウシ灯台へ向かえば、流氷の季節には白い海原が地平まで続き、音のない世界が広がる。湧別町郷土館では屯田兵が切り拓いた開拓の記録にも触れられる。拠点は札幌駅で、二次交通はバス。レンタカーの利用がおすすめだ。",
@@ -119727,11 +118986,7 @@
   "icCard": "suica",
   "tier2": "area",
   "hubName": "札幌",
-  "unsplashUrl": "https://images.unsplash.com/photo-1629356309084-95ba7edb7055?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclQTUlOUUlRTUlQTglODElRTglODQlODclRTYlQjglQTklRTYlQjMlODklMjAlRTUlOEMlOTclRTYlQjUlQjclRTklODElOTMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODQwNDc5NXww&ixlib=rb-4.1.0&q=80&w=1080",
   "unsplashThumbUrl": "https://images.unsplash.com/photo-1629356309084-95ba7edb7055?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclQTUlOUUlRTUlQTglODElRTglODQlODclRTYlQjglQTklRTYlQjMlODklMjAlRTUlOEMlOTclRTYlQjUlQjclRTklODElOTMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODQwNDc5NXww&ixlib=rb-4.1.0&q=80&w=400",
-  "unsplashCredit": "Ozgu Ozden",
-  "unsplashCreditUrl": "https://unsplash.com/@ozgut?utm_source=dokoiko&utm_medium=referral",
-  "unsplashPhotoUrl": "https://unsplash.com/photos/green-grass-field-near-green-trees-and-mountain-under-white-clouds-and-blue-sky-during-daytime-Gp754197b6Y?utm_source=dokoiko&utm_medium=referral",
   "rentalCarRecommended": true,
   "images": [
    "/images/gen_北海_神威脇温泉/main.jpg",
@@ -119747,13 +119002,7 @@
    "カップル向け",
    "友達と"
   ],
-  "bestSeason": "冬",
-  "imageCredit": {
-   "author": "Soica2001",
-   "license": "Public domain",
-   "url": "https://commons.wikimedia.org/wiki/File:Kamuiwaki_spa_uchiyu.JPG",
-   "attributionRequired": false
-  }
+  "bestSeason": "冬"
  },
  {
   "id": "gen_北海_金花湯",
@@ -121361,13 +120610,7 @@
    "友達と",
    "ゆっくり滞在"
   ],
-  "bestSeason": "夏",
-  "imageCredit": {
-   "author": "禁樹なずな",
-   "license": "CC BY-SA 4.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Ishikari_Bentensha.jpg",
-   "attributionRequired": true
-  }
+  "bestSeason": "夏"
  },
  {
   "id": "gen_北海_浦臼神社",
@@ -121538,13 +120781,7 @@
    "友達と",
    "ゆっくり滞在"
   ],
-  "bestSeason": "春・秋",
-  "imageCredit": {
-   "author": "禁樹なずな",
-   "license": "CC BY-SA 4.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Urausu_Shrine_on_the_hill.jpg",
-   "attributionRequired": true
-  }
+  "bestSeason": "春・秋"
  },
  {
   "id": "gen_北海_札幌八幡宮",
@@ -121802,14 +121039,7 @@
   "spots": [
    {
     "name": "相乗温泉",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Aomori-ken_g%C3%A9olocalisation_relief.svg/500px-Aomori-ken_g%C3%A9olocalisation_relief.svg.png",
-    "description": "古い木張りの床にひとつだけの湯船。券売機も受付もなく、小さな箱に料金を納める素朴な湯で、静かな朝湯を味わえる。",
-    "imageCredit": {
-     "author": "© Bourrichon (talk) - fr:Bourrichon",
-     "license": "CC BY-SA 2.0 fr",
-     "url": "https://commons.wikimedia.org/wiki/File:Aomori-ken_g%C3%A9olocalisation_relief.svg",
-     "attributionRequired": true
-    }
+    "description": "古い木張りの床にひとつだけの湯船。券売機も受付もなく、小さな箱に料金を納める素朴な湯で、静かな朝湯を味わえる。"
    },
    {
     "name": "鮫角灯台",
@@ -122270,11 +121500,7 @@
   "icCard": "suica",
   "tier2": "area",
   "hubName": "青森",
-  "unsplashUrl": "https://images.unsplash.com/photo-1638893399178-b8277ca17ddf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclQTclOEIlRTUlODUlODMlRTYlQjglQTklRTYlQjMlODklMjAlRTklOUQlOTIlRTYlQTMlQUUlRTclOUMlOEMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODQwODA2Nnww&ixlib=rb-4.1.0&q=80&w=1080",
   "unsplashThumbUrl": "https://images.unsplash.com/photo-1638893399178-b8277ca17ddf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclQTclOEIlRTUlODUlODMlRTYlQjglQTklRTYlQjMlODklMjAlRTklOUQlOTIlRTYlQTMlQUUlRTclOUMlOEMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODQwODA2Nnww&ixlib=rb-4.1.0&q=80&w=400",
-  "unsplashCredit": "utakaha",
-  "unsplashCreditUrl": "https://unsplash.com/@utakaha?utm_source=dokoiko&utm_medium=referral",
-  "unsplashPhotoUrl": "https://unsplash.com/photos/a-view-of-a-city-with-mountains-in-the-background-xTmVZi3OTSQ?utm_source=dokoiko&utm_medium=referral",
   "rentalCarRecommended": true,
   "images": [
    "/images/gen_青森_秋元温泉/main.jpg",
@@ -122360,14 +121586,7 @@
   "spots": [
    {
     "name": "板留温泉",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Gthumb.svg/500px-Gthumb.svg.png",
-    "description": "川沿いに旅館が数軒並ぶだけの小さな湯の里。冬はあたりが雪に埋まり、静けさの中でひっそりと湯に浸かれる。",
-    "imageCredit": {
-     "author": "",
-     "license": "CC0",
-     "url": "https://commons.wikimedia.org/wiki/File:Gthumb.svg",
-     "attributionRequired": false
-    }
+    "description": "川沿いに旅館が数軒並ぶだけの小さな湯の里。冬はあたりが雪に埋まり、静けさの中でひっそりと湯に浸かれる。"
    },
    {
     "name": "丹藤峡谷",
@@ -123005,11 +122224,7 @@
   "icCard": "suica",
   "tier2": "area",
   "hubName": "青森",
-  "unsplashUrl": "https://images.unsplash.com/photo-1702750799903-922b8b7d9f7f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTglOTAlQkQlRTUlOTAlODglRTYlQjglQTklRTYlQjMlODklMjAlRTklOUQlOTIlRTYlQTMlQUUlRTclOUMlOEMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODQwODM2NHww&ixlib=rb-4.1.0&q=80&w=1080",
   "unsplashThumbUrl": "https://images.unsplash.com/photo-1702750799903-922b8b7d9f7f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTglOTAlQkQlRTUlOTAlODglRTYlQjglQTklRTYlQjMlODklMjAlRTklOUQlOTIlRTYlQTMlQUUlRTclOUMlOEMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODQwODM2NHww&ixlib=rb-4.1.0&q=80&w=400",
-  "unsplashCredit": "Jun Ohashi",
-  "unsplashCreditUrl": "https://unsplash.com/@juntarou555?utm_source=dokoiko&utm_medium=referral",
-  "unsplashPhotoUrl": "https://unsplash.com/photos/a-stream-running-through-a-lush-green-forest-Ef-Fg-PvHLg?utm_source=dokoiko&utm_medium=referral",
   "rentalCarRecommended": true,
   "images": [
    "/images/gen_青森_落合温泉/main.jpg",
@@ -123988,11 +123203,7 @@
   "icCard": "suica",
   "tier2": "area",
   "hubName": "青森",
-  "unsplashUrl": "https://images.unsplash.com/photo-1764057145939-0d197221c00e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlQjYlQkQlRTYlQjglQTklRTYlQjMlODklMjAlRTUlQjYlQkQlRTYlQjglQTklRTYlQjMlODl8ZW58MHwwfHx8MTc3ODQ2NTY5Nnww&ixlib=rb-4.1.0&q=80&w=1080",
   "unsplashThumbUrl": "https://images.unsplash.com/photo-1764057145939-0d197221c00e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlQjYlQkQlRTYlQjglQTklRTYlQjMlODklMjAlRTUlQjYlQkQlRTYlQjglQTklRTYlQjMlODl8ZW58MHwwfHx8MTc3ODQ2NTY5Nnww&ixlib=rb-4.1.0&q=80&w=400",
-  "unsplashCredit": "waa towaw",
-  "unsplashCreditUrl": "https://unsplash.com/@toowaaw?utm_source=dokoiko&utm_medium=referral",
-  "unsplashPhotoUrl": "https://unsplash.com/photos/hot-springs-waterfall-with-traditional-buildings-in-background-c5rfTyxRja4?utm_source=dokoiko&utm_medium=referral",
   "rentalCarRecommended": true,
   "images": [
    "/images/gen_青森_嶽温泉/main.jpg"
@@ -124280,14 +123491,7 @@
   "spots": [
    {
     "name": "十和田湖畔温泉",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Gthumb.svg/500px-Gthumb.svg.png",
-    "description": "夕暮れの湖畔を歩いてから浸かる湯。冬の十和田湖は人影が少なく、静寂の中で過ごす温泉時間を味わえる。",
-    "imageCredit": {
-     "author": "",
-     "license": "CC0",
-     "url": "https://commons.wikimedia.org/wiki/File:Gthumb.svg",
-     "attributionRequired": false
-    }
+    "description": "夕暮れの湖畔を歩いてから浸かる湯。冬の十和田湖は人影が少なく、静寂の中で過ごす温泉時間を味わえる。"
    },
    {
     "name": "十和田湖",
@@ -124390,11 +123594,7 @@
   "icCard": "suica",
   "tier2": "area",
   "hubName": "青森",
-  "unsplashUrl": "https://images.unsplash.com/photo-1753458149102-3ae31c74351f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlOEQlODElRTUlOTIlOEMlRTclOTQlQjAlRTYlQjklOTYlRTclOTUlOTQlRTYlQjglQTklRTYlQjMlODklMjAlRTUlOEQlODElRTUlOTIlOEMlRTclOTQlQjAlRTYlQjklOTYlRTclOTUlOTQlRTYlQjglQTklRTYlQjMlODl8ZW58MHwwfHx8MTc3ODQ2NTg0MXww&ixlib=rb-4.1.0&q=80&w=1080",
   "unsplashThumbUrl": "https://images.unsplash.com/photo-1753458149102-3ae31c74351f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlOEQlODElRTUlOTIlOEMlRTclOTQlQjAlRTYlQjklOTYlRTclOTUlOTQlRTYlQjglQTklRTYlQjMlODklMjAlRTUlOEQlODElRTUlOTIlOEMlRTclOTQlQjAlRTYlQjklOTYlRTclOTUlOTQlRTYlQjglQTklRTYlQjMlODl8ZW58MHwwfHx8MTc3ODQ2NTg0MXww&ixlib=rb-4.1.0&q=80&w=400",
-  "unsplashCredit": "Nguyen Minh",
-  "unsplashCreditUrl": "https://unsplash.com/@ngminh8895?utm_source=dokoiko&utm_medium=referral",
-  "unsplashPhotoUrl": "https://unsplash.com/photos/lake-surrounded-by-mountains-under-cloudy-skies-_fKv4dwRc7M?utm_source=dokoiko&utm_medium=referral",
   "rentalCarRecommended": true,
   "images": [
    "/images/gen_青森_十和田湖畔温泉/main.jpg",
@@ -124480,14 +123680,7 @@
   "spots": [
    {
     "name": "馬門温泉",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Gthumb.svg/500px-Gthumb.svg.png",
-    "description": "脱衣所から硫黄のにおいが漂う源泉かけ流しの湯。湯船のふちにこびりつく白い析出物が、湯の濃さを物語る。",
-    "imageCredit": {
-     "author": "",
-     "license": "CC0",
-     "url": "https://commons.wikimedia.org/wiki/File:Gthumb.svg",
-     "attributionRequired": false
-    }
+    "description": "脱衣所から硫黄のにおいが漂う源泉かけ流しの湯。湯船のふちにこびりつく白い析出物が、湯の濃さを物語る。"
    },
    {
     "name": "馬門岳",
@@ -124578,11 +123771,7 @@
   "icCard": "suica",
   "tier2": "area",
   "hubName": "青森",
-  "unsplashUrl": "https://images.unsplash.com/photo-1715855893748-f3e227d5b9c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTklQTYlQUMlRTklOTYlODAlRTYlQjglQTklRTYlQjMlODklMjAlRTklOUQlOTIlRTYlQTMlQUUlRTclOUMlOEMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODQwODk0NHww&ixlib=rb-4.1.0&q=80&w=1080",
   "unsplashThumbUrl": "https://images.unsplash.com/photo-1715855893748-f3e227d5b9c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTklQTYlQUMlRTklOTYlODAlRTYlQjglQTklRTYlQjMlODklMjAlRTklOUQlOTIlRTYlQTMlQUUlRTclOUMlOEMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODQwODk0NHww&ixlib=rb-4.1.0&q=80&w=400",
-  "unsplashCredit": "Seiya Maeda",
-  "unsplashCreditUrl": "https://unsplash.com/@seiya_maeda?utm_source=dokoiko&utm_medium=referral",
-  "unsplashPhotoUrl": "https://unsplash.com/photos/a-small-town-with-a-river-running-through-it-pVvFMOw4My8?utm_source=dokoiko&utm_medium=referral",
   "rentalCarRecommended": true,
   "images": [
    "/images/gen_青森_馬門温泉/main.jpg",
@@ -126541,9 +125730,9 @@
   ],
   "bestSeason": "冬",
   "imageCredit": {
-   "author": "掬茶",
-   "license": "CC BY-SA 4.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Oyu_Onsen_Kokeshi-kan.jpg",
+   "author": "z tanuki",
+   "license": "CC BY 3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Special_historic_site_Oyu_Stone_Circles_,_%E7%89%B9%E5%88%A5%E5%8F%B2%E8%B7%A1_%E5%A4%A7%E6%B9%AF%E7%92%B0%E7%8A%B6%E5%88%97%E7%9F%B3_-_panoramio_(18).jpg",
    "attributionRequired": true
   },
   "featured_stay": {
@@ -126593,14 +125782,7 @@
    },
    {
     "name": "宝川沿い露天風呂",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/20080313-Minakami.jpg/500px-20080313-Minakami.jpg",
-    "description": "総面積470㎡・収容200人以上の露天風呂が4つ並ぶ。沢沿いの大湯船で、数字以上の開放感を体感できる。",
-    "imageCredit": {
-     "author": "Bobak Ha'Eri",
-     "license": "CC BY 3.0",
-     "url": "https://commons.wikimedia.org/wiki/File:20080313-Minakami.jpg",
-     "attributionRequired": true
-    }
+    "description": "総面積470㎡・収容200人以上の露天風呂が4つ並ぶ。沢沿いの大湯船で、数字以上の開放感を体感できる。"
    },
    {
     "name": "谷川岳",
@@ -128232,7 +127414,13 @@
    "離島の絶景"
   ],
   "staySearchUrl": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%25E8%25A6%258B%25E5%25B3%25B6",
-  "bestSeason": "通年"
+  "bestSeason": "通年",
+  "imageCredit": {
+   "author": "Smilykaz",
+   "license": "CC BY-SA 3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:%E3%83%8F%E3%83%9E%E3%83%92%E3%83%AB%E3%82%AC%E3%82%AA,_2008.jpg",
+   "attributionRequired": true
+  }
  },
  {
   "id": "teuri-island",
@@ -129088,11 +128276,7 @@
   "icCard": "suica",
   "tier2": "area",
   "hubName": "松本",
-  "unsplashUrl": "https://images.unsplash.com/photo-1746777064053-ac7b16d9bca2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTklOUIlQTglRTklQTMlQkUlRTglOEQlOTglMjAlRTUlQjAlOEYlRTglQjAlQjclRTYlQjglQTklRTYlQjMlODl8ZW58MHwwfHx8MTc3ODQ2NzA3NHww&ixlib=rb-4.1.0&q=80&w=1080",
   "unsplashThumbUrl": "https://images.unsplash.com/photo-1746777064053-ac7b16d9bca2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTklOUIlQTglRTklQTMlQkUlRTglOEQlOTglMjAlRTUlQjAlOEYlRTglQjAlQjclRTYlQjglQTklRTYlQjMlODl8ZW58MHwwfHx8MTc3ODQ2NzA3NHww&ixlib=rb-4.1.0&q=80&w=400",
-  "unsplashCredit": "IRa Kang",
-  "unsplashCreditUrl": "https://unsplash.com/@lifeinkorea?utm_source=dokoiko&utm_medium=referral",
-  "unsplashPhotoUrl": "https://unsplash.com/photos/a-japanese-building-sits-by-a-flowing-river-mwrVh1NXcQs?utm_source=dokoiko&utm_medium=referral",
   "rentalCarRecommended": true,
   "images": [
    "/images/otari-onsen/main.jpg",
@@ -129579,14 +128763,7 @@
    },
    {
     "name": "白羽海岸",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Shirowa_district_Dreikanter_and_Ventifacts_production_area_wind_erosion_stone_specimens_collected_in_December_1940_E.jpg/500px-Shirowa_district_Dreikanter_and_Ventifacts_production_area_wind_erosion_stone_specimens_collected_in_December_1940_E.jpg",
-    "description": "灯台から南へ車を走らせた先の砂浜。遠州灘の荒波の音と砂を踏む感触に、静岡の海の荒々しい素顔を知る。",
-    "imageCredit": {
-     "author": "さかおり",
-     "license": "CC BY-SA 4.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Shirowa_district_Dreikanter_and_Ventifacts_production_area_wind_erosion_stone_specimens_collected_in_December_1940_E.jpg",
-     "attributionRequired": true
-    }
+    "description": "灯台から南へ車を走らせた先の砂浜。遠州灘の荒波の音と砂を踏む感触に、静岡の海の荒々しい素顔を知る。"
    },
    {
     "name": "遠州灘",
@@ -129987,14 +129164,7 @@
    },
    {
     "name": "牛深ハイヤ祭り",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Ushibuka_Hire_Bridge%2C_Kaisaikan2.jpg/500px-Ushibuka_Hire_Bridge%2C_Kaisaikan2.jpg",
-    "description": "毎年4月第3金曜から3日間、三味線と太鼓が港町に鳴り響く祭り。ハイヤ節の激しいリズムと熱気を体感できる。",
-    "imageCredit": {
-     "author": "Kenta Mabuchi from Fukuoka, Japan",
-     "license": "CC BY-SA 2.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Ushibuka_Hire_Bridge,_Kaisaikan2.jpg",
-     "attributionRequired": true
-    }
+    "description": "毎年4月第3金曜から3日間、三味線と太鼓が港町に鳴り響く祭り。ハイヤ節の激しいリズムと熱気を体感できる。"
    }
   ],
   "shinkansenAccess": false,
@@ -130345,13 +129515,7 @@
    "山岳ハイキング",
    "秘境感あり"
   ],
-  "bestSeason": "冬",
-  "imageCredit": {
-   "author": "スティーブ・ミズキ",
-   "license": "CC BY-SA 4.0",
-   "url": "https://commons.wikimedia.org/wiki/File:%E7%A6%8F%E5%B3%B6%E7%9C%8C%E5%8D%97%E4%BC%9A%E6%B4%A5%E9%83%A1%E5%8D%97%E4%BC%9A%E6%B4%A5%E7%94%BA%E5%A1%A9%E3%83%8E%E5%8E%9F_05.jpg",
-   "attributionRequired": true
-  }
+  "bestSeason": "冬"
  },
  {
   "id": "shosenkyo",
@@ -130717,11 +129881,7 @@
   "icCard": "suica",
   "tier2": "area",
   "hubName": "甲府",
-  "unsplashUrl": "https://images.unsplash.com/photo-1764057145939-0d197221c00e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclOUYlQjMlRTUlOTIlOEMlRTYlQjglQTklRTYlQjMlODklRTglQTElOTclMjAlRTclOUYlQjMlRTUlOTIlOEMlRTYlQjglQTklRTYlQjMlODl8ZW58MHwwfHx8MTc3ODQ2NzUwOXww&ixlib=rb-4.1.0&q=80&w=1080",
   "unsplashThumbUrl": "https://images.unsplash.com/photo-1764057145939-0d197221c00e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclOUYlQjMlRTUlOTIlOEMlRTYlQjglQTklRTYlQjMlODklRTglQTElOTclMjAlRTclOUYlQjMlRTUlOTIlOEMlRTYlQjglQTklRTYlQjMlODl8ZW58MHwwfHx8MTc3ODQ2NzUwOXww&ixlib=rb-4.1.0&q=80&w=400",
-  "unsplashCredit": "waa towaw",
-  "unsplashCreditUrl": "https://unsplash.com/@toowaaw?utm_source=dokoiko&utm_medium=referral",
-  "unsplashPhotoUrl": "https://unsplash.com/photos/hot-springs-waterfall-with-traditional-buildings-in-background-c5rfTyxRja4?utm_source=dokoiko&utm_medium=referral",
   "rentalCarRecommended": false,
   "images": [
    "/images/isawa-onsen/main.jpg",
@@ -130740,12 +129900,6 @@
    "グルメ目当て"
   ],
   "bestSeason": "冬",
-  "imageCredit": {
-   "author": "LERK",
-   "license": "CC BY-SA 4.0",
-   "url": "https://commons.wikimedia.org/wiki/File:JREast-Chuo-main-line-CO41-Isawa-onsen-station-building-south-20220806-113920.jpg",
-   "attributionRequired": true
-  },
   "featured_stay": {
    "name": "銘石の宿 かげつ",
    "catchcopy": "5000坪の庭園に銘石と20の滝。旅館100選45年連続の名宿",
@@ -131586,14 +130740,7 @@
    },
    {
     "name": "トンバイ塀の裏通り",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Nijinomatsubara.jpg/500px-Nijinomatsubara.jpg",
-    "description": "古い窯道具「トンバイ」を積んだ赤茶けた塀が続く裏通り。石畳に足音が響く、磁器の町の静かな素顔に出会う。",
-    "imageCredit": {
-     "author": "ascesis",
-     "license": "CC BY-SA 3.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Nijinomatsubara.jpg",
-     "attributionRequired": true
-    }
+    "description": "古い窯道具「トンバイ」を積んだ赤茶けた塀が続く裏通り。石畳に足音が響く、磁器の町の静かな素顔に出会う。"
    },
    {
     "name": "泉山磁石場",
@@ -131716,11 +130863,7 @@
   "icCard": "nimoca",
   "tier2": "area",
   "hubName": "佐賀",
-  "unsplashUrl": "https://images.unsplash.com/photo-1631024723538-113eb9712681?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTYlOUMlODklRTclOTQlQjAlMjAlRTQlQkQlOTAlRTglQjMlODAlRTclOUMlOEMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODQxMTEyMnww&ixlib=rb-4.1.0&q=80&w=1080",
   "unsplashThumbUrl": "https://images.unsplash.com/photo-1631024723538-113eb9712681?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTYlOUMlODklRTclOTQlQjAlMjAlRTQlQkQlOTAlRTglQjMlODAlRTclOUMlOEMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODQxMTEyMnww&ixlib=rb-4.1.0&q=80&w=400",
-  "unsplashCredit": "Carl Kho",
-  "unsplashCreditUrl": "https://unsplash.com/@carlkho?utm_source=dokoiko&utm_medium=referral",
-  "unsplashPhotoUrl": "https://unsplash.com/photos/white-and-brown-concrete-building-near-green-mountain-under-white-clouds-during-daytime-5MF7EFgy02U?utm_source=dokoiko&utm_medium=referral",
   "rentalCarRecommended": false,
   "images": [
    "/images/arita/main.jpg",
@@ -131738,12 +130881,6 @@
    "友達と"
   ],
   "bestSeason": "秋",
-  "imageCredit": {
-   "author": "UltraH",
-   "license": "CC BY-SA 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:%E6%9C%89%E7%94%B0%E9%99%B6%E5%99%A8%E5%B8%82%E3%80%8C%E9%99%B6%E7%A3%81%E5%99%A8%E3%81%AE%E9%87%8C%E3%80%8D_-_panoramio_(1).jpg",
-   "attributionRequired": true
-  },
   "featured_stay": {
    "name": "arita huis（アリタハウス）",
    "catchcopy": "有田焼の里に佇む全10室のデザインオーベルジュ。器と美食の宿",
@@ -132300,11 +131437,7 @@
   "tier2": "area",
   "hubName": "鳥取",
   "rentalCarRecommended": true,
-  "unsplashUrl": "https://images.unsplash.com/photo-1760243875310-30e176e5d669?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclOUYlQjMlRTglQjAlQjclRTUlQUUlQjYlRTQlQkQlOEYlRTUlQUUlODUlMjAlRTYlOTklQkElRTklQTAlQUR8ZW58MHwwfHx8MTc3ODQ2ODAxNnww&ixlib=rb-4.1.0&q=80&w=1080",
   "unsplashThumbUrl": "https://images.unsplash.com/photo-1760243875310-30e176e5d669?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclOUYlQjMlRTglQjAlQjclRTUlQUUlQjYlRTQlQkQlOEYlRTUlQUUlODUlMjAlRTYlOTklQkElRTklQTAlQUR8ZW58MHwwfHx8MTc3ODQ2ODAxNnww&ixlib=rb-4.1.0&q=80&w=400",
-  "unsplashCredit": "PJH",
-  "unsplashCreditUrl": "https://unsplash.com/@dokae?utm_source=dokoiko&utm_medium=referral",
-  "unsplashPhotoUrl": "https://unsplash.com/photos/traditional-japanese-houses-under-a-clear-blue-sky-gQ1c8SQZD74?utm_source=dokoiko&utm_medium=referral",
   "images": [
    "/images/chizu/main.jpg",
    "/images/chizu/spot-1.jpg",
@@ -132321,13 +131454,7 @@
    "友達と",
    "街歩き向け"
   ],
-  "bestSeason": "通年",
-  "imageCredit": {
-   "author": "663highland",
-   "license": "CC BY 2.5",
-   "url": "https://commons.wikimedia.org/wiki/File:150425_Koinobori_Chizu_Tottori_pref_Japan01bs.jpg",
-   "attributionRequired": true
-  }
+  "bestSeason": "通年"
  },
  {
   "id": "minami-tokushima",
@@ -133526,14 +132653,7 @@
    },
    {
     "name": "伊吹島灯台",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Zenigata_sunae.jpg/500px-Zenigata_sunae.jpg",
-    "description": "港から歩いて20分ほど、すれ違うのがやっとの細い路地を抜けた先に立つ灯台。坂を上りながら島の暮らしも感じられる。",
-    "imageCredit": {
-     "author": "Si-take.",
-     "license": "CC BY-SA 3.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Zenigata_sunae.jpg",
-     "attributionRequired": true
-    }
+    "description": "港から歩いて20分ほど、すれ違うのがやっとの細い路地を抜けた先に立つ灯台。坂を上りながら島の暮らしも感じられる。"
    },
    {
     "name": "伊吹八幡神社",
@@ -133920,7 +133040,13 @@
    "アートの島"
   ],
   "staySearchUrl": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%25E9%25AB%2598%25E6%259D%25BE",
-  "bestSeason": "通年"
+  "bestSeason": "通年",
+  "imageCredit": {
+   "author": "投稿者",
+   "license": "Public domain",
+   "url": "https://commons.wikimedia.org/wiki/File:Ogi_Isle_LightHouse.JPG",
+   "attributionRequired": true
+  }
  },
  {
   "id": "megijima",
@@ -133947,14 +133073,7 @@
   "spots": [
    {
     "name": "鬼ヶ島大洞窟",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/%E3%82%B5%E3%83%B3%E3%83%9D%E3%83%BC%E3%83%88%E9%AB%99%E6%9D%BE%E3%82%88%E3%82%8A%E6%9C%9B%E3%82%80.JPG/500px-%E3%82%B5%E3%83%B3%E3%83%9D%E3%83%BC%E3%83%88%E9%AB%99%E6%9D%BE%E3%82%88%E3%82%8A%E6%9C%9B%E3%82%80.JPG",
-    "description": "島の頂上付近にある洞窟へは、バスで山道を約10分。入場料700円で、空気の変わる暗闇の探検を体験できる。",
-    "imageCredit": {
-     "author": "屋嶋の仙人",
-     "license": "CC BY-SA 4.0",
-     "url": "https://commons.wikimedia.org/wiki/File:%E3%82%B5%E3%83%B3%E3%83%9D%E3%83%BC%E3%83%88%E9%AB%99%E6%9D%BE%E3%82%88%E3%82%8A%E6%9C%9B%E3%82%80.JPG",
-     "attributionRequired": true
-    }
+    "description": "島の頂上付近にある洞窟へは、バスで山道を約10分。入場料700円で、空気の変わる暗闇の探検を体験できる。"
    },
    {
     "name": "モアイ像",
@@ -134188,14 +133307,7 @@
    },
    {
     "name": "本島泊海水浴場",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/%E5%A1%A9%E9%A3%BD%E6%9C%AC%E5%B3%B6_2019.jpg/500px-%E5%A1%A9%E9%A3%BD%E6%9C%AC%E5%B3%B6_2019.jpg",
-    "description": "拍子抜けするほど静かな砂浜。夏でも人が少なく、瀬戸内の海をひとり占めするような海水浴が楽しめる。",
-    "imageCredit": {
-     "author": "皓月旗",
-     "license": "CC BY-SA 4.0",
-     "url": "https://commons.wikimedia.org/wiki/File:%E5%A1%A9%E9%A3%BD%E6%9C%AC%E5%B3%B6_2019.jpg",
-     "attributionRequired": true
-    }
+    "description": "拍子抜けするほど静かな砂浜。夏でも人が少なく、瀬戸内の海をひとり占めするような海水浴が楽しめる。"
    }
   ],
   "shinkansenAccess": false,
@@ -134608,9 +133720,9 @@
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/%E7%BE%8A%E3%81%AE%E5%A4%A7%E8%A1%8C%E9%80%B2.jpg/500px-%E7%BE%8A%E3%81%AE%E5%A4%A7%E8%A1%8C%E9%80%B2.jpg",
     "description": "島には700羽以上のうさぎが暮らし、警戒心なく向こうから寄ってくる。桟橋に降りた瞬間から触れ合いが始まる。",
     "imageCredit": {
-     "author": "Xser21",
+     "author": "Jdlrobson",
      "license": "CC BY-SA 4.0",
-     "url": "https://commons.wikimedia.org/wiki/File:%E7%BE%8A%E3%81%AE%E5%A4%A7%E8%A1%8C%E9%80%B2.jpg",
+     "url": "https://commons.wikimedia.org/wiki/File:Bunnies_jump_on_a_man_in_%C5%8Ckunoshima_island,_Japan.jpg",
      "attributionRequired": true
     }
    },
@@ -134852,9 +133964,9 @@
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/C.C._Lemon.jpg/500px-C.C._Lemon.jpg",
     "description": "レモンの産地・生口島に広がる畑。サイクリングで立ち寄れば、想像を超える規模と爽やかな香りに包まれる。",
     "imageCredit": {
-     "author": "Kuha455405",
-     "license": "CC BY-SA 3.0",
-     "url": "https://commons.wikimedia.org/wiki/File:C.C._Lemon.jpg",
+     "author": "RitikaPahwa4444",
+     "license": "CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Ikuchijima_218.jpg",
      "attributionRequired": true
     }
    },
@@ -135516,14 +134628,7 @@
   "spots": [
    {
     "name": "真鍋島の猫たち",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Manabejima_01.jpg/500px-Manabejima_01.jpg",
-    "description": "桟橋に降りた瞬間から、島のあちこちで猫と目が合う。観光客に媚びず、ただそこにいる猫たちとの距離感を楽しめる。",
-    "imageCredit": {
-     "author": "Prue Simmons",
-     "license": "CC BY 2.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Manabejima_01.jpg",
-     "attributionRequired": true
-    }
+    "description": "桟橋に降りた瞬間から、島のあちこちで猫と目が合う。観光客に媚びず、ただそこにいる猫たちとの距離感を楽しめる。"
    },
    {
     "name": "真鍋邸",
@@ -136519,9 +135624,9 @@
   ],
   "bestSeason": "春",
   "imageCredit": {
-   "author": "Kansai explorer",
-   "license": "CC BY 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Ikeda-city_hall,_Osaka01.JPG",
+   "author": "663highland",
+   "license": "CC BY-SA 4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:240810_Ikeda_Station_Ikeda_Osaka_pref_Japan02s3.jpg",
    "attributionRequired": true
   },
   "featured_stay": {
@@ -136967,14 +136072,7 @@
    },
    {
     "name": "大和川沿いのぶどう畑",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Kintetsu_series26000_Minami-Osaka.jpg/500px-Kintetsu_series26000_Minami-Osaka.jpg",
-    "description": "川沿いの道の左右に、ぶどう棚の緑の天井が続く。葉の間から差す光と果実の青い香りの中を静かに歩ける。",
-    "imageCredit": {
-     "author": "W0746203-1",
-     "license": "CC BY-SA 3.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Kintetsu_series26000_Minami-Osaka.jpg",
-     "attributionRequired": true
-    }
+    "description": "川沿いの道の左右に、ぶどう棚の緑の天井が続く。葉の間から差す光と果実の青い香りの中を静かに歩ける。"
    },
    {
     "name": "玉手山公園",
@@ -137108,11 +136206,7 @@
   "icCard": "icoca",
   "tier2": "area",
   "hubName": "大阪",
-  "unsplashUrl": "https://images.unsplash.com/photo-1718756853078-befc99d53794?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTYlOUYlOEYlRTUlOEUlOUYlMjAlRTUlQTQlQTclRTklOTglQUElRTUlQkElOUMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODQxMjc5MHww&ixlib=rb-4.1.0&q=80&w=1080",
   "unsplashThumbUrl": "https://images.unsplash.com/photo-1718756853078-befc99d53794?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTYlOUYlOEYlRTUlOEUlOUYlMjAlRTUlQTQlQTclRTklOTglQUElRTUlQkElOUMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODQxMjc5MHww&ixlib=rb-4.1.0&q=80&w=400",
-  "unsplashCredit": "Buddy AN",
-  "unsplashCreditUrl": "https://unsplash.com/@stbuddyp?utm_source=dokoiko&utm_medium=referral",
-  "unsplashPhotoUrl": "https://unsplash.com/photos/a-group-of-people-standing-outside-of-a-building-at-night-7jHHzPl3ITs?utm_source=dokoiko&utm_medium=referral",
   "rentalCarRecommended": true,
   "images": [
    "/images/kashiwara-wine/main.jpg",
@@ -137325,13 +136419,7 @@
    "カップル向け",
    "友達と"
   ],
-  "bestSeason": "冬",
-  "imageCredit": {
-   "author": "皓月旗",
-   "license": "CC BY-SA 4.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Tsubame-Sanjo_Station_2020.jpg",
-   "attributionRequired": true
-  }
+  "bestSeason": "冬"
  },
  {
   "id": "kashiwazaki",
@@ -137767,9 +136855,9 @@
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Miyakosty_sanouiwa.jpg/500px-Miyakosty_sanouiwa.jpg",
     "description": "高さ14.7メートル、X字型に交差する全長2.4キロの防潮堤。「万里の長城」と呼ばれた壁を見上げながら歩ける。",
     "imageCredit": {
-     "author": "A203761 at Japanese Wikipedia",
-     "license": "CC BY 3.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Miyakosty_sanouiwa.jpg",
+     "author": "Kihkyef",
+     "license": "CC BY-SA 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:High_Seawalls_in_Tar%C5%8D,_Iwate_-2.JPG",
      "attributionRequired": true
     }
    },
@@ -137926,9 +137014,9 @@
   ],
   "bestSeason": "夏",
   "imageCredit": {
-   "author": "Yoshio Kohara",
+   "author": "Ippukucho",
    "license": "CC BY 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:%E4%B8%89%E9%99%B8_%E7%94%B0%E8%80%81%E6%B5%B7%E5%B2%B8_-_panoramio.jpg",
+   "url": "https://commons.wikimedia.org/wiki/File:TaroStation3.JPG",
    "attributionRequired": true
   }
  },
@@ -138516,11 +137604,7 @@
   "icCard": "icoca",
   "tier2": "spot",
   "hubName": "神戸",
-  "unsplashUrl": "https://images.unsplash.com/photo-1572477908562-84e367441a70?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclOTQlOUYlRTklODclOEUlRTklOEElODAlRTUlQjElQjElMjAlRTclOTQlOUYlRTklODclOEV8ZW58MHwwfHx8MTc3ODQ2OTE3N3ww&ixlib=rb-4.1.0&q=80&w=1080",
   "unsplashThumbUrl": "https://images.unsplash.com/photo-1572477908562-84e367441a70?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclOTQlOUYlRTklODclOEUlRTklOEElODAlRTUlQjElQjElMjAlRTclOTQlOUYlRTklODclOEV8ZW58MHwwfHx8MTc3ODQ2OTE3N3ww&ixlib=rb-4.1.0&q=80&w=400",
-  "unsplashCredit": "Guillem Cotcha",
-  "unsplashCreditUrl": "https://unsplash.com/@guillemcotcha?utm_source=dokoiko&utm_medium=referral",
-  "unsplashPhotoUrl": "https://unsplash.com/photos/trees-in-forest-wRphSyceHVk?utm_source=dokoiko&utm_medium=referral",
   "rentalCarRecommended": true,
   "images": [
    "/images/ikuno/main.jpg",
@@ -139403,14 +138487,7 @@
    },
    {
     "name": "天津小湊の棚田",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Kamogawa_Montage.jpg/500px-Kamogawa_Montage.jpg",
-    "description": "太平洋を背に、石積みの棚田が斜面を段々と刻む。海と田が同じ視界に収まる、稀有な風景に出会える。",
-    "imageCredit": {
-     "author": "Shift User:Volfgang User:おぉたむすねィく探検隊 Toshihiro Matsui User:じーさん User:Tak1701d User:あばさー",
-     "license": "CC BY-SA 4.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Kamogawa_Montage.jpg",
-     "attributionRequired": true
-    }
+    "description": "太平洋を背に、石積みの棚田が斜面を段々と刻む。海と田が同じ視界に収まる、稀有な風景に出会える。"
    }
   ],
   "shinkansenAccess": false,
@@ -139768,9 +138845,9 @@
   ],
   "bestSeason": "夏",
   "imageCredit": {
-   "author": "Asturio Cantabrio",
-   "license": "CC BY-SA 4.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Tatsuno_Town_Tatsuno_Library_ac.jpg",
+   "author": "Hiroaki Kaneko",
+   "license": "CC BY-SA 3.0",
+   "url": "https://commons.wikimedia.org/w/index.php?curid=56495354",
    "attributionRequired": true
   }
  },
@@ -139951,11 +139028,7 @@
   "tier2": "area",
   "hubName": "広島",
   "rentalCarRecommended": false,
-  "unsplashUrl": "https://images.unsplash.com/photo-1679232329240-d1332fd1995e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlQkElOUMlRTQlQjglQUQlRTUlQjglODIlRTQlQjglOEElRTQlQjglOEIlRTclOTQlQkElMjAlRTUlQkElOUMlRTQlQjglQUR8ZW58MHwwfHx8MTc3ODQ2OTQ2N3ww&ixlib=rb-4.1.0&q=80&w=1080",
   "unsplashThumbUrl": "https://images.unsplash.com/photo-1679232329240-d1332fd1995e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlQkElOUMlRTQlQjglQUQlRTUlQjglODIlRTQlQjglOEElRTQlQjglOEIlRTclOTQlQkElMjAlRTUlQkElOUMlRTQlQjglQUR8ZW58MHwwfHx8MTc3ODQ2OTQ2N3ww&ixlib=rb-4.1.0&q=80&w=400",
-  "unsplashCredit": "P. L.",
-  "unsplashCreditUrl": "https://unsplash.com/@partrickl?utm_source=dokoiko&utm_medium=referral",
-  "unsplashPhotoUrl": "https://unsplash.com/photos/a-man-walking-past-a-restaurant-at-night-BCjPidSW-i4?utm_source=dokoiko&utm_medium=referral",
   "images": [
    "/images/fuchu-hiroshima/main.jpg",
    "/images/fuchu-hiroshima/spot-1.jpg",
@@ -139972,13 +139045,7 @@
    "カップル向け",
    "友達と"
   ],
-  "bestSeason": "通年",
-  "imageCredit": {
-   "author": "廣丸 博一",
-   "license": "CC BY-SA 4.0",
-   "url": "https://commons.wikimedia.org/wiki/File:%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%A2%E3%83%BC%E3%83%AB%E5%BA%83%E5%B3%B6%E5%BA%9C%E4%B8%AD.jpg",
-   "attributionRequired": true
-  }
+  "bestSeason": "通年"
  },
  {
   "id": "niihama",
@@ -140201,14 +139268,7 @@
   "spots": [
    {
     "name": "庵治石の採石場",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/%E6%9C%AC%E5%B0%8F%E6%9D%BE%E7%9F%B3_%E9%9D%92%E7%9B%AE%E6%9D%90.jpg/500px-%E6%9C%AC%E5%B0%8F%E6%9D%BE%E7%9F%B3_%E9%9D%92%E7%9B%AE%E6%9D%90.jpg",
-    "description": "山肌に白く刻まれた採石場の迫力ある景観。「花崗岩の最高峰」と呼ばれる庵治石の産地の風景を間近に望める。",
-    "imageCredit": {
-     "author": "Tachibanayu-ma",
-     "license": "CC BY-SA 4.0",
-     "url": "https://commons.wikimedia.org/wiki/File:%E6%9C%AC%E5%B0%8F%E6%9D%BE%E7%9F%B3_%E9%9D%92%E7%9B%AE%E6%9D%90.jpg",
-     "attributionRequired": true
-    }
+    "description": "山肌に白く刻まれた採石場の迫力ある景観。「花崗岩の最高峰」と呼ばれる庵治石の産地の風景を間近に望める。"
    },
    {
     "name": "庵治漁港",
@@ -140560,11 +139620,7 @@
   "tier2": "spot",
   "hubName": "高松",
   "rentalCarRecommended": true,
-  "unsplashUrl": "https://images.unsplash.com/photo-1655356246969-8a6cfb0b0814?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclODglQjYlRTYlQUYlOEQlRTMlODMlQjYlRTYlQjUlOUMlMjAlRTQlQjglODklRTglQjElOEF8ZW58MHwwfHx8MTc3ODQ2OTY4NXww&ixlib=rb-4.1.0&q=80&w=1080",
   "unsplashThumbUrl": "https://images.unsplash.com/photo-1655356246969-8a6cfb0b0814?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclODglQjYlRTYlQUYlOEQlRTMlODMlQjYlRTYlQjUlOUMlMjAlRTQlQjglODklRTglQjElOEF8ZW58MHwwfHx8MTc3ODQ2OTY4NXww&ixlib=rb-4.1.0&q=80&w=400",
-  "unsplashCredit": "Kouji Tsuru",
-  "unsplashCreditUrl": "https://unsplash.com/@pafuxu?utm_source=dokoiko&utm_medium=referral",
-  "unsplashPhotoUrl": "https://unsplash.com/photos/a-beach-with-sand-and-water-8XL5wAjmp4U?utm_source=dokoiko&utm_medium=referral",
   "images": [
    "/images/mitoyo/main.jpg",
    "/images/mitoyo/spot-1.jpg",
@@ -140582,12 +139638,6 @@
    "友達と"
   ],
   "bestSeason": "通年",
-  "imageCredit": {
-   "author": "Ray Swi-hymn",
-   "license": "CC BY-SA 2.0",
-   "url": "https://commons.wikimedia.org/wiki/File:%E8%B2%A1%E7%94%B0%E5%B7%9D_%E4%B8%89%E8%B1%8A%E5%B8%82_(13975238981).jpg",
-   "attributionRequired": true
-  },
   "featured_stay": {
    "name": "URASHIMA VILLAGE",
    "catchcopy": "父母ヶ浜近く、浦島伝説の半島に建つ絶景一棟貸しヴィラ",
@@ -140815,14 +139865,7 @@
   "spots": [
    {
     "name": "宍喰漁港",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Shishikui_Station_%282015%29_01.JPG/500px-Shishikui_Station_%282015%29_01.JPG",
-    "description": "早朝、水揚げされたばかりのカツオが並ぶ現役の漁港。朝5時台に訪れれば漁師町の活気を間近に感じられる。",
-    "imageCredit": {
-     "author": "Sunport1216",
-     "license": "CC BY-SA 4.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Shishikui_Station_(2015)_01.JPG",
-     "attributionRequired": true
-    }
+    "description": "早朝、水揚げされたばかりのカツオが並ぶ現役の漁港。朝5時台に訪れれば漁師町の活気を間近に感じられる。"
    },
    {
     "name": "宍喰温泉",
@@ -142302,9 +141345,9 @@
   ],
   "bestSeason": "秋",
   "imageCredit": {
-   "author": "Eusebius",
-   "license": "CC BY 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Etat_fasciste,_sarkommence_(2).JPG",
+   "author": "Yasuyuki_Kawano",
+   "license": "CC BY 4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Find47_Niigata-Kiyotsu_Gorge_Tunnel-m.jpg",
    "attributionRequired": true
   },
   "featured_stay": {
@@ -142577,14 +141620,7 @@
    },
    {
     "name": "馬路の千本桜",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Umajispaland_maji_forest_railway3.jpg/500px-Umajispaland_maji_forest_railway3.jpg",
-    "description": "春、山裾を白とピンクの花霞が埋め尽くす。風が甘い香りを運ぶ、地元だけが知る静かな丘の花景色。",
-    "imageCredit": {
-     "author": "ブルーノ・プラス",
-     "license": "CC BY-SA 4.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Umajispaland_maji_forest_railway3.jpg",
-     "attributionRequired": true
-    }
+    "description": "春、山裾を白とピンクの花霞が埋め尽くす。風が甘い香りを運ぶ、地元だけが知る静かな丘の花景色。"
    }
   ],
   "shinkansenAccess": false,
@@ -144542,14 +143578,7 @@
    },
    {
     "name": "胴腹滝",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Douhara_waterfall_b_Stone_Buddha_20201020.jpg/1280px-Douhara_waterfall_b_Stone_Buddha_20201020.jpg",
-    "description": "苔むした岩の「胴」から左右ふたすじの水が落ちる山腹の滝。雪解け水の冷たさを手で確かめられる。",
-    "imageCredit": {
-     "author": "--[[利用者:あおもりくま|あおもりくま]]（会話） 2020年11月3日 (火) 09:16 (UTC)",
-     "license": "Public domain",
-     "url": "https://commons.wikimedia.org/wiki/File:Douhara_waterfall_b_Stone_Buddha_20201020.jpg",
-     "attributionRequired": false
-    }
+    "description": "苔むした岩の「胴」から左右ふたすじの水が落ちる山腹の滝。雪解け水の冷たさを手で確かめられる。"
    },
    {
     "name": "鉾立展望台",
@@ -144714,13 +143743,7 @@
    "山岳ハイキング",
    "ゆっくり滞在"
   ],
-  "bestSeason": "夏",
-  "imageCredit": {
-   "author": "kyohei ito",
-   "license": "CC BY-SA 2.0",
-   "url": "https://commons.wikimedia.org/wiki/File%3AMount_Ch%C5%8Dkai_(2017-05-19)_-_Flickr.jpg",
-   "attributionRequired": true
-  }
+  "bestSeason": "夏"
  },
  {
   "id": "eshima-miyagi",
@@ -144762,14 +143785,7 @@
    },
    {
     "name": "牡蠣棚",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Huitres_Cancale.jpg/500px-Huitres_Cancale.jpg",
-    "description": "港から見渡す海に牡蠣の養殖棚が並ぶ。三陸の牡蠣の産地ならではの海の風景を間近に眺められる。",
-    "imageCredit": {
-     "author": "Myrabella",
-     "license": "CC BY-SA 3.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Huitres_Cancale.jpg",
-     "attributionRequired": true
-    }
+    "description": "港から見渡す海に牡蠣の養殖棚が並ぶ。三陸の牡蠣の産地ならではの海の風景を間近に眺められる。"
    },
    {
     "name": "高台展望台",
@@ -144991,14 +144007,7 @@
    },
    {
     "name": "ニッコウキスゲ群生地",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Kitanomatadake.jpg/500px-Kitanomatadake.jpg",
-    "description": "見ごろは7月中旬から下旬。車山肩の駐車場から、斜面を黄色に染める花の群生を見上げられる。",
-    "imageCredit": {
-     "author": "住友快左衛門",
-     "license": "Public domain",
-     "url": "https://commons.wikimedia.org/wiki/File:Kitanomatadake.jpg",
-     "attributionRequired": false
-    }
+    "description": "見ごろは7月中旬から下旬。車山肩の駐車場から、斜面を黄色に染める花の群生を見上げられる。"
    },
    {
     "name": "八島ヶ原湿原",
@@ -145211,14 +144220,7 @@
    },
    {
     "name": "大阿原湿原",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Mt.Nyukasa_01.jpg/500px-Mt.Nyukasa_01.jpg",
-    "description": "木道を一歩踏み出すたび湿った草の香りが立ち上る静かな湿原。風の渡る音だけの夏の静寂を味わえる。",
-    "imageCredit": {
-     "author": "Σ64",
-     "license": "CC BY-SA 3.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Mt.Nyukasa_01.jpg",
-     "attributionRequired": true
-    }
+    "description": "木道を一歩踏み出すたび湿った草の香りが立ち上る静かな湿原。風の渡る音だけの夏の静寂を味わえる。"
    }
   ],
   "shinkansenAccess": false,
@@ -145364,13 +144366,7 @@
    "山岳ハイキング",
    "高原リゾート"
   ],
-  "bestSeason": "夏",
-  "imageCredit": {
-   "author": "Σ64 (talk)",
-   "license": "CC BY-SA 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File%3AMt.Nyukasa_01.jpg",
-   "attributionRequired": true
-  }
+  "bestSeason": "夏"
  },
  {
   "id": "ontake",
@@ -145627,14 +144623,7 @@
    },
    {
     "name": "珠洲塩田",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Mitsukejima_%28Ishikawa%29_4.jpg/500px-Mitsukejima_%28Ishikawa%29_4.jpg",
-    "description": "400年続く揚げ浜式塩田で、能登の塩づくりの現場に触れられる。凝縮された塩の旨みを試食で確かめたい。",
-    "imageCredit": {
-     "author": "photo: Qurren (talk) Taken with Canon IXY 430F (Digital IXUS 245 HS)",
-     "license": "CC BY-SA 3.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Mitsukejima_(Ishikawa)_4.jpg",
-     "attributionRequired": true
-    }
+    "description": "400年続く揚げ浜式塩田で、能登の塩づくりの現場に触れられる。凝縮された塩の旨みを試食で確かめたい。"
    }
   ],
   "shinkansenAccess": false,
@@ -146045,25 +145034,11 @@
   "spots": [
    {
     "name": "窓岩",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Tarumi_Fall_%26_Yasenodomon.jpg/500px-Tarumi_Fall_%26_Yasenodomon.jpg",
-    "description": "海蝕が穿った完全な円形の穴を持つ奇岩。国道249号の車窓からも、岩越しに切り取られた海の青が目を奪う。",
-    "imageCredit": {
-     "author": "Hirorinmasa",
-     "license": "CC BY-SA 3.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Tarumi_Fall_%26_Yasenodomon.jpg",
-     "attributionRequired": true
-    }
+    "description": "海蝕が穿った完全な円形の穴を持つ奇岩。国道249号の車窓からも、岩越しに切り取られた海の青が目を奪う。"
    },
    {
     "name": "曽々木海岸",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/%E6%9B%BD%E3%80%85%E6%9C%A8%E6%B5%B7%E5%B2%B8_-_panoramio.jpg/1280px-%E6%9B%BD%E3%80%85%E6%9C%A8%E6%B5%B7%E5%B2%B8_-_panoramio.jpg",
-    "description": "層になった独特の岩の色が続く断崖絶壁の海岸線。荒々しい日本海の波音を間近に体感できる。",
-    "imageCredit": {
-     "author": "Yobito KAYANUMA",
-     "license": "CC BY-SA 3.0",
-     "url": "https://commons.wikimedia.org/wiki/File:%E6%9B%BD%E3%80%85%E6%9C%A8%E6%B5%B7%E5%B2%B8_-_panoramio.jpg",
-     "attributionRequired": true
-    }
+    "description": "層になった独特の岩の色が続く断崖絶壁の海岸線。荒々しい日本海の波音を間近に体感できる。"
    },
    {
     "name": "千畳敷",
@@ -146204,11 +145179,7 @@
   "icCard": "icoca",
   "tier2": "spot",
   "hubName": "金沢",
-  "unsplashUrl": "https://images.unsplash.com/photo-1698877942278-49997fac9dbe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclQUElOTMlRTUlQjIlQTklMjAlRTYlOUIlQkQlRTMlODAlODUlRTYlOUMlQTglRTYlQjUlQjclRTUlQjIlQjh8ZW58MHwwfHx8MTc3ODU0Njk1MHww&ixlib=rb-4.1.0&q=80&w=1080",
   "unsplashThumbUrl": "https://images.unsplash.com/photo-1698877942278-49997fac9dbe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclQUElOTMlRTUlQjIlQTklMjAlRTYlOUIlQkQlRTMlODAlODUlRTYlOUMlQTglRTYlQjUlQjclRTUlQjIlQjh8ZW58MHwwfHx8MTc3ODU0Njk1MHww&ixlib=rb-4.1.0&q=80&w=400",
-  "unsplashCredit": "Winged Jedi",
-  "unsplashCreditUrl": "https://unsplash.com/@wingedjedi?utm_source=dokoiko&utm_medium=referral",
-  "unsplashPhotoUrl": "https://unsplash.com/photos/a-body-of-water-surrounded-by-rocks-and-grass-OinPW0sekNc?utm_source=dokoiko&utm_medium=referral",
   "rentalCarRecommended": true,
   "images": [
    "/images/sozogi/main.jpg",
@@ -146224,13 +145195,7 @@
    "海を眺める",
    "ゆっくり滞在"
   ],
-  "bestSeason": "通年",
-  "imageCredit": {
-   "author": "Yobito KAYANUMA",
-   "license": "CC BY-SA 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:%E6%9B%BD%E3%80%85%E6%9C%A8%E6%B5%B7%E5%B2%B8_-_panoramio.jpg",
-   "attributionRequired": true
-  }
+  "bestSeason": "通年"
  },
  {
   "id": "shiroyone-senmaida",
@@ -146273,9 +145238,9 @@
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Winter_Illumination_at_Nabana-no-Sato.jpg/500px-Winter_Illumination_at_Nabana-no-Sato.jpg",
     "description": "冬、約2万5千個のLEDが棚田の輪郭を照らす。夜の冷気の中、星屑のように輝く光の粒を眺められる。",
     "imageCredit": {
-     "author": "cyber0515",
-     "license": "CC BY-SA 3.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Winter_Illumination_at_Nabana-no-Sato.jpg",
+     "author": "suri",
+     "license": "CC BY-SA 2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Shiroyone_Senmaida_(8266941838).jpg",
      "attributionRequired": true
     }
    },
@@ -147993,14 +146958,7 @@
   "spots": [
    {
     "name": "久住高原コスモス",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Kuju_Flower_Park%283553982332%29.jpg/500px-Kuju_Flower_Park%283553982332%29.jpg",
-    "description": "見渡すかぎり広がるコスモス畑。白やピンクの花が揺れる草原を、九重連山を背に散策できる。",
-    "imageCredit": {
-     "author": "TANAKA Juuyoh (田中十洋)",
-     "license": "CC BY 2.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Kuju_Flower_Park(3553982332).jpg",
-     "attributionRequired": true
-    }
+    "description": "見渡すかぎり広がるコスモス畑。白やピンクの花が揺れる草原を、九重連山を背に散策できる。"
    },
    {
     "name": "九重夢大吊橋",
@@ -148458,9 +147416,9 @@
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Kirishima_panorama_%2852017682012%29.jpg/1280px-Kirishima_panorama_%2852017682012%29.jpg",
     "description": "花畑の背後にそびえる韓国岳や高千穂峰など霧島の峰々。雄大な山並みを花越しに一望できる。",
     "imageCredit": {
-     "author": "Raita Futo from Tokyo, Japan",
+     "author": "Jun Seita",
      "license": "CC BY 2.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Kirishima_panorama_(52017682012).jpg",
+     "url": "https://commons.wikimedia.org/wiki/File:Kirishima_volcano_20111125.jpg",
      "attributionRequired": true
     }
    }
@@ -150063,9 +149021,9 @@
   "staySearchUrl": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%25E6%2597%25A5%25E6%258C%25AF%25E5%25B3%25B6",
   "bestSeason": "夏",
   "imageCredit": {
-   "author": "ブルーノ・プラス",
-   "license": "CC BY-SA 4.0",
-   "url": "https://commons.wikimedia.org/wiki/File%3AHiburi_island_clinic.jpg",
+   "author": "Snap55",
+   "license": "CC BY 3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Ako_port.JPG",
    "attributionRequired": true
   },
   "mainSpot": "日振島港"
@@ -150244,22 +149202,15 @@
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Comic_Yuri_Hime_2013.png",
     "description": "干潮の前後にだけ現れる幻の砂浜。透明度抜群の浅瀬に囲まれた白砂に、船で渡って立てる。",
     "imageCredit": {
-     "author": "Ichijinsha",
-     "license": "Public domain",
-     "url": "https://commons.wikimedia.org/wiki/File:Comic_Yuri_Hime_2013.png",
-     "attributionRequired": false
+     "author": "国土地理院",
+     "license": "Attribution",
+     "url": "https://commons.wikimedia.org/wiki/File:Hanmyajima_east_of_Yoroshima_Island_Aerial_photograph.2008_(cropped).jpg",
+     "attributionRequired": true
     }
    },
    {
     "name": "ケンタウロスビーチ",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Menton-C%C3%B4te_d%27Azur.jpg/500px-Menton-C%C3%B4te_d%27Azur.jpg",
-    "description": "奇岩と原生林に囲まれた静かな浜。波音以外に何も聞こえない、集落から歩いて行けるビーチ。",
-    "imageCredit": {
-     "author": "Tobi 87",
-     "license": "CC BY-SA 3.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Menton-C%C3%B4te_d%27Azur.jpg",
-     "attributionRequired": true
-    }
+    "description": "奇岩と原生林に囲まれた静かな浜。波音以外に何も聞こえない、集落から歩いて行けるビーチ。"
    },
    {
     "name": "与論城跡",
@@ -150616,9 +149567,9 @@
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Stade_Constant_Vanden_Stock.jpg/500px-Stade_Constant_Vanden_Stock.jpg",
     "description": "サトウキビ畑の先に現れる野球場。独立リーグの熱戦が砂埃とともに繰り広げられる聖地。",
     "imageCredit": {
-     "author": "Олександр Осіпов",
+     "author": "衛兵隊衛士 at Japanese Wikipedia",
      "license": "CC BY-SA 3.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Stade_Constant_Vanden_Stock.jpg",
+     "url": "https://commons.wikimedia.org/wiki/File:Minamidaito-37.jpg",
      "attributionRequired": true
     }
    },
@@ -151224,9 +150175,9 @@
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/%E5%A4%A7%E6%B5%9C%E6%B5%B7%E6%B0%B4%E6%B5%B4%E5%A0%B4.jpg/500px-%E5%A4%A7%E6%B5%9C%E6%B5%B7%E6%B0%B4%E6%B5%B4%E5%A0%B4.jpg",
     "description": "急な坂を上りきった木立の中に鎮座する古社。石段と梢を抜ける風の音に島の深さを感じられる。",
     "imageCredit": {
-     "author": "Shikizo",
-     "license": "CC BY-SA 4.0",
-     "url": "https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E6%B5%9C%E6%B5%B7%E6%B0%B4%E6%B5%B4%E5%A0%B4.jpg",
+     "author": "ブルーノ・プラス",
+     "license": "CC BY 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Ugurushima_Island_01.jpg",
      "attributionRequired": true
     }
    },
@@ -151484,10 +150435,10 @@
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Marksburg1900.jpg/500px-Marksburg1900.jpg",
     "description": "車一台がやっと通る細い道の先、急斜面に民家が段々に張りつく十根川集落。ガードレールのないカーブから山里の暮らしを望める。",
     "imageCredit": {
-     "author": "Unknown authorUnknown author",
+     "author": "ja:User:Sanjo",
      "license": "Public domain",
-     "url": "https://commons.wikimedia.org/wiki/File:Marksburg1900.jpg",
-     "attributionRequired": false
+     "url": "https://commons.wikimedia.org/wiki/File:Route388_Shiiba_Okawachi_01.jpg",
+     "attributionRequired": true
     }
    }
   ],
@@ -152089,14 +151040,7 @@
    },
    {
     "name": "花畑",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Rape_blossoms_P4268885%E8%8F%9C%E3%81%AE%E8%8A%B1%E7%95%91.jpg/500px-Rape_blossoms_P4268885%E8%8F%9C%E3%81%AE%E8%8A%B1%E7%95%91.jpg",
-    "description": "アイランドパークの丘頂に立つと博多湾が一望に。季節ごとに色を変える花々の甘い香りが風に乗り、眼下の海の青と競い合う。",
-    "imageCredit": {
-     "author": "源泉館主人",
-     "license": "CC BY-SA 3.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Rape_blossoms_P4268885%E8%8F%9C%E3%81%AE%E8%8A%B1%E7%95%91.jpg",
-     "attributionRequired": true
-    }
+    "description": "アイランドパークの丘頂に立つと博多湾が一望に。季節ごとに色を変える花々の甘い香りが風に乗り、眼下の海の青と競い合う。"
    }
   ],
   "mapPoint": "能古渡船場",
@@ -152320,10 +151264,10 @@
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Yonezawa_uesugi_keizu.jpg/500px-Yonezawa_uesugi_keizu.jpg",
     "description": "天守はないが松が江戸時代の面影を残す城跡。上杉ゆかりの地を歩けば、想像以上に凛とした空気に城下の記憶が立ち上がる。",
     "imageCredit": {
-     "author": "The original uploader was 常陸介 at Japanese Wikipedia.. Later version(s) were uploaded by Namaden, 唐棣色 at ja.wikipedia.",
-     "license": "Public domain",
-     "url": "https://commons.wikimedia.org/wiki/File:Yonezawa_uesugi_keizu.jpg",
-     "attributionRequired": false
+     "author": "Altomarina",
+     "license": "CC BY-SA 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Okitama_Agricultural_high_school.JPG",
+     "attributionRequired": true
     }
    },
    {
@@ -152661,10 +151605,10 @@
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Kinkasan_Island%2C_Ishinomaki_Miyagi_Aerial_photograph.2013.jpg/500px-Kinkasan_Island%2C_Ishinomaki_Miyagi_Aerial_photograph.2013.jpg",
     "description": "磯の香りが充満する海岸の祠。波音と風音が絶えず、岩場の苔が足を優しく支える。漁業の安全を願う信仰と自然が融け合う場所。",
     "imageCredit": {
-     "author": "国土地理院",
-     "license": "Attribution",
-     "url": "https://commons.wikimedia.org/wiki/File:Kinkasan_Island,_Ishinomaki_Miyagi_Aerial_photograph.2013.jpg",
-     "attributionRequired": false
+     "author": "ブルーノ・プラス",
+     "license": "CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Kinkasan_port.jpg",
+     "attributionRequired": true
     }
    }
   ],
@@ -153950,11 +152894,7 @@
    "jalan": "https://www.jalan.net/320000/"
   },
   "rentalCarRecommended": false,
-  "unsplashUrl": "https://images.unsplash.com/photo-1654541281543-08cd122a2b4a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlQkUlOEMlRTklQjMlQTUlRTclQkUlQkQlRTUlQTQlQTklRTclOUElODclRTUlQkUlQTElRTclODElQUIlRTglOTElQUMlRTUlQTElOUElMjAlRTQlQjglQUQlRTMlODMlOEUlRTUlQjMlQjZ8ZW58MHwwfHx8MTc3ODU0OTg1NXww&ixlib=rb-4.1.0&q=80&w=1080",
   "unsplashThumbUrl": "https://images.unsplash.com/photo-1654541281543-08cd122a2b4a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlQkUlOEMlRTklQjMlQTUlRTclQkUlQkQlRTUlQTQlQTklRTclOUElODclRTUlQkUlQTElRTclODElQUIlRTglOTElQUMlRTUlQTElOUElMjAlRTQlQjglQUQlRTMlODMlOEUlRTUlQjMlQjZ8ZW58MHwwfHx8MTc3ODU0OTg1NXww&ixlib=rb-4.1.0&q=80&w=400",
-  "unsplashCredit": "Miren Celayeta Guerra",
-  "unsplashCreditUrl": "https://unsplash.com/@mirencelayeta?utm_source=dokoiko&utm_medium=referral",
-  "unsplashPhotoUrl": "https://unsplash.com/photos/a-small-island-in-the-middle-of-a-body-of-water-xHn_H6kSHgI?utm_source=dokoiko&utm_medium=referral",
   "images": [
    "/images/nakanoshima-oki/main.jpg",
    "/images/nakanoshima-oki/spot-1.jpg",
@@ -153987,12 +152927,6 @@
    ]
   },
   "_accessAutoFixed": "islandFix",
-  "imageCredit": {
-   "author": "Laitche",
-   "license": "CC BY-SA 4.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Pink_roses,_Nakanoshima_Park,_Osaka.jpg",
-   "attributionRequired": true
-  },
   "mainSpot": "後鳥羽天皇御火葬塚",
   "featured_stay": {
    "name": "Entô（エントウ）",
@@ -154295,14 +153229,7 @@
   "spots": [
    {
     "name": "練塀の集落",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Iwai_island_aerial_shot.jpg/500px-Iwai_island_aerial_shot.jpg",
-    "description": "白壁の土塀が迷路のように連なる集落。潮風の塩粒に磨かれた壁が強風を受け止め、石積みの路地を歩けば古い時間と隣人の営みが交差する。",
-    "imageCredit": {
-     "author": "ブルーノ・プラス",
-     "license": "CC BY 4.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Iwai_island_aerial_shot.jpg",
-     "attributionRequired": true
-    }
+    "description": "白壁の土塀が迷路のように連なる集落。潮風の塩粒に磨かれた壁が強風を受け止め、石積みの路地を歩けば古い時間と隣人の営みが交差する。"
    },
    {
     "name": "神舞神事",
@@ -155614,10 +154541,10 @@
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Aka_Island_gsi-20081121.jpg/500px-Aka_Island_gsi-20081121.jpg",
     "description": "慶良間諸島を結ぶ朱色の橋。足下に透明な海が映り、両側で色の違う水域が藍と翡翠のグラデーションを描く。往来の途中に絶景を占有できる。",
     "imageCredit": {
-     "author": "Geospatial Information Authority of Japan",
-     "license": "Attribution",
-     "url": "https://commons.wikimedia.org/wiki/File:Aka_Island_gsi-20081121.jpg",
-     "attributionRequired": false
+     "author": "ja:User:Si-take.",
+     "license": "CC BY-SA 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:View_of_Aka_and_Geruma_Island,Okinawa_JAPAN.jpg",
+     "attributionRequired": true
     }
    },
    {
@@ -157307,9 +156234,9 @@
   ],
   "bestSeason": "秋",
   "imageCredit": {
-   "author": "Xser21",
-   "license": "CC BY-SA 4.0",
-   "url": "https://commons.wikimedia.org/wiki/File:%C5%8Chara_Station_2024.jpg",
+   "author": "Syced",
+   "license": "CC0",
+   "url": "https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E5%8E%9F%E9%A7%85.jpg",
    "attributionRequired": true
   },
   "mainSpot": "三千院",
@@ -158399,14 +157326,7 @@
    },
    {
     "name": "らくだライド",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/ParkAndRideSignOxford20050910.JPG",
-    "description": "駱駝の背に揺られ砂丘を進む体験。動物の温かさと呼吸を感じ、砂上の独特な歩行リズムに身体が同調する。普段見られない高さから砂丘の全容を望む。",
-    "imageCredit": {
-     "author": "No machine-readable author provided. Kaihsu assumed (based on copyright claims).",
-     "license": "Public domain",
-     "url": "https://commons.wikimedia.org/wiki/File:ParkAndRideSignOxford20050910.JPG",
-     "attributionRequired": false
-    }
+    "description": "駱駝の背に揺られ砂丘を進む体験。動物の温かさと呼吸を感じ、砂上の独特な歩行リズムに身体が同調する。普段見られない高さから砂丘の全容を望む。"
    }
   ],
   "shinkansenAccess": false,
@@ -159701,11 +158621,7 @@
    "jalan": "https://www.jalan.net/110000/"
   },
   "rentalCarRecommended": true,
-  "unsplashUrl": "https://images.unsplash.com/photo-1738638988129-252988ac054d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTglQjYlOEElRTclOTQlOUYlRTYlQTIlODUlRTYlOUUlOTclMjAlRTglQjYlOEElRTclOTQlOUZ8ZW58MHwwfHx8MTc3ODU1MzcwMHww&ixlib=rb-4.1.0&q=80&w=1080",
   "unsplashThumbUrl": "https://images.unsplash.com/photo-1738638988129-252988ac054d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTglQjYlOEElRTclOTQlOUYlRTYlQTIlODUlRTYlOUUlOTclMjAlRTglQjYlOEElRTclOTQlOUZ8ZW58MHwwfHx8MTc3ODU1MzcwMHww&ixlib=rb-4.1.0&q=80&w=400",
-  "unsplashCredit": "Natalia Gusakova",
-  "unsplashCreditUrl": "https://unsplash.com/@nataliaraylenegusakova?utm_source=dokoiko&utm_medium=referral",
-  "unsplashPhotoUrl": "https://unsplash.com/photos/a-field-that-has-some-trees-in-it-mNg3hVnIUYc?utm_source=dokoiko&utm_medium=referral",
   "images": [
    "/images/ogose/main.jpg"
   ],
@@ -159717,12 +158633,6 @@
    "日帰り最適"
   ],
   "bestSeason": "夏",
-  "imageCredit": {
-   "author": "Ebiebi2",
-   "license": "CC BY-SA 4.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Ogose_funeral_2.jpg",
-   "attributionRequired": true
-  },
   "mainSpot": "越生梅林"
  },
  {
@@ -160202,12 +159112,6 @@
    "/images/takatsuki/main.jpg"
   ],
   "bestSeason": "通年",
-  "imageCredit": {
-   "author": "663highland",
-   "license": "CC BY 2.5",
-   "url": "https://commons.wikimedia.org/wiki/File%3ATakatsuki_Station06n3780.jpg",
-   "attributionRequired": true
-  },
   "mainSpot": "今城塚古墳"
  },
  {
@@ -160622,7 +159526,7 @@
   "imageCredit": {
    "author": "Opqr",
    "license": "CC BY-SA 4.0",
-   "url": "https://commons.wikimedia.org/wiki/File%3AEchizen_yaki_cup.JPG",
+   "url": "https://commons.wikimedia.org/wiki/File:%E8%B6%8A%E5%89%8D%E9%99%B6%E8%8A%B8%E6%9D%91%E3%83%BB%E7%A6%8F%E4%BA%95%E7%9C%8C%E9%99%B6%E8%8A%B8%E9%A4%A8.JPG",
    "attributionRequired": true
   },
   "mainSpot": "越前陶芸村"
@@ -161377,10 +160281,10 @@
     "description": "猪苗代湖を一望する明治期の洋館。白い壁と赤い屋根が湖面に映り込み、館内の調度品からかつての華族の生活が蘇ってくる。",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Tenkyokaku1908.jpg",
     "imageCredit": {
-     "author": "撮影者不明",
-     "license": "Public domain",
-     "url": "https://commons.wikimedia.org/wiki/File:Tenkyokaku1908.jpg",
-     "attributionRequired": false
+     "author": "DCyokohama at Japanese Wikipedia",
+     "license": "CC BY 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Tenkyokaku.jpg",
+     "attributionRequired": true
     }
    },
    {
@@ -163071,7 +161975,7 @@
     "imageCredit": {
      "author": "Syced",
      "license": "CC0",
-     "url": "https://commons.wikimedia.org/wiki/File:Yuzawa_onsen_street_near_skiing_front.jpg",
+     "url": "https://commons.wikimedia.org/wiki/File:Yuzawa_onsen_street_near_skiing_front-_poor_kerning.jpg",
      "attributionRequired": true
     }
    },
@@ -163571,9 +162475,9 @@
     "description": "深緑の湖面に林が鏡像となって映る湖沼群。足音も消える静寂の中、湖から立ち上る薄い靄が、見えない世界への道標のように見える。",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Aoike_%28the_Blue_Lake%29_in_Juniko%2C_Fukaura_Town%2C_Aomori_Prefecture%2C_Japan_20200607a.jpg/1280px-Aoike_%28the_Blue_Lake%29_in_Juniko%2C_Fukaura_Town%2C_Aomori_Prefecture%2C_Japan_20200607a.jpg",
     "imageCredit": {
-     "author": "掬茶",
+     "author": "Indiana jo",
      "license": "CC BY-SA 4.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Aoike_(the_Blue_Lake)_in_Juniko,_Fukaura_Town,_Aomori_Prefecture,_Japan_20200607a.jpg",
+     "url": "https://commons.wikimedia.org/wiki/File:J%C5%ABniko_visitor_center.jpg",
      "attributionRequired": true
     }
    }
@@ -164927,11 +163831,7 @@
    "jalan": "https://www.jalan.net/ikisaki/map/ishikawa/"
   },
   "rentalCarRecommended": true,
-  "unsplashUrl": "https://images.unsplash.com/photo-1659886767446-7af527aa3e69?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclOTklQkQlRTclQjElQjMlRTUlOEQlODMlRTYlOUUlOUElRTclOTQlQjAlMjAlRTUlQTUlQTUlRTglODMlQkQlRTclOTklQkJ8ZW58MHwwfHx8MTc3ODU1ODEzNXww&ixlib=rb-4.1.0&q=80&w=1080",
   "unsplashThumbUrl": "https://images.unsplash.com/photo-1659886767446-7af527aa3e69?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclOTklQkQlRTclQjElQjMlRTUlOEQlODMlRTYlOUUlOUElRTclOTQlQjAlMjAlRTUlQTUlQTUlRTglODMlQkQlRTclOTklQkJ8ZW58MHwwfHx8MTc3ODU1ODEzNXww&ixlib=rb-4.1.0&q=80&w=400",
-  "unsplashCredit": "NK Lee",
-  "unsplashCreditUrl": "https://unsplash.com/@nlee02?utm_source=dokoiko&utm_medium=referral",
-  "unsplashPhotoUrl": "https://unsplash.com/photos/a-green-field-with-buildings-and-power-lines-in-the-background-n7PS_tmPAws?utm_source=dokoiko&utm_medium=referral",
   "images": [
    "/images/noto-kiriko/main.jpg"
   ],
@@ -165656,11 +164556,7 @@
    "jalan": "https://www.jalan.net/300000/"
   },
   "rentalCarRecommended": true,
-  "unsplashUrl": "https://images.unsplash.com/photo-1745368493563-3bfc33a08dfb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclODYlOEElRTklODclOEUlRTYlOUMlQUMlRTUlQUUlQUUlRTUlQTQlQTclRTclQTQlQkUlMjAlRTclODYlOEElRTklODclOEUlRTUlOEYlQTQlRTklODElOTN8ZW58MHwwfHx8MTc3ODU1ODcxNXww&ixlib=rb-4.1.0&q=80&w=1080",
   "unsplashThumbUrl": "https://images.unsplash.com/photo-1745368493563-3bfc33a08dfb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclODYlOEElRTklODclOEUlRTYlOUMlQUMlRTUlQUUlQUUlRTUlQTQlQTclRTclQTQlQkUlMjAlRTclODYlOEElRTklODclOEUlRTUlOEYlQTQlRTklODElOTN8ZW58MHwwfHx8MTc3ODU1ODcxNXww&ixlib=rb-4.1.0&q=80&w=400",
-  "unsplashCredit": "Michael Bai",
-  "unsplashCreditUrl": "https://unsplash.com/@sbai?utm_source=dokoiko&utm_medium=referral",
-  "unsplashPhotoUrl": "https://unsplash.com/photos/a-traditional-japanese-temple-stands-majestically-in-nature-7A2K5XGt_3Q?utm_source=dokoiko&utm_medium=referral",
   "images": [
    "/images/kumano-kodo/main.jpg"
   ],
@@ -165672,12 +164568,6 @@
    "秘境感あり"
   ],
   "bestSeason": "通年",
-  "imageCredit": {
-   "author": "Shift",
-   "license": "CC BY-SA 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:(%E5%92%8C%E6%AD%8C%E5%B1%B1%E7%9C%8C)%E7%86%8A%E9%87%8E%E5%8F%A4%E9%81%93%E3%81%8B%E3%82%89%E3%81%AE%E5%B8%B0%E3%82%8A%E9%81%93%E3%80%82%E7%B4%80%E4%BC%8A%E5%8D%8A%E5%B3%B6%E3%81%AB%E3%81%AF%E5%8F%A4%E9%81%93%E3%81%8C%E5%A4%9A%E3%81%8F%E5%AD%98%E5%9C%A8%E3%81%97%E3%80%81%E5%9B%BD%E9%81%93%E3%81%8B%E3%82%89%E3%81%AF%E5%85%A5%E3%82%8A%E5%8F%A3%E3%81%AE%E7%9C%8B%E6%9D%BF%E3%81%8C%E3%81%82%E3%82%8B%E3%80%82_-_panoramio.jpg",
-   "attributionRequired": true
-  },
   "mainSpot": "熊野本宮大社",
   "featured_stay": {
    "name": "霧の郷たかはら",
@@ -165892,12 +164782,6 @@
    "街歩き向け"
   ],
   "bestSeason": "秋",
-  "imageCredit": {
-   "author": "ブルーノ・プラス",
-   "license": "CC BY-SA 4.0",
-   "url": "https://commons.wikimedia.org/wiki/File%3AOkayama_airport_terminal.jpg",
-   "attributionRequired": true
-  },
   "mainSpot": "岡山城"
  },
  {
@@ -165971,11 +164855,7 @@
    "jalan": "https://www.jalan.net/350000/"
   },
   "rentalCarRecommended": true,
-  "unsplashUrl": "https://images.unsplash.com/photo-1727603318778-1fe1b9b64eb9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclQTclOEIlRTglOEElQjMlRTYlQjQlOUUlMjAlRTclQTclOEIlRTglOEElQjMlRTYlQjQlOUV8ZW58MHwwfHx8MTc3ODU1ODkzMnww&ixlib=rb-4.1.0&q=80&w=1080",
   "unsplashThumbUrl": "https://images.unsplash.com/photo-1727603318778-1fe1b9b64eb9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclQTclOEIlRTglOEElQjMlRTYlQjQlOUUlMjAlRTclQTclOEIlRTglOEElQjMlRTYlQjQlOUV8ZW58MHwwfHx8MTc3ODU1ODkzMnww&ixlib=rb-4.1.0&q=80&w=400",
-  "unsplashCredit": "Miki Nishimura",
-  "unsplashCreditUrl": "https://unsplash.com/@nishimiki?utm_source=dokoiko&utm_medium=referral",
-  "unsplashPhotoUrl": "https://unsplash.com/photos/a-waterfall-in-the-middle-of-a-forest-filled-with-trees-CE7i76eYDKg?utm_source=dokoiko&utm_medium=referral",
   "images": [
    "/images/akiyoshido/main.jpg"
   ],
@@ -165987,12 +164867,6 @@
    "絶景スポット"
   ],
   "bestSeason": "秋",
-  "imageCredit": {
-   "author": "そらみみ (Soramimi)",
-   "license": "CC BY-SA 4.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Inagawa_River_near_Akiyoshi_Cave_4.jpg",
-   "attributionRequired": true
-  },
   "mainSpot": "秋芳洞"
  },
  {
@@ -166519,12 +165393,6 @@
    "/images/kagoshima-city/main.jpg"
   ],
   "bestSeason": "春",
-  "imageCredit": {
-   "author": "663highland",
-   "license": "CC BY 2.5",
-   "url": "https://commons.wikimedia.org/wiki/File%3AKagoshima_Airport01n4592.jpg",
-   "attributionRequired": true
-  },
   "mainSpot": "仙厳園",
   "featured_stay": {
    "name": "城山ホテル鹿児島",
@@ -169038,14 +167906,7 @@
    },
    {
     "name": "水仙ランド",
-    "description": "冬の崖を白く染めるニホンズイセンの群生。甘い香りが塩辛い海風に乗って漂い、雪のような花弁が荒波打つ景色の中で静寂を保つ。",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Suisen_land.JPG/1280px-Suisen_land.JPG",
-    "imageCredit": {
-     "author": "Opqr",
-     "license": "CC BY-SA 4.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Suisen_land.JPG",
-     "attributionRequired": true
-    }
+    "description": "冬の崖を白く染めるニホンズイセンの群生。甘い香りが塩辛い海風に乗って漂い、雪のような花弁が荒波打つ景色の中で静寂を保つ。"
    },
    {
     "name": "呼鳥門",
@@ -169190,9 +168051,9 @@
   ],
   "bestSeason": "夏",
   "imageCredit": {
-   "author": "藤谷良秀",
-   "license": "CC BY-SA 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File%3ARuins_of_Mikuni-Minato_Castle.JPG",
+   "author": "663highland",
+   "license": "CC BY 2.5",
+   "url": "https://commons.wikimedia.org/wiki/File:Mikuni-ryushokan05b4592.jpg",
    "attributionRequired": true
   },
   "mainSpot": "みくに龍翔館"
@@ -169432,7 +168293,7 @@
     "imageCredit": {
      "author": "藤谷良秀(Fujitani Yoshihide)",
      "license": "CC BY-SA 4.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Echizentakeningyonosato.jpg",
+     "url": "https://commons.wikimedia.org/w/index.php?curid=109559557",
      "attributionRequired": true
     }
    },
@@ -169964,11 +168825,7 @@
    "jalan": "https://www.jalan.net/ikisaki/map/yamanashi/"
   },
   "rentalCarRecommended": true,
-  "unsplashUrl": "https://images.unsplash.com/photo-1777954283032-929c79ad6853?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlQUYlOEMlRTUlQTMlQUIlRTMlODIlQjklRTMlODMlOTAlRTMlODMlQUIlRTMlODMlQTklRTMlODIlQTQlRTMlODMlQjMlRTQlQkElOTQlRTUlOTAlODglRTclOUIlQUUlMjAlRTUlQUYlOEMlRTUlQTMlQUIlRTUlQjElQjElRTQlQkElOTQlRTUlOTAlODglRTclOUIlQUV8ZW58MHwwfHx8MTc3ODU2MzIxM3ww&ixlib=rb-4.1.0&q=80&w=1080",
   "unsplashThumbUrl": "https://images.unsplash.com/photo-1777954283032-929c79ad6853?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlQUYlOEMlRTUlQTMlQUIlRTMlODIlQjklRTMlODMlOTAlRTMlODMlQUIlRTMlODMlQTklRTMlODIlQTQlRTMlODMlQjMlRTQlQkElOTQlRTUlOTAlODglRTclOUIlQUUlMjAlRTUlQUYlOEMlRTUlQTMlQUIlRTUlQjElQjElRTQlQkElOTQlRTUlOTAlODglRTclOUIlQUV8ZW58MHwwfHx8MTc3ODU2MzIxM3ww&ixlib=rb-4.1.0&q=80&w=400",
-  "unsplashCredit": "sabari nathan",
-  "unsplashCreditUrl": "https://unsplash.com/@dsnphotography?utm_source=dokoiko&utm_medium=referral",
-  "unsplashPhotoUrl": "https://unsplash.com/photos/snow-capped-mountain-peak-emerges-from-low-clouds-XrceTezQq_U?utm_source=dokoiko&utm_medium=referral",
   "images": [
    "/images/mt-fuji-fifth/main.jpg"
   ],
@@ -170081,12 +168938,6 @@
    "街歩き向け"
   ],
   "bestSeason": "秋",
-  "imageCredit": {
-   "author": "Utagawa Kuniaki II",
-   "license": "Public domain",
-   "url": "https://commons.wikimedia.org/wiki/File%3AIchinoya-vs-Nishinoumi.jpg",
-   "attributionRequired": false
-  },
   "mainSpot": "西湖"
  },
  {
@@ -170840,14 +169691,7 @@
    },
    {
     "name": "高山祭",
-    "description": "春の高山祭は古い町並みを屋台が練り歩く。漆黒の漆塗りと金箔装飾の豪華な11台の屋台、冷気の中に響く太鼓の音、三百年以上続く祭礼の熱気に包まれる。",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Takayama_Matsuri-2017-1.jpg/1280px-Takayama_Matsuri-2017-1.jpg",
-    "imageCredit": {
-     "author": "Chme82",
-     "license": "CC BY-SA 4.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Takayama_Matsuri-2017-2.jpg",
-     "attributionRequired": true
-    }
+    "description": "春の高山祭は古い町並みを屋台が練り歩く。漆黒の漆塗りと金箔装飾の豪華な11台の屋台、冷気の中に響く太鼓の音、三百年以上続く祭礼の熱気に包まれる。"
    },
    {
     "name": "飛騨民俗村",
@@ -171383,11 +170227,7 @@
    "jalan": "https://www.jalan.net/400000/"
   },
   "rentalCarRecommended": false,
-  "unsplashUrl": "https://images.unsplash.com/photo-1678620071844-8377e26f1944?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTQlQjglQUQlRTYlQjQlQjIlRTUlQjElOEIlRTUlOEYlQjAlMjAlRTQlQjglQUQlRTYlQjQlQjIlRTUlQjElOEIlRTUlOEYlQjB8ZW58MHwwfHx8MTc3ODU2NDMwMXww&ixlib=rb-4.1.0&q=80&w=1080",
   "unsplashThumbUrl": "https://images.unsplash.com/photo-1678620071844-8377e26f1944?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTQlQjglQUQlRTYlQjQlQjIlRTUlQjElOEIlRTUlOEYlQjAlMjAlRTQlQjglQUQlRTYlQjQlQjIlRTUlQjElOEIlRTUlOEYlQjB8ZW58MHwwfHx8MTc3ODU2NDMwMXww&ixlib=rb-4.1.0&q=80&w=400",
-  "unsplashCredit": "Wenhao Ruan",
-  "unsplashCreditUrl": "https://unsplash.com/@wenhao_ruan?utm_source=dokoiko&utm_medium=referral",
-  "unsplashPhotoUrl": "https://unsplash.com/photos/a-town-on-a-lake-with-mountains-in-the-background-7TQeEZDG_Dk?utm_source=dokoiko&utm_medium=referral",
   "images": [
    "/images/nakasu/main.jpg"
   ],
@@ -171613,6 +170453,12 @@
    "jalanUrl": "https://www.jalan.net/yad323391/",
    "hasShuttle": false,
    "accessStation": "筑後吉井駅から車約10分"
+  },
+  "imageCredit": {
+   "author": "hyolee2",
+   "license": "CC BY-SA 4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Asakura_Harazuruonsen_Post_office.JPG",
+   "attributionRequired": true
   }
  },
  {
@@ -171909,11 +170755,7 @@
    "jalan": "https://www.jalan.net/270000/"
   },
   "rentalCarRecommended": false,
-  "unsplashUrl": "https://images.unsplash.com/photo-1685797629166-41654455db25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlQTQlQUElRTklOTklQkQlRTMlODElQUUlRTUlQTElOTQlMjAlRTQlQjglODclRTUlOEQlOUElRTglQTglOTglRTUlQkYlQjUlRTUlODUlQUMlRTUlOUMlOTJ8ZW58MHwwfHx8MTc3ODU2NDgwOXww&ixlib=rb-4.1.0&q=80&w=1080",
   "unsplashThumbUrl": "https://images.unsplash.com/photo-1685797629166-41654455db25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlQTQlQUElRTklOTklQkQlRTMlODElQUUlRTUlQTElOTQlMjAlRTQlQjglODclRTUlOEQlOUElRTglQTglOTglRTUlQkYlQjUlRTUlODUlQUMlRTUlOUMlOTJ8ZW58MHwwfHx8MTc3ODU2NDgwOXww&ixlib=rb-4.1.0&q=80&w=400",
-  "unsplashCredit": "Tunafish",
-  "unsplashCreditUrl": "https://unsplash.com/@ultratunafish?utm_source=dokoiko&utm_medium=referral",
-  "unsplashPhotoUrl": "https://unsplash.com/photos/a-large-white-statue-with-a-face-on-top-of-it-ylSbYXT9B4k?utm_source=dokoiko&utm_medium=referral",
   "images": [
    "/images/senri/main.jpg"
   ],
@@ -171925,12 +170767,6 @@
    "街歩き向け"
   ],
   "bestSeason": "通年",
-  "imageCredit": {
-   "author": "Laitche",
-   "license": "CC BY-SA 4.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Japanese_garden_scenery_at_Expo%E2%80%9970_Commemorative_Park_in_Osaka,_November_2017_-_146.jpg",
-   "attributionRequired": true
-  },
   "mainSpot": "太陽の塔"
  },
  {
@@ -172052,14 +170888,7 @@
   "spots": [
    {
     "name": "万博記念公園",
-    "description": "1970年の万博跡地を彩る桜並木。春風に舞う花びらが太陽の塔を背景に流れ、歴史の重みと自然の生命力が交差する広大な園内。",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Scenery_of_Shinji_pond_at_Expo%E2%80%9970_Commemorative_Park_in_Osaka.jpg/1280px-Scenery_of_Shinji_pond_at_Expo%E2%80%9970_Commemorative_Park_in_Osaka.jpg",
-    "imageCredit": {
-     "author": "Laitche",
-     "license": "CC BY-SA 4.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Japanese_garden_scenery_at_Expo%E2%80%9970_Commemorative_Park_in_Osaka,_November_2017_-_146.jpg",
-     "attributionRequired": true
-    }
+    "description": "1970年の万博跡地を彩る桜並木。春風に舞う花びらが太陽の塔を背景に流れ、歴史の重みと自然の生命力が交差する広大な園内。"
    },
    {
     "name": "日本庭園",
@@ -173083,9 +171912,9 @@
   ],
   "bestSeason": "通年",
   "imageCredit": {
-   "author": "タチヤマカムイ",
-   "license": "CC BY-SA 4.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Uozu_mirage_20190525_1.jpg",
+   "author": "ヤン提督",
+   "license": "CC BY-SA 3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:%E9%9B%BB%E9%89%84%E9%AD%9A%E6%B4%A5%E9%A7%85%E3%83%90%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%EF%BC%92.jpg",
    "attributionRequired": true
   },
   "mainSpot": "魚津埋没林博物館",
@@ -173300,7 +172129,7 @@
   "imageCredit": {
    "author": "663highland",
    "license": "CC BY 2.5",
-   "url": "https://commons.wikimedia.org/wiki/File:131221_Shirahama_Onsen_Shirahama_Wakayama_pref_Japan10s3.jpg",
+   "url": "https://commons.wikimedia.org/wiki/File:131221_Shirarahama_Beach_Shirahama_Wakayama_pref_Japan09bs.jpg",
    "attributionRequired": true
   },
   "mainSpot": "白良浜",
@@ -174212,12 +173041,6 @@
    "/images/zushi/main.jpg"
   ],
   "bestSeason": "通年",
-  "imageCredit": {
-   "author": "Waka77",
-   "license": "CC0",
-   "url": "https://commons.wikimedia.org/wiki/File%3AZushi_City_Hall_20110223.JPG",
-   "attributionRequired": false
-  },
   "mainSpot": "披露山公園"
  },
  {
@@ -174305,11 +173128,7 @@
    "jalan": "https://www.jalan.net/250000/"
   },
   "rentalCarRecommended": true,
-  "unsplashUrl": "https://images.unsplash.com/photo-1746762650398-e22bce78ab4d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclOTAlQjUlRTclOTAlQjYlRTYlQjklOTYlMjAlRTclOTAlQjUlRTclOTAlQjYlRTYlQjklOTZ8ZW58MHwwfHx8MTc3ODU2NzA2NHww&ixlib=rb-4.1.0&q=80&w=1080",
   "unsplashThumbUrl": "https://images.unsplash.com/photo-1746762650398-e22bce78ab4d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclOTAlQjUlRTclOTAlQjYlRTYlQjklOTYlMjAlRTclOTAlQjUlRTclOTAlQjYlRTYlQjklOTZ8ZW58MHwwfHx8MTc3ODU2NzA2NHww&ixlib=rb-4.1.0&q=80&w=400",
-  "unsplashCredit": "Buddy AN",
-  "unsplashCreditUrl": "https://unsplash.com/@stbuddyp?utm_source=dokoiko&utm_medium=referral",
-  "unsplashPhotoUrl": "https://unsplash.com/photos/green-grass-grows-near-a-body-of-water-Z2cZE39-dsc?utm_source=dokoiko&utm_medium=referral",
   "images": [
    "/images/biwako/main.jpg"
   ],
@@ -174321,12 +173140,6 @@
    "ゆっくり滞在"
   ],
   "bestSeason": "夏・秋",
-  "imageCredit": {
-   "author": "Lonely Planet Japan",
-   "license": "CC BY-SA 4.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Top_view_of_Lake_Biwa.jpg",
-   "attributionRequired": true
-  },
   "mainSpot": "琵琶湖"
  },
  {
@@ -174531,7 +173344,13 @@
    "/images/shigaraki-2-pottery/main.jpg"
   ],
   "bestSeason": "春",
-  "mainSpot": "信楽陶苑"
+  "mainSpot": "信楽陶苑",
+  "imageCredit": {
+   "author": "Motokoka",
+   "license": "CC BY-SA 4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Tanuki_Mura,_Shigaraki_T%C5%8Den_01.jpg",
+   "attributionRequired": true
+  }
  },
  {
   "id": "hira",
@@ -174636,7 +173455,13 @@
    "山岳ハイキング"
   ],
   "bestSeason": "秋",
-  "mainSpot": "びわ湖バレイ"
+  "mainSpot": "びわ湖バレイ",
+  "imageCredit": {
+   "author": "663highland",
+   "license": "CC BY 2.5",
+   "url": "https://commons.wikimedia.org/wiki/File:Biwako_valley23n.jpg",
+   "attributionRequired": true
+  }
  },
  {
   "id": "ise-okage",
@@ -175128,12 +173953,6 @@
    "/images/nabari/main.jpg"
   ],
   "bestSeason": "夏",
-  "imageCredit": {
-   "author": "Miyuki Meinaka",
-   "license": "CC BY-SA 4.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Nabari_Gyujiru,_Beef_Soup_of_Nabari.jpg",
-   "attributionRequired": true
-  },
   "mainSpot": "赤目四十八滝"
  },
  {
@@ -175375,9 +174194,9 @@
     "description": "二本足で立つ茶色い毛並みが特徴のレッサーパンダ・風太。シャイで放飼場の奥へ隠れることも多いが、活動時間に出会えば器用な前足の仕草に子どもは釘付けになる。",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Futa_sekizo.jpg/1280px-Futa_sekizo.jpg",
     "imageCredit": {
-     "author": "Misei sen",
-     "license": "CC BY 4.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Futa_sekizo.jpg",
+     "author": "KQuhen",
+     "license": "CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Futa_red_panda_Chiba_Zoological_Park_2010_04.jpg",
      "attributionRequired": true
     }
    },
@@ -176160,11 +174979,7 @@
    "jalan": "https://www.jalan.net/350000/"
   },
   "rentalCarRecommended": false,
-  "unsplashUrl": "https://images.unsplash.com/photo-1720086894697-7ed9f0b65e6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclOTElQTAlRTclOTIlODMlRTUlODUlODklRTUlQUYlQkElRTQlQkElOTQlRTklODclOEQlRTUlQTElOTQlMjAlRTUlQjElQjElRTUlOEYlQTMlRTUlQjglODJ8ZW58MHwwfHx8MTc3ODU2OTA5NXww&ixlib=rb-4.1.0&q=80&w=1080",
   "unsplashThumbUrl": "https://images.unsplash.com/photo-1720086894697-7ed9f0b65e6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTclOTElQTAlRTclOTIlODMlRTUlODUlODklRTUlQUYlQkElRTQlQkElOTQlRTklODclOEQlRTUlQTElOTQlMjAlRTUlQjElQjElRTUlOEYlQTMlRTUlQjglODJ8ZW58MHwwfHx8MTc3ODU2OTA5NXww&ixlib=rb-4.1.0&q=80&w=400",
-  "unsplashCredit": "Naoki Suzuki",
-  "unsplashCreditUrl": "https://unsplash.com/@naopp?utm_source=dokoiko&utm_medium=referral",
-  "unsplashPhotoUrl": "https://unsplash.com/photos/a-person-with-an-umbrella-walking-down-a-path-Pt03l6sGM-s?utm_source=dokoiko&utm_medium=referral",
   "images": [
    "/images/yamaguchi-city/main.jpg"
   ],
@@ -176497,12 +175312,6 @@
    "/images/mt-yatsugatake/main.jpg"
   ],
   "bestSeason": "通年",
-  "imageCredit": {
-   "author": "Σ64",
-   "license": "CC BY-SA 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File%3ATateshina_kogen_from_Mt.Kitayokodake.JPG",
-   "attributionRequired": true
-  },
   "mainSpot": "蓼科",
   "featured_stay": {
    "name": "創業大正十五年 蓼科親湯温泉",
@@ -177511,11 +176320,7 @@
    "jalan": "https://www.jalan.net/050000/"
   },
   "rentalCarRecommended": false,
-  "unsplashUrl": "https://images.unsplash.com/photo-1664071186356-4276ad9a022a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTYlQTglQUElRTYlODklOEIlRTMlODElOEIlRTMlODElQkUlRTMlODElOEYlRTMlODIlODklMjAlRTYlQTglQUElRTYlODklOEJ8ZW58MHwwfHx8MTc3ODU3MDI1N3ww&ixlib=rb-4.1.0&q=80&w=1080",
   "unsplashThumbUrl": "https://images.unsplash.com/photo-1664071186356-4276ad9a022a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTYlQTglQUElRTYlODklOEIlRTMlODElOEIlRTMlODElQkUlRTMlODElOEYlRTMlODIlODklMjAlRTYlQTglQUElRTYlODklOEJ8ZW58MHwwfHx8MTc3ODU3MDI1N3ww&ixlib=rb-4.1.0&q=80&w=400",
-  "unsplashCredit": "Jaturawit Thumrongkitcharoenkul",
-  "unsplashCreditUrl": "https://unsplash.com/@petchkaa?utm_source=dokoiko&utm_medium=referral",
-  "unsplashPhotoUrl": "https://unsplash.com/photos/a-group-of-people-doing-yoga-_ky9Lhgpzvo?utm_source=dokoiko&utm_medium=referral",
   "images": [
    "/images/akita-yokote/main.jpg"
   ],
@@ -178499,14 +177304,7 @@
    },
    {
     "name": "元町",
-    "description": "洋館群と石畳が時間を遡らせる街並み。異人館のガラス窓や古い煉瓦の質感から、幕末から明治の港町の歴史が肌触りで伝わる。",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Motomachi-Chukagai-STA_Home.jpg/1280px-Motomachi-Chukagai-STA_Home.jpg",
-    "imageCredit": {
-     "author": "MaedaAkihiko",
-     "license": "CC BY-SA 4.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Motomachi-Chukagai-STA_Home.jpg",
-     "attributionRequired": true
-    }
+    "description": "洋館群と石畳が時間を遡らせる街並み。異人館のガラス窓や古い煉瓦の質感から、幕末から明治の港町の歴史が肌触りで伝わる。"
    }
   ],
   "shinkansenAccess": false,
@@ -178715,9 +177513,9 @@
     "description": "陶板焼きと琉球ガラスで知られる村。赤瓦の工房から漂う土の香りと手づくり工芸品の温かみ、農村の静けさと手仕事の音が調和する。",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Cliff_at_Cape_Zanpa_from_Zanpa_Misaki_Lighthouse_201905.JPG/1280px-Cliff_at_Cape_Zanpa_from_Zanpa_Misaki_Lighthouse_201905.JPG",
     "imageCredit": {
-     "author": "Syced",
-     "license": "CC0",
-     "url": "https://commons.wikimedia.org/wiki/File:Yomitan_from_bus_120_21.jpg",
+     "author": "ja:user:Hykw-a4",
+     "license": "CC BY-SA 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Yomitan_village_office.jpg",
      "attributionRequired": true
     }
    }
@@ -178768,9 +177566,9 @@
   ],
   "bestSeason": "夏",
   "imageCredit": {
-   "author": "そらみみ (Soramimi)",
+   "author": "Kugel~commonswiki",
    "license": "CC BY-SA 4.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Cliff_of_Cape_Zampa.JPG",
+   "url": "https://commons.wikimedia.org/wiki/File:Zanpa_Misaki_Lighthouse_201905.JPG",
    "attributionRequired": true
   },
   "mainSpot": "残波岬灯台",
@@ -178924,9 +177722,9 @@
     "description": "砂丘が続く鳥取の浜。白い砂を踏むとキュキュと鳴り、潮の香りと波の水音が静寂を破る。夕方は空と海が同じ色に沈む。",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/%E7%99%BD%E5%85%8E%E7%A5%9E%E7%A4%BE_-_panoramio_%281%29.jpg/1280px-%E7%99%BD%E5%85%8E%E7%A5%9E%E7%A4%BE_-_panoramio_%281%29.jpg",
     "imageCredit": {
-     "author": "tme181",
-     "license": "CC BY 3.0",
-     "url": "https://commons.wikimedia.org/wiki/File:%E7%99%BD%E5%85%8E%E7%A5%9E%E7%A4%BE_-_panoramio_(1).jpg",
+     "author": "Msht05",
+     "license": "CC0",
+     "url": "https://commons.wikimedia.org/wiki/File:Tottori_Yazu-cho_Hakuto_Shrine_Keidai.jpg",
      "attributionRequired": true
     }
    }
@@ -179470,11 +178268,7 @@
    "jalan": "https://www.jalan.net/220000/"
   },
   "rentalCarRecommended": true,
-  "unsplashUrl": "https://images.unsplash.com/photo-1715855893748-f3e227d5b9c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTYlOTclQTUlRTYlOUMlQUMlRTUlQjklQjMlMjAlRTklOUQlOTklRTUlQjIlQTElRTUlQjglODIlRTYlQjglODUlRTYlQjAlQjR8ZW58MHwwfHx8MTc3ODU3MjM2NXww&ixlib=rb-4.1.0&q=80&w=1080",
   "unsplashThumbUrl": "https://images.unsplash.com/photo-1715855893748-f3e227d5b9c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTYlOTclQTUlRTYlOUMlQUMlRTUlQjklQjMlMjAlRTklOUQlOTklRTUlQjIlQTElRTUlQjglODIlRTYlQjglODUlRTYlQjAlQjR8ZW58MHwwfHx8MTc3ODU3MjM2NXww&ixlib=rb-4.1.0&q=80&w=400",
-  "unsplashCredit": "Seiya Maeda",
-  "unsplashCreditUrl": "https://unsplash.com/@seiya_maeda?utm_source=dokoiko&utm_medium=referral",
-  "unsplashPhotoUrl": "https://unsplash.com/photos/a-small-town-with-a-river-running-through-it-pVvFMOw4My8?utm_source=dokoiko&utm_medium=referral",
   "images": [
    "/images/shizu-shimizu/main.jpg"
   ],
@@ -179715,14 +178509,7 @@
   "spots": [
    {
     "name": "塔のへつり",
-    "description": "大川の浸食で生まれた奇想天外な地形。断崖が塔のように立ち並び、風が岩肌を削る音が谷に響く。吊橋から望む朱色の岩壁は秘境。",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/%E5%A1%94%E3%81%AE%E3%81%B8%E3%81%A4%E3%82%8A_-_panoramio_%289%29.jpg/1280px-%E5%A1%94%E3%81%AE%E3%81%B8%E3%81%A4%E3%82%8A_-_panoramio_%289%29.jpg",
-    "imageCredit": {
-     "author": "くろふね",
-     "license": "CC BY 3.0",
-     "url": "https://commons.wikimedia.org/wiki/File:%E5%A1%94%E3%81%AE%E3%81%B8%E3%81%A4%E3%82%8A_-_panoramio_(9).jpg",
-     "attributionRequired": true
-    }
+    "description": "大川の浸食で生まれた奇想天外な地形。断崖が塔のように立ち並び、風が岩肌を削る音が谷に響く。吊橋から望む朱色の岩壁は秘境。"
    },
    {
     "name": "奇岩",
@@ -179761,11 +178548,7 @@
    "jalan": "https://www.jalan.net/070000/"
   },
   "rentalCarRecommended": true,
-  "unsplashUrl": "https://images.unsplash.com/photo-1742203752231-b117f62f4c33?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlQTElOTQlRTMlODElQUUlRTMlODElQjglRTMlODElQTQlRTMlODIlOEElMjAlRTUlQTElOTQlRTMlODElQUUlRTMlODElQjglRTMlODElQTQlRTMlODIlOEF8ZW58MHwwfHx8MTc3ODU3MjcyOXww&ixlib=rb-4.1.0&q=80&w=1080",
   "unsplashThumbUrl": "https://images.unsplash.com/photo-1742203752231-b117f62f4c33?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTUlQTElOTQlRTMlODElQUUlRTMlODElQjglRTMlODElQTQlRTMlODIlOEElMjAlRTUlQTElOTQlRTMlODElQUUlRTMlODElQjglRTMlODElQTQlRTMlODIlOEF8ZW58MHwwfHx8MTc3ODU3MjcyOXww&ixlib=rb-4.1.0&q=80&w=400",
-  "unsplashCredit": "Charlie Charoenwattana",
-  "unsplashCreditUrl": "https://unsplash.com/@charlie1224?utm_source=dokoiko&utm_medium=referral",
-  "unsplashPhotoUrl": "https://unsplash.com/photos/japanese-pagoda-stands-tall-amidst-trees-_qzLtVJ7quw?utm_source=dokoiko&utm_medium=referral",
   "images": [
    "/images/fukushima-aizu-2/main.jpg"
   ],
@@ -179777,12 +178560,6 @@
    "絶景スポット"
   ],
   "bestSeason": "春・夏",
-  "imageCredit": {
-   "author": "くろふね",
-   "license": "CC BY 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:%E5%A1%94%E3%81%AE%E3%81%B8%E3%81%A4%E3%82%8A%E9%A7%85_-_panoramio_(3).jpg",
-   "attributionRequired": true
-  },
   "mainSpot": "塔のへつり"
  },
  {
@@ -180214,12 +178991,6 @@
    "/images/miyagi-matsushima-2/main.jpg"
   ],
   "bestSeason": "通年",
-  "imageCredit": {
-   "author": "ツトムさん家の写真日記",
-   "license": "CC BY-SA 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File%3A%E5%A1%A9%E9%87%9C%E7%A5%9E%E7%A4%BE_%E5%A4%A7%E9%B3%A5%E5%B1%85.jpg",
-   "attributionRequired": true
-  },
   "mainSpot": "塩釜神社"
  },
  {
@@ -181562,13 +180333,7 @@
    "カップル向け",
    "家族向け"
   ],
-  "bestSeason": "秋",
-  "imageCredit": {
-   "author": "くろふね",
-   "license": "CC BY 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%BA%81%E3%81%8B%E3%82%89%E3%81%AE%E9%A2%A8%E6%99%AF_-_panoramio.jpg",
-   "attributionRequired": true
-  }
+  "bestSeason": "秋"
  },
  {
   "id": "kobe",
@@ -187097,7 +185862,13 @@
    "友達と"
   ],
   "bestSeason": "通年",
-  "isIsland": false
+  "isIsland": false,
+  "imageCredit": {
+   "author": "Mytho88",
+   "license": "CC BY-SA 4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Monument_of_JPN-ESP-MEX_Diplomatic_Orijin_20160529.jpg",
+   "attributionRequired": true
+  }
  },
  {
   "id": "niche_東京_1",
@@ -191883,13 +190654,7 @@
    "友達と"
   ],
   "bestSeason": "通年",
-  "isIsland": false,
-  "imageCredit": {
-   "author": "KKPCW",
-   "license": "CC BY-SA 4.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Stone_Monument_of_Sarubami_Castle_ruins_beside_river_-_1.jpg",
-   "attributionRequired": true
-  }
+  "isIsland": false
  },
  {
   "id": "niche_山梨_7",
@@ -193698,7 +192463,13 @@
    "友達と"
   ],
   "bestSeason": "春・夏",
-  "isIsland": false
+  "isIsland": false,
+  "imageCredit": {
+   "author": "Soica2001 (talk)",
+   "license": "Public domain",
+   "url": "https://commons.wikimedia.org/wiki/File:Sugawa_spa_sunset.jpg",
+   "attributionRequired": true
+  }
  },
  {
   "id": "niche_静岡_3",
@@ -194563,7 +193334,13 @@
    "友達と"
   ],
   "bestSeason": "秋",
-  "isIsland": false
+  "isIsland": false,
+  "imageCredit": {
+   "author": "コンピュータが読み取れる情報は提供されていませんが、Yosemite~commonswikiだと推定されます（著作権の主張に基づく）",
+   "license": "CC BY-SA 3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Nikkosawa_Hotspring_in_Japan.jpg",
+   "attributionRequired": true
+  }
  },
  {
   "id": "niche_愛知_3",
@@ -196693,7 +195470,7 @@
   "imageCredit": {
    "author": "漱石の猫",
    "license": "CC BY-SA 4.0",
-   "url": "https://commons.wikimedia.org/wiki/File:%E5%8A%A0%E6%82%A6%E8%B0%B7%E7%A5%AD%E3%83%BB%E5%8A%A0%E6%82%A6%E5%A4%A9%E6%BA%80%E5%AE%AE%EF%BC%91.jpg",
+   "url": "https://commons.wikimedia.org/wiki/File:Kaya_Shrine_in_yosano-cho.jpg",
    "attributionRequired": true
   }
  },
@@ -199046,13 +197823,7 @@
    "友達と"
   ],
   "bestSeason": "通年",
-  "isIsland": false,
-  "imageCredit": {
-   "author": "Opqr",
-   "license": "CC BY-SA 4.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Kamikitayama_yasakajinja.jpg",
-   "attributionRequired": true
-  }
+  "isIsland": false
  },
  {
   "id": "niche_奈良_6",
@@ -200027,13 +198798,7 @@
    "友達と"
   ],
   "bestSeason": "秋",
-  "isIsland": false,
-  "imageCredit": {
-   "author": "iloverjoa",
-   "license": "CC BY 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:%E9%AB%98%E9%87%8E%E9%BE%8D%E7%A5%9E%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%B3%E5%85%A5%E5%8F%A3(%E4%B8%AD%E3%81%AE%E6%A9%8B%E4%BA%A4%E5%B7%AE%E7%82%B9)_Koyaryujin_Skyline_(Nakanohashi)_-_panoramio.jpg",
-   "attributionRequired": true
-  }
+  "isIsland": false
  },
  {
   "id": "niche_和歌山_8",
@@ -201307,7 +200072,13 @@
    "友達と"
   ],
   "bestSeason": "通年",
-  "isIsland": false
+  "isIsland": false,
+  "imageCredit": {
+   "author": "663highland",
+   "license": "CC BY 2.5",
+   "url": "https://commons.wikimedia.org/wiki/File:Kuroiwa_Falls_Kamikawa_Hyogo01n4272.jpg",
+   "attributionRequired": true
+  }
  },
  {
   "id": "niche_岡山_3",
@@ -201513,14 +200284,7 @@
    {
     "name": "ラベンダー畑",
     "description": "初夏に一面が紫に染まる約3000㎡の畑。甘い香りが広がり蜜蜂が飛び交うなか、摘み取り体験も楽しめる。",
-    "googleMapsQuery": "ラベンダー畑 広島県",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Lavender_Farm_Station_-_2022_Aug_12_various_15_37_43_822000.jpeg/1280px-Lavender_Farm_Station_-_2022_Aug_12_various_15_37_43_822000.jpeg",
-    "imageCredit": {
-     "author": "Nesnad",
-     "license": "CC BY 4.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Lavender_Farm_Station_-_2022_Aug_12_various_15_37_43_822000.jpeg",
-     "attributionRequired": true
-    }
+    "googleMapsQuery": "ラベンダー畑 広島県"
    },
    {
     "name": "農家レストランと手作りジャム工房",
@@ -201974,7 +200738,13 @@
    "友達と"
   ],
   "bestSeason": "通年",
-  "isIsland": false
+  "isIsland": false,
+  "imageCredit": {
+   "author": "そらみみ",
+   "license": "CC BY-SA 4.0",
+   "url": "https://commons.wikimedia.org/w/index.php?curid=55708273",
+   "attributionRequired": true
+  }
  },
  {
   "id": "niche_山口_6",
@@ -203938,13 +202708,7 @@
    "友達と"
   ],
   "bestSeason": "秋",
-  "isIsland": false,
-  "imageCredit": {
-   "author": "0211 SKDGAKUCHO",
-   "license": "CC0",
-   "url": "https://commons.wikimedia.org/wiki/File:Hidaka_Village_Office_K%C5%8Dchi_Prefecture_202408041545.jpg",
-   "attributionRequired": false
-  }
+  "isIsland": false
  },
  {
   "id": "niche_福岡_2",
@@ -204957,7 +203721,13 @@
    "友達と"
   ],
   "bestSeason": "夏・秋",
-  "isIsland": false
+  "isIsland": false,
+  "imageCredit": {
+   "author": "YOSHIFUMI OGISO",
+   "license": "CC BY-SA 3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:%E6%B3%A1%E3%81%AE%E6%B9%AF_Awanoyu_-_panoramio.jpg",
+   "attributionRequired": true
+  }
  },
  {
   "id": "niche_佐賀_5",
@@ -205460,9 +204230,9 @@
   "bestSeason": "通年",
   "isIsland": false,
   "imageCredit": {
-   "author": "sk01",
-   "license": "CC BY-SA 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:%E9%B6%B4%E5%BE%A1%E5%9F%BC%E7%81%AF%E5%8F%B0_-_panoramio.jpg",
+   "author": "hiroaki from Tokyo, Japan",
+   "license": "CC BY 2.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Tsurumisaki_Lighthouse_(8729028654).jpg",
    "attributionRequired": true
   }
  },
@@ -211291,12 +210061,6 @@
   ],
   "bestSeason": "通年",
   "isIsland": false,
-  "imageCredit": {
-   "author": "Pekachu",
-   "license": "CC BY-SA 4.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Cityscape_around_Saga_Castle_western_moat_and_gate.jpg",
-   "attributionRequired": true
-  },
   "featured_stay": {
    "name": "旅館あけぼの",
    "catchcopy": "創業明治22年、画家・青木繁ら文人に愛された佐賀の老舗料亭旅館",
@@ -211516,7 +210280,13 @@
    "グルメ"
   ],
   "bestSeason": "通年",
-  "isIsland": false
+  "isIsland": false,
+  "imageCredit": {
+   "author": "z tanuki",
+   "license": "CC BY 3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:JR_Oita_station_,_JR_%E5%A4%A7%E5%88%86%E9%A7%85_-_panoramio.jpg",
+   "attributionRequired": true
+  }
  },
  {
   "id": "miyazaki",
@@ -211722,12 +210492,6 @@
   ],
   "bestSeason": "通年",
   "isIsland": false,
-  "imageCredit": {
-   "author": "ja:User:Sanjo",
-   "license": "Public domain",
-   "url": "https://commons.wikimedia.org/wiki/File:Miyazaki_Airport_Feb_2008.jpg",
-   "attributionRequired": true
-  },
   "featured_stay": {
    "name": "天然温泉たまゆらの湯 宮崎観光ホテル",
    "catchcopy": "1954年創業、大淀川畔に建つ宮崎随一の老舗。温泉と郷土朝食",
