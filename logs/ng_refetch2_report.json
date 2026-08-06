@@ -1,0 +1,2666 @@
+{
+ "replaced": [
+  {
+   "key": "adachi-museum/spot-2.jpg",
+   "source": "commons",
+   "newTitle": "File:Adachi Museum of Art Garden.jpg",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "akakura-onsen/spot-3.jpg",
+   "source": "commons",
+   "newTitle": "File:苗名の滝 - panoramio.jpg",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "akan/spot-1.jpg",
+   "source": "commons",
+   "newTitle": "File:Aegagropila linnaei - National Museum of Nature and Science, Tokyo - DSC06861.JPG",
+   "license": "CC0"
+  },
+  {
+   "key": "akita-oga-peninsula/main.jpg",
+   "source": "commons",
+   "newTitle": "File:View of the Oga Peninsula from Akita Marina.jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "akita-semboku/main.jpg",
+   "source": "commons",
+   "newTitle": "File:Autumn mountain in Semboku, Akita in 2022b.jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "arimatsu/main.jpg",
+   "source": "commons",
+   "newTitle": "File:Arimatsu Shibori鹿の子絞.jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "ashikaga/main.jpg",
+   "source": "commons",
+   "newTitle": "File:Ashikaga Flower Park 03.jpg",
+   "license": "CC BY 3.0"
+  },
+  {
+   "key": "biei/main.jpg",
+   "source": "commons",
+   "newTitle": "File:Bibaushi, Biei, Kamikawa District, Hokkaido Prefecture 071-0471, Japan - panoramio (4).jpg",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "bungo-takada/main.jpg",
+   "source": "wikipedia:豊後高田市",
+   "newTitle": "ファイル:Showa no Machi 09.jpg",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "chatan/spot-3.jpg",
+   "source": "commons",
+   "newTitle": "File:Coast and tetrapods near Chatan Sunset Beach.JPG",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "chichijima/main.jpg",
+   "source": "commons",
+   "newTitle": "File:Pandanus boninensis, fruit, -Chichijima, Japan 01.jpg",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "chiran/spot-1.jpg",
+   "source": "commons",
+   "newTitle": "File:Ruins of Chiran Castle Minamikyushu Kagoshima.jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "daisen/main.jpg",
+   "source": "commons",
+   "newTitle": "File:711a Daisen Japan 1971 (51374457952).jpg",
+   "license": "CC BY 2.0"
+  },
+  {
+   "key": "daisen/spot-3.jpg",
+   "source": "commons",
+   "newTitle": "File:Japanese garden at Daisen Park in Sakai, October 2018 - 662.jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "echigo-tsumari/main.jpg",
+   "source": "commons",
+   "newTitle": "File:Echigo-Tsumari Satoyama Museum of Contemporary Art KINARE 20200818.jpg",
+   "license": "CC0"
+  },
+  {
+   "key": "echigo-tsumari/spot-1.jpg",
+   "source": "commons",
+   "newTitle": "File:新潟 越後妻有 大地藝術祭 大地の芸術祭 Echigo-Tsumari Art Field - 43521166975.jpg",
+   "license": "CC BY-SA 2.0"
+  },
+  {
+   "key": "echizen-kaigan/spot-2.jpg",
+   "source": "commons",
+   "newTitle": "File:Benkei no Sentakuiwa.jpg",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "echizen-pottery/spot-2.jpg",
+   "source": "commons",
+   "newTitle": "File:Echizen yaki cup.JPG",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "enoshima/spot-2.jpg",
+   "source": "commons",
+   "newTitle": "File:Amano-iwato 02.jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "etajima/spot-2.jpg",
+   "source": "commons",
+   "newTitle": "File:Ushimado olive land observation deck-a.JPG",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "fukuoka/main.jpg",
+   "source": "commons",
+   "newTitle": "File:Hakata Port from Fukuoka Tower.jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "fukushima-iwaki/main.jpg",
+   "source": "commons",
+   "newTitle": "File:Aquamarine Fukushima 20100124.JPG",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "futamata-onsen/main.jpg",
+   "source": "commons",
+   "newTitle": "File:二股ラヂウム温泉P6190061.JPG",
+   "license": "Public domain"
+  },
+  {
+   "key": "futamata-onsen/spot-1.jpg",
+   "source": "commons",
+   "newTitle": "File:Daikoku-ya ryokan hotel, Mizunami, 2021.jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "gen_茨城_水郷筑波国定公園/main.jpg",
+   "source": "wikipedia:水郷筑波国定公園",
+   "newTitle": "ファイル:Kashima Shrine 29.jpg",
+   "license": "CC BY 4.0"
+  },
+  {
+   "key": "gen_茨城_大洗磯前神社/main.jpg",
+   "source": "wikipedia:大洗磯前神社",
+   "newTitle": "ファイル:Kamiiso torii at Oarai Isosaki Jinja.jpg",
+   "license": "Public domain"
+  },
+  {
+   "key": "gen_群馬_川中温泉/spot-1.jpg",
+   "source": "openverse",
+   "newTitle": "Yamanaka Onsen",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "gen_栃木_三斗小屋温泉/main.jpg",
+   "source": "wikipedia:三斗小屋温泉",
+   "newTitle": "ファイル:Spa Sandogoya, Nasushiobara, Tochigi.jpg",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "gen_栃木_那須高原/main.jpg",
+   "source": "wikipedia:那須高原",
+   "newTitle": "ファイル:20090321那須岳.jpg",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "gen_北海_ぬかびら温泉/spot-1.jpg",
+   "source": "wikipedia:ぬかびら温泉",
+   "newTitle": "ファイル:Nukabira hot spring resort.jpg",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "gen_北海_戸切地陣屋/main.jpg",
+   "source": "wikipedia:戸切地陣屋",
+   "newTitle": "ファイル:KIMG0198.jpg",
+   "license": "CC BY 4.0"
+  },
+  {
+   "key": "gen_北海_戸切地陣屋/spot-1.jpg",
+   "source": "wikipedia:戸切地陣屋",
+   "newTitle": "ファイル:KIMG0198.jpg",
+   "license": "CC BY 4.0"
+  },
+  {
+   "key": "gen_北海_枝幸温泉/main.jpg",
+   "source": "openverse",
+   "newTitle": "Hamatonbetsu-Hotel-Wing",
+   "license": "CC BY 3.0"
+  },
+  {
+   "key": "gen_北海_就実の丘/main.jpg",
+   "source": "wikipedia:就実の丘",
+   "newTitle": "ファイル:Shujitsu Hill, Aasahikawa, Hokkaido, Japan - panoramio (1).jpg",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "gen_北海_就実の丘/spot-1.jpg",
+   "source": "wikipedia:就実の丘",
+   "newTitle": "ファイル:Shujitsu Hill, Aasahikawa, Hokkaido, Japan - panoramio (1).jpg",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "gen_北海_十勝ヒルズ/main.jpg",
+   "source": "wikipedia:十勝ヒルズ",
+   "newTitle": "ファイル:Tokachi Hills, Makubetsu, Hokkaido - Aug 13, 2025 (8).jpg",
+   "license": "CC BY 4.0"
+  },
+  {
+   "key": "gen_北海_十勝岳温泉/spot-3.jpg",
+   "source": "commons",
+   "newTitle": "File:前原白糸の滝 - panoramio.jpg",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "gen_北海_瀬石温泉/spot-2.jpg",
+   "source": "commons",
+   "newTitle": "File:瀬石の滝 - panoramio.jpg",
+   "license": "CC BY 3.0"
+  },
+  {
+   "key": "gen_北海_長万部温泉/main.jpg",
+   "source": "openverse",
+   "newTitle": "北海道道573号桜野野田生停車場線・国道5号交点（国道5号終点（札幌・長万部）側）・2018年7月当時の「方面及び方向（108の2-A）」標識",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "gen_北海_天に続く道/spot-1.jpg",
+   "source": "commons",
+   "newTitle": "File:Shari road01.JPG",
+   "license": "Public domain"
+  },
+  {
+   "key": "gen_北海_雷電温泉/main.jpg",
+   "source": "wikipedia:雷電温泉",
+   "newTitle": "ファイル:Katanagake Rock.JPG",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "gen_北海_雷電温泉/spot-1.jpg",
+   "source": "wikipedia:雷電温泉",
+   "newTitle": "ファイル:Katanagake Rock.JPG",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "gokase/spot-3.jpg",
+   "source": "commons",
+   "newTitle": "File:Terrace field yunnan china denoised.jpg",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "hachimantai/spot-3.jpg",
+   "source": "commons",
+   "newTitle": "File:Mount Hachimantai and its surroundings, Japan; October 2017 (02).jpg",
+   "license": "CC BY 2.0"
+  },
+  {
+   "key": "hakone-2/spot-3.jpg",
+   "source": "commons",
+   "newTitle": "File:小田原駅表示箱根登山鉄道.jpg",
+   "license": "Public domain"
+  },
+  {
+   "key": "hakuto/main.jpg",
+   "source": "commons",
+   "newTitle": "File:Tottori-Morning on the Hakuto Coast. -xl.jpg",
+   "license": "CC BY 4.0"
+  },
+  {
+   "key": "hakuto/spot-2.jpg",
+   "source": "commons",
+   "newTitle": "File:Tottori Yazu-cho Hakuto Shrine Koma Usagi.jpg",
+   "license": "CC0"
+  },
+  {
+   "key": "hamanako/spot-3.jpg",
+   "source": "commons",
+   "newTitle": "File:Tenryu-hamanako-railroad-Haranoya-station-building-20110110.jpg",
+   "license": "CC BY 3.0"
+  },
+  {
+   "key": "hiburi/spot-2.jpg",
+   "source": "commons",
+   "newTitle": "File:The shallow reef at CT dive site Fishermans Beach.jpg",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "hiburi/spot-3.jpg",
+   "source": "commons",
+   "newTitle": "File:Fishing village Kariya Genkai Saga Japan up20060427.jpg",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "higashi-chaya/spot-2.jpg",
+   "source": "commons",
+   "newTitle": "File:Higashi Chaya District (2439421325).jpg",
+   "license": "CC BY-SA 2.0"
+  },
+  {
+   "key": "higashine/spot-3.jpg",
+   "source": "commons",
+   "newTitle": "File:Yamagatakendo29 Higashine City.JPG",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "hiji/spot-3.jpg",
+   "source": "commons",
+   "newTitle": "File:Beppu Bay seen from Hiji 20200320.jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "hijori-onsen/spot-2.jpg",
+   "source": "commons",
+   "newTitle": "File:Miyagawa Morning market , 宮川朝市 - panoramio.jpg",
+   "license": "CC BY 3.0"
+  },
+  {
+   "key": "himakajima/spot-2.jpg",
+   "source": "commons",
+   "newTitle": "File:Grilled octopus - Other Mama - March 2019 01.jpg",
+   "license": "CC BY 2.0"
+  },
+  {
+   "key": "himakajima/spot-3.jpg",
+   "source": "commons",
+   "newTitle": "File:Fugu.Tsukiji.CR.jpg",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "himi/spot-3.jpg",
+   "source": "commons",
+   "newTitle": "File:Mount Renge and Mount Harinoki from Mount Jii 2018-07-14.jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "hirosaki/main.jpg",
+   "source": "commons",
+   "newTitle": "File:The Hirosaki castle - panoramio.jpg",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "hitsujiyama/main.jpg",
+   "source": "commons",
+   "newTitle": "File:Woman pushes a wheelchair, Hitsujiyama Park; April 2009.jpg",
+   "license": "CC BY 2.0"
+  },
+  {
+   "key": "hokkaido-furano-2/main.jpg",
+   "source": "commons",
+   "newTitle": "File:Sightseeing spot in Furano, Hokkaido Prefecture; July 2017 (04).jpg",
+   "license": "CC BY 2.0"
+  },
+  {
+   "key": "hokkaido-hakodate/spot-4.jpg",
+   "source": "commons",
+   "newTitle": "File:元町異人館 - panoramio.jpg",
+   "license": "CC BY 3.0"
+  },
+  {
+   "key": "hokkaido-kushiro/main.jpg",
+   "source": "commons",
+   "newTitle": "File:Kushiro-Shitsugen Kushiro-river.jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "hyo-sho/main.jpg",
+   "source": "wikipedia:一乗谷朝倉氏遺跡",
+   "newTitle": "ファイル:Distant view of restored town of Ichijodani.jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "ikeda-osaka/spot-3.jpg",
+   "source": "commons",
+   "newTitle": "File:Style of Matsumura Goshun, Fishermen, bird and flowers.jpg",
+   "license": "Public domain"
+  },
+  {
+   "key": "ikeshima/spot-2.jpg",
+   "source": "commons",
+   "newTitle": "File:The tip of Ikeshima Coal Mine.jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "isawa-onsen/spot-3.jpg",
+   "source": "commons",
+   "newTitle": "File:Vignes près du Pic de Vissou - October 2020.jpg",
+   "license": "CC BY 4.0"
+  },
+  {
+   "key": "isesaki/spot-3.jpg",
+   "source": "commons",
+   "newTitle": "File:Chicken yakisoba - Korpan.jpg",
+   "license": "CC0"
+  },
+  {
+   "key": "ishinomaki/spot-3.jpg",
+   "source": "commons",
+   "newTitle": "File:Ishinomaki CityOffice 2010.JPG",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "isumi/spot-3.jpg",
+   "source": "commons",
+   "newTitle": "File:菜の花畑2.JPG",
+   "license": "CC BY-SA 2.5"
+  },
+  {
+   "key": "itoigawa/spot-3.jpg",
+   "source": "commons",
+   "newTitle": "File:Oyashirazu Community Road (Itoigawa City, Niigata Prefecture).jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "itoshima/spot-3.jpg",
+   "source": "commons",
+   "newTitle": "File:Odo 3373rd Street view north from North Pedestrian Bridge of Marinoa City Fukuoka 2704-5 Odo-2-chōme Nishi-ku Fukuoka City 20220930.jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "iwaishima/spot-3.jpg",
+   "source": "commons",
+   "newTitle": "File:Iwai island aerial shot.jpg",
+   "license": "CC BY 4.0"
+  },
+  {
+   "key": "iwami-kagura/main.jpg",
+   "source": "commons",
+   "newTitle": "File:Kagura mask 20240107 100157.jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "izena-island/spot-3.jpg",
+   "source": "commons",
+   "newTitle": "File:Futamigaura Beach from Futamigaura Cemetery 1.JPG",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "izu-jogasaki/spot-2.jpg",
+   "source": "commons",
+   "newTitle": "File:Jōgasaki -Kadowaki Bridge 01.jpg",
+   "license": "CC BY 2.0"
+  },
+  {
+   "key": "izu-oshima/spot-3.jpg",
+   "source": "commons",
+   "newTitle": "File:Passeio de Buggy no Parque das Dunas de Genipabu, RN - 2.jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "izumiotsu/main.jpg",
+   "source": "commons",
+   "newTitle": "File:Kannondo Temple Izumiotsu City.jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "kaga-onsen2/main.jpg",
+   "source": "wikipedia:山代温泉",
+   "newTitle": "ファイル:Ko-Soyu ac (1).jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "kagawa-takamatsu/main.jpg",
+   "source": "commons",
+   "newTitle": "File:Takamatsu castle09s3872.jpg",
+   "license": "CC BY 2.5"
+  },
+  {
+   "key": "kakeroma-island/spot-3.jpg",
+   "source": "commons",
+   "newTitle": "File:Coral Outcrop Flynn Reef.jpg",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "kamishihoro/spot-3.jpg",
+   "source": "commons",
+   "newTitle": "File:糠平湖・夏（Summer Nukabira lake） - panoramio.jpg",
+   "license": "CC BY 3.0"
+  },
+  {
+   "key": "kanazawa/main.jpg",
+   "source": "commons",
+   "newTitle": "File:Higashiyamahigashi - Kanazawa, Japan - DSC00117.jpg",
+   "license": "CC0"
+  },
+  {
+   "key": "katsunuma/spot-2.jpg",
+   "source": "commons",
+   "newTitle": "File:田主丸シャインマスカット.jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "kikai-island/spot-2.jpg",
+   "source": "commons",
+   "newTitle": "File:Lava-Coral Beach at Waikoloa (3002253660).jpg",
+   "license": "CC BY-SA 2.0"
+  },
+  {
+   "key": "kinosaki-onsen/spot-1.jpg",
+   "source": "commons",
+   "newTitle": "File:華の湯提灯P2171885.jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "kinugawa-onsen/spot-2.jpg",
+   "source": "commons",
+   "newTitle": "File:下今市停車中のSL大樹20240713-P1044633.jpg",
+   "license": "CC BY 4.0"
+  },
+  {
+   "key": "kitakata/main.jpg",
+   "source": "commons",
+   "newTitle": "File:Kitakata, Fukushima Prefecture, Japan - panoramio.jpg",
+   "license": "CC BY 3.0"
+  },
+  {
+   "key": "kitakata/spot-3.jpg",
+   "source": "commons",
+   "newTitle": "File:Atsushio onsen post office.jpg",
+   "license": "CC BY 4.0"
+  },
+  {
+   "key": "kitakyushu/main.jpg",
+   "source": "commons",
+   "newTitle": "File:Kitakyushu (北九州), Fukuoka Prefecture, Japan 🇯🇵 - Banpeiyu.jpg",
+   "license": "CC BY 4.0"
+  },
+  {
+   "key": "kitakyushu/spot-3.jpg",
+   "source": "wikipedia:門司港レトロ",
+   "newTitle": "ファイル:140721 Former Moji Customs Kitakyushu Japan02n.jpg",
+   "license": "CC BY 2.5"
+  },
+  {
+   "key": "kobe/main.jpg",
+   "source": "commons",
+   "newTitle": "File:Kobe Port Tower and Maritime Museum, November 2016.jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "kobe/spot-1.jpg",
+   "source": "commons",
+   "newTitle": "File:Umie NORTH MALL.JPG",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "kochi-castle/spot-2.jpg",
+   "source": "commons",
+   "newTitle": "File:Kushira 23 Market in 2013.JPG",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "kochi-ino/main.jpg",
+   "source": "commons",
+   "newTitle": "File:Shogase, Ino, Agawa District, Kochi Prefecture 781-2141, Japan - panoramio.jpg",
+   "license": "CC BY 3.0"
+  },
+  {
+   "key": "kochi/main.jpg",
+   "source": "commons",
+   "newTitle": "File:高知城 天守からの景色3 Kochi Castle - panoramio.jpg",
+   "license": "CC BY 3.0"
+  },
+  {
+   "key": "kofu/main.jpg",
+   "source": "commons",
+   "newTitle": "File:Fairy Land (Unsplash).jpg",
+   "license": "CC0"
+  },
+  {
+   "key": "koriyama/main.jpg",
+   "source": "commons",
+   "newTitle": "File:荒池公園20170417.jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "koshikijima/main.jpg",
+   "source": "wikipedia:甑島列島",
+   "newTitle": "ファイル:Kamikoshiki Island Nagame-no-hama 2013-08B.JPG",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "koshikijima/spot-1.jpg",
+   "source": "wikipedia:甑島列島",
+   "newTitle": "ファイル:Kagoshima prefectural road 349 at Nagahama.jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "koshikijima/spot-3.jpg",
+   "source": "wikipedia:甑島列島",
+   "newTitle": "ファイル:Kamikoshiki Island Nagame-no-hama 2013-08B.JPG",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "kuchinoerabu/spot-3.jpg",
+   "source": "commons",
+   "newTitle": "File:Kuchinoerabu Island aerial photo 2018.jpg",
+   "license": "CC BY 4.0"
+  },
+  {
+   "key": "kuju-kogen/main.jpg",
+   "source": "commons",
+   "newTitle": "File:久住高原コテージより - panoramio.jpg",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "kumejima/spot-2.jpg",
+   "source": "commons",
+   "newTitle": "File:Alto de Coloane Viewing Platform 31-10-2023(2).jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "kurayoshi/spot-3.jpg",
+   "source": "commons",
+   "newTitle": "File:Kurayoshi Museum02s4592.jpg",
+   "license": "CC BY 2.5"
+  },
+  {
+   "key": "kurikoma/main.jpg",
+   "source": "commons",
+   "newTitle": "File:名残ヶ原からの須川岳（栗駒山） Peak Sukawa(Mt. Kurikoma) from Nagoriga-hara marsh - panoramio.jpg",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "kurikoma/spot-1.jpg",
+   "source": "commons",
+   "newTitle": "File:名残ヶ原からの須川岳（栗駒山） Peak Sukawa(Mt. Kurikoma) from Nagoriga-hara marsh - panoramio.jpg",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "kurikoma/spot-3.jpg",
+   "source": "commons",
+   "newTitle": "File:名残ヶ原からの須川岳（栗駒山） Peak Sukawa(Mt. Kurikoma) from Nagoriga-hara marsh - panoramio.jpg",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "kurobe/spot-3.jpg",
+   "source": "commons",
+   "newTitle": "File:Ikuji meisui kanda no shimizu.jpg",
+   "license": "CC BY 4.0"
+  },
+  {
+   "key": "kuroshima-yaeyama/main.jpg",
+   "source": "commons",
+   "newTitle": "File:Kuroishima Island, Taketomi Okinawa Aerial photograph.2009.jpg",
+   "license": "Attribution"
+  },
+  {
+   "key": "maebashi/main.jpg",
+   "source": "commons",
+   "newTitle": "File:Japanese garden in Maebashi, Japan 3.jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "manabeshima/spot-3.jpg",
+   "source": "commons",
+   "newTitle": "File:カーブを曲がった松原本社神輿.JPG",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "matsuba-gani/main.jpg",
+   "source": "openverse",
+   "newTitle": "松葉ガニ (2068190998)",
+   "license": "CC BY-SA 2.0"
+  },
+  {
+   "key": "matsuba-gani/spot-1.jpg",
+   "source": "commons",
+   "newTitle": "File:香住港 - panoramio.jpg",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "matsuyama/main.jpg",
+   "source": "commons",
+   "newTitle": "File:Matsuyama (14074874872).jpg",
+   "license": "CC BY-SA 2.0"
+  },
+  {
+   "key": "megijima/spot-3.jpg",
+   "source": "commons",
+   "newTitle": "File:Megijima Port and Takamatsu (8760506382).jpg",
+   "license": "CC BY-SA 2.0"
+  },
+  {
+   "key": "mihama-fukui/main.jpg",
+   "source": "commons",
+   "newTitle": "File:Mihama, Mikata District, Fukui Prefecture, Japan - panoramio (1).jpg",
+   "license": "CC BY 3.0"
+  },
+  {
+   "key": "mihara/spot-3.jpg",
+   "source": "commons",
+   "newTitle": "File:Mihara village hall.JPG",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "mikurajima/spot-2.jpg",
+   "source": "commons",
+   "newTitle": "File:Tails of the Sea Whale Watching Boat.jpg",
+   "license": "CC BY 4.0"
+  },
+  {
+   "key": "minami-aizu/spot-2.jpg",
+   "source": "commons",
+   "newTitle": "File:Japanese national route 352 at Uchikawa, Minami-aizu town, Fukushima prefecture 20100806 1058.jpg",
+   "license": "Public domain"
+  },
+  {
+   "key": "minami-aizu/spot-3.jpg",
+   "source": "commons",
+   "newTitle": "File:Japanese national route 352 at Uchikawa, Minami-aizu town, Fukushima prefecture 20100806 1058.jpg",
+   "license": "Public domain"
+  },
+  {
+   "key": "minami-izu/main.jpg",
+   "source": "commons",
+   "newTitle": "File:View of Hirizo Beach, in Minami-Izu, Shizuoka.jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "minamikyushu/spot-1.jpg",
+   "source": "commons",
+   "newTitle": "File:Takata Magaibutsus Minamikyushu Kagoshima.jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "mino-washi/main.jpg",
+   "source": "commons",
+   "newTitle": "File:Mino Washi Akari Art Hall ac (2).jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "misaki-kochi/spot-1.jpg",
+   "source": "commons",
+   "newTitle": "File:Cape Ashizuri - 足摺岬 - panoramio (2).jpg",
+   "license": "CC BY 3.0"
+  },
+  {
+   "key": "mishima-yamaguchi/spot-3.jpg",
+   "source": "commons",
+   "newTitle": "File:+ 1977 wurden die Königsgräber in Vergina entdeckt. 29.jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "mitsuke-jima/spot-2.jpg",
+   "source": "commons",
+   "newTitle": "File:Rengein Tanjo-ji Okunoin - The bell of marriage.jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "miyagi-matsushima-2/spot-3.jpg",
+   "source": "commons",
+   "newTitle": "File:Sashimi of São Paulo.jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "miyakejima/spot-2.jpg",
+   "source": "commons",
+   "newTitle": "File:Miyakejima (Feb 2000) Relief Map, SRTM-1.jpg",
+   "license": "Public domain"
+  },
+  {
+   "key": "miyako-iwate/main.jpg",
+   "source": "commons",
+   "newTitle": "File:Japan,Iwate,Miyako,Hidejima.jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "miyako-iwate/spot-3.jpg",
+   "source": "commons",
+   "newTitle": "File:Miyako Country Club, Miyako Iwate Aerial photograph.2013.jpg",
+   "license": "Attribution"
+  },
+  {
+   "key": "miyanoshita/spot-3.jpg",
+   "source": "commons",
+   "newTitle": "File:小田原駅表示箱根登山鉄道.jpg",
+   "license": "Public domain"
+  },
+  {
+   "key": "miyota/main.jpg",
+   "source": "commons",
+   "newTitle": "File:Shiono, Miyota, Kitasaku District, Nagano Prefecture 389-0201, Japan - panoramio (1).jpg",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "miyota/spot-1.jpg",
+   "source": "commons",
+   "newTitle": "File:Shiono, Miyota, Kitasaku District, Nagano Prefecture 389-0201, Japan - panoramio (1).jpg",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "muroo/spot-3.jpg",
+   "source": "commons",
+   "newTitle": "File:Kaochidani Momiji Valley.jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "nagasaki-city/spot-2.jpg",
+   "source": "commons",
+   "newTitle": "File:大浦天主堂.jpg",
+   "license": "CC BY 2.0"
+  },
+  {
+   "key": "nakasu/spot-1.jpg",
+   "source": "commons",
+   "newTitle": "File:Seiryū Park Fukuoka Hakata Yatai Nakasu 1-chōme Hakata-ku Fukuoka 20250401 174434.jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "nakasu/spot-2.jpg",
+   "source": "commons",
+   "newTitle": "File:Mizukagamitenmanguu01.jpg",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "nakasu/spot-3.jpg",
+   "source": "commons",
+   "newTitle": "File:Kushida jinja , 櫛田神社 - panoramio (16).jpg",
+   "license": "CC BY 3.0"
+  },
+  {
+   "key": "nakatsugawa/spot-1.jpg",
+   "source": "commons",
+   "newTitle": "File:Nakatsugawa interchange08.jpg",
+   "license": "Public domain"
+  },
+  {
+   "key": "nanjo-okinawa/main.jpg",
+   "source": "commons",
+   "newTitle": "File:Itokazu Castle.jpg",
+   "license": "CC BY 2.0"
+  },
+  {
+   "key": "nara/spot-1.jpg",
+   "source": "commons",
+   "newTitle": "File:Tōdai-ji hdsr IMG 3862.jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "nara/spot-4.jpg",
+   "source": "commons",
+   "newTitle": "File:Akame 48 Waterfalls-Otometaki.jpg",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "narita/spot-3.jpg",
+   "source": "commons",
+   "newTitle": "File:Narita Dream Dairy Farm 2.jpg",
+   "license": "CC0"
+  },
+  {
+   "key": "naruto-uzu/main.jpg",
+   "source": "wikipedia:鳴門の渦潮",
+   "newTitle": "ファイル:Naruto Whirlpools taken 4-21-2008.jpg",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "nasu/main.jpg",
+   "source": "commons",
+   "newTitle": "File:Mt.Chausudake (Nasu) 01.jpg",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "niche_愛知_1/main.jpg",
+   "source": "wikipedia:伊良湖岬",
+   "newTitle": "ファイル:Iragomisaki1.JPG",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "niche_愛知_3/main.jpg",
+   "source": "wikipedia:鳳来峡",
+   "newTitle": "ファイル:Yuya-Onsen-1.jpg",
+   "license": "CC0"
+  },
+  {
+   "key": "niche_愛知_5/main.jpg",
+   "source": "wikipedia:南木曽町",
+   "newTitle": "ファイル:Fukuzawa Momosuke Memorial 1.jpg",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "niche_茨城_2/main.jpg",
+   "source": "wikipedia:磯漁港 (京都府)",
+   "newTitle": "ファイル:Isominato.jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "niche_宮崎_4/main.jpg",
+   "source": "wikipedia:渡瀬温泉",
+   "newTitle": "ファイル:渡瀬温泉（わたらせ温泉） 大露天風呂.JPG",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "niche_宮崎_7/main.jpg",
+   "source": "wikipedia:湯の峰温泉",
+   "newTitle": "ファイル:Kumano Kodo pilgrimage route Yunomine Onsen World heritage 熊野古道 湯の峰温泉56.JPG",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "niche_鹿児島_3/main.jpg",
+   "source": "openverse",
+   "newTitle": "上野峡白糸の滝 - panoramio",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "niche_石川_1/main.jpg",
+   "source": "openverse",
+   "newTitle": "Shirakawago Hirase Onsen Shirayumi Ski Area 20240101 02",
+   "license": "CC CC0 1.0"
+  },
+  {
+   "key": "niche_千葉_4/main.jpg",
+   "source": "wikipedia:片瀬海岸",
+   "newTitle": "ファイル:Beach @ Enoshima (13897777012).jpg",
+   "license": "CC BY 2.0"
+  },
+  {
+   "key": "niche_大分_4/main.jpg",
+   "source": "wikipedia:稲積水中鍾乳洞",
+   "newTitle": "ファイル:青の洞窟.jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "niche_長崎_4/spot-2.jpg",
+   "source": "commons",
+   "newTitle": "File:経が峰山頂山小屋.jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "niche_長崎_7/main.jpg",
+   "source": "wikipedia:高島炭鉱",
+   "newTitle": "ファイル:Battle-Ship Island Nagasaki Japan.jpg",
+   "license": "CC BY 2.0"
+  },
+  {
+   "key": "niche_鳥取_5/main.jpg",
+   "source": "wikipedia:小川温泉 (富山県)",
+   "newTitle": "ファイル:Ogawa Onsen Motoyu Doukutu.jpg",
+   "license": "Public domain"
+  },
+  {
+   "key": "niche_徳島_2/spot-2.jpg",
+   "source": "commons",
+   "newTitle": "File:勝浦温泉「越之湯」 - panoramio.jpg",
+   "license": "CC BY 3.0"
+  },
+  {
+   "key": "niche_徳島_4/main.jpg",
+   "source": "wikipedia:藍住町",
+   "newTitle": "ファイル:Aizumi town hall.JPG",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "niche_栃木_2/main.jpg",
+   "source": "openverse",
+   "newTitle": "Yumechiyokan 2026-02 ac (1)",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "niche_福岡_7/main.jpg",
+   "source": "openverse",
+   "newTitle": "英彦山から福智山を眺める２",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "niche_福島_2/main.jpg",
+   "source": "wikipedia:柳津虚空蔵尊 (登米市)",
+   "newTitle": "ファイル:Hondo Yanaidukokuzo,Tome.jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "niche_福島_5/main.jpg",
+   "source": "wikipedia:棚倉城",
+   "newTitle": "ファイル:Tanakura Castle hori.JPG",
+   "license": "CC0"
+  },
+  {
+   "key": "niche_兵庫_2/spot-2.jpg",
+   "source": "commons",
+   "newTitle": "File:Yumura-hot spring street Kofu-city.JPG",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "niigata-city/main.jpg",
+   "source": "commons",
+   "newTitle": "File:Aoyama Kaigan Kaisuiyokujyou Beach, Niigata, Niigata, Japan, July 2024.jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "niigata-city/spot-1.jpg",
+   "source": "commons",
+   "newTitle": "File:Niigata City View - panoramio.jpg",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "nishinoshima/spot-3.jpg",
+   "source": "commons",
+   "newTitle": "File:Kuniga coast torii.jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "numata/spot-1.jpg",
+   "source": "commons",
+   "newTitle": "File:Numata-area-aug12-2014.jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "nyukasa/spot-1.jpg",
+   "source": "commons",
+   "newTitle": "File:Mt.8 20141030 155234.JPG",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "obihiro/spot-1.jpg",
+   "source": "commons",
+   "newTitle": "File:マッサン 白樺並木2014.jpg",
+   "license": "CC BY 3.0"
+  },
+  {
+   "key": "ofunato/main.jpg",
+   "source": "commons",
+   "newTitle": "File:Japan fires in Ofunato now tmo 20250301 lrg.jpg",
+   "license": "Public domain"
+  },
+  {
+   "key": "okinawa-chinen/spot-2.jpg",
+   "source": "commons",
+   "newTitle": "File:Stone sign, Sefa-utaki 斎場御嶽 Jul 25, 2010.jpg",
+   "license": "CC BY 2.0"
+  },
+  {
+   "key": "okinawa-naha/main.jpg",
+   "source": "commons",
+   "newTitle": "File:Naha Okinawa Japan Shuri-Castle-02.jpg",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "okinoshima-kochi/spot-2.jpg",
+   "source": "commons",
+   "newTitle": "File:弘法大師像 - panoramio.jpg",
+   "license": "CC BY 3.0"
+  },
+  {
+   "key": "okinoshima-kochi/spot-3.jpg",
+   "source": "commons",
+   "newTitle": "File:Borkum, Promenade, Möwe -- 2020 -- 2809.jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "okuhida-onsen/main.jpg",
+   "source": "commons",
+   "newTitle": "File:Gifu snowy onsen (53618685704).jpg",
+   "license": "CC BY 2.0"
+  },
+  {
+   "key": "ono-fukui/spot-2.jpg",
+   "source": "commons",
+   "newTitle": "File:Echizen-Ono Oshozu 2021-07 ac.jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "osaka/main.jpg",
+   "source": "commons",
+   "newTitle": "File:Osaka Castle Outer Moat and Osaka Business Park, November 2016.jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "osorezan-area/main.jpg",
+   "source": "wikipedia:恐山",
+   "newTitle": "ファイル:Osorezan Aomori.JPG",
+   "license": "Public domain"
+  },
+  {
+   "key": "otari-onsen/spot-3.jpg",
+   "source": "commons",
+   "newTitle": "File:Yamadaya Ryokan, Niitsu.jpg",
+   "license": "CC BY 4.0"
+  },
+  {
+   "key": "otsu-shiga/spot-2.jpg",
+   "source": "commons",
+   "newTitle": "File:Ishiyama-dera Temple - Kannon-dô.jpg",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "rausu/spot-3.jpg",
+   "source": "commons",
+   "newTitle": "File:2017-08-23 01 ANDREA - IMO 7222231 - Reykjavik, Iceland.jpg",
+   "license": "CC BY 4.0"
+  },
+  {
+   "key": "rikuchu-coast/spot-1.jpg",
+   "source": "commons",
+   "newTitle": "File:Kamaishi Bay.JPG",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "sado-island/spot-2.jpg",
+   "source": "commons",
+   "newTitle": "File:Nipponia Nippon in Sado Ibis Conservation Center.jpg",
+   "license": "CC BY 2.0"
+  },
+  {
+   "key": "saijo-hiroshima/main.jpg",
+   "source": "commons",
+   "newTitle": "File:Saijo sakagura okadasyuhan.jpg",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "saijo/main.jpg",
+   "source": "commons",
+   "newTitle": "File:Saijo sakagura okadasyuhan.jpg",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "sakata/spot-4.jpg",
+   "source": "commons",
+   "newTitle": "File:Scenery of Kisakata 20180526b.jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "sakurajima-onsen/main.jpg",
+   "source": "commons",
+   "newTitle": "File:Kirishima Onsen01n4592.jpg",
+   "license": "CC BY 2.5"
+  },
+  {
+   "key": "sanagijima/spot-2.jpg",
+   "source": "commons",
+   "newTitle": "File:Ōbaehana Lighthouse S.jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "sanagijima/spot-3.jpg",
+   "source": "commons",
+   "newTitle": "File:Mairihaka.JPG",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "sanriku-miyako/spot-3.jpg",
+   "source": "commons",
+   "newTitle": "File:Sanriku Coast Expwy Tugaruisi PA Up line 202602.jpg",
+   "license": "CC0"
+  },
+  {
+   "key": "sawara/main.jpg",
+   "source": "commons",
+   "newTitle": "File:A view of Sawara-Honmachi.JPG",
+   "license": "Public domain"
+  },
+  {
+   "key": "sefa-utaki/main.jpg",
+   "source": "wikipedia:斎場御嶽",
+   "newTitle": "ファイル:Kudakajima Island from Sangui of Sefa-Utaki 1.JPG",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "seki-juku/main.jpg",
+   "source": "commons",
+   "newTitle": "File:Tokaido Seki Juku 007.jpg",
+   "license": "CC0"
+  },
+  {
+   "key": "seki/spot-3.jpg",
+   "source": "commons",
+   "newTitle": "File:Gifu Sekigahara Battlefield Memorial Museum 20220828 02.jpg",
+   "license": "CC0"
+  },
+  {
+   "key": "senri-bamboo/main.jpg",
+   "source": "openverse",
+   "newTitle": "Sakura in Expo '70 Commemorative Park 2",
+   "license": "CC BY-SA 2.0"
+  },
+  {
+   "key": "sensui-jima/spot-1.jpg",
+   "source": "commons",
+   "newTitle": "File:Towadako Mikurahantô Gosikiiwa.jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "shiga-otsu/main.jpg",
+   "source": "commons",
+   "newTitle": "File:Mii-dera Otsu Shiga pref01s5s4592.jpg",
+   "license": "CC BY 2.5"
+  },
+  {
+   "key": "shima-onsen/spot-1.jpg",
+   "source": "commons",
+   "newTitle": "File:積善館本館 中之条 2013 (9994399714).jpg",
+   "license": "CC BY 2.0"
+  },
+  {
+   "key": "shinshiro-nagasinotown/spot-1.jpg",
+   "source": "commons",
+   "newTitle": "File:史跡 長篠城址.jpg",
+   "license": "CC0"
+  },
+  {
+   "key": "shirahone-onsen/spot-2.jpg",
+   "source": "commons",
+   "newTitle": "File:泡の湯旅館 Awanoyu at Shirahone Spa - panoramio.jpg",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "shirotori/main.jpg",
+   "source": "commons",
+   "newTitle": "File:Gondola lift of Winghills Shirotori Resort.jpg",
+   "license": "CC0"
+  },
+  {
+   "key": "shosenkyo/spot-1.jpg",
+   "source": "commons",
+   "newTitle": "File:Senga Falls-1d.jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "sukumo/spot-2.jpg",
+   "source": "commons",
+   "newTitle": "File:20210808 Sukumo station.jpg",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "suo-sanbe/spot-3.jpg",
+   "source": "wikipedia:三瓶山",
+   "newTitle": "ファイル:山頂付近.jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "takao/spot-3.jpg",
+   "source": "commons",
+   "newTitle": "File:もみじ台 2012 自然食 おそば おでん (8219834437).jpg",
+   "license": "CC BY-SA 2.0"
+  },
+  {
+   "key": "takehara/spot-3.jpg",
+   "source": "commons",
+   "newTitle": "File:Miki in Itsukushima Shrine 2.jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "taketa/main.jpg",
+   "source": "commons",
+   "newTitle": "File:Taketa, Oita Prefecture 878-0013, Japan - panoramio (3).jpg",
+   "license": "CC BY 3.0"
+  },
+  {
+   "key": "taketomi-island/spot-3.jpg",
+   "source": "commons",
+   "newTitle": "File:2016-02-27 Water buffalo in Taketomijima,Nitta-kanko 新田観光水牛車 DSCF2799.jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "tanegashima/spot-3.jpg",
+   "source": "commons",
+   "newTitle": "File:広田IMGP1477.JPG",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "tarama-island/spot-1.jpg",
+   "source": "commons",
+   "newTitle": "File:8gatu2 b (Kimotsuki).jpg",
+   "license": "CC BY 4.0"
+  },
+  {
+   "key": "tateyama-kurobe/spot-3.jpg",
+   "source": "commons",
+   "newTitle": "File:Kurobe Dam - panoramio.jpg",
+   "license": "CC BY 3.0"
+  },
+  {
+   "key": "tateyamasaki/spot-1.jpg",
+   "source": "wikipedia:立石岬灯台",
+   "newTitle": "ファイル:Tateishi Lighthouse distant view.jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "tazawako/spot-3.jpg",
+   "source": "commons",
+   "newTitle": "File:潟尻たつこ像20220702-P1000462.jpg",
+   "license": "CC BY 4.0"
+  },
+  {
+   "key": "tendo/main.jpg",
+   "source": "commons",
+   "newTitle": "File:Tendo station.jpg",
+   "license": "CC0"
+  },
+  {
+   "key": "tenryu-gorge/main.jpg",
+   "source": "wikipedia:天竜峡",
+   "newTitle": "ファイル:Nagano tenryukyo fuyo.jpg",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "tenryu-gorge/spot-1.jpg",
+   "source": "wikipedia:天竜峡",
+   "newTitle": "ファイル:Nagano tenryukyo fuyo.jpg",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "tobishima-island/spot-3.jpg",
+   "source": "commons",
+   "newTitle": "File:250906 Ubara Utopia Katsuura Chiba pref Japan06s3.jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "tokushima-city/main.jpg",
+   "source": "commons",
+   "newTitle": "File:Tokushima City Shiroyama distant view.JPG",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "tonaki/spot-1.jpg",
+   "source": "commons",
+   "newTitle": "File:Tonaki Port Lighthouse 202407.jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "tono/spot-3.jpg",
+   "source": "commons",
+   "newTitle": "File:Chagu-chagu Umakko parade in front of Morioka Station 2023f.jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "totsukawa-2/main.jpg",
+   "source": "commons",
+   "newTitle": "File:Landscape of takatsu totsukawa, nara.jpg",
+   "license": "CC0"
+  },
+  {
+   "key": "totsukawa-2/spot-1.jpg",
+   "source": "commons",
+   "newTitle": "File:Landscape of takatsu totsukawa, nara.jpg",
+   "license": "CC0"
+  },
+  {
+   "key": "tottori-sakyu/main.jpg",
+   "source": "commons",
+   "newTitle": "File:Tottori-Sakyu Tottori Japan.JPG",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "toushijima/spot-2.jpg",
+   "source": "wikipedia:答志島",
+   "newTitle": "ファイル:Port of Momotori.JPG",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "towada/main.jpg",
+   "source": "commons",
+   "newTitle": "File:Lake Towada from Ohanabe 2008.jpg",
+   "license": "Public domain"
+  },
+  {
+   "key": "toyama-city/main.jpg",
+   "source": "commons",
+   "newTitle": "File:Sakurabashidori, Toyama, Toyama Prefecture 930-0004, Japan - panoramio (12).jpg",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "toyama-himi-2/main.jpg",
+   "source": "commons",
+   "newTitle": "File:Kitaomachi, Himi, Toyama Prefecture 935-0004, Japan - panoramio (2).jpg",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "tsumagoi/main.jpg",
+   "source": "commons",
+   "newTitle": "File:Tsumagoi Cabbage&Asamayama.JPG",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "ube/main.jpg",
+   "source": "commons",
+   "newTitle": "File:Tokiwa Bridge Ube 2024.jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "ueno/main.jpg",
+   "source": "commons",
+   "newTitle": "File:Golden gate of Ueno Tōshō-gū Shinto shrine, Tokyo, Japan.jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "ukujima/spot-3.jpg",
+   "source": "commons",
+   "newTitle": "File:平田観光農園 - panoramio.jpg",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "usuki/spot-2.jpg",
+   "source": "commons",
+   "newTitle": "File:Usuki City Usuki Library ac (1).jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "wajima/spot-1.jpg",
+   "source": "commons",
+   "newTitle": "File:Stone Sign, Wajima Asaichi Street - Mar 2, 2013.jpg",
+   "license": "CC BY 2.0"
+  },
+  {
+   "key": "wakasa-obama/main.jpg",
+   "source": "commons",
+   "newTitle": "File:Jinguji Wakasa Obama Fukui22s3s4592.jpg",
+   "license": "CC BY 2.5"
+  },
+  {
+   "key": "yamagata/main.jpg",
+   "source": "commons",
+   "newTitle": "File:211029 Risshaku-ji Yamagata Yamagata pref Japan65s3.jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "yamaguchi/main.jpg",
+   "source": "commons",
+   "newTitle": "File:Maemachi, Yamaguchi, Yamaguchi Prefecture 753-0057, Japan - panoramio.jpg",
+   "license": "CC BY 3.0"
+  },
+  {
+   "key": "yamaguchi/spot-2.jpg",
+   "source": "commons",
+   "newTitle": "File:Yuda-Onsen Station 湯田温泉駅 02.jpg",
+   "license": "CC BY 4.0"
+  },
+  {
+   "key": "yokohama/main.jpg",
+   "source": "commons",
+   "newTitle": "File:Yokohama Landmark Tower and Minato-Mirai waterfront seen from the boat.jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "yokosuka/main.jpg",
+   "source": "commons",
+   "newTitle": "File:Nagai Port, Yokosuka, Japan CIMG0480.jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "yonezawa/spot-2.jpg",
+   "source": "commons",
+   "newTitle": "File:Yonezawa Castle.jpg",
+   "license": "CC0"
+  },
+  {
+   "key": "yoron-island/spot-2.jpg",
+   "source": "commons",
+   "newTitle": "File:Yoron Station as a fictional train station - October 2024 (1).jpg",
+   "license": "CC BY 2.0"
+  },
+  {
+   "key": "yoshino/main.jpg",
+   "source": "wikipedia:吉野",
+   "newTitle": "ファイル:Cherry blossoms at Yoshinoyama 01.jpg",
+   "license": "CC BY 2.1 jp"
+  },
+  {
+   "key": "yura-wakayama/spot-2.jpg",
+   "source": "commons",
+   "newTitle": "File:白崎海岸.jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "zamami-island/spot-1.jpg",
+   "source": "commons",
+   "newTitle": "File:Zamami Island, Japan (Panorama).jpg",
+   "license": "CC BY-SA 2.0"
+  },
+  {
+   "key": "zuiryuji/main.jpg",
+   "source": "commons",
+   "newTitle": "File:Zuiryuji (Naniwa, Osaka)1.jpg",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "gen_北海_豊富温泉/main.jpg",
+   "source": "wikipedia:豊富温泉",
+   "newTitle": "ファイル:Toyotomi-fureai-center 20171026.jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "hachijojima/spot-3.jpg",
+   "source": "commons",
+   "newTitle": "File:Hachijojima.airport terminal.jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "hofu/spot-3.jpg",
+   "source": "commons",
+   "newTitle": "File:Hofu Air Field Aerial Photograph.jpg",
+   "license": "Attribution"
+  },
+  {
+   "key": "isawa-onsen/spot-2.jpg",
+   "source": "commons",
+   "newTitle": "File:Fuefuki River Ukai Bridge Fuefuki City.jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "kunisaki/main.jpg",
+   "source": "commons",
+   "newTitle": "File:Iwatoji (Kunisaki, Oita).jpg",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "kurume/spot-2.jpg",
+   "source": "commons",
+   "newTitle": "File:Shoyotei and Kyushi Bridge in Kurume Central Park in March 2025.jpg",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "unresolvable": [
+  {
+   "key": "ainan/main.jpg"
+  },
+  {
+   "key": "aji-peninsula/spot-1.jpg"
+  },
+  {
+   "key": "aka-island/spot-2.jpg"
+  },
+  {
+   "key": "akakura-onsen/spot-2.jpg"
+  },
+  {
+   "key": "akashi/main.jpg"
+  },
+  {
+   "key": "akita-oga/main.jpg"
+  },
+  {
+   "key": "akita-yokote/main.jpg"
+  },
+  {
+   "key": "akiyoshido/main.jpg"
+  },
+  {
+   "key": "ama-island/main.jpg"
+  },
+  {
+   "key": "amami/spot-3.jpg"
+  },
+  {
+   "key": "anan/main.jpg"
+  },
+  {
+   "key": "aogashima/main.jpg"
+  },
+  {
+   "key": "aogashima/spot-1.jpg"
+  },
+  {
+   "key": "arita/main.jpg"
+  },
+  {
+   "key": "arita/spot-2.jpg"
+  },
+  {
+   "key": "ashizuri/spot-3.jpg"
+  },
+  {
+   "key": "aso/main.jpg"
+  },
+  {
+   "key": "biwako/main.jpg"
+  },
+  {
+   "key": "cape-zampa/main.jpg"
+  },
+  {
+   "key": "cape-zampa/spot-3.jpg"
+  },
+  {
+   "key": "chiba-zoo/spot-1.jpg"
+  },
+  {
+   "key": "chikugogawa/main.jpg"
+  },
+  {
+   "key": "chinatown/spot-3.jpg"
+  },
+  {
+   "key": "chizu/main.jpg"
+  },
+  {
+   "key": "chokai-san/main.jpg"
+  },
+  {
+   "key": "chokai-san/spot-2.jpg"
+  },
+  {
+   "key": "dorogawa-onsen/spot-3.jpg"
+  },
+  {
+   "key": "echizen-cape/spot-2.jpg"
+  },
+  {
+   "key": "echizen-cliff/spot-1.jpg"
+  },
+  {
+   "key": "echizen-kaigan/spot-3.jpg"
+  },
+  {
+   "key": "echizen-pottery/main.jpg"
+  },
+  {
+   "key": "echizen/main.jpg"
+  },
+  {
+   "key": "echizen/spot-1.jpg"
+  },
+  {
+   "key": "eshima-miyagi/spot-2.jpg"
+  },
+  {
+   "key": "fuchu-hiroshima/main.jpg"
+  },
+  {
+   "key": "fukushima-aizu-2/main.jpg"
+  },
+  {
+   "key": "fukushima-aizu-2/spot-1.jpg"
+  },
+  {
+   "key": "gen_茨城_国営ひたち海浜公園/spot-3.jpg"
+  },
+  {
+   "key": "gen_茨城_酒列磯前神社/spot-3.jpg"
+  },
+  {
+   "key": "gen_群馬_奥嬬恋温泉/main.jpg"
+  },
+  {
+   "key": "gen_群馬_奥嬬恋温泉/spot-1.jpg"
+  },
+  {
+   "key": "gen_群馬_花敷温泉/main.jpg"
+  },
+  {
+   "key": "gen_群馬_花敷温泉/spot-1.jpg"
+  },
+  {
+   "key": "gen_群馬_鹿沢温泉/main.jpg"
+  },
+  {
+   "key": "gen_群馬_川中温泉/main.jpg"
+  },
+  {
+   "key": "gen_群馬_片品温泉/main.jpg"
+  },
+  {
+   "key": "gen_群馬_片品温泉/spot-1.jpg"
+  },
+  {
+   "key": "gen_青森_秋元温泉/main.jpg"
+  },
+  {
+   "key": "gen_青森_十和田湖畔温泉/main.jpg"
+  },
+  {
+   "key": "gen_青森_十和田湖畔温泉/spot-1.jpg"
+  },
+  {
+   "key": "gen_青森_相乗温泉/main.jpg"
+  },
+  {
+   "key": "gen_青森_相乗温泉/spot-1.jpg"
+  },
+  {
+   "key": "gen_青森_馬門温泉/main.jpg"
+  },
+  {
+   "key": "gen_青森_馬門温泉/spot-1.jpg"
+  },
+  {
+   "key": "gen_青森_板留温泉/main.jpg"
+  },
+  {
+   "key": "gen_青森_板留温泉/spot-1.jpg"
+  },
+  {
+   "key": "gen_青森_落合温泉/main.jpg"
+  },
+  {
+   "key": "gen_青森_嶽温泉/main.jpg"
+  },
+  {
+   "key": "gen_栃木_湯西川温泉/main.jpg"
+  },
+  {
+   "key": "gen_北海_オーロラ温泉/main.jpg"
+  },
+  {
+   "key": "gen_北海_オーロラ温泉/spot-1.jpg"
+  },
+  {
+   "key": "gen_北海_オソウシ温泉/spot-3.jpg"
+  },
+  {
+   "key": "gen_北海_かみゆうべつ温泉/main.jpg"
+  },
+  {
+   "key": "gen_北海_ぬかびら温泉/main.jpg"
+  },
+  {
+   "key": "gen_北海_伊達温泉/main.jpg"
+  },
+  {
+   "key": "gen_北海_臼別温泉/main.jpg"
+  },
+  {
+   "key": "gen_北海_臼別温泉/spot-1.jpg"
+  },
+  {
+   "key": "gen_北海_浦臼神社/main.jpg"
+  },
+  {
+   "key": "gen_北海_花の拠点「はなふる」/main.jpg"
+  },
+  {
+   "key": "gen_北海_花の拠点「はなふる」/spot-1.jpg"
+  },
+  {
+   "key": "gen_北海_見市温泉/main.jpg"
+  },
+  {
+   "key": "gen_北海_黒松内温泉/main.jpg"
+  },
+  {
+   "key": "gen_北海_黒松内温泉/spot-1.jpg"
+  },
+  {
+   "key": "gen_北海_支笏湖いとう温泉/main.jpg"
+  },
+  {
+   "key": "gen_北海_鹿部温泉/main.jpg"
+  },
+  {
+   "key": "gen_北海_樹海温泉/main.jpg"
+  },
+  {
+   "key": "gen_北海_神威脇温泉/main.jpg"
+  },
+  {
+   "key": "gen_北海_神居岩温泉/main.jpg"
+  },
+  {
+   "key": "gen_北海_神居岩温泉/spot-1.jpg"
+  },
+  {
+   "key": "gen_北海_石狩弁天社/main.jpg"
+  },
+  {
+   "key": "gen_北海_滝の湯温泉/main.jpg"
+  },
+  {
+   "key": "gen_北海_朝里川温泉/main.jpg"
+  },
+  {
+   "key": "gen_北海_天に続く道/main.jpg"
+  },
+  {
+   "key": "gen_北海_天塩温泉/main.jpg"
+  },
+  {
+   "key": "gen_北海_白老温泉/main.jpg"
+  },
+  {
+   "key": "gen_北海_白老温泉/spot-1.jpg"
+  },
+  {
+   "key": "gen_北海_弁天台場/main.jpg"
+  },
+  {
+   "key": "gen_北海_弁天台場/spot-1.jpg"
+  },
+  {
+   "key": "gen_北海_網走湖畔温泉/main.jpg"
+  },
+  {
+   "key": "gen_北海_養老牛温泉/main.jpg"
+  },
+  {
+   "key": "gen_北海_羅臼温泉/main.jpg"
+  },
+  {
+   "key": "hachijojima/spot-1.jpg"
+  },
+  {
+   "key": "hachimantai/main.jpg"
+  },
+  {
+   "key": "hakuba/main.jpg"
+  },
+  {
+   "key": "hakuto-tottori/spot-3.jpg"
+  },
+  {
+   "key": "hamada-shimane/main.jpg"
+  },
+  {
+   "key": "hanamaki/spot-1.jpg"
+  },
+  {
+   "key": "hiburi/main.jpg"
+  },
+  {
+   "key": "higashihiroshima/main.jpg"
+  },
+  {
+   "key": "higashine/main.jpg"
+  },
+  {
+   "key": "higashine/spot-2.jpg"
+  },
+  {
+   "key": "hioki/spot-3.jpg"
+  },
+  {
+   "key": "hira/main.jpg"
+  },
+  {
+   "key": "hita/spot-2.jpg"
+  },
+  {
+   "key": "hita/spot-3.jpg"
+  },
+  {
+   "key": "hitachi/main.jpg"
+  },
+  {
+   "key": "hokkaido-asahikawa/main.jpg"
+  },
+  {
+   "key": "ibukijima/spot-2.jpg"
+  },
+  {
+   "key": "iga/main.jpg"
+  },
+  {
+   "key": "ikata/spot-3.jpg"
+  },
+  {
+   "key": "ikoma-kogen/spot-3.jpg"
+  },
+  {
+   "key": "ikuchijima/spot-2.jpg"
+  },
+  {
+   "key": "inawashiro/spot-1.jpg"
+  },
+  {
+   "key": "isawa-onsen/main.jpg"
+  },
+  {
+   "key": "itoshima/spot-2.jpg"
+  },
+  {
+   "key": "iwaishima/main.jpg"
+  },
+  {
+   "key": "iwaishima/spot-1.jpg"
+  },
+  {
+   "key": "jigokudani/main.jpg"
+  },
+  {
+   "key": "joetsu/main.jpg"
+  },
+  {
+   "key": "jozankei/main.jpg"
+  },
+  {
+   "key": "kagoshima-city/main.jpg"
+  },
+  {
+   "key": "kamaishi/main.jpg"
+  },
+  {
+   "key": "kamaishi/spot-1.jpg"
+  },
+  {
+   "key": "kamogawa/spot-3.jpg"
+  },
+  {
+   "key": "kasama/main.jpg"
+  },
+  {
+   "key": "kashiwara-wine/main.jpg"
+  },
+  {
+   "key": "kashiwara-wine/spot-2.jpg"
+  },
+  {
+   "key": "kasuga-gifu/spot-2.jpg"
+  },
+  {
+   "key": "kinkasan/spot-2.jpg"
+  },
+  {
+   "key": "kirigamine/spot-2.jpg"
+  },
+  {
+   "key": "kisakata/main.jpg"
+  },
+  {
+   "key": "kitsuki/main.jpg"
+  },
+  {
+   "key": "koka/main.jpg"
+  },
+  {
+   "key": "koriyama/spot-2.jpg"
+  },
+  {
+   "key": "kuju-kogen/spot-1.jpg"
+  },
+  {
+   "key": "kujukuri-icho/spot-3.jpg"
+  },
+  {
+   "key": "kujukuri/spot-3.jpg"
+  },
+  {
+   "key": "kumano-kodo/main.jpg"
+  },
+  {
+   "key": "kure/spot-3.jpg"
+  },
+  {
+   "key": "manabeshima/spot-1.jpg"
+  },
+  {
+   "key": "megijima/spot-1.jpg"
+  },
+  {
+   "key": "mihara/main.jpg"
+  },
+  {
+   "key": "mikuni-minato/main.jpg"
+  },
+  {
+   "key": "mimasaka/main.jpg"
+  },
+  {
+   "key": "minami-aizu/main.jpg"
+  },
+  {
+   "key": "minami-sanriku/main.jpg"
+  },
+  {
+   "key": "minamidaitojima/spot-2.jpg"
+  },
+  {
+   "key": "mishima-yamaguchi/main.jpg"
+  },
+  {
+   "key": "mitoyo/main.jpg"
+  },
+  {
+   "key": "mitsuke-jima/spot-3.jpg"
+  },
+  {
+   "key": "miura/spot-2.jpg"
+  },
+  {
+   "key": "miyagi-matsushima-2/main.jpg"
+  },
+  {
+   "key": "miyazaki/main.jpg"
+  },
+  {
+   "key": "miyoshi-hiroshima/main.jpg"
+  },
+  {
+   "key": "miyoshi-hiroshima/spot-1.jpg"
+  },
+  {
+   "key": "mt-fuji-fifth/main.jpg"
+  },
+  {
+   "key": "mt-yatsugatake/main.jpg"
+  },
+  {
+   "key": "murakami/main.jpg"
+  },
+  {
+   "key": "muroran/spot-2.jpg"
+  },
+  {
+   "key": "myoko/main.jpg"
+  },
+  {
+   "key": "nabari/main.jpg"
+  },
+  {
+   "key": "nachikatsuura/main.jpg"
+  },
+  {
+   "key": "nagato-yamaguchi/spot-1.jpg"
+  },
+  {
+   "key": "nakanoshima-oki/main.jpg"
+  },
+  {
+   "key": "nakasu/main.jpg"
+  },
+  {
+   "key": "nakatosa/spot-3.jpg"
+  },
+  {
+   "key": "nakatsu/spot-3.jpg"
+  },
+  {
+   "key": "nakatsugawa/spot-3.jpg"
+  },
+  {
+   "key": "niche_愛知_2/main.jpg"
+  },
+  {
+   "key": "niche_愛知_4/main.jpg"
+  },
+  {
+   "key": "niche_愛知_7/main.jpg"
+  },
+  {
+   "key": "niche_愛媛_1/main.jpg"
+  },
+  {
+   "key": "niche_愛媛_4/main.jpg"
+  },
+  {
+   "key": "niche_茨城_1/main.jpg"
+  },
+  {
+   "key": "niche_岐阜_8/main.jpg"
+  },
+  {
+   "key": "niche_宮崎_2/main.jpg"
+  },
+  {
+   "key": "niche_宮崎_3/main.jpg"
+  },
+  {
+   "key": "niche_宮城_1/main.jpg"
+  },
+  {
+   "key": "niche_宮城_3/main.jpg"
+  },
+  {
+   "key": "niche_宮城_5/main.jpg"
+  },
+  {
+   "key": "niche_京都_1/main.jpg"
+  },
+  {
+   "key": "niche_京都_3/main.jpg"
+  },
+  {
+   "key": "niche_京都_5/main.jpg"
+  },
+  {
+   "key": "niche_京都_6/main.jpg"
+  },
+  {
+   "key": "niche_熊本_1/main.jpg"
+  },
+  {
+   "key": "niche_熊本_2/main.jpg"
+  },
+  {
+   "key": "niche_熊本_6/main.jpg"
+  },
+  {
+   "key": "niche_熊本_8/main.jpg"
+  },
+  {
+   "key": "niche_群馬_1/main.jpg"
+  },
+  {
+   "key": "niche_群馬_4/main.jpg"
+  },
+  {
+   "key": "niche_広島_6/main.jpg"
+  },
+  {
+   "key": "niche_広島_6/spot-1.jpg"
+  },
+  {
+   "key": "niche_香川_2/main.jpg"
+  },
+  {
+   "key": "niche_高知_1/main.jpg"
+  },
+  {
+   "key": "niche_高知_6/main.jpg"
+  },
+  {
+   "key": "niche_佐賀_1/main.jpg"
+  },
+  {
+   "key": "niche_埼玉_1/main.jpg"
+  },
+  {
+   "key": "niche_三重_2/main.jpg"
+  },
+  {
+   "key": "niche_三重_4/main.jpg"
+  },
+  {
+   "key": "niche_三重_5/main.jpg"
+  },
+  {
+   "key": "niche_山形_1/main.jpg"
+  },
+  {
+   "key": "niche_山形_2/main.jpg"
+  },
+  {
+   "key": "niche_山形_6/main.jpg"
+  },
+  {
+   "key": "niche_山口_2/main.jpg"
+  },
+  {
+   "key": "niche_山口_4/main.jpg"
+  },
+  {
+   "key": "niche_山梨_1/main.jpg"
+  },
+  {
+   "key": "niche_山梨_2/main.jpg"
+  },
+  {
+   "key": "niche_山梨_3/main.jpg"
+  },
+  {
+   "key": "niche_山梨_4/main.jpg"
+  },
+  {
+   "key": "niche_山梨_5/main.jpg"
+  },
+  {
+   "key": "niche_山梨_7/main.jpg"
+  },
+  {
+   "key": "niche_滋賀_1/main.jpg"
+  },
+  {
+   "key": "niche_滋賀_3/main.jpg"
+  },
+  {
+   "key": "niche_滋賀_4/main.jpg"
+  },
+  {
+   "key": "niche_滋賀_6/main.jpg"
+  },
+  {
+   "key": "niche_鹿児島_1/main.jpg"
+  },
+  {
+   "key": "niche_鹿児島_5/main.jpg"
+  },
+  {
+   "key": "niche_秋田_3/main.jpg"
+  },
+  {
+   "key": "niche_秋田_4/main.jpg"
+  },
+  {
+   "key": "niche_秋田_5/main.jpg"
+  },
+  {
+   "key": "niche_新潟_2/main.jpg"
+  },
+  {
+   "key": "niche_新潟_3/main.jpg"
+  },
+  {
+   "key": "niche_新潟_6/main.jpg"
+  },
+  {
+   "key": "niche_神奈川_4/main.jpg"
+  },
+  {
+   "key": "niche_神奈川_5/main.jpg"
+  },
+  {
+   "key": "niche_静岡_2/main.jpg"
+  },
+  {
+   "key": "niche_静岡_3/main.jpg"
+  },
+  {
+   "key": "niche_石川_6/main.jpg"
+  },
+  {
+   "key": "niche_千葉_2/main.jpg"
+  },
+  {
+   "key": "niche_千葉_5/main.jpg"
+  },
+  {
+   "key": "niche_大阪_1/main.jpg"
+  },
+  {
+   "key": "niche_大阪_2/main.jpg"
+  },
+  {
+   "key": "niche_大阪_3/main.jpg"
+  },
+  {
+   "key": "niche_大分_1/main.jpg"
+  },
+  {
+   "key": "niche_大分_2/main.jpg"
+  },
+  {
+   "key": "niche_大分_5/main.jpg"
+  },
+  {
+   "key": "niche_長崎_3/main.jpg"
+  },
+  {
+   "key": "niche_長野_4/main.jpg"
+  },
+  {
+   "key": "niche_鳥取_2/main.jpg"
+  },
+  {
+   "key": "niche_鳥取_8/main.jpg"
+  },
+  {
+   "key": "niche_島根_1/main.jpg"
+  },
+  {
+   "key": "niche_島根_4/main.jpg"
+  },
+  {
+   "key": "niche_島根_6/main.jpg"
+  },
+  {
+   "key": "niche_徳島_2/main.jpg"
+  },
+  {
+   "key": "niche_栃木_4/main.jpg"
+  },
+  {
+   "key": "niche_奈良_2/main.jpg"
+  },
+  {
+   "key": "niche_奈良_3/main.jpg"
+  },
+  {
+   "key": "niche_奈良_4/main.jpg"
+  },
+  {
+   "key": "niche_富山_3/main.jpg"
+  },
+  {
+   "key": "niche_福井_1/main.jpg"
+  },
+  {
+   "key": "niche_福井_2/main.jpg"
+  },
+  {
+   "key": "niche_福井_3/main.jpg"
+  },
+  {
+   "key": "niche_福井_4/main.jpg"
+  },
+  {
+   "key": "niche_福島_1/main.jpg"
+  },
+  {
+   "key": "niche_福島_4/main.jpg"
+  },
+  {
+   "key": "niche_兵庫_2/main.jpg"
+  },
+  {
+   "key": "niche_兵庫_4/main.jpg"
+  },
+  {
+   "key": "niche_兵庫_6/main.jpg"
+  },
+  {
+   "key": "niche_和歌山_3/main.jpg"
+  },
+  {
+   "key": "niche_和歌山_6/main.jpg"
+  },
+  {
+   "key": "niche_和歌山_8/main.jpg"
+  },
+  {
+   "key": "niimi/main.jpg"
+  },
+  {
+   "key": "nima/spot-3.jpg"
+  },
+  {
+   "key": "niseko/main.jpg"
+  },
+  {
+   "key": "nobeoka/spot-2.jpg"
+  },
+  {
+   "key": "noko-island/spot-3.jpg"
+  },
+  {
+   "key": "noto-kiriko/main.jpg"
+  },
+  {
+   "key": "nozawa-onsen-niigata/spot-2.jpg"
+  },
+  {
+   "key": "numata/spot-3.jpg"
+  },
+  {
+   "key": "nyukasa/main.jpg"
+  },
+  {
+   "key": "nyukasa/spot-3.jpg"
+  },
+  {
+   "key": "oarai/main.jpg"
+  },
+  {
+   "key": "obihiro/main.jpg"
+  },
+  {
+   "key": "ofunato/spot-3.jpg"
+  },
+  {
+   "key": "ogijima/main.jpg"
+  },
+  {
+   "key": "ogose/main.jpg"
+  },
+  {
+   "key": "ohara/main.jpg"
+  },
+  {
+   "key": "oirase/spot-4.jpg"
+  },
+  {
+   "key": "oita/main.jpg"
+  },
+  {
+   "key": "ojika-island/spot-2.jpg"
+  },
+  {
+   "key": "okayama-city/main.jpg"
+  },
+  {
+   "key": "okazaki/spot-3.jpg"
+  },
+  {
+   "key": "okitama/spot-1.jpg"
+  },
+  {
+   "key": "okunoshima/spot-1.jpg"
+  },
+  {
+   "key": "omaezaki/spot-2.jpg"
+  },
+  {
+   "key": "omagari/spot-3.jpg"
+  },
+  {
+   "key": "ono-fukui/main.jpg"
+  },
+  {
+   "key": "otari-onsen/main.jpg"
+  },
+  {
+   "key": "otoyo/spot-1.jpg"
+  },
+  {
+   "key": "oyu-onsen-akita/main.jpg"
+  },
+  {
+   "key": "rikuzentakata/main.jpg"
+  },
+  {
+   "key": "saga/main.jpg"
+  },
+  {
+   "key": "saiko/main.jpg"
+  },
+  {
+   "key": "sakai/main.jpg"
+  },
+  {
+   "key": "senjojiki-aomori/spot-3.jpg"
+  },
+  {
+   "key": "senri-bamboo/spot-1.jpg"
+  },
+  {
+   "key": "senri/main.jpg"
+  },
+  {
+   "key": "shigaraki-2-pottery/main.jpg"
+  },
+  {
+   "key": "shiibamura/spot-3.jpg"
+  },
+  {
+   "key": "shikotsu/spot-3.jpg"
+  },
+  {
+   "key": "shima/spot-2.jpg"
+  },
+  {
+   "key": "shima/spot-3.jpg"
+  },
+  {
+   "key": "shimokita/main.jpg"
+  },
+  {
+   "key": "shinjou/main.jpg"
+  },
+  {
+   "key": "shiobara-onsen/spot-1.jpg"
+  },
+  {
+   "key": "shirahama/main.jpg"
+  },
+  {
+   "key": "shiraoishi/spot-3.jpg"
+  },
+  {
+   "key": "shiroyone-senmaida/spot-2.jpg"
+  },
+  {
+   "key": "shishikui/spot-1.jpg"
+  },
+  {
+   "key": "shizu-shimizu/main.jpg"
+  },
+  {
+   "key": "sozogi/main.jpg"
+  },
+  {
+   "key": "sozogi/spot-1.jpg"
+  },
+  {
+   "key": "sozogi/spot-2.jpg"
+  },
+  {
+   "key": "suo-oshima/spot-3.jpg"
+  },
+  {
+   "key": "suwa/main.jpg"
+  },
+  {
+   "key": "tajimi/main.jpg"
+  },
+  {
+   "key": "tajimi/spot-1.jpg"
+  },
+  {
+   "key": "takachihogo-shishiku/spot-3.jpg"
+  },
+  {
+   "key": "takarakawa-onsen/spot-2.jpg"
+  },
+  {
+   "key": "takashima-shiga/main.jpg"
+  },
+  {
+   "key": "takatsuki/main.jpg"
+  },
+  {
+   "key": "tango-kyoto/main.jpg"
+  },
+  {
+   "key": "tango-kyoto/spot-1.jpg"
+  },
+  {
+   "key": "taro/main.jpg"
+  },
+  {
+   "key": "taro/spot-1.jpg"
+  },
+  {
+   "key": "tateyama-chiba/spot-3.jpg"
+  },
+  {
+   "key": "tateyama-toyama/main.jpg"
+  },
+  {
+   "key": "tatsuno/main.jpg"
+  },
+  {
+   "key": "tendou/main.jpg"
+  },
+  {
+   "key": "teshima/main.jpg"
+  },
+  {
+   "key": "toba/spot-4.jpg"
+  },
+  {
+   "key": "tokyo/main.jpg"
+  },
+  {
+   "key": "tomakomai/main.jpg"
+  },
+  {
+   "key": "tondabayashi/spot-3.jpg"
+  },
+  {
+   "key": "toshima/main.jpg"
+  },
+  {
+   "key": "toshima/spot-1.jpg"
+  },
+  {
+   "key": "tottori-sakyu/spot-3.jpg"
+  },
+  {
+   "key": "towada-lake/spot-2.jpg"
+  },
+  {
+   "key": "toyohashi/main.jpg"
+  },
+  {
+   "key": "toyota-city/main.jpg"
+  },
+  {
+   "key": "tsubamesanjo/main.jpg"
+  },
+  {
+   "key": "tsuchiura/main.jpg"
+  },
+  {
+   "key": "tsuchiura/spot-1.jpg"
+  },
+  {
+   "key": "tsumari/main.jpg"
+  },
+  {
+   "key": "tsunan/main.jpg"
+  },
+  {
+   "key": "tsunan/spot-1.jpg"
+  },
+  {
+   "key": "tsunan/spot-3.jpg"
+  },
+  {
+   "key": "tsuruoka-kinzan/main.jpg"
+  },
+  {
+   "key": "tsuyama/main.jpg"
+  },
+  {
+   "key": "ube/spot-3.jpg"
+  },
+  {
+   "key": "uchiko/main.jpg"
+  },
+  {
+   "key": "ukujima/spot-2.jpg"
+  },
+  {
+   "key": "uozu/main.jpg"
+  },
+  {
+   "key": "ureshino-onsen/spot-2.jpg"
+  },
+  {
+   "key": "ushibuka/spot-3.jpg"
+  },
+  {
+   "key": "usuki/main.jpg"
+  },
+  {
+   "key": "uwajima/spot-2.jpg"
+  },
+  {
+   "key": "wakkanai/main.jpg"
+  },
+  {
+   "key": "yaizu/main.jpg"
+  },
+  {
+   "key": "yamaguchi-city/main.jpg"
+  },
+  {
+   "key": "yanai/spot-1.jpg"
+  },
+  {
+   "key": "yatsushiro/main.jpg"
+  },
+  {
+   "key": "yoichi/spot-3.jpg"
+  },
+  {
+   "key": "yorojima/spot-1.jpg"
+  },
+  {
+   "key": "yorojima/spot-2.jpg"
+  },
+  {
+   "key": "yura-wakayama/main.jpg"
+  },
+  {
+   "key": "zushi/main.jpg"
+  },
+  {
+   "key": "gen_北海_網走湖畔温泉/spot-1.jpg"
+  },
+  {
+   "key": "goshogawara/main.jpg"
+  },
+  {
+   "key": "honjima/spot-3.jpg"
+  },
+  {
+   "key": "ie-island/spot-2.jpg"
+  },
+  {
+   "key": "iga-ueno/main.jpg"
+  },
+  {
+   "key": "ikeda-osaka/main.jpg"
+  },
+  {
+   "key": "ikuno/main.jpg"
+  },
+  {
+   "key": "innoshima/spot-3.jpg"
+  },
+  {
+   "key": "irabu-island/spot-3.jpg"
+  },
+  {
+   "key": "isesaki/main.jpg"
+  },
+  {
+   "key": "kagawa-takamatsu/spot-3.jpg"
+  },
+  {
+   "key": "kisakata/spot-2.jpg"
+  },
+  {
+   "key": "kurobe/spot-2.jpg"
+  }
+ ],
+ "skipped": [],
+ "errors": []
+}
