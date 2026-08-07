@@ -184402,18 +184402,17 @@
       "東京"
     ],
     "weight": 0.8,
-    "description": "唐沢山神社へ続く参道は、藤原秀郷が築いたとされる唐沢山城の面影を残す老杉の列柱だ。石畳を踏むたび、足裏へ冷たい湿気と苔むした石段の青臭い香りが伝わり、深い緑の回廊へ引き込まれる。ここでしか味わえないのは、戦国期の城跡に鎮座する古社への三百段を超える石段参道と、山頂から関東平野を見渡す眺望だ。門前には佐野らしい平打ちの郷土蕎麦を供す老舗が軒を連ね、蔵造りの通りには江戸期の商家が残る。晩秋には社叢の落葉が石畳を赤く染める。拠点は宇都宮駅。",
+    "description": "唐沢山神社へ続く参道は、藤原秀郷が築いたとされる唐沢山城の面影を残す老杉の列柱だ。石畳を踏むたび、足裏へ冷たい湿気と苔むした石段の青臭い香りが伝わり、深い緑の回廊へ引き込まれる。ここでしか味わえないのは、戦国期の城跡に鎮座する古社への三百段を超える石段参道と、山頂から関東平野を見渡す眺望だ。門前には佐野らしい平打ちの郷土蕎麦を供す老舗が軒を連ね、蔵造りの通りには江戸期の商家が残る。晩秋には社叢の落葉が石畳を赤く染める。拠点は佐野駅。",
     "tags": [
       "古い町並み",
       "神社参道",
-      "蕎麦",
-      "利根川沿い"
+      "蕎麦"
     ],
     "spots": [
       {
         "name": "唐沢山神社",
         "description": "山頂に鎮座する古社。三百段以上の石段参道を登れば、戦国期の城跡と山頂からの壮観な眺望が待つ。",
-        "googleMapsQuery": "唐沢山神社 群馬県",
+        "googleMapsQuery": "唐沢山神社 栃木県佐野市",
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/%E2%91%A1%E5%94%90%E6%B2%A2%E5%B1%B1%E3%83%BB%E5%94%90%E6%BE%A4%E5%B1%B1%E7%A5%9E%E7%A4%BE_%28%E7%B4%85%E8%91%89%29.jpg/1280px-%E2%91%A1%E5%94%90%E6%B2%A2%E5%B1%B1%E3%83%BB%E5%94%90%E6%BE%A4%E5%B1%B1%E7%A5%9E%E7%A4%BE_%28%E7%B4%85%E8%91%89%29.jpg",
         "imageCredit": {
           "author": "Sanosightseeing",
@@ -184425,7 +184424,7 @@
       {
         "name": "佐野市街地の蔵造り通り",
         "description": "江戸期の商家が残る通り。古い建物に点在するカフェや工芸店で、時が止まったような雰囲気を味わえる。",
-        "googleMapsQuery": "佐野市街地の蔵造り通り 群馬県",
+        "googleMapsQuery": "佐野市街地の蔵造り通り 栃木県佐野市",
         "imageUrl": "/images/spots/niche_群馬_1/1.jpg"
       },
       {
@@ -184436,10 +184435,10 @@
     ],
     "shinkansenAccess": false,
     "requiresCar": false,
-    "hotelSearch": "三毳山麓の古い門前町・佐野",
+    "hotelSearch": "佐野",
     "gateways": {
       "rail": [
-        "高崎駅"
+        "佐野駅"
       ],
       "airport": [],
       "bus": [],
@@ -184448,56 +184447,56 @@
     "accessHub": null,
     "railNote": null,
     "destType": "historic",
-    "railGateway": "高崎駅",
+    "railGateway": "佐野駅",
     "busGateway": null,
     "ferryGateway": null,
     "airportGateway": null,
     "prefecture": "栃木県",
-    "lat": 36.3086803,
-    "lng": 139.0247559,
+    "lat": 36.35378056,
+    "lng": 139.60084722,
     "stayBias": 1,
     "airportHub": null,
-    "railProvider": "e5489",
+    "railProvider": "ekinet",
     "travelTime": {
       "tokyo": 180
     },
     "stayRecommendation": "daytrip",
     "secondaryTransport": null,
     "city": "佐野市",
-    "hubStation": "宇都宮駅",
-    "accessStation": "高崎駅",
-    "hotelArea": "群馬",
+    "hubStation": "佐野駅",
+    "accessStation": "佐野駅",
+    "hotelArea": "tochigi",
     "jalanPath": null,
-    "hotelKeyword": "三毳山麓の古い門前町・佐野",
+    "hotelKeyword": "佐野",
     "access": {
       "steps": [
         {
           "type": "rail",
-          "to": "高崎駅",
-          "provider": "e5489"
+          "to": "佐野駅",
+          "provider": "えきねっと"
         }
       ]
     },
-    "fallbackCity": "前橋",
-    "gateway": "高崎駅",
+    "fallbackCity": "佐野",
+    "gateway": "佐野駅",
     "gatewayStations": [
       {
-        "name": "高崎駅",
+        "name": "佐野駅",
         "type": "rail",
         "priority": 1
       }
     ],
     "localAccess": {
       "type": "walk",
-      "description": "高崎駅から路線バス・車",
-      "to": "高崎駅"
+      "description": "佐野駅から路線バス・車",
+      "to": "佐野駅"
     },
     "situations": [
       "solo",
       "couple",
       "friends"
     ],
-    "catch": "利根川が流れる古い宿場町で",
+    "catch": "戦国の城跡へ続く石段と、蕎麦の香る門前町。",
     "primary": [
       "古い町並み",
       "神社参道",
@@ -184509,25 +184508,25 @@
     "mapPoint": "唐沢山神社",
     "subType": "historic",
     "stayDescription": "",
-    "hubCity": "前橋",
+    "hubCity": "佐野",
     "stayPriority": "medium",
-    "representativeStation": "高崎駅",
+    "representativeStation": "佐野駅",
     "finalAccess": {
       "type": "walk"
     },
     "accessPoint": {
       "type": "station",
-      "name": "高崎"
+      "name": "佐野"
     },
     "staySearchUrl": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%25E4%25B8%2589%25E6%25AF%25B3%25E5%25B1%25B1%25E9%25BA%2593%25E3%2581%25AE%25E5%258F%25A4%25E3%2581%2584%25E9%2596%2580%25E5%2589%258D%25E7%2594%25BA%25E3%2583%25BB%25E4%25BD%2590%25E9%2587%258E",
     "bookingStation": {
-      "name": "高崎駅",
+      "name": "佐野駅",
       "company": "JR"
     },
     "mainSpot": "唐沢山神社",
     "stayArea": {
-      "rakuten": "三毳山麓の古い門前町・佐野",
-      "jalan": "三毳山麓の古い門前町・佐野"
+      "rakuten": "佐野",
+      "jalan": "佐野"
     },
     "hotelLinks": {
       "rakuten": "https://travel.rakuten.co.jp/yado/tochigi/",
@@ -210894,11 +210893,6 @@
     "icCard": "suica",
     "tier2": "area",
     "hubName": "山形",
-    "unsplashUrl": "https://images.unsplash.com/photo-1739609718564-6b01cc6442b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTglODIlOTglRTYlOEElOTglRTYlQjglQTklRTYlQjMlODklMjAlRTUlQjElQjElRTUlQkQlQTIlRTclOUMlOEMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODQwOTUyNXww&ixlib=rb-4.1.0&q=80&w=1080",
-    "unsplashThumbUrl": "https://images.unsplash.com/photo-1739609718564-6b01cc6442b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDIyNTB8MHwxfHNlYXJjaHwxfHwlRTglODIlOTglRTYlOEElOTglRTYlQjglQTklRTYlQjMlODklMjAlRTUlQjElQjElRTUlQkQlQTIlRTclOUMlOEMlMjAlRTklQTIlQTglRTYlOTklQUZ8ZW58MHwwfHx8MTc3ODQwOTUyNXww&ixlib=rb-4.1.0&q=80&w=400",
-    "unsplashCredit": "HANVIN CHEONG",
-    "unsplashCreditUrl": "https://unsplash.com/@hktram0311?utm_source=dokoiko&utm_medium=referral",
-    "unsplashPhotoUrl": "https://unsplash.com/photos/a-city-street-at-night-with-people-walking-on-the-sidewalk-mXsL2M5fsL8?utm_source=dokoiko&utm_medium=referral",
     "rentalCarRecommended": true,
     "reasonChips": [
       "温泉",
@@ -210909,6 +210903,12 @@
       "秘境感あり",
       "ゆっくり滞在"
     ],
-    "bestSeason": "秋"
+    "bestSeason": "秋",
+    "imageCredit": {
+      "author": "Soica2001 (talk)",
+      "license": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File:Ubayu_roten.jpg",
+      "attributionRequired": true
+    }
   }
 ]
