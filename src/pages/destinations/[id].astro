@@ -141,8 +141,11 @@ const HUB_CITY_TO_PREF: Record<string, string> = {
   '旭川': 'hokkaido', '釧路': 'hokkaido', '稚内': 'hokkaido',
 };
 
+// 楽天のキーワード検索。yado/japan.html?f_query= は現在キーワードが効かず
+// 「地図から探す」トップ相当に着地してしまうため、実際に検索結果が返る
+// キーワード検索エンドポイント（楽天トラベル公式の検索フォーム送信先）を使う。
 function buildRakutenUrl(keyword: string): string {
-  const target = `https://travel.rakuten.co.jp/yado/japan.html?f_query=${encodeURIComponent(keyword)}`;
+  const target = `https://kw.travel.rakuten.co.jp/keyword/Search.do?f_query=${encodeURIComponent(keyword)}`;
   return `${RAKUTEN_AFF}?pc=${encodeURIComponent(target)}`;
 }
 function buildRakutenPrefUrl(prefSlug: string): string {
