@@ -6573,10 +6573,10 @@
     "featured_stay": {
       "name": "西村屋本館",
       "catchcopy": "江戸安政創業。城崎を代表する数寄屋造りの老舗",
-      "jalanUrl": "https://www.jalan.net/yad386200/",
       "hasShuttle": true,
       "shuttleInfo": "城崎温泉駅から送迎あり（特急到着時間帯・要連絡）",
-      "accessStation": "城崎温泉駅"
+      "accessStation": "城崎温泉駅",
+      "rakutenUrl": "https://travel.rakuten.co.jp/HOTEL/75399/75399.html"
     }
   },
   {
@@ -45892,7 +45892,7 @@
       "catchcopy": "大洗磯前神社の杜のそば、波打ち際に建つ全八室の静謐な海辺の別邸",
       "hasShuttle": false,
       "accessStation": "鹿島臨海鉄道 大洗駅",
-      "jalanUrl": "https://www.jalan.net/yad325639/"
+      "rakutenUrl": "https://travel.rakuten.co.jp/HOTEL/136101/136101.html"
     }
   },
   {
@@ -58204,8 +58204,7 @@
       "name": "鯛屋旅館",
       "catchcopy": "旧参宮街道の旅籠の風情を残す創業220年の老舗。名物松阪肉すき焼きも",
       "hasShuttle": false,
-      "accessStation": "JR・近鉄松阪駅",
-      "jalanUrl": "https://www.jalan.net/yad317487/"
+      "accessStation": "JR・近鉄松阪駅"
     }
   },
   {
@@ -65280,7 +65279,7 @@
     "busGateway": null,
     "ferryGateway": null,
     "airportGateway": null,
-    "prefecture": "山形県",
+    "prefecture": "新潟県",
     "lat": 36.9082,
     "lng": 138.1827,
     "stayBias": 1,
@@ -127285,8 +127284,8 @@
     "ferryGateway": "萩港",
     "airportGateway": null,
     "prefecture": "山口県",
-    "lat": 34.6667,
-    "lng": 130.2167,
+    "lat": 34.77511,
+    "lng": 131.142,
     "stayBias": 1,
     "airportHub": null,
     "railProvider": "e5489",
@@ -140308,7 +140307,7 @@
     "busGateway": null,
     "ferryGateway": null,
     "airportGateway": null,
-    "prefecture": "愛媛県",
+    "prefecture": "高知県",
     "city": "土佐清水市",
     "lat": 32.7833,
     "lng": 132.9833,
@@ -148924,8 +148923,8 @@
       "1night",
       "2night"
     ],
-    "lat": 32.7278,
-    "lng": 132.2339,
+    "lat": 33.16,
+    "lng": 132.295,
     "tags": [
       "島",
       "自然",
@@ -150729,8 +150728,8 @@
       "1night",
       "2night"
     ],
-    "lat": 34,
-    "lng": 134.8417,
+    "lat": 34.1681,
+    "lng": 134.8258,
     "tags": [
       "島",
       "神話",
@@ -156245,7 +156244,7 @@
       "catchcopy": "三千院門前に佇む湯元の宿。京野菜と山里の旬味、大原温泉に癒される里の休日",
       "hasShuttle": true,
       "accessStation": "京都バス「大原」バス停から徒歩約10分",
-      "jalanUrl": "https://www.jalan.net/yad304000/",
+      "jalanUrl": "https://www.jalan.net/yad334930/",
       "shuttleInfo": "大原バスターミナルから送迎あり（要事前連絡）"
     }
   },
@@ -160783,7 +160782,7 @@
       "catchcopy": "紅葉の大原で味わう静寂。三千院まで徒歩すぐ、料理自慢の温泉宿で山里ステイ",
       "hasShuttle": true,
       "accessStation": "京都バス「大原」バス停から徒歩約10分",
-      "jalanUrl": "https://www.jalan.net/yad304000/",
+      "jalanUrl": "https://www.jalan.net/yad334930/",
       "shuttleInfo": "大原バスターミナルから送迎あり（要事前連絡）"
     }
   },
@@ -167761,8 +167760,8 @@
     "id": "matsuba-gani",
     "name": "松葉ガニ",
     "type": "destination",
-    "region": "中国",
-    "prefecture": "鳥取県",
+    "region": "近畿",
+    "prefecture": "兵庫県",
     "hub": "大阪",
     "hubName": "大阪",
     "hubCity": "大阪",
@@ -188297,8 +188296,8 @@
     "ferryGateway": null,
     "airportGateway": null,
     "prefecture": "岐阜県",
-    "lat": 36.1610034,
-    "lng": 139.4691607,
+    "lat": 36.1353,
+    "lng": 136.81678,
     "stayBias": 1,
     "airportHub": null,
     "railProvider": "e5489",
@@ -193423,8 +193422,8 @@
     "ferryGateway": null,
     "airportGateway": null,
     "prefecture": "長野県",
-    "lat": 35.334067,
-    "lng": 136.795383,
+    "lat": 35.57667,
+    "lng": 137.59528,
     "stayBias": 1,
     "airportHub": null,
     "railProvider": "e5489",
@@ -202161,8 +202160,8 @@
     "ferryGateway": null,
     "airportGateway": null,
     "prefecture": "福岡県",
-    "lat": 38.1687502,
-    "lng": 140.710806,
+    "lat": 33.47611,
+    "lng": 130.92611,
     "stayBias": 1,
     "airportHub": null,
     "railProvider": "e5489",
@@ -202329,8 +202328,8 @@
     "ferryGateway": null,
     "airportGateway": null,
     "prefecture": "福岡県",
-    "lat": 38.1687502,
-    "lng": 140.710806,
+    "lat": 33.74219,
+    "lng": 130.80389,
     "stayBias": 1,
     "airportHub": null,
     "railProvider": "e5489",
@@ -202949,13 +202948,15 @@
     "name": "鶴御崎灯台",
     "type": "destination",
     "region": "九州",
-    "hub": "長崎",
+    "hub": "福岡",
     "stayAllowed": [
       "daytrip",
       "1night"
     ],
     "departures": [
-      "長崎"
+      "福岡",
+      "大分",
+      "別府"
     ],
     "weight": 0.8,
     "description": "佐伯市の最南端、豊後水道へ突き出た鶴御崎に立つ白亜の灯台は、潮風が頬を叩く遊歩道を20分ほど歩いた先に現れる。眼下では黒潮がぶつかり合い、海面がエメラルドと群青に激しく混ざり合う。灯台下のカフェでは地元の柑橘を絞った手作りジュースが疲れた足を癒し、テラスから望む水平線は視界いっぱいに広がる、ここでしか味わえない眺めだ。漁師小屋を改造した土産店には宇目地区の干し椎茸や番匠川流域の棚田米が並ぶ。観光地化されていない素朴さが最大の引力。拠点は長崎駅で、鉄道でアクセスできる。",
@@ -202969,7 +202970,7 @@
       {
         "name": "鶴御崎灯台",
         "description": "海を360度見渡す白い灯台。灯台下の磯では季節の貝類を採集でき、複雑な地形が織りなす景観も秀逸で磯遊びも楽しめる。",
-        "googleMapsQuery": "鶴御崎灯台 長崎県",
+        "googleMapsQuery": "鶴御崎灯台 大分県佐伯市",
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/%E9%B6%B4%E5%BE%A1%E5%9F%BC%E7%81%AF%E5%8F%B0_-_panoramio.jpg/1280px-%E9%B6%B4%E5%BE%A1%E5%9F%BC%E7%81%AF%E5%8F%B0_-_panoramio.jpg",
         "imageCredit": {
           "author": "sk01",
@@ -202981,7 +202982,7 @@
       {
         "name": "灯台下カフェ・漁師小屋改造店",
         "description": "灯台の麓に構える漁師小屋改造のカフェ。潮の香りが漂う窓から湾を眺めながら、地場野菜の弁当と手作り菓子をいただける。",
-        "googleMapsQuery": "灯台下カフェ・漁師小屋改造店 長崎県",
+        "googleMapsQuery": "灯台下カフェ・漁師小屋改造店 大分県佐伯市",
         "imageUrl": "/images/spots/niche_長崎_3/1.jpg"
       },
       {
@@ -202992,10 +202993,10 @@
     ],
     "shinkansenAccess": false,
     "requiresCar": false,
-    "hotelSearch": "川棚町・鶴御崎灯台周辺",
+    "hotelSearch": "佐伯",
     "gateways": {
       "rail": [
-        "長崎駅"
+        "佐伯駅"
       ],
       "airport": [],
       "bus": [],
@@ -203004,58 +203005,75 @@
     "accessHub": null,
     "railNote": null,
     "destType": "sight",
-    "railGateway": "長崎駅",
+    "railGateway": "佐伯駅",
     "busGateway": null,
     "ferryGateway": null,
     "airportGateway": null,
     "prefecture": "大分県",
-    "lat": 33.0745898,
-    "lng": 129.8532263,
+    "lat": 32.93314,
+    "lng": 132.08539,
     "stayBias": 1,
     "airportHub": null,
-    "railProvider": "e5489",
+    "railProvider": "jrkyushu",
     "travelTime": {
-      "fukuoka": 90,
-      "shimonoseki": 170,
-      "saga": 170
+      "tokyo": 360,
+      "osaka": 270,
+      "nagoya": 320,
+      "fukuoka": 120,
+      "takamatsu": 220,
+      "mito": 405,
+      "maebashi": 420,
+      "takasaki": 420,
+      "hamamatsu": 350,
+      "gifu": 340,
+      "kofu": 450,
+      "shingu": 390,
+      "tanabe": 360,
+      "shirahama": 370,
+      "kushimoto": 390,
+      "tottori": 390,
+      "shimonoseki": 150,
+      "saga": 150,
+      "oita": 180,
+      "beppu": 190
     },
     "stayRecommendation": "daytrip",
     "secondaryTransport": null,
-    "city": "川棚町",
-    "hubStation": "長崎駅",
-    "accessStation": "長崎駅",
-    "hotelArea": "長崎",
+    "city": "佐伯市",
+    "hubStation": "佐伯駅",
+    "accessStation": "佐伯駅",
+    "hotelArea": "oita",
     "jalanPath": null,
-    "hotelKeyword": "川棚町・鶴御崎灯台周辺",
+    "hotelKeyword": "佐伯",
     "access": {
       "steps": [
         {
           "type": "rail",
-          "to": "長崎駅",
-          "provider": "e5489"
+          "to": "佐伯駅",
+          "provider": "九州ネット予約"
         }
       ]
     },
-    "fallbackCity": "長崎",
-    "gateway": "長崎駅",
+    "fallbackCity": "大分",
+    "gateway": "佐伯駅",
     "gatewayStations": [
       {
-        "name": "長崎駅",
+        "name": "佐伯駅",
         "type": "rail",
         "priority": 1
       }
     ],
     "localAccess": {
       "type": "walk",
-      "description": "長崎駅から路線バス・車",
-      "to": "長崎駅"
+      "description": "佐伯駅から路線バス・車",
+      "to": "佐伯駅"
     },
     "situations": [
       "solo",
       "couple",
       "friends"
     ],
-    "catch": "大村湾に面した半農村・半漁村",
+    "catch": "豊後水道へ突き出た岬に立つ、白亜の灯台。",
     "primary": [
       "岬",
       "灯台",
@@ -203067,25 +203085,24 @@
     "mapPoint": "鶴御崎灯台",
     "subType": "sight",
     "stayDescription": "",
-    "hubCity": "長崎",
+    "hubCity": "佐伯",
     "stayPriority": "medium",
-    "representativeStation": "長崎駅",
+    "representativeStation": "佐伯駅",
     "finalAccess": {
       "type": "walk"
     },
     "accessPoint": {
       "type": "station",
-      "name": "長崎"
+      "name": "佐伯"
     },
-    "staySearchUrl": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%25E5%25B7%259D%25E6%25A3%259A%25E7%2594%25BA%25E3%2583%25BB%25E9%25B6%25B4%25E5%25BE%25A1%25E5%25B4%258E%25E7%2581%25AF%25E5%258F%25B0%25E5%2591%25A8%25E8%25BE%25BA",
     "bookingStation": {
-      "name": "長崎駅",
+      "name": "佐伯駅",
       "company": "JR"
     },
     "mainSpot": "鶴御崎灯台",
     "stayArea": {
-      "rakuten": "川棚町・鶴御崎灯台周辺",
-      "jalan": "川棚町・鶴御崎灯台周辺"
+      "rakuten": "佐伯",
+      "jalan": "佐伯"
     },
     "hotelLinks": {
       "rakuten": "https://travel.rakuten.co.jp/yado/oita/",
@@ -203094,7 +203111,7 @@
     "tier": "spot",
     "icCard": null,
     "tier2": "niche",
-    "hubName": "長崎",
+    "hubName": "福岡",
     "rentalCarRecommended": false,
     "images": [
       "/images/niche_長崎_3/main.jpg"
