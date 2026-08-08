@@ -480,7 +480,12 @@
       {
         "name": "時代村",
         "description": "村全体が江戸の時間旅行装置。忍者屋敷の仕掛けや真田忍者隊・花魁の実演で、時代の空気を体感できる。",
-        "imageUrl": "/images/gen_栃木_時代村/main.jpg"
+        "imageUrl": "/images/spots/nikko/3.jpg",
+        "imageCredit": {
+          "author": "Abasaa",
+          "license": "Public domain",
+          "url": "https://commons.wikimedia.org/wiki/File:Edo_Wonderland_Nikko_Edomura_01.JPG"
+        }
       }
     ],
     "shinkansenAccess": false,
@@ -1875,7 +1880,12 @@
       {
         "name": "ハーモニーランド",
         "description": "丘の上のサンリオのテーマパーク。キャラクターと触れ合え、丘からは日出の町と豊後水道を望める。",
-        "imageUrl": "/images/miharashidai/main.jpg"
+        "imageUrl": "/images/spots/beppu/6.jpg",
+        "imageCredit": {
+          "author": "Panoraman on Panoramio",
+          "license": "CC BY-SA 3.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Harmony_Land_01.jpg"
+        }
       }
     ],
     "shinkansenAccess": false,
@@ -2137,7 +2147,12 @@
       {
         "name": "キロロリゾート",
         "description": "札幌から車で約1時間。年間平均積雪約10m超、世界トップクラスと言われるパウダースノーを滑れる。",
-        "imageUrl": "/images/gen_北海_キロロリゾート/main.jpg"
+        "imageUrl": "/images/spots/otaru/5.jpg",
+        "imageCredit": {
+          "author": "星組背番号10",
+          "license": "CC BY-SA 3.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Kiroro_Resort.JPG"
+        }
       }
     ],
     "shinkansenAccess": false,
@@ -10840,7 +10855,12 @@
       {
         "name": "のぼりべつクマ牧場",
         "description": "ヒグマを間近に見られる山頂の牧場。クマせんべいの餌やりは体験して損なし。開園直後か14時以降が空いている。",
-        "imageUrl": "/images/gen_北海_のぼりべつクマ牧場/main.jpg"
+        "imageUrl": "/images/spots/noboribetsu/3.jpg",
+        "imageCredit": {
+          "author": "Ted Chi さん https://www.flickr.com/photos/ted_chi/",
+          "license": "CC BY 2.0",
+          "url": "https://commons.wikimedia.org/wiki/File:%E3%81%AE%E3%81%BC%E3%82%8A%E3%81%B9%E3%81%A4%E3%82%AF%E3%83%9E%E7%89%A7%E5%A0%B414_Noboribetsu_bear_park.jpg"
+        }
       }
     ],
     "shinkansenAccess": false,
@@ -12539,7 +12559,12 @@
       {
         "name": "ハウステンボス",
         "description": "運河沿いに色とりどりの建物が並ぶオランダの街並み。季節の花の香りと、数百万のイルミネーションが夜を彩る。",
-        "imageUrl": "/images/huis-ten-bosch/main.jpg"
+        "imageUrl": "/images/spots/sasebo/3.jpg",
+        "imageCredit": {
+          "author": "JKT-c",
+          "license": "CC BY 3.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Huis_Ten_Bosch_-_01.jpg"
+        }
       }
     ],
     "shinkansenAccess": false,
@@ -13779,7 +13804,12 @@
       {
         "name": "マザー牧場",
         "description": "房総の丘陵に広がる牧場。羊の毛並みに触れ、搾りたての乳を味わい、太平洋を遠望できる。野菜の直売所も楽しい。",
-        "imageUrl": "/images/mother-farm/main.jpg"
+        "imageUrl": "/images/spots/tateyama-chiba/3.jpg",
+        "imageCredit": {
+          "author": "Bedside Moon",
+          "license": "CC BY-SA 3.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Motherfarm.jpg"
+        }
       }
     ],
     "shinkansenAccess": false,
@@ -21007,7 +21037,12 @@
       {
         "name": "奥之院（高野山）",
         "description": "樹齢500年超の杉林に歴史的人物の墓が20万基並ぶ参道。苔の触感と水音に包まれ、弘法大師御廟まで歩ける。",
-        "imageUrl": "/images/koyasan-okuno-in/main.jpg"
+        "imageUrl": "/images/spots/koyasan/3.jpg",
+        "imageCredit": {
+          "author": "Adam Jones from Kelowna, BC, Canada",
+          "license": "CC BY-SA 2.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Choishi_Path_-_Okunoin_Cemetery_-_Koyasan_-_Japan_-_22_(47949824922).jpg"
+        }
       }
     ],
     "shinkansenAccess": false,
@@ -32080,7 +32115,12 @@
       {
         "name": "あしかがフラワーパーク",
         "description": "カーテンのように、滝のように降り注ぐ藤が空間ごと紫に染める。花の重さと香りに体ごと包まれる体験が待つ。",
-        "imageUrl": "/images/gen_栃木_あしかがフラワーパーク/main.jpg"
+        "imageUrl": "/images/spots/ashikaga/3.jpg",
+        "imageCredit": {
+          "author": "Yoshio Kohara",
+          "license": "CC BY 3.0",
+          "url": "https://commons.wikimedia.org/wiki/File:%E3%81%82%E3%81%97%E3%81%8B%E3%81%8C%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AF_-_panoramio.jpg"
+        }
       }
     ],
     "shinkansenAccess": false,
@@ -40465,7 +40505,12 @@
       {
         "name": "美ら海水族館",
         "description": "ジンベエザメが悠々と泳ぐ大水槽、樹齢数百年の備瀬のフクギ並木、砂の細かなエメラルドビーチ。家族で楽しめる海。",
-        "imageUrl": "/images/motobu-2/main.jpg"
+        "imageUrl": "/images/spots/motobu/3.jpg",
+        "imageCredit": {
+          "author": "Jordy Meow",
+          "license": "CC BY-SA 3.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Okinawa_Aquarium.jpg"
+        }
       }
     ],
     "shinkansenAccess": false,
@@ -43346,12 +43391,22 @@
       {
         "name": "サンタプレゼントパーク",
         "description": "12月、サンタのモニュメントとツリーが彩るスキー場。緩やかな斜面は初心者や家族連れに向き、歓声が雪に響く。",
-        "imageUrl": "/images/gen_北海_サンタプレゼントパーク・マロースゲレンデ/main.jpg"
+        "imageUrl": "/images/spots/obihiro/3.jpg",
+        "imageCredit": {
+          "author": "Wakimasa",
+          "license": "CC BY-SA 3.0",
+          "url": "https://commons.wikimedia.org/wiki/File:%E3%82%B5%E3%83%B3%E3%82%BF%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%83%88%E3%83%91%E3%83%BC%E3%82%AF%E3%83%BB%E3%83%9E%E3%83%AD%E3%83%BC%E3%82%B9%E3%82%B2%E3%83%AC%E3%83%B3%E3%83%872.JPG"
+        }
       },
       {
         "name": "サホロリゾート",
         "description": "新得町の山懐から十勝平野を一望。冬は粉雪のスキー、夏は高原の青草と、季節ごとに大地のスケールを味わえる。",
-        "imageUrl": "/images/gen_北海_サホロリゾート/main.jpg"
+        "imageUrl": "/images/spots/obihiro/4.jpg",
+        "imageCredit": {
+          "author": "wakimasa",
+          "license": "CC0",
+          "url": "https://commons.wikimedia.org/wiki/File:SAHORO_Ski_Area.jpg"
+        }
       }
     ],
     "shinkansenAccess": false,
@@ -55023,7 +55078,12 @@
       {
         "name": "酒々井アウトレット",
         "description": "国内外のブランドが軒を連ねる大型アウトレット。成田山新勝寺まで車で約15分、参拝と買い物を一日で楽しめる。",
-        "imageUrl": "/images/shisui/main.jpg"
+        "imageUrl": "/images/spots/naritasan/3.jpg",
+        "imageCredit": {
+          "author": "Xser21",
+          "license": "CC BY-SA 4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Shisui_Premium_Outlets_illumination.jpg"
+        }
       }
     ],
     "shinkansenAccess": false,
@@ -69581,17 +69641,20 @@
       {
         "name": "ノーザンホースパーク",
         "description": "苫小牧から車で10分、広大な緑の丘にサラブレッドが暮らす。乗馬体験は公式サイトの事前予約が安心。",
-        "imageUrl": "/images/gen_北海_ノーザンホースパーク/main.jpg"
+        "imageUrl": "/images/spots/tomakomai/3.jpg",
+        "imageCredit": {
+          "author": "掬茶",
+          "license": "CC BY-SA 4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Northern_Horse_Park_20260703f.jpg"
+        }
       },
       {
         "name": "二風谷ファミリーランド",
-        "description": "沙流川のほとりにアイヌの文化と自然が息づく。時間がゆっくり流れる、平取町の静かな場所だ。",
-        "imageUrl": "/images/gen_北海_二風谷ファミリーランド/main.jpg"
+        "description": "沙流川のほとりにアイヌの文化と自然が息づく。時間がゆっくり流れる、平取町の静かな場所だ。"
       },
       {
         "name": "日高山岳ビラパーク",
-        "description": "日高山脈の麓、山の冷たさと草の匂いに包まれる。観光地っぽさのない本物の自然に触れられる場所。",
-        "imageUrl": "/images/gen_北海_日高山岳ビラパーク/main.jpg"
+        "description": "日高山脈の麓、山の冷たさと草の匂いに包まれる。観光地っぽさのない本物の自然に触れられる場所。"
       }
     ],
     "shinkansenAccess": false,
@@ -85240,7 +85303,12 @@
       {
         "name": "おきなわワールド",
         "description": "玉泉洞の鍾乳石群に加え、王国村ではガラス作りや陶芸の技に触れ、エイサー演舞の太鼓を肌で感じられる。",
-        "imageUrl": "/images/okinawa-world/main.jpg"
+        "imageUrl": "/images/spots/nanjo-okinawa/3.jpg",
+        "imageCredit": {
+          "author": "funk bass",
+          "license": "CC BY 3.0",
+          "url": "https://commons.wikimedia.org/wiki/File:%E3%81%8A%E3%81%8D%E3%81%AA%E3%82%8F%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89_-_panoramio.jpg"
+        }
       }
     ],
     "shinkansenAccess": false,
@@ -130168,7 +130236,12 @@
       {
         "name": "埼玉県立自然の博物館",
         "description": "岩畳を見下ろす立地の博物館。秩父が海だった時代の化石や樹齢千年超のケヤキの断面に、大地の歴史を学べる。",
-        "imageUrl": "/images/saitama-museum/main.jpg"
+        "imageUrl": "/images/spots/nagatoro/3.jpg",
+        "imageCredit": {
+          "author": "Osumi Akari",
+          "license": "CC BY-SA 4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Similar_Fold_in_Saitama_Museum_of_Natural_History.jpg"
+        }
       }
     ],
     "shinkansenAccess": false,
@@ -131891,7 +131964,12 @@
       {
         "name": "砺波チューリップフェア",
         "description": "100万本の花が公園を埋め尽くす春の祭典。色彩の海と花の蜜の甘い香りに包まれる、砺波の春の主役だ。",
-        "imageUrl": "/images/sankou-bonchi/main.jpg"
+        "imageUrl": "/images/spots/tonami/3.jpg",
+        "imageCredit": {
+          "author": "掬茶",
+          "license": "CC BY-SA 4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Tonami_Tulip_Fair_2019f.jpg"
+        }
       }
     ],
     "shinkansenAccess": false,
@@ -150193,7 +150271,7 @@
       }
     ],
     "mapPoint": "宇久平港",
-    "stayDescription": "民宿・ゲストハウスが中心。佐世保港から高速船約2時間。",
+    "stayDescription": "民宿・ゲストハウスが中心。宿毛市の片島港から定期船約1時間20分。",
     "tier": "spot",
     "icCard": null,
     "tier2": "spot",
@@ -160007,7 +160085,12 @@
       {
         "name": "海王丸パーク",
         "description": "1930年進水の帆船海王丸が係留される港。白い帆に富山湾の風が鳴り、新湊大橋のアーチからは湾の深い青が一望できる。",
-        "imageUrl": "/images/toyama-himi-bridge/main.jpg"
+        "imageUrl": "/images/spots/zuiryuji/3.jpg",
+        "imageCredit": {
+          "author": "SilverHaze",
+          "license": "CC BY-SA 3.0",
+          "url": "https://commons.wikimedia.org/wiki/File:%E6%B5%B7%E7%8E%8B%E4%B8%B8%E3%83%91%E3%83%BC%E3%82%AF_%E5%AF%8C%E5%B1%B1%E7%9C%8C%E5%B0%84%E6%B0%B4%E5%B8%82_-_panoramio.jpg"
+        }
       }
     ],
     "shinkansenAccess": false,
@@ -165245,7 +165328,12 @@
       {
         "name": "やまなみハイウェイ",
         "description": "阿蘇と九重を繋ぐ標高1000m超の天空の道。タデ原湿原のニッコウキスゲが揺れ、久住山を仰ぐ絶景路。",
-        "imageUrl": "/images/kuju-yamanami/main.jpg"
+        "imageUrl": "/images/spots/yufuin-2/3.jpg",
+        "imageCredit": {
+          "author": "mahlervv",
+          "license": "CC BY 3.0",
+          "url": "https://commons.wikimedia.org/wiki/File:%E3%82%84%E3%81%BE%E3%81%AA%E3%81%BF%E3%83%8F%E3%82%A4%E3%82%A6%E3%82%A7%E3%82%A4%E3%81%8B%E3%82%89%E3%81%AE%E5%B1%95%E6%9C%9B_-_panoramio.jpg"
+        }
       }
     ],
     "shinkansenAccess": false,
@@ -170724,7 +170812,12 @@
       {
         "name": "エキスポシティ",
         "description": "太陽の塔を遠くに望む複合施設。NIFRELの水族館フロアからは湿った空気が漂い、生命の営みに触れられる。家族連れで賑わう空間。",
-        "imageUrl": "/images/osaka-banpaku/main.jpg"
+        "imageUrl": "/images/spots/senri/3.jpg",
+        "imageCredit": {
+          "author": "Tokumeigakarinoaoshima",
+          "license": "CC BY-SA 4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:EXPOCITY.jpg"
+        }
       }
     ],
     "shinkansenAccess": false,
@@ -179644,7 +179737,12 @@
       {
         "name": "伏見稲荷大社",
         "description": "朱色が呼吸している。千本鳥居をくぐるたび光が層をなす。奥社奉拝所へ向かう山道では靴底が土を踏み、稲荷山頂上からは京都の街が眼下に広がる。",
-        "imageUrl": "/images/fushimi-2/main.jpg"
+        "imageUrl": "/images/spots/kyoto/3.jpg",
+        "imageCredit": {
+          "author": "kanesue",
+          "license": "CC BY 3.0",
+          "url": "https://commons.wikimedia.org/wiki/File:%E4%BC%8F%E8%A6%8B%E7%A8%B2%E8%8D%B7%E5%A4%A7%E7%A4%BE_-_panoramio_(6).jpg"
+        }
       }
     ],
     "shinkansenAccess": true,
@@ -179890,17 +179988,26 @@
       {
         "name": "梅田スカイビル",
         "description": "空中庭園展望台に昇れば大阪を一望。地上173メートルから見下ろす夜景は光の波のよう。黒川紀章が1993年に完成させた門型建築で、滝見小路の昭和横丁を味わえる。",
-        "imageUrl": "/images/umeda-skyy/main.jpg"
+        "imageUrl": "/images/spots/osaka/3.jpg",
+        "imageCredit": {
+          "author": "kanesue",
+          "license": "CC BY 3.0",
+          "url": "https://commons.wikimedia.org/wiki/File:%E6%A2%85%E7%94%B0%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%93%E3%83%AB_-_panoramio.jpg"
+        }
       },
       {
         "name": "大阪城",
         "description": "豊臣秀吉が築いた天守閣。周囲の公園は桜の名所で、春は花見客で埋まる。天守閣や西の丸庭園、豊國神社など見どころが点在する。",
-        "imageUrl": "/images/osaka-castle/main.jpg"
+        "imageUrl": "/images/spots/osaka/4.jpg",
+        "imageCredit": {
+          "author": "Martin Falbisoner",
+          "license": "CC BY-SA 4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Osaka_Castle_Outer_Moat_and_Osaka_Business_Park,_November_2016.jpg"
+        }
       },
       {
         "name": "心斎橋",
-        "description": "心斎橋筋商店街は大阪の買い物の歴史を歩く道。1920年代から続くアーケードは季節の装飾で表情を変え、アメリカ村の若者の声が交錯する。石畳の感触が心地よい。",
-        "imageUrl": "/images/shinsaibashi/main.jpg"
+        "description": "心斎橋筋商店街は大阪の買い物の歴史を歩く道。1920年代から続くアーケードは季節の装飾で表情を変え、アメリカ村の若者の声が交錯する。石畳の感触が心地よい。"
       }
     ],
     "shinkansenAccess": true,
@@ -180144,22 +180251,30 @@
       {
         "name": "お台場",
         "description": "レインボーブリッジを渡った先は未来と遊園地の約束。1990年代の埋め立てで生まれた東京湾の新しい遊び場で、フジテレビの球体ビルが並び、海沿いに塩辛い風が吹く。",
-        "imageUrl": "/images/odaiba/main.jpg"
+        "imageUrl": "/images/spots/tokyo/3.jpg",
+        "imageCredit": {
+          "author": "Christophe95",
+          "license": "CC BY-SA 4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:View_of_the_Grand_Nikko_Tokyo_Daiba_and_Hilton_Tokyo_Odaiba_from_the_Shiokaze_Park.jpg"
+        }
       },
       {
         "name": "吉祥寺",
-        "description": "武蔵野市の吉祥寺は、多摩地域屈指の繁華街。井の頭恩賜公園の緑、ハーモニカ横丁の路地、吉祥寺サンロードのにぎわいと、歩くほど魅力が広がる一日旅の町。",
-        "imageUrl": "/images/kichijoji/main.jpg"
+        "description": "武蔵野市の吉祥寺は、多摩地域屈指の繁華街。井の頭恩賜公園の緑、ハーモニカ横丁の路地、吉祥寺サンロードのにぎわいと、歩くほど魅力が広がる一日旅の町。"
       },
       {
         "name": "自由が丘",
         "description": "自由が丘に降りると甘い香りが漂う。昭和初期に開発された高級住宅地で、商店街にはスイーツ店やフレンチが並ぶ。九品仏浄真寺の参道を歩けば、喧騒から離れられる。",
-        "imageUrl": "/images/jiyugaoka/main.jpg"
+        "imageUrl": "/images/spots/tokyo/5.jpg",
+        "imageCredit": {
+          "author": "Syced",
+          "license": "CC0",
+          "url": "https://commons.wikimedia.org/wiki/File:Jiyugaoka_1-chome.jpg"
+        }
       },
       {
         "name": "幕張",
-        "description": "東京湾に突き出た幕張は、計画された未来都市の顔。幕張メッセの白い建造物、ZOZOマリンスタジアムの曲線、海浜公園の遊歩道が続き、歩けば塩風と静かな海が迎える。",
-        "imageUrl": "/images/makuhari/main.jpg"
+        "description": "東京湾に突き出た幕張は、計画された未来都市の顔。幕張メッセの白い建造物、ZOZOマリンスタジアムの曲線、海浜公園の遊歩道が続き、歩けば塩風と静かな海が迎える。"
       }
     ],
     "shinkansenAccess": true,
@@ -180643,7 +180758,12 @@
       {
         "name": "アンパンマンミュージアム",
         "description": "やなせたかしが生んだキャラクターたちが待つミュージアム。館内に足を踏み入れると壁の優しい表情に包まれ、絵本の世界と『正義とは何か』という問いに出会える。",
-        "imageUrl": "/images/kochi-anpanman/main.jpg"
+        "imageUrl": "/images/spots/yokohama/4.jpg",
+        "imageCredit": {
+          "author": "Thirteen-fri",
+          "license": "CC BY-SA 4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Yokohama_Anpanman_Children%27s_Museum_2019_-_03.jpg"
+        }
       }
     ],
     "shinkansenAccess": true,
@@ -185120,8 +185240,8 @@
     "ferryGateway": null,
     "airportGateway": null,
     "prefecture": "千葉県",
-    "lat": null,
-    "lng": null,
+    "lat": 35.262023,
+    "lng": 140.159844,
     "stayBias": 1,
     "airportHub": null,
     "railProvider": "e5489",
@@ -186151,8 +186271,8 @@
     "ferryGateway": null,
     "airportGateway": null,
     "prefecture": "東京都",
-    "lat": null,
-    "lng": null,
+    "lat": 35.7925449,
+    "lng": 139.0483594,
     "stayBias": 1,
     "airportHub": null,
     "railProvider": "e5489",
@@ -188131,8 +188251,8 @@
     "ferryGateway": null,
     "airportGateway": null,
     "prefecture": "富山県",
-    "lat": null,
-    "lng": null,
+    "lat": 36.4099428,
+    "lng": 136.9335683,
     "stayBias": 1,
     "airportHub": null,
     "railProvider": "e5489",
@@ -190675,13 +190795,14 @@
     "name": "馬籠宿",
     "type": "destination",
     "region": "中部",
-    "hub": "松本",
+    "hub": "名古屋",
     "stayAllowed": [
       "daytrip",
       "1night"
     ],
     "departures": [
-      "松本"
+      "名古屋",
+      "東京"
     ],
     "weight": 0.8,
     "description": "石畳を歩くと足裏に伝わる石の凹凸が江戸時代の旅人の歩数を思い起こさせる。坂道の両脇に連なる古民家の軒先へ朝霧がゆっくり降り、木材と土壁の湿った匂いを運ぶ。妻籠より人出が少なく、早朝にこそ本来の静寂が戻るのはここならでは。約600m続く急勾配の石畳を上れば、格子戸の家々が軒を連ねる。島崎藤村ゆかりの藤村記念館の前で立てば『夜明け前』の一文がこの峠から生まれた必然を納得させる。中秋には銀杏や楓が石畳を染める。拠点は新幹線の通る長野駅。茶屋では木曽名物の五平餅が味噌だれの香ばしい匂いを漂わせる。",
@@ -190695,13 +190816,13 @@
       {
         "name": "馬籠宿の石畳坂道",
         "description": "急勾配の石畳が約600m続き、格子戸の家々が軒を連ねる。朝霧時の景観がとりわけ美しく、時間を遡る感覚に包まれる。",
-        "googleMapsQuery": "馬籠宿の石畳坂道 長野県",
+        "googleMapsQuery": "馬籠宿の石畳坂道 岐阜県中津川市",
         "imageUrl": "/images/spots/niche_長野_2/0.jpg"
       },
       {
         "name": "芭蕉記念館・坂本家",
         "description": "松尾芭蕉が訪れた当時の宿泊家屋を再現。囲炉裏の古い香りと江戸の旅人の息遣いを感じ、文学的な感動を呼び起こす。",
-        "googleMapsQuery": "芭蕉記念館・坂本家 長野県",
+        "googleMapsQuery": "芭蕉記念館・坂本家 岐阜県中津川市",
         "imageUrl": "/images/spots/niche_長野_2/1.jpg"
       },
       {
@@ -190712,10 +190833,10 @@
     ],
     "shinkansenAccess": true,
     "requiresCar": false,
-    "hotelSearch": "妻籠宿より古い馬籠宿",
+    "hotelSearch": "馬籠宿",
     "gateways": {
       "rail": [
-        "長野駅"
+        "中津川駅"
       ],
       "airport": [],
       "bus": [],
@@ -190724,16 +190845,16 @@
     "accessHub": null,
     "railNote": null,
     "destType": "historic",
-    "railGateway": "長野駅",
+    "railGateway": "中津川駅",
     "busGateway": null,
     "ferryGateway": null,
     "airportGateway": null,
-    "prefecture": "長野県",
-    "lat": null,
-    "lng": null,
+    "prefecture": "岐阜県",
+    "lat": 35.526756,
+    "lng": 137.567611,
     "stayBias": 1,
     "airportHub": null,
-    "railProvider": "e5489",
+    "railProvider": "ekinet",
     "travelTime": {
       "tokyo": 105,
       "niigata": 120,
@@ -190743,34 +190864,34 @@
     },
     "stayRecommendation": "daytrip",
     "secondaryTransport": null,
-    "city": "山梨県南相木村境",
-    "hubStation": "長野駅",
-    "accessStation": "長野駅",
-    "hotelArea": "長野",
+    "city": "中津川市",
+    "hubStation": "中津川駅",
+    "accessStation": "中津川駅",
+    "hotelArea": "gifu",
     "jalanPath": null,
-    "hotelKeyword": "妻籠宿より古い馬籠宿",
+    "hotelKeyword": "馬籠宿",
     "access": {
       "steps": [
         {
           "type": "rail",
-          "to": "長野駅",
-          "provider": "e5489"
+          "to": "中津川駅",
+          "provider": "えきねっと"
         }
       ]
     },
-    "fallbackCity": "松本",
-    "gateway": "長野駅",
+    "fallbackCity": "中津川",
+    "gateway": "中津川駅",
     "gatewayStations": [
       {
-        "name": "長野駅",
+        "name": "中津川駅",
         "type": "rail",
         "priority": 1
       }
     ],
     "localAccess": {
-      "type": "walk",
-      "description": "長野駅から路線バス・車",
-      "to": "長野駅"
+      "type": "bus",
+      "description": "中津川駅からバス約25分",
+      "to": "中津川駅"
     },
     "situations": [
       "solo",
@@ -190789,34 +190910,34 @@
     "mapPoint": "馬籠宿の石畳坂道",
     "subType": "historic",
     "stayDescription": "",
-    "hubCity": "松本",
+    "hubCity": "中津川",
     "stayPriority": "medium",
-    "representativeStation": "長野駅",
+    "representativeStation": "中津川駅",
     "finalAccess": {
       "type": "walk"
     },
     "accessPoint": {
       "type": "station",
-      "name": "長野"
+      "name": "中津川"
     },
     "staySearchUrl": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%25E5%25A6%25BB%25E7%25B1%25A0%25E5%25AE%25BF%25E3%2582%2588%25E3%2582%258A%25E5%258F%25A4%25E3%2581%2584%25E9%25A6%25AC%25E7%25B1%25A0%25E5%25AE%25BF",
     "bookingStation": {
-      "name": "長野駅",
+      "name": "中津川駅",
       "company": "JR"
     },
     "mainSpot": "馬籠宿の石畳坂道",
     "stayArea": {
-      "rakuten": "妻籠宿より古い馬籠宿",
-      "jalan": "妻籠宿より古い馬籠宿"
+      "rakuten": "馬籠宿",
+      "jalan": "馬籠宿"
     },
     "hotelLinks": {
-      "rakuten": "https://travel.rakuten.co.jp/yado/nagano/",
-      "jalan": "https://www.jalan.net/ikisaki/map/nagano/"
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fgifu%2F",
+      "jalan": "https://www.jalan.net/210000/"
     },
     "tier": "spot",
     "icCard": null,
     "tier2": "niche",
-    "hubName": "松本",
+    "hubName": "名古屋",
     "rentalCarRecommended": false,
     "images": [
       "/images/niche_長野_2/main.jpg"
@@ -193225,13 +193346,13 @@
       {
         "name": "内子町並み保存地区",
         "description": "歴史的建造物が密集する保存地区。歩くだけで往時の風景に浸れ、地元の手作り団子や蕎麦を味わいながら散策できる。",
-        "googleMapsQuery": "内子町並み保存地区 愛知県",
+        "googleMapsQuery": "内子町並み保存地区 愛媛県内子町",
         "imageUrl": "/images/spots/niche_愛知_4/0.jpg"
       },
       {
         "name": "八日市護国神社と祭り",
         "description": "毎年10月の秋祭りで町全体が盛り上がる。手作りの山車や屋台が狭い町並みを練り歩き、観光地化されない本物の祭りを体験できる。",
-        "googleMapsQuery": "八日市護国神社と祭り 愛知県",
+        "googleMapsQuery": "八日市護国神社と祭り 愛媛県内子町",
         "imageUrl": "/images/spots/niche_愛知_4/1.jpg"
       },
       {
@@ -193276,7 +193397,7 @@
     "city": "内子町",
     "hubStation": "松山駅",
     "accessStation": "名古屋駅",
-    "hotelArea": "愛知",
+    "hotelArea": "ehime",
     "jalanPath": null,
     "hotelKeyword": "内子町の三間町並み",
     "access": {
@@ -194236,8 +194357,8 @@
     "ferryGateway": null,
     "airportGateway": null,
     "prefecture": "滋賀県",
-    "lat": null,
-    "lng": null,
+    "lat": 35.0805847,
+    "lng": 136.3199926,
     "stayBias": 1,
     "airportHub": null,
     "railProvider": "e5489",
@@ -194400,8 +194521,8 @@
     "ferryGateway": null,
     "airportGateway": null,
     "prefecture": "滋賀県",
-    "lat": null,
-    "lng": null,
+    "lat": 35.152351,
+    "lng": 136.191109,
     "stayBias": 1,
     "airportHub": null,
     "railProvider": "e5489",
@@ -194563,8 +194684,8 @@
     "ferryGateway": null,
     "airportGateway": null,
     "prefecture": "滋賀県",
-    "lat": null,
-    "lng": null,
+    "lat": 35.506105,
+    "lng": 136.193078,
     "stayBias": 1,
     "airportHub": null,
     "railProvider": "e5489",
@@ -195690,13 +195811,13 @@
       {
         "name": "山崎の造り酒屋群",
         "description": "江戸時代創業の酒蔵が数軒現存。白壁と太い梁の外観が圧巻で、軒先の杉玉を見上げながら酒造りの物語に耳を傾けられる。",
-        "googleMapsQuery": "山崎の造り酒屋群 大阪府",
+        "googleMapsQuery": "山崎の造り酒屋群 京都府大山崎町",
         "imageUrl": "/images/spots/niche_大阪_3/0.jpg"
       },
       {
         "name": "淀川河川敷の散歩道",
         "description": "清冽な淀川を眺めながら歩く河川敷。季節の鳥の声、夕陽に映える川面が、町歩きの疲れを癒す最高の散策ルートだ。",
-        "googleMapsQuery": "淀川河川敷の散歩道 大阪府",
+        "googleMapsQuery": "淀川河川敷の散歩道 京都府大山崎町",
         "imageUrl": "/images/spots/niche_大阪_3/1.jpg"
       },
       {
@@ -195749,7 +195870,7 @@
     "city": "島本町",
     "hubStation": "新大阪駅",
     "accessStation": "新大阪駅",
-    "hotelArea": "大阪",
+    "hotelArea": "kyoto",
     "jalanPath": null,
     "hotelKeyword": "島本町の渡月橋と山崎の古い町並み",
     "access": {
@@ -196746,8 +196867,8 @@
     "ferryGateway": null,
     "airportGateway": null,
     "prefecture": "奈良県",
-    "lat": null,
-    "lng": null,
+    "lat": 34.708483,
+    "lng": 136.041699,
     "stayBias": 1,
     "airportHub": null,
     "railProvider": "e5489",
@@ -200007,8 +200128,8 @@
     "ferryGateway": null,
     "airportGateway": null,
     "prefecture": "山口県",
-    "lat": null,
-    "lng": null,
+    "lat": 34.635126,
+    "lng": 131.602519,
     "stayBias": 1,
     "airportHub": null,
     "railProvider": "e5489",
@@ -201532,7 +201653,7 @@
       "couple",
       "friends"
     ],
-    "catch": "北上川沿いのユズの生産地として知られる静かな山里",
+    "catch": "仁淀川沿いのユズの生産地として知られる静かな山里",
     "primary": [
       "ユズ",
       "温泉",
@@ -204679,8 +204800,8 @@
     "ferryGateway": null,
     "airportGateway": null,
     "prefecture": "大分県",
-    "lat": null,
-    "lng": null,
+    "lat": 33.06364,
+    "lng": 131.365068,
     "stayBias": 1,
     "airportHub": null,
     "railProvider": "e5489",
@@ -205958,12 +206079,14 @@
     "name": "関之尾滝",
     "type": "destination",
     "region": "九州",
-    "hub": "鹿児島",
+    "hub": "宮崎",
     "stayAllowed": [
       "1night"
     ],
     "departures": [
-      "鹿児島"
+      "宮崎",
+      "鹿児島",
+      "福岡"
     ],
     "weight": 0.8,
     "description": "都城市関之尾町の関之尾滝は、庄内川に轟音とともに白煙を上げながら落下する。幅約40メートルにおよぶ滝の周囲には、国内屈指の規模を誇る甌穴群が広がる地質遺産だ。数千年の水流が掘り抜いた穴の縁に手を当てると、ひんやりとした岩肌の滑らかさが指先に伝わる。ここでしか感じられないのは、地球の悠久の時間を肌で捉える感覚だ。秋には周囲の照葉樹林が色づき、水音と紅葉が渓谷を満たす。拠点は鹿児島中央駅だが、滝一帯は車での移動が必要となる。都城は本格焼酎のまちで、霧島酒造の蔵元見学も楽しめる。",
@@ -205978,7 +206101,7 @@
       {
         "name": "関之尾滝",
         "description": "高さ40メートルの段瀑。迫力ある水が流れ下り、滝壺の冷気が肌に触れる。遊歩道の複数のビューポイントから観賞できる。",
-        "googleMapsQuery": "関之尾滝 鹿児島県",
+        "googleMapsQuery": "関之尾滝 宮崎県都城市",
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Sekinoo_Fall_01.jpg/1280px-Sekinoo_Fall_01.jpg",
         "imageCredit": {
           "author": "Naokijp",
@@ -205990,7 +206113,7 @@
       {
         "name": "甌穴群",
         "description": "滝下流の岩盤に無数の円形穴が開く。水流と礫の磨耗が形づくった自然の彫刻で、上から見下ろすと幾何学的な美しさが見える。",
-        "googleMapsQuery": "甌穴群 鹿児島県",
+        "googleMapsQuery": "甌穴群 宮崎県都城市",
         "imageUrl": "/images/spots/niche_鹿児島_2/1.jpg"
       },
       {
@@ -206001,10 +206124,10 @@
     ],
     "shinkansenAccess": true,
     "requiresCar": true,
-    "hotelSearch": "肝属川沿いの関之尾滝と甌穴地形",
+    "hotelSearch": "都城",
     "gateways": {
       "rail": [
-        "鹿児島中央駅"
+        "都城駅"
       ],
       "airport": [],
       "bus": [],
@@ -206013,16 +206136,16 @@
     "accessHub": null,
     "railNote": null,
     "destType": "nature",
-    "railGateway": "鹿児島中央駅",
+    "railGateway": "都城駅",
     "busGateway": null,
     "ferryGateway": null,
     "airportGateway": null,
-    "prefecture": "鹿児島県",
-    "lat": 31.298604,
-    "lng": 130.972192,
+    "prefecture": "宮崎県",
+    "lat": 31.76111111,
+    "lng": 130.98722222,
     "stayBias": 1,
     "airportHub": null,
-    "railProvider": "e5489",
+    "railProvider": "jrkyushu",
     "travelTime": {
       "osaka": 165,
       "nagoya": 175,
@@ -206039,34 +206162,34 @@
     },
     "stayRecommendation": "daytrip",
     "secondaryTransport": null,
-    "city": "肝付町",
-    "hubStation": "鹿児島中央駅",
-    "accessStation": "鹿児島中央駅",
-    "hotelArea": "鹿児島",
+    "city": "都城市",
+    "hubStation": "都城駅",
+    "accessStation": "都城駅",
+    "hotelArea": "miyazaki",
     "jalanPath": null,
-    "hotelKeyword": "肝属川沿いの関之尾滝と甌穴地形",
+    "hotelKeyword": "都城",
     "access": {
       "steps": [
         {
           "type": "rail",
-          "to": "鹿児島中央駅",
-          "provider": "e5489"
+          "to": "都城駅",
+          "provider": "九州ネット予約"
         }
       ]
     },
-    "fallbackCity": "鹿児島",
-    "gateway": "鹿児島中央駅",
+    "fallbackCity": "宮崎",
+    "gateway": "都城駅",
     "gatewayStations": [
       {
-        "name": "鹿児島中央駅",
+        "name": "都城駅",
         "type": "rail",
         "priority": 1
       }
     ],
     "localAccess": {
-      "type": "walk",
-      "description": "鹿児島中央駅から路線バス・車",
-      "to": "鹿児島中央駅"
+      "type": "bus",
+      "description": "都城駅から車・バス約30分",
+      "to": "都城駅"
     },
     "situations": [
       "solo",
@@ -206085,34 +206208,34 @@
     "mapPoint": "関之尾滝",
     "subType": "nature",
     "stayDescription": "",
-    "hubCity": "鹿児島",
+    "hubCity": "都城",
     "stayPriority": "medium",
-    "representativeStation": "鹿児島中央駅",
+    "representativeStation": "都城駅",
     "finalAccess": {
       "type": "walk"
     },
     "accessPoint": {
       "type": "station",
-      "name": "鹿児島中央"
+      "name": "都城"
     },
     "staySearchUrl": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fsearch%2F%3Fkeyword%3D%25E8%2582%259D%25E5%25B1%259E%25E5%25B7%259D%25E6%25B2%25BF%25E3%2581%2584%25E3%2581%25AE%25E9%2596%25A2%25E4%25B9%258B%25E5%25B0%25BE%25E6%25BB%259D%25E3%2581%25A8%25E7%2594%258C%25E7%25A9%25B4%25E5%259C%25B0%25E5%25BD%25A2",
     "bookingStation": {
-      "name": "鹿児島中央駅",
+      "name": "都城駅",
       "company": "JR"
     },
     "mainSpot": "関之尾滝",
     "stayArea": {
-      "rakuten": "肝属川沿いの関之尾滝と甌穴地形",
-      "jalan": "肝属川沿いの関之尾滝と甌穴地形"
+      "rakuten": "都城",
+      "jalan": "都城"
     },
     "hotelLinks": {
-      "rakuten": "https://travel.rakuten.co.jp/yado/kagoshima/",
-      "jalan": "https://www.jalan.net/460000/"
+      "rakuten": "https://travel.rakuten.co.jp/yado/miyazaki/",
+      "jalan": "https://www.jalan.net/450000/"
     },
     "tier": "spot",
     "icCard": null,
     "tier2": "niche",
-    "hubName": "鹿児島",
+    "hubName": "宮崎",
     "rentalCarRecommended": true,
     "images": [
       "/images/niche_鹿児島_2/main.jpg"
@@ -206367,8 +206490,8 @@
     "ferryGateway": null,
     "airportGateway": null,
     "prefecture": "鹿児島県",
-    "lat": null,
-    "lng": null,
+    "lat": 31.953246,
+    "lng": 130.787441,
     "stayBias": 1,
     "airportHub": null,
     "railProvider": "e5489",
@@ -206947,12 +207070,22 @@
       {
         "name": "浅虫温泉",
         "description": "津軽海峡を見下ろす江戸時代からの名湯。塩化物泉が冷えた身体を芯からほぐし、雪化粧した松林と海の青さが織りなす景観に心洗われる。",
-        "imageUrl": "/images/gen_青森_浅虫温泉/main.jpg"
+        "imageUrl": "/images/spots/aomori/4.jpg",
+        "imageCredit": {
+          "author": "jkyZjdjNjN",
+          "license": "CC BY 3.0",
+          "url": "https://commons.wikimedia.org/wiki/File:%E6%B5%85%E8%99%AB%E6%B8%A9%E6%B3%89_%E5%86%AC%E6%9C%9F_-_panoramio.jpg"
+        }
       },
       {
         "name": "大鰐温泉",
         "description": "青森市から電車で約30分の湯の町。くたびれた商店街と湯気の漂う路地が心地よく、雪の朝に温泉へ浸かる時間が旅になる。",
-        "imageUrl": "/images/gen_青森_大鰐温泉/main.jpg"
+        "imageUrl": "/images/spots/aomori/5.jpg",
+        "imageCredit": {
+          "author": "663highland",
+          "license": "CC BY 2.5",
+          "url": "https://commons.wikimedia.org/wiki/File:Owani_Onsen_Owani_Aomori_pref_Japan01s3.jpg"
+        }
       }
     ],
     "shinkansenAccess": true,
@@ -207601,8 +207734,8 @@
     "ferryGateway": null,
     "airportGateway": null,
     "prefecture": "福島県",
-    "lat": null,
-    "lng": null,
+    "lat": 37.754589,
+    "lng": 140.459491,
     "stayBias": 2,
     "airportHub": null,
     "railProvider": "e5489",
@@ -208245,8 +208378,8 @@
     "ferryGateway": null,
     "airportGateway": null,
     "prefecture": "山口県",
-    "lat": null,
-    "lng": null,
+    "lat": 34.175385,
+    "lng": 131.477201,
     "stayBias": 2,
     "airportHub": null,
     "railProvider": "e5489",
@@ -208872,12 +209005,16 @@
       {
         "name": "高崎山自然動物園",
         "description": "斜面に約1200頭のニホンザルが群れる自然動物園。1952年開設の餌場で、展望台から別府湾を望み野生の暮らしを観察できる。",
-        "imageUrl": "/images/takasakiyama/main.jpg"
+        "imageUrl": "/images/spots/oita/4.jpg",
+        "imageCredit": {
+          "author": "funk bass",
+          "license": "CC BY 3.0",
+          "url": "https://commons.wikimedia.org/wiki/File:%E9%AB%98%E5%B4%8E%E5%B1%B1%E8%87%AA%E7%84%B6%E5%8B%95%E7%89%A9%E5%9C%92_-_panoramio.jpg"
+        }
       },
       {
         "name": "海たまご水族館",
-        "description": "2004年に生まれ変わった水族館。ペンギンが水中を飛ぶように泳ぎ、豊後水道の海の幸が泳ぐ水槽で磯の香りに包まれる。",
-        "imageUrl": "/images/umineko/main.jpg"
+        "description": "2004年に生まれ変わった水族館。ペンギンが水中を飛ぶように泳ぎ、豊後水道の海の幸が泳ぐ水槽で磯の香りに包まれる。"
       }
     ],
     "shinkansenAccess": false,
@@ -208899,8 +209036,8 @@
     "ferryGateway": null,
     "airportGateway": null,
     "prefecture": "大分県",
-    "lat": null,
-    "lng": null,
+    "lat": 33.233054,
+    "lng": 131.606243,
     "stayBias": 2,
     "airportHub": null,
     "railProvider": "e5489",
@@ -209308,8 +209445,8 @@
     "ferryGateway": null,
     "airportGateway": null,
     "prefecture": "徳島県",
-    "lat": null,
-    "lng": null,
+    "lat": 34.07061,
+    "lng": 134.14928,
     "stayBias": 1,
     "airportHub": null,
     "railProvider": "e5489",
@@ -209483,8 +209620,8 @@
     "ferryGateway": null,
     "airportGateway": null,
     "prefecture": "愛知県",
-    "lat": null,
-    "lng": null,
+    "lat": 35.0673145,
+    "lng": 136.9716436,
     "stayBias": 1,
     "airportHub": null,
     "railProvider": "e5489",
@@ -209675,8 +209812,8 @@
     "ferryGateway": null,
     "airportGateway": null,
     "prefecture": "愛知県",
-    "lat": null,
-    "lng": null,
+    "lat": 35.1381598,
+    "lng": 137.3227406,
     "stayBias": 1,
     "airportHub": null,
     "railProvider": "e5489",
@@ -209868,8 +210005,8 @@
     "ferryGateway": null,
     "airportGateway": null,
     "prefecture": "長野県",
-    "lat": null,
-    "lng": null,
+    "lat": 36.360768,
+    "lng": 138.317043,
     "stayBias": 1,
     "airportHub": null,
     "railProvider": "e5489",
@@ -210032,8 +210169,8 @@
     "ferryGateway": null,
     "airportGateway": null,
     "prefecture": "福岡県",
-    "lat": null,
-    "lng": null,
+    "lat": 33.211836,
+    "lng": 130.557915,
     "stayBias": 1,
     "airportHub": null,
     "railProvider": "e5489",
@@ -210224,8 +210361,8 @@
     "ferryGateway": null,
     "airportGateway": null,
     "prefecture": "奈良県",
-    "lat": null,
-    "lng": null,
+    "lat": 34.4500421,
+    "lng": 135.7917552,
     "stayBias": 1,
     "airportHub": null,
     "railProvider": "e5489",
@@ -210410,8 +210547,8 @@
     "ferryGateway": null,
     "airportGateway": null,
     "prefecture": "三重県",
-    "lat": null,
-    "lng": null,
+    "lat": 34.8495116,
+    "lng": 136.3930331,
     "stayBias": 1,
     "airportHub": null,
     "railProvider": "e5489",
@@ -210603,8 +210740,8 @@
     "ferryGateway": null,
     "airportGateway": null,
     "prefecture": "香川県",
-    "lat": null,
-    "lng": null,
+    "lat": 34.2244055,
+    "lng": 134.4020096,
     "stayBias": 1,
     "airportHub": null,
     "railProvider": "e5489",
