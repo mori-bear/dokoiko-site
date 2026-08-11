@@ -1,0 +1,100 @@
+[
+  {
+    "id": "isawa-onsen",
+    "name": "石和温泉",
+    "prefecture": "山梨県",
+    "cats": [
+      "②駅乖離"
+    ],
+    "items": [
+      {
+        "cat": "②駅乖離",
+        "detail": "hubStation=新宿駅 → 「新宿」は96km離れている"
+      }
+    ]
+  },
+  {
+    "id": "tsubamesanjo",
+    "name": "燕三条",
+    "prefecture": "新潟県",
+    "cats": [
+      "②駅乖離"
+    ],
+    "items": [
+      {
+        "cat": "②駅乖離",
+        "detail": "hubStation=東京駅 → 「東京」は237km離れている"
+      }
+    ]
+  },
+  {
+    "id": "kashiwazaki",
+    "name": "柏崎",
+    "prefecture": "新潟県",
+    "cats": [
+      "②駅乖離"
+    ],
+    "items": [
+      {
+        "cat": "②駅乖離",
+        "detail": "hubStation=東京駅 → 「東京」は215km離れている"
+      }
+    ]
+  },
+  {
+    "id": "ikuno",
+    "name": "生野",
+    "prefecture": "兵庫県",
+    "cats": [
+      "②駅乖離"
+    ],
+    "items": [
+      {
+        "cat": "②駅乖離",
+        "detail": "hubStation=大阪駅 → 「大阪」は80km離れている"
+      }
+    ]
+  },
+  {
+    "id": "tobe",
+    "name": "砥部",
+    "prefecture": "愛媛県",
+    "cats": [
+      "②駅乖離"
+    ],
+    "items": [
+      {
+        "cat": "②駅乖離",
+        "detail": "hubStation=高松駅 → 「高松」は134km離れている"
+      }
+    ]
+  },
+  {
+    "id": "tatsuno",
+    "name": "龍野",
+    "prefecture": "兵庫県",
+    "cats": [
+      "②駅乖離"
+    ],
+    "items": [
+      {
+        "cat": "②駅乖離",
+        "detail": "hubStation=大阪駅 → 「大阪」は88km離れている"
+      }
+    ]
+  },
+  {
+    "id": "notsuke-hanto",
+    "name": "野付半島",
+    "prefecture": "北海道",
+    "cats": [
+      "③地点"
+    ],
+    "items": [
+      {
+        "cat": "③地点",
+        "detail": "stayArea.rakuten=「知床」は63km離れた別destination"
+      }
+    ]
+  }
+]

@@ -1,0 +1,31 @@
+::1 - - [11/Aug/2026 21:51:25] "GET / HTTP/1.1" 200 -
+::1 - - [11/Aug/2026 21:51:25] "GET /_astro/index@_@astro.BMRlS4UT.css HTTP/1.1" 200 -
+::1 - - [11/Aug/2026 21:51:25] "GET /images/hero/hakone.jpg HTTP/1.1" 200 -
+::1 - - [11/Aug/2026 21:51:25] "GET /_astro/index.astro_astro_type_script_index_0_lang.CB-7_J_h.js HTTP/1.1" 200 -
+::1 - - [11/Aug/2026 21:51:25] "GET /images/hero/kamakura.jpg HTTP/1.1" 200 -
+::1 - - [11/Aug/2026 21:51:25] "GET /images/hero/kanazawa.jpg HTTP/1.1" 200 -
+::1 - - [11/Aug/2026 21:51:25] "GET /images/hero/kyoto.jpg HTTP/1.1" 200 -
+::1 - - [11/Aug/2026 21:51:25] "GET /images/hero/nara.jpg HTTP/1.1" 200 -
+::1 - - [11/Aug/2026 21:51:25] "GET /images/hero/shodoshima.jpg HTTP/1.1" 200 -
+::1 - - [11/Aug/2026 21:51:25] "GET /images/kyoto.jpg HTTP/1.1" 200 -
+::1 - - [11/Aug/2026 21:51:25] "GET /images/kanazawa.jpg HTTP/1.1" 200 -
+::1 - - [11/Aug/2026 21:51:25] "GET /data/destinations.json HTTP/1.1" 200 -
+::1 - - [11/Aug/2026 21:51:25] "GET /data/destinations.json HTTP/1.1" 200 -
+::1 - - [11/Aug/2026 21:51:25] "GET /images/takayama-2/main.jpg HTTP/1.1" 200 -
+::1 - - [11/Aug/2026 21:51:25] "GET /images/himeji-castle-2/main.jpg HTTP/1.1" 200 -
+::1 - - [11/Aug/2026 21:51:25] "GET /images/okishima/main.jpg HTTP/1.1" 200 -
+::1 - - [11/Aug/2026 21:51:25] "GET /images/yatsugatake/main.jpg HTTP/1.1" 200 -
+::1 - - [11/Aug/2026 21:51:26] "GET /images/okinoerabu/main.jpg HTTP/1.1" 200 -
+::1 - - [11/Aug/2026 21:51:26] "GET /images/kinkasan/main.jpg HTTP/1.1" 200 -
+::1 - - [11/Aug/2026 21:51:26] code 404, message File not found
+::1 - - [11/Aug/2026 21:51:26] "GET /images/nakanoshima-oki/main.jpg HTTP/1.1" 404 -
+::1 - - [11/Aug/2026 21:51:26] "GET /images/tokunoshima/main.jpg HTTP/1.1" 200 -
+::1 - - [11/Aug/2026 21:51:26] "GET /images/kouri-island/main.jpg HTTP/1.1" 200 -
+::1 - - [11/Aug/2026 21:51:26] "GET /images/gojo-nara/main.jpg HTTP/1.1" 200 -
+::1 - - [11/Aug/2026 21:51:26] "GET /images/hakatajima/main.jpg HTTP/1.1" 200 -
+::1 - - [11/Aug/2026 21:51:26] "GET /images/yamanakako/main.jpg HTTP/1.1" 200 -
+::1 - - [11/Aug/2026 21:51:26] code 404, message File not found
+::1 - - [11/Aug/2026 21:51:26] "GET /images/nakanoshima-oki.jpg HTTP/1.1" 404 -
+::1 - - [11/Aug/2026 21:51:26] "GET /images/yawatahama/main.jpg HTTP/1.1" 200 -
+::1 - - [11/Aug/2026 21:51:26] "GET /images/shodoshima/main.jpg HTTP/1.1" 200 -
+::1 - - [11/Aug/2026 21:51:26] "GET /images/marugame/main.jpg HTTP/1.1" 200 -

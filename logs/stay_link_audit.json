@@ -1,0 +1,53 @@
+{
+  "ok": 225,
+  "mismatch": [
+    {
+      "id": "shiobara-onsen",
+      "name": "塩原温泉",
+      "stay": "明賀屋本館",
+      "url": "https://www.jalan.net/yad303687/",
+      "title": "首都圏に近い秘湯 明賀屋（みょうがや）本館 - 宿泊予約は＜じゃらんnet＞",
+      "lcs": 3
+    },
+    {
+      "id": "ohara",
+      "name": "大原",
+      "stay": "大原温泉湯元 お宿 芹生",
+      "url": "https://www.jalan.net/yad304000/",
+      "title": "SAN AWAJI - 宿泊予約は＜じゃらんnet＞",
+      "lcs": 0
+    },
+    {
+      "id": "ohara-2",
+      "name": "大原",
+      "stay": "大原温泉湯元 お宿 芹生",
+      "url": "https://www.jalan.net/yad304000/",
+      "title": "SAN AWAJI - 宿泊予約は＜じゃらんnet＞",
+      "lcs": 0
+    }
+  ],
+  "broken": [
+    {
+      "id": "kinosaki-onsen",
+      "name": "城崎温泉",
+      "stay": "西村屋本館",
+      "url": "https://www.jalan.net/yad386200/",
+      "title": "エラー画面－じゃらんnet"
+    },
+    {
+      "id": "oarai",
+      "name": "大洗",
+      "stay": "里海邸 -金波楼本邸-",
+      "url": "https://www.jalan.net/yad325639/",
+      "title": "エラー画面－じゃらんnet"
+    },
+    {
+      "id": "matsusaka",
+      "name": "松阪",
+      "stay": "鯛屋旅館",
+      "url": "https://www.jalan.net/yad317487/",
+      "title": "エラー画面－じゃらんnet"
+    }
+  ],
+  "unknown": []
+}

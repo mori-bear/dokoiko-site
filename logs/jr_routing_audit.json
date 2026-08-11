@@ -1,0 +1,5000 @@
+{
+  "tally": {
+    "ekinet": 1558,
+    "smartex": 489,
+    "e5489": 636,
+    "air": 86,
+    "jrkyushu": 204,
+    "midori": 510
+  },
+  "bad": [
+    {
+      "id": "ishigaki",
+      "name": "石垣島",
+      "dep": "東京",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "ishigaki",
+      "name": "石垣島",
+      "dep": "大阪",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "ishigaki",
+      "name": "石垣島",
+      "dep": "福岡",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "ishigaki",
+      "name": "石垣島",
+      "dep": "名古屋",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "ishigaki",
+      "name": "石垣島",
+      "dep": "和歌山",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "tokashiki-jima",
+      "name": "渡嘉敷島",
+      "dep": "東京",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "tokashiki-jima",
+      "name": "渡嘉敷島",
+      "dep": "大阪",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "tokashiki-jima",
+      "name": "渡嘉敷島",
+      "dep": "福岡",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "tokashiki-jima",
+      "name": "渡嘉敷島",
+      "dep": "和歌山",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "kumejima",
+      "name": "久米島",
+      "dep": "東京",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "kumejima",
+      "name": "久米島",
+      "dep": "大阪",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "kumejima",
+      "name": "久米島",
+      "dep": "福岡",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "kumejima",
+      "name": "久米島",
+      "dep": "和歌山",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "miyakojima",
+      "name": "宮古島",
+      "dep": "東京",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "miyakojima",
+      "name": "宮古島",
+      "dep": "大阪",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "miyakojima",
+      "name": "宮古島",
+      "dep": "福岡",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "miyakojima",
+      "name": "宮古島",
+      "dep": "名古屋",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "miyakojima",
+      "name": "宮古島",
+      "dep": "和歌山",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "shirakawago-t",
+      "name": "白川郷",
+      "dep": "金沢",
+      "oPref": "石川県",
+      "dPref": "岐阜県",
+      "dCo": "central",
+      "svc": "e5489",
+      "why": "e5489 は central をカバーしない"
+    },
+    {
+      "id": "wajima",
+      "name": "輪島",
+      "dep": "金沢",
+      "oPref": "石川県",
+      "dPref": "石川県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "wajima",
+      "name": "輪島",
+      "dep": "福井",
+      "oPref": "福井県",
+      "dPref": "石川県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "kaga-onsen",
+      "name": "加賀温泉郷",
+      "dep": "金沢",
+      "oPref": "石川県",
+      "dPref": "石川県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "kaga-onsen",
+      "name": "加賀温泉郷",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "石川県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "kaga-onsen",
+      "name": "加賀温泉郷",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "石川県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "kaga-onsen",
+      "name": "加賀温泉郷",
+      "dep": "福井",
+      "oPref": "福井県",
+      "dPref": "石川県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "gokayama",
+      "name": "五箇山",
+      "dep": "金沢",
+      "oPref": "石川県",
+      "dPref": "富山県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "kiso",
+      "name": "木曽",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "長野県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "tateyama-kurobe",
+      "name": "立山黒部アルペンルート",
+      "dep": "富山",
+      "oPref": "富山県",
+      "dPref": "富山県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "himi",
+      "name": "氷見",
+      "dep": "富山",
+      "oPref": "富山県",
+      "dPref": "富山県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "himi",
+      "name": "氷見",
+      "dep": "金沢",
+      "oPref": "石川県",
+      "dPref": "富山県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "tsumago",
+      "name": "妻籠",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "長野県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "wakura-onsen",
+      "name": "和倉温泉",
+      "dep": "金沢",
+      "oPref": "石川県",
+      "dPref": "石川県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "wakura-onsen",
+      "name": "和倉温泉",
+      "dep": "富山",
+      "oPref": "富山県",
+      "dPref": "石川県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "wakura-onsen",
+      "name": "和倉温泉",
+      "dep": "福井",
+      "oPref": "福井県",
+      "dPref": "石川県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "kamikochi",
+      "name": "上高地",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "長野県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "suzu",
+      "name": "珠洲",
+      "dep": "福井",
+      "oPref": "福井県",
+      "dPref": "石川県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "iriomote",
+      "name": "西表島",
+      "dep": "那覇",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "iriomote",
+      "name": "西表島",
+      "dep": "福岡",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "hida-furukawa",
+      "name": "飛騨古川",
+      "dep": "富山",
+      "oPref": "富山県",
+      "dPref": "岐阜県",
+      "dCo": "central",
+      "svc": "e5489",
+      "why": "e5489 は central をカバーしない"
+    },
+    {
+      "id": "hida-furukawa",
+      "name": "飛騨古川",
+      "dep": "金沢",
+      "oPref": "石川県",
+      "dPref": "岐阜県",
+      "dCo": "central",
+      "svc": "e5489",
+      "why": "e5489 は central をカバーしない"
+    },
+    {
+      "id": "tsuruga",
+      "name": "敦賀",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "福井県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "tsuruga",
+      "name": "敦賀",
+      "dep": "京都",
+      "oPref": "京都府",
+      "dPref": "福井県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "tsuruga",
+      "name": "敦賀",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "福井県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "tsuruga",
+      "name": "敦賀",
+      "dep": "金沢",
+      "oPref": "石川県",
+      "dPref": "福井県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "tsuruga",
+      "name": "敦賀",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "福井県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "tsuruga",
+      "name": "敦賀",
+      "dep": "福井",
+      "oPref": "福井県",
+      "dPref": "福井県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "eiheiji",
+      "name": "永平寺",
+      "dep": "福井",
+      "oPref": "福井県",
+      "dPref": "福井県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "wakasa-obama",
+      "name": "若狭小浜",
+      "dep": "福井",
+      "oPref": "福井県",
+      "dPref": "福井県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "echizen",
+      "name": "越前",
+      "dep": "福井",
+      "oPref": "福井県",
+      "dPref": "福井県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "yonaguni-island",
+      "name": "与那国島",
+      "dep": "東京",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "yonaguni-island",
+      "name": "与那国島",
+      "dep": "大阪",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "yonaguni-island",
+      "name": "与那国島",
+      "dep": "名古屋",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "yonaguni-island",
+      "name": "与那国島",
+      "dep": "福岡",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "yonaguni-island",
+      "name": "与那国島",
+      "dep": "札幌",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "yonaguni-island",
+      "name": "与那国島",
+      "dep": "仙台",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "yonaguni-island",
+      "name": "与那国島",
+      "dep": "広島",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "yonaguni-island",
+      "name": "与那国島",
+      "dep": "高松",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "yonaguni-island",
+      "name": "与那国島",
+      "dep": "那覇",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "nakijin",
+      "name": "今帰仁",
+      "dep": "那覇",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "zamami-island",
+      "name": "座間味島",
+      "dep": "東京",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "zamami-island",
+      "name": "座間味島",
+      "dep": "大阪",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "zamami-island",
+      "name": "座間味島",
+      "dep": "名古屋",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "zamami-island",
+      "name": "座間味島",
+      "dep": "福岡",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "zamami-island",
+      "name": "座間味島",
+      "dep": "広島",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "zamami-island",
+      "name": "座間味島",
+      "dep": "仙台",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "zamami-island",
+      "name": "座間味島",
+      "dep": "札幌",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "zamami-island",
+      "name": "座間味島",
+      "dep": "神戸",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "zamami-island",
+      "name": "座間味島",
+      "dep": "京都",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "zamami-island",
+      "name": "座間味島",
+      "dep": "和歌山",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "itoigawa",
+      "name": "糸魚川",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "新潟県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "itoigawa",
+      "name": "糸魚川",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "新潟県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "itoigawa",
+      "name": "糸魚川",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "新潟県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "echizen-kaigan",
+      "name": "越前海岸",
+      "dep": "福井",
+      "oPref": "福井県",
+      "dPref": "福井県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "tateshina",
+      "name": "蓼科",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "長野県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "norikura",
+      "name": "乗鞍",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "長野県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "irabu-island",
+      "name": "伊良部島",
+      "dep": "東京",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "irabu-island",
+      "name": "伊良部島",
+      "dep": "大阪",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "irabu-island",
+      "name": "伊良部島",
+      "dep": "福岡",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "irabu-island",
+      "name": "伊良部島",
+      "dep": "和歌山",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "aguni-island",
+      "name": "粟国島",
+      "dep": "東京",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "aguni-island",
+      "name": "粟国島",
+      "dep": "大阪",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "aguni-island",
+      "name": "粟国島",
+      "dep": "和歌山",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "itoman",
+      "name": "糸満",
+      "dep": "東京",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "itoman",
+      "name": "糸満",
+      "dep": "大阪",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "itoman",
+      "name": "糸満",
+      "dep": "那覇",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "itoman",
+      "name": "糸満",
+      "dep": "和歌山",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "kijoka",
+      "name": "喜如嘉",
+      "dep": "東京",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "kijoka",
+      "name": "喜如嘉",
+      "dep": "那覇",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "nanao",
+      "name": "七尾",
+      "dep": "福井",
+      "oPref": "福井県",
+      "dPref": "石川県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "yuwaku-onsen",
+      "name": "湯涌温泉",
+      "dep": "福井",
+      "oPref": "福井県",
+      "dPref": "石川県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "nanto",
+      "name": "南砺",
+      "dep": "富山",
+      "oPref": "富山県",
+      "dPref": "富山県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "hakusan",
+      "name": "白山",
+      "dep": "福井",
+      "oPref": "福井県",
+      "dPref": "石川県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "kaga-onsen2",
+      "name": "山代温泉",
+      "dep": "福井",
+      "oPref": "福井県",
+      "dPref": "石川県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "ono-fukui",
+      "name": "越前大野",
+      "dep": "福井",
+      "oPref": "福井県",
+      "dPref": "福井県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "katsuyama",
+      "name": "勝山",
+      "dep": "福井",
+      "oPref": "福井県",
+      "dPref": "福井県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "tateyama-toyama",
+      "name": "立山",
+      "dep": "富山",
+      "oPref": "富山県",
+      "dPref": "富山県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "kurobe",
+      "name": "黒部",
+      "dep": "富山",
+      "oPref": "富山県",
+      "dPref": "富山県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "gen_茨城_牛久シャトー",
+      "name": "牛久シャトー",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_牛久シャトー",
+      "name": "牛久シャトー",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_牛久シャトー",
+      "name": "牛久シャトー",
+      "dep": "広島",
+      "oPref": "広島県",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_牛久シャトー",
+      "name": "牛久シャトー",
+      "dep": "福岡",
+      "oPref": "福岡県",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_牛久シャトー",
+      "name": "牛久シャトー",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_偕楽園",
+      "name": "偕楽園",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_偕楽園",
+      "name": "偕楽園",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_偕楽園",
+      "name": "偕楽園",
+      "dep": "広島",
+      "oPref": "広島県",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_偕楽園",
+      "name": "偕楽園",
+      "dep": "福岡",
+      "oPref": "福岡県",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_偕楽園",
+      "name": "偕楽園",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_国営ひたち海浜公園",
+      "name": "国営ひたち海浜公園",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_国営ひたち海浜公園",
+      "name": "国営ひたち海浜公園",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_国営ひたち海浜公園",
+      "name": "国営ひたち海浜公園",
+      "dep": "広島",
+      "oPref": "広島県",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_国営ひたち海浜公園",
+      "name": "国営ひたち海浜公園",
+      "dep": "福岡",
+      "oPref": "福岡県",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_国営ひたち海浜公園",
+      "name": "国営ひたち海浜公園",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_水郷筑波国定公園",
+      "name": "水郷筑波国定公園",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_水郷筑波国定公園",
+      "name": "水郷筑波国定公園",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_水郷筑波国定公園",
+      "name": "水郷筑波国定公園",
+      "dep": "広島",
+      "oPref": "広島県",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_水郷筑波国定公園",
+      "name": "水郷筑波国定公園",
+      "dep": "福岡",
+      "oPref": "福岡県",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_水郷筑波国定公園",
+      "name": "水郷筑波国定公園",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_西山荘",
+      "name": "西山荘",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_西山荘",
+      "name": "西山荘",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_西山荘",
+      "name": "西山荘",
+      "dep": "広島",
+      "oPref": "広島県",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_西山荘",
+      "name": "西山荘",
+      "dep": "福岡",
+      "oPref": "福岡県",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_西山荘",
+      "name": "西山荘",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_袋田の滝",
+      "name": "袋田の滝",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_袋田の滝",
+      "name": "袋田の滝",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_袋田の滝",
+      "name": "袋田の滝",
+      "dep": "広島",
+      "oPref": "広島県",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_袋田の滝",
+      "name": "袋田の滝",
+      "dep": "福岡",
+      "oPref": "福岡県",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_袋田の滝",
+      "name": "袋田の滝",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_大洗磯前神社",
+      "name": "大洗磯前神社",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_大洗磯前神社",
+      "name": "大洗磯前神社",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_大洗磯前神社",
+      "name": "大洗磯前神社",
+      "dep": "広島",
+      "oPref": "広島県",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_大洗磯前神社",
+      "name": "大洗磯前神社",
+      "dep": "福岡",
+      "oPref": "福岡県",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_大洗磯前神社",
+      "name": "大洗磯前神社",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_大杉神社",
+      "name": "大杉神社",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_大杉神社",
+      "name": "大杉神社",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_大杉神社",
+      "name": "大杉神社",
+      "dep": "広島",
+      "oPref": "広島県",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_大杉神社",
+      "name": "大杉神社",
+      "dep": "福岡",
+      "oPref": "福岡県",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_大杉神社",
+      "name": "大杉神社",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_笠間稲荷神社",
+      "name": "笠間稲荷神社",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_笠間稲荷神社",
+      "name": "笠間稲荷神社",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_笠間稲荷神社",
+      "name": "笠間稲荷神社",
+      "dep": "広島",
+      "oPref": "広島県",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_笠間稲荷神社",
+      "name": "笠間稲荷神社",
+      "dep": "福岡",
+      "oPref": "福岡県",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_笠間稲荷神社",
+      "name": "笠間稲荷神社",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_鹿島神宮",
+      "name": "鹿島神宮",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_鹿島神宮",
+      "name": "鹿島神宮",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_鹿島神宮",
+      "name": "鹿島神宮",
+      "dep": "広島",
+      "oPref": "広島県",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_鹿島神宮",
+      "name": "鹿島神宮",
+      "dep": "福岡",
+      "oPref": "福岡県",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_鹿島神宮",
+      "name": "鹿島神宮",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_酒列磯前神社",
+      "name": "酒列磯前神社",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_酒列磯前神社",
+      "name": "酒列磯前神社",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_酒列磯前神社",
+      "name": "酒列磯前神社",
+      "dep": "広島",
+      "oPref": "広島県",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_酒列磯前神社",
+      "name": "酒列磯前神社",
+      "dep": "福岡",
+      "oPref": "福岡県",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_酒列磯前神社",
+      "name": "酒列磯前神社",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_常磐神社",
+      "name": "常磐神社",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_常磐神社",
+      "name": "常磐神社",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_常磐神社",
+      "name": "常磐神社",
+      "dep": "広島",
+      "oPref": "広島県",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_常磐神社",
+      "name": "常磐神社",
+      "dep": "福岡",
+      "oPref": "福岡県",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_常磐神社",
+      "name": "常磐神社",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_水戸東照宮",
+      "name": "水戸東照宮",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_水戸東照宮",
+      "name": "水戸東照宮",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_水戸東照宮",
+      "name": "水戸東照宮",
+      "dep": "広島",
+      "oPref": "広島県",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_水戸東照宮",
+      "name": "水戸東照宮",
+      "dep": "福岡",
+      "oPref": "福岡県",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_水戸東照宮",
+      "name": "水戸東照宮",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_水戸八幡宮",
+      "name": "水戸八幡宮",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_水戸八幡宮",
+      "name": "水戸八幡宮",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_水戸八幡宮",
+      "name": "水戸八幡宮",
+      "dep": "広島",
+      "oPref": "広島県",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_水戸八幡宮",
+      "name": "水戸八幡宮",
+      "dep": "福岡",
+      "oPref": "福岡県",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_茨城_水戸八幡宮",
+      "name": "水戸八幡宮",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "茨城県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_川俣温泉",
+      "name": "川俣温泉",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_川俣温泉",
+      "name": "川俣温泉",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_川俣温泉",
+      "name": "川俣温泉",
+      "dep": "広島",
+      "oPref": "広島県",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_川俣温泉",
+      "name": "川俣温泉",
+      "dep": "福岡",
+      "oPref": "福岡県",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_川俣温泉",
+      "name": "川俣温泉",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_三斗小屋温泉",
+      "name": "三斗小屋温泉",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_三斗小屋温泉",
+      "name": "三斗小屋温泉",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_三斗小屋温泉",
+      "name": "三斗小屋温泉",
+      "dep": "広島",
+      "oPref": "広島県",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_三斗小屋温泉",
+      "name": "三斗小屋温泉",
+      "dep": "福岡",
+      "oPref": "福岡県",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_三斗小屋温泉",
+      "name": "三斗小屋温泉",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_中禅寺温泉",
+      "name": "中禅寺温泉",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_中禅寺温泉",
+      "name": "中禅寺温泉",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_中禅寺温泉",
+      "name": "中禅寺温泉",
+      "dep": "広島",
+      "oPref": "広島県",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_中禅寺温泉",
+      "name": "中禅寺温泉",
+      "dep": "福岡",
+      "oPref": "福岡県",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_中禅寺温泉",
+      "name": "中禅寺温泉",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_那須温泉郷",
+      "name": "那須温泉郷",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_那須温泉郷",
+      "name": "那須温泉郷",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_那須温泉郷",
+      "name": "那須温泉郷",
+      "dep": "広島",
+      "oPref": "広島県",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_那須温泉郷",
+      "name": "那須温泉郷",
+      "dep": "福岡",
+      "oPref": "福岡県",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_那須温泉郷",
+      "name": "那須温泉郷",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_日光湯元温泉",
+      "name": "日光湯元温泉",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_日光湯元温泉",
+      "name": "日光湯元温泉",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_日光湯元温泉",
+      "name": "日光湯元温泉",
+      "dep": "広島",
+      "oPref": "広島県",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_日光湯元温泉",
+      "name": "日光湯元温泉",
+      "dep": "福岡",
+      "oPref": "福岡県",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_日光湯元温泉",
+      "name": "日光湯元温泉",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_湯西川温泉",
+      "name": "湯西川温泉",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_湯西川温泉",
+      "name": "湯西川温泉",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_湯西川温泉",
+      "name": "湯西川温泉",
+      "dep": "広島",
+      "oPref": "広島県",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_湯西川温泉",
+      "name": "湯西川温泉",
+      "dep": "福岡",
+      "oPref": "福岡県",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_湯西川温泉",
+      "name": "湯西川温泉",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_佐野プレミアム・アウトレット",
+      "name": "佐野アウトレット",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_佐野プレミアム・アウトレット",
+      "name": "佐野アウトレット",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_佐野プレミアム・アウトレット",
+      "name": "佐野アウトレット",
+      "dep": "広島",
+      "oPref": "広島県",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_佐野プレミアム・アウトレット",
+      "name": "佐野アウトレット",
+      "dep": "福岡",
+      "oPref": "福岡県",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_佐野プレミアム・アウトレット",
+      "name": "佐野アウトレット",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_殺生石",
+      "name": "殺生石",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_殺生石",
+      "name": "殺生石",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_殺生石",
+      "name": "殺生石",
+      "dep": "広島",
+      "oPref": "広島県",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_殺生石",
+      "name": "殺生石",
+      "dep": "福岡",
+      "oPref": "福岡県",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_殺生石",
+      "name": "殺生石",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_那須高原",
+      "name": "那須高原",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_那須高原",
+      "name": "那須高原",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_那須高原",
+      "name": "那須高原",
+      "dep": "広島",
+      "oPref": "広島県",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_那須高原",
+      "name": "那須高原",
+      "dep": "福岡",
+      "oPref": "福岡県",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_那須高原",
+      "name": "那須高原",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_日光杉並木",
+      "name": "日光杉並木",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_日光杉並木",
+      "name": "日光杉並木",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_日光杉並木",
+      "name": "日光杉並木",
+      "dep": "広島",
+      "oPref": "広島県",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_日光杉並木",
+      "name": "日光杉並木",
+      "dep": "福岡",
+      "oPref": "福岡県",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_日光杉並木",
+      "name": "日光杉並木",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_宇都宮城",
+      "name": "宇都宮城",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_宇都宮城",
+      "name": "宇都宮城",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_宇都宮城",
+      "name": "宇都宮城",
+      "dep": "広島",
+      "oPref": "広島県",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_宇都宮城",
+      "name": "宇都宮城",
+      "dep": "福岡",
+      "oPref": "福岡県",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_宇都宮城",
+      "name": "宇都宮城",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_宇都宮二荒山神社",
+      "name": "宇都宮二荒山神社",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_宇都宮二荒山神社",
+      "name": "宇都宮二荒山神社",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_宇都宮二荒山神社",
+      "name": "宇都宮二荒山神社",
+      "dep": "広島",
+      "oPref": "広島県",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_宇都宮二荒山神社",
+      "name": "宇都宮二荒山神社",
+      "dep": "福岡",
+      "oPref": "福岡県",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_宇都宮二荒山神社",
+      "name": "宇都宮二荒山神社",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_太平山神社",
+      "name": "太平山神社",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_太平山神社",
+      "name": "太平山神社",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_太平山神社",
+      "name": "太平山神社",
+      "dep": "広島",
+      "oPref": "広島県",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_太平山神社",
+      "name": "太平山神社",
+      "dep": "福岡",
+      "oPref": "福岡県",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_太平山神社",
+      "name": "太平山神社",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_唐沢山神社",
+      "name": "唐沢山神社",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_唐沢山神社",
+      "name": "唐沢山神社",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_唐沢山神社",
+      "name": "唐沢山神社",
+      "dep": "広島",
+      "oPref": "広島県",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_唐沢山神社",
+      "name": "唐沢山神社",
+      "dep": "福岡",
+      "oPref": "福岡県",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_唐沢山神社",
+      "name": "唐沢山神社",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_日光東照宮",
+      "name": "日光東照宮",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_日光東照宮",
+      "name": "日光東照宮",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_日光東照宮",
+      "name": "日光東照宮",
+      "dep": "広島",
+      "oPref": "広島県",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_日光東照宮",
+      "name": "日光東照宮",
+      "dep": "福岡",
+      "oPref": "福岡県",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_栃木_日光東照宮",
+      "name": "日光東照宮",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "栃木県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_老神温泉",
+      "name": "老神温泉",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_老神温泉",
+      "name": "老神温泉",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_老神温泉",
+      "name": "老神温泉",
+      "dep": "広島",
+      "oPref": "広島県",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_老神温泉",
+      "name": "老神温泉",
+      "dep": "福岡",
+      "oPref": "福岡県",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_老神温泉",
+      "name": "老神温泉",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_奥嬬恋温泉",
+      "name": "奥嬬恋温泉",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_奥嬬恋温泉",
+      "name": "奥嬬恋温泉",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_奥嬬恋温泉",
+      "name": "奥嬬恋温泉",
+      "dep": "広島",
+      "oPref": "広島県",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_奥嬬恋温泉",
+      "name": "奥嬬恋温泉",
+      "dep": "福岡",
+      "oPref": "福岡県",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_奥嬬恋温泉",
+      "name": "奥嬬恋温泉",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_鹿沢温泉",
+      "name": "鹿沢温泉",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_鹿沢温泉",
+      "name": "鹿沢温泉",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_鹿沢温泉",
+      "name": "鹿沢温泉",
+      "dep": "広島",
+      "oPref": "広島県",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_鹿沢温泉",
+      "name": "鹿沢温泉",
+      "dep": "福岡",
+      "oPref": "福岡県",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_鹿沢温泉",
+      "name": "鹿沢温泉",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_片品温泉",
+      "name": "片品温泉",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_片品温泉",
+      "name": "片品温泉",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_片品温泉",
+      "name": "片品温泉",
+      "dep": "広島",
+      "oPref": "広島県",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_片品温泉",
+      "name": "片品温泉",
+      "dep": "福岡",
+      "oPref": "福岡県",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_片品温泉",
+      "name": "片品温泉",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_上牧温泉",
+      "name": "上牧温泉",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_上牧温泉",
+      "name": "上牧温泉",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_上牧温泉",
+      "name": "上牧温泉",
+      "dep": "広島",
+      "oPref": "広島県",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_上牧温泉",
+      "name": "上牧温泉",
+      "dep": "福岡",
+      "oPref": "福岡県",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_上牧温泉",
+      "name": "上牧温泉",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_川中温泉",
+      "name": "川中温泉",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_川中温泉",
+      "name": "川中温泉",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_川中温泉",
+      "name": "川中温泉",
+      "dep": "広島",
+      "oPref": "広島県",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_川中温泉",
+      "name": "川中温泉",
+      "dep": "福岡",
+      "oPref": "福岡県",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_川中温泉",
+      "name": "川中温泉",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_川原湯温泉",
+      "name": "川原湯温泉",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_川原湯温泉",
+      "name": "川原湯温泉",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_川原湯温泉",
+      "name": "川原湯温泉",
+      "dep": "広島",
+      "oPref": "広島県",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_川原湯温泉",
+      "name": "川原湯温泉",
+      "dep": "福岡",
+      "oPref": "福岡県",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_川原湯温泉",
+      "name": "川原湯温泉",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_猿ヶ京温泉",
+      "name": "猿ヶ京温泉",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_猿ヶ京温泉",
+      "name": "猿ヶ京温泉",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_猿ヶ京温泉",
+      "name": "猿ヶ京温泉",
+      "dep": "広島",
+      "oPref": "広島県",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_猿ヶ京温泉",
+      "name": "猿ヶ京温泉",
+      "dep": "福岡",
+      "oPref": "福岡県",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_猿ヶ京温泉",
+      "name": "猿ヶ京温泉",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_敷島温泉",
+      "name": "敷島温泉",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_敷島温泉",
+      "name": "敷島温泉",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_敷島温泉",
+      "name": "敷島温泉",
+      "dep": "広島",
+      "oPref": "広島県",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_敷島温泉",
+      "name": "敷島温泉",
+      "dep": "福岡",
+      "oPref": "福岡県",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_敷島温泉",
+      "name": "敷島温泉",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_尻焼温泉",
+      "name": "尻焼温泉",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_尻焼温泉",
+      "name": "尻焼温泉",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_尻焼温泉",
+      "name": "尻焼温泉",
+      "dep": "広島",
+      "oPref": "広島県",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_尻焼温泉",
+      "name": "尻焼温泉",
+      "dep": "福岡",
+      "oPref": "福岡県",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_尻焼温泉",
+      "name": "尻焼温泉",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_花敷温泉",
+      "name": "花敷温泉",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_花敷温泉",
+      "name": "花敷温泉",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_花敷温泉",
+      "name": "花敷温泉",
+      "dep": "広島",
+      "oPref": "広島県",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_花敷温泉",
+      "name": "花敷温泉",
+      "dep": "福岡",
+      "oPref": "福岡県",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_花敷温泉",
+      "name": "花敷温泉",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_法師温泉",
+      "name": "法師温泉",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_法師温泉",
+      "name": "法師温泉",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_法師温泉",
+      "name": "法師温泉",
+      "dep": "広島",
+      "oPref": "広島県",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_法師温泉",
+      "name": "法師温泉",
+      "dep": "福岡",
+      "oPref": "福岡県",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_法師温泉",
+      "name": "法師温泉",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_万座温泉",
+      "name": "万座温泉",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_万座温泉",
+      "name": "万座温泉",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_万座温泉",
+      "name": "万座温泉",
+      "dep": "広島",
+      "oPref": "広島県",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_万座温泉",
+      "name": "万座温泉",
+      "dep": "福岡",
+      "oPref": "福岡県",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_群馬_万座温泉",
+      "name": "万座温泉",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "群馬県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_相乗温泉",
+      "name": "相乗温泉",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_相乗温泉",
+      "name": "相乗温泉",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_相乗温泉",
+      "name": "相乗温泉",
+      "dep": "広島",
+      "oPref": "広島県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_相乗温泉",
+      "name": "相乗温泉",
+      "dep": "福岡",
+      "oPref": "福岡県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_相乗温泉",
+      "name": "相乗温泉",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_青荷温泉",
+      "name": "青荷温泉",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_青荷温泉",
+      "name": "青荷温泉",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_青荷温泉",
+      "name": "青荷温泉",
+      "dep": "広島",
+      "oPref": "広島県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_青荷温泉",
+      "name": "青荷温泉",
+      "dep": "福岡",
+      "oPref": "福岡県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_青荷温泉",
+      "name": "青荷温泉",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_秋元温泉",
+      "name": "秋元温泉",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_秋元温泉",
+      "name": "秋元温泉",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_秋元温泉",
+      "name": "秋元温泉",
+      "dep": "広島",
+      "oPref": "広島県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_秋元温泉",
+      "name": "秋元温泉",
+      "dep": "福岡",
+      "oPref": "福岡県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_秋元温泉",
+      "name": "秋元温泉",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_板留温泉",
+      "name": "板留温泉",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_板留温泉",
+      "name": "板留温泉",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_板留温泉",
+      "name": "板留温泉",
+      "dep": "広島",
+      "oPref": "広島県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_板留温泉",
+      "name": "板留温泉",
+      "dep": "福岡",
+      "oPref": "福岡県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_板留温泉",
+      "name": "板留温泉",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_稲垣温泉",
+      "name": "稲垣温泉",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_稲垣温泉",
+      "name": "稲垣温泉",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_稲垣温泉",
+      "name": "稲垣温泉",
+      "dep": "広島",
+      "oPref": "広島県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_稲垣温泉",
+      "name": "稲垣温泉",
+      "dep": "福岡",
+      "oPref": "福岡県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_稲垣温泉",
+      "name": "稲垣温泉",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_奥入瀬渓流温泉",
+      "name": "奥入瀬渓流温泉",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_奥入瀬渓流温泉",
+      "name": "奥入瀬渓流温泉",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_奥入瀬渓流温泉",
+      "name": "奥入瀬渓流温泉",
+      "dep": "広島",
+      "oPref": "広島県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_奥入瀬渓流温泉",
+      "name": "奥入瀬渓流温泉",
+      "dep": "福岡",
+      "oPref": "福岡県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_奥入瀬渓流温泉",
+      "name": "奥入瀬渓流温泉",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_落合温泉",
+      "name": "落合温泉",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_落合温泉",
+      "name": "落合温泉",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_落合温泉",
+      "name": "落合温泉",
+      "dep": "広島",
+      "oPref": "広島県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_落合温泉",
+      "name": "落合温泉",
+      "dep": "福岡",
+      "oPref": "福岡県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_落合温泉",
+      "name": "落合温泉",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_黄金崎不老不死温泉",
+      "name": "黄金崎不老不死温泉",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_黄金崎不老不死温泉",
+      "name": "黄金崎不老不死温泉",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_黄金崎不老不死温泉",
+      "name": "黄金崎不老不死温泉",
+      "dep": "広島",
+      "oPref": "広島県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_黄金崎不老不死温泉",
+      "name": "黄金崎不老不死温泉",
+      "dep": "福岡",
+      "oPref": "福岡県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_黄金崎不老不死温泉",
+      "name": "黄金崎不老不死温泉",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_下風呂温泉",
+      "name": "下風呂温泉",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_下風呂温泉",
+      "name": "下風呂温泉",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_下風呂温泉",
+      "name": "下風呂温泉",
+      "dep": "広島",
+      "oPref": "広島県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_下風呂温泉",
+      "name": "下風呂温泉",
+      "dep": "福岡",
+      "oPref": "福岡県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_下風呂温泉",
+      "name": "下風呂温泉",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_城ヶ倉温泉",
+      "name": "城ヶ倉温泉",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_城ヶ倉温泉",
+      "name": "城ヶ倉温泉",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_城ヶ倉温泉",
+      "name": "城ヶ倉温泉",
+      "dep": "広島",
+      "oPref": "広島県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_城ヶ倉温泉",
+      "name": "城ヶ倉温泉",
+      "dep": "福岡",
+      "oPref": "福岡県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_城ヶ倉温泉",
+      "name": "城ヶ倉温泉",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_酸ヶ湯",
+      "name": "酸ヶ湯",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_酸ヶ湯",
+      "name": "酸ヶ湯",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_酸ヶ湯",
+      "name": "酸ヶ湯",
+      "dep": "広島",
+      "oPref": "広島県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_酸ヶ湯",
+      "name": "酸ヶ湯",
+      "dep": "福岡",
+      "oPref": "福岡県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_酸ヶ湯",
+      "name": "酸ヶ湯",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_嶽温泉",
+      "name": "嶽温泉",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_嶽温泉",
+      "name": "嶽温泉",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_嶽温泉",
+      "name": "嶽温泉",
+      "dep": "広島",
+      "oPref": "広島県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_嶽温泉",
+      "name": "嶽温泉",
+      "dep": "福岡",
+      "oPref": "福岡県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_嶽温泉",
+      "name": "嶽温泉",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_蔦温泉",
+      "name": "蔦温泉",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_蔦温泉",
+      "name": "蔦温泉",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_蔦温泉",
+      "name": "蔦温泉",
+      "dep": "広島",
+      "oPref": "広島県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_蔦温泉",
+      "name": "蔦温泉",
+      "dep": "福岡",
+      "oPref": "福岡県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_蔦温泉",
+      "name": "蔦温泉",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_十和田湖畔温泉",
+      "name": "十和田湖畔温泉",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_十和田湖畔温泉",
+      "name": "十和田湖畔温泉",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_十和田湖畔温泉",
+      "name": "十和田湖畔温泉",
+      "dep": "広島",
+      "oPref": "広島県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_十和田湖畔温泉",
+      "name": "十和田湖畔温泉",
+      "dep": "福岡",
+      "oPref": "福岡県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_十和田湖畔温泉",
+      "name": "十和田湖畔温泉",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_馬門温泉",
+      "name": "馬門温泉",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_馬門温泉",
+      "name": "馬門温泉",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_馬門温泉",
+      "name": "馬門温泉",
+      "dep": "広島",
+      "oPref": "広島県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_馬門温泉",
+      "name": "馬門温泉",
+      "dep": "福岡",
+      "oPref": "福岡県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_馬門温泉",
+      "name": "馬門温泉",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_谷地温泉",
+      "name": "谷地温泉",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_谷地温泉",
+      "name": "谷地温泉",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_谷地温泉",
+      "name": "谷地温泉",
+      "dep": "広島",
+      "oPref": "広島県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_谷地温泉",
+      "name": "谷地温泉",
+      "dep": "福岡",
+      "oPref": "福岡県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "gen_青森_谷地温泉",
+      "name": "谷地温泉",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "青森県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "utsukushigahara",
+      "name": "美ヶ原",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "長野県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "shirahone-onsen",
+      "name": "白骨温泉",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "長野県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "hateruma-island",
+      "name": "波照間島",
+      "dep": "鹿児島",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "hateruma-island",
+      "name": "波照間島",
+      "dep": "福岡",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "tarama-island",
+      "name": "多良間島",
+      "dep": "鹿児島",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "tarama-island",
+      "name": "多良間島",
+      "dep": "福岡",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "tonami",
+      "name": "砺波",
+      "dep": "東京",
+      "oPref": "東京都",
+      "dPref": "富山県",
+      "dCo": "hokuriku",
+      "svc": "ekinet",
+      "why": "えきねっと は hokuriku をカバーしない"
+    },
+    {
+      "id": "tonami",
+      "name": "砺波",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "富山県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "tonami",
+      "name": "砺波",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "富山県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "tonami",
+      "name": "砺波",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "富山県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "unazuki-onsen",
+      "name": "宇奈月温泉",
+      "dep": "東京",
+      "oPref": "東京都",
+      "dPref": "富山県",
+      "dCo": "hokuriku",
+      "svc": "ekinet",
+      "why": "えきねっと は hokuriku をカバーしない"
+    },
+    {
+      "id": "unazuki-onsen",
+      "name": "宇奈月温泉",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "富山県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "unazuki-onsen",
+      "name": "宇奈月温泉",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "富山県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "unazuki-onsen",
+      "name": "宇奈月温泉",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "富山県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "mikatagoko",
+      "name": "三方五湖",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "福井県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "mikatagoko",
+      "name": "三方五湖",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "福井県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "mikatagoko",
+      "name": "三方五湖",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "福井県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "mikatagoko",
+      "name": "三方五湖",
+      "dep": "福井",
+      "oPref": "福井県",
+      "dPref": "福井県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "kirigamine",
+      "name": "霧ヶ峰",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "長野県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "nyukasa",
+      "name": "入笠山",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "長野県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "mitsuke-jima",
+      "name": "見附島",
+      "dep": "東京",
+      "oPref": "東京都",
+      "dPref": "石川県",
+      "dCo": "hokuriku",
+      "svc": "ekinet",
+      "why": "えきねっと は hokuriku をカバーしない"
+    },
+    {
+      "id": "mitsuke-jima",
+      "name": "見附島",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "石川県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "mitsuke-jima",
+      "name": "見附島",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "石川県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "mitsuke-jima",
+      "name": "見附島",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "石川県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "mitsuke-jima",
+      "name": "見附島",
+      "dep": "福井",
+      "oPref": "福井県",
+      "dPref": "石川県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "rokkozaki",
+      "name": "禄剛崎",
+      "dep": "東京",
+      "oPref": "東京都",
+      "dPref": "石川県",
+      "dCo": "hokuriku",
+      "svc": "ekinet",
+      "why": "えきねっと は hokuriku をカバーしない"
+    },
+    {
+      "id": "rokkozaki",
+      "name": "禄剛崎",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "石川県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "rokkozaki",
+      "name": "禄剛崎",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "石川県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "rokkozaki",
+      "name": "禄剛崎",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "石川県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "rokkozaki",
+      "name": "禄剛崎",
+      "dep": "福井",
+      "oPref": "福井県",
+      "dPref": "石川県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "sozogi",
+      "name": "曽々木海岸",
+      "dep": "東京",
+      "oPref": "東京都",
+      "dPref": "石川県",
+      "dCo": "hokuriku",
+      "svc": "ekinet",
+      "why": "えきねっと は hokuriku をカバーしない"
+    },
+    {
+      "id": "sozogi",
+      "name": "曽々木海岸",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "石川県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "sozogi",
+      "name": "曽々木海岸",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "石川県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "sozogi",
+      "name": "曽々木海岸",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "石川県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "sozogi",
+      "name": "曽々木海岸",
+      "dep": "福井",
+      "oPref": "福井県",
+      "dPref": "石川県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "shiroyone-senmaida",
+      "name": "白米千枚田",
+      "dep": "東京",
+      "oPref": "東京都",
+      "dPref": "石川県",
+      "dCo": "hokuriku",
+      "svc": "ekinet",
+      "why": "えきねっと は hokuriku をカバーしない"
+    },
+    {
+      "id": "shiroyone-senmaida",
+      "name": "白米千枚田",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "石川県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "shiroyone-senmaida",
+      "name": "白米千枚田",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "石川県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "shiroyone-senmaida",
+      "name": "白米千枚田",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "石川県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "shiroyone-senmaida",
+      "name": "白米千枚田",
+      "dep": "福井",
+      "oPref": "福井県",
+      "dPref": "石川県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "tojinbo",
+      "name": "東尋坊",
+      "dep": "東京",
+      "oPref": "東京都",
+      "dPref": "福井県",
+      "dCo": "hokuriku",
+      "svc": "ekinet",
+      "why": "えきねっと は hokuriku をカバーしない"
+    },
+    {
+      "id": "tojinbo",
+      "name": "東尋坊",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "福井県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "tojinbo",
+      "name": "東尋坊",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "福井県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "tojinbo",
+      "name": "東尋坊",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "福井県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "tojinbo",
+      "name": "東尋坊",
+      "dep": "福井",
+      "oPref": "福井県",
+      "dPref": "福井県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "keta-taisha",
+      "name": "気多大社",
+      "dep": "東京",
+      "oPref": "東京都",
+      "dPref": "石川県",
+      "dCo": "hokuriku",
+      "svc": "ekinet",
+      "why": "えきねっと は hokuriku をカバーしない"
+    },
+    {
+      "id": "keta-taisha",
+      "name": "気多大社",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "石川県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "keta-taisha",
+      "name": "気多大社",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "石川県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "keta-taisha",
+      "name": "気多大社",
+      "dep": "和歌山",
+      "oPref": "和歌山県",
+      "dPref": "石川県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "keta-taisha",
+      "name": "気多大社",
+      "dep": "福井",
+      "oPref": "福井県",
+      "dPref": "石川県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "chinen-misaki",
+      "name": "知念岬",
+      "dep": "東京",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "chinen-misaki",
+      "name": "知念岬",
+      "dep": "大阪",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "chinen-misaki",
+      "name": "知念岬",
+      "dep": "福岡",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "chinen-misaki",
+      "name": "知念岬",
+      "dep": "和歌山",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "bise",
+      "name": "備瀬のフクギ並木",
+      "dep": "東京",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "bise",
+      "name": "備瀬のフクギ並木",
+      "dep": "大阪",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "bise",
+      "name": "備瀬のフクギ並木",
+      "dep": "福岡",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "bise",
+      "name": "備瀬のフクギ並木",
+      "dep": "和歌山",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "kudakajima",
+      "name": "久高島",
+      "dep": "東京",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "kudakajima",
+      "name": "久高島",
+      "dep": "大阪",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "kudakajima",
+      "name": "久高島",
+      "dep": "福岡",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "kudakajima",
+      "name": "久高島",
+      "dep": "和歌山",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "sefa-utaki",
+      "name": "斎場御嶽",
+      "dep": "東京",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "sefa-utaki",
+      "name": "斎場御嶽",
+      "dep": "大阪",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "sefa-utaki",
+      "name": "斎場御嶽",
+      "dep": "福岡",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "sefa-utaki",
+      "name": "斎場御嶽",
+      "dep": "和歌山",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "tonaki",
+      "name": "渡名喜島",
+      "dep": "那覇",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "minamidaitojima",
+      "name": "南大東島",
+      "dep": "那覇",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "kitadaitojima",
+      "name": "北大東島",
+      "dep": "那覇",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "notojima",
+      "name": "能登島",
+      "dep": "金沢",
+      "oPref": "石川県",
+      "dPref": "石川県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "aka-island",
+      "name": "阿嘉島",
+      "dep": "那覇",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "kouri-island",
+      "name": "古宇利島",
+      "dep": "那覇",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "izena-island",
+      "name": "伊是名島",
+      "dep": "那覇",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "toyama-city",
+      "name": "富山",
+      "dep": "金沢",
+      "oPref": "石川県",
+      "dPref": "富山県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "obama-fukui",
+      "name": "小浜",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "福井県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "echizen-pottery",
+      "name": "越前焼の里",
+      "dep": "金沢",
+      "oPref": "石川県",
+      "dPref": "福井県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "toyama-glass",
+      "name": "富山市ガラス美術館",
+      "dep": "金沢",
+      "oPref": "石川県",
+      "dPref": "富山県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "zuiryuji",
+      "name": "高岡",
+      "dep": "金沢",
+      "oPref": "石川県",
+      "dPref": "富山県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "kanazawa-castle",
+      "name": "金沢",
+      "dep": "金沢",
+      "oPref": "石川県",
+      "dPref": "石川県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "higashi-chaya",
+      "name": "ひがし茶屋街",
+      "dep": "金沢",
+      "oPref": "石川県",
+      "dPref": "石川県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "matsumoto-castle-2",
+      "name": "松本城",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "長野県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "nakasendo-tsumago",
+      "name": "妻籠宿",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "長野県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "wajima-asaichi",
+      "name": "輪島朝市",
+      "dep": "金沢",
+      "oPref": "石川県",
+      "dPref": "石川県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "noto-kiriko",
+      "name": "奥能登",
+      "dep": "金沢",
+      "oPref": "石川県",
+      "dPref": "石川県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "okinawa-naha",
+      "name": "那覇",
+      "dep": "那覇",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "aharen",
+      "name": "阿波連ビーチ",
+      "dep": "那覇",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "echizen-cape",
+      "name": "越前岬",
+      "dep": "金沢",
+      "oPref": "石川県",
+      "dPref": "福井県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "mikuni-minato",
+      "name": "三国湊",
+      "dep": "金沢",
+      "oPref": "石川県",
+      "dPref": "福井県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "hyo-sho",
+      "name": "一乗谷朝倉氏遺跡",
+      "dep": "金沢",
+      "oPref": "石川県",
+      "dPref": "福井県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "mihama-fukui",
+      "name": "美浜",
+      "dep": "金沢",
+      "oPref": "石川県",
+      "dPref": "福井県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "echizen-cliff",
+      "name": "越前竹人形の里",
+      "dep": "金沢",
+      "oPref": "石川県",
+      "dPref": "福井県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "kurobe-gorge",
+      "name": "黒部峡谷",
+      "dep": "金沢",
+      "oPref": "石川県",
+      "dPref": "富山県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "amaharashi",
+      "name": "雨晴海岸",
+      "dep": "金沢",
+      "oPref": "石川県",
+      "dPref": "富山県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "gokayama-2",
+      "name": "五箇山・相倉合掌集落",
+      "dep": "金沢",
+      "oPref": "石川県",
+      "dPref": "富山県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "uozu",
+      "name": "魚津",
+      "dep": "金沢",
+      "oPref": "石川県",
+      "dPref": "富山県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "shuri-castle",
+      "name": "首里城",
+      "dep": "那覇",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "okinawa-chinen",
+      "name": "知念岬公園",
+      "dep": "那覇",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "kanazawa-21st",
+      "name": "金沢21世紀美術館",
+      "dep": "金沢",
+      "oPref": "石川県",
+      "dPref": "石川県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "cape-zampa",
+      "name": "残波岬",
+      "dep": "那覇",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "okinawa-cape-hedo",
+      "name": "辺戸岬",
+      "dep": "那覇",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "fukui-castle",
+      "name": "丸岡城",
+      "dep": "金沢",
+      "oPref": "石川県",
+      "dPref": "福井県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "toyama-himi-2",
+      "name": "黒部・宇奈月温泉",
+      "dep": "金沢",
+      "oPref": "石川県",
+      "dPref": "富山県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "tokyo",
+      "name": "東京",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "東京都",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "tokyo",
+      "name": "東京",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "東京都",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "yokohama",
+      "name": "横浜",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "神奈川県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "kanazawa",
+      "name": "金沢",
+      "dep": "富山",
+      "oPref": "富山県",
+      "dPref": "石川県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "kanazawa",
+      "name": "金沢",
+      "dep": "福井",
+      "oPref": "福井県",
+      "dPref": "石川県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "kanazawa",
+      "name": "金沢",
+      "dep": "東京",
+      "oPref": "東京都",
+      "dPref": "石川県",
+      "dCo": "hokuriku",
+      "svc": "ekinet",
+      "why": "えきねっと は hokuriku をカバーしない"
+    },
+    {
+      "id": "kanazawa",
+      "name": "金沢",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "石川県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "kanazawa",
+      "name": "金沢",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "石川県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "niche_富山_1",
+      "name": "庄川峡",
+      "dep": "富山",
+      "oPref": "富山県",
+      "dPref": "富山県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "niche_富山_2",
+      "name": "利賀村",
+      "dep": "富山",
+      "oPref": "富山県",
+      "dPref": "富山県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "niche_富山_3",
+      "name": "福光地区",
+      "dep": "富山",
+      "oPref": "富山県",
+      "dPref": "富山県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "niche_富山_4",
+      "name": "舟川べり",
+      "dep": "富山",
+      "oPref": "富山県",
+      "dPref": "富山県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "niche_富山_6",
+      "name": "五箇山平村",
+      "dep": "富山",
+      "oPref": "富山県",
+      "dPref": "富山県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "niche_石川_1",
+      "name": "大白川温泉",
+      "dep": "金沢",
+      "oPref": "石川県",
+      "dPref": "岐阜県",
+      "dCo": "central",
+      "svc": "e5489",
+      "why": "e5489 は central をカバーしない"
+    },
+    {
+      "id": "niche_石川_3",
+      "name": "木場潟",
+      "dep": "金沢",
+      "oPref": "石川県",
+      "dPref": "石川県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "niche_石川_4",
+      "name": "加佐ノ岬",
+      "dep": "金沢",
+      "oPref": "石川県",
+      "dPref": "石川県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "niche_石川_6",
+      "name": "九谷陶芸村",
+      "dep": "金沢",
+      "oPref": "石川県",
+      "dPref": "石川県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "niche_福井_1",
+      "name": "河野海岸の三角波紋",
+      "dep": "福井",
+      "oPref": "福井県",
+      "dPref": "福井県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "niche_福井_2",
+      "name": "白山平泉寺門前町",
+      "dep": "福井",
+      "oPref": "福井県",
+      "dPref": "福井県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "niche_福井_3",
+      "name": "芦原温泉共同浴場群",
+      "dep": "福井",
+      "oPref": "福井県",
+      "dPref": "福井県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "niche_福井_4",
+      "name": "九頭竜湖・西野ダム展望台",
+      "dep": "福井",
+      "oPref": "福井県",
+      "dPref": "福井県",
+      "dCo": "hokuriku",
+      "svc": "e5489",
+      "why": "e5489 は hokuriku をカバーしない"
+    },
+    {
+      "id": "niche_愛知_5",
+      "name": "南木曽宿場町",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "長野県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "niche_沖縄_1",
+      "name": "瀬長島",
+      "dep": "那覇",
+      "dPref": "沖縄県",
+      "svc": "air",
+      "why": "サービス定義なし"
+    },
+    {
+      "id": "wakimachi",
+      "name": "脇町",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "徳島県",
+      "dCo": "shikoku",
+      "svc": "smartex",
+      "why": "スマートEX は shikoku をカバーしない"
+    },
+    {
+      "id": "unno-juku",
+      "name": "海野宿",
+      "dep": "大阪",
+      "oPref": "大阪府",
+      "dPref": "長野県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "unno-juku",
+      "name": "海野宿",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "長野県",
+      "dCo": "east",
+      "svc": "smartex",
+      "why": "スマートEX は east をカバーしない"
+    },
+    {
+      "id": "hiketa",
+      "name": "引田",
+      "dep": "名古屋",
+      "oPref": "愛知県",
+      "dPref": "香川県",
+      "dCo": "shikoku",
+      "svc": "smartex",
+      "why": "スマートEX は shikoku をカバーしない"
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+[
+  {
+    "id": "niche_千葉_2",
+    "name": "小湊鐵道沿線",
+    "current": "null",
+    "adopt": {
+      "lat": 35.262023,
+      "lng": 140.159844
+    },
+    "note": "2ソース一致(1.0km)"
+  },
+  {
+    "id": "niche_東京_4",
+    "name": "奥多摩湖",
+    "current": "null",
+    "adopt": {
+      "lat": 35.7925449,
+      "lng": 139.0483594
+    },
+    "note": "OSMのみ"
+  },
+  {
+    "id": "niche_富山_6",
+    "name": "五箇山平村",
+    "current": "null",
+    "adopt": {
+      "lat": 36.4099428,
+      "lng": 136.9335683
+    },
+    "note": "OSMのみ"
+  },
+  {
+    "id": "niche_長野_2",
+    "name": "馬籠宿",
+    "current": "null",
+    "adopt": {
+      "lat": 35.526756,
+      "lng": 137.567611
+    },
+    "note": "2ソース一致(0.0km)"
+  },
+  {
+    "id": "niche_滋賀_3",
+    "name": "永源寺門前と愛知川",
+    "current": "null",
+    "adopt": {
+      "lat": 35.0805847,
+      "lng": 136.3199926
+    },
+    "note": "OSMのみ"
+  },
+  {
+    "id": "niche_滋賀_4",
+    "name": "五個荘近江商人の館",
+    "current": "null",
+    "adopt": {
+      "lat": 35.152351,
+      "lng": 136.191109
+    },
+    "note": "2ソース一致(0.3km)"
+  },
+  {
+    "id": "niche_滋賀_6",
+    "name": "賤ヶ岳と湖北山里",
+    "current": "null",
+    "adopt": {
+      "lat": 35.506105,
+      "lng": 136.193078
+    },
+    "note": "2ソース一致(0.0km)"
+  },
+  {
+    "id": "niche_奈良_3",
+    "name": "月ヶ瀬温泉と梅林の里",
+    "current": "null",
+    "adopt": {
+      "lat": 34.708483,
+      "lng": 136.041699
+    },
+    "note": "2ソース一致(0.5km)"
+  },
+  {
+    "id": "niche_山口_6",
+    "name": "須佐ホルンフェルス",
+    "current": "null",
+    "adopt": {
+      "lat": 34.635126,
+      "lng": 131.602519
+    },
+    "note": "2ソース一致(3.0km)"
+  },
+  {
+    "id": "niche_大分_3",
+    "name": "長湯温泉",
+    "current": "null",
+    "adopt": {
+      "lat": 33.06364,
+      "lng": 131.365068
+    },
+    "note": "2ソース一致(1.8km)"
+  },
+  {
+    "id": "niche_鹿児島_5",
+    "name": "栗野岳温泉郷",
+    "current": "null",
+    "adopt": {
+      "lat": 31.953246,
+      "lng": 130.787441
+    },
+    "note": "2ソース一致(1.5km)"
+  },
+  {
+    "id": "niche_鹿児島_2",
+    "name": "関之尾滝",
+    "current": "31.298604, 130.972192",
+    "adopt": {
+      "lat": 31.76111111,
+      "lng": 130.98722222
+    },
+    "note": "Wikipediaのみ"
+  },
+  {
+    "id": "fukushima",
+    "name": "福島",
+    "current": "null",
+    "adopt": {
+      "lat": 37.754589,
+      "lng": 140.459491
+    },
+    "note": "2ソース一致(0.2km)"
+  },
+  {
+    "id": "yamaguchi",
+    "name": "山口",
+    "current": "null",
+    "adopt": {
+      "lat": 34.175385,
+      "lng": 131.477201
+    },
+    "note": "2ソース一致(0.9km)"
+  },
+  {
+    "id": "oita",
+    "name": "大分",
+    "current": "null",
+    "adopt": {
+      "lat": 33.233054,
+      "lng": 131.606243
+    },
+    "note": "2ソース一致(0.1km)"
+  },
+  {
+    "id": "wakimachi",
+    "name": "脇町",
+    "current": "null",
+    "adopt": {
+      "lat": 34.07061,
+      "lng": 134.14928
+    },
+    "note": "Wikipediaのみ"
+  },
+  {
+    "id": "arimatsu",
+    "name": "有松",
+    "current": "null",
+    "adopt": {
+      "lat": 35.0673145,
+      "lng": 136.9716436
+    },
+    "note": "OSMのみ"
+  },
+  {
+    "id": "asuke",
+    "name": "足助",
+    "current": "null",
+    "adopt": {
+      "lat": 35.1381598,
+      "lng": 137.3227406
+    },
+    "note": "OSMのみ"
+  },
+  {
+    "id": "unno-juku",
+    "name": "海野宿",
+    "current": "null",
+    "adopt": {
+      "lat": 36.360768,
+      "lng": 138.317043
+    },
+    "note": "2ソース一致(0.4km)"
+  },
+  {
+    "id": "yame",
+    "name": "八女",
+    "current": "null",
+    "adopt": {
+      "lat": 33.211836,
+      "lng": 130.557915
+    },
+    "note": "2ソース一致(0.0km)"
+  },
+  {
+    "id": "takatori",
+    "name": "高取",
+    "current": "null",
+    "adopt": {
+      "lat": 34.4500421,
+      "lng": 135.7917552
+    },
+    "note": "OSMのみ"
+  },
+  {
+    "id": "seki-juku",
+    "name": "関宿",
+    "current": "null",
+    "adopt": {
+      "lat": 34.8495116,
+      "lng": 136.3930331
+    },
+    "note": "OSMのみ"
+  },
+  {
+    "id": "hiketa",
+    "name": "引田",
+    "current": "null",
+    "adopt": {
+      "lat": 34.2244055,
+      "lng": 134.4020096
+    },
+    "note": "OSMのみ"
+  }
+]
