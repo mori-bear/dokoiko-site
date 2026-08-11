@@ -37,13 +37,26 @@ export const PREF_TO_COMPANY = {
   '沖縄県':   'okinawa',
 };
 
-// ===== 各予約サービスの対応会社 =====
+// ===== 各予約サービスが実際に予約できる範囲（目的地の主管会社ベース）=====
+// pickJRService の判定と必ず一致させること。北陸を含める。
+// （以前はここに北陸が無く、実装と食い違ったまま未使用で放置されていた）
 export const SERVICE_COVERAGE = {
-  ekinet:     ['east', 'hokkaido'],
-  e5489:      ['west', 'shikoku', 'kyushu'],
-  smartex:    ['central', 'west', 'kyushu'],  // 東海道-山陽-九州新幹線
-  jrkyushu:   ['kyushu', 'west', 'central'],  // 九州+山陽+東海道
+  // JR東日本管内 + 北海道新幹線 + 北陸新幹線(全区間)
+  ekinet:   ['east', 'hokkaido', 'hokuriku'],
+  // 山陽/九州/西九州新幹線・北陸新幹線(上越妙高-敦賀)・JR西日本/四国/九州の在来線特急
+  e5489:    ['west', 'shikoku', 'kyushu', 'hokuriku'],
+  // 東海道・山陽・九州新幹線「のみ」。在来線特急は扱えないため、
+  // 出発地・目的地の双方が新幹線停車県のときしか使えない。
+  smartex:  ['central', 'west', 'kyushu'],
+  // 九州内 + 山陽新幹線 + 東海道新幹線
+  jrkyushu: ['kyushu', 'west', 'central'],
 };
+
+// 東海道・山陽・九州新幹線が通る県（スマートEXで到達できる範囲）
+export const SHINKANSEN_PREFS = new Set([
+  '東京都', '神奈川県', '静岡県', '愛知県', '岐阜県', '滋賀県', '京都府', '大阪府',
+  '兵庫県', '岡山県', '広島県', '山口県', '福岡県', '佐賀県', '熊本県', '鹿児島県',
+]);
 
 export const SERVICE_URL = {
   ekinet:   'https://www.eki-net.com/personal/wb/menu/00100.aspx',
@@ -74,59 +87,51 @@ export function pickJRService(origPref, destPref) {
   if (o === 'okinawa' || d === 'okinawa') return 'air';
   if (!o || !d) return 'midori';
 
-  // ── 同一会社内 ──
-  if (o === d) {
-    if (o === 'east' || o === 'hokkaido') return 'ekinet';  // JR北海道は2017年統合済
-    if (o === 'central')                   return 'smartex';  // 東海道新幹線中心
-    if (o === 'west' || o === 'shikoku')   return 'e5489';
-    if (o === 'hokuriku')                  return 'e5489';   // 北陸内(JR西日本エリア)
-    if (o === 'kyushu')                    return 'jrkyushu';
-  }
+  // スマートEXは東海道・山陽・九州新幹線しか扱えない（在来線特急は不可）。
+  // 両端が新幹線停車県のときだけ提案する。
+  // これを見ないと「大阪→青森」「名古屋→木曽」のように
+  // スマートEXでは買えない経路に誘導してしまう。
+  const exUsable = SHINKANSEN_PREFS.has(origPref) && SHINKANSEN_PREFS.has(destPref);
 
-  // ── 北陸がらみ (最優先で処理) ──
+  // ── 北陸がらみ（最優先）──
   // 北陸新幹線(東京-金沢-敦賀)はえきねっと全区間対応。
-  // 北陸-東日本=ekinet / 北陸-北海道=飛ばしすぎmidori / それ以外(西/東海/九州/四国)=e5489
   if (o === 'hokuriku' || d === 'hokuriku') {
     const other = o === 'hokuriku' ? d : o;
-    if (other === 'east')     return 'ekinet';   // 北陸新幹線 (えきねっと)
-    if (other === 'hokkaido') return 'midori';    // 札幌↔金沢等 極端な飛ばし
-    return 'e5489';                               // 西日本/東海/九州/四国/北陸 → e5489 (サンダーバード等)
+    if (other === 'hokuriku') return 'e5489';     // 北陸内
+    if (other === 'east')     return 'ekinet';    // 北陸新幹線
+    if (other === 'hokkaido') return 'midori';    // 飛ばしすぎ
+    return 'e5489';                               // 西日本/東海/九州/四国 → サンダーバード等
   }
 
-  const pair = [o, d].sort().join('-');
-
-  // ── 北海道がらみ (東日本以外) ──
-  // 北海道-東日本: 北海道新幹線(えきねっと管内通し) → ekinet
-  if (pair === 'east-hokkaido')    return 'ekinet';
-  // 北海道-中部/西/四国/九州: 本州縦断で東海道新幹線(他社)をまたぐため通し予約不可
-  //   → みどりの窓口で複数会社券
-  if (pair === 'central-hokkaido') return 'midori';
-  if (pair === 'hokkaido-west')    return 'midori';
-  if (pair === 'hokkaido-shikoku') return 'midori';
-  if (pair === 'hokkaido-kyushu')  return 'midori';
-
-  // ── 九州がらみ ──
-  if (o === 'kyushu' || d === 'kyushu') {
-    // 九州-西日本(山陽新幹線): 出発側に応じて
-    if (pair === 'kyushu-west')      return o === 'kyushu' ? 'jrkyushu' : 'e5489';
-    // 九州-中部/東日本(東海道-山陽-九州新幹線通し)
-    if (pair === 'central-kyushu')   return 'smartex';
-    if (pair === 'east-kyushu')      return 'smartex';
-    // 九州-四国: 山陽経由 (e5489)
-    if (pair === 'kyushu-shikoku')   return 'e5489';
+  // ── 北海道がらみ ──
+  if (o === 'hokkaido' || d === 'hokkaido') {
+    const other = o === 'hokkaido' ? d : o;
+    if (other === 'hokkaido' || other === 'east') return 'ekinet';  // 北海道新幹線で通し
+    return 'midori';                                                // 本州縦断は複数社
   }
 
-  // ── 東海道・山陽新幹線 (本州内) ──
-  if (pair === 'east-west')    return 'smartex';
-  if (pair === 'central-east') return 'smartex';
-  if (pair === 'central-west') return 'smartex';
+  // ── 目的地の主管会社ごとに「実際に買えるサービス」を選ぶ ──
+  // 目的地が JR東日本管内: 在来線特急も含めて えきねっと で完結できる。
+  // （大阪→青森のように東海道区間を挟む場合も、スマートEXでは買えないため
+  //   えきねっと側に寄せる。安全側の倒し方。）
+  if (d === 'east') return 'ekinet';
 
-  // ── 四国がらみ (本州側) ──
-  if (o === 'shikoku' || d === 'shikoku') {
-    if (pair === 'shikoku-west')    return 'e5489';
-    if (pair === 'central-shikoku') return 'smartex';
-    if (pair === 'east-shikoku')    return 'smartex';
+  // 目的地が九州: JR九州ネット予約が東海道・山陽新幹線まで扱える。
+  if (d === 'kyushu') {
+    if (o === 'kyushu' || o === 'west' || o === 'central' || o === 'east') return 'jrkyushu';
+    return 'midori';
   }
+
+  // 目的地が西日本・四国: 在来線特急を含め e5489 で完結できる。
+  // ただし新幹線だけで行ける区間（例: 東京→新大阪）はスマートEXの方が実用的。
+  if (d === 'west' || d === 'shikoku') {
+    if (d === 'west' && exUsable && (o === 'east' || o === 'central')) return 'smartex';
+    return 'e5489';
+  }
+
+  // 目的地がJR東海管内: 新幹線停車県同士なら スマートEX、
+  // それ以外（伊勢・鳥羽など在来線が必要）は乗換案内へ。
+  if (d === 'central') return exUsable ? 'smartex' : 'midori';
 
   return 'midori';
 }
