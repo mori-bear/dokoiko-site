@@ -776,6 +776,91 @@ try {
     letter-spacing: 0.04em !important;
   }
   .more-btn:hover { border-color: #2A6049 !important; color: #2A6049 !important; }
+
+  /* ── 検索結果カード(rc-*) ──
+     result-inner は JS の innerHTML で注入されるため data-astro-cid が付かず、
+     スコープ付き<style>のrc-*ルールが一切当たらない（object-fit:fill・
+     aspect-ratio:auto の既定で画像が間延びしていた）。ここで is:global として
+     再定義し、モバイルでも確実に cover/16:9 が効くようにする。 */
+  .rc-condition {
+    font-size: 11px !important;
+    color: #aaa !important;
+    letter-spacing: 0.06em !important;
+    margin-bottom: 18px !important;
+    padding-bottom: 14px !important;
+    border-bottom: 1px solid #f0f0f0 !important;
+  }
+  .rc-cards {
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 14px !important;
+    margin-bottom: 4px !important;
+  }
+  .rc-card {
+    display: block !important;
+    text-decoration: none !important;
+    border-radius: 12px !important;
+    overflow: hidden !important;
+    /* モバイルは縦積み: 高さは画像wrapのaspect-ratioに委ねる（flex:1だと
+       高さauto縦フレックスでカードが0に潰れるため flex 指定しない）。 */
+    flex: 0 0 auto !important;
+    min-width: 0 !important;
+  }
+  @media (min-width: 640px) {
+    .rc-cards { flex-direction: row !important; }
+    /* 横並びのときだけ均等幅にする。 */
+    .rc-card { flex: 1 1 0 !important; }
+  }
+  .rc-card-img-wrap {
+    position: relative !important;
+    width: 100% !important;
+    aspect-ratio: 16 / 9 !important;
+    overflow: hidden !important;
+    background: #eee !important;
+  }
+  .rc-card-img {
+    position: absolute !important;
+    inset: 0 !important;
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: cover !important;
+    display: block !important;
+    transition: transform 0.35s ease !important;
+  }
+  .rc-card:hover .rc-card-img { transform: scale(1.04) !important; }
+  .rc-card-overlay {
+    position: absolute !important;
+    inset: 0 !important;
+    background: linear-gradient(to top, rgba(0,0,0,0.72) 0%, rgba(0,0,0,0.1) 55%, transparent 100%) !important;
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: flex-end !important;
+    padding: 14px 16px !important;
+  }
+  .rc-card-tags-wrap { display: flex !important; flex-wrap: wrap !important; gap: 4px !important; margin-bottom: 5px !important; }
+  .rc-card-tag {
+    padding: 3px 9px !important;
+    border: 1px solid rgba(255,255,255,0.5) !important;
+    border-radius: 20px !important;
+    font-size: 10px !important;
+    color: rgba(255,255,255,0.9) !important;
+    letter-spacing: 0.02em !important;
+  }
+  .rc-card-name {
+    font-family: 'Noto Serif JP', serif !important;
+    font-size: clamp(18px, 4.5vw, 22px) !important;
+    font-weight: 400 !important;
+    color: #fff !important;
+    letter-spacing: 0.05em !important;
+    margin: 0 0 3px !important;
+    line-height: 1.25 !important;
+  }
+  .rc-card-pref {
+    font-size: 11px !important;
+    color: rgba(255,255,255,0.72) !important;
+    letter-spacing: 0.08em !important;
+    margin: 0 !important;
+  }
 </style>
 
   <!-- ① Hero -->
