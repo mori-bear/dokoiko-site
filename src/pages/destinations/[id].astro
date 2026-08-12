@@ -196,7 +196,9 @@ const hubCityName: string = (_rawHubCity && _rawHubCity !== dest.name)
 const hasOvernight = stayAllowed.includes('1night') || stayAllowed.includes('2night') || stayAllowed.includes('3night+');
 const isOwnHub = hubCityName === dest.name;
 // 現地宿ボタン表示 (hotelLinksあれば表示・daytrip専用でも近隣の宿提案として有用)
-const showLocalHotel = !!hotelLinks?.rakuten;
+// hubHotelOnly: 渓谷・展望台等で現地宿が実質存在せず、宿リンクが県汎用トップに
+// しか着地しないdestination。現地宿ボタンを出さずhub(拠点都市)宿へ一本化する。
+const showLocalHotel = !!hotelLinks?.rakuten && !(dest as any).hubHotelOnly;
 // hubに泊まる選択肢を必ず提供 (現地で泊まれても・hub != 自分なら提供)
 const showHubHotel = !!hubCityName && !isOwnHub;
 
