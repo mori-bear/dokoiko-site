@@ -1,0 +1,1175 @@
+{
+ "A": [
+  {
+   "severity": "high",
+   "id": "ishigaki",
+   "name": "石垣島",
+   "issue": "離島(strict)に鉄道到達データ疑い",
+   "detail": "access.stepsにferry無し"
+  },
+  {
+   "severity": "high",
+   "id": "miyakojima",
+   "name": "宮古島",
+   "issue": "離島(strict)に鉄道到達データ疑い",
+   "detail": "access.stepsにferry無し"
+  },
+  {
+   "severity": "high",
+   "id": "gen_北海_奥尻島",
+   "name": "奥尻島",
+   "issue": "離島(strict)に鉄道到達データ疑い",
+   "detail": "railGateway=札幌駅のみでferryGatewayなし / accessStation=札幌駅(駅)だがferryなし"
+  },
+  {
+   "severity": "high",
+   "id": "gen_北海_焼尻島",
+   "name": "焼尻島",
+   "issue": "離島(strict)に鉄道到達データ疑い",
+   "detail": "railGateway=札幌駅のみでferryGatewayなし / accessStation=札幌駅(駅)だがferryなし"
+  },
+  {
+   "severity": "high",
+   "id": "niche_長崎_7",
+   "name": "高島炭鉱遺跡",
+   "issue": "離島(strict)に鉄道到達データ疑い",
+   "detail": "railGateway=長崎駅のみでferryGatewayなし"
+  },
+  {
+   "severity": "high",
+   "id": "wajima",
+   "name": "輪島",
+   "issue": "非離島に「離島」タグ付与(テーマ検索混入)",
+   "detail": "destType=sight subType=remote primary=[離島,歴史,海] tags=[歴史,海,寺社]"
+  },
+  {
+   "severity": "high",
+   "id": "ibusuki",
+   "name": "指宿",
+   "issue": "非離島に「離島」タグ付与(テーマ検索混入)",
+   "detail": "destType=onsen subType=mountain primary=[温泉,自然,離島] tags=[温泉,自然,冬]"
+  },
+  {
+   "severity": "high",
+   "id": "sasebo",
+   "name": "佐世保",
+   "issue": "非離島に「離島」タグ付与(テーマ検索混入)",
+   "detail": "destType=city subType=remote primary=[離島,海,歴史] tags=[海,歴史,テーマパーク,子連れ]"
+  },
+  {
+   "severity": "high",
+   "id": "ouchi-juku",
+   "name": "大内宿",
+   "issue": "非離島に「離島」タグ付与(テーマ検索混入)",
+   "detail": "destType=city subType=remote primary=[歴史,街歩き,離島] tags=[歴史,街歩き]"
+  },
+  {
+   "severity": "high",
+   "id": "magome",
+   "name": "馬籠",
+   "issue": "非離島に「離島」タグ付与(テーマ検索混入)",
+   "detail": "destType=city subType=remote primary=[歴史,山,離島] tags=[歴史,山]"
+  },
+  {
+   "severity": "high",
+   "id": "wakura-onsen",
+   "name": "和倉温泉",
+   "issue": "非離島に「離島」タグ付与(テーマ検索混入)",
+   "detail": "destType=onsen subType=mountain primary=[温泉,海,離島] tags=[温泉,海,冬]"
+  },
+  {
+   "severity": "high",
+   "id": "shakotan",
+   "name": "積丹",
+   "issue": "非離島に「離島」タグ付与(テーマ検索混入)",
+   "detail": "destType=sight subType=remote primary=[海,街歩き,離島] tags=[海,街歩き]"
+  },
+  {
+   "severity": "high",
+   "id": "itoshima",
+   "name": "糸島",
+   "issue": "非離島に「離島」タグ付与(テーマ検索混入)",
+   "detail": "destType=sight subType=remote primary=[海,街歩き,離島] tags=[海,街歩き,夏]"
+  },
+  {
+   "severity": "high",
+   "id": "motobu",
+   "name": "本部",
+   "issue": "非離島に「離島」タグ付与(テーマ検索混入)",
+   "detail": "destType=sight subType=remote primary=[海,自然,離島] tags=[海,自然,子連れ]"
+  },
+  {
+   "severity": "high",
+   "id": "onna",
+   "name": "恩納村",
+   "issue": "非離島に「離島」タグ付与(テーマ検索混入)",
+   "detail": "destType=sight subType=remote primary=[海,自然,離島] tags=[海,自然]"
+  },
+  {
+   "severity": "high",
+   "id": "kasaoka-islands",
+   "name": "笠岡諸島",
+   "issue": "非離島に「離島」タグ付与(テーマ検索混入)",
+   "detail": "destType=sight subType=undefined primary=[undefined] tags=[離島,海,秘境]"
+  },
+  {
+   "severity": "high",
+   "id": "inujima",
+   "name": "犬島",
+   "issue": "瀬戸内主要島の座標がWikipedia座標と乖離",
+   "detail": "13.4km乖離 (data: 34.6667,134.1833 / wiki: 34.568,134.1) — 本土側を指している可能性"
+  },
+  {
+   "severity": "mid",
+   "id": "furano,hokkaido-furano-2",
+   "name": "富良野",
+   "issue": "同名destinationが複数存在",
+   "detail": "furano(北海道/city) vs hokkaido-furano-2(北海道/sight) 距離1km"
+  },
+  {
+   "severity": "mid",
+   "id": "takayama-o,takayama-2",
+   "name": "高山",
+   "issue": "同名destinationが複数存在",
+   "detail": "takayama-o(岐阜県/onsen) vs takayama-2(岐阜県/sight) 距離1km"
+  },
+  {
+   "severity": "mid",
+   "id": "hiraizumi,ichinoseki-hiraizumi2",
+   "name": "平泉",
+   "issue": "同名destinationが複数存在",
+   "detail": "hiraizumi(岩手県/sight) vs ichinoseki-hiraizumi2(岩手県/city) 距離0km"
+  },
+  {
+   "severity": "mid",
+   "id": "rebun-island,rebun-no-tour",
+   "name": "礼文島",
+   "issue": "同名destinationが複数存在",
+   "detail": "rebun-island(北海道/island) vs rebun-no-tour(北海道/sight) 距離3km"
+  },
+  {
+   "severity": "mid",
+   "id": "saijo,saijo-hiroshima",
+   "name": "西条",
+   "issue": "同名destinationが複数存在",
+   "detail": "saijo(愛媛県/city) vs saijo-hiroshima(広島県/city) 距離70km"
+  },
+  {
+   "severity": "mid",
+   "id": "osorezan,osorezan-area",
+   "name": "恐山",
+   "issue": "同名destinationが複数存在",
+   "detail": "osorezan(青森県/sight) vs osorezan-area(青森県/sight) 距離8km"
+  },
+  {
+   "severity": "mid",
+   "id": "arashiyama,arashiyama-2",
+   "name": "嵐山",
+   "issue": "同名destinationが複数存在",
+   "detail": "arashiyama(京都府/city) vs arashiyama-2(京都府/sight) 距離1km"
+  },
+  {
+   "severity": "mid",
+   "id": "dazaifu,dazaifu-2",
+   "name": "太宰府",
+   "issue": "同名destinationが複数存在",
+   "detail": "dazaifu(福岡県/city) vs dazaifu-2(福岡県/sight) 距離1km"
+  },
+  {
+   "severity": "mid",
+   "id": "tendou,tendo",
+   "name": "天童",
+   "issue": "同名destinationが複数存在",
+   "detail": "tendou(山形県/city) vs tendo(山形県/city) 距離13km"
+  },
+  {
+   "severity": "mid",
+   "id": "takachihogo-shishiku,shiibamura",
+   "name": "椎葉村",
+   "issue": "同名destinationが複数存在",
+   "detail": "takachihogo-shishiku(宮崎県/mountain) vs shiibamura(宮崎県/remote) 距離3km"
+  },
+  {
+   "severity": "mid",
+   "id": "ohara,ohara-2",
+   "name": "大原",
+   "issue": "同名destinationが複数存在",
+   "detail": "ohara(京都府/sight) vs ohara-2(京都府/sight) 距離0km"
+  },
+  {
+   "severity": "mid",
+   "id": "kanazawa-castle,kanazawa",
+   "name": "金沢",
+   "issue": "同名destinationが複数存在",
+   "detail": "kanazawa-castle(石川県/sight) vs kanazawa(石川県/city) 距離4km"
+  },
+  {
+   "severity": "mid",
+   "id": "daikonshima",
+   "name": "大根島",
+   "issue": "離島スポットに駅系コンテンツ疑い",
+   "detail": "spot画像URL: …0637%29.jpg/500px-Exit_F_of_Mudanyuan_Station_%2820220102140637%29.jpg"
+  }
+ ],
+ "B": [
+  {
+   "severity": "high",
+   "id": "shodoshima",
+   "name": "小豆島",
+   "issue": "フェリー日帰り圏なのにdaytrip無し",
+   "detail": "minTravel=65分 hub=高松 stayAllowed=[1night] stayRec=daytrip"
+  },
+  {
+   "severity": "high",
+   "id": "shodoshima",
+   "name": "小豆島",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] 離島 minTravel=65分"
+  },
+  {
+   "severity": "high",
+   "id": "kouzushima",
+   "name": "神津島",
+   "issue": "フェリー日帰り圏なのにdaytrip無し",
+   "detail": "minTravel=65分 hub=東京 stayAllowed=[1night] stayRec=daytrip"
+  },
+  {
+   "severity": "high",
+   "id": "kouzushima",
+   "name": "神津島",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] 離島 minTravel=65分"
+  },
+  {
+   "severity": "high",
+   "id": "izu-oshima",
+   "name": "伊豆大島",
+   "issue": "フェリー日帰り圏なのにdaytrip無し",
+   "detail": "minTravel=65分 hub=東京 stayAllowed=[1night] stayRec=daytrip"
+  },
+  {
+   "severity": "high",
+   "id": "izu-oshima",
+   "name": "伊豆大島",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] 離島 minTravel=65分"
+  },
+  {
+   "severity": "high",
+   "id": "naoshima",
+   "name": "直島",
+   "issue": "フェリー日帰り圏なのにdaytrip無し",
+   "detail": "minTravel=50分 hub=高松 stayAllowed=[1night] stayRec=daytrip"
+  },
+  {
+   "severity": "high",
+   "id": "naoshima",
+   "name": "直島",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] 離島 minTravel=50分"
+  },
+  {
+   "severity": "high",
+   "id": "amami",
+   "name": "奄美大島",
+   "issue": "フェリー日帰り圏なのにdaytrip無し",
+   "detail": "minTravel=90分 hub=鹿児島 stayAllowed=[1night] stayRec=daytrip"
+  },
+  {
+   "severity": "high",
+   "id": "amami",
+   "name": "奄美大島",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] 離島 minTravel=90分"
+  },
+  {
+   "severity": "high",
+   "id": "goto",
+   "name": "五島列島",
+   "issue": "フェリー日帰り圏なのにdaytrip無し",
+   "detail": "minTravel=50分 hub=長崎 stayAllowed=[1night] stayRec=daytrip"
+  },
+  {
+   "severity": "high",
+   "id": "goto",
+   "name": "五島列島",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] 離島 minTravel=50分"
+  },
+  {
+   "severity": "high",
+   "id": "sado-island",
+   "name": "佐渡島",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night,2night] 離島 minTravel=120分"
+  },
+  {
+   "severity": "high",
+   "id": "tsushima",
+   "name": "対馬",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night,2night] 離島 minTravel=50分"
+  },
+  {
+   "severity": "high",
+   "id": "iki-island",
+   "name": "壱岐",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night,2night] 離島 minTravel=50分"
+  },
+  {
+   "severity": "high",
+   "id": "tanegashima",
+   "name": "種子島",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night,2night] 離島 minTravel=90分"
+  },
+  {
+   "severity": "high",
+   "id": "tsunoshima",
+   "name": "角島",
+   "issue": "フェリー日帰り圏なのにdaytrip無し",
+   "detail": "minTravel=90分 hub=広島 stayAllowed=[1night] stayRec=1night"
+  },
+  {
+   "severity": "high",
+   "id": "nushima",
+   "name": "沼島",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night,2night] 離島 minTravel=115分"
+  },
+  {
+   "severity": "high",
+   "id": "noko-island",
+   "name": "能古島",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night,2night] 離島 minTravel=160分"
+  },
+  {
+   "severity": "high",
+   "id": "kinkasan",
+   "name": "金華山",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] 離島 minTravel=140分"
+  },
+  {
+   "severity": "high",
+   "id": "ikeshima",
+   "name": "池島",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] 離島 minTravel=200分"
+  },
+  {
+   "severity": "mid",
+   "id": "karuizawa",
+   "name": "軽井沢",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=105分"
+  },
+  {
+   "severity": "mid",
+   "id": "arima-onsen",
+   "name": "有馬温泉",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=55分"
+  },
+  {
+   "severity": "mid",
+   "id": "kurokawa-k",
+   "name": "黒川温泉",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=30分"
+  },
+  {
+   "severity": "mid",
+   "id": "amakusa",
+   "name": "天草",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=70分"
+  },
+  {
+   "severity": "mid",
+   "id": "takachiho",
+   "name": "高千穂",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=70分"
+  },
+  {
+   "severity": "mid",
+   "id": "ureshino-onsen",
+   "name": "嬉野温泉",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=90分"
+  },
+  {
+   "severity": "mid",
+   "id": "nozawa-onsen",
+   "name": "野沢温泉",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=115分"
+  },
+  {
+   "severity": "mid",
+   "id": "tsumago",
+   "name": "妻籠",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[2night] minTravel=100分"
+  },
+  {
+   "severity": "mid",
+   "id": "nasu",
+   "name": "那須",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night,2night] minTravel=95分"
+  },
+  {
+   "severity": "mid",
+   "id": "shiobara-onsen",
+   "name": "塩原温泉",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=95分"
+  },
+  {
+   "severity": "mid",
+   "id": "hita",
+   "name": "日田",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=90分"
+  },
+  {
+   "severity": "mid",
+   "id": "takeo-onsen",
+   "name": "武雄温泉",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=85分"
+  },
+  {
+   "severity": "mid",
+   "id": "kikuchi",
+   "name": "菊池",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=110分"
+  },
+  {
+   "severity": "mid",
+   "id": "iiyama",
+   "name": "飯山",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=115分"
+  },
+  {
+   "severity": "mid",
+   "id": "ushimado",
+   "name": "牛窓",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[2night] minTravel=55分"
+  },
+  {
+   "severity": "mid",
+   "id": "norikura",
+   "name": "乗鞍",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[2night] minTravel=180分"
+  },
+  {
+   "severity": "mid",
+   "id": "niyodogawa",
+   "name": "仁淀川",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[2night] minTravel=180分"
+  },
+  {
+   "severity": "mid",
+   "id": "anan",
+   "name": "阿南",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[2night] minTravel=180分"
+  },
+  {
+   "severity": "mid",
+   "id": "chiran",
+   "name": "知覧",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=155分"
+  },
+  {
+   "severity": "mid",
+   "id": "nagatoro",
+   "name": "長瀞",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=130分"
+  },
+  {
+   "severity": "mid",
+   "id": "onuma",
+   "name": "大沼公園",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[2night] minTravel=30分"
+  },
+  {
+   "severity": "mid",
+   "id": "shimonada",
+   "name": "下灘",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=130分"
+  },
+  {
+   "severity": "mid",
+   "id": "nima",
+   "name": "仁摩",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=175分"
+  },
+  {
+   "severity": "mid",
+   "id": "tojinbo",
+   "name": "東尋坊",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[2night] minTravel=140分"
+  },
+  {
+   "severity": "mid",
+   "id": "keta-taisha",
+   "name": "気多大社",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[2night] minTravel=170分"
+  },
+  {
+   "severity": "mid",
+   "id": "kaizu-osaki",
+   "name": "海津大崎",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[2night] minTravel=100分"
+  },
+  {
+   "severity": "mid",
+   "id": "metasequoia",
+   "name": "メタセコイア並木",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[2night] minTravel=95分"
+  },
+  {
+   "severity": "mid",
+   "id": "tango-matsushima",
+   "name": "丹後松島",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[2night] minTravel=130分"
+  },
+  {
+   "severity": "mid",
+   "id": "ikoma-kogen",
+   "name": "生駒高原",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=160分"
+  },
+  {
+   "severity": "mid",
+   "id": "tateyamasaki",
+   "name": "楯ヶ崎",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night,2night] minTravel=200分"
+  },
+  {
+   "severity": "mid",
+   "id": "kasadojima",
+   "name": "笠戸島",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night,2night] minTravel=165分"
+  },
+  {
+   "severity": "mid",
+   "id": "fukiya",
+   "name": "吹屋ふるさと村",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=130分"
+  },
+  {
+   "severity": "mid",
+   "id": "nagi-okayama",
+   "name": "奈義町",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=145分"
+  },
+  {
+   "severity": "mid",
+   "id": "obama-fukui",
+   "name": "小浜",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=130分"
+  },
+  {
+   "severity": "mid",
+   "id": "hakushu",
+   "name": "白州",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=130分"
+  },
+  {
+   "severity": "mid",
+   "id": "miyama-kayabuki",
+   "name": "美山かやぶきの里",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=140分"
+  },
+  {
+   "severity": "mid",
+   "id": "keihoku",
+   "name": "京北",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=130分"
+  },
+  {
+   "severity": "mid",
+   "id": "takeda-castle",
+   "name": "竹田城跡",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=165分"
+  },
+  {
+   "severity": "mid",
+   "id": "katsurahama",
+   "name": "桂浜",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=130分"
+  },
+  {
+   "severity": "mid",
+   "id": "niigata-city",
+   "name": "新潟",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=130分"
+  },
+  {
+   "severity": "mid",
+   "id": "senjojiki-aomori",
+   "name": "千畳敷海岸",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=240分"
+  },
+  {
+   "severity": "mid",
+   "id": "mogami-funakudari",
+   "name": "最上川舟下り",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=130分"
+  },
+  {
+   "severity": "mid",
+   "id": "tomioka-silk",
+   "name": "富岡製糸場",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=130分"
+  },
+  {
+   "severity": "mid",
+   "id": "matsumoto-castle-2",
+   "name": "松本城",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=200分"
+  },
+  {
+   "severity": "mid",
+   "id": "nakasendo-tsumago",
+   "name": "妻籠宿",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=130分"
+  },
+  {
+   "severity": "mid",
+   "id": "wajima-asaichi",
+   "name": "輪島朝市",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=130分"
+  },
+  {
+   "severity": "mid",
+   "id": "akiyoshido",
+   "name": "秋芳洞",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=180分"
+  },
+  {
+   "severity": "mid",
+   "id": "soni-kogen",
+   "name": "曽爾高原",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=130分"
+  },
+  {
+   "severity": "mid",
+   "id": "tottori-castle",
+   "name": "鳥取城跡",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=175分"
+  },
+  {
+   "severity": "mid",
+   "id": "tottori-sakyu-2",
+   "name": "砂の美術館",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=180分"
+  },
+  {
+   "severity": "mid",
+   "id": "mizuki-shigeru-road",
+   "name": "水木しげるロード",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=220分"
+  },
+  {
+   "severity": "mid",
+   "id": "shoji-ueshima",
+   "name": "雨滝",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=200分"
+  },
+  {
+   "severity": "mid",
+   "id": "mt-fuji-fifth",
+   "name": "富士山五合目",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=180分"
+  },
+  {
+   "severity": "mid",
+   "id": "saiko",
+   "name": "西湖",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=130分"
+  },
+  {
+   "severity": "mid",
+   "id": "shoji-lake",
+   "name": "精進湖",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=145分"
+  },
+  {
+   "severity": "mid",
+   "id": "saiko-kawaguchi",
+   "name": "河口湖",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night,2night] minTravel=130分"
+  },
+  {
+   "severity": "mid",
+   "id": "ryujin-suspension",
+   "name": "竜神大吊橋",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=130分"
+  },
+  {
+   "severity": "mid",
+   "id": "kasuga-gifu",
+   "name": "飛騨大鍾乳洞",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=165分"
+  },
+  {
+   "severity": "mid",
+   "id": "meoto-iwa",
+   "name": "夫婦岩",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=130分"
+  },
+  {
+   "severity": "mid",
+   "id": "saitobaru",
+   "name": "西都原古墳群",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=130分"
+  },
+  {
+   "severity": "mid",
+   "id": "izu-jogasaki",
+   "name": "城ヶ崎海岸",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=130分"
+  },
+  {
+   "severity": "mid",
+   "id": "shobara-2",
+   "name": "帝釈峡",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=130分"
+  },
+  {
+   "severity": "mid",
+   "id": "takada-jo",
+   "name": "高田城址公園",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=145分"
+  },
+  {
+   "severity": "mid",
+   "id": "aizu-2",
+   "name": "七日町通り",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=130分"
+  },
+  {
+   "severity": "mid",
+   "id": "aomori-hirosaki-2",
+   "name": "弘前城",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=200分"
+  },
+  {
+   "severity": "mid",
+   "id": "aomori-aomori-2",
+   "name": "青森ねぶた祭",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=130分"
+  },
+  {
+   "severity": "mid",
+   "id": "akita-yokote",
+   "name": "横手",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=165分"
+  },
+  {
+   "severity": "mid",
+   "id": "kochi-castle",
+   "name": "高知城",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=130分"
+  },
+  {
+   "severity": "mid",
+   "id": "hakuto-tottori",
+   "name": "白兎神社",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=195分"
+  },
+  {
+   "severity": "mid",
+   "id": "fukushima-aizu-2",
+   "name": "塔のへつり",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=165分"
+  },
+  {
+   "severity": "mid",
+   "id": "niigata-bandai",
+   "name": "弥彦神社",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=160分"
+  },
+  {
+   "severity": "mid",
+   "id": "tottori-mt-mitoku",
+   "name": "三徳山投入堂",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=200分"
+  },
+  {
+   "severity": "mid",
+   "id": "niche_山形_1",
+   "name": "白鷹町べにばな温泉郷",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=150分"
+  },
+  {
+   "severity": "mid",
+   "id": "niche_山形_2",
+   "name": "庄内町庭月観音温泉",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=150分"
+  },
+  {
+   "severity": "mid",
+   "id": "niche_群馬_1",
+   "name": "佐野の門前町",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=180分"
+  },
+  {
+   "severity": "mid",
+   "id": "niche_群馬_4",
+   "name": "桐生の工場跡と町並み",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=180分"
+  },
+  {
+   "severity": "mid",
+   "id": "niche_富山_1",
+   "name": "庄川峡",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=160分"
+  },
+  {
+   "severity": "mid",
+   "id": "niche_富山_2",
+   "name": "利賀村",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=160分"
+  },
+  {
+   "severity": "mid",
+   "id": "niche_富山_3",
+   "name": "福光地区",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=160分"
+  },
+  {
+   "severity": "mid",
+   "id": "niche_富山_4",
+   "name": "舟川べり",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=160分"
+  },
+  {
+   "severity": "mid",
+   "id": "niche_富山_6",
+   "name": "五箇山平村",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=160分"
+  },
+  {
+   "severity": "mid",
+   "id": "niche_石川_1",
+   "name": "大白川温泉",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=160分"
+  },
+  {
+   "severity": "mid",
+   "id": "niche_石川_3",
+   "name": "木場潟",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=160分"
+  },
+  {
+   "severity": "mid",
+   "id": "niche_石川_4",
+   "name": "加佐ノ岬",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=160分"
+  },
+  {
+   "severity": "mid",
+   "id": "niche_石川_6",
+   "name": "九谷陶芸村",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=160分"
+  },
+  {
+   "severity": "mid",
+   "id": "niche_山梨_1",
+   "name": "道志村渓谷",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=130分"
+  },
+  {
+   "severity": "mid",
+   "id": "niche_山梨_2",
+   "name": "南部町・湯船温泉",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=130分"
+  },
+  {
+   "severity": "mid",
+   "id": "niche_山梨_3",
+   "name": "丹波山温泉・多摩川源流",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=130分"
+  },
+  {
+   "severity": "mid",
+   "id": "niche_山梨_4",
+   "name": "猿橋宿場町",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=130分"
+  },
+  {
+   "severity": "mid",
+   "id": "niche_山梨_5",
+   "name": "猿が城跡",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=130分"
+  },
+  {
+   "severity": "mid",
+   "id": "niche_山梨_7",
+   "name": "塩山梅林",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=130分"
+  },
+  {
+   "severity": "mid",
+   "id": "niche_岐阜_1",
+   "name": "恵那峡",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=160分"
+  },
+  {
+   "severity": "mid",
+   "id": "niche_岐阜_4",
+   "name": "付知峡",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=160分"
+  },
+  {
+   "severity": "mid",
+   "id": "niche_岐阜_5",
+   "name": "根尾谷淡墨桜",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=160分"
+  },
+  {
+   "severity": "mid",
+   "id": "niche_岐阜_6",
+   "name": "太田宿",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=160分"
+  },
+  {
+   "severity": "mid",
+   "id": "niche_岐阜_7",
+   "name": "春日集落",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=160分"
+  },
+  {
+   "severity": "mid",
+   "id": "niche_岐阜_8",
+   "name": "養老公園",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=160分"
+  },
+  {
+   "severity": "mid",
+   "id": "niche_和歌山_1",
+   "name": "湯浅醤油蔵と古い町並み",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=160分"
+  },
+  {
+   "severity": "mid",
+   "id": "niche_和歌山_2",
+   "name": "三輪崎の漁港と海鮮食堂街",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=160分"
+  },
+  {
+   "severity": "mid",
+   "id": "niche_和歌山_3",
+   "name": "北山村いかだ下り",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=160分"
+  },
+  {
+   "severity": "mid",
+   "id": "niche_和歌山_6",
+   "name": "高野龍神スカイライン",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=160分"
+  },
+  {
+   "severity": "mid",
+   "id": "niche_和歌山_8",
+   "name": "印南くじらの浜",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=160分"
+  },
+  {
+   "severity": "mid",
+   "id": "niche_島根_1",
+   "name": "斐伊川荒島地区",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=160分"
+  },
+  {
+   "severity": "mid",
+   "id": "niche_島根_4",
+   "name": "掛合町の鐘乳洞群",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=160分"
+  },
+  {
+   "severity": "mid",
+   "id": "niche_島根_6",
+   "name": "黒淵の滝",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=160分"
+  },
+  {
+   "severity": "mid",
+   "id": "niche_山口_2",
+   "name": "錦川峡谷",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=180分"
+  },
+  {
+   "severity": "mid",
+   "id": "niche_山口_4",
+   "name": "仙崎漁港",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=180分"
+  },
+  {
+   "severity": "mid",
+   "id": "niche_山口_6",
+   "name": "須佐ホルンフェルス",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=180分"
+  },
+  {
+   "severity": "mid",
+   "id": "niche_大分_1",
+   "name": "佐賀関漁港と三浦海岸",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=130分"
+  },
+  {
+   "severity": "mid",
+   "id": "niche_大分_2",
+   "name": "青の洞門と耶馬渓",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=130分"
+  },
+  {
+   "severity": "mid",
+   "id": "niche_大分_3",
+   "name": "長湯温泉",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=130分"
+  },
+  {
+   "severity": "mid",
+   "id": "niche_大分_4",
+   "name": "稲積水中鍾乳洞",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=130分"
+  },
+  {
+   "severity": "mid",
+   "id": "niche_鹿児島_1",
+   "name": "串木野港周辺の漁師町",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=140分"
+  },
+  {
+   "severity": "mid",
+   "id": "niche_鹿児島_2",
+   "name": "関之尾滝",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=140分"
+  },
+  {
+   "severity": "mid",
+   "id": "niche_鹿児島_3",
+   "name": "白糸の滝",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=140分"
+  },
+  {
+   "severity": "mid",
+   "id": "niche_鹿児島_5",
+   "name": "栗野岳温泉郷",
+   "issue": "stayRec=daytripなのにstayAllowedにdaytrip無し",
+   "detail": "stayAllowed=[1night] minTravel=140分"
+  }
+ ]
+}

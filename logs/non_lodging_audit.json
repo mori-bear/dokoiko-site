@@ -1,0 +1,3164 @@
+[
+ {
+  "id": "hakuto",
+  "name": "白兎海岸",
+  "destType": "sight",
+  "prefecture": "鳥取県",
+  "stayAllowed": [
+   "daytrip"
+  ],
+  "hub": "鳥取",
+  "stayArea": "白兎海岸",
+  "hotelKeyword": "白兎海岸",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/310000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/tottori/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "yogo",
+  "name": "余呉湖",
+  "destType": "sight",
+  "prefecture": "滋賀県",
+  "stayAllowed": [
+   "daytrip"
+  ],
+  "hub": "長浜",
+  "stayArea": "長浜",
+  "hotelKeyword": "長浜",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/250000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/shiga/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "sannai-maruyama",
+  "name": "三内丸山遺跡",
+  "destType": "sight",
+  "prefecture": "青森県",
+  "stayAllowed": [
+   "daytrip"
+  ],
+  "hub": "青森",
+  "stayArea": null,
+  "hotelKeyword": "青森",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/020000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/aomori/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "sumatakyo",
+  "name": "寸又峡",
+  "destType": "sight",
+  "prefecture": "静岡県",
+  "stayAllowed": [
+   "1night"
+  ],
+  "hub": "東京",
+  "stayArea": null,
+  "hotelKeyword": "寸又峡 川根本町",
+  "featuredStay": "寸又峡温泉 翠紅苑",
+  "jalan": "https://www.jalan.net/220000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/shizuoka/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "ashinoko",
+  "name": "芦ノ湖",
+  "destType": "sight",
+  "prefecture": "神奈川県",
+  "stayAllowed": [
+   "daytrip",
+   "1night",
+   "2night"
+  ],
+  "hub": "東京",
+  "stayArea": null,
+  "hotelKeyword": "箱根",
+  "featuredStay": "小田急 山のホテル",
+  "jalan": "https://www.jalan.net/140000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/kanagawa/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "tottori-sakyu",
+  "name": "鳥取砂丘",
+  "destType": "sight",
+  "prefecture": "鳥取県",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "hub": "大阪",
+  "stayArea": null,
+  "hotelKeyword": "鳥取",
+  "featuredStay": "鳥取温泉 観水庭こぜにや",
+  "jalan": "https://www.jalan.net/310000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/tottori/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "iya-vine-bridge",
+  "name": "祖谷のかずら橋",
+  "destType": "sight",
+  "prefecture": "徳島県",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "hub": "高松",
+  "stayArea": null,
+  "hotelKeyword": "大歩危 三好",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/360000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/tokushima/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "hiruzen",
+  "name": "蒜山高原",
+  "destType": "sight",
+  "prefecture": "岡山県",
+  "stayAllowed": [
+   "1night",
+   "2night"
+  ],
+  "hub": "大阪",
+  "stayArea": null,
+  "hotelKeyword": "蒜山高原",
+  "featuredStay": "休暇村 蒜山高原",
+  "jalan": "https://www.jalan.net/330000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/okayama/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "boso-hills",
+  "name": "養老渓谷",
+  "destType": "sight",
+  "prefecture": "千葉県",
+  "stayAllowed": [
+   "1night"
+  ],
+  "hub": "東京",
+  "stayArea": null,
+  "hotelKeyword": "養老渓谷 大多喜",
+  "featuredStay": "養老温泉 秘湯の宿 滝見苑",
+  "jalan": "https://www.jalan.net/120000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/chiba/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "inawashiro",
+  "name": "猪苗代湖",
+  "destType": "sight",
+  "prefecture": "福島県",
+  "stayAllowed": [
+   "1night"
+  ],
+  "hub": "仙台",
+  "stayArea": null,
+  "hotelKeyword": "猪苗代",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/070000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/fukushima/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "takeda-castle",
+  "name": "竹田城跡",
+  "destType": "sight",
+  "prefecture": "兵庫県",
+  "stayAllowed": [
+   "1night"
+  ],
+  "hub": "大阪",
+  "stayArea": null,
+  "hotelKeyword": "竹田城 朝来",
+  "featuredStay": "竹田城 城下町ホテルEN",
+  "jalan": "https://www.jalan.net/280000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/hyogo/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "takamatsu-ritsurin",
+  "name": "栗林公園",
+  "destType": "sight",
+  "prefecture": "香川県",
+  "stayAllowed": [
+   "daytrip"
+  ],
+  "hub": "高松",
+  "stayArea": null,
+  "hotelKeyword": "高松",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/370000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/kagawa/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "nichinan-coast",
+  "name": "日南海岸",
+  "destType": "sight",
+  "prefecture": "宮崎県",
+  "stayAllowed": [
+   "1night"
+  ],
+  "hub": "福岡",
+  "stayArea": null,
+  "hotelKeyword": "日南",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/450000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/miyazaki/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "soya-misaki",
+  "name": "宗谷岬",
+  "destType": "sight",
+  "prefecture": "北海道",
+  "stayAllowed": [
+   "1night",
+   "2night"
+  ],
+  "hub": "札幌",
+  "stayArea": null,
+  "hotelKeyword": "稚内 宗谷",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/010000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/hokkaido/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "senjojiki-aomori",
+  "name": "千畳敷海岸",
+  "destType": "sight",
+  "prefecture": "青森県",
+  "stayAllowed": [
+   "1night"
+  ],
+  "hub": "仙台",
+  "stayArea": null,
+  "hotelKeyword": "千畳敷 鯵ヶ沢",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/020000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/aomori/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "miharu-takizakura",
+  "name": "三春滝桜",
+  "destType": "sight",
+  "prefecture": "福島県",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "hub": "仙台",
+  "stayArea": null,
+  "hotelKeyword": "三春 郡山",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/070000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/fukushima/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "hitachi-seaside",
+  "name": "ひたち海浜公園",
+  "destType": "sight",
+  "prefecture": "茨城県",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "hub": "東京",
+  "stayArea": null,
+  "hotelKeyword": "ひたち 大洗",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/080000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/ibaraki/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "nachi-falls",
+  "name": "那智の滝",
+  "destType": "sight",
+  "prefecture": "和歌山県",
+  "stayAllowed": [
+   "1night"
+  ],
+  "hub": "大阪",
+  "stayArea": null,
+  "hotelKeyword": "那智勝浦",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/300000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/wakayama/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "akiyoshido",
+  "name": "秋芳洞",
+  "destType": "sight",
+  "prefecture": "山口県",
+  "stayAllowed": [
+   "1night"
+  ],
+  "hub": "広島",
+  "stayArea": null,
+  "hotelKeyword": "秋芳洞 美祢",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/350000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/yamaguchi/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "aharen",
+  "name": "阿波連ビーチ",
+  "destType": "island",
+  "prefecture": "沖縄県",
+  "stayAllowed": [
+   "1night"
+  ],
+  "hub": "那覇",
+  "stayArea": "あはれん",
+  "hotelKeyword": "あはれん",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/470000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/okinawa/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "nara-park",
+  "name": "奈良公園",
+  "destType": "sight",
+  "prefecture": "奈良県",
+  "stayAllowed": [
+   "daytrip"
+  ],
+  "hub": "大阪",
+  "stayArea": null,
+  "hotelKeyword": "奈良",
+  "featuredStay": "奈良ホテル",
+  "jalan": "https://www.jalan.net/290000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/nara/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "soni-kogen",
+  "name": "曽爾高原",
+  "destType": "sight",
+  "prefecture": "奈良県",
+  "stayAllowed": [
+   "1night"
+  ],
+  "hub": "大阪",
+  "stayArea": null,
+  "hotelKeyword": "曽爾 名張",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/290000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/nara/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "tottori-castle",
+  "name": "鳥取城跡",
+  "destType": "sight",
+  "prefecture": "鳥取県",
+  "stayAllowed": [
+   "1night"
+  ],
+  "hub": "大阪",
+  "stayArea": null,
+  "hotelKeyword": "鳥取",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/310000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/tottori/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "shoji-ueshima",
+  "name": "雨滝",
+  "destType": "sight",
+  "prefecture": "鳥取県",
+  "stayAllowed": [
+   "1night"
+  ],
+  "hub": "大阪",
+  "stayArea": null,
+  "hotelKeyword": "鳥取 岩井",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/310000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/tottori/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "ryujin-suspension",
+  "name": "竜神大吊橋",
+  "destType": "sight",
+  "prefecture": "茨城県",
+  "stayAllowed": [
+   "1night"
+  ],
+  "hub": "東京",
+  "stayArea": null,
+  "hotelKeyword": "常陸太田",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/080000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/ibaraki/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "yoro-falls",
+  "name": "養老の滝",
+  "destType": "sight",
+  "prefecture": "岐阜県",
+  "stayAllowed": [
+   "daytrip"
+  ],
+  "hub": "名古屋",
+  "stayArea": null,
+  "hotelKeyword": "養老 大垣",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/210000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/gifu/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "kasuga-gifu",
+  "name": "飛騨大鍾乳洞",
+  "destType": "sight",
+  "prefecture": "岐阜県",
+  "stayAllowed": [
+   "1night"
+  ],
+  "hub": "名古屋",
+  "stayArea": null,
+  "hotelKeyword": "高山",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/210000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/gifu/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "iya-vine-2",
+  "name": "かずら橋",
+  "destType": "sight",
+  "prefecture": "徳島県",
+  "stayAllowed": [
+   "1night"
+  ],
+  "hub": "高松",
+  "stayArea": null,
+  "hotelKeyword": "祖谷 三好",
+  "featuredStay": "新祖谷温泉 ホテルかずら橋",
+  "jalan": "https://www.jalan.net/360000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/tokushima/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "senri",
+  "name": "万博記念公園",
+  "destType": "sight",
+  "prefecture": "大阪府",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "hub": "大阪",
+  "stayArea": null,
+  "hotelKeyword": "万博公園 千里",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/270000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/osaka/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "kurobe-gorge",
+  "name": "黒部峡谷",
+  "destType": "sight",
+  "prefecture": "富山県",
+  "stayAllowed": [
+   "1night"
+  ],
+  "hub": "金沢",
+  "stayArea": null,
+  "hotelKeyword": "黒部 宇奈月",
+  "featuredStay": "黒部峡谷 宇奈月温泉 延楽",
+  "jalan": "https://www.jalan.net/160000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/toyama/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "amaharashi",
+  "name": "雨晴海岸",
+  "destType": "sight",
+  "prefecture": "富山県",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "hub": "金沢",
+  "stayArea": null,
+  "hotelKeyword": "高岡 氷見",
+  "featuredStay": "雨晴温泉 磯はなび",
+  "jalan": "https://www.jalan.net/160000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/toyama/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "biwako",
+  "name": "琵琶湖",
+  "destType": "sight",
+  "prefecture": "滋賀県",
+  "stayAllowed": [
+   "daytrip",
+   "1night",
+   "2night"
+  ],
+  "hub": "大阪",
+  "stayArea": null,
+  "hotelKeyword": "大津 滋賀",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/250000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/shiga/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "akame-falls",
+  "name": "赤目四十八滝",
+  "destType": "sight",
+  "prefecture": "三重県",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "hub": "大阪",
+  "stayArea": null,
+  "hotelKeyword": "赤目 名張",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/240000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/mie/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "saitobaru",
+  "name": "西都原古墳群",
+  "destType": "sight",
+  "prefecture": "宮崎県",
+  "stayAllowed": [
+   "1night"
+  ],
+  "hub": "福岡",
+  "stayArea": null,
+  "hotelKeyword": "西都",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/450000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/miyazaki/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "chiba-zoo",
+  "name": "千葉動物公園",
+  "destType": "sight",
+  "prefecture": "千葉県",
+  "stayAllowed": [
+   "daytrip"
+  ],
+  "hub": "東京",
+  "stayArea": null,
+  "hotelKeyword": "千葉",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/120000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/chiba/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "izu-jogasaki",
+  "name": "城ヶ崎海岸",
+  "destType": "sight",
+  "prefecture": "静岡県",
+  "stayAllowed": [
+   "1night"
+  ],
+  "hub": "東京",
+  "stayArea": null,
+  "hotelKeyword": "伊豆",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/220000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/shizuoka/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "hiroshima-2",
+  "name": "広島平和記念公園",
+  "destType": "sight",
+  "prefecture": "広島県",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "hub": "広島",
+  "stayArea": null,
+  "hotelKeyword": "広島",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/340000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/hiroshima/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "shobara-2",
+  "name": "帝釈峡",
+  "destType": "sight",
+  "prefecture": "広島県",
+  "stayAllowed": [
+   "1night"
+  ],
+  "hub": "広島",
+  "stayArea": null,
+  "hotelKeyword": "庄原 三次",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/340000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/hiroshima/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "shodoshima-canyon",
+  "name": "寒霞渓",
+  "destType": "sight",
+  "prefecture": "香川県",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "hub": "高松",
+  "stayArea": null,
+  "hotelKeyword": "小豆島",
+  "featuredStay": "島宿 真里",
+  "jalan": "https://www.jalan.net/370000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/kagawa/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "okinawa-chinen",
+  "name": "知念岬公園",
+  "destType": "sight",
+  "prefecture": "沖縄県",
+  "stayAllowed": [
+   "daytrip"
+  ],
+  "hub": "那覇",
+  "stayArea": null,
+  "hotelKeyword": "南城 那覇",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/470000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/okinawa/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "cape-zampa",
+  "name": "残波岬",
+  "destType": "sight",
+  "prefecture": "沖縄県",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "hub": "那覇",
+  "stayArea": null,
+  "hotelKeyword": "読谷",
+  "featuredStay": "星のや沖縄",
+  "jalan": "https://www.jalan.net/470000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/okinawa/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "okinawa-cape-hedo",
+  "name": "辺戸岬",
+  "destType": "sight",
+  "prefecture": "沖縄県",
+  "stayAllowed": [
+   "1night"
+  ],
+  "hub": "那覇",
+  "stayArea": null,
+  "hotelKeyword": "国頭 名護",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/470000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/okinawa/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "akita-nyuto",
+  "name": "田沢湖高原",
+  "destType": "sight",
+  "prefecture": "秋田県",
+  "stayAllowed": [
+   "1night"
+  ],
+  "hub": "仙台",
+  "stayArea": null,
+  "hotelKeyword": "田沢湖",
+  "featuredStay": "乳頭温泉郷 鶴の湯温泉",
+  "jalan": "https://www.jalan.net/050000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/akita/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "saga-yoshino",
+  "name": "吉野ヶ里歴史公園",
+  "destType": "sight",
+  "prefecture": "佐賀県",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "hub": "福岡",
+  "stayArea": null,
+  "hotelKeyword": "佐賀",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/410000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/saga/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "ryugado",
+  "name": "龍河洞",
+  "destType": "sight",
+  "prefecture": "高知県",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "hub": "高知",
+  "stayArea": null,
+  "hotelKeyword": "香美 土佐山田",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/390000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/kochi/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "niche_宮城_3",
+  "name": "七ヶ宿町のダム湖",
+  "destType": "nature",
+  "prefecture": "宮城県",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "hub": "仙台",
+  "stayArea": "七ヶ宿町のダム湖と山村集落",
+  "hotelKeyword": "七ヶ宿町のダム湖と山村集落",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/040000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/miyagi/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "niche_秋田_5",
+  "name": "太平湖と奥ノ松渓谷",
+  "destType": "nature",
+  "prefecture": "秋田県",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "hub": "秋田",
+  "stayArea": "太平湖と奥ノ松渓谷",
+  "hotelKeyword": "太平湖と奥ノ松渓谷",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/050000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/akita/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "niche_福島_5",
+  "name": "棚倉城跡",
+  "destType": "historic",
+  "prefecture": "福島県",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "hub": "福島",
+  "stayArea": "棚倉町・城跡と古い寺社仏閣の静寂",
+  "hotelKeyword": "棚倉町・城跡と古い寺社仏閣の静寂",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/070000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/fukushima/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "niche_埼玉_1",
+  "name": "寄居町の荒川渓谷",
+  "destType": "nature",
+  "prefecture": "埼玉県",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "hub": "大宮",
+  "stayArea": "寄居町の荒川沿い渓谷地帯",
+  "hotelKeyword": "寄居町の荒川沿い渓谷地帯",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/110000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/saitama/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "niche_千葉_1",
+  "name": "飯岡刑部岬",
+  "destType": "sight",
+  "prefecture": "千葉県",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "hub": "千葉",
+  "stayArea": "飯岡刑部岬",
+  "hotelKeyword": "飯岡刑部岬",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/120000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/chiba/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "niche_千葉_4",
+  "name": "片貝海岸",
+  "destType": "sight",
+  "prefecture": "千葉県",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "hub": "千葉",
+  "stayArea": "片貝海岸・九十九里浜南部の漁村",
+  "hotelKeyword": "片貝海岸・九十九里浜南部の漁村",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/120000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/chiba/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "niche_千葉_5",
+  "name": "御宿中央海岸",
+  "destType": "town",
+  "prefecture": "千葉県",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "hub": "千葉",
+  "stayArea": "御宿町・中央海岸・歴史的町並み",
+  "hotelKeyword": "御宿町・中央海岸・歴史的町並み",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/120000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/chiba/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "niche_東京_4",
+  "name": "奥多摩湖",
+  "destType": "sight",
+  "prefecture": "東京都",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "hub": "東京",
+  "stayArea": "奥多摩湖周辺・小河内ダム",
+  "hotelKeyword": "奥多摩湖周辺・小河内ダム",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/130000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/tokyo/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "niche_神奈川_4",
+  "name": "大磯照ヶ崎海岸",
+  "destType": "historic",
+  "prefecture": "神奈川県",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "hub": "横浜",
+  "stayArea": "大磯の松並木と旧街道・照ヶ崎海岸",
+  "hotelKeyword": "大磯の松並木と旧街道・照ヶ崎海岸",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/140000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/kanagawa/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "niche_富山_1",
+  "name": "庄川峡",
+  "destType": "nature",
+  "prefecture": "富山県",
+  "stayAllowed": [
+   "1night"
+  ],
+  "hub": "富山",
+  "stayArea": "庄川町の清流と白川郷へのゲートウェイ",
+  "hotelKeyword": "庄川町の清流と白川郷へのゲートウェイ",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/160000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/toyama/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "niche_岐阜_1",
+  "name": "恵那峡",
+  "destType": "nature",
+  "prefecture": "岐阜県",
+  "stayAllowed": [
+   "1night"
+  ],
+  "hub": "岐阜",
+  "stayArea": "恵那峡",
+  "hotelKeyword": "恵那峡",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/210000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/gifu/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "niche_岐阜_4",
+  "name": "付知峡",
+  "destType": "nature",
+  "prefecture": "岐阜県",
+  "stayAllowed": [
+   "1night"
+  ],
+  "hub": "岐阜",
+  "stayArea": "付知峡（つきしきょう）",
+  "hotelKeyword": "付知峡（つきしきょう）",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/210000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/gifu/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "niche_岐阜_8",
+  "name": "養老公園",
+  "destType": "nature",
+  "prefecture": "岐阜県",
+  "stayAllowed": [
+   "1night"
+  ],
+  "hub": "岐阜",
+  "stayArea": "養老公園・孝子の滝周辺",
+  "hotelKeyword": "養老公園・孝子の滝周辺",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/210000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/gifu/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "niche_静岡_3",
+  "name": "石部棚田",
+  "destType": "sight",
+  "prefecture": "静岡県",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "hub": "静岡",
+  "stayArea": "松崎町・石部棚田と海岸美景",
+  "hotelKeyword": "松崎町・石部棚田と海岸美景",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/220000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/shizuoka/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "niche_愛知_1",
+  "name": "伊良湖岬",
+  "destType": "sight",
+  "prefecture": "愛知県",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "hub": "名古屋",
+  "stayArea": "田原の伊良湖岬周辺",
+  "hotelKeyword": "田原の伊良湖岬周辺",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/230000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/aichi/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "niche_愛知_3",
+  "name": "鳳来峡",
+  "destType": "nature",
+  "prefecture": "愛知県",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "hub": "名古屋",
+  "stayArea": "新城市の鳳来峡渓谷",
+  "hotelKeyword": "新城市の鳳来峡渓谷",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/230000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/aichi/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "niche_三重_2",
+  "name": "宮川渓谷",
+  "destType": "nature",
+  "prefecture": "三重県",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "hub": "津",
+  "stayArea": "大台町・宮川の秘境渓谷と林業の町",
+  "hotelKeyword": "大台町・宮川の秘境渓谷と林業の町",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/240000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/mie/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "niche_滋賀_3",
+  "name": "永源寺門前と愛知川",
+  "destType": "historic",
+  "prefecture": "滋賀県",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "hub": "大津",
+  "stayArea": "永源寺の門前と愛知川沿いの古い製紙地帯",
+  "hotelKeyword": "永源寺の門前と愛知川沿いの古い製紙地帯",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/250000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/shiga/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "niche_京都_5",
+  "name": "由良川渓谷",
+  "destType": "nature",
+  "prefecture": "京都府",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "hub": "京都",
+  "stayArea": "綾部市・由良川沿い渓谷",
+  "hotelKeyword": "綾部市・由良川沿い渓谷",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/260000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/kyoto/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "niche_大阪_1",
+  "name": "能勢白滝",
+  "destType": "nature",
+  "prefecture": "大阪府",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "hub": "大阪",
+  "stayArea": "能勢町の山里と白滝",
+  "hotelKeyword": "能勢町の山里と白滝",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/270000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/osaka/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "niche_兵庫_1",
+  "name": "武庫川渓谷",
+  "destType": "nature",
+  "prefecture": "兵庫県",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "hub": "神戸",
+  "stayArea": "三田市・フラワータウン周辺と武庫川渓谷",
+  "hotelKeyword": "三田市・フラワータウン周辺と武庫川渓谷",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/280000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/hyogo/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "niche_奈良_1",
+  "name": "黒滝村の清流と黒滝",
+  "destType": "nature",
+  "prefecture": "奈良県",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "hub": "奈良",
+  "stayArea": "黒滝村の黒滝と清流散策",
+  "hotelKeyword": "黒滝村の黒滝と清流散策",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/290000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/nara/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "niche_鳥取_1",
+  "name": "東郷湖",
+  "destType": "onsen",
+  "prefecture": "鳥取県",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "hub": "鳥取",
+  "stayArea": "湯梨浜町・東郷湖周辺",
+  "hotelKeyword": "湯梨浜町・東郷湖周辺",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/310000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/tottori/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "niche_島根_6",
+  "name": "黒淵の滝",
+  "destType": "nature",
+  "prefecture": "島根県",
+  "stayAllowed": [
+   "1night"
+  ],
+  "hub": "松江",
+  "stayArea": "益田市・匹見峡と黒淵の滝",
+  "hotelKeyword": "益田市・匹見峡と黒淵の滝",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/320000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/shimane/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "niche_山口_2",
+  "name": "錦川峡谷",
+  "destType": "town",
+  "prefecture": "山口県",
+  "stayAllowed": [
+   "1night"
+  ],
+  "hub": "山口",
+  "stayArea": "錦川峡谷と木造町並み・錦町",
+  "hotelKeyword": "錦川峡谷と木造町並み・錦町",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/350000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/yamaguchi/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "niche_徳島_2",
+  "name": "勝浦川峡谷",
+  "destType": "onsen",
+  "prefecture": "徳島県",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "hub": "徳島",
+  "stayArea": "勝浦町・勝浦川上流の峡谷と温泉",
+  "hotelKeyword": "勝浦町・勝浦川上流の峡谷と温泉",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/360000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/tokushima/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "niche_香川_1",
+  "name": "与島PA展望台",
+  "destType": "sight",
+  "prefecture": "香川県",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "hub": "高松",
+  "stayArea": "与島パーキングエリア展望台と瀬戸大橋眺望",
+  "hotelKeyword": "与島パーキングエリア展望台と瀬戸大橋眺望",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/370000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/kagawa/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "niche_香川_6",
+  "name": "満濃池",
+  "destType": "nature",
+  "prefecture": "香川県",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "hub": "高松",
+  "stayArea": "まんのう町・満濃池土手のダム周回散歩と農村集落",
+  "hotelKeyword": "まんのう町・満濃池土手のダム周回散歩と農村集落",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/370000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/kagawa/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "niche_佐賀_6",
+  "name": "太良町の海中鳥居",
+  "destType": "food",
+  "prefecture": "佐賀県",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "hub": "佐賀",
+  "stayArea": "太良町の海中鳥居と有明海の潮干狩り",
+  "hotelKeyword": "太良町の海中鳥居と有明海の潮干狩り",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/410000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/saga/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "niche_長崎_3",
+  "name": "鶴御崎灯台",
+  "destType": "sight",
+  "prefecture": "大分県",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "hub": "佐伯",
+  "stayArea": "佐伯",
+  "hotelKeyword": "佐伯",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/440000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/oita/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "niche_長崎_4",
+  "name": "権現山展望台",
+  "destType": "sight",
+  "prefecture": "長崎県",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "hub": "長崎",
+  "stayArea": "琴海町・権現山展望台",
+  "hotelKeyword": "琴海町・権現山展望台",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/420000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/nagasaki/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "niche_長崎_7",
+  "name": "高島炭鉱遺跡",
+  "destType": "historic",
+  "prefecture": "長崎県",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "hub": "長崎",
+  "stayArea": "高島町・炭鉱遺跡と漁村散歩",
+  "hotelKeyword": "高島町・炭鉱遺跡と漁村散歩",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/420000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/nagasaki/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "niche_熊本_1",
+  "name": "五木村の清流と棚田",
+  "destType": "nature",
+  "prefecture": "熊本県",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "hub": "熊本",
+  "stayArea": "五木村（ごきむら）の清流と棚田",
+  "hotelKeyword": "五木村（ごきむら）の清流と棚田",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/430000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/kumamoto/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "niche_熊本_2",
+  "name": "産山村の星の宮古墳",
+  "destType": "historic",
+  "prefecture": "熊本県",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "hub": "熊本",
+  "stayArea": "産山村（うぶやまむら）の星の宮古墳と花畑",
+  "hotelKeyword": "産山村（うぶやまむら）の星の宮古墳と花畑",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/430000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/kumamoto/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "niche_熊本_5",
+  "name": "菊池渓谷の滝群",
+  "destType": "nature",
+  "prefecture": "熊本県",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "hub": "熊本",
+  "stayArea": "菊池渓谷の隠れた滝群と渓谷沿い湯治場",
+  "hotelKeyword": "菊池渓谷の隠れた滝群と渓谷沿い湯治場",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/430000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/kumamoto/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "niche_熊本_6",
+  "name": "白糸台地の棚田",
+  "destType": "nature",
+  "prefecture": "熊本県",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "hub": "熊本",
+  "stayArea": "白糸台地（しらいとだいち）と古い棚田村落",
+  "hotelKeyword": "白糸台地（しらいとだいち）と古い棚田村落",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/430000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/kumamoto/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "niche_大分_1",
+  "name": "佐賀関漁港と三浦海岸",
+  "destType": "food",
+  "prefecture": "大分県",
+  "stayAllowed": [
+   "1night"
+  ],
+  "hub": "大分",
+  "stayArea": "三浦海岸と佐賀関漁港",
+  "hotelKeyword": "三浦海岸と佐賀関漁港",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/440000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/oita/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "niche_大分_2",
+  "name": "青の洞門と耶馬渓",
+  "destType": "historic",
+  "prefecture": "大分県",
+  "stayAllowed": [
+   "1night"
+  ],
+  "hub": "大分",
+  "stayArea": "青の洞門と耶馬渓",
+  "hotelKeyword": "青の洞門と耶馬渓",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/440000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/oita/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "niche_大分_4",
+  "name": "稲積水中鍾乳洞",
+  "destType": "nature",
+  "prefecture": "大分県",
+  "stayAllowed": [
+   "1night"
+  ],
+  "hub": "大分",
+  "stayArea": "稲積水中鍾乳洞",
+  "hotelKeyword": "稲積水中鍾乳洞",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/440000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/oita/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "niche_宮崎_6",
+  "name": "観音池公園",
+  "destType": "food",
+  "prefecture": "宮崎県",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "hub": "宮崎",
+  "stayArea": "高岡町の観音池公園と麺文化",
+  "hotelKeyword": "高岡町の観音池公園と麺文化",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/450000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/miyazaki/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "niche_鹿児島_2",
+  "name": "関之尾滝",
+  "destType": "nature",
+  "prefecture": "宮崎県",
+  "stayAllowed": [
+   "1night"
+  ],
+  "hub": "都城",
+  "stayArea": "都城",
+  "hotelKeyword": "都城",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/450000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/miyazaki/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "niche_鹿児島_3",
+  "name": "白糸の滝",
+  "destType": "nature",
+  "prefecture": "鹿児島県",
+  "stayAllowed": [
+   "1night"
+  ],
+  "hub": "鹿児島",
+  "stayArea": "湧水町の白糸の滝と農業体験",
+  "hotelKeyword": "湧水町の白糸の滝と農業体験",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/460000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/kagoshima/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "maebashi",
+  "name": "前橋",
+  "destType": "city",
+  "prefecture": "群馬県",
+  "stayAllowed": [
+   "daytrip",
+   "1night",
+   "2night"
+  ],
+  "hub": "前橋",
+  "stayArea": "前橋",
+  "hotelKeyword": "前橋",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/100000/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/gunma/",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": true
+ },
+ {
+  "id": "toyako",
+  "name": "洞爺湖",
+  "destType": "onsen",
+  "prefecture": "北海道",
+  "stayAllowed": [
+   "1night"
+  ],
+  "hub": "洞爺湖",
+  "stayArea": "洞爺湖温泉",
+  "hotelKeyword": "洞爺湖",
+  "featuredStay": "ザ・ウィンザーホテル洞爺",
+  "jalan": "https://www.jalan.net/010000/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fhokkaido%2F",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "jozankei",
+  "name": "定山渓",
+  "destType": "onsen",
+  "prefecture": "北海道",
+  "stayAllowed": [
+   "1night"
+  ],
+  "hub": "定山渓",
+  "stayArea": "定山渓温泉",
+  "hotelKeyword": "定山渓",
+  "featuredStay": "定山渓温泉 ぬくもりの宿ふる川",
+  "jalan": "https://www.jalan.net/010000/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fhokkaido%2Fjozankei.html",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "ashizuri",
+  "name": "足摺岬",
+  "destType": "sight",
+  "prefecture": "高知県",
+  "stayAllowed": [
+   "1night"
+  ],
+  "hub": "土佐清水",
+  "stayArea": "足摺岬",
+  "hotelKeyword": "足摺岬",
+  "featuredStay": "TheMana Village",
+  "jalan": "https://www.jalan.net/390000/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fkochi%2F",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "hida-furukawa",
+  "name": "飛騨古川",
+  "destType": "sight",
+  "prefecture": "岐阜県",
+  "stayAllowed": [
+   "2night"
+  ],
+  "hub": "高山",
+  "stayArea": "飛騨古川",
+  "hotelKeyword": "飛騨古川",
+  "featuredStay": "料亭旅館 八ツ三館",
+  "jalan": "https://www.jalan.net/210000/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fgifu%2F",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "izu-kogen",
+  "name": "伊豆高原",
+  "destType": "onsen",
+  "prefecture": "静岡県",
+  "stayAllowed": [
+   "2night"
+  ],
+  "hub": "伊豆高原",
+  "stayArea": "伊豆高原",
+  "hotelKeyword": "伊豆高原",
+  "featuredStay": "八幡野温泉郷 杜の湯 きらの里",
+  "jalan": "https://www.jalan.net/220000/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fshizuoka%2F",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "sounkyo",
+  "name": "層雲峡",
+  "destType": "mountain",
+  "prefecture": "北海道",
+  "stayAllowed": [
+   "1night",
+   "2night"
+  ],
+  "hub": "層雲峡温泉",
+  "stayArea": "層雲峡温泉",
+  "hotelKeyword": "層雲峡",
+  "featuredStay": "層雲峡 朝陽亭",
+  "jalan": "https://www.jalan.net/010000/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fhokkaido%2F",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "akan",
+  "name": "阿寒湖",
+  "destType": "onsen",
+  "prefecture": "北海道",
+  "stayAllowed": [
+   "1night",
+   "2night"
+  ],
+  "hub": "阿寒湖温泉",
+  "stayArea": "阿寒湖温泉",
+  "hotelKeyword": "阿寒湖",
+  "featuredStay": "あかん遊久の里 鶴雅",
+  "jalan": "https://www.jalan.net/010000/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fhokkaido%2F",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "shikotsu",
+  "name": "支笏湖",
+  "destType": "onsen",
+  "prefecture": "北海道",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "hub": "支笏湖温泉",
+  "stayArea": "支笏湖温泉",
+  "hotelKeyword": "支笏湖",
+  "featuredStay": "丸駒温泉旅館",
+  "jalan": "https://www.jalan.net/010000/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fhokkaido%2F",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "totsukawa",
+  "name": "十津川",
+  "destType": "remote",
+  "prefecture": "奈良県",
+  "stayAllowed": [
+   "1night",
+   "2night"
+  ],
+  "hub": "十津川温泉",
+  "stayArea": "十津川温泉",
+  "hotelKeyword": "十津川",
+  "featuredStay": "十津川温泉 ホテル昴",
+  "jalan": "https://www.jalan.net/290000/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fnara%2F",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "kikuchi",
+  "name": "菊池",
+  "destType": "remote",
+  "prefecture": "熊本県",
+  "stayAllowed": [
+   "1night"
+  ],
+  "hub": "菊池温泉",
+  "stayArea": "菊池温泉",
+  "hotelKeyword": "菊池",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/430000/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fkumamoto%2Fkikuchi.html",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "tazawako",
+  "name": "田沢湖",
+  "destType": "onsen",
+  "prefecture": "秋田県",
+  "stayAllowed": [
+   "1night"
+  ],
+  "hub": "田沢湖",
+  "stayArea": "田沢湖温泉",
+  "hotelKeyword": "田沢湖",
+  "featuredStay": "乳頭温泉郷 妙乃湯",
+  "jalan": "https://www.jalan.net/050000/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fakita%2F",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "kesennuma",
+  "name": "気仙沼",
+  "destType": "city",
+  "prefecture": "宮城県",
+  "stayAllowed": [
+   "1night"
+  ],
+  "hub": "気仙沼",
+  "stayArea": "気仙沼",
+  "hotelKeyword": "気仙沼",
+  "featuredStay": "気仙沼プラザホテル",
+  "jalan": "https://www.jalan.net/040000/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fmiyagi%2F",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "misaki-sadamisaki",
+  "name": "佐田岬",
+  "destType": "remote",
+  "prefecture": "愛媛県",
+  "stayAllowed": [
+   "1night"
+  ],
+  "hub": "松山",
+  "stayArea": "三崎",
+  "hotelKeyword": "三崎",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/380000/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fehime%2F",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "yanagawa",
+  "name": "柳川",
+  "destType": "city",
+  "prefecture": "福岡県",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "hub": "柳川",
+  "stayArea": "柳川",
+  "hotelKeyword": "柳川",
+  "featuredStay": "柳川藩主立花邸 御花",
+  "jalan": "https://www.jalan.net/400000/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Ffukuoka%2F",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "ebino-kogen",
+  "name": "えびの高原",
+  "destType": "mountain",
+  "prefecture": "宮崎県",
+  "stayAllowed": [
+   "1night"
+  ],
+  "hub": "宮崎",
+  "stayArea": "えびの高原",
+  "hotelKeyword": "えびの高原",
+  "featuredStay": "えびの高原ホテル",
+  "jalan": "https://www.jalan.net/450000/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fmiyazaki%2F",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "korankei",
+  "name": "香嵐渓",
+  "destType": "sight",
+  "prefecture": "愛知県",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "hub": "豊田市",
+  "stayArea": "香嵐渓",
+  "hotelKeyword": "香嵐渓",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/230000/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Faichi%2F",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "niyodogawa",
+  "name": "仁淀川",
+  "destType": "remote",
+  "prefecture": "高知県",
+  "stayAllowed": [
+   "2night"
+  ],
+  "hub": "高知",
+  "stayArea": "仁淀川",
+  "hotelKeyword": "仁淀川",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/390000/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fkochi%2F",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "ryusendo",
+  "name": "龍泉洞",
+  "destType": "sight",
+  "prefecture": "岩手県",
+  "stayAllowed": [
+   "1night",
+   "2night"
+  ],
+  "hub": "盛岡",
+  "stayArea": "龍泉洞",
+  "hotelKeyword": "龍泉洞",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/030000/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fiwate%2F",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "kakegawa",
+  "name": "掛川",
+  "destType": "city",
+  "prefecture": "静岡県",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "hub": "静岡",
+  "stayArea": "掛川",
+  "hotelKeyword": "掛川",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/220000/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fshizuoka%2F",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "toyohashi",
+  "name": "豊橋",
+  "destType": "city",
+  "prefecture": "愛知県",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "hub": "名古屋",
+  "stayArea": "豊橋",
+  "hotelKeyword": "豊橋",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/230000/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Faichi%2F",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "ichinoseki-geibikei",
+  "name": "猊鼻渓",
+  "destType": "sight",
+  "prefecture": "岩手県",
+  "stayAllowed": [
+   "1night"
+  ],
+  "hub": "盛岡",
+  "stayArea": "猊鼻渓",
+  "hotelKeyword": "猊鼻渓",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/030000/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fiwate%2F",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "hokkaido-asahikawa",
+  "name": "旭川",
+  "destType": "city",
+  "prefecture": "北海道",
+  "stayAllowed": [
+   "1night"
+  ],
+  "hub": "札幌",
+  "stayArea": "旭川",
+  "hotelKeyword": "旭川",
+  "featuredStay": "OMO7旭川 by 星野リゾート",
+  "jalan": "https://www.jalan.net/010000/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fhokkaido%2Fasahikawa.html",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "nakatsugawa",
+  "name": "中津川",
+  "destType": "city",
+  "prefecture": "岐阜県",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "hub": "岐阜",
+  "stayArea": "中津川",
+  "hotelKeyword": "中津川",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/210000/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fgifu%2F",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "hamanako",
+  "name": "浜名湖",
+  "destType": "sight",
+  "prefecture": "静岡県",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "hub": "静岡",
+  "stayArea": "浜名湖",
+  "hotelKeyword": "浜名湖",
+  "featuredStay": "山水館欣龍",
+  "jalan": "https://www.jalan.net/220000/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fshizuoka%2F",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "muroto-cape",
+  "name": "室戸岬",
+  "destType": "sight",
+  "prefecture": "高知県",
+  "stayAllowed": [
+   "1night"
+  ],
+  "hub": "高知",
+  "stayArea": "室戸岬",
+  "hotelKeyword": "室戸岬",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/390000/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fkochi%2F",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "kochi-shimanto",
+  "name": "四万十川",
+  "destType": "sight",
+  "prefecture": "高知県",
+  "stayAllowed": [
+   "1night"
+  ],
+  "hub": "高知",
+  "stayArea": "四万十川",
+  "hotelKeyword": "四万十川",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/390000/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fkochi%2F",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "hirakawa",
+  "name": "平川",
+  "destType": "sight",
+  "prefecture": "青森県",
+  "stayAllowed": [
+   "1night"
+  ],
+  "hub": "青森",
+  "stayArea": "平川",
+  "hotelKeyword": "平川",
+  "featuredStay": "南田温泉 ホテルアップルランド",
+  "jalan": "https://www.jalan.net/020000/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Faomori%2F",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "towada-lake",
+  "name": "十和田湖",
+  "destType": "sight",
+  "prefecture": "青森県",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "hub": "青森",
+  "stayArea": "十和田湖",
+  "hotelKeyword": "十和田湖",
+  "featuredStay": "十和田ホテル",
+  "jalan": "https://www.jalan.net/020000/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Faomori%2F",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "gen_北海_襟裳岬",
+  "name": "襟裳岬",
+  "destType": "sight",
+  "prefecture": "北海道",
+  "stayAllowed": [
+   "2night"
+  ],
+  "hub": "札幌",
+  "stayArea": "襟裳岬",
+  "hotelKeyword": "襟裳岬",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/010000/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fhokkaido%2F",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "gen_北海_知床国立公園",
+  "name": "知床国立公園",
+  "destType": "sight",
+  "prefecture": "北海道",
+  "stayAllowed": [
+   "2night"
+  ],
+  "hub": "札幌",
+  "stayArea": "知床国立公園",
+  "hotelKeyword": "知床国立公園",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/010000/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fhokkaido%2F",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "gen_北海_チキウ岬",
+  "name": "チキウ岬",
+  "destType": "sight",
+  "prefecture": "北海道",
+  "stayAllowed": [
+   "2night"
+  ],
+  "hub": "札幌",
+  "stayArea": "チキウ岬",
+  "hotelKeyword": "チキウ岬",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/010000/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fhokkaido%2F",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "gen_北海_納沙布岬",
+  "name": "納沙布岬",
+  "destType": "sight",
+  "prefecture": "北海道",
+  "stayAllowed": [
+   "2night"
+  ],
+  "hub": "札幌",
+  "stayArea": "納沙布岬",
+  "hotelKeyword": "納沙布岬",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/010000/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fhokkaido%2F",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "gen_北海_大雪展望台",
+  "name": "大雪展望台",
+  "destType": "sight",
+  "prefecture": "北海道",
+  "stayAllowed": [
+   "2night"
+  ],
+  "hub": "札幌",
+  "stayArea": "札幌",
+  "hotelKeyword": "大雪展望台",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/010000/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fhokkaido%2F",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "gen_北海_滝の湯温泉",
+  "name": "滝の湯温泉",
+  "destType": "onsen",
+  "prefecture": "北海道",
+  "stayAllowed": [
+   "2night"
+  ],
+  "hub": "札幌",
+  "stayArea": "滝の湯温泉",
+  "hotelKeyword": "滝の湯温泉",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/010000/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fhokkaido%2F",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "gen_北海_白ひげの滝",
+  "name": "白ひげの滝",
+  "destType": "sight",
+  "prefecture": "北海道",
+  "stayAllowed": [
+   "2night"
+  ],
+  "hub": "札幌",
+  "stayArea": "白ひげの滝",
+  "hotelKeyword": "白ひげの滝",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/010000/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fhokkaido%2F",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "gen_北海_フレペの滝",
+  "name": "フレペの滝",
+  "destType": "sight",
+  "prefecture": "北海道",
+  "stayAllowed": [
+   "2night"
+  ],
+  "hub": "札幌",
+  "stayArea": "札幌",
+  "hotelKeyword": "フレペの滝",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/010000/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fhokkaido%2F",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "gen_茨城_国営ひたち海浜公園",
+  "name": "国営ひたち海浜公園",
+  "destType": "sight",
+  "prefecture": "茨城県",
+  "stayAllowed": [
+   "2night"
+  ],
+  "hub": "水戸",
+  "stayArea": "国営ひたち海浜公園",
+  "hotelKeyword": "国営ひたち海浜公園",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/080000/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fibaraki%2F",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "gen_茨城_水郷筑波国定公園",
+  "name": "水郷筑波国定公園",
+  "destType": "sight",
+  "prefecture": "茨城県",
+  "stayAllowed": [
+   "2night"
+  ],
+  "hub": "水戸",
+  "stayArea": "水戸",
+  "hotelKeyword": "水郷筑波国定公園",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/080000/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fibaraki%2F",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "gen_茨城_袋田の滝",
+  "name": "袋田の滝",
+  "destType": "sight",
+  "prefecture": "茨城県",
+  "stayAllowed": [
+   "2night"
+  ],
+  "hub": "水戸",
+  "stayArea": "袋田の滝",
+  "hotelKeyword": "袋田の滝",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/080000/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fibaraki%2F",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "gen_栃木_那須高原",
+  "name": "那須高原",
+  "destType": "sight",
+  "prefecture": "栃木県",
+  "stayAllowed": [
+   "2night"
+  ],
+  "hub": "宇都宮",
+  "stayArea": "那須高原",
+  "hotelKeyword": "那須高原",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/090000/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Ftochigi%2F",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "gen_栃木_日光杉並木",
+  "name": "日光杉並木",
+  "destType": "sight",
+  "prefecture": "栃木県",
+  "stayAllowed": [
+   "2night"
+  ],
+  "hub": "宇都宮",
+  "stayArea": "日光杉並木",
+  "hotelKeyword": "日光杉並木",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/090000/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Ftochigi%2F",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "gen_北海_真鍋庭園",
+  "name": "真鍋庭園",
+  "destType": "sight",
+  "prefecture": "北海道",
+  "stayAllowed": [
+   "2night"
+  ],
+  "hub": "札幌",
+  "stayArea": "真鍋庭園",
+  "hotelKeyword": "真鍋庭園",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/010000/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fhokkaido%2F",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "gen_北海_山彦の滝",
+  "name": "山彦の滝",
+  "destType": "sight",
+  "prefecture": "北海道",
+  "stayAllowed": [
+   "2night"
+  ],
+  "hub": "札幌",
+  "stayArea": "札幌",
+  "hotelKeyword": "山彦の滝",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/010000/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fhokkaido%2F",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "gen_青森_奥入瀬渓流温泉",
+  "name": "奥入瀬渓流温泉",
+  "destType": "onsen",
+  "prefecture": "青森県",
+  "stayAllowed": [
+   "2night"
+  ],
+  "hub": "青森",
+  "stayArea": "奥入瀬渓流温泉",
+  "hotelKeyword": "奥入瀬渓流温泉",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/020000/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Faomori%2F",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "onuma",
+  "name": "大沼公園",
+  "destType": "sight",
+  "prefecture": "北海道",
+  "stayAllowed": [
+   "2night"
+  ],
+  "hub": "新函館北斗",
+  "stayArea": "大沼",
+  "hotelKeyword": "大沼",
+  "featuredStay": "函館大沼プリンスホテル",
+  "jalan": "https://www.jalan.net/010000/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fhokkaido%2F",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "uradome",
+  "name": "浦富海岸",
+  "destType": "sight",
+  "prefecture": "鳥取県",
+  "stayAllowed": [
+   "2night"
+  ],
+  "hub": "岩美",
+  "stayArea": "浦富海岸",
+  "hotelKeyword": "浦富海岸",
+  "featuredStay": "岩井温泉 岩井屋",
+  "jalan": "https://www.jalan.net/310000/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Ftottori%2F",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "kamogawa",
+  "name": "鴨川",
+  "destType": "city",
+  "prefecture": "千葉県",
+  "stayAllowed": [
+   "1night"
+  ],
+  "hub": "東京",
+  "stayArea": "鴨川",
+  "hotelKeyword": "鴨川",
+  "featuredStay": "鴨川館",
+  "jalan": "https://www.jalan.net/120000/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fchiba%2F",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "tanesashi",
+  "name": "種差海岸",
+  "destType": "sight",
+  "prefecture": "青森県",
+  "stayAllowed": [
+   "2night"
+  ],
+  "hub": "八戸",
+  "stayArea": "八戸",
+  "hotelKeyword": "種差海岸",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/020000/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Faomori%2F",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "bihoro-pass",
+  "name": "美幌峠",
+  "destType": "sight",
+  "prefecture": "北海道",
+  "stayAllowed": [
+   "1night"
+  ],
+  "hub": "網走",
+  "stayArea": "網走",
+  "hotelKeyword": "網走",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/010000/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fhokkaido%2F",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "kamui-misaki",
+  "name": "神威岬",
+  "destType": "sight",
+  "prefecture": "北海道",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "hub": "小樽",
+  "stayArea": "小樽",
+  "hotelKeyword": "小樽",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/010000/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fhokkaido%2F",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "saroma-ko",
+  "name": "サロマ湖",
+  "destType": "sight",
+  "prefecture": "北海道",
+  "stayAllowed": [
+   "1night"
+  ],
+  "hub": "佐呂間",
+  "stayArea": "サロマ湖",
+  "hotelKeyword": "サロマ湖",
+  "featuredStay": "サロマ湖鶴雅リゾート",
+  "jalan": "https://www.jalan.net/010000/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fhokkaido%2F",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "mashu-ko",
+  "name": "摩周湖",
+  "destType": "sight",
+  "prefecture": "北海道",
+  "stayAllowed": [
+   "1night"
+  ],
+  "hub": "弟子屈",
+  "stayArea": "摩周",
+  "hotelKeyword": "摩周",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/010000/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fhokkaido%2F",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "kussharo-ko",
+  "name": "屈斜路湖",
+  "destType": "sight",
+  "prefecture": "北海道",
+  "stayAllowed": [
+   "1night"
+  ],
+  "hub": "弟子屈",
+  "stayArea": "屈斜路",
+  "hotelKeyword": "屈斜路",
+  "featuredStay": "屈斜路プリンスホテル",
+  "jalan": "https://www.jalan.net/010000/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fhokkaido%2F",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "uryunuma",
+  "name": "雨竜沼湿原",
+  "destType": "remote",
+  "prefecture": "北海道",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "hub": "旭川",
+  "stayArea": "旭川",
+  "hotelKeyword": "旭川",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/010000/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fhokkaido%2F",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "metasequoia",
+  "name": "メタセコイア並木",
+  "destType": "sight",
+  "prefecture": "滋賀県",
+  "stayAllowed": [
+   "2night"
+  ],
+  "hub": "マキノ",
+  "stayArea": "マキノ",
+  "hotelKeyword": "マキノ",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/250000/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fshiga%2F",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "kuju-kogen",
+  "name": "久住高原",
+  "destType": "mountain",
+  "prefecture": "大分県",
+  "stayAllowed": [
+   "2night"
+  ],
+  "hub": "竹田",
+  "stayArea": "久住",
+  "hotelKeyword": "久住",
+  "featuredStay": "レゾネイトクラブくじゅう",
+  "jalan": "https://www.jalan.net/440000/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Foita%2F",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "ikoma-kogen",
+  "name": "生駒高原",
+  "destType": "remote",
+  "prefecture": "宮崎県",
+  "stayAllowed": [
+   "1night"
+  ],
+  "hub": "小林",
+  "stayArea": "小林",
+  "hotelKeyword": "小林",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/450000/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fmiyazaki%2F",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "chinen-misaki",
+  "name": "知念岬",
+  "destType": "sight",
+  "prefecture": "沖縄県",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "hub": "那覇",
+  "stayArea": "南城",
+  "hotelKeyword": "南城",
+  "featuredStay": "百名伽藍",
+  "jalan": "https://www.jalan.net/470000/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fokinawa%2F",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "bise",
+  "name": "備瀬のフクギ並木",
+  "destType": "sight",
+  "prefecture": "沖縄県",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "hub": "本部",
+  "stayArea": "本部",
+  "hotelKeyword": "本部",
+  "featuredStay": "オリオンホテル モトブ リゾート&スパ",
+  "jalan": "https://www.jalan.net/470000/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fokinawa%2F",
+  "jalanIsPrefTop": true,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "yamanakako",
+  "name": "山中湖",
+  "destType": "sight",
+  "prefecture": "山梨県",
+  "stayAllowed": [
+   "daytrip",
+   "1night",
+   "2night"
+  ],
+  "hub": "甲府",
+  "stayArea": null,
+  "hotelKeyword": "山中湖",
+  "featuredStay": "ホテルマウント富士",
+  "jalan": "https://www.jalan.net/ikisaki/map/yamanashi/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/yamanashi/",
+  "jalanIsPrefTop": false,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": false
+ },
+ {
+  "id": "motosuko",
+  "name": "本栖湖",
+  "destType": "sight",
+  "prefecture": "山梨県",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "hub": "甲府",
+  "stayArea": null,
+  "hotelKeyword": "富士河口湖",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/ikisaki/map/yamanashi/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/yamanashi/",
+  "jalanIsPrefTop": false,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": false
+ },
+ {
+  "id": "echizen-cape",
+  "name": "越前岬",
+  "destType": "sight",
+  "prefecture": "福井県",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "hub": "金沢",
+  "stayArea": null,
+  "hotelKeyword": "越前海岸",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/ikisaki/map/fukui/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/fukui/",
+  "jalanIsPrefTop": false,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": false
+ },
+ {
+  "id": "hyo-sho",
+  "name": "一乗谷朝倉氏遺跡",
+  "destType": "sight",
+  "prefecture": "福井県",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "hub": "金沢",
+  "stayArea": null,
+  "hotelKeyword": "福井",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/ikisaki/map/fukui/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/fukui/",
+  "jalanIsPrefTop": false,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": false
+ },
+ {
+  "id": "saiko",
+  "name": "西湖",
+  "destType": "sight",
+  "prefecture": "山梨県",
+  "stayAllowed": [
+   "1night"
+  ],
+  "hub": "東京",
+  "stayArea": null,
+  "hotelKeyword": "西湖 富士河口湖",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/ikisaki/map/yamanashi/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/yamanashi/",
+  "jalanIsPrefTop": false,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": false
+ },
+ {
+  "id": "shoji-lake",
+  "name": "精進湖",
+  "destType": "sight",
+  "prefecture": "山梨県",
+  "stayAllowed": [
+   "1night"
+  ],
+  "hub": "東京",
+  "stayArea": null,
+  "hotelKeyword": "精進湖",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/ikisaki/map/yamanashi/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/yamanashi/",
+  "jalanIsPrefTop": false,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": false
+ },
+ {
+  "id": "saiko-kawaguchi",
+  "name": "河口湖",
+  "destType": "sight",
+  "prefecture": "山梨県",
+  "stayAllowed": [
+   "1night",
+   "2night"
+  ],
+  "hub": "東京",
+  "stayArea": null,
+  "hotelKeyword": "富士河口湖",
+  "featuredStay": "湖山亭うぶや",
+  "jalan": "https://www.jalan.net/ikisaki/map/yamanashi/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/yamanashi/",
+  "jalanIsPrefTop": false,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": false
+ },
+ {
+  "id": "mt-yatsugatake",
+  "name": "蓼科高原",
+  "destType": "sight",
+  "prefecture": "長野県",
+  "stayAllowed": [
+   "1night",
+   "2night"
+  ],
+  "hub": "東京",
+  "stayArea": null,
+  "hotelKeyword": "蓼科 茅野",
+  "featuredStay": "創業大正十五年 蓼科親湯温泉",
+  "jalan": "https://www.jalan.net/ikisaki/map/nagano/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/nagano/",
+  "jalanIsPrefTop": false,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": false
+ },
+ {
+  "id": "niigata-uono",
+  "name": "湯沢高原",
+  "destType": "sight",
+  "prefecture": "新潟県",
+  "stayAllowed": [
+   "daytrip",
+   "1night",
+   "2night"
+  ],
+  "hub": "東京",
+  "stayArea": null,
+  "hotelKeyword": "越後湯沢",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/ikisaki/map/niigata/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/niigata/",
+  "jalanIsPrefTop": false,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": false
+ },
+ {
+  "id": "takada-jo",
+  "name": "高田城址公園",
+  "destType": "sight",
+  "prefecture": "新潟県",
+  "stayAllowed": [
+   "1night"
+  ],
+  "hub": "東京",
+  "stayArea": null,
+  "hotelKeyword": "上越 高田",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/ikisaki/map/niigata/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/niigata/",
+  "jalanIsPrefTop": false,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": false
+ },
+ {
+  "id": "niche_新潟_3",
+  "name": "越後松代の棚田と旧街道",
+  "destType": "nature",
+  "prefecture": "新潟県",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "hub": "新潟",
+  "stayArea": "越後松代の棚田と旧街道",
+  "hotelKeyword": "越後松代の棚田と旧街道",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/ikisaki/map/niigata/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/niigata/",
+  "jalanIsPrefTop": false,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": false
+ },
+ {
+  "id": "niche_石川_4",
+  "name": "加佐ノ岬",
+  "destType": "sight",
+  "prefecture": "石川県",
+  "stayAllowed": [
+   "1night"
+  ],
+  "hub": "金沢",
+  "stayArea": "加佐ノ岬（かさのみさき）",
+  "hotelKeyword": "加佐ノ岬（かさのみさき）",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/ikisaki/map/ishikawa/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/ishikawa/",
+  "jalanIsPrefTop": false,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": false
+ },
+ {
+  "id": "niche_福井_4",
+  "name": "九頭竜湖・西野ダム展望台",
+  "destType": "sight",
+  "prefecture": "福井県",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "hub": "福井",
+  "stayArea": "九頭竜湖の西野ダム展望台",
+  "hotelKeyword": "九頭竜湖の西野ダム展望台",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/ikisaki/map/fukui/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/fukui/",
+  "jalanIsPrefTop": false,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": false
+ },
+ {
+  "id": "niche_山梨_1",
+  "name": "道志村渓谷",
+  "destType": "nature",
+  "prefecture": "山梨県",
+  "stayAllowed": [
+   "1night"
+  ],
+  "hub": "甲府",
+  "stayArea": "道志村の秘境キャンプ場と渓谷",
+  "hotelKeyword": "道志村の秘境キャンプ場と渓谷",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/ikisaki/map/yamanashi/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/yamanashi/",
+  "jalanIsPrefTop": false,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": false
+ },
+ {
+  "id": "niche_山梨_5",
+  "name": "猿が城跡",
+  "destType": "sight",
+  "prefecture": "山梨県",
+  "stayAllowed": [
+   "1night"
+  ],
+  "hub": "甲府",
+  "stayArea": "大月市の猿が城跡と秀麗富士100選展望点",
+  "hotelKeyword": "大月市の猿が城跡と秀麗富士100選展望点",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/ikisaki/map/yamanashi/",
+  "rakuten": "https://travel.rakuten.co.jp/yado/yamanashi/",
+  "jalanIsPrefTop": false,
+  "rakutenIsPrefTop": true,
+  "bothPrefTop": false
+ },
+ {
+  "id": "fujikawaguchiko",
+  "name": "富士河口湖",
+  "destType": "onsen",
+  "prefecture": "山梨県",
+  "stayAllowed": [
+   "1night"
+  ],
+  "hub": "富士河口湖",
+  "stayArea": "富士河口湖",
+  "hotelKeyword": "富士河口湖",
+  "featuredStay": "湖山亭うぶや",
+  "jalan": "https://www.jalan.net/ikisaki/map/yamanashi/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fyamanashi%2F",
+  "jalanIsPrefTop": false,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "tenryu-gorge",
+  "name": "天竜峡",
+  "destType": "sight",
+  "prefecture": "長野県",
+  "stayAllowed": [
+   "1night"
+  ],
+  "hub": "天竜峡温泉",
+  "stayArea": "天竜峡",
+  "hotelKeyword": "天竜峡",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/ikisaki/map/nagano/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fnagano%2F",
+  "jalanIsPrefTop": false,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "itoigawa",
+  "name": "糸魚川",
+  "destType": "city",
+  "prefecture": "新潟県",
+  "stayAllowed": [
+   "daytrip",
+   "1night",
+   "2night"
+  ],
+  "hub": "糸魚川",
+  "stayArea": "糸魚川",
+  "hotelKeyword": "糸魚川",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/ikisaki/map/niigata/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fniigata%2F",
+  "jalanIsPrefTop": false,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "echizen-kaigan",
+  "name": "越前海岸",
+  "destType": "sight",
+  "prefecture": "福井県",
+  "stayAllowed": [
+   "1night"
+  ],
+  "hub": "武生",
+  "stayArea": "越前海岸",
+  "hotelKeyword": "越前海岸",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/ikisaki/map/fukui/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Ffukui%2Fechizen.html",
+  "jalanIsPrefTop": false,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "myoko-kogen",
+  "name": "妙高高原",
+  "destType": "onsen",
+  "prefecture": "新潟県",
+  "stayAllowed": [
+   "1night",
+   "2night"
+  ],
+  "hub": "妙高高原",
+  "stayArea": "妙高高原温泉",
+  "hotelKeyword": "妙高高原",
+  "featuredStay": "赤倉観光ホテル",
+  "jalan": "https://www.jalan.net/ikisaki/map/niigata/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fniigata%2F",
+  "jalanIsPrefTop": false,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "shosenkyo",
+  "name": "昇仙峡",
+  "destType": "mountain",
+  "prefecture": "山梨県",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "hub": "甲府",
+  "stayArea": "昇仙峡",
+  "hotelKeyword": "昇仙峡",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/ikisaki/map/yamanashi/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fyamanashi%2F",
+  "jalanIsPrefTop": false,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "mikatagoko",
+  "name": "三方五湖",
+  "destType": "sight",
+  "prefecture": "福井県",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "hub": "三方",
+  "stayArea": "三方五湖",
+  "hotelKeyword": "三方五湖",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/ikisaki/map/fukui/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Ffukui%2F",
+  "jalanIsPrefTop": false,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "katsunuma",
+  "name": "勝沼",
+  "destType": "city",
+  "prefecture": "山梨県",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "hub": "甲府",
+  "stayArea": "勝沼",
+  "hotelKeyword": "勝沼",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/ikisaki/map/yamanashi/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fyamanashi%2F",
+  "jalanIsPrefTop": false,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ },
+ {
+  "id": "sozogi",
+  "name": "曽々木海岸",
+  "destType": "sight",
+  "prefecture": "石川県",
+  "stayAllowed": [
+   "2night"
+  ],
+  "hub": "輪島",
+  "stayArea": "輪島",
+  "hotelKeyword": "輪島",
+  "featuredStay": null,
+  "jalan": "https://www.jalan.net/ikisaki/map/ishikawa/",
+  "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fishikawa%2F",
+  "jalanIsPrefTop": false,
+  "rakutenIsPrefTop": false,
+  "bothPrefTop": false
+ }
+]
