@@ -172,32 +172,29 @@ function toJalanAffiliate(url: string): string {
   return url;
 }
 
-// じゃらんアプリのUniversal Link対象URL判定（jalan.netのAASA・2026-08取得に基づく）。
-// 対象URLはiPhone(アプリ有り)でタップ時にじゃらんアプリが起動し、ValueCommerceの
-// 成果が計上されない(VC案内)。該当URLはUL対象外のキーワード検索URLへ差し替える。
-// キーワード検索(/uw/uwp2011/)は一意ヒットでも宿詳細へリダイレクトしないことを確認済み。
-function isJalanAppLink(rawUrl: string): boolean {
+// じゃらんアプリのUniversal Link発火を防ぐための「安全形式の許可リスト」。
+// AASA対象外のURLでも、サーバーリダイレクト後の着地先がUL対象だとアプリが起動する
+// （例: /140000/ → 301 → /ikisaki/map/kanagawa/ で発火・実機確認済み）。そのため
+// ブラックリスト照合ではなく、全リダイレクトホップがUL対象外であることを実測確認
+// できた形式だけを許可し、それ以外は全てキーワード検索URLへ差し替える。
+// 実測(iPhone UA・scripts/checkJalanRedirects.mjs):
+//   /uw/uwp2011/uww2011init.do?keyword= … 302→302→200 全ホップ安全(一意ヒットでも宿詳細へ飛ばない)
+//   /activity/                          … 200直
+//   /rentacar/                          … 200直
+function isJalanSafeUrl(rawUrl: string): boolean {
   let u: URL;
   try { u = new URL(rawUrl); } catch { return false; }
   if (!/(^|\.)jalan\.net$/.test(u.hostname)) return false;
   const p = u.pathname;
-  if (p === '/' && u.searchParams.get('isDeepLink') === '1') return true;
-  if (/^\/yad\d{6}\/(plan\/)?$/.test(p)) return true;           // 宿詳細・プラン一覧
-  if (p === '/uw/uwp3200/uww3201init.do') return true;          // プラン予約(安全側で一律)
-  if (p === '/theme/') return true;
-  if (/^\/.{6}\/LRG_.{6}\/(SML_.{6}\/)?$/.test(p)) return true; // 地域ページ
-  if (/^\/.{6}\/STA_(?!9).{6}\/$/.test(p)) return true;         // 駅ページ
-  if (/^\/onsen\/(LRG_.{6}|OSN_\d{5})\.html$/.test(p)) return true; // 温泉ページ
-  if (/^\/ikisaki\/map\/.{3,9}\/$/.test(p)) return true;        // 行き先マップ
-  return false;
+  return p === '/uw/uwp2011/uww2011init.do' || p === '/activity/' || p === '/rentacar/' || p.startsWith('/rentacar/');
 }
-// VCラッパー(vc_url=...)の中身も含めて検査し、UL対象ならキーワード検索へフォールバック
+// VCラッパー(vc_url=...)の中身も含めて検査し、許可リスト外ならキーワード検索へ差替
 function safeJalanUrl(rawUrl: string | null | undefined, keyword: string): string {
   if (!rawUrl) return buildJalanUrl(keyword);
   let inner = rawUrl;
   const m = rawUrl.match(/[?&]vc_url=([^&]+)/);
   if (m) { try { inner = decodeURIComponent(m[1]); } catch { /* noop */ } }
-  if (isJalanAppLink(inner)) return buildJalanUrl(keyword);
+  if (inner.includes('jalan.net') && !isJalanSafeUrl(inner)) return buildJalanUrl(keyword);
   return toJalanAffiliate(rawUrl);
 }
 
