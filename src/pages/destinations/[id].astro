@@ -172,6 +172,35 @@ function toJalanAffiliate(url: string): string {
   return url;
 }
 
+// じゃらんアプリのUniversal Link対象URL判定（jalan.netのAASA・2026-08取得に基づく）。
+// 対象URLはiPhone(アプリ有り)でタップ時にじゃらんアプリが起動し、ValueCommerceの
+// 成果が計上されない(VC案内)。該当URLはUL対象外のキーワード検索URLへ差し替える。
+// キーワード検索(/uw/uwp2011/)は一意ヒットでも宿詳細へリダイレクトしないことを確認済み。
+function isJalanAppLink(rawUrl: string): boolean {
+  let u: URL;
+  try { u = new URL(rawUrl); } catch { return false; }
+  if (!/(^|\.)jalan\.net$/.test(u.hostname)) return false;
+  const p = u.pathname;
+  if (p === '/' && u.searchParams.get('isDeepLink') === '1') return true;
+  if (/^\/yad\d{6}\/(plan\/)?$/.test(p)) return true;           // 宿詳細・プラン一覧
+  if (p === '/uw/uwp3200/uww3201init.do') return true;          // プラン予約(安全側で一律)
+  if (p === '/theme/') return true;
+  if (/^\/.{6}\/LRG_.{6}\/(SML_.{6}\/)?$/.test(p)) return true; // 地域ページ
+  if (/^\/.{6}\/STA_(?!9).{6}\/$/.test(p)) return true;         // 駅ページ
+  if (/^\/onsen\/(LRG_.{6}|OSN_\d{5})\.html$/.test(p)) return true; // 温泉ページ
+  if (/^\/ikisaki\/map\/.{3,9}\/$/.test(p)) return true;        // 行き先マップ
+  return false;
+}
+// VCラッパー(vc_url=...)の中身も含めて検査し、UL対象ならキーワード検索へフォールバック
+function safeJalanUrl(rawUrl: string | null | undefined, keyword: string): string {
+  if (!rawUrl) return buildJalanUrl(keyword);
+  let inner = rawUrl;
+  const m = rawUrl.match(/[?&]vc_url=([^&]+)/);
+  if (m) { try { inner = decodeURIComponent(m[1]); } catch { /* noop */ } }
+  if (isJalanAppLink(inner)) return buildJalanUrl(keyword);
+  return toJalanAffiliate(rawUrl);
+}
+
 // 注目の宿（featured_stay）: 実在・送迎情報をWeb確認済みのキュレーション枠。
 // rakutenUrl/jalanUrl 省略時は宿名での検索リンクにフォールバック（404リスク回避）。
 const featuredStay = (dest as any).featured_stay || null;
@@ -179,12 +208,12 @@ const fsRakutenUrl = featuredStay
   ? (featuredStay.rakutenUrl ? toRakutenAffiliate(featuredStay.rakutenUrl) : buildRakutenUrl(featuredStay.name))
   : '';
 const fsJalanUrl = featuredStay
-  ? (featuredStay.jalanUrl ? toJalanAffiliate(featuredStay.jalanUrl) : buildJalanUrl(featuredStay.name))
+  ? safeJalanUrl(featuredStay.jalanUrl, featuredStay.name)
   : '';
 
 const hotelKeyword = (dest as any).hotelSearch || dest.name;
 const rakutenHotelUrl = hotelLinks?.rakuten ? toRakutenAffiliate(hotelLinks.rakuten) : buildRakutenUrl(hotelKeyword);
-const jalanHotelUrl = hotelLinks?.jalan ? toJalanAffiliate(hotelLinks.jalan) : buildJalanUrl(hotelKeyword);
+const jalanHotelUrl = safeJalanUrl(hotelLinks?.jalan, hotelKeyword);
 
 // 宿セクション: 現地泊・hub泊・prefecture fallbackの三段構え
 const isIsland: boolean = !!(dest as any).isIsland || (dest as any).destType === 'island' || (dest as any).subType === 'island';
@@ -209,7 +238,7 @@ if (showHubHotel) {
   if (hubDest) {
     const hubKeyword = hubDest.hotelSearch || hubDest.name;
     hubRakutenUrl = hubDest.hotelLinks.rakuten ? toRakutenAffiliate(hubDest.hotelLinks.rakuten) : buildRakutenUrl(hubKeyword);
-    hubJalanUrl   = hubDest.hotelLinks.jalan ? toJalanAffiliate(hubDest.hotelLinks.jalan) : buildJalanUrl(hubCityName);
+    hubJalanUrl   = safeJalanUrl(hubDest.hotelLinks.jalan, hubCityName);
   } else {
     const hubPref = HUB_CITY_TO_PREF[hubCityName];
     hubRakutenUrl = hubPref ? buildRakutenPrefUrl(hubPref) : buildRakutenUrl(hubCityName);
