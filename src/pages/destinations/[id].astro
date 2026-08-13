@@ -4,6 +4,7 @@ import destinations from '../../data/destinations.json';
 import hubCities from '../../data/hubCities.json';
 import { pickJRService, jrServiceUrl, jrServiceLabel } from '../../../scripts/jrServiceMap.js';
 import { skyscannerUrl } from '../../../scripts/airportMap.js';
+import { jalanKeywordSearchTarget } from '../../../scripts/jalanUrl.js';
 import fs from 'fs';
 import path from 'path';
 
@@ -152,9 +153,9 @@ function buildRakutenPrefUrl(prefSlug: string): string {
   const target = `https://travel.rakuten.co.jp/yado/${prefSlug}/`;
   return `${RAKUTEN_AFF}?pc=${encodeURIComponent(target)}`;
 }
+// じゃらんの宿キーワード検索はShift_JISエンコード必須(scripts/jalanUrl.js参照)。
 function buildJalanUrl(keyword: string): string {
-  const target = `https://www.jalan.net/uw/uwp2011/uww2011init.do?keyword=${encodeURIComponent(keyword)}`;
-  return `${JALAN_AFF}${encodeURIComponent(target)}`;
+  return `${JALAN_AFF}${encodeURIComponent(jalanKeywordSearchTarget(keyword))}`;
 }
 
 // ソースデータの宿URLが素リンクでも、ビルド時に必ずアフィリエイトを付与する。

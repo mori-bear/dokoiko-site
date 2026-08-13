@@ -2,6 +2,7 @@
 import DestinationLayout from '../../layouts/DestinationLayout.astro';
 import destinations from '../../data/destinations.json';
 import hubCities from '../../data/hubCities.json';
+import { jalanKeywordSearchTarget } from '../../../scripts/jalanUrl.js';
 import fs from 'fs';
 import path from 'path';
 
@@ -18,7 +19,8 @@ const RAKUTEN_AFF = 'https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c
 const JALAN_AFF  = 'https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3764408&pid=892559858&vc_url=';
 
 const rakutenUrl = `${RAKUTEN_AFF}?pc=${encodeURIComponent('https://travel.rakuten.co.jp/yado/' + hub.prefSlug + '/')}`;
-const jalanUrl   = `${JALAN_AFF}${encodeURIComponent('https://www.jalan.net/uw/uwp2011/uww2011init.do?keyword=' + hub.name)}`;
+// キーワードはSJISエンコード必須(scripts/jalanUrl.js参照。UTF-8のままだと文字化け0件)
+const jalanUrl   = `${JALAN_AFF}${encodeURIComponent(jalanKeywordSearchTarget(hub.name))}`;
 
 // hub.id → travelTime key 変換（一部不一致あり）
 const HUB_TT_KEY: Record<string, string> = {
