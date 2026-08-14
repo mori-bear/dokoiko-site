@@ -291,6 +291,52 @@ const _hasAirportGateway = ((dest as any).gateways?.airport || []).length > 0;
 const _hasFerryGateway = ((dest as any).gateways?.ferry || []).length > 0;
 const isRailReachable: boolean = !isIsland && !_hasNonRailStep && !_hasAirportGateway && !_hasFerryGateway;
 
+// ── 移動手段タブ（電車・バス / 車）────────────────────────────────
+// まず少数のdestinationでテストしてから全件展開する。全件公開時は
+// TRANSPORT_TABS_ROLLOUT_ALL を true にする（テストIDリストは残しておく）。
+const TRANSPORT_TABS_ROLLOUT_ALL = true;
+const TRANSPORT_TABS_TEST_IDS = [
+  'abashiri', 'agematsu', 'hakone', 'enoshima', 'togakushi',
+  'mashiko', 'choshi', 'amakusa', 'nakijin', 'tomamu',
+];
+const showTransportTabs: boolean =
+  TRANSPORT_TABS_ROLLOUT_ALL || TRANSPORT_TABS_TEST_IDS.includes(dest.id);
+
+// 「車」タブ用: 駐車場情報の抽出。
+// 出所の優先順: 1) article.sections[].info の「駐車場：…」行（最も構造化されている）
+//               2) dest.spots[].description  3) dest.description の該当文
+// いずれも無ければ公式サイト確認の定型文にフォールバックする。
+function parkingSentences(text: any): string[] {
+  if (!text || typeof text !== 'string') return [];
+  return text
+    .split(/[\n。]/)
+    .map((s: string) => s.trim())
+    .filter((s: string) => s.includes('駐車'));
+}
+const parkingInfo: { spot: string; text: string }[] = [];
+const _seenParking = new Set<string>();
+function pushParking(spot: string, text: string) {
+  const t = text.replace(/^[■・\-–—]\s*/, '').trim();
+  const key = `${spot}|${t}`;
+  if (!t || t.length > 90 || _seenParking.has(key) || parkingInfo.length >= 6) return;
+  _seenParking.add(key);
+  parkingInfo.push({ spot, text: t });
+}
+for (const s of (article?.sections || [])) {
+  // 見出しは「スポット名｜キャッチコピー」形式。駐車場の見出しにはスポット名だけ使う。
+  const spotName = String(s.title || s.heading || '').split('｜')[0].trim();
+  for (const line of parkingSentences(s.info)) pushParking(spotName, line);
+}
+for (const sp of (((dest as any).spots) || [])) {
+  if (typeof sp !== 'object' || !sp || !sp.description) continue;
+  for (const line of parkingSentences(sp.description)) pushParking(sp.name || '', line);
+}
+for (const line of parkingSentences(dest.description)) pushParking('', line);
+
+// レンタカー（車タブのメインコンテンツ）。じゃらんは /rentacar/ が許可リスト形式。
+const rentacarRakutenUrl = `${RAKUTEN_AFF}?pc=${encodeURIComponent('https://travel.rakuten.co.jp/cars/')}`;
+const rentacarJalanUrl = toJalanAffiliate('https://www.jalan.net/rentacar/');
+
 const nearbyDests = (destinations as any[])
   .filter((d: any) => d.id !== dest.id && d.region === dest.region)
   .slice(0, 8);
@@ -876,6 +922,74 @@ const hubCity = _destHubCity && _destHubCity !== dest.name
   }
   .gmap-link:hover { background: #ebeff4; }
   .gmap-link-arrow { opacity: 0.6; }
+
+  /* ── 移動手段タブ（CSS only / radio）既定=電車・バス ── */
+  .transport-radio { position: absolute; left: -9999px; }
+  .transport-tab-headers { display: flex; gap: 8px; margin: 0 0 16px; }
+  .transport-tab-label {
+    flex: 1;
+    text-align: center;
+    padding: 11px 8px;
+    cursor: pointer;
+    font-size: 14px;
+    color: #999;
+    background: #fafafa;
+    border: 1px solid #ebebeb;
+    border-radius: 8px;
+    transition: color .15s, background .15s, border-color .15s;
+  }
+  .transport-tab-label:hover { color: #555; background: #f2f2f2; }
+  .transport-radio-transit:checked ~ .transport-tab-headers .transport-tab-label-transit,
+  .transport-radio-car:checked     ~ .transport-tab-headers .transport-tab-label-car {
+    color: #2A6049;
+    font-weight: 600;
+    background: #f0faf4;
+    border-color: #d0e8da;
+  }
+  /* 車専用要素は既定で非表示（電車・バスタブは現行UIのまま）。
+     .booking-btn{display:flex} が後に来るため、同順位負けしないよう2クラスで指定する。 */
+  .mode-car-only, .car-pane { display: none; }
+  .booking-btn.mode-car-btn { display: none; }
+  /* 車タブ: 電車・バス専用（乗換案内・JR予約・拠点駅情報）を隠す */
+  .transport-radio-car:checked ~ .travel-times .mode-transit-only,
+  .transport-radio-car:checked ~ .access-steps { display: none; }
+  .transport-radio-car:checked ~ .travel-times .mode-car-only { display: inline; }
+  .transport-radio-car:checked ~ .travel-times .mode-car-btn { display: flex; }
+  .transport-radio-car:checked ~ .car-pane { display: block; }
+  .travel-time-row .mode-car-only { color: #888; font-weight: 400; }
+  .booking-btn-drive { background: #eef3fb; color: #1B5BA0; border-color: #d3e0f2; }
+  .booking-btn-drive:hover { background: #dfeaf8; }
+
+  /* 車タブ本文: レンタカー（メイン）+ 駐車場情報 */
+  .car-pane { margin-bottom: 28px; }
+  .car-rentacar {
+    border: 1px solid #d0e8da;
+    background: #f7fdf9;
+    border-radius: 10px;
+    padding: 20px 22px;
+    margin-bottom: 16px;
+  }
+  .car-rentacar-title { font-size: 16px; font-weight: 600; color: #1a1a1a; margin: 0 0 4px; }
+  .car-rentacar-desc { font-size: 13px; color: #888; margin: 0 0 14px; }
+  .car-parking {
+    border: 1px solid #ebebeb;
+    background: #FAFAFA;
+    border-radius: 8px;
+    padding: 18px 22px;
+  }
+  .car-parking-label {
+    font-size: 10px;
+    letter-spacing: 0.2em;
+    color: #bbb;
+    text-transform: uppercase;
+    display: block;
+    margin-bottom: 12px;
+  }
+  .car-parking-item { padding: 8px 0; border-bottom: 1px solid #f0f0f0; }
+  .car-parking-item:last-child { border-bottom: none; }
+  .car-parking-spot { display: block; font-size: 12px; color: #aaa; margin-bottom: 2px; }
+  .car-parking-text { font-size: 14px; color: #2d2d2d; }
+  .car-parking-empty { font-size: 13px; color: #888; margin: 0; }
   .travel-time-block:last-child { border-bottom: none; }
   .travel-time-block .travel-time-row { border-bottom: none; padding: 4px 0 12px; }
   .travel-booking-row-stack {
@@ -1514,6 +1628,16 @@ const hubCity = _destHubCity && _destHubCity !== dest.name
         <span class="gmap-link-label">📍 Googleマップで見る</span>
         <span class="gmap-link-arrow">→</span>
       </a>
+      {showTransportTabs && (
+        <>
+          <input type="radio" id={`${dest.id}-mode-transit`} name={`${dest.id}-transport-mode`} class="transport-radio transport-radio-transit" checked />
+          <input type="radio" id={`${dest.id}-mode-car`} name={`${dest.id}-transport-mode`} class="transport-radio transport-radio-car" />
+          <div class="transport-tab-headers">
+            <label for={`${dest.id}-mode-transit`} class="transport-tab-label transport-tab-label-transit">🚃 電車・バス</label>
+            <label for={`${dest.id}-mode-car`} class="transport-tab-label transport-tab-label-car">🚗 車</label>
+          </div>
+        </>
+      )}
       <div class="travel-times">
         <span class="travel-times-label">Access Time</span>
         <div class="departure-picker">
@@ -1528,6 +1652,8 @@ const hubCity = _destHubCity && _destHubCity !== dest.name
         <div class="access-empty-msg" id="access-empty-msg">出発地を選ぶと、ここに経路情報が表示されます</div>
           {ALL_DEPARTURE_CITIES_JP.filter((city: string) => city !== dest.hubCity && city !== dest.name && city !== dest.city).map((city: string) => {
             const gmap = `https://www.google.com/maps/dir/${encodeURIComponent(city)}/${encodeURIComponent(dest.name)}/`;
+            // 車タブ用: 自動車モードを明示したGoogleマップのルート検索
+            const gmapDrive = `https://www.google.com/maps/dir/?api=1&origin=${encodeURIComponent(city)}&destination=${encodeURIComponent(`${dest.name} ${dest.prefecture || ''}`.trim())}&travelmode=driving`;
             const yahooTransit = `https://transit.yahoo.co.jp/search/result?from=${encodeURIComponent(city)}&to=${encodeURIComponent(dest.name)}`;
             const origPref = CITY_TO_PREF[city] || '';
             const destPref = dest.prefecture || '';
@@ -1537,32 +1663,38 @@ const hubCity = _destHubCity && _destHubCity !== dest.name
             return (
               <div class="travel-time-block" data-city={city}>
                 <div class="travel-time-row">
-                  <span>🚃 {city}から</span>
+                  <span class="mode-transit-only">🚃 {city}から</span>
+                  <span class="mode-car-only">🚗 {city}から</span>
                 </div>
                 <div class="travel-booking-row-stack">
-                  <a href={gmap} target="_blank" rel="noopener noreferrer" class="booking-btn booking-btn-route">
+                  {/* 車タブでは最上部のルート検索リンクとして表示する */}
+                  <a href={gmapDrive} target="_blank" rel="noopener noreferrer" class="booking-btn booking-btn-drive mode-car-btn">
+                    <span class="booking-btn-label">🚗 車のルートを検索</span>
+                    <span class="booking-btn-arrow">→</span>
+                  </a>
+                  <a href={gmap} target="_blank" rel="noopener noreferrer" class="booking-btn booking-btn-route mode-transit-only">
                     <span class="booking-btn-label">地図で経路を見る</span>
                     <span class="booking-btn-arrow">→</span>
                   </a>
                   {isRailReachable && (
-                    <a href={yahooTransit} target="_blank" rel="noopener noreferrer" class="booking-btn booking-btn-navitime">
+                    <a href={yahooTransit} target="_blank" rel="noopener noreferrer" class="booking-btn booking-btn-navitime mode-transit-only">
                       <span class="booking-btn-label">電車・バスで行く</span>
                       <span class="booking-btn-arrow">→</span>
                     </a>
                   )}
                   {service === 'air' ? (
                     skyscannerUrl(city, dest) ? (
-                      <a href={skyscannerUrl(city, dest)} target="_blank" rel="noopener noreferrer" class="booking-btn booking-btn-sky">
+                      <a href={skyscannerUrl(city, dest)} target="_blank" rel="noopener noreferrer" class="booking-btn booking-btn-sky mode-transit-only">
                         <span class="booking-btn-label">✈️ スカイスキャナーで航空券を探す</span>
                         <span class="booking-btn-arrow">→</span>
                       </a>
                     ) : (
-                      <span class="air-note">✈️ 飛行機でのアクセスをおすすめします</span>
+                      <span class="air-note mode-transit-only">✈️ 飛行機でのアクセスをおすすめします</span>
                     )
                   ) : service === 'midori' ? (
-                    <span class="midori-note">🟢 みどりの窓口での購入をおすすめします</span>
+                    <span class="midori-note mode-transit-only">🟢 みどりの窓口での購入をおすすめします</span>
                   ) : (
-                    <a href={jrHref} target="_blank" rel="noopener noreferrer" class="booking-btn booking-btn-jr">
+                    <a href={jrHref} target="_blank" rel="noopener noreferrer" class="booking-btn booking-btn-jr mode-transit-only">
                       <span class="booking-btn-label">{jrLabelText}で予約</span>
                       <span class="booking-btn-arrow">→</span>
                     </a>
@@ -1573,6 +1705,43 @@ const hubCity = _destHubCity && _destHubCity !== dest.name
           })}
         <div class="access-no-data-msg" id="access-no-data-msg" style="display:none;font-size:13px;color:#888;padding:12px 0;"></div>
       </div>
+      {showTransportTabs && (
+        <div class="car-pane">
+          <div class="car-rentacar">
+            <p class="car-rentacar-title">🚗 レンタカーを予約する</p>
+            <p class="car-rentacar-desc">{dest.name}を車でまわるなら、出発地・現地どちらでも借りられます</p>
+            <div class="hotel-cards">
+              <a href={rentacarRakutenUrl} target="_blank" rel="nofollow sponsored noopener" class="hotel-card hotel-card-rakuten">
+                <div>
+                  <p class="hotel-card-name">楽天レンタカー</p>
+                  <p class="hotel-card-desc">ポイントが貯まる・使える</p>
+                </div>
+                <span class="hotel-card-arrow">→</span>
+              </a>
+              <a href={rentacarJalanUrl} target="_blank" rel="nofollow sponsored noopener" class="hotel-card hotel-card-jalan">
+                <div>
+                  <p class="hotel-card-name">じゃらんレンタカー</p>
+                  <p class="hotel-card-desc">国内旅行・レンタカー予約</p>
+                </div>
+                <span class="hotel-card-arrow">→</span>
+              </a>
+            </div>
+          </div>
+          <div class="car-parking">
+            <span class="car-parking-label">Parking</span>
+            {parkingInfo.length > 0 ? (
+              parkingInfo.map((p: { spot: string; text: string }) => (
+                <div class="car-parking-item">
+                  {p.spot && <span class="car-parking-spot">{p.spot}</span>}
+                  <span class="car-parking-text">{p.text}</span>
+                </div>
+              ))
+            ) : (
+              <p class="car-parking-empty">現地の駐車場情報は公式サイトでご確認ください</p>
+            )}
+          </div>
+        </div>
+      )}
       {dest.access?.steps && dest.access.steps.length > 0 ? (
         <div class="access-steps">
           {dest.access.steps.length <= 2 ? (
