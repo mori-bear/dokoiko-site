@@ -211170,5 +211170,2116 @@
    "url": "https://commons.wikimedia.org/wiki/File:Ubayu_roten.jpg",
    "attributionRequired": true
   }
+ },
+ {
+  "id": "jindaiji",
+  "name": "深大寺",
+  "type": "destination",
+  "region": "関東",
+  "hub": "東京",
+  "stayAllowed": [
+   "daytrip"
+  ],
+  "departures": [
+   "東京",
+   "水戸",
+   "前橋",
+   "高崎"
+  ],
+  "weight": 1,
+  "description": "参道に入ると、石段の湿った匂いと、どこからともなく流れてくるそば湯の甘い香りが混じる。新宿から四十分。都心の速度がここだけ緩み、水の湧く音と鐘の余韻が耳に残る。奈良時代開創と伝わる深大寺は東京で二番目に古い寺で、白鳳仏として知られる釈迦如来倚像が国宝に指定されている。境内を出れば湧水を使ったそば屋が二十軒ほど軒を連ね、店ごとに水の切り方が違う。裏手の神代植物公園まで足を延ばせば、季節ごとの花が広い園内を埋める。拠点は京王線の調布駅で、バスで十五分ほど。",
+  "tags": [
+   "寺社",
+   "街歩き",
+   "グルメ"
+  ],
+  "spots": [
+   {
+    "name": "深大寺本堂",
+    "description": "厄除元三大師を祀る堂宇が木立の奥に構える。線香の煙と湧水の気配が、都心から来た体をゆっくり静めていく。",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/JP-Tokyo-Jindaiji-Temple.JPG/1920px-JP-Tokyo-Jindaiji-Temple.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageCredit": {
+     "author": "Kanchi1979",
+     "license": "CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:JP-Tokyo-Jindaiji-Temple.JPG",
+     "attributionRequired": true
+    }
+   },
+   {
+    "name": "深大寺そば",
+    "description": "門前に二十軒ほどのそば屋が並ぶ。湧水で締めた蕎麦は店ごとに角の立ち方が違い、食べ比べが目的になる。"
+   },
+   {
+    "name": "神代植物公園",
+    "description": "寺の裏手に広がる都立植物公園。バラ園と大温室が有名で、四季それぞれに主役の花が入れ替わっていく。",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Jindai_Botanical_Garden_-_Japanese_Apricot_Garden_3.jpg/1920px-Jindai_Botanical_Garden_-_Japanese_Apricot_Garden_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageCredit": {
+     "author": "Hyo-tan",
+     "license": "CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Jindai_Botanical_Garden_-_Japanese_Apricot_Garden_3.jpg",
+     "attributionRequired": true
+    }
+   }
+  ],
+  "shinkansenAccess": false,
+  "requiresCar": false,
+  "hotelSearch": "調布",
+  "gateways": {
+   "rail": [
+    "調布駅"
+   ],
+   "airport": [],
+   "bus": [],
+   "ferry": []
+  },
+  "accessHub": null,
+  "railNote": null,
+  "destType": "sight",
+  "railGateway": "調布駅",
+  "busGateway": null,
+  "ferryGateway": null,
+  "airportGateway": null,
+  "prefecture": "東京都",
+  "lat": 35.66749,
+  "lng": 139.55037,
+  "stayBias": 0,
+  "situations": [
+   "solo",
+   "couple",
+   "friends"
+  ],
+  "catch": "そばの湯気の向こうに、都内で二番目に古い寺が立っている。",
+  "mainSpot": "深大寺本堂",
+  "mapPoint": "深大寺本堂",
+  "representativeStation": "調布駅",
+  "hubStation": "新宿駅",
+  "accessStation": "調布駅",
+  "hotelArea": "tokyo",
+  "finalAccess": {
+   "type": "walk"
+  },
+  "travelTime": {
+   "tokyo": 60,
+   "osaka": 75,
+   "nagoya": 20,
+   "mito": 20,
+   "maebashi": 20,
+   "takasaki": 20,
+   "hamamatsu": 50,
+   "gifu": 40,
+   "kofu": 25
+  },
+  "tier": "spot",
+  "icCard": "suica",
+  "bestSeason": "通年",
+  "reasonChips": [
+   "ひとり旅向け",
+   "カップル向け",
+   "友達と",
+   "寺社めぐり",
+   "街歩き",
+   "グルメ",
+   "日帰り最適",
+   "車なしOK"
+  ],
+  "primary": [
+   "寺社",
+   "街歩き"
+  ],
+  "secondary": [],
+  "onsenLevel": 0,
+  "hasDirectFlight": false,
+  "images": [
+   "/images/jindaiji/main.jpg",
+   "/images/jindaiji/spot-1.jpg",
+   "/images/jindaiji/spot-3.jpg"
+  ],
+  "imageCredit": {
+   "author": "掬茶",
+   "license": "CC BY-SA 3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Jindai-ji_in_Chofu,_Tokyo_002.jpg",
+   "attributionRequired": true
+  },
+  "hotelLinks": {
+   "rakuten": "https://travel.rakuten.co.jp/yado/tokyo/",
+   "jalan": "https://www.jalan.net/130000/"
+  }
+ },
+ {
+  "id": "kunitachi",
+  "name": "国立",
+  "type": "destination",
+  "region": "関東",
+  "hub": "東京",
+  "stayAllowed": [
+   "daytrip"
+  ],
+  "departures": [
+   "東京",
+   "水戸",
+   "前橋",
+   "高崎"
+  ],
+  "weight": 1,
+  "description": "改札を抜けると視界がまっすぐ開ける。駅前から南へ一直線に伸びる大学通りは幅四十四メートル、桜と銀杏が二列に並び、春には天井が桜色に染まる。昭和初期に学園都市として設計された街で、看板の高さや色まで住民が守ってきた。通り沿いには一橋大学の兼松講堂が伊東忠太らしい意匠を見せ、脇道に入れば古書店と個人経営の喫茶店が点在する。三角屋根の旧国立駅舎は再築され、街の記憶を留めている。中央線で新宿から三十分、歩くことそのものが目的になる街だ。",
+  "tags": [
+   "街歩き",
+   "桜",
+   "カフェ"
+  ],
+  "spots": [
+   {
+    "name": "大学通り",
+    "description": "駅前から一直線に伸びる幅広の並木道。春は桜、秋は銀杏が続き、車道より歩道のほうが主役に見えてくる。"
+   },
+   {
+    "name": "旧国立駅舎",
+    "description": "赤い三角屋根の木造駅舎。一度解体されたのち元の位置に再築され、学園都市の出発点を今に伝えている。",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Former_Kunitachi_Station_Building_202008-2.jpg/1920px-Former_Kunitachi_Station_Building_202008-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageCredit": {
+     "author": "Suikotei",
+     "license": "CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Former_Kunitachi_Station_Building_202008-2.jpg",
+     "attributionRequired": true
+    }
+   },
+   {
+    "name": "谷保天満宮",
+    "description": "東日本最古の天満宮とされる古社。大学通りの喧噪から一歩下がった林の中に、静かな参道が続いている。",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Yaho_Tenmangu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageCredit": {
+     "author": "Binh Giang",
+     "license": "Public domain",
+     "url": "https://commons.wikimedia.org/wiki/File:Yaho_Tenmangu.jpg",
+     "attributionRequired": true
+    }
+   }
+  ],
+  "shinkansenAccess": false,
+  "requiresCar": false,
+  "hotelSearch": "国立",
+  "gateways": {
+   "rail": [
+    "国立駅"
+   ],
+   "airport": [],
+   "bus": [],
+   "ferry": []
+  },
+  "accessHub": null,
+  "railNote": null,
+  "destType": "city",
+  "railGateway": "国立駅",
+  "busGateway": null,
+  "ferryGateway": null,
+  "airportGateway": null,
+  "prefecture": "東京都",
+  "lat": 35.69118,
+  "lng": 139.44423,
+  "stayBias": 0,
+  "situations": [
+   "solo",
+   "couple",
+   "friends"
+  ],
+  "catch": "駅を出た正面、一直線の桜並木がそのまま街の背骨になっている。",
+  "mainSpot": "大学通り",
+  "mapPoint": "大学通り",
+  "representativeStation": "国立駅",
+  "hubStation": "新宿駅",
+  "accessStation": "国立駅",
+  "hotelArea": "tokyo",
+  "finalAccess": {
+   "type": "walk"
+  },
+  "travelTime": {
+   "tokyo": 55,
+   "osaka": 70,
+   "nagoya": 20,
+   "mito": 20,
+   "maebashi": 20,
+   "takasaki": 20,
+   "hamamatsu": 45,
+   "gifu": 35,
+   "kofu": 20
+  },
+  "tier": "area",
+  "icCard": "suica",
+  "bestSeason": "春",
+  "reasonChips": [
+   "ひとり旅向け",
+   "カップル向け",
+   "友達と",
+   "街歩き",
+   "日帰り最適",
+   "車なしOK"
+  ],
+  "primary": [
+   "街歩き",
+   "桜"
+  ],
+  "secondary": [],
+  "onsenLevel": 0,
+  "hasDirectFlight": false,
+  "images": [
+   "/images/kunitachi/main.jpg",
+   "/images/kunitachi/spot-2.jpg",
+   "/images/kunitachi/spot-3.jpg"
+  ],
+  "imageCredit": {
+   "author": "江戸村のとくぞう",
+   "license": "CC BY-SA 4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Kunitachi-3.jpg",
+   "attributionRequired": true
+  },
+  "hotelLinks": {
+   "rakuten": "https://travel.rakuten.co.jp/yado/tokyo/",
+   "jalan": "https://www.jalan.net/130000/"
+  }
+ },
+ {
+  "id": "todoroki-keikoku",
+  "name": "等々力渓谷",
+  "type": "destination",
+  "region": "関東",
+  "hub": "東京",
+  "stayAllowed": [
+   "daytrip"
+  ],
+  "departures": [
+   "東京",
+   "水戸",
+   "前橋",
+   "高崎"
+  ],
+  "weight": 1,
+  "description": "住宅街の路地に、ゴルフ橋という小さな赤い橋が架かっている。そこから階段を下りると空気が変わる。二十三区で唯一の渓谷は約一キロ、谷沢川が武蔵野台地を削ってできた谷底を歩く道だ。頭上を覆う樹冠が日差しを遮り、真夏でも体感が数度低い。武蔵野の湧水が斜面のあちこちから滲み出し、崖には横穴墓が口を開ける。突き当たりには等々力不動尊が建ち、境内の茶屋から谷を見下ろせる。東急大井町線の等々力駅から徒歩三分、渋谷から二十分ほどの別世界。",
+  "tags": [
+   "渓谷",
+   "自然",
+   "街歩き"
+  ],
+  "spots": [
+   {
+    "name": "等々力渓谷遊歩道",
+    "description": "谷沢川に沿って約一キロ続く木道と土の道。頭上を樹冠が覆い、都心にいることを何度も忘れさせられる。",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/%E7%AD%89%E3%80%85%E5%8A%9B%E6%B8%93%E8%B0%B7_-_panoramio_%287%29.jpg/1920px-%E7%AD%89%E3%80%85%E5%8A%9B%E6%B8%93%E8%B0%B7_-_panoramio_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageCredit": {
+     "author": "珈琲牛乳",
+     "license": "CC BY 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:%E7%AD%89%E3%80%85%E5%8A%9B%E6%B8%93%E8%B0%B7_-_panoramio_(7).jpg",
+     "attributionRequired": true
+    }
+   },
+   {
+    "name": "等々力不動尊",
+    "description": "渓谷の終点に建つ真言宗の寺。境内の見晴らし台からは、たった今歩いてきた谷の緑を上から見下ろせる。",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/%E7%AD%89%E3%80%85%E5%8A%9B%E6%B8%93%E8%B0%B7_%E7%AD%89%E3%80%85%E5%8A%9B%E4%B8%8D%E5%8B%95%E5%B0%8A_-_panoramio.jpg/1920px-%E7%AD%89%E3%80%85%E5%8A%9B%E6%B8%93%E8%B0%B7_%E7%AD%89%E3%80%85%E5%8A%9B%E4%B8%8D%E5%8B%95%E5%B0%8A_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageCredit": {
+     "author": "珈琲牛乳",
+     "license": "CC BY 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:%E7%AD%89%E3%80%85%E5%8A%9B%E6%B8%93%E8%B0%B7_%E7%AD%89%E3%80%85%E5%8A%9B%E4%B8%8D%E5%8B%95%E5%B0%8A_-_panoramio.jpg",
+     "attributionRequired": true
+    }
+   },
+   {
+    "name": "日本庭園",
+    "description": "渓谷の途中から石段を上がった先にある庭園。書院が残り、竹林と苔の静けさが谷の湿り気とよく合う。"
+   }
+  ],
+  "shinkansenAccess": false,
+  "requiresCar": false,
+  "hotelSearch": "二子玉川",
+  "gateways": {
+   "rail": [
+    "等々力駅"
+   ],
+   "airport": [],
+   "bus": [],
+   "ferry": []
+  },
+  "accessHub": null,
+  "railNote": null,
+  "destType": "sight",
+  "railGateway": "等々力駅",
+  "busGateway": null,
+  "ferryGateway": null,
+  "airportGateway": null,
+  "prefecture": "東京都",
+  "lat": 35.60849,
+  "lng": 139.64798,
+  "stayBias": 0,
+  "situations": [
+   "solo",
+   "couple",
+   "friends"
+  ],
+  "catch": "階段を下りた瞬間、都心の気温が二度下がった。",
+  "mainSpot": "等々力渓谷遊歩道",
+  "mapPoint": "等々力渓谷遊歩道",
+  "representativeStation": "等々力駅",
+  "hubStation": "渋谷駅",
+  "accessStation": "等々力駅",
+  "hotelArea": "tokyo",
+  "finalAccess": {
+   "type": "walk"
+  },
+  "travelTime": {
+   "tokyo": 45,
+   "osaka": 210,
+   "nagoya": 150,
+   "fukuoka": 350,
+   "sapporo": 190,
+   "sendai": 140
+  },
+  "tier": "spot",
+  "icCard": "suica",
+  "bestSeason": "夏",
+  "reasonChips": [
+   "ひとり旅向け",
+   "カップル向け",
+   "友達と",
+   "街歩き",
+   "自然と過ごす",
+   "日帰り最適",
+   "車なしOK"
+  ],
+  "primary": [
+   "渓谷",
+   "自然"
+  ],
+  "secondary": [],
+  "onsenLevel": 0,
+  "hasDirectFlight": false,
+  "images": [
+   "/images/todoroki-keikoku/main.jpg",
+   "/images/todoroki-keikoku/spot-1.jpg",
+   "/images/todoroki-keikoku/spot-2.jpg"
+  ],
+  "imageCredit": {
+   "author": "koji_h",
+   "license": "CC BY 3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E7%AB%8B%E7%AD%89%E3%80%85%E5%8A%9B%E6%B8%93%E8%B0%B7%E5%85%AC%E5%9C%92_-_panoramio.jpg",
+   "attributionRequired": true
+  },
+  "hotelLinks": {
+   "rakuten": "https://travel.rakuten.co.jp/yado/tokyo/",
+   "jalan": "https://www.jalan.net/130000/"
+  }
+ },
+ {
+  "id": "gyoda",
+  "name": "行田",
+  "type": "destination",
+  "region": "関東",
+  "hub": "東京",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "departures": [
+   "東京",
+   "水戸",
+   "前橋",
+   "高崎"
+  ],
+  "weight": 1,
+  "description": "堀の水面に三階櫓が逆さに映る。石田三成の水攻めに耐えて落ちなかった忍城は「浮き城」と呼ばれ、その名残の水が今も城址を囲む。町を歩けば黒漆喰の足袋蔵が点在する。かつて全国の足袋の八割を生産した町で、倉庫がそのまま資料館やカフェに姿を変えている。夏には古代蓮の里で千四百年前の地層から蘇った蓮が咲き、展望台からは巨大な田んぼアートを見下ろせる。秩父鉄道の行田市駅が城に最も近く、JR行田駅からはバス。大宮から一時間ほど。",
+  "tags": [
+   "歴史",
+   "城",
+   "街歩き"
+  ],
+  "spots": [
+   {
+    "name": "忍城址",
+    "description": "水攻めに耐えた浮き城の跡。復元された三階櫓と堀が残り、郷土博物館では籠城戦の顛末を辿れる。"
+   },
+   {
+    "name": "足袋蔵の町並み",
+    "description": "黒漆喰やレンガ造りの蔵が市街に点在する。足袋産業で栄えた記憶が、店やギャラリーとして今も使われている。",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/%E6%99%82%E7%94%B0%E8%B6%B3%E8%A2%8B%E8%94%B5%EF%BC%88JH27%E6%99%82%E7%94%B0%E8%94%B51%EF%BC%89.jpg/1920px-%E6%99%82%E7%94%B0%E8%B6%B3%E8%A2%8B%E8%94%B5%EF%BC%88JH27%E6%99%82%E7%94%B0%E8%94%B51%EF%BC%89.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageCredit": {
+     "author": "行田市",
+     "license": "CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:%E6%99%82%E7%94%B0%E8%B6%B3%E8%A2%8B%E8%94%B5%EF%BC%88JH27%E6%99%82%E7%94%B0%E8%94%B51%EF%BC%89.jpg",
+     "attributionRequired": true
+    }
+   },
+   {
+    "name": "古代蓮の里",
+    "description": "千四百年前の種から自然発芽した行田蓮が夏に咲く公園。展望タワーからは田んぼアートを一望できる。",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Gyoda_Kodaihasu-no-sato_Ancient_Lotus_Pond_1.jpg/1920px-Gyoda_Kodaihasu-no-sato_Ancient_Lotus_Pond_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageCredit": {
+     "author": "京浜にけ",
+     "license": "CC BY-SA 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Gyoda_Kodaihasu-no-sato_Ancient_Lotus_Pond_1.jpg",
+     "attributionRequired": true
+    }
+   }
+  ],
+  "shinkansenAccess": false,
+  "requiresCar": false,
+  "hotelSearch": "行田",
+  "gateways": {
+   "rail": [
+    "行田市駅"
+   ],
+   "airport": [],
+   "bus": [],
+   "ferry": []
+  },
+  "accessHub": null,
+  "railNote": null,
+  "destType": "city",
+  "railGateway": "行田市駅",
+  "busGateway": null,
+  "ferryGateway": null,
+  "airportGateway": null,
+  "prefecture": "埼玉県",
+  "lat": 36.13875,
+  "lng": 139.45577,
+  "stayBias": 1,
+  "situations": [
+   "solo",
+   "couple",
+   "friends"
+  ],
+  "catch": "水に囲まれて落ちなかった城が、今も堀の面に映っている。",
+  "mainSpot": "忍城址",
+  "mapPoint": "忍城址",
+  "representativeStation": "行田市駅",
+  "hubStation": "大宮駅",
+  "accessStation": "行田市駅",
+  "hotelArea": "saitama",
+  "finalAccess": {
+   "type": "walk"
+  },
+  "travelTime": {
+   "tokyo": 90,
+   "osaka": 255,
+   "nagoya": 195,
+   "fukuoka": 395,
+   "sapporo": 235,
+   "sendai": 185,
+   "hiroshima": 325
+  },
+  "tier": "area",
+  "icCard": "suica",
+  "bestSeason": "夏",
+  "reasonChips": [
+   "ひとり旅向け",
+   "カップル向け",
+   "友達と",
+   "歴史を辿る",
+   "街歩き",
+   "日帰り最適",
+   "1泊がおすすめ",
+   "車なしOK"
+  ],
+  "primary": [
+   "歴史",
+   "城"
+  ],
+  "secondary": [],
+  "onsenLevel": 0,
+  "hasDirectFlight": false,
+  "images": [
+   "/images/gyoda/main.jpg",
+   "/images/gyoda/spot-2.jpg",
+   "/images/gyoda/spot-3.jpg"
+  ],
+  "imageCredit": {
+   "author": "Saigen Jiro",
+   "license": "CC0",
+   "url": "https://commons.wikimedia.org/wiki/File:Oshi_Castle,_yagura-1.jpg",
+   "attributionRequired": true
+  },
+  "hotelLinks": {
+   "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fsaitama%2Fkawagoe.html",
+   "jalan": "https://www.jalan.net/110000/"
+  }
+ },
+ {
+  "id": "kinchakuda",
+  "name": "巾着田",
+  "type": "destination",
+  "region": "関東",
+  "hub": "東京",
+  "stayAllowed": [
+   "daytrip"
+  ],
+  "departures": [
+   "東京",
+   "水戸",
+   "前橋",
+   "高崎"
+  ],
+  "weight": 1,
+  "description": "高麗川が大きく蛇行して、巾着の形に土地を囲い込む。その内側の雑木林の下に、五百万本の曼珠沙華が群生する。九月下旬、木漏れ日の落ちる林床が地面ごと赤に染まり、遠くから見ると赤い絨毯が波打っているように見える。花期は二週間ほどと短く、その短さがまた人を呼ぶ。川辺には菜の花やコスモスの季節もあり、対岸の日和田山に登れば巾着の形をした地形をそのまま見下ろせる。西武池袋線の高麗駅から徒歩十五分、池袋から一時間強。",
+  "tags": [
+   "花",
+   "自然",
+   "秋"
+  ],
+  "spots": [
+   {
+    "name": "曼珠沙華群生地",
+    "description": "雑木林の下に五百万本が咲く国内有数の群生地。見頃は九月下旬の二週間ほどで、林床が一面赤く染まる。"
+   },
+   {
+    "name": "高麗川の河原",
+    "description": "巾着の形をつくる清流の河岸。夏はバーベキューや水遊びでにぎわい、花の季節とは別の顔を見せる。",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/%E6%97%A5%E9%AB%98%E5%B8%82%E9%AB%98%E9%BA%97%E5%B7%9D%E3%81%AE%E5%B7%BE%E7%9D%80%E7%94%B0_-_panoramio.jpg/1920px-%E6%97%A5%E9%AB%98%E5%B8%82%E9%AB%98%E9%BA%97%E5%B7%9D%E3%81%AE%E5%B7%BE%E7%9D%80%E7%94%B0_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageCredit": {
+     "author": "KOJI MISUMI",
+     "license": "CC BY-SA 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:%E6%97%A5%E9%AB%98%E5%B8%82%E9%AB%98%E9%BA%97%E5%B7%9D%E3%81%AE%E5%B7%BE%E7%9D%80%E7%94%B0_-_panoramio.jpg",
+     "attributionRequired": true
+    }
+   },
+   {
+    "name": "日和田山",
+    "description": "標高三百メートル余りの里山。一時間ほどの登りで、巾着田の巾着形をそのまま俯瞰できる展望が開ける。",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/%E6%97%A5%E5%92%8C%E7%94%B0%E5%B1%B1%E3%81%8B%E3%82%89%E3%81%AE%E5%B7%BE%E7%9D%80%E7%94%B0.jpg/1920px-%E6%97%A5%E5%92%8C%E7%94%B0%E5%B1%B1%E3%81%8B%E3%82%89%E3%81%AE%E5%B7%BE%E7%9D%80%E7%94%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageCredit": {
+     "author": "Koda6029",
+     "license": "CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:%E6%97%A5%E5%92%8C%E7%94%B0%E5%B1%B1%E3%81%8B%E3%82%89%E3%81%AE%E5%B7%BE%E7%9D%80%E7%94%B0.jpg",
+     "attributionRequired": true
+    }
+   }
+  ],
+  "shinkansenAccess": false,
+  "requiresCar": false,
+  "hotelSearch": "日高",
+  "gateways": {
+   "rail": [
+    "高麗駅"
+   ],
+   "airport": [],
+   "bus": [],
+   "ferry": []
+  },
+  "accessHub": null,
+  "railNote": null,
+  "destType": "sight",
+  "railGateway": "高麗駅",
+  "busGateway": null,
+  "ferryGateway": null,
+  "airportGateway": null,
+  "prefecture": "埼玉県",
+  "lat": 35.88232,
+  "lng": 139.31072,
+  "stayBias": 0,
+  "situations": [
+   "solo",
+   "couple",
+   "friends"
+  ],
+  "catch": "林の下が、地面ごと真っ赤に燃えていた。",
+  "mainSpot": "曼珠沙華群生地",
+  "mapPoint": "曼珠沙華群生地",
+  "representativeStation": "高麗駅",
+  "hubStation": "池袋駅",
+  "accessStation": "高麗駅",
+  "hotelArea": "saitama",
+  "finalAccess": {
+   "type": "walk"
+  },
+  "travelTime": {
+   "tokyo": 85,
+   "osaka": 305,
+   "nagoya": 245,
+   "fukuoka": 515,
+   "takamatsu": 425,
+   "mito": 130,
+   "maebashi": 145,
+   "takasaki": 145,
+   "hamamatsu": 275,
+   "gifu": 265,
+   "kofu": 175,
+   "shingu": 425,
+   "tanabe": 395,
+   "shirahama": 405,
+   "kushimoto": 425,
+   "tottori": 425,
+   "shimonoseki": 545,
+   "saga": 545,
+   "oita": 575,
+   "beppu": 585
+  },
+  "tier": "spot",
+  "icCard": "suica",
+  "bestSeason": "秋",
+  "reasonChips": [
+   "ひとり旅向け",
+   "カップル向け",
+   "友達と",
+   "自然と過ごす",
+   "花の名所",
+   "日帰り最適",
+   "車なしOK"
+  ],
+  "primary": [
+   "花",
+   "自然"
+  ],
+  "secondary": [],
+  "onsenLevel": 0,
+  "hasDirectFlight": false,
+  "images": [
+   "/images/kinchakuda/main.jpg",
+   "/images/kinchakuda/spot-2.jpg",
+   "/images/kinchakuda/spot-3.jpg"
+  ],
+  "imageCredit": {
+   "author": "9689tatsuya",
+   "license": "CC BY 4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Saitama_Kinchakuda_3_xl.jpg",
+   "attributionRequired": true
+  },
+  "hotelLinks": {
+   "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fsaitama%2Fkawagoe.html",
+   "jalan": "https://www.jalan.net/110000/"
+  }
+ },
+ {
+  "id": "soka-matsubara",
+  "name": "草加松原",
+  "type": "destination",
+  "region": "関東",
+  "hub": "東京",
+  "stayAllowed": [
+   "daytrip"
+  ],
+  "departures": [
+   "東京",
+   "水戸",
+   "前橋",
+   "高崎"
+  ],
+  "weight": 1,
+  "description": "綾瀬川の土手に沿って、六百本を超える松が約一・五キロ並ぶ。日光街道の草加宿を出た旅人が歩いた道で、松尾芭蕉が『おくのほそ道』の序盤に草加の名を記したことから、国の名勝に指定されている。道の途中には百代橋と矢立橋という和風の太鼓橋が架かり、そこから見下ろす並木が最も絵になる。街道筋には草加せんべいの店が点在し、炭火で焼く音と醤油の匂いが漂う。東武スカイツリーラインの獨協大学前駅が最寄りで、北千住から十分ほど。",
+  "tags": [
+   "街歩き",
+   "歴史",
+   "グルメ"
+  ],
+  "spots": [
+   {
+    "name": "松並木の遊歩道",
+    "description": "綾瀬川沿いに約一・五キロ続く松並木。江戸の街道の面影が残り、国の名勝にも指定されている散歩道。"
+   },
+   {
+    "name": "百代橋",
+    "description": "並木の中ほどに架かる和風の太鼓橋。橋上からは松の緑が一直線に伸び、遊歩道で最も眺めのいい場所になる。"
+   },
+   {
+    "name": "草加せんべい",
+    "description": "街道筋の店先で炭火に並ぶ手焼きせんべい。醤油の焦げる匂いにつられて、歩きながら一枚買うのが定番。"
+   }
+  ],
+  "shinkansenAccess": false,
+  "requiresCar": false,
+  "hotelSearch": "草加",
+  "gateways": {
+   "rail": [
+    "獨協大学前駅"
+   ],
+   "airport": [],
+   "bus": [],
+   "ferry": []
+  },
+  "accessHub": null,
+  "railNote": null,
+  "destType": "sight",
+  "railGateway": "獨協大学前駅",
+  "busGateway": null,
+  "ferryGateway": null,
+  "airportGateway": null,
+  "prefecture": "埼玉県",
+  "lat": 35.84171,
+  "lng": 139.80535,
+  "stayBias": 0,
+  "situations": [
+   "solo",
+   "couple",
+   "friends"
+  ],
+  "catch": "綾瀬川沿いに一里半、松の影だけがずっと続く。",
+  "mainSpot": "草加松原",
+  "mapPoint": "草加松原",
+  "representativeStation": "獨協大学前駅",
+  "hubStation": "北千住駅",
+  "accessStation": "獨協大学前駅",
+  "hotelArea": "saitama",
+  "finalAccess": {
+   "type": "walk"
+  },
+  "travelTime": {
+   "tokyo": 45,
+   "osaka": 210,
+   "nagoya": 150,
+   "fukuoka": 350,
+   "sapporo": 190,
+   "sendai": 140
+  },
+  "tier": "spot",
+  "icCard": "suica",
+  "bestSeason": "通年",
+  "reasonChips": [
+   "ひとり旅向け",
+   "カップル向け",
+   "友達と",
+   "歴史を辿る",
+   "街歩き",
+   "グルメ",
+   "日帰り最適",
+   "車なしOK"
+  ],
+  "primary": [
+   "街歩き",
+   "歴史"
+  ],
+  "secondary": [],
+  "onsenLevel": 0,
+  "hasDirectFlight": false,
+  "images": [
+   "/images/soka-matsubara/main.jpg"
+  ],
+  "imageCredit": {
+   "author": "Fred Cherrygarden",
+   "license": "CC BY-SA 4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:S%C5%8Dka-Matsubara.jpg",
+   "attributionRequired": true
+  },
+  "hotelLinks": {
+   "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fsaitama%2Fkawagoe.html",
+   "jalan": "https://www.jalan.net/110000/"
+  }
+ },
+ {
+  "id": "fukaya",
+  "name": "深谷",
+  "type": "destination",
+  "region": "関東",
+  "hub": "東京",
+  "stayAllowed": [
+   "daytrip"
+  ],
+  "departures": [
+   "東京",
+   "水戸",
+   "前橋",
+   "高崎"
+  ],
+  "weight": 1,
+  "description": "ホームから改札へ上がると、赤レンガのアーチが迎える。深谷駅の駅舎は東京駅丸の内駅舎を模したもので、そのレンガが実際に深谷産だったという縁による。日本近代資本主義の父・渋沢栄一が設立した日本煉瓦製造の工場がこの地にあり、旧事務所やホフマン輪窯が今も残る。生家の中の家や記念館を巡れば、一人の人物が動かした近代の輪郭が見えてくる。名産の深谷ねぎは煮ると驚くほど甘い。高崎線で大宮から四十分、駅を出た瞬間から街歩きが始まる。",
+  "tags": [
+   "歴史",
+   "街歩き",
+   "建築"
+  ],
+  "spots": [
+   {
+    "name": "深谷駅舎",
+    "description": "東京駅を模した赤レンガの駅舎。使われたレンガが深谷産だった縁で建てられ、夜はライトアップされる。"
+   },
+   {
+    "name": "渋沢栄一記念館",
+    "description": "生涯と事績をたどる資料館。アンドロイドによる講義など、抽象的になりがちな功績を具体で見せてくれる。",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Eiichi_Shibusawa_Memorial_Museum.JPG/1920px-Eiichi_Shibusawa_Memorial_Museum.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageCredit": {
+     "author": "Abasaa",
+     "license": "Public domain",
+     "url": "https://commons.wikimedia.org/wiki/File:Eiichi_Shibusawa_Memorial_Museum.JPG",
+     "attributionRequired": true
+    }
+   },
+   {
+    "name": "旧煉瓦製造施設",
+    "description": "日本煉瓦製造の旧事務所とホフマン輪窯が残る国指定史跡。近代建築を支えたレンガの生産現場を間近で見られる。",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Fukaya_Nihon_Renga_Former_Substation_Room_1.JPG/1920px-Fukaya_Nihon_Renga_Former_Substation_Room_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageCredit": {
+     "author": "京浜にけ at Japanese Wikipedia",
+     "license": "CC BY-SA 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Fukaya_Nihon_Renga_Former_Substation_Room_1.JPG",
+     "attributionRequired": true
+    }
+   }
+  ],
+  "shinkansenAccess": false,
+  "requiresCar": false,
+  "hotelSearch": "深谷",
+  "gateways": {
+   "rail": [
+    "深谷駅"
+   ],
+   "airport": [],
+   "bus": [],
+   "ferry": []
+  },
+  "accessHub": null,
+  "railNote": null,
+  "destType": "city",
+  "railGateway": "深谷駅",
+  "busGateway": null,
+  "ferryGateway": null,
+  "airportGateway": null,
+  "prefecture": "埼玉県",
+  "lat": 36.19464,
+  "lng": 139.28138,
+  "stayBias": 0,
+  "situations": [
+   "solo",
+   "couple",
+   "friends"
+  ],
+  "catch": "降り立った駅が、東京駅にそっくりだった。",
+  "mainSpot": "深谷駅",
+  "mapPoint": "深谷駅",
+  "representativeStation": "深谷駅",
+  "hubStation": "大宮駅",
+  "accessStation": "深谷駅",
+  "hotelArea": "saitama",
+  "finalAccess": {
+   "type": "walk"
+  },
+  "travelTime": {
+   "tokyo": 90,
+   "nagoya": 180,
+   "mito": 140,
+   "maebashi": 155,
+   "takasaki": 155,
+   "hamamatsu": 210,
+   "gifu": 200,
+   "kofu": 185
+  },
+  "tier": "area",
+  "icCard": "suica",
+  "bestSeason": "通年",
+  "reasonChips": [
+   "ひとり旅向け",
+   "カップル向け",
+   "友達と",
+   "歴史を辿る",
+   "街歩き",
+   "建築の名作",
+   "日帰り最適",
+   "車なしOK"
+  ],
+  "primary": [
+   "歴史",
+   "街歩き"
+  ],
+  "secondary": [],
+  "onsenLevel": 0,
+  "hasDirectFlight": false,
+  "images": [
+   "/images/fukaya/main.jpg",
+   "/images/fukaya/spot-2.jpg",
+   "/images/fukaya/spot-3.jpg"
+  ],
+  "imageCredit": {
+   "author": "くろふね",
+   "license": "CC BY 3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:%E6%B7%B1%E8%B0%B7%E9%A7%85_-_panoramio_(1)_(cropped).jpg",
+   "attributionRequired": true
+  },
+  "hotelLinks": {
+   "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fsaitama%2Fkawagoe.html",
+   "jalan": "https://www.jalan.net/110000/"
+  }
+ },
+ {
+  "id": "higashichichibu",
+  "name": "東秩父村",
+  "type": "destination",
+  "region": "関東",
+  "hub": "東京",
+  "stayAllowed": [
+   "daytrip"
+  ],
+  "departures": [
+   "東京",
+   "水戸",
+   "前橋",
+   "高崎"
+  ],
+  "weight": 1,
+  "description": "県内で唯一の村。谷筋に沿って集落が点在し、その中心に和紙の里がある。ここで漉かれる細川紙はユネスコ無形文化遺産に登録された手漉き和紙で、楮を叩き、簀桁を前後に揺らす一連の所作を目の前で見られる。体験工房では自分で一枚漉いて持ち帰れる。初夏には天空のポピーと呼ばれる高原一面のポピー畑が咲き、標高五百メートルの斜面が赤く染まる。東武東上線の小川町駅からバスで三十分ほど。池袋から二時間かからずに、山あいの時間に入れる。",
+  "tags": [
+   "伝統工芸",
+   "自然",
+   "世界遺産"
+  ],
+  "spots": [
+   {
+    "name": "和紙の里",
+    "description": "細川紙の手漉きを見学・体験できる施設。楮を叩く音と簀桁を揺らす水音が、作業場にずっと響いている。"
+   },
+   {
+    "name": "天空のポピー",
+    "description": "標高五百メートルの斜面を埋める初夏のポピー畑。稜線まで続く赤が空と直に接して見える一週間がある。"
+   },
+   {
+    "name": "大霧山",
+    "description": "外秩父七峰縦走路の一座。牧場脇の草原から、両神山や秩父の山並みを一望できる展望が待っている。"
+   }
+  ],
+  "shinkansenAccess": false,
+  "requiresCar": false,
+  "hotelSearch": "小川町 埼玉",
+  "gateways": {
+   "rail": [
+    "小川町駅"
+   ],
+   "airport": [],
+   "bus": [],
+   "ferry": []
+  },
+  "accessHub": null,
+  "railNote": null,
+  "destType": "town",
+  "railGateway": "小川町駅",
+  "busGateway": null,
+  "ferryGateway": null,
+  "airportGateway": null,
+  "prefecture": "埼玉県",
+  "lat": 36.05822,
+  "lng": 139.19471,
+  "stayBias": 0,
+  "situations": [
+   "solo",
+   "couple",
+   "friends"
+  ],
+  "catch": "簀桁を揺らす水音だけが、谷にずっと響いていた。",
+  "mainSpot": "和紙の里",
+  "mapPoint": "和紙の里",
+  "representativeStation": "小川町駅",
+  "hubStation": "池袋駅",
+  "accessStation": "小川町駅",
+  "hotelArea": "saitama",
+  "finalAccess": {
+   "type": "walk"
+  },
+  "travelTime": {
+   "tokyo": 120,
+   "osaka": 285,
+   "nagoya": 225,
+   "fukuoka": 425,
+   "sapporo": 265,
+   "sendai": 215,
+   "hiroshima": 355
+  },
+  "tier": "area",
+  "icCard": "suica",
+  "bestSeason": "初夏",
+  "reasonChips": [
+   "ひとり旅向け",
+   "カップル向け",
+   "友達と",
+   "自然と過ごす",
+   "伝統工芸の里",
+   "世界遺産",
+   "日帰り最適",
+   "車なしOK"
+  ],
+  "primary": [
+   "伝統工芸",
+   "自然"
+  ],
+  "secondary": [],
+  "onsenLevel": 0,
+  "hasDirectFlight": false,
+  "images": [
+   "/images/higashichichibu/main.jpg"
+  ],
+  "imageCredit": {
+   "author": "京浜にけ",
+   "license": "CC BY-SA 3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Higashichichibu_Washinosatu_1.JPG",
+   "attributionRequired": true
+  },
+  "hotelLinks": {
+   "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fsaitama%2Fkawagoe.html",
+   "jalan": "https://www.jalan.net/110000/"
+  }
+ },
+ {
+  "id": "kisarazu",
+  "name": "木更津",
+  "type": "destination",
+  "region": "関東",
+  "hub": "東京",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "departures": [
+   "東京",
+   "水戸",
+   "前橋",
+   "高崎"
+  ],
+  "weight": 1,
+  "description": "港から突き出す赤い橋が目に入る。中の島大橋は歩行者専用として日本一高く、船を通すために持ち上げられた橋桁を、人が自分の足で登って越える。頂点から振り返れば東京湾越しに富士が浮かぶ日もある。渡った先の中の島公園はただ静かで、その落差がおもしろい。市街には狸伝説の證誠寺があり、童謡『証城寺の狸囃子』の舞台として知られる。春の潮干狩り、干潟に立つ電柱の列で有名な江川海岸も近い。アクアラインのバスなら東京から一時間強で着く。",
+  "tags": [
+   "海",
+   "街歩き",
+   "絶景"
+  ],
+  "spots": [
+   {
+    "name": "中の島大橋",
+    "description": "歩行者専用としては日本一高い橋。船を通すための高さを自分の脚で登り切ると、東京湾が一気に開ける。"
+   },
+   {
+    "name": "江川海岸",
+    "description": "遠浅の干潟に電柱が沖まで続く海岸。潮と光の条件が合う夕方、海の上に道があるような景色になる。",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Sunset_view_at_Egawa_seaside.jpg/1920px-Sunset_view_at_Egawa_seaside.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageCredit": {
+     "author": "T.Takida",
+     "license": "CC BY 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Sunset_view_at_Egawa_seaside.jpg",
+     "attributionRequired": true
+    }
+   },
+   {
+    "name": "證誠寺",
+    "description": "童謡『証城寺の狸囃子』の舞台と伝わる寺。境内には狸塚があり、街なかとは思えない静けさが残る。",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/T%C5%8Dk%C5%8Dzan_Sh%C5%8Dj%C5%8D-ji_Temple_20210905_05.jpg/1920px-T%C5%8Dk%C5%8Dzan_Sh%C5%8Dj%C5%8D-ji_Temple_20210905_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageCredit": {
+     "author": "先従隗始",
+     "license": "CC0",
+     "url": "https://commons.wikimedia.org/wiki/File:T%C5%8Dk%C5%8Dzan_Sh%C5%8Dj%C5%8D-ji_Temple_20210905_05.jpg",
+     "attributionRequired": true
+    }
+   }
+  ],
+  "shinkansenAccess": false,
+  "requiresCar": false,
+  "hotelSearch": "木更津",
+  "gateways": {
+   "rail": [
+    "木更津駅"
+   ],
+   "airport": [],
+   "bus": [],
+   "ferry": []
+  },
+  "accessHub": null,
+  "railNote": null,
+  "destType": "city",
+  "railGateway": "木更津駅",
+  "busGateway": null,
+  "ferryGateway": null,
+  "airportGateway": null,
+  "prefecture": "千葉県",
+  "lat": 35.37879,
+  "lng": 139.92154,
+  "stayBias": 1,
+  "situations": [
+   "solo",
+   "couple",
+   "friends"
+  ],
+  "catch": "日本一高い歩道橋を渡りきると、対岸には何もなかった。",
+  "mainSpot": "中の島大橋",
+  "mapPoint": "中の島大橋",
+  "representativeStation": "木更津駅",
+  "hubStation": "東京駅",
+  "accessStation": "木更津駅",
+  "hotelArea": "chiba",
+  "finalAccess": {
+   "type": "walk"
+  },
+  "travelTime": {
+   "tokyo": 75,
+   "osaka": 240,
+   "nagoya": 180,
+   "fukuoka": 380,
+   "sapporo": 220,
+   "sendai": 170
+  },
+  "tier": "area",
+  "icCard": "suica",
+  "bestSeason": "夏",
+  "reasonChips": [
+   "ひとり旅向け",
+   "カップル向け",
+   "友達と",
+   "街歩き",
+   "海を眺める",
+   "絶景",
+   "日帰り最適",
+   "1泊がおすすめ",
+   "車なしOK"
+  ],
+  "primary": [
+   "海",
+   "街歩き"
+  ],
+  "secondary": [],
+  "onsenLevel": 0,
+  "hasDirectFlight": false,
+  "images": [
+   "/images/kisarazu/main.jpg",
+   "/images/kisarazu/spot-2.jpg",
+   "/images/kisarazu/spot-3.jpg"
+  ],
+  "imageCredit": {
+   "author": "Tohomar",
+   "license": "CC BY-SA 3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E3%81%AE%E5%B3%B6%E5%A4%A7%E6%A9%8B_(%E6%9C%A8%E6%9B%B4%E6%B4%A5%E5%B8%82).JPG",
+   "attributionRequired": true
+  },
+  "hotelLinks": {
+   "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fchiba%2Ftateyama.html",
+   "jalan": "https://www.jalan.net/120000/"
+  }
+ },
+ {
+  "id": "futtsu-misaki",
+  "name": "富津岬",
+  "type": "destination",
+  "region": "関東",
+  "hub": "東京",
+  "stayAllowed": [
+   "daytrip"
+  ],
+  "departures": [
+   "東京",
+   "水戸",
+   "前橋",
+   "高崎"
+  ],
+  "weight": 1,
+  "description": "東京湾へ五キロ近く突き出す砂嘴。細長い岬の先端に、明治百年記念展望塔という奇妙な形の櫓が立つ。五重に折り返す階段を上ると、視界を遮るものが何もない。正面には東京湾に浮かぶ第一海堡、天気が良ければ対岸の三浦半島と、その向こうに富士が重なる。日没の時間帯は海面が金色に変わり、岬の付け根まで一直線に光の道ができる。松林の続く公園にはキャンプ場もあり、潮の匂いのなかで一日が終わる。館山自動車道が近く、車で訪れるのが現実的だ。",
+  "tags": [
+   "海",
+   "絶景",
+   "夕日"
+  ],
+  "spots": [
+   {
+    "name": "明治百年記念展望塔",
+    "description": "岬の先端に立つ五重の階段状の櫓。上りきると東京湾が三百六十度開け、条件が合えば富士まで見通せる。"
+   },
+   {
+    "name": "富津海岸",
+    "description": "遠浅で潮干狩りの名所として知られる浜。潮が引くと沖まで砂が現れ、海の中を歩いているような感覚になる。"
+   },
+   {
+    "name": "第一海堡の眺め",
+    "description": "明治期に東京湾防衛のため築かれた人工島。岬の先から海上に浮かぶ姿を望め、近代の遺構が海に残っている。"
+   }
+  ],
+  "shinkansenAccess": false,
+  "requiresCar": true,
+  "hotelSearch": "富津",
+  "gateways": {
+   "rail": [
+    "青堀駅"
+   ],
+   "airport": [],
+   "bus": [],
+   "ferry": []
+  },
+  "accessHub": null,
+  "railNote": null,
+  "destType": "sight",
+  "railGateway": "青堀駅",
+  "busGateway": null,
+  "ferryGateway": null,
+  "airportGateway": null,
+  "prefecture": "千葉県",
+  "lat": 35.31288,
+  "lng": 139.78469,
+  "stayBias": 0,
+  "situations": [
+   "solo",
+   "couple",
+   "friends"
+  ],
+  "catch": "砂嘴の先端で振り返ると、東京湾を横切ってきたことに気づく。",
+  "mainSpot": "明治百年記念展望塔",
+  "mapPoint": "明治百年記念展望塔",
+  "representativeStation": "青堀駅",
+  "hubStation": "東京駅",
+  "accessStation": "青堀駅",
+  "hotelArea": "chiba",
+  "finalAccess": {
+   "type": "car"
+  },
+  "travelTime": {
+   "tokyo": 100,
+   "osaka": 290,
+   "nagoya": 235,
+   "fukuoka": 510,
+   "takamatsu": 440,
+   "mito": 145,
+   "maebashi": 160,
+   "takasaki": 160,
+   "hamamatsu": 265,
+   "gifu": 255,
+   "kofu": 190,
+   "shingu": 410,
+   "tanabe": 380,
+   "shirahama": 390,
+   "kushimoto": 410,
+   "tottori": 410,
+   "shimonoseki": 540,
+   "saga": 540,
+   "oita": 570,
+   "beppu": 580
+  },
+  "tier": "spot",
+  "icCard": "suica",
+  "bestSeason": "夏",
+  "reasonChips": [
+   "ひとり旅向け",
+   "カップル向け",
+   "友達と",
+   "海を眺める",
+   "絶景",
+   "日帰り最適"
+  ],
+  "primary": [
+   "海",
+   "絶景"
+  ],
+  "secondary": [],
+  "onsenLevel": 0,
+  "hasDirectFlight": false,
+  "images": [
+   "/images/futtsu-misaki/main.jpg"
+  ],
+  "imageCredit": {
+   "author": "Shift",
+   "license": "CC BY-SA 3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:(%E5%8D%83%E8%91%89%E7%9C%8C)_%E5%AF%8C%E6%B4%A5%E5%B2%AC%E3%81%AE%E5%A4%9C%E6%98%8E%E3%81%91_-_panoramio.jpg",
+   "attributionRequired": true
+  },
+  "hotelLinks": {
+   "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fchiba%2Ftateyama.html",
+   "jalan": "https://www.jalan.net/120000/"
+  }
+ },
+ {
+  "id": "kasamori-kannon",
+  "name": "笠森観音",
+  "type": "destination",
+  "region": "関東",
+  "hub": "東京",
+  "stayAllowed": [
+   "daytrip"
+  ],
+  "departures": [
+   "東京",
+   "水戸",
+   "前橋",
+   "高崎"
+  ],
+  "weight": 1,
+  "description": "石段を上りきると、巨岩の上に観音堂が現れる。六十一本の柱が岩の凹凸に合わせて長さを変え、堂を宙に支える。この四方懸造は国内で唯一とされ、国の重要文化財に指定されている。回廊に出れば房総の丘陵が幾重にも重なり、風が足元を吹き抜ける。参道を覆う笠森自然林は国の天然記念物で、暖帯林と温帯林が交じる珍しい林相を見せる。境内の子授楠は根元に開いた穴をくぐる信仰が続く。最寄りは茂原駅だが本数が少なく、車が確実だ。",
+  "tags": [
+   "寺社",
+   "歴史",
+   "自然"
+  ],
+  "spots": [
+   {
+    "name": "観音堂（四方懸造）",
+    "description": "巨岩の上に六十一本の柱で建つ国内唯一の四方懸造。回廊からは房総の丘がどこまでも重なって見える。"
+   },
+   {
+    "name": "子授楠",
+    "description": "参道脇に立つ大楠。根元に自然にできた穴をくぐると子を授かるとされ、今も願をかける人が絶えない。"
+   },
+   {
+    "name": "笠森自然林",
+    "description": "参道を覆う国指定天然記念物の林。暖帯と温帯の樹種が交じり、階段を上るあいだに植生が入れ替わる。"
+   }
+  ],
+  "shinkansenAccess": false,
+  "requiresCar": true,
+  "hotelSearch": "茂原",
+  "gateways": {
+   "rail": [
+    "茂原駅"
+   ],
+   "airport": [],
+   "bus": [],
+   "ferry": []
+  },
+  "accessHub": null,
+  "railNote": null,
+  "destType": "sight",
+  "railGateway": "茂原駅",
+  "busGateway": null,
+  "ferryGateway": null,
+  "airportGateway": null,
+  "prefecture": "千葉県",
+  "lat": 35.39959,
+  "lng": 140.19892,
+  "stayBias": 0,
+  "situations": [
+   "solo",
+   "couple",
+   "friends"
+  ],
+  "catch": "岩山の上に、柱だけで建つ堂が浮いていた。",
+  "mainSpot": "笠森寺観音堂",
+  "mapPoint": "笠森寺観音堂",
+  "representativeStation": "茂原駅",
+  "hubStation": "東京駅",
+  "accessStation": "茂原駅",
+  "hotelArea": "chiba",
+  "finalAccess": {
+   "type": "car"
+  },
+  "travelTime": {
+   "tokyo": 110,
+   "osaka": 330,
+   "nagoya": 270,
+   "fukuoka": 510,
+   "takamatsu": 420,
+   "mito": 155,
+   "maebashi": 170,
+   "takasaki": 170,
+   "hamamatsu": 300,
+   "gifu": 290,
+   "kofu": 200,
+   "shingu": 450,
+   "tanabe": 420,
+   "shirahama": 430,
+   "kushimoto": 450,
+   "tottori": 450,
+   "shimonoseki": 540,
+   "saga": 540,
+   "oita": 570,
+   "beppu": 580
+  },
+  "tier": "spot",
+  "icCard": "suica",
+  "bestSeason": "通年",
+  "reasonChips": [
+   "ひとり旅向け",
+   "カップル向け",
+   "友達と",
+   "歴史を辿る",
+   "寺社めぐり",
+   "自然と過ごす",
+   "日帰り最適"
+  ],
+  "primary": [
+   "寺社",
+   "歴史"
+  ],
+  "secondary": [],
+  "onsenLevel": 0,
+  "hasDirectFlight": false,
+  "images": [
+   "/images/kasamori-kannon/main.jpg"
+  ],
+  "imageCredit": {
+   "author": "Noodle Bones",
+   "license": "CC BY 2.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Kannond%C5%8D,_Kasamori-ji_temple,_Ch%C5%8Dnan,_Chiba_pref_Japan.jpg",
+   "attributionRequired": true
+  },
+  "hotelLinks": {
+   "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fchiba%2Ftateyama.html",
+   "jalan": "https://www.jalan.net/120000/"
+  }
+ },
+ {
+  "id": "shirahama-boso",
+  "name": "南房総白浜",
+  "type": "destination",
+  "region": "関東",
+  "hub": "東京",
+  "stayAllowed": [
+   "daytrip",
+   "1night"
+  ],
+  "departures": [
+   "東京",
+   "水戸",
+   "前橋",
+   "高崎"
+  ],
+  "weight": 1,
+  "description": "白い八角形の灯台が岩場の上に立っている。野島埼灯台は明治期に建てられた日本最初期の洋式灯台のひとつで、今も現役だ。螺旋階段を上って回廊に出ると、太平洋が視界の端から端まで回り込み、自分が半島の先端にいることが体でわかる。灯台の下は黒い岩礁が入り組み、潮だまりを覗きながら遊歩道を一周できる。冬でも暖かい海沿いには花畑が続き、一月から菜の花やポピーが咲く房総フラワーラインが走る。館山駅からバス、車なら富津館山道路が近い。",
+  "tags": [
+   "海",
+   "灯台",
+   "絶景"
+  ],
+  "spots": [
+   {
+    "name": "野島埼灯台",
+    "description": "房総半島最南端に立つ白い八角形の灯台。上れる灯台のひとつで、回廊からは太平洋が半円に広がる。"
+   },
+   {
+    "name": "白浜の磯",
+    "description": "灯台の足元に広がる黒い岩礁。遊歩道が一周し、潮だまりを覗きながら波の当たる音の変化を辿れる。"
+   },
+   {
+    "name": "房総フラワーライン",
+    "description": "海沿いを走る花の道。真冬から菜の花やポピーが咲き、暖かい房総の気候をそのまま景色にしている。"
+   }
+  ],
+  "shinkansenAccess": false,
+  "requiresCar": true,
+  "hotelSearch": "南房総 白浜",
+  "gateways": {
+   "rail": [
+    "館山駅"
+   ],
+   "airport": [],
+   "bus": [],
+   "ferry": []
+  },
+  "accessHub": null,
+  "railNote": null,
+  "destType": "sight",
+  "railGateway": "館山駅",
+  "busGateway": null,
+  "ferryGateway": null,
+  "airportGateway": null,
+  "prefecture": "千葉県",
+  "lat": 34.90496,
+  "lng": 139.8938,
+  "stayBias": 1,
+  "situations": [
+   "solo",
+   "couple",
+   "friends"
+  ],
+  "catch": "房総半島の最南端で、水平線が視界の端まで回り込んだ。",
+  "mainSpot": "野島埼灯台",
+  "mapPoint": "野島埼灯台",
+  "representativeStation": "館山駅",
+  "hubStation": "東京駅",
+  "accessStation": "館山駅",
+  "hotelArea": "chiba",
+  "finalAccess": {
+   "type": "car"
+  },
+  "travelTime": {
+   "tokyo": 150,
+   "osaka": 310,
+   "nagoya": 255,
+   "fukuoka": 460,
+   "takamatsu": 410,
+   "mito": 215,
+   "maebashi": 230,
+   "takasaki": 230,
+   "hamamatsu": 285,
+   "gifu": 275,
+   "kofu": 260,
+   "shingu": 430,
+   "tanabe": 400,
+   "shirahama": 410,
+   "kushimoto": 430,
+   "tottori": 430,
+   "shimonoseki": 490,
+   "saga": 490,
+   "oita": 520,
+   "beppu": 530
+  },
+  "tier": "spot",
+  "icCard": "suica",
+  "bestSeason": "春",
+  "reasonChips": [
+   "ひとり旅向け",
+   "カップル向け",
+   "友達と",
+   "海を眺める",
+   "絶景",
+   "日帰り最適",
+   "1泊がおすすめ"
+  ],
+  "primary": [
+   "海",
+   "灯台"
+  ],
+  "secondary": [],
+  "onsenLevel": 0,
+  "hasDirectFlight": false,
+  "images": [
+   "/images/shirahama-boso/main.jpg"
+  ],
+  "imageCredit": {
+   "author": "photo: Qurren (talk) Taken with Canon PowerShot G9 X",
+   "license": "CC BY-SA 4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Nojimasaki_Lighthouse_2017-09.jpg",
+   "attributionRequired": true
+  },
+  "hotelLinks": {
+   "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fchiba%2Ftateyama.html",
+   "jalan": "https://www.jalan.net/120000/"
+  }
+ },
+ {
+  "id": "kawasaki-daishi",
+  "name": "川崎大師",
+  "type": "destination",
+  "region": "関東",
+  "hub": "東京",
+  "stayAllowed": [
+   "daytrip"
+  ],
+  "departures": [
+   "東京",
+   "水戸",
+   "前橋",
+   "高崎"
+  ],
+  "weight": 1,
+  "description": "仲見世に入ると、トントントンと硬い音が重なって聞こえる。咳止め飴を包丁で刻む音で、店ごとに拍子が違う。厄除弘法大師として知られる平間寺は初詣の参拝者数で全国有数、正月三が日には人の流れが道幅いっぱいになる。大山門をくぐると大本堂が正面に構え、護摩の太鼓と読経が腹に響く。境内の八角五重塔や、精進料理の風習を今に伝える久寿餅の店も参道の楽しみだ。京急大師線の川崎大師駅から徒歩八分。川崎駅から二十分で、都心から気軽に厄を落としに行ける。",
+  "tags": [
+   "寺社",
+   "街歩き",
+   "グルメ"
+  ],
+  "spots": [
+   {
+    "name": "大本堂",
+    "description": "厄除弘法大師を祀る中心の堂。護摩焚きの時間に入ると、太鼓と読経が板の間を通して体に伝わってくる。",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/%E5%B7%9D%E5%B4%8E%E5%A4%A7%E5%B8%AB%E5%A4%A7%E6%9C%AC%E5%A0%8203.JPG/1920px-%E5%B7%9D%E5%B4%8E%E5%A4%A7%E5%B8%AB%E5%A4%A7%E6%9C%AC%E5%A0%8203.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageCredit": {
+     "author": "ペン太",
+     "license": "CC BY-SA 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:%E5%B7%9D%E5%B4%8E%E5%A4%A7%E5%B8%AB%E5%A4%A7%E6%9C%AC%E5%A0%8203.JPG",
+     "attributionRequired": true
+    }
+   },
+   {
+    "name": "仲見世通り",
+    "description": "参道に咳止め飴の店が並ぶ通り。包丁で飴を刻む音が店ごとに違う拍子で重なり、歩くだけで耳が楽しい。",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Kawasaki_Daishi_201908-4.jpg/1920px-Kawasaki_Daishi_201908-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageCredit": {
+     "author": "Suikotei",
+     "license": "CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Kawasaki_Daishi_201908-4.jpg",
+     "attributionRequired": true
+    }
+   },
+   {
+    "name": "大山門",
+    "description": "四天王を安置する朱塗りの門。くぐった先で視界が開け、境内の広さと本堂の大きさが一度に立ち上がる。",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/%E5%B7%9D%E5%B4%8E%E5%A4%A7%E5%B8%AB%E5%A4%A7%E5%B1%B1%E9%96%80.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageCredit": {
+     "author": "unknown",
+     "license": "CC BY-SA 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:%E5%B7%9D%E5%B4%8E%E5%A4%A7%E5%B8%AB%E5%A4%A7%E5%B1%B1%E9%96%80.jpg",
+     "attributionRequired": true
+    }
+   }
+  ],
+  "shinkansenAccess": false,
+  "requiresCar": false,
+  "hotelSearch": "川崎",
+  "gateways": {
+   "rail": [
+    "川崎大師駅"
+   ],
+   "airport": [],
+   "bus": [],
+   "ferry": []
+  },
+  "accessHub": null,
+  "railNote": null,
+  "destType": "sight",
+  "railGateway": "川崎大師駅",
+  "busGateway": null,
+  "ferryGateway": null,
+  "airportGateway": null,
+  "prefecture": "神奈川県",
+  "lat": 35.53449,
+  "lng": 139.72944,
+  "stayBias": 0,
+  "situations": [
+   "solo",
+   "couple",
+   "friends"
+  ],
+  "catch": "参道に、飴を切るリズムだけが途切れずに響いている。",
+  "mainSpot": "大本堂",
+  "mapPoint": "大本堂",
+  "representativeStation": "川崎大師駅",
+  "hubStation": "川崎駅",
+  "accessStation": "川崎大師駅",
+  "hotelArea": "kanagawa",
+  "finalAccess": {
+   "type": "walk"
+  },
+  "travelTime": {
+   "tokyo": 40,
+   "osaka": 205,
+   "nagoya": 145,
+   "fukuoka": 345,
+   "sapporo": 185,
+   "sendai": 135
+  },
+  "tier": "spot",
+  "icCard": "suica",
+  "bestSeason": "冬",
+  "reasonChips": [
+   "ひとり旅向け",
+   "カップル向け",
+   "友達と",
+   "寺社めぐり",
+   "街歩き",
+   "グルメ",
+   "日帰り最適",
+   "車なしOK"
+  ],
+  "primary": [
+   "寺社",
+   "街歩き"
+  ],
+  "secondary": [],
+  "onsenLevel": 0,
+  "hasDirectFlight": false,
+  "images": [
+   "/images/kawasaki-daishi/main.jpg",
+   "/images/kawasaki-daishi/spot-1.jpg",
+   "/images/kawasaki-daishi/spot-2.jpg",
+   "/images/kawasaki-daishi/spot-3.jpg"
+  ],
+  "imageCredit": {
+   "author": "ペン太",
+   "license": "CC BY 2.5",
+   "url": "https://commons.wikimedia.org/wiki/File:Kawasaki_Daishi_Main_Hall.jpg",
+   "attributionRequired": true
+  },
+  "hotelLinks": {
+   "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fkanagawa%2F",
+   "jalan": "https://www.jalan.net/140000/"
+  }
+ },
+ {
+  "id": "miyagase",
+  "name": "宮ヶ瀬湖",
+  "type": "destination",
+  "region": "関東",
+  "hub": "東京",
+  "stayAllowed": [
+   "daytrip"
+  ],
+  "departures": [
+   "東京",
+   "水戸",
+   "前橋",
+   "高崎"
+  ],
+  "weight": 1,
+  "description": "丹沢の山あいを堰き止めてできた首都圏最大級の人造湖。堤高百五十六メートルの宮ヶ瀬ダムでは観光放流が行われ、毎秒三十トンの水が壁面を滑り落ちる。放流口の正面に立つと音が空気を震わせ、水煙が顔まで届く。湖畔には水の郷大吊橋が架かり、渡ると足元の湖面と紅葉の斜面が同時に視界に入る。冬には巨大なもみの木がクリスマスツリーとして灯り、山の暗さがその光を際立たせる。本厚木駅からバスがあるが本数は少なく、車のほうが動きやすい。",
+  "tags": [
+   "湖",
+   "自然",
+   "絶景"
+  ],
+  "spots": [
+   {
+    "name": "宮ヶ瀬ダム",
+    "description": "堤高百五十六メートルの重力式ダム。観光放流の時間は毎秒三十トンの水が落ち、音と水煙が正面から届く。",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/%E5%AE%AE%E3%83%B6%E7%80%AC%E3%83%80%E3%83%A0%2C_Miyagase_Dam_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageCredit": {
+     "author": "xe zna",
+     "license": "CC BY-SA 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:%E5%AE%AE%E3%83%B6%E7%80%AC%E3%83%80%E3%83%A0,_Miyagase_Dam_-_panoramio.jpg",
+     "attributionRequired": true
+    }
+   },
+   {
+    "name": "水の郷大吊橋",
+    "description": "湖畔に架かる長さ三百十五メートルの吊橋。中ほどで足を止めると、湖面と斜面の紅葉が同時に目に入る。"
+   },
+   {
+    "name": "鳥居原園地",
+    "description": "湖の北岸にある展望園地。対岸の山並みと湖のくびれが一望でき、朝は霧が湖面を這うことがある。",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/%E9%B3%A5%E5%B1%85%E5%8E%9F%E9%A7%90%E8%BB%8A%E5%A0%B4%E3%81%8B%E3%82%89%E3%81%AE%E9%A2%A8%E6%99%AF.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageCredit": {
+     "author": "Y Sekiai",
+     "license": "CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:%E9%B3%A5%E5%B1%85%E5%8E%9F%E9%A7%90%E8%BB%8A%E5%A0%B4%E3%81%8B%E3%82%89%E3%81%AE%E9%A2%A8%E6%99%AF.jpg",
+     "attributionRequired": true
+    }
+   }
+  ],
+  "shinkansenAccess": false,
+  "requiresCar": true,
+  "hotelSearch": "清川村",
+  "gateways": {
+   "rail": [
+    "本厚木駅"
+   ],
+   "airport": [],
+   "bus": [],
+   "ferry": []
+  },
+  "accessHub": null,
+  "railNote": null,
+  "destType": "sight",
+  "railGateway": "本厚木駅",
+  "busGateway": null,
+  "ferryGateway": null,
+  "airportGateway": null,
+  "prefecture": "神奈川県",
+  "lat": 35.52536,
+  "lng": 139.23239,
+  "stayBias": 0,
+  "situations": [
+   "solo",
+   "couple",
+   "friends"
+  ],
+  "catch": "毎秒三十トンの水が落ちる音を、正面から浴びた。",
+  "mainSpot": "宮ヶ瀬ダム",
+  "mapPoint": "宮ヶ瀬ダム",
+  "representativeStation": "本厚木駅",
+  "hubStation": "新宿駅",
+  "accessStation": "本厚木駅",
+  "hotelArea": "kanagawa",
+  "finalAccess": {
+   "type": "car"
+  },
+  "travelTime": {
+   "tokyo": 110,
+   "osaka": 250,
+   "nagoya": 195,
+   "fukuoka": 400,
+   "takamatsu": 350,
+   "mito": 155,
+   "maebashi": 170,
+   "takasaki": 170,
+   "hamamatsu": 225,
+   "gifu": 215,
+   "kofu": 200,
+   "shingu": 370,
+   "tanabe": 340,
+   "shirahama": 350,
+   "kushimoto": 370,
+   "tottori": 370,
+   "shimonoseki": 430,
+   "saga": 430,
+   "oita": 460,
+   "beppu": 470
+  },
+  "tier": "spot",
+  "icCard": "suica",
+  "bestSeason": "秋",
+  "reasonChips": [
+   "ひとり旅向け",
+   "カップル向け",
+   "友達と",
+   "自然と過ごす",
+   "絶景",
+   "日帰り最適"
+  ],
+  "primary": [
+   "湖",
+   "自然"
+  ],
+  "secondary": [],
+  "onsenLevel": 0,
+  "hasDirectFlight": false,
+  "images": [
+   "/images/miyagase/main.jpg",
+   "/images/miyagase/spot-1.jpg",
+   "/images/miyagase/spot-3.jpg"
+  ],
+  "imageCredit": {
+   "author": "Σ64",
+   "license": "CC BY 3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Lake_Miyagase_and_Bukka_peaks_01.jpg",
+   "attributionRequired": true
+  },
+  "hotelLinks": {
+   "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fkanagawa%2F",
+   "jalan": "https://www.jalan.net/140000/"
+  }
+ },
+ {
+  "id": "oyama-afuri",
+  "name": "大山阿夫利神社",
+  "type": "destination",
+  "region": "関東",
+  "hub": "東京",
+  "stayAllowed": [
+   "daytrip"
+  ],
+  "departures": [
+   "東京",
+   "水戸",
+   "前橋",
+   "高崎"
+  ],
+  "weight": 1,
+  "description": "こま参道の三百六十二段から始まる。両側に豆腐料理の店と土産物屋が並び、独楽の絵タイルが段数を教えてくれる。ケーブルカーで六分上れば阿夫利神社下社。振り返ると相模平野が足元に広がり、晴れた日は江の島から三浦半島まで一望できる。雨降山の名のとおり雨をもたらす山として信仰され、江戸時代には年間二十万人が大山詣りに訪れたという。中腹の大山寺は紅葉の名所で、参道の石段が朱に埋まる。山の湧水で作る大山豆腐は下山後の楽しみだ。小田急で新宿から一時間強。",
+  "tags": [
+   "寺社",
+   "山",
+   "絶景"
+  ],
+  "spots": [
+   {
+    "name": "阿夫利神社下社",
+    "description": "ケーブルカーの終点に建つ社。拝殿前から相模平野が一気に開け、晴れた日は江の島まで視線が届く。",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Ooyama-afuri-shrine%40Isehara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageCredit": {
+     "author": "NY066",
+     "license": "CC BY-SA 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Ooyama-afuri-shrine@Isehara.jpg",
+     "attributionRequired": true
+    }
+   },
+   {
+    "name": "大山寺",
+    "description": "中腹にある古刹で紅葉の名所。参道の石段が朱の天井に覆われる時期は、階段を上る速度が自然と落ちる。",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Oyama-dera_201709b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageCredit": {
+     "author": "Tak1701d",
+     "license": "CC BY-SA 3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Oyama-dera_201709b.jpg",
+     "attributionRequired": true
+    }
+   },
+   {
+    "name": "こま参道",
+    "description": "ケーブル駅まで続く三百六十二段の石段。豆腐料理店が並び、独楽のタイルが今何段目かを教えてくれる。"
+   }
+  ],
+  "shinkansenAccess": false,
+  "requiresCar": false,
+  "hotelSearch": "伊勢原",
+  "gateways": {
+   "rail": [
+    "伊勢原駅"
+   ],
+   "airport": [],
+   "bus": [],
+   "ferry": []
+  },
+  "accessHub": null,
+  "railNote": null,
+  "destType": "sight",
+  "railGateway": "伊勢原駅",
+  "busGateway": null,
+  "ferryGateway": null,
+  "airportGateway": null,
+  "prefecture": "神奈川県",
+  "lat": 35.43611,
+  "lng": 139.23452,
+  "stayBias": 0,
+  "situations": [
+   "solo",
+   "couple",
+   "friends"
+  ],
+  "catch": "江戸の庶民が二百年通った坂を、今日は自分が上っている。",
+  "mainSpot": "阿夫利神社下社",
+  "mapPoint": "阿夫利神社下社",
+  "representativeStation": "伊勢原駅",
+  "hubStation": "新宿駅",
+  "accessStation": "伊勢原駅",
+  "hotelArea": "kanagawa",
+  "finalAccess": {
+   "type": "walk"
+  },
+  "travelTime": {
+   "tokyo": 100,
+   "osaka": 240,
+   "nagoya": 185,
+   "fukuoka": 390,
+   "takamatsu": 340,
+   "mito": 145,
+   "maebashi": 160,
+   "takasaki": 160,
+   "hamamatsu": 215,
+   "gifu": 205,
+   "kofu": 190,
+   "shingu": 360,
+   "tanabe": 330,
+   "shirahama": 340,
+   "kushimoto": 360,
+   "tottori": 360,
+   "shimonoseki": 420,
+   "saga": 420,
+   "oita": 450,
+   "beppu": 460
+  },
+  "tier": "spot",
+  "icCard": "suica",
+  "bestSeason": "秋",
+  "reasonChips": [
+   "ひとり旅向け",
+   "カップル向け",
+   "友達と",
+   "寺社めぐり",
+   "自然と過ごす",
+   "絶景",
+   "日帰り最適",
+   "車なしOK"
+  ],
+  "primary": [
+   "寺社",
+   "山"
+  ],
+  "secondary": [],
+  "onsenLevel": 0,
+  "hasDirectFlight": false,
+  "images": [
+   "/images/oyama-afuri/main.jpg",
+   "/images/oyama-afuri/spot-1.jpg",
+   "/images/oyama-afuri/spot-2.jpg"
+  ],
+  "imageCredit": {
+   "author": "Dandy1022",
+   "license": "CC BY-SA 4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:%C5%8Cyama_Afuri_Shrine.jpg",
+   "attributionRequired": true
+  },
+  "hotelLinks": {
+   "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fkanagawa%2F",
+   "jalan": "https://www.jalan.net/140000/"
+  }
+ },
+ {
+  "id": "shomyoji",
+  "name": "称名寺",
+  "type": "destination",
+  "region": "関東",
+  "hub": "東京",
+  "stayAllowed": [
+   "daytrip"
+  ],
+  "departures": [
+   "東京",
+   "水戸",
+   "前橋",
+   "高崎"
+  ],
+  "weight": 1,
+  "description": "仁王門をくぐると、目の前に阿字ヶ池が開ける。朱塗りの反橋と平橋が中島を経て向こう岸へ渡り、水面に映った橋と合わさって円を描く。鎌倉時代に北条実時が建てた浄土式庭園で、発掘調査をもとに当時の姿へ復元されている。橋を渡る所作そのものが浄土へ近づく行為として設計されており、歩くと意味が体に入ってくる。隣接する県立金沢文庫は実時が集めた蔵書に始まる中世の文庫で、国宝を含む資料を伝える。京急金沢文庫駅から徒歩十二分、横浜から三十分ほど。",
+  "tags": [
+   "寺社",
+   "庭園",
+   "歴史"
+  ],
+  "spots": [
+   {
+    "name": "阿字ヶ池と反橋",
+    "description": "浄土式庭園の中心をなす池と朱の橋。水面の映り込みと合わさって、橋がひとつの円に見える位置がある。"
+   },
+   {
+    "name": "仁王門",
+    "description": "金剛力士像を安置する朱塗りの門。ここをくぐった瞬間に池が一気に開け、境内の設計意図が体でわかる。",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/%E7%A7%B0%E5%90%8D%E5%AF%BA%E4%BB%81%E7%8E%8B%E9%96%80.JPG/1920px-%E7%A7%B0%E5%90%8D%E5%AF%BA%E4%BB%81%E7%8E%8B%E9%96%80.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageCredit": {
+     "author": "小池 隆",
+     "license": "CC BY 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:%E7%A7%B0%E5%90%8D%E5%AF%BA%E4%BB%81%E7%8E%8B%E9%96%80.JPG",
+     "attributionRequired": true
+    }
+   },
+   {
+    "name": "神奈川県立金沢文庫",
+    "description": "北条実時の蔵書に始まる中世の文庫を継ぐ博物館。称名寺と地下通路でつながり、寺の歴史を裏側から補える。",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/250429_Kanazawa-Bunko_Museum_02.jpg/1920px-250429_Kanazawa-Bunko_Museum_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageCredit": {
+     "author": "Aspere",
+     "license": "CC0",
+     "url": "https://commons.wikimedia.org/wiki/File:250429_Kanazawa-Bunko_Museum_02.jpg",
+     "attributionRequired": true
+    }
+   }
+  ],
+  "shinkansenAccess": false,
+  "requiresCar": false,
+  "hotelSearch": "横浜 金沢八景",
+  "gateways": {
+   "rail": [
+    "金沢文庫駅"
+   ],
+   "airport": [],
+   "bus": [],
+   "ferry": []
+  },
+  "accessHub": null,
+  "railNote": null,
+  "destType": "sight",
+  "railGateway": "金沢文庫駅",
+  "busGateway": null,
+  "ferryGateway": null,
+  "airportGateway": null,
+  "prefecture": "神奈川県",
+  "lat": 35.34394,
+  "lng": 139.63023,
+  "stayBias": 0,
+  "situations": [
+   "solo",
+   "couple",
+   "friends"
+  ],
+  "catch": "朱の反橋が池に映って、円をひとつ描いていた。",
+  "mainSpot": "阿字ヶ池と反橋",
+  "mapPoint": "阿字ヶ池と反橋",
+  "representativeStation": "金沢文庫駅",
+  "hubStation": "横浜駅",
+  "accessStation": "金沢文庫駅",
+  "hotelArea": "kanagawa",
+  "finalAccess": {
+   "type": "walk"
+  },
+  "travelTime": {
+   "tokyo": 60,
+   "osaka": 225,
+   "nagoya": 165,
+   "fukuoka": 365,
+   "sapporo": 205,
+   "sendai": 155
+  },
+  "tier": "spot",
+  "icCard": "suica",
+  "bestSeason": "春",
+  "reasonChips": [
+   "ひとり旅向け",
+   "カップル向け",
+   "友達と",
+   "歴史を辿る",
+   "寺社めぐり",
+   "日帰り最適",
+   "車なしOK"
+  ],
+  "primary": [
+   "寺社",
+   "庭園"
+  ],
+  "secondary": [],
+  "onsenLevel": 0,
+  "hasDirectFlight": false,
+  "images": [
+   "/images/shomyoji/main.jpg",
+   "/images/shomyoji/spot-2.jpg",
+   "/images/shomyoji/spot-3.jpg"
+  ],
+  "imageCredit": {
+   "author": "Wiiii",
+   "license": "CC BY-SA 3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Shomyo-ji.jpg",
+   "attributionRequired": true
+  },
+  "hotelLinks": {
+   "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fkanagawa%2F",
+   "jalan": "https://www.jalan.net/140000/"
+  }
  }
 ]
