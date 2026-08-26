@@ -244,6 +244,25 @@ if (showHubHotel) {
   }
 }
 
+// prefecture 列は「長野県・岐阜県」のように県をまたぐ行がある（御嶽山・しまなみ海道・
+// 白神山地・八ヶ岳の4件）。完全一致で扱うとこの4件がどの県にも属さない扱いになり、
+// 「同県の他の旅先」が0件になったり県庁所在地フォールバックが効かなくなる。
+// 区切り文字で分割して「どれか1県でも重なれば同県」とみなす。
+function prefParts(pref: unknown): string[] {
+  return String(pref ?? '')
+    .split(/[・、,\/／]/)
+    .map((x) => x.trim())
+    .filter(Boolean);
+}
+
+/** a と b が1県でも共通していれば true（「長野県・岐阜県」と「長野県」は同県とみなす）。 */
+function sharesPrefecture(a: unknown, b: unknown): boolean {
+  const pa = prefParts(a);
+  const pb = prefParts(b);
+  if (pa.length === 0 || pb.length === 0) return false;
+  return pa.some((x) => pb.includes(x));
+}
+
 // fallback: 現地もhubも宿が出せない場合 → 県庁所在地
 const PREF_CAPITAL: Record<string, string> = {
   '北海道':'札幌','青森県':'青森','岩手県':'盛岡','宮城県':'仙台','秋田県':'秋田','山形県':'山形','福島県':'福島',
@@ -258,8 +277,10 @@ const showPrefHotel = !showLocalHotel && !showHubHotel;
 let prefCapital = '';
 let prefRakutenUrl = '';
 let prefJalanUrl   = '';
-if (showPrefHotel && PREF_CAPITAL[dest.prefecture]) {
-  prefCapital = PREF_CAPITAL[dest.prefecture];
+// 連結表記でも引けるよう、最初に辞書に載っている県の県庁所在地を使う。
+const destPrefKey = prefParts(dest.prefecture).find((x) => PREF_CAPITAL[x]) ?? '';
+if (showPrefHotel && destPrefKey) {
+  prefCapital = PREF_CAPITAL[destPrefKey];
   if (prefCapital !== dest.name) {
     prefRakutenUrl = buildRakutenUrl(prefCapital);
     prefJalanUrl   = buildJalanUrl(prefCapital);
@@ -342,9 +363,13 @@ const nearbyDests = (destinations as any[])
   .slice(0, 8);
 
 // 同じ都道府県の他目的地（最大8件）
+// 県をまたぐ行（「長野県・岐阜県」等）は、どちらの県から見ても同県として拾う。
 const samePrefDests = (destinations as any[])
-  .filter((d: any) => d.id !== dest.id && d.prefecture === dest.prefecture)
+  .filter((d: any) => d.id !== dest.id && sharesPrefecture(d.prefecture, dest.prefecture))
   .slice(0, 8);
+// 見出しは prefecture の表記をそのまま使う（「長野県・岐阜県の他の旅先」）。
+// 代表1県＋「ほか」に丸めると「長野県ほかの他の旅先」と重複表現になるため。
+const samePrefLabel = dest.prefecture;
 
 // 同じタグを持つ他目的地（最大8件、まずは「離島」「温泉」「絶景」など主要タグ優先）
 const PRIMARY_TAGS = ['離島','温泉','絶景','世界遺産','寺社','街歩き','自然','海','山','湖','歴史'];
@@ -2042,7 +2067,7 @@ const hubCity = _destHubCity && _destHubCity !== dest.name
     <!-- 同じ都道府県の旅先 -->
     {samePrefDests.length > 0 && (
       <div class="nearby-section">
-        <h2 class="section-title">{dest.prefecture}の他の旅先</h2>
+        <h2 class="section-title">{samePrefLabel}の他の旅先</h2>
         <div class="nearby-scroll">
           {samePrefDests.map((d: any) => (
             <a href={`/destinations/${d.id}/`} class="nearby-card">
