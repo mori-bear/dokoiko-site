@@ -1,0 +1,71 @@
+[
+ {
+  "id": "shirahama-boso",
+  "ok": true,
+  "title": "File:Nojimasaki Lighthouse 2017-09.jpg",
+  "credit": {
+   "author": "photo: Qurren (talk) Taken with Canon PowerShot G9 X",
+   "license": "CC BY-SA 4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Nojimasaki_Lighthouse_2017-09.jpg",
+   "attributionRequired": true
+  },
+  "tried": [
+   {
+    "title": "File:Nojimasaki Lighthouse 2017-09.jpg",
+    "stage": "sonnet",
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "白浜灯台が明確に写っており、南房総白浜の象徴的スポットとして適切な紹介画像です。"
+    },
+    "sonnet": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "野島埼灯台が主役で南房総白浜の象徴的スポットとして適切"
+    },
+    "meta": "ok"
+   }
+  ]
+ },
+ {
+  "id": "kobouyama",
+  "ok": false,
+  "tried": [
+   {
+    "title": "File:Mt. Fuji from Mount Kōbō.jpg",
+    "stage": "haiku",
+    "verdict": "ng",
+    "identifiable": true,
+    "reason": "富士山が主役になっている。弘法山は画像左側の緑の山で従属的。主題が異なる。"
+   },
+   {
+    "title": "File:Yuri with fall colors (52548421461).jpg",
+    "stage": "haiku",
+    "verdict": "ng",
+    "identifiable": false,
+    "reason": "人物が主役になっており、弘法山の特徴的な景観や山そのものが主題になっていない"
+   },
+   {
+    "title": "File:Fuji view from Mount Oyama (50828220592).jpg",
+    "stage": "haiku",
+    "verdict": "ng",
+    "identifiable": false,
+    "reason": "富士山が主役になっており、弘法山そのものが主題ではない。展望地からの景色として機能していない。"
+   },
+   {
+    "title": "File:HadanoTobaccoFest77-Fireworks-Koboyama.jpg",
+    "stage": "haiku",
+    "verdict": "ng",
+    "identifiable": false,
+    "reason": "花火が主役で弘法山が特定できません。山頂や山容が明確でなく紹介画像として不適切"
+   },
+   {
+    "title": "File:Fuji view from Mount Oyama (50828220592).jpg",
+    "stage": "haiku",
+    "verdict": "ng",
+    "identifiable": true,
+    "reason": "富士山が画面の主役。弘法山からの眺望ですが、弘法山そのものが主題ではなく、景色が主体になっています。"
+   }
+  ]
+ }
+]

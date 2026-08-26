@@ -1,0 +1,504 @@
+{
+ "adopted": [
+  {
+   "id": "jindaiji",
+   "name": "深大寺",
+   "title": "File:Jindai-ji in Chofu, Tokyo 002.jpg",
+   "credit": {
+    "author": "掬茶",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Jindai-ji_in_Chofu,_Tokyo_002.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "深大寺の本堂の特徴的な建築様式（反り屋根、白壁、木造構造）が明確に映っており、寺院施設として識別可能。明るく鮮明で紹介画像に適切。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Jindai-ji in Chofu, Tokyo 002.jpg",
+     "stage": "haiku",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "深大寺の本堂の特徴的な建築様式（反り屋根、白壁、木造構造）が明確に映っており、寺院施設として識別可能。明るく鮮明で紹介画像に適切。"
+    }
+   ]
+  },
+  {
+   "id": "kunitachi",
+   "name": "国立",
+   "title": "File:Kunitachi-3.jpg",
+   "credit": {
+    "author": "江戸村のとくぞう",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Kunitachi-3.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "国立駅前のロータリーと特徴的な赤レンガの駅舎、桜並木が確認でき、国立の象徴的な景観です。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Kunitachi-3.jpg",
+     "stage": "haiku",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "国立駅前のロータリーと特徴的な赤レンガの駅舎、桜並木が確認でき、国立の象徴的な景観です。"
+    }
+   ]
+  },
+  {
+   "id": "gyoda",
+   "name": "行田",
+   "title": "File:Oshi Castle, yagura-1.jpg",
+   "credit": {
+    "author": "Saigen Jiro",
+    "license": "CC0",
+    "url": "https://commons.wikimedia.org/wiki/File:Oshi_Castle,_yagura-1.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "行田城の特徴的な三層櫓と石垣、土橋が明確に写っており、行田の象徴的建造物として識別可能。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Oshi Castle, yagura-1.jpg",
+     "stage": "haiku",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "行田城の特徴的な三層櫓と石垣、土橋が明確に写っており、行田の象徴的建造物として識別可能。"
+    }
+   ]
+  },
+  {
+   "id": "kinchakuda",
+   "name": "巾着田",
+   "title": "File:Saitama Kinchakuda 3 xl.jpg",
+   "credit": {
+    "author": "9689tatsuya",
+    "license": "CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Saitama_Kinchakuda_3_xl.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "巾着田の秋彼岸の風物詩である真っ赤に咲き誇る彼岸花と雑木林の景観が特徴的に写っている。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Saitama Kinchakuda 3 xl.jpg",
+     "stage": "haiku",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "巾着田の秋彼岸の風物詩である真っ赤に咲き誇る彼岸花と雑木林の景観が特徴的に写っている。"
+    }
+   ]
+  },
+  {
+   "id": "soka-matsubara",
+   "name": "草加松原",
+   "title": "File:Sōka-Matsubara.jpg",
+   "credit": {
+    "author": "Fred Cherrygarden",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:S%C5%8Dka-Matsubara.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "松並木の並木道と木製柵が草加松原の特徴的風景。歴史的な松並木景観が明確に写っている。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Sōka-Matsubara.jpg",
+     "stage": "haiku",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "松並木の並木道と木製柵が草加松原の特徴的風景。歴史的な松並木景観が明確に写っている。"
+    }
+   ]
+  },
+  {
+   "id": "fukaya",
+   "name": "深谷",
+   "title": "File:深谷駅 - panoramio (1) (cropped).jpg",
+   "credit": {
+    "author": "くろふね",
+    "license": "CC BY 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:%E6%B7%B1%E8%B0%B7%E9%A7%85_-_panoramio_(1)_(cropped).jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "深谷駅舎。赤レンガ造りの歴史的建造物で深谷の象徴的ランドマーク。明るく鮮明で紹介画像として適切。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Fukaya City Hall 1.JPG",
+     "stage": "haiku",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "駅舎や公的施設など、深谷を特定できる手がかりが不足。一般的な建造物の記録写真にみえる。"
+    },
+    {
+     "title": "File:深谷駅 - panoramio (1) (cropped).jpg",
+     "stage": "haiku",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "深谷駅舎。赤レンガ造りの歴史的建造物で深谷の象徴的ランドマーク。明るく鮮明で紹介画像として適切。"
+    }
+   ]
+  },
+  {
+   "id": "higashichichibu",
+   "name": "東秩父村",
+   "title": "File:Higashichichibu Washinosatu 1.JPG",
+   "credit": {
+    "author": "京浜にけ",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Higashichichibu_Washinosatu_1.JPG",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": false,
+     "reason": "東秩父村の特徴的な和風建築施設。ただし看板がなく、その場所の断定要素が不明確"
+    },
+    "sonnet": {
+     "verdict": "ok",
+     "identifiable": false,
+     "reason": "和風建築と山並みは東秩父らしいが場所を断定できる標識等なし"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Higashichichibu Washinosatu 1.JPG",
+     "stage": "sonnet",
+     "haiku": {
+      "verdict": "ok",
+      "identifiable": false,
+      "reason": "東秩父村の特徴的な和風建築施設。ただし看板がなく、その場所の断定要素が不明確"
+     },
+     "sonnet": {
+      "verdict": "ok",
+      "identifiable": false,
+      "reason": "和風建築と山並みは東秩父らしいが場所を断定できる標識等なし"
+     }
+    }
+   ]
+  },
+  {
+   "id": "kisarazu",
+   "name": "木更津",
+   "title": "File:中の島大橋 (木更津市).JPG",
+   "credit": {
+    "author": "Tohomar",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E3%81%AE%E5%B3%B6%E5%A4%A7%E6%A9%8B_(%E6%9C%A8%E6%9B%B4%E6%B4%A5%E5%B8%82).JPG",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "木更津港の象徴的な赤い橋。港湾施設と海の景観が木更津の特徴を表現している。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:中の島大橋 (木更津市).JPG",
+     "stage": "haiku",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "木更津港の象徴的な赤い橋。港湾施設と海の景観が木更津の特徴を表現している。"
+    }
+   ]
+  },
+  {
+   "id": "futtsu-misaki",
+   "name": "富津岬",
+   "title": "File:(千葉県) 富津岬の夜明け - panoramio.jpg",
+   "credit": {
+    "author": "Shift",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:(%E5%8D%83%E8%91%89%E7%9C%8C)_%E5%AF%8C%E6%B4%A5%E5%B2%AC%E3%81%AE%E5%A4%9C%E6%98%8E%E3%81%91_-_panoramio.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "富津岬の特徴的な地形（突き出た岬）と東京湾の景観、夕日が写っており識別可能"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:(千葉県) 富津岬の夜明け - panoramio.jpg",
+     "stage": "haiku",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "富津岬の特徴的な地形（突き出た岬）と東京湾の景観、夕日が写っており識別可能"
+    }
+   ]
+  },
+  {
+   "id": "kasamori-kannon",
+   "name": "笠森観音",
+   "title": "File:Kannondō, Kasamori-ji temple, Chōnan, Chiba pref Japan.jpg",
+   "credit": {
+    "author": "Noodle Bones",
+    "license": "CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Kannond%C5%8D,_Kasamori-ji_temple,_Ch%C5%8Dnan,_Chiba_pref_Japan.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "笠森観音の特徴的な木造楼閣建築が明確に写っており、周囲の自然環境とともに当地を特定できる。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Kasamoriji, kakezukuri.jpg",
+     "stage": "haiku",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "屋内の建造物内部。外観や周辺風景が見えず、笠森観音と特定できる手がかりが不足"
+    },
+    {
+     "title": "File:Kannondō, Kasamori-ji temple, Chōnan, Chiba pref Japan.jpg",
+     "stage": "haiku",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "笠森観音の特徴的な木造楼閣建築が明確に写っており、周囲の自然環境とともに当地を特定できる。"
+    }
+   ]
+  },
+  {
+   "id": "shirahama-boso",
+   "name": "南房総白浜",
+   "title": "File:Shirahama onsen zenkei.JPG",
+   "credit": {
+    "author": "Opqr",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Shirahama_onsen_zenkei.JPG",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "南房総白浜の海岸線と町並み、特徴的な黄色いホテルが視認でき、地理的特徴が明確。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Shirahama onsen zenkei.JPG",
+     "stage": "haiku",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "南房総白浜の海岸線と町並み、特徴的な黄色いホテルが視認でき、地理的特徴が明確。"
+    }
+   ]
+  },
+  {
+   "id": "kawasaki-daishi",
+   "name": "川崎大師",
+   "title": "File:Kawasaki Daishi Main Hall.jpg",
+   "credit": {
+    "author": "ペン太",
+    "license": "CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:Kawasaki_Daishi_Main_Hall.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "川崎大師の大本堂の特徴的な建築様式（青い瓦屋根、金色の装飾、社号標「大本堂」）が鮮明に写っており、その場所を特定できます。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Kawasaki Daishi Main Hall.jpg",
+     "stage": "haiku",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "川崎大師の大本堂の特徴的な建築様式（青い瓦屋根、金色の装飾、社号標「大本堂」）が鮮明に写っており、その場所を特定できます。"
+    }
+   ]
+  },
+  {
+   "id": "todoroki-keikoku",
+   "name": "等々力渓谷",
+   "title": "File:世田谷区立等々力渓谷公園 - panoramio.jpg",
+   "credit": {
+    "author": "koji_h",
+    "license": "CC BY 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E7%AB%8B%E7%AD%89%E3%80%85%E5%8A%9B%E6%B8%93%E8%B0%B7%E5%85%AC%E5%9C%92_-_panoramio.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "等々力渓谷の特徴的な石積み護岸と小川、木製手すりの橋、樹林に囲まれた景観が明確に写っている。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:世田谷区立等々力渓谷公園 - panoramio.jpg",
+     "stage": "haiku",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "等々力渓谷の特徴的な石積み護岸と小川、木製手すりの橋、樹林に囲まれた景観が明確に写っている。"
+    }
+   ]
+  },
+  {
+   "id": "miyagase",
+   "name": "宮ヶ瀬湖",
+   "title": "File:Lake Miyagase and Bukka peaks 01.jpg",
+   "credit": {
+    "author": "Σ64",
+    "license": "CC BY 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Lake_Miyagase_and_Bukka_peaks_01.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "宮ヶ瀬湖の特徴的な弧を描く橋（宮ヶ瀬大橋）と、秋の紅葉に包まれた山々、青い湖面が写っており、この場所を特定できる。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Lake Miyagase and Bukka peaks 01.jpg",
+     "stage": "haiku",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "宮ヶ瀬湖の特徴的な弧を描く橋（宮ヶ瀬大橋）と、秋の紅葉に包まれた山々、青い湖面が写っており、この場所を特定できる。"
+    }
+   ]
+  },
+  {
+   "id": "kobouyama",
+   "name": "弘法山",
+   "title": "File:Gongen-yama01.jpg",
+   "credit": {
+    "author": "テレストレラッソ",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Gongen-yama01.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "山頂の塔と緑の山容、麓の町並みから弘法山と特定可能。景観紹介に適切。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Mt. Fuji from Mount Kōbō.jpg",
+     "stage": "haiku",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "富士山が主役で、弘法山の特徴的な地形・施設が不明確。別場所の展望写真と区別困難。"
+    },
+    {
+     "title": "File:Yuri with fall colors (52548421461).jpg",
+     "stage": "haiku",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "人物のポートレートが主体。紅葉は美しいが、弘法山特有の地形や目印が見当たらない。"
+    },
+    {
+     "title": "File:Gongen-yama01.jpg",
+     "stage": "haiku",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "山頂の塔と緑の山容、麓の町並みから弘法山と特定可能。景観紹介に適切。"
+    }
+   ]
+  },
+  {
+   "id": "oyama-afuri",
+   "name": "大山阿夫利神社",
+   "title": "File:Ōyama Afuri Shrine.jpg",
+   "credit": {
+    "author": "Dandy1022",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:%C5%8Cyama_Afuri_Shrine.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "神社建築、社号標、山岳の緑景観から大山阿夫利神社と判定可能。旅先紹介に適切。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Ōyama Afuri Shrine.jpg",
+     "stage": "haiku",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "神社建築、社号標、山岳の緑景観から大山阿夫利神社と判定可能。旅先紹介に適切。"
+    }
+   ]
+  },
+  {
+   "id": "shomyoji",
+   "name": "称名寺",
+   "title": "File:Shomyo-ji.jpg",
+   "credit": {
+    "author": "Wiiii",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Shomyo-ji.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "称名寺の特徴的な赤い橋と池、寺院建築が明確に写っており、風景として適切です。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Shomyo-ji.jpg",
+     "stage": "haiku",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "称名寺の特徴的な赤い橋と池、寺院建築が明確に写っており、風景として適切です。"
+    }
+   ]
+  }
+ ],
+ "rejected": []
+}

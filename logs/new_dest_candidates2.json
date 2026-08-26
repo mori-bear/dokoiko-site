@@ -1,0 +1,184 @@
+[
+  {
+    "id": "todoroki-keikoku",
+    "name": "等々力渓谷",
+    "prefecture": "東京都",
+    "osmQuery": "等々力渓谷 東京都世田谷区",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.49km",
+      "nearby": "なし"
+    },
+    "wiki": {
+      "lat": 35.61013889,
+      "lng": 139.64975,
+      "title": "満願寺 (世田谷区)"
+    },
+    "osm": {
+      "lat": 35.6068403,
+      "lng": 139.6462046
+    },
+    "wikiTitle": "満願寺 (世田谷区)",
+    "distanceKm": 0.49,
+    "lat": 35.60849,
+    "lng": 139.64798,
+    "pass": true
+  },
+  {
+    "id": "yanaka",
+    "name": "谷中",
+    "prefecture": "東京都",
+    "osmQuery": "谷中銀座商店街 東京都台東区",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "取得不可 (wiki=x osm=x)"
+    },
+    "wiki": null,
+    "osm": null,
+    "wikiTitle": null,
+    "pass": false
+  },
+  {
+    "id": "kiyosumi",
+    "name": "清澄庭園",
+    "prefecture": "東京都",
+    "osmQuery": "清澄庭園 東京都江東区",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.01km",
+      "nearby": "東京(2.8km)"
+    },
+    "wiki": {
+      "lat": 35.67994444,
+      "lng": 139.79772222,
+      "title": "清澄庭園"
+    },
+    "osm": {
+      "lat": 35.679981,
+      "lng": 139.7977865
+    },
+    "wikiTitle": "清澄庭園",
+    "distanceKm": 0.01,
+    "lat": 35.67996,
+    "lng": 139.79775,
+    "pass": false
+  },
+  {
+    "id": "miyagase",
+    "name": "宮ヶ瀬湖",
+    "prefecture": "神奈川県",
+    "osmQuery": "宮ヶ瀬湖 神奈川県",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 1.08km",
+      "nearby": "なし"
+    },
+    "wiki": {
+      "lat": 35.52944444,
+      "lng": 139.22916667,
+      "title": "宮ヶ瀬湖"
+    },
+    "osm": {
+      "lat": 35.5212818,
+      "lng": 139.2356154
+    },
+    "wikiTitle": "宮ヶ瀬湖",
+    "distanceKm": 1.08,
+    "lat": 35.52536,
+    "lng": 139.23239,
+    "pass": true
+  },
+  {
+    "id": "kobouyama",
+    "name": "弘法山",
+    "prefecture": "神奈川県",
+    "osmQuery": "弘法山 神奈川県秦野市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.01km",
+      "nearby": "なし"
+    },
+    "wiki": {
+      "lat": 35.37505556,
+      "lng": 139.25027778,
+      "title": "弘法山"
+    },
+    "osm": {
+      "lat": 35.3751459,
+      "lng": 139.2502445
+    },
+    "wikiTitle": "弘法山",
+    "distanceKm": 0.01,
+    "lat": 35.3751,
+    "lng": 139.25026,
+    "pass": true
+  },
+  {
+    "id": "nagareyama-honcho",
+    "name": "流山本町",
+    "prefecture": "千葉県",
+    "osmQuery": "流山本町 江戸回廊 千葉県流山市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "取得不可 (wiki=o osm=x)"
+    },
+    "wiki": {
+      "lat": 35.85631,
+      "lng": 139.90289,
+      "title": "流山市"
+    },
+    "osm": null,
+    "wikiTitle": "流山市",
+    "pass": false
+  },
+  {
+    "id": "oyama-afuri",
+    "name": "大山阿夫利神社",
+    "prefecture": "神奈川県",
+    "osmQuery": "大山阿夫利神社 神奈川県伊勢原市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 1.17km",
+      "nearby": "なし"
+    },
+    "wiki": {
+      "lat": 35.44055556,
+      "lng": 139.23105556,
+      "title": "大山阿夫利神社"
+    },
+    "osm": {
+      "lat": 35.4316596,
+      "lng": 139.2379868
+    },
+    "wikiTitle": "大山阿夫利神社",
+    "distanceKm": 1.17,
+    "lat": 35.43611,
+    "lng": 139.23452,
+    "pass": true
+  },
+  {
+    "id": "shomyoji",
+    "name": "称名寺",
+    "prefecture": "神奈川県",
+    "osmQuery": "称名寺 神奈川県横浜市金沢区",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.06km",
+      "nearby": "なし"
+    },
+    "wiki": {
+      "lat": 35.34418056,
+      "lng": 139.63039167,
+      "title": "称名寺 (横浜市)"
+    },
+    "osm": {
+      "lat": 35.3437089,
+      "lng": 139.6300756
+    },
+    "wikiTitle": "称名寺 (横浜市)",
+    "distanceKm": 0.06,
+    "lat": 35.34394,
+    "lng": 139.63023,
+    "pass": true
+  }
+]

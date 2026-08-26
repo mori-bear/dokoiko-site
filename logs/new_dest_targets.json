@@ -1,0 +1,155 @@
+[
+ {
+  "id": "jindaiji",
+  "name": "深大寺",
+  "prefecture": "東京都",
+  "lat": 35.66749,
+  "lng": 139.55037,
+  "wikiTitle": "深大寺",
+  "imageQuery": "深大寺 調布"
+ },
+ {
+  "id": "kunitachi",
+  "name": "国立",
+  "prefecture": "東京都",
+  "lat": 35.69118,
+  "lng": 139.44423,
+  "wikiTitle": "国立市",
+  "imageQuery": "国立市 大学通り"
+ },
+ {
+  "id": "gyoda",
+  "name": "行田",
+  "prefecture": "埼玉県",
+  "lat": 36.13875,
+  "lng": 139.45577,
+  "wikiTitle": "行田市",
+  "imageQuery": "忍城 行田"
+ },
+ {
+  "id": "kinchakuda",
+  "name": "巾着田",
+  "prefecture": "埼玉県",
+  "lat": 35.88232,
+  "lng": 139.31072,
+  "wikiTitle": "巾着田",
+  "imageQuery": "巾着田 曼珠沙華"
+ },
+ {
+  "id": "soka-matsubara",
+  "name": "草加松原",
+  "prefecture": "埼玉県",
+  "lat": 35.84171,
+  "lng": 139.80535,
+  "wikiTitle": "草加松原",
+  "imageQuery": "草加松原 綾瀬川"
+ },
+ {
+  "id": "fukaya",
+  "name": "深谷",
+  "prefecture": "埼玉県",
+  "lat": 36.19464,
+  "lng": 139.28138,
+  "wikiTitle": "深谷市",
+  "imageQuery": "深谷駅 レンガ"
+ },
+ {
+  "id": "higashichichibu",
+  "name": "東秩父村",
+  "prefecture": "埼玉県",
+  "lat": 36.05822,
+  "lng": 139.19471,
+  "wikiTitle": "東秩父村",
+  "imageQuery": "東秩父村 和紙の里"
+ },
+ {
+  "id": "kisarazu",
+  "name": "木更津",
+  "prefecture": "千葉県",
+  "lat": 35.37879,
+  "lng": 139.92154,
+  "wikiTitle": "木更津市",
+  "imageQuery": "木更津 中の島大橋"
+ },
+ {
+  "id": "futtsu-misaki",
+  "name": "富津岬",
+  "prefecture": "千葉県",
+  "lat": 35.31288,
+  "lng": 139.78469,
+  "wikiTitle": "富津岬",
+  "imageQuery": "富津岬 明治百年記念展望塔"
+ },
+ {
+  "id": "kasamori-kannon",
+  "name": "笠森観音",
+  "prefecture": "千葉県",
+  "lat": 35.39959,
+  "lng": 140.19892,
+  "wikiTitle": "笠森寺",
+  "imageQuery": "笠森寺 観音堂"
+ },
+ {
+  "id": "shirahama-boso",
+  "name": "南房総白浜",
+  "prefecture": "千葉県",
+  "lat": 34.90496,
+  "lng": 139.8938,
+  "wikiTitle": "白浜町 (千葉県)",
+  "imageQuery": "野島埼灯台 南房総"
+ },
+ {
+  "id": "kawasaki-daishi",
+  "name": "川崎大師",
+  "prefecture": "神奈川県",
+  "lat": 35.53449,
+  "lng": 139.72944,
+  "wikiTitle": "平間寺",
+  "imageQuery": "川崎大師 平間寺"
+ },
+ {
+  "id": "todoroki-keikoku",
+  "name": "等々力渓谷",
+  "prefecture": "東京都",
+  "lat": 35.60849,
+  "lng": 139.64798,
+  "wikiTitle": "満願寺 (世田谷区)",
+  "imageQuery": "等々力渓谷 世田谷"
+ },
+ {
+  "id": "miyagase",
+  "name": "宮ヶ瀬湖",
+  "prefecture": "神奈川県",
+  "lat": 35.52536,
+  "lng": 139.23239,
+  "wikiTitle": "宮ヶ瀬湖",
+  "imageQuery": "宮ヶ瀬湖 ダム"
+ },
+ {
+  "id": "kobouyama",
+  "name": "弘法山",
+  "prefecture": "神奈川県",
+  "lat": 35.3751,
+  "lng": 139.25026,
+  "wikiTitle": "弘法山",
+  "imageQuery": "弘法山 秦野"
+ },
+ {
+  "id": "oyama-afuri",
+  "name": "大山阿夫利神社",
+  "prefecture": "神奈川県",
+  "lat": 35.43611,
+  "lng": 139.23452,
+  "wikiTitle": "大山阿夫利神社",
+  "imageQuery": "大山阿夫利神社 伊勢原"
+ },
+ {
+  "id": "shomyoji",
+  "name": "称名寺",
+  "prefecture": "神奈川県",
+  "lat": 35.34394,
+  "lng": 139.63023,
+  "wikiTitle": "称名寺 (横浜市)",
+  "imageQuery": "称名寺 横浜 金沢区"
+ }
+]

@@ -1,0 +1,444 @@
+[
+  {
+    "id": "jindaiji",
+    "name": "深大寺",
+    "prefecture": "東京都",
+    "wikiTitle": "深大寺",
+    "osmQuery": "深大寺 東京都調布市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.02km",
+      "nearby": "なし"
+    },
+    "wiki": {
+      "lat": 35.667525,
+      "lng": 139.55047222
+    },
+    "osm": {
+      "lat": 35.6674609,
+      "lng": 139.5502762
+    },
+    "distanceKm": 0.02,
+    "lat": 35.66749,
+    "lng": 139.55037,
+    "pass": true
+  },
+  {
+    "id": "todoroki-keikoku",
+    "name": "等々力渓谷",
+    "prefecture": "東京都",
+    "wikiTitle": "等々力渓谷",
+    "osmQuery": "等々力渓谷 東京都世田谷区",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "取得不可 (wiki=x osm=o)"
+    },
+    "wiki": null,
+    "osm": {
+      "lat": 35.6068403,
+      "lng": 139.6462046
+    },
+    "pass": false
+  },
+  {
+    "id": "yanaka",
+    "name": "谷中",
+    "prefecture": "東京都",
+    "wikiTitle": "谷中 (台東区)",
+    "osmQuery": "谷中 東京都台東区",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "取得不可 (wiki=x osm=o)"
+    },
+    "wiki": null,
+    "osm": {
+      "lat": 35.7247892,
+      "lng": 139.7685576
+    },
+    "pass": false
+  },
+  {
+    "id": "kiyosumi-shirakawa",
+    "name": "清澄白河",
+    "prefecture": "東京都",
+    "wikiTitle": "清澄白河",
+    "osmQuery": "清澄白河駅 東京都江東区",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "取得不可 (wiki=x osm=o)"
+    },
+    "wiki": null,
+    "osm": {
+      "lat": 35.6820504,
+      "lng": 139.7987644
+    },
+    "pass": false
+  },
+  {
+    "id": "kunitachi",
+    "name": "国立",
+    "prefecture": "東京都",
+    "wikiTitle": "国立市",
+    "osmQuery": "国立駅 東京都国立市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 1.69km",
+      "nearby": "なし"
+    },
+    "wiki": {
+      "lat": 35.68392,
+      "lng": 139.44139
+    },
+    "osm": {
+      "lat": 35.6984361,
+      "lng": 139.4470711
+    },
+    "distanceKm": 1.69,
+    "lat": 35.69118,
+    "lng": 139.44423,
+    "pass": true
+  },
+  {
+    "id": "gyoda",
+    "name": "行田",
+    "prefecture": "埼玉県",
+    "wikiTitle": "行田市",
+    "osmQuery": "行田市 埼玉県",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.04km",
+      "nearby": "なし"
+    },
+    "wiki": {
+      "lat": 36.13889,
+      "lng": 139.45564
+    },
+    "osm": {
+      "lat": 36.1386052,
+      "lng": 139.4559001
+    },
+    "distanceKm": 0.04,
+    "lat": 36.13875,
+    "lng": 139.45577,
+    "pass": true
+  },
+  {
+    "id": "kinchakuda",
+    "name": "巾着田",
+    "prefecture": "埼玉県",
+    "wikiTitle": "巾着田",
+    "osmQuery": "巾着田 埼玉県日高市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.20km",
+      "nearby": "なし"
+    },
+    "wiki": {
+      "lat": 35.88144444,
+      "lng": 139.31038889
+    },
+    "osm": {
+      "lat": 35.8831866,
+      "lng": 139.3110516
+    },
+    "distanceKm": 0.2,
+    "lat": 35.88232,
+    "lng": 139.31072,
+    "pass": true
+  },
+  {
+    "id": "soka-matsubara",
+    "name": "草加松原",
+    "prefecture": "埼玉県",
+    "wikiTitle": "草加松原",
+    "osmQuery": "草加松原 埼玉県草加市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.92km",
+      "nearby": "なし"
+    },
+    "wiki": {
+      "lat": 35.84,
+      "lng": 139.81
+    },
+    "osm": {
+      "lat": 35.8434285,
+      "lng": 139.8007004
+    },
+    "distanceKm": 0.92,
+    "lat": 35.84171,
+    "lng": 139.80535,
+    "pass": true
+  },
+  {
+    "id": "fukaya",
+    "name": "深谷",
+    "prefecture": "埼玉県",
+    "wikiTitle": "深谷市",
+    "osmQuery": "深谷駅 埼玉県深谷市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.63km",
+      "nearby": "なし"
+    },
+    "wiki": {
+      "lat": 36.19747,
+      "lng": 139.2815
+    },
+    "osm": {
+      "lat": 36.1918042,
+      "lng": 139.2812595
+    },
+    "distanceKm": 0.63,
+    "lat": 36.19464,
+    "lng": 139.28138,
+    "pass": true
+  },
+  {
+    "id": "higashichichibu",
+    "name": "東秩父村",
+    "prefecture": "埼玉県",
+    "wikiTitle": "東秩父村",
+    "osmQuery": "東秩父村 埼玉県",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.02km",
+      "nearby": "なし"
+    },
+    "wiki": {
+      "lat": 36.05817,
+      "lng": 139.19464
+    },
+    "osm": {
+      "lat": 36.0582601,
+      "lng": 139.1947825
+    },
+    "distanceKm": 0.02,
+    "lat": 36.05822,
+    "lng": 139.19471,
+    "pass": true
+  },
+  {
+    "id": "kisarazu",
+    "name": "木更津",
+    "prefecture": "千葉県",
+    "wikiTitle": "木更津市",
+    "osmQuery": "木更津駅 千葉県木更津市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 1.06km",
+      "nearby": "なし"
+    },
+    "wiki": {
+      "lat": 35.37597,
+      "lng": 139.91683
+    },
+    "osm": {
+      "lat": 35.3816066,
+      "lng": 139.9262431
+    },
+    "distanceKm": 1.06,
+    "lat": 35.37879,
+    "lng": 139.92154,
+    "pass": true
+  },
+  {
+    "id": "futtsu-misaki",
+    "name": "富津岬",
+    "prefecture": "千葉県",
+    "wikiTitle": "富津岬",
+    "osmQuery": "富津岬 千葉県富津市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.15km",
+      "nearby": "なし"
+    },
+    "wiki": {
+      "lat": 35.31277778,
+      "lng": 139.7855
+    },
+    "osm": {
+      "lat": 35.3129848,
+      "lng": 139.7838745
+    },
+    "distanceKm": 0.15,
+    "lat": 35.31288,
+    "lng": 139.78469,
+    "pass": true
+  },
+  {
+    "id": "kasamori-kannon",
+    "name": "笠森観音",
+    "prefecture": "千葉県",
+    "wikiTitle": "笠森寺",
+    "osmQuery": "笠森寺 千葉県長南町",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.01km",
+      "nearby": "なし"
+    },
+    "wiki": {
+      "lat": 35.39961111,
+      "lng": 140.19891667
+    },
+    "osm": {
+      "lat": 35.3995594,
+      "lng": 140.1989311
+    },
+    "distanceKm": 0.01,
+    "lat": 35.39959,
+    "lng": 140.19892,
+    "pass": true
+  },
+  {
+    "id": "shirahama-boso",
+    "name": "南房総白浜",
+    "prefecture": "千葉県",
+    "wikiTitle": "白浜町 (千葉県)",
+    "osmQuery": "野島埼灯台 千葉県南房総市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 1.22km",
+      "nearby": "なし"
+    },
+    "wiki": {
+      "lat": 34.90819,
+      "lng": 139.89922
+    },
+    "osm": {
+      "lat": 34.9017295,
+      "lng": 139.8883852
+    },
+    "distanceKm": 1.22,
+    "lat": 34.90496,
+    "lng": 139.8938,
+    "pass": true
+  },
+  {
+    "id": "nagareyama-honcho",
+    "name": "流山本町",
+    "prefecture": "千葉県",
+    "wikiTitle": "流山市",
+    "osmQuery": "流山本町 千葉県流山市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "不一致 888.38km"
+    },
+    "wiki": {
+      "lat": 35.85631,
+      "lng": 139.90289
+    },
+    "osm": {
+      "lat": 33.3045594,
+      "lng": 130.5434241
+    },
+    "distanceKm": 888.38,
+    "pass": false
+  },
+  {
+    "id": "oyama-afuri",
+    "name": "大山",
+    "prefecture": "神奈川県",
+    "wikiTitle": "大山 (神奈川県)",
+    "osmQuery": "大山阿夫利神社 神奈川県伊勢原市",
+    "checks": {
+      "duplicate": "同名:大山",
+      "coords": "一致 1.19km",
+      "nearby": "なし"
+    },
+    "wiki": {
+      "lat": 35.44083333,
+      "lng": 139.23111111
+    },
+    "osm": {
+      "lat": 35.4316596,
+      "lng": 139.2379868
+    },
+    "distanceKm": 1.19,
+    "lat": 35.43625,
+    "lng": 139.23455,
+    "pass": false
+  },
+  {
+    "id": "miyagase",
+    "name": "宮ヶ瀬",
+    "prefecture": "神奈川県",
+    "wikiTitle": "宮ヶ瀬ダム",
+    "osmQuery": "宮ヶ瀬湖 神奈川県清川村",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "取得不可 (wiki=x osm=o)"
+    },
+    "wiki": null,
+    "osm": {
+      "lat": 35.5212818,
+      "lng": 139.2356154
+    },
+    "pass": false
+  },
+  {
+    "id": "hayama",
+    "name": "葉山",
+    "prefecture": "神奈川県",
+    "wikiTitle": "葉山町",
+    "osmQuery": "葉山町 神奈川県",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.02km",
+      "nearby": "逗子(2.8km)"
+    },
+    "wiki": {
+      "lat": 35.27206,
+      "lng": 139.58625
+    },
+    "osm": {
+      "lat": 35.2719497,
+      "lng": 139.5860744
+    },
+    "distanceKm": 0.02,
+    "lat": 35.272,
+    "lng": 139.58616,
+    "pass": false
+  },
+  {
+    "id": "kobouyama",
+    "name": "弘法山",
+    "prefecture": "神奈川県",
+    "wikiTitle": "弘法山公園",
+    "osmQuery": "弘法山 神奈川県秦野市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "取得不可 (wiki=x osm=o)"
+    },
+    "wiki": null,
+    "osm": {
+      "lat": 35.3751459,
+      "lng": 139.2502445
+    },
+    "pass": false
+  },
+  {
+    "id": "kawasaki-daishi",
+    "name": "川崎大師",
+    "prefecture": "神奈川県",
+    "wikiTitle": "平間寺",
+    "osmQuery": "川崎大師 神奈川県川崎市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.05km",
+      "nearby": "なし"
+    },
+    "wiki": {
+      "lat": 35.53472222,
+      "lng": 139.72944444
+    },
+    "osm": {
+      "lat": 35.5342515,
+      "lng": 139.7294416
+    },
+    "distanceKm": 0.05,
+    "lat": 35.53449,
+    "lng": 139.72944,
+    "pass": true
+  }
+]

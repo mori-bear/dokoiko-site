@@ -1,0 +1,310 @@
+[
+ {
+  "id": "jindaiji",
+  "name": "深大寺",
+  "file": "File:Jindai-ji in Chofu, Tokyo 002.jpg",
+  "verdict": "ok",
+  "hitsSelf": true,
+  "hitsLocal": false,
+  "others": [],
+  "cats": [
+   "2012 photographs of Chofu, Tokyo taken by User:掬茶",
+   "CC-BY-SA-3.0",
+   "Files with coordinates missing SDC location of creation",
+   "Main Hall, Jindaiji",
+   "Self-published work",
+   "Taken with Fujifilm FinePix F550EXR"
+  ],
+  "desc": "Jindai-ji is a Tiantai school temple in Chofu City, Tokyo."
+ },
+ {
+  "id": "kunitachi",
+  "name": "国立",
+  "file": "File:Kunitachi-3.jpg",
+  "verdict": "ok",
+  "hitsSelf": true,
+  "hitsLocal": true,
+  "others": [],
+  "cats": [
+   "CC-BY-SA-4.0",
+   "Kunitachi, Tokyo",
+   "Self-published work"
+  ],
+  "desc": "国立市 大学通り"
+ },
+ {
+  "id": "gyoda",
+  "name": "行田",
+  "file": "File:Oshi Castle, yagura-1.jpg",
+  "verdict": "ok",
+  "hitsSelf": false,
+  "hitsLocal": true,
+  "others": [],
+  "cats": [
+   "CC-Zero",
+   "Oshi Castle",
+   "Self-published work"
+  ],
+  "desc": "忍城 模擬御三階櫓"
+ },
+ {
+  "id": "kinchakuda",
+  "name": "巾着田",
+  "file": "File:Saitama Kinchakuda 3 xl.jpg",
+  "verdict": "ok",
+  "hitsSelf": false,
+  "hitsLocal": true,
+  "others": [],
+  "cats": [
+   "CC-BY-4.0",
+   "Files from Photo METI Project",
+   "Files with coordinates missing SDC location of creation",
+   "Kinchakuda",
+   "Lycoris radiata"
+  ],
+  "desc": "500万株の曼珠沙華が壮観な巾着田。\n3年ぶりの一般公開でした。"
+ },
+ {
+  "id": "soka-matsubara",
+  "name": "草加松原",
+  "file": "File:Sōka-Matsubara.jpg",
+  "verdict": "ok",
+  "hitsSelf": true,
+  "hitsLocal": false,
+  "others": [],
+  "cats": [
+   "CC-BY-SA-4.0",
+   "Japan photographs taken on 2023-11-21",
+   "November 2023 in Saitama prefecture",
+   "Self-published work",
+   "Soka Matsubara"
+  ],
+  "desc": "The Sōka-Matsubara promenade, famed for its pine trees since the 17th century."
+ },
+ {
+  "id": "fukaya",
+  "name": "深谷",
+  "file": "File:深谷駅 - panoramio (1) (cropped).jpg",
+  "verdict": "ok",
+  "hitsSelf": false,
+  "hitsLocal": true,
+  "others": [],
+  "cats": [
+   "CC-BY-3.0",
+   "Extracted images",
+   "Files with coordinates missing SDC location of creation",
+   "Fukaya Station",
+   "Japan photographs taken on 2014-10-04",
+   "Panoramio files uploaded by Panoramio upload bot",
+   "Photos from Panoramio ID 1474640",
+   "Railway photographs taken on 2014-10-04"
+  ],
+  "desc": "深谷駅"
+ },
+ {
+  "id": "higashichichibu",
+  "name": "東秩父村",
+  "file": "File:Higashichichibu Washinosatu 1.JPG",
+  "verdict": "ok",
+  "hitsSelf": true,
+  "hitsLocal": true,
+  "others": [],
+  "cats": [
+   "CC-BY-SA-3.0",
+   "Files uploaded by 京浜にけ",
+   "GFDL",
+   "License migration redundant",
+   "Michinoeki Washinosato Higashichichibu",
+   "Self-published work",
+   "Taken with Canon PowerShot G9"
+  ],
+  "desc": "​「和紙の里」の和紙製造所（埼玉県秩父郡東秩父村）"
+ },
+ {
+  "id": "kisarazu",
+  "name": "木更津",
+  "file": "File:中の島大橋 (木更津市).JPG",
+  "verdict": "ok",
+  "hitsSelf": true,
+  "hitsLocal": true,
+  "others": [],
+  "cats": [
+   "Bridges in Kisarazu, Chiba",
+   "CC-BY-SA-3.0-migrated-with-disclaimers",
+   "GFDL-ja",
+   "License migration completed",
+   "Taken with Canon Digital IXUS 185"
+  ],
+  "desc": "撮影者：投稿者と同じ　撮影場所：千葉県木更津市"
+ },
+ {
+  "id": "futtsu-misaki",
+  "name": "富津岬",
+  "file": "File:(千葉県) 富津岬の夜明け - panoramio.jpg",
+  "verdict": "ok",
+  "hitsSelf": true,
+  "hitsLocal": true,
+  "others": [],
+  "cats": [
+   "CC-BY-SA-3.0",
+   "Cape Futtsu",
+   "Dawn in Chiba prefecture",
+   "Files with coordinates missing SDC location of creation",
+   "January 2008 in Chiba prefecture",
+   "Japan photographs taken on 2008-01-03",
+   "Panoramio files uploaded by Panoramio upload bot",
+   "Panoramio images reviewed by trusted users",
+   "Photos from Panoramio"
+  ],
+  "desc": "[千葉県] 富津岬の夜明け"
+ },
+ {
+  "id": "kasamori-kannon",
+  "name": "笠森観音",
+  "file": "File:Kannondō, Kasamori-ji temple, Chōnan, Chiba pref Japan.jpg",
+  "verdict": "ok",
+  "hitsSelf": true,
+  "hitsLocal": true,
+  "others": [],
+  "cats": [
+   "CC-BY-2.0",
+   "Flickr images reviewed by FlickreviewR 2",
+   "Incorrect Exif date",
+   "Kasamori-ji"
+  ],
+  "desc": "観音堂（四方懸造）。笠森寺。千葉県長生郡長南町。"
+ },
+ {
+  "id": "shirahama-boso",
+  "name": "南房総白浜",
+  "file": "File:Shirahama onsen zenkei.JPG",
+  "verdict": "weak",
+  "hitsSelf": false,
+  "hitsLocal": false,
+  "others": [],
+  "cats": [
+   "CC-BY-SA-3.0",
+   "Nanki-Shirahama Onsen",
+   "Self-published work",
+   "Taken with Panasonic Lumix DMC-FX30"
+  ],
+  "desc": "白浜温泉全景。"
+ },
+ {
+  "id": "kawasaki-daishi",
+  "name": "川崎大師",
+  "file": "File:Kawasaki Daishi Main Hall.jpg",
+  "verdict": "ok",
+  "hitsSelf": false,
+  "hitsLocal": true,
+  "others": [],
+  "cats": [
+   "CC-BY-2.5",
+   "CC-BY-SA-3.0",
+   "CC-BY-SA-3.0-migrated",
+   "GFDL",
+   "License migration completed",
+   "Main Hall, Kawasaki Daishi",
+   "Self-published work",
+   "Taken with Nikon Coolpix S8100"
+  ],
+  "desc": "The Main Hall of Heiken-ji (Kawasaki Daishi) temple."
+ },
+ {
+  "id": "todoroki-keikoku",
+  "name": "等々力渓谷",
+  "file": "File:世田谷区立等々力渓谷公園 - panoramio.jpg",
+  "verdict": "ok",
+  "hitsSelf": false,
+  "hitsLocal": true,
+  "others": [],
+  "cats": [
+   "CC-BY-3.0",
+   "Files with coordinates missing SDC location of creation",
+   "Japan photographs taken on 2009-06-14",
+   "Panoramio files uploaded by Panoramio upload bot",
+   "Panoramio images reviewed by trusted users",
+   "Photos from Panoramio",
+   "Todoroki Keikoku"
+  ],
+  "desc": "世田谷区立等々力渓谷公園"
+ },
+ {
+  "id": "miyagase",
+  "name": "宮ヶ瀬湖",
+  "file": "File:Lake Miyagase and Bukka peaks 01.jpg",
+  "verdict": "ok",
+  "hitsSelf": true,
+  "hitsLocal": false,
+  "others": [],
+  "cats": [
+   "Autumn in Japan",
+   "CC-BY-3.0",
+   "GFDL",
+   "Japan photographs taken on 2008-11-23",
+   "Lake Miyagase",
+   "License migration redundant",
+   "Mount Takatori (Tanzawa)",
+   "Otanasawa Bridge",
+   "Quality images",
+   "Quality images of Japan",
+   "Self-published work",
+   "Taken with Canon EOS 300D"
+  ],
+  "desc": "Lake Miyagase and Bukka peaks, Kiyokawa, Kanagawa, Japan. The bridge of the right is Otanasawa Bridge."
+ },
+ {
+  "id": "kobouyama",
+  "name": "弘法山",
+  "file": "File:Gongen-yama01.jpg",
+  "verdict": "ok",
+  "hitsSelf": true,
+  "hitsLocal": true,
+  "others": [],
+  "cats": [
+   "August 2024 in Kanagawa prefecture",
+   "CC-BY-SA-4.0",
+   "Hadano, Kanagawa",
+   "Mountains of Kanagawa prefecture",
+   "Self-published work"
+  ],
+  "desc": "秦野駅付近から権現山方向を撮影。2024年8月。展望台があるのが権現山。手前が浅間山。はだのクリーンセンターの煙突の奥の方向に弘法山。"
+ },
+ {
+  "id": "oyama-afuri",
+  "name": "大山阿夫利神社",
+  "file": "File:Ōyama Afuri Shrine.jpg",
+  "verdict": "ok",
+  "hitsSelf": true,
+  "hitsLocal": true,
+  "others": [],
+  "cats": [
+   "CC-BY-SA-4.0",
+   "Files with coordinates missing SDC location of creation",
+   "Haiden in Kanagawa prefecture",
+   "Japan photographs taken on 2021-06-18",
+   "June 2021 in Kanagawa prefecture",
+   "Oyama Afuri jinja Shimosha",
+   "Self-published work",
+   "Taken with Casio Exilim EX-FR100"
+  ],
+  "desc": "The Ōyama Afuri Jinja or Ōyama Afuri Shrine  is a Shinto shrine set on beautiful Mount Ōyama in  Isehara City,, Kanagawa Prefecture. it is a key point on the trail for Mt. Oyama hikers[1], a popular s"
+ },
+ {
+  "id": "shomyoji",
+  "name": "称名寺",
+  "file": "File:Shomyo-ji.jpg",
+  "verdict": "ok",
+  "hitsSelf": false,
+  "hitsLocal": true,
+  "others": [],
+  "cats": [
+   "CC-BY-SA-3.0,2.5,2.0,1.0",
+   "GFDL",
+   "License migration redundant",
+   "Self-published work",
+   "Soribashi and Hirabashi, Shōmyō-ji (Yokohama)"
+  ],
+  "desc": "Shomyo-ji, at Kanazawa-ku Yokohama Japan."
+ }
+]

@@ -1,0 +1,578 @@
+{
+ "jindaiji": {
+  "spot-1": {
+   "ok": true,
+   "title": "File:JP-Tokyo-Jindaiji-Temple.JPG",
+   "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/JP-Tokyo-Jindaiji-Temple.JPG/1920px-JP-Tokyo-Jindaiji-Temple.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credit": {
+    "author": "Kanchi1979",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:JP-Tokyo-Jindaiji-Temple.JPG",
+    "attributionRequired": true
+   },
+   "via": "Haiku",
+   "meta": "ok"
+  },
+  "spot-2": {
+   "ok": false,
+   "dropped": true,
+   "reason": "東京競馬場内の店「馬そば深大寺」の写真で、深大寺門前のそば屋ではない",
+   "wasTitle": "File:とりそば・いかげそ天トッピング（東京競馬場・馬そば深大寺）20240526-P1042848.jpg"
+  },
+  "spot-3": {
+   "ok": true,
+   "title": "File:Jindai Botanical Garden - Japanese Apricot Garden 3.jpg",
+   "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Jindai_Botanical_Garden_-_Japanese_Apricot_Garden_3.jpg/1920px-Jindai_Botanical_Garden_-_Japanese_Apricot_Garden_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credit": {
+    "author": "Hyo-tan",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Jindai_Botanical_Garden_-_Japanese_Apricot_Garden_3.jpg",
+    "attributionRequired": true
+   },
+   "via": "Haiku",
+   "meta": "ok"
+  }
+ },
+ "kunitachi": {
+  "spot-1": {
+   "ok": false,
+   "dropped": true,
+   "reason": "main画像と同一ファイル（同じ写真の二重掲載になる）",
+   "wasTitle": "File:Kunitachi-3.jpg"
+  },
+  "spot-2": {
+   "ok": true,
+   "title": "File:Former Kunitachi Station Building 202008-2.jpg",
+   "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Former_Kunitachi_Station_Building_202008-2.jpg/1920px-Former_Kunitachi_Station_Building_202008-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credit": {
+    "author": "Suikotei",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Former_Kunitachi_Station_Building_202008-2.jpg",
+    "attributionRequired": true
+   },
+   "via": "Haiku",
+   "meta": "ok"
+  },
+  "spot-3": {
+   "ok": true,
+   "title": "File:Yaho Tenmangu.jpg",
+   "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Yaho_Tenmangu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "credit": {
+    "author": "Binh Giang",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Yaho_Tenmangu.jpg",
+    "attributionRequired": true
+   },
+   "via": "Haiku",
+   "meta": "ok"
+  }
+ },
+ "todoroki-keikoku": {
+  "spot-1": {
+   "ok": true,
+   "title": "File:等々力渓谷 - panoramio (7).jpg",
+   "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/%E7%AD%89%E3%80%85%E5%8A%9B%E6%B8%93%E8%B0%B7_-_panoramio_%287%29.jpg/1920px-%E7%AD%89%E3%80%85%E5%8A%9B%E6%B8%93%E8%B0%B7_-_panoramio_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credit": {
+    "author": "珈琲牛乳",
+    "license": "CC BY 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:%E7%AD%89%E3%80%85%E5%8A%9B%E6%B8%93%E8%B0%B7_-_panoramio_(7).jpg",
+    "attributionRequired": true
+   },
+   "via": "Haiku",
+   "meta": "ok"
+  },
+  "spot-2": {
+   "ok": true,
+   "title": "File:等々力渓谷 等々力不動尊 - panoramio.jpg",
+   "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/%E7%AD%89%E3%80%85%E5%8A%9B%E6%B8%93%E8%B0%B7_%E7%AD%89%E3%80%85%E5%8A%9B%E4%B8%8D%E5%8B%95%E5%B0%8A_-_panoramio.jpg/1920px-%E7%AD%89%E3%80%85%E5%8A%9B%E6%B8%93%E8%B0%B7_%E7%AD%89%E3%80%85%E5%8A%9B%E4%B8%8D%E5%8B%95%E5%B0%8A_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credit": {
+    "author": "珈琲牛乳",
+    "license": "CC BY 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:%E7%AD%89%E3%80%85%E5%8A%9B%E6%B8%93%E8%B0%B7_%E7%AD%89%E3%80%85%E5%8A%9B%E4%B8%8D%E5%8B%95%E5%B0%8A_-_panoramio.jpg",
+    "attributionRequired": true
+   },
+   "via": "Haiku",
+   "meta": "ok"
+  },
+  "spot-3": {
+   "ok": false,
+   "tried": []
+  }
+ },
+ "gyoda": {
+  "spot-1": {
+   "ok": false,
+   "dropped": true,
+   "reason": "main画像と同一ファイル（同じ写真の二重掲載になる）",
+   "wasTitle": "File:Oshi Castle, yagura-1.jpg"
+  },
+  "spot-2": {
+   "ok": true,
+   "title": "File:時田足袋蔵（JH27時田蔵1）.jpg",
+   "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/%E6%99%82%E7%94%B0%E8%B6%B3%E8%A2%8B%E8%94%B5%EF%BC%88JH27%E6%99%82%E7%94%B0%E8%94%B51%EF%BC%89.jpg/1920px-%E6%99%82%E7%94%B0%E8%B6%B3%E8%A2%8B%E8%94%B5%EF%BC%88JH27%E6%99%82%E7%94%B0%E8%94%B51%EF%BC%89.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credit": {
+    "author": "行田市",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:%E6%99%82%E7%94%B0%E8%B6%B3%E8%A2%8B%E8%94%B5%EF%BC%88JH27%E6%99%82%E7%94%B0%E8%94%B51%EF%BC%89.jpg",
+    "attributionRequired": true
+   },
+   "via": "Haiku→Sonnet",
+   "meta": "weak"
+  },
+  "spot-3": {
+   "ok": true,
+   "title": "File:Gyoda Kodaihasu-no-sato Ancient Lotus Pond 1.jpg",
+   "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Gyoda_Kodaihasu-no-sato_Ancient_Lotus_Pond_1.jpg/1920px-Gyoda_Kodaihasu-no-sato_Ancient_Lotus_Pond_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credit": {
+    "author": "京浜にけ",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Gyoda_Kodaihasu-no-sato_Ancient_Lotus_Pond_1.jpg",
+    "attributionRequired": true
+   },
+   "via": "Haiku",
+   "meta": "ok"
+  }
+ },
+ "kinchakuda": {
+  "spot-1": {
+   "ok": false,
+   "dropped": true,
+   "reason": "main画像と同一ファイル（同じ写真の二重掲載になる）",
+   "wasTitle": "File:Saitama Kinchakuda 3 xl.jpg"
+  },
+  "spot-2": {
+   "ok": true,
+   "title": "File:日高市高麗川の巾着田 - panoramio.jpg",
+   "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/%E6%97%A5%E9%AB%98%E5%B8%82%E9%AB%98%E9%BA%97%E5%B7%9D%E3%81%AE%E5%B7%BE%E7%9D%80%E7%94%B0_-_panoramio.jpg/1920px-%E6%97%A5%E9%AB%98%E5%B8%82%E9%AB%98%E9%BA%97%E5%B7%9D%E3%81%AE%E5%B7%BE%E7%9D%80%E7%94%B0_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credit": {
+    "author": "KOJI MISUMI",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:%E6%97%A5%E9%AB%98%E5%B8%82%E9%AB%98%E9%BA%97%E5%B7%9D%E3%81%AE%E5%B7%BE%E7%9D%80%E7%94%B0_-_panoramio.jpg",
+    "attributionRequired": true
+   },
+   "via": "Haiku",
+   "meta": "ok"
+  },
+  "spot-3": {
+   "ok": true,
+   "title": "File:日和田山からの巾着田.jpg",
+   "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/%E6%97%A5%E5%92%8C%E7%94%B0%E5%B1%B1%E3%81%8B%E3%82%89%E3%81%AE%E5%B7%BE%E7%9D%80%E7%94%B0.jpg/1920px-%E6%97%A5%E5%92%8C%E7%94%B0%E5%B1%B1%E3%81%8B%E3%82%89%E3%81%AE%E5%B7%BE%E7%9D%80%E7%94%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credit": {
+    "author": "Koda6029",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:%E6%97%A5%E5%92%8C%E7%94%B0%E5%B1%B1%E3%81%8B%E3%82%89%E3%81%AE%E5%B7%BE%E7%9D%80%E7%94%B0.jpg",
+    "attributionRequired": true
+   },
+   "via": "Haiku",
+   "meta": "ok"
+  }
+ },
+ "soka-matsubara": {
+  "spot-1": {
+   "ok": false,
+   "dropped": true,
+   "reason": "main画像と同一ファイル（同じ写真の二重掲載になる）",
+   "wasTitle": "File:Sōka-Matsubara.jpg"
+  },
+  "spot-2": {
+   "ok": false,
+   "tried": []
+  },
+  "spot-3": {
+   "ok": false,
+   "tried": [
+    {
+     "t": "File:草加せんべいの庭.jpg",
+     "stage": "haiku",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "草加せんべいが見当たらず、商業施設の外観が主役。商品が主体ではない。"
+    },
+    {
+     "t": "File:Senbei3.jpg",
+     "stage": "haiku",
+     "verdict": "ng",
+     "identifiable": true,
+     "reason": "パッケージ化された商品の正面。草加松原の景観や松並木など場所の特徴が表現されていない。"
+    },
+    {
+     "t": "File:Soka Senbei Shimeya.jpg",
+     "stage": "haiku",
+     "verdict": "ng",
+     "identifiable": true,
+     "reason": "草加せんべい店舗の外観写真ですが、スポットは『草加松原』であり、店舗ではなく松並木が主役であるべき。"
+    },
+    {
+     "t": "File:Genbeean-2.jpg",
+     "stage": "haiku",
+     "verdict": "ng",
+     "identifiable": true,
+     "reason": "草加せんべいの製品が見えず、店舗の建物外観が主役。商品紹介画像として不適切。"
+    },
+    {
+     "t": "File:Komejyu Senbei.jpg",
+     "stage": "haiku",
+     "verdict": "ng",
+     "identifiable": true,
+     "reason": "草加せんべい店舗の外観が主体で、商品そのものが見えない。スポット紹介には商品の視認が必要。"
+    }
+   ]
+  }
+ },
+ "fukaya": {
+  "spot-1": {
+   "ok": false,
+   "dropped": true,
+   "reason": "高崎線のホームの写真で、赤レンガ駅舎の外観ではない",
+   "wasTitle": "File:JR Takasaki Line Fukaya Station Platform.jpg"
+  },
+  "spot-2": {
+   "ok": true,
+   "title": "File:Eiichi Shibusawa Memorial Museum.JPG",
+   "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Eiichi_Shibusawa_Memorial_Museum.JPG/1920px-Eiichi_Shibusawa_Memorial_Museum.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credit": {
+    "author": "Abasaa",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Eiichi_Shibusawa_Memorial_Museum.JPG",
+    "attributionRequired": true
+   },
+   "via": "Haiku",
+   "meta": "ok"
+  },
+  "spot-3": {
+   "ok": true,
+   "title": "File:Fukaya Nihon Renga Former Substation Room 1.JPG",
+   "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Fukaya_Nihon_Renga_Former_Substation_Room_1.JPG/1920px-Fukaya_Nihon_Renga_Former_Substation_Room_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credit": {
+    "author": "京浜にけ at Japanese Wikipedia",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Fukaya_Nihon_Renga_Former_Substation_Room_1.JPG",
+    "attributionRequired": true
+   },
+   "via": "Haiku→Sonnet",
+   "meta": "weak"
+  }
+ },
+ "higashichichibu": {
+  "spot-1": {
+   "ok": false,
+   "dropped": true,
+   "reason": "main画像と同一ファイル（同じ写真の二重掲載になる）",
+   "wasTitle": "File:Higashichichibu Washinosatu 1.JPG"
+  },
+  "spot-2": {
+   "ok": false,
+   "tried": []
+  },
+  "spot-3": {
+   "ok": false,
+   "dropped": true,
+   "reason": "香港の大帽山(Tai Mo Shan)の写真。漢字が同じ「大霧山」による同名異所",
+   "wasTitle": "File:Tai Mo Shan 2.jpg"
+  }
+ },
+ "kisarazu": {
+  "spot-1": {
+   "ok": false,
+   "dropped": true,
+   "reason": "main画像と同一ファイル（同じ写真の二重掲載になる）",
+   "wasTitle": "File:中の島大橋 (木更津市).JPG"
+  },
+  "spot-2": {
+   "ok": true,
+   "title": "File:Sunset view at Egawa seaside.jpg",
+   "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Sunset_view_at_Egawa_seaside.jpg/1920px-Sunset_view_at_Egawa_seaside.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credit": {
+    "author": "T.Takida",
+    "license": "CC BY 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Sunset_view_at_Egawa_seaside.jpg",
+    "attributionRequired": true
+   },
+   "via": "Haiku",
+   "meta": "ok"
+  },
+  "spot-3": {
+   "ok": true,
+   "title": "File:Tōkōzan Shōjō-ji Temple 20210905 05.jpg",
+   "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/T%C5%8Dk%C5%8Dzan_Sh%C5%8Dj%C5%8D-ji_Temple_20210905_05.jpg/1920px-T%C5%8Dk%C5%8Dzan_Sh%C5%8Dj%C5%8D-ji_Temple_20210905_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credit": {
+    "author": "先従隗始",
+    "license": "CC0",
+    "url": "https://commons.wikimedia.org/wiki/File:T%C5%8Dk%C5%8Dzan_Sh%C5%8Dj%C5%8D-ji_Temple_20210905_05.jpg",
+    "attributionRequired": true
+   },
+   "via": "Haiku→Sonnet",
+   "meta": "weak"
+  }
+ },
+ "futtsu-misaki": {
+  "spot-1": {
+   "ok": false,
+   "tried": []
+  },
+  "spot-2": {
+   "ok": false,
+   "tried": [
+    {
+     "t": "File:下州海岸 - panoramio.jpg",
+     "stage": "haiku",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "富士山が主役になっている。富津海岸の特徴的な風景ではなく、遠景の富士山が主題。"
+    }
+   ]
+  },
+  "spot-3": {
+   "ok": false,
+   "tried": [
+    {
+     "t": "File:Fort No.1 in Tokyo Bay fortress.JPG",
+     "stage": "meta",
+     "v": "ng",
+     "others": [
+      "東京都"
+     ]
+    },
+    {
+     "t": "File:Tokyo Bay Fort No.1.jpg",
+     "stage": "meta",
+     "v": "ng",
+     "others": [
+      "東京都"
+     ]
+    },
+    {
+     "t": "File:Fort No1 tokyobay mlit1974.jpg",
+     "stage": "meta",
+     "v": "ng",
+     "others": [
+      "東京都"
+     ]
+    },
+    {
+     "t": "File:Sea fort square tennouzu higashishinagawa shingawa tokyo 2009-3.JPG",
+     "stage": "meta",
+     "v": "ng",
+     "others": [
+      "東京都"
+     ]
+    },
+    {
+     "t": "File:Sea fort square tennouzu higashishinagawa shingawa tokyo 2009-4.JPG",
+     "stage": "meta",
+     "v": "ng",
+     "others": [
+      "東京都"
+     ]
+    }
+   ]
+  }
+ },
+ "kasamori-kannon": {
+  "spot-1": {
+   "ok": false,
+   "dropped": true,
+   "reason": "main画像と同一ファイル（同じ写真の二重掲載になる）",
+   "wasTitle": "File:Kannondō, Kasamori-ji temple, Chōnan, Chiba pref Japan.jpg"
+  },
+  "spot-2": {
+   "ok": false,
+   "tried": []
+  },
+  "spot-3": {
+   "ok": false,
+   "tried": []
+  }
+ },
+ "shirahama-boso": {
+  "spot-1": {
+   "ok": false,
+   "dropped": true,
+   "reason": "main画像と同一ファイル（同じ写真の二重掲載になる）",
+   "wasTitle": "File:Nojimasaki Lighthouse 2017-09.jpg"
+  },
+  "spot-2": {
+   "ok": false,
+   "tried": []
+  },
+  "spot-3": {
+   "ok": false,
+   "tried": [
+    {
+     "t": "File:晩秋の房総フラワーライン - panoramio.jpg",
+     "stage": "haiku",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "房総フラワーラインの特徴（花畑）が見当たらず、海岸風景が主役。スポット特性を表現していない。"
+    },
+    {
+     "t": "File:Boso Flower Line starting point (Daijingu, Tateyama City).jpg",
+     "stage": "haiku",
+     "verdict": "ng",
+     "identifiable": true,
+     "reason": "房総フラワーラインの看板は写っているが、主役は道路と周辺建物。花畑などスポット特性が見えない。"
+    },
+    {
+     "t": "File:Boso Flower Line \"100 Best Roads in Japan\" Commemorative Monument (Tateyama City, Chiba Prefecture) 03.jpg",
+     "stage": "haiku",
+     "verdict": "ng",
+     "identifiable": true,
+     "reason": "モニュメントが主役。房総フラワーラインの花の風景が不足している。"
+    },
+    {
+     "t": "File:Boso Flower Line \"100 Best Roads in Japan\" Commemorative Monument (Tateyama City, Chiba Prefecture) 02.jpg",
+     "stage": "haiku",
+     "verdict": "ng",
+     "identifiable": true,
+     "reason": "記念碑の銘板が主役。房総フラワーラインの景観・花が見えない。"
+    },
+    {
+     "t": "File:Boso Flower Line \"100 Best Roads in Japan\" Commemorative Monument (Tateyama City, Chiba Prefecture) 01.jpg",
+     "stage": "haiku",
+     "verdict": "ng",
+     "identifiable": true,
+     "reason": "記念碑・モニュメントが主役。房総フラワーラインの花景観が写っていない。"
+    }
+   ]
+  }
+ },
+ "kawasaki-daishi": {
+  "spot-1": {
+   "ok": true,
+   "title": "File:川崎大師大本堂03.JPG",
+   "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/%E5%B7%9D%E5%B4%8E%E5%A4%A7%E5%B8%AB%E5%A4%A7%E6%9C%AC%E5%A0%8203.JPG/1920px-%E5%B7%9D%E5%B4%8E%E5%A4%A7%E5%B8%AB%E5%A4%A7%E6%9C%AC%E5%A0%8203.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credit": {
+    "author": "ペン太",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:%E5%B7%9D%E5%B4%8E%E5%A4%A7%E5%B8%AB%E5%A4%A7%E6%9C%AC%E5%A0%8203.JPG",
+    "attributionRequired": true
+   },
+   "via": "Haiku",
+   "meta": "ok"
+  },
+  "spot-2": {
+   "ok": true,
+   "title": "File:Kawasaki Daishi 201908-4.jpg",
+   "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Kawasaki_Daishi_201908-4.jpg/1920px-Kawasaki_Daishi_201908-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credit": {
+    "author": "Suikotei",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Kawasaki_Daishi_201908-4.jpg",
+    "attributionRequired": true
+   },
+   "via": "Haiku",
+   "meta": "ok"
+  },
+  "spot-3": {
+   "ok": true,
+   "title": "File:川崎大師大山門.jpg",
+   "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/%E5%B7%9D%E5%B4%8E%E5%A4%A7%E5%B8%AB%E5%A4%A7%E5%B1%B1%E9%96%80.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "credit": {
+    "author": "unknown",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:%E5%B7%9D%E5%B4%8E%E5%A4%A7%E5%B8%AB%E5%A4%A7%E5%B1%B1%E9%96%80.jpg",
+    "attributionRequired": true
+   },
+   "via": "Haiku",
+   "meta": "ok"
+  }
+ },
+ "miyagase": {
+  "spot-1": {
+   "ok": true,
+   "title": "File:宮ヶ瀬ダム, Miyagase Dam - panoramio.jpg",
+   "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/%E5%AE%AE%E3%83%B6%E7%80%AC%E3%83%80%E3%83%A0%2C_Miyagase_Dam_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "credit": {
+    "author": "xe zna",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:%E5%AE%AE%E3%83%B6%E7%80%AC%E3%83%80%E3%83%A0,_Miyagase_Dam_-_panoramio.jpg",
+    "attributionRequired": true
+   },
+   "via": "Haiku",
+   "meta": "ok"
+  },
+  "spot-2": {
+   "ok": false,
+   "tried": []
+  },
+  "spot-3": {
+   "ok": true,
+   "title": "File:鳥居原駐車場からの風景.jpg",
+   "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/%E9%B3%A5%E5%B1%85%E5%8E%9F%E9%A7%90%E8%BB%8A%E5%A0%B4%E3%81%8B%E3%82%89%E3%81%AE%E9%A2%A8%E6%99%AF.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "credit": {
+    "author": "Y Sekiai",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:%E9%B3%A5%E5%B1%85%E5%8E%9F%E9%A7%90%E8%BB%8A%E5%A0%B4%E3%81%8B%E3%82%89%E3%81%AE%E9%A2%A8%E6%99%AF.jpg",
+    "attributionRequired": true
+   },
+   "via": "Haiku",
+   "meta": "ok"
+  }
+ },
+ "oyama-afuri": {
+  "spot-1": {
+   "ok": true,
+   "title": "File:Ooyama-afuri-shrine@Isehara.jpg",
+   "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Ooyama-afuri-shrine%40Isehara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "credit": {
+    "author": "NY066",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Ooyama-afuri-shrine@Isehara.jpg",
+    "attributionRequired": true
+   },
+   "via": "Haiku",
+   "meta": "ok"
+  },
+  "spot-2": {
+   "ok": true,
+   "title": "File:Oyama-dera 201709b.jpg",
+   "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Oyama-dera_201709b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "credit": {
+    "author": "Tak1701d",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Oyama-dera_201709b.jpg",
+    "attributionRequired": true
+   },
+   "via": "Haiku",
+   "meta": "ok"
+  },
+  "spot-3": {
+   "ok": false,
+   "dropped": true,
+   "reason": "奉納提灯の写真で、こま参道の石段風景ではない",
+   "wasTitle": "File:Votive lantern for Oyama Afuri jinja.jpg"
+  }
+ },
+ "shomyoji": {
+  "spot-1": {
+   "ok": false,
+   "tried": []
+  },
+  "spot-2": {
+   "ok": true,
+   "title": "File:称名寺仁王門.JPG",
+   "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/%E7%A7%B0%E5%90%8D%E5%AF%BA%E4%BB%81%E7%8E%8B%E9%96%80.JPG/1920px-%E7%A7%B0%E5%90%8D%E5%AF%BA%E4%BB%81%E7%8E%8B%E9%96%80.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credit": {
+    "author": "小池 隆",
+    "license": "CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:%E7%A7%B0%E5%90%8D%E5%AF%BA%E4%BB%81%E7%8E%8B%E9%96%80.JPG",
+    "attributionRequired": true
+   },
+   "via": "Haiku",
+   "meta": "ok"
+  },
+  "spot-3": {
+   "ok": true,
+   "title": "File:250429 Kanazawa-Bunko Museum 02.jpg",
+   "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/250429_Kanazawa-Bunko_Museum_02.jpg/1920px-250429_Kanazawa-Bunko_Museum_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credit": {
+    "author": "Aspere",
+    "license": "CC0",
+    "url": "https://commons.wikimedia.org/wiki/File:250429_Kanazawa-Bunko_Museum_02.jpg",
+    "attributionRequired": true
+   },
+   "via": "Haiku",
+   "meta": "ok"
+  }
+ }
+}
