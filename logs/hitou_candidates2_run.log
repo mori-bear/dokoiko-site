@@ -1,0 +1,61 @@
+❌ 糠平温泉         北海道  重複=同名:糠平温泉
+✅ 幌加温泉         北海道  座標=一致 0.13km (osm×gsi)            近接=なし
+❌ かんの温泉        北海道  座標=一致 0.00km (wikipedia×wikidata) 近接=菅野温泉(0.0km), 鹿の湯(0.5km)
+❌ 二股らじうむ温泉     北海道  座標=2ソース未満 (なし)
+❌ 濁川温泉         北海道  重複=同名:濁川温泉
+❌ 吹上温泉         北海道  座標=一致 0.03km (wikipedia×gsi)      近接=十勝岳望岳台(1.8km), 十勝岳温泉(2.0km)
+❌ 猿倉温泉         青森県  座標=一致 0.02km (wikidata×osm)       近接=谷地温泉(1.4km)
+❌ 薬研温泉         青森県  座標=一致 0.17km (osm×gsi)            近接=恐山(1.1km)
+❌ 酸ヶ湯温泉        青森県  重複=類似名:酸ヶ湯
+❌ 湯川温泉         岩手県  座標=一致なし (wikidata,gsi)
+✅ 巣郷温泉         岩手県  座標=一致 0.02km (wikidata×osm)       近接=なし
+✅ 大沢温泉         岩手県  座標=一致 0.12km (wikipedia×osm)      近接=なし
+✅ 不忘閣          宮城県  座標=一致 0.19km (wikipedia×osm)      近接=なし
+✅ 湯浜温泉         宮城県  座標=一致 0.00km (wikipedia×wikidata) 近接=なし
+✅ 蟹場温泉         秋田県  座標=一致 0.00km (wikipedia×wikidata) 近接=なし
+✅ 大釜温泉         秋田県  座標=一致 0.00km (wikipedia×wikidata) 近接=なし
+✅ 打当温泉         秋田県  座標=一致 0.00km (wikipedia×wikidata) 近接=なし
+✅ 湯の沢温泉        山形県  座標=一致 0.00km (wikipedia×wikidata) 近接=なし
+✅ 瀬見温泉         山形県  座標=一致 0.00km (wikipedia×wikidata) 近接=なし
+❌ 赤倉温泉         山形県  重複=同名:赤倉温泉
+✅ 沼尻温泉         福島県  座標=一致 0.00km (wikipedia×wikidata) 近接=なし
+✅ 土湯温泉         福島県  座標=一致 0.05km (wikidata×osm)       近接=なし
+✅ 中ノ沢温泉        福島県  座標=一致 0.00km (wikipedia×wikidata) 近接=なし
+✅ 湯ノ花温泉        福島県  座標=一致 0.00km (wikipedia×wikidata) 近接=なし
+✅ 手白澤温泉        栃木県  座標=一致 0.90km (wikipedia×wikidata) 近接=なし
+✅ 西沢渓谷         山梨県  座標=一致 0.00km (wikipedia×wikidata) 近接=なし
+❌ 奥日光湯元温泉      栃木県  座標=一致 0.00km (wikipedia×wikidata) 近接=日光湯元温泉(0.0km)
+✅ 湯宿温泉         群馬県  座標=一致 0.00km (wikipedia×wikidata) 近接=なし
+✅ 川浦温泉         山梨県  座標=一致 0.00km (wikipedia×wikidata) 近接=なし
+❌ 赤岩温泉         群馬県  座標=2ソース未満 (なし)
+✅ 応徳温泉         群馬県  座標=一致 0.00km (wikipedia×wikidata) 近接=なし
+✅ 燕温泉          新潟県  座標=一致 0.00km (wikipedia×wikidata) 近接=なし
+❌ 蓮華温泉         新潟県  座標=一致 0.01km (wikipedia×gsi)      近接=小谷温泉(2.6km)
+❌ 松之山温泉        新潟県  重複=同名:松之山温泉
+❌ 岩井戸温泉        富山県  座標=2ソース未満 (wikidata)
+❌ 白骨温泉         長野県  重複=同名:白骨温泉
+❌ 本沢温泉         長野県  重複=id重複:嬬恋
+❌ 海尻温泉         長野県  座標=2ソース未満 (なし)
+✅ 田沢温泉         長野県  座標=一致 0.00km (wikipedia×wikidata) 近接=なし
+✅ 沓掛温泉         長野県  座標=一致 0.00km (wikipedia×wikidata) 近接=なし
+❌ 崎温泉          長野県  座標=一致なし (wikipedia,gsi)
+✅ 新穂高温泉        岐阜県  座標=一致 0.00km (wikipedia×wikidata) 近接=なし
+✅ 栃尾温泉         岐阜県  座標=一致 0.00km (wikipedia×wikidata) 近接=なし
+✅ 下部温泉         山梨県  座標=一致 0.00km (wikipedia×wikidata) 近接=なし
+✅ 湯俣温泉         長野県  座標=一致 0.07km (wikipedia×gsi)      近接=なし
+❌ 十津川温泉        奈良県  重複=id重複:十津川
+✅ 入之波温泉        奈良県  座標=一致 0.02km (wikidata×osm)       近接=なし
+❌ 洞川温泉         奈良県  重複=同名:洞川温泉
+❌ 湯の峰温泉        和歌山県 座標=一致 0.00km (wikipedia×wikidata) 近接=熊野古道(1.9km)
+❌ 川湯温泉         和歌山県 重複=同名:川湯温泉
+✅ 岩井温泉         鳥取県  座標=一致 0.07km (wikipedia×wikidata) 近接=なし
+✅ 関金温泉         鳥取県  座標=一致 0.00km (wikipedia×wikidata) 近接=なし
+❌ 湯原温泉         岡山県  重複=同名:湯原温泉
+✅ 湯来温泉         広島県  座標=一致 0.00km (wikipedia×wikidata) 近接=なし
+✅ 本谷温泉         愛媛県  座標=一致 0.00km (wikipedia×wikidata) 近接=なし
+✅ 新祖谷温泉        徳島県  座標=一致 4.72km (wikipedia×wikidata) 近接=なし
+⚠️ 候補同士が近接: 蟹場温泉 ↔ 大釜温泉 0.68km
+⚠️ 候補同士が近接: 沼尻温泉 ↔ 中ノ沢温泉 1.47km
+⚠️ 候補同士が近接: 田沢温泉 ↔ 沓掛温泉 2.24km
+
+合格 32 / 56 件 → logs/hitou_candidates2.json

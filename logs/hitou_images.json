@@ -1,0 +1,489 @@
+{
+ "adopted": [
+  {
+   "id": "namari-onsen",
+   "name": "鉛温泉",
+   "title": "File:Namari Onsen Fujisan Ryokan.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "掬茶",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Namari_Onsen_Fujisan_Ryokan.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "温泉旅館の典型的な和風建築で、赤い瓦屋根と玄関の造りから温泉地の施設と判定できる"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Namari Onsen 13Gatsu.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "駐車場と現代建築が主体。温泉地の特徴的な景観や湯屋の造りが見られない。"
+    },
+    {
+     "title": "File:Namari Onsen Fujisan Ryokan.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "温泉旅館の典型的な和風建築で、赤い瓦屋根と玄関の造りから温泉地の施設と判定できる"
+    }
+   ]
+  },
+  {
+   "id": "geto-onsen",
+   "name": "夏油温泉",
+   "title": "File:Geto Hot Springs Motoyu Taki no Yu.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "さかおり",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Geto_Hot_Springs_Motoyu_Taki_no_Yu.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "夏油温泉の特徴的な野天風呂施設。丸太造りの小屋と緑深い山林環境が温泉地の雰囲気を表現。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Of 1937. A petition to the Kawajiri Forestry Office.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "古い文献・資料の書籍ページ。温泉地の紹介画像として不適切"
+    },
+    {
+     "title": "File:Geto Hot Spring Motoyu Geto-Kan Accommodation Building.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "建物は映っているが、夏油温泉を特定できる看板や特徴的な建造物がない。廃屋のような状態で、温泉地の魅力が伝わらない。"
+    },
+    {
+     "title": "File:Geto Hot Springs Motoyu Taki no Yu.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "夏油温泉の特徴的な野天風呂施設。丸太造りの小屋と緑深い山林環境が温泉地の雰囲気を表現。"
+    }
+   ]
+  },
+  {
+   "id": "matsukawa-iwate",
+   "name": "松川温泉",
+   "title": "File:Kyounso Matsukawa Onsen - panoramio.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Soul of Japan",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Kyounso_Matsukawa_Onsen_-_panoramio.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "温泉の青白い湯色、露天風呂の造り、雪景色など松川温泉の特徴が明確に写っている"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Kyounso Matsukawa Onsen - panoramio.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "温泉の青白い湯色、露天風呂の造り、雪景色など松川温泉の特徴が明確に写っている"
+    }
+   ]
+  },
+  {
+   "id": "gaga-onsen",
+   "name": "峩々温泉",
+   "title": "File:峩々温泉 - panoramio.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "suzune konoo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:%E5%B3%A9%E3%80%85%E6%B8%A9%E6%B3%89_-_panoramio.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "山間の温泉施設が見え、建築様式と自然環境が峩々温泉の特徴と合致。看板も視認可能。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:峩々温泉 - panoramio.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "山間の温泉施設が見え、建築様式と自然環境が峩々温泉の特徴と合致。看板も視認可能。"
+    }
+   ]
+  },
+  {
+   "id": "kuroyu",
+   "name": "黒湯温泉",
+   "title": "File:Kuroyu Onsen 02.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "aki",
+    "license": "CC BY 2.1 jp",
+    "url": "https://commons.wikimedia.org/wiki/File:Kuroyu_Onsen_02.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "黒湯温泉の特徴的な露天風呂施設。古い木造の湯小屋と黒い温泉水が見え、秋田の山間部の景観が確認できる。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Kuroyu Onsen 02.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "黒湯温泉の特徴的な露天風呂施設。古い木造の湯小屋と黒い温泉水が見え、秋田の山間部の景観が確認できる。"
+    }
+   ]
+  },
+  {
+   "id": "doroyu",
+   "name": "泥湯温泉",
+   "title": "File:Doroyu Onsen.JPG",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "RickardA",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Doroyu_Onsen.JPG",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "温泉施設の建物と山々の自然環境が写り、泥湯温泉の特徴的な立地が確認できる。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Doroyu Onsen.JPG",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "温泉施設の建物と山々の自然環境が写り、泥湯温泉の特徴的な立地が確認できる。"
+    }
+   ]
+  },
+  {
+   "id": "tokusa",
+   "name": "木賊温泉",
+   "title": "File:Tokusa spa iwaburo 2008.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Soica2001 (talk)",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Tokusa_spa_iwaburo_2008.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "木賊温泉の風情ある湯小屋内部。木造建築、露天風呂、自然環境が特徴的。温泉地の魅力を効果的に表現。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Tokusa spa iwaburo 2008.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "木賊温泉の風情ある湯小屋内部。木造建築、露天風呂、自然環境が特徴的。温泉地の魅力を効果的に表現。"
+    }
+   ]
+  },
+  {
+   "id": "kaikake",
+   "name": "貝掛温泉",
+   "title": "File:Kaikakeonsen.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Deevoxx",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Kaikakeonsen.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "温泉施設の露天風呂、提灯、山間の自然環境が確認でき、貝掛温泉の特徴が明確に表現されている"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Buddhist Altar Room, Yuzawa-machi, Niigata Prefecture 2024-01-05.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "屋内の資料展示・装飾品中心。温泉施設の特徴が不明確。看板文字はあるが場所特定不可。"
+    },
+    {
+     "title": "File:Kaikakeonsen.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "温泉施設の露天風呂、提灯、山間の自然環境が確認でき、貝掛温泉の特徴が明確に表現されている"
+    }
+   ]
+  },
+  {
+   "id": "nakabusa",
+   "name": "中房温泉",
+   "title": "File:Nakabusa Onsen s3.JPG",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Alpsdake",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Nakabusa_Onsen_s3.JPG",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "温泉施設の建物、木製の看板、山々の緑に囲まれた立地が中房温泉の特徴と一致。施設の造りが確認できる。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Nakabusa Onsen s3.JPG",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "温泉施設の建物、木製の看板、山々の緑に囲まれた立地が中房温泉の特徴と一致。施設の造りが確認できる。"
+    }
+   ]
+  },
+  {
+   "id": "nishiyama-yama",
+   "name": "西山温泉",
+   "title": "File:Wikipedia-Nisiyama-Onsen-705AD.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Boltor",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Wikipedia-Nisiyama-Onsen-705AD.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "西山温泉の特徴的な建築と渓谷地形が明確。温泉旅館と山々の景観が写っており、紹介画像として適切。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Wikipedia-Nisiyama-Onsen-705AD.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "西山温泉の特徴的な建築と渓谷地形が明確。温泉旅館と山々の景観が写っており、紹介画像として適切。"
+    }
+   ]
+  },
+  {
+   "id": "umegashima",
+   "name": "梅ヶ島温泉",
+   "title": "File:UmegashimaOnsen.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "しんかわな",
+    "license": "CC BY 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:UmegashimaOnsen.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "山間の温泉地の特徴的な景観。渓谷沿いの建物配置と自然環境が梅ヶ島温泉の風景として適切。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:UmegashimaOnsen.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "山間の温泉地の特徴的な景観。渓谷沿いの建物配置と自然環境が梅ヶ島温泉の風景として適切。"
+    }
+   ]
+  },
+  {
+   "id": "kuronagi",
+   "name": "黒薙温泉",
+   "title": "File:Kuronagi-onsen01.JPG",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Traveller",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Kuronagi-onsen01.JPG",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "黒薙温泉の特徴的な青白い湯池、渓谷、露天風呂の造り、自然景観が認識可能。看板も確認でき、この場所の実景として適切。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:黒薙温泉場.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "白黒の古い資料写真で、極端に暗くコントラストが低い。現代の旅行紹介画像として不適切。"
+    },
+    {
+     "title": "File:Kuronagi-onsen01.JPG",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "黒薙温泉の特徴的な青白い湯池、渓谷、露天風呂の造り、自然景観が認識可能。看板も確認でき、この場所の実景として適切。"
+    }
+   ]
+  },
+  {
+   "id": "nigorigo",
+   "name": "濁河温泉",
+   "title": "File:Outdoor hot spring bath in Nigorigo Onsen.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Alpsdake",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Outdoor_hot_spring_bath_in_Nigorigo_Onsen.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "濁河温泉の特徴的な茶色い湯色、露天風呂の木造東屋、山林に囲まれた景観が確認できる。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Outdoor hot spring bath in Nigorigo Onsen.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "濁河温泉の特徴的な茶色い湯色、露天風呂の木造東屋、山林に囲まれた景観が確認できる。"
+    }
+   ]
+  }
+ ],
+ "rejected": [
+  {
+   "id": "metoh",
+   "name": "芽登温泉",
+   "reason": "合格画像なし",
+   "tried": []
+  },
+  {
+   "id": "namekawa",
+   "name": "滑川温泉",
+   "reason": "合格画像なし",
+   "tried": []
+  },
+  {
+   "id": "nukunuyu",
+   "name": "微温湯温泉",
+   "reason": "合格画像なし",
+   "tried": []
+  },
+  {
+   "id": "okukinu",
+   "name": "奥鬼怒温泉郷",
+   "reason": "合格画像なし",
+   "tried": []
+  },
+  {
+   "id": "fukuji",
+   "name": "福地温泉",
+   "reason": "合格画像なし",
+   "tried": [
+    {
+     "title": "File:Okuhida Onsengo Fukuji, Takayama, Gifu Prefecture 506-1434, Japan - panoramio.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "氷結した滝の一般的な冬景色。福地温泉固有の特徴（温泉施設・地形・看板など）が判別できない。"
+    },
+    {
+     "title": "File:Flickr - JennyHuang - i love winter and snow.......jpg",
+     "stage": "placeCheck",
+     "verdict": "ng",
+     "others": [
+      "長野県"
+     ]
+    },
+    {
+     "title": "File:Fukuchi Onsen Micro Hydro Power Plant 20210502.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "廃墟同然の建物で温泉施設が判別できず、福地温泉特定の手がかりがない。紹介画像不適切。"
+    }
+   ]
+  },
+  {
+   "id": "chihara",
+   "name": "千原温泉",
+   "reason": "合格画像なし",
+   "tried": []
+  },
+  {
+   "id": "babadani",
+   "name": "祖母谷温泉",
+   "reason": "2026年時点で休業中（能登半島地震で黒部峡谷鉄道が欅平まで未再開・到達不能）"
+  }
+ ]
+}

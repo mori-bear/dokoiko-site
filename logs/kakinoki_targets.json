@@ -1,0 +1,19 @@
+[
+  {
+    "id": "kakinoki",
+    "name": "柿木温泉",
+    "prefecture": "島根県",
+    "lat": 34.4366,
+    "lng": 131.86671,
+    "imageQuery": "大井谷の棚田",
+    "localityWords": [
+      "吉賀",
+      "柿木",
+      "大井谷",
+      "高津川",
+      "Yoshika",
+      "Kakinoki",
+      "Oidani"
+    ]
+  }
+]

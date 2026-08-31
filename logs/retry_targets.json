@@ -1,0 +1,29 @@
+[
+  {
+    "id": "nigorigo",
+    "name": "濁河温泉",
+    "prefecture": "岐阜県",
+    "imageQuery": "Outdoor hot spring bath in Nigorigo Onsen",
+    "localityWords": [
+      "濁河",
+      "下呂",
+      "御嶽",
+      "Nigorigo",
+      "Gero",
+      "Ontake"
+    ]
+  },
+  {
+    "id": "babadani",
+    "name": "祖母谷温泉",
+    "prefecture": "富山県",
+    "imageQuery": "祖母谷温泉 露天",
+    "localityWords": [
+      "祖母谷",
+      "黒部",
+      "Babadani",
+      "Kurobe",
+      "欅平"
+    ]
+  }
+]

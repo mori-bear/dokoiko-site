@@ -18,6 +18,10 @@ const heroImages = fs.existsSync(heroDir)
 
 const destCount = (destinations as any[]).length;
 
+// 九州ふっこう応援割の特設ページ /kyushu-fukko/ へのバナー用
+const KYUSHU_PREFS = ['福岡県', '佐賀県', '長崎県', '熊本県', '大分県', '宮崎県', '鹿児島県'];
+const kyushuCount = (destinations as any[]).filter((d: any) => KYUSHU_PREFS.includes(d.prefecture)).length;
+
 const REGION_EN: Record<string, string> = {
   '北海道': 'Hokkaido', '東北': 'Tohoku', '関東': 'Kanto',
   '中部': 'Chubu', '近畿': 'Kinki', '中国': 'Chugoku',
@@ -167,6 +171,59 @@ try {
   @keyframes arrowBounce {
     0%, 100% { transform: rotate(45deg) translate(0,0); opacity: 0.5; }
     50%       { transform: rotate(45deg) translate(3px,3px); opacity: 1; }
+  }
+
+  /* ═══════════════════════════════════════
+     九州ふっこう応援割 バナー（ヒーロー直下）
+  ═══════════════════════════════════════ */
+  .kf-banner {
+    display: block;
+    margin: 0;
+    padding: 22px 24px;
+    background: linear-gradient(135deg, #1e4d38 0%, #2A6049 100%);
+    color: #fff;
+    text-decoration: none;
+    border-bottom: 1px solid #f0f0f0;
+  }
+  /* 中身は span なので、明示的にブロック/flex を指定しないと1行に流れてしまう */
+  .kf-banner-inner {
+    max-width: 680px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+  }
+  .kf-banner-text { display: block; flex: 1; min-width: 0; }
+  .kf-banner-eyebrow {
+    display: block;
+    font-size: 9px;
+    letter-spacing: 0.32em;
+    color: #C9A84C;
+    text-transform: uppercase;
+    margin-bottom: 7px;
+  }
+  .kf-banner-title {
+    display: block;
+    font-family: 'Noto Serif JP', serif;
+    font-size: 17px;
+    font-weight: 300;
+    letter-spacing: 0.06em;
+    line-height: 1.5;
+    margin-bottom: 6px;
+  }
+  .kf-banner-sub {
+    display: block;
+    font-size: 11.5px;
+    line-height: 1.8;
+    color: rgba(255,255,255,0.82);
+  }
+  .kf-banner-arrow {
+    flex: 0 0 auto;
+    font-size: 18px;
+    color: rgba(255,255,255,0.7);
+  }
+  @media (min-width: 640px) {
+    .kf-banner-title { font-size: 19px; }
   }
 
   /* ═══════════════════════════════════════
@@ -886,6 +943,18 @@ try {
       <div class="hero-scroll-arrow"></div>
     </div>
   </div>
+
+  <!-- ①.5 九州ふっこう応援割 特設ページへの導線 -->
+  <a class="kf-banner" href="/kyushu-fukko/">
+    <span class="kf-banner-inner">
+      <span class="kf-banner-text">
+        <span class="kf-banner-eyebrow">Kyushu</span>
+        <span class="kf-banner-title">九州ふっこう割で行く、まだ知らない九州</span>
+        <span class="kf-banner-sub">九州7県{kyushuCount}か所を県別に。宿が数軒しかない温泉もまとめました</span>
+      </span>
+      <span class="kf-banner-arrow">→</span>
+    </span>
+  </a>
 
   <!-- ② 注目記事スライダー -->
   <section class="featured-section" id="featured">

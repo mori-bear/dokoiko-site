@@ -1,0 +1,399 @@
+[
+  {
+    "id": "metoh",
+    "name": "芽登温泉",
+    "prefecture": "北海道",
+    "city": "足寄町",
+    "lat": 43.3902,
+    "lng": 143.33318,
+    "verifiedBy": [
+      "wikidata",
+      "gsi"
+    ],
+    "distanceKm": 0.07,
+    "imageQuery": "Metou Onsen Ashoro",
+    "localityWords": [
+      "芽登",
+      "足寄",
+      "Metou",
+      "Ashoro"
+    ]
+  },
+  {
+    "id": "namari-onsen",
+    "name": "鉛温泉",
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "lat": 39.46561,
+    "lng": 140.99175,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "distanceKm": 0,
+    "imageQuery": "Namari Onsen Hanamaki",
+    "localityWords": [
+      "鉛温泉",
+      "花巻",
+      "Namari",
+      "Hanamaki"
+    ]
+  },
+  {
+    "id": "geto-onsen",
+    "name": "夏油温泉",
+    "prefecture": "岩手県",
+    "city": "北上市",
+    "lat": 39.2125,
+    "lng": 140.88694,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "distanceKm": 0,
+    "imageQuery": "Geto Onsen Kitakami",
+    "localityWords": [
+      "夏油",
+      "北上",
+      "Geto",
+      "Kitakami"
+    ]
+  },
+  {
+    "id": "matsukawa-iwate",
+    "name": "松川温泉",
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "lat": 39.87168,
+    "lng": 140.90979,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "distanceKm": 0,
+    "imageQuery": "Matsukawa Onsen Hachimantai",
+    "localityWords": [
+      "松川",
+      "八幡平",
+      "Matsukawa",
+      "Hachimantai"
+    ]
+  },
+  {
+    "id": "gaga-onsen",
+    "name": "峩々温泉",
+    "prefecture": "宮城県",
+    "city": "川崎町",
+    "lat": 38.14389,
+    "lng": 140.50028,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "distanceKm": 0,
+    "imageQuery": "Gaga Onsen Kawasaki Miyagi",
+    "localityWords": [
+      "峩々",
+      "川崎",
+      "Gaga"
+    ]
+  },
+  {
+    "id": "kuroyu",
+    "name": "黒湯温泉",
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "lat": 39.8025,
+    "lng": 140.80583,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "distanceKm": 0,
+    "imageQuery": "Kuroyu Onsen Nyuto",
+    "localityWords": [
+      "黒湯",
+      "乳頭",
+      "仙北",
+      "Kuroyu",
+      "Nyuto"
+    ]
+  },
+  {
+    "id": "doroyu",
+    "name": "泥湯温泉",
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "lat": 38.99104,
+    "lng": 140.61178,
+    "verifiedBy": [
+      "wikidata",
+      "osm"
+    ],
+    "distanceKm": 0.12,
+    "imageQuery": "Doroyu Onsen Yuzawa Akita",
+    "localityWords": [
+      "泥湯",
+      "湯沢",
+      "Doroyu"
+    ]
+  },
+  {
+    "id": "namekawa",
+    "name": "滑川温泉",
+    "prefecture": "山形県",
+    "city": "米沢市",
+    "lat": 37.7825,
+    "lng": 140.22778,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "distanceKm": 0,
+    "imageQuery": "Namekawa Onsen Yonezawa",
+    "localityWords": [
+      "滑川",
+      "米沢",
+      "Namekawa",
+      "Yonezawa"
+    ]
+  },
+  {
+    "id": "tokusa",
+    "name": "木賊温泉",
+    "prefecture": "福島県",
+    "city": "南会津町",
+    "lat": 37.06372,
+    "lng": 139.48592,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "distanceKm": 0,
+    "imageQuery": "Tokusa Onsen Minamiaizu",
+    "localityWords": [
+      "木賊",
+      "南会津",
+      "Tokusa"
+    ]
+  },
+  {
+    "id": "nukunuyu",
+    "name": "微温湯温泉",
+    "prefecture": "福島県",
+    "city": "福島市",
+    "lat": 37.72889,
+    "lng": 140.29329,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "distanceKm": 0,
+    "imageQuery": "Nukuyu Onsen Fukushima",
+    "localityWords": [
+      "微温湯",
+      "福島",
+      "Nukuyu"
+    ]
+  },
+  {
+    "id": "okukinu",
+    "name": "奥鬼怒温泉郷",
+    "prefecture": "栃木県",
+    "city": "日光市",
+    "lat": 36.86861,
+    "lng": 139.39389,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "distanceKm": 0,
+    "imageQuery": "Okukinu Onsen Nikko",
+    "localityWords": [
+      "奥鬼怒",
+      "日光",
+      "Okukinu",
+      "加仁湯",
+      "八丁"
+    ]
+  },
+  {
+    "id": "kaikake",
+    "name": "貝掛温泉",
+    "prefecture": "新潟県",
+    "city": "湯沢町",
+    "lat": 36.87222,
+    "lng": 138.76972,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "distanceKm": 0,
+    "imageQuery": "Kaikake Onsen Yuzawa Niigata",
+    "localityWords": [
+      "貝掛",
+      "湯沢",
+      "Kaikake"
+    ]
+  },
+  {
+    "id": "nakabusa",
+    "name": "中房温泉",
+    "prefecture": "長野県",
+    "city": "安曇野市",
+    "lat": 36.39427,
+    "lng": 137.74655,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "distanceKm": 0.02,
+    "imageQuery": "Nakabusa Onsen Azumino",
+    "localityWords": [
+      "中房",
+      "安曇野",
+      "Nakabusa",
+      "Azumino"
+    ]
+  },
+  {
+    "id": "kuronagi",
+    "name": "黒薙温泉",
+    "prefecture": "富山県",
+    "city": "黒部市",
+    "lat": 36.78583,
+    "lng": 137.62889,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "distanceKm": 0,
+    "imageQuery": "Kuronagi Onsen Kurobe",
+    "localityWords": [
+      "黒薙",
+      "黒部",
+      "Kuronagi",
+      "Kurobe"
+    ]
+  },
+  {
+    "id": "babadani",
+    "name": "祖母谷温泉",
+    "prefecture": "富山県",
+    "city": "黒部市",
+    "lat": 36.69889,
+    "lng": 137.68,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "distanceKm": 0,
+    "imageQuery": "Babadani Onsen Kurobe",
+    "localityWords": [
+      "祖母谷",
+      "黒部",
+      "Babadani",
+      "Kurobe"
+    ]
+  },
+  {
+    "id": "nigorigo",
+    "name": "濁河温泉",
+    "prefecture": "岐阜県",
+    "city": "下呂市",
+    "lat": 35.92372,
+    "lng": 137.44686,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "distanceKm": 0,
+    "imageQuery": "Nigorigo Onsen Gero",
+    "localityWords": [
+      "濁河",
+      "下呂",
+      "Nigorigo",
+      "Gero"
+    ]
+  },
+  {
+    "id": "fukuji",
+    "name": "福地温泉",
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "lat": 36.22494,
+    "lng": 137.53136,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "distanceKm": 0,
+    "imageQuery": "Fukuji Onsen Takayama Gifu",
+    "localityWords": [
+      "福地",
+      "奥飛騨",
+      "高山",
+      "Fukuji"
+    ]
+  },
+  {
+    "id": "nishiyama-yama",
+    "name": "西山温泉",
+    "prefecture": "山梨県",
+    "city": "早川町",
+    "lat": 35.55444,
+    "lng": 138.30639,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "distanceKm": 0,
+    "imageQuery": "Nishiyama Onsen Keiunkan",
+    "localityWords": [
+      "西山温泉",
+      "早川",
+      "慶雲館",
+      "Nishiyama",
+      "Hayakawa"
+    ]
+  },
+  {
+    "id": "umegashima",
+    "name": "梅ヶ島温泉",
+    "prefecture": "静岡県",
+    "city": "静岡市",
+    "lat": 35.30515,
+    "lng": 138.32999,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "distanceKm": 0,
+    "imageQuery": "Umegashima Onsen Shizuoka",
+    "localityWords": [
+      "梅ヶ島",
+      "静岡",
+      "Umegashima"
+    ]
+  },
+  {
+    "id": "chihara",
+    "name": "千原温泉",
+    "prefecture": "島根県",
+    "city": "美郷町",
+    "lat": 35.08439,
+    "lng": 132.64989,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "distanceKm": 0.04,
+    "imageQuery": "Chihara Onsen Misato Shimane",
+    "localityWords": [
+      "千原",
+      "美郷",
+      "Chihara",
+      "Misato"
+    ]
+  }
+]

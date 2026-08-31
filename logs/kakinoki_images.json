@@ -1,0 +1,20 @@
+{
+ "adopted": [],
+ "rejected": [
+  {
+   "id": "kakinoki",
+   "name": "柿木温泉",
+   "reason": "合格画像なし",
+   "tried": [
+    {
+     "title": "File:大井谷の棚田全景.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "茶畑や山間部の風景ですが、柿木温泉を示す看板・建造物・温泉施設が見当たりません。"
+    }
+   ]
+  }
+ ]
+}
