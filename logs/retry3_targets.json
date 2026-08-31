@@ -1,0 +1,25 @@
+[
+  {
+    "id": "shikano",
+    "name": "鹿野温泉",
+    "prefecture": "鳥取県",
+    "imageQuery": "Sikano-Onsen-sansien-Tottori",
+    "localityWords": [
+      "鹿野",
+      "鳥取",
+      "Shikano",
+      "山紫苑"
+    ]
+  },
+  {
+    "id": "kawatana",
+    "name": "川棚温泉",
+    "prefecture": "山口県",
+    "imageQuery": "KawatanaOnsen",
+    "localityWords": [
+      "川棚",
+      "下関",
+      "Kawatana"
+    ]
+  }
+]

@@ -1,0 +1,1720 @@
+[
+  {
+    "id": "sakakibara",
+    "name": "榊原温泉",
+    "prefecture": "三重県",
+    "city": "津市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.02km (wikipedia×wikidata)",
+      "nearby": "なし"
+    },
+    "sources": [
+      {
+        "src": "wikipedia",
+        "lat": 34.70638889,
+        "lng": 136.375,
+        "note": "榊原温泉"
+      },
+      {
+        "src": "wikidata",
+        "lat": 34.7065,
+        "lng": 136.37511111111,
+        "note": "Q11541719"
+      },
+      {
+        "src": "gsi",
+        "lat": 34.708544,
+        "lng": 136.370153,
+        "note": "榊原温泉"
+      }
+    ],
+    "distanceKm": 0.02,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "lat": 34.70644,
+    "lng": 136.37506,
+    "pass": true
+  },
+  {
+    "id": "yunoyama",
+    "name": "湯の山温泉",
+    "prefecture": "三重県",
+    "city": "菰野町",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.02km (wikidata×osm)",
+      "nearby": "なし"
+    },
+    "sources": [
+      {
+        "src": "wikidata",
+        "lat": 35.0116,
+        "lng": 136.474,
+        "note": "Q8061378"
+      },
+      {
+        "src": "osm",
+        "lat": 35.0117953,
+        "lng": 136.4740339,
+        "note": "湯の山温泉 湯の山温泉 湯の山温泉"
+      },
+      {
+        "src": "gsi",
+        "lat": 35.014483,
+        "lng": 136.445294,
+        "note": "湯の山温泉"
+      }
+    ],
+    "distanceKm": 0.02,
+    "verifiedBy": [
+      "wikidata",
+      "osm"
+    ],
+    "lat": 35.0117,
+    "lng": 136.47402,
+    "pass": true
+  },
+  {
+    "id": "kahada",
+    "name": "香肌峡温泉",
+    "prefecture": "三重県",
+    "city": "松阪市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "2ソース未満 (なし)"
+    },
+    "sources": [],
+    "pass": false
+  },
+  {
+    "id": "sugatani",
+    "name": "須賀谷温泉",
+    "prefecture": "滋賀県",
+    "city": "長浜市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.00km (wikipedia×wikidata)",
+      "nearby": "余呉湖(2.4km)"
+    },
+    "sources": [
+      {
+        "src": "wikipedia",
+        "lat": 35.45494444,
+        "lng": 136.28166667,
+        "note": "須賀谷温泉"
+      },
+      {
+        "src": "wikidata",
+        "lat": 35.454916666667,
+        "lng": 136.28166666667,
+        "note": "Q11664829"
+      },
+      {
+        "src": "osm",
+        "lat": 35.4549724,
+        "lng": 136.2817508,
+        "note": "須賀谷温泉 須賀谷温泉 須賀谷温泉"
+      }
+    ],
+    "distanceKm": 0,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "lat": 35.45493,
+    "lng": 136.28167,
+    "pass": false
+  },
+  {
+    "id": "ogoto",
+    "name": "おごと温泉",
+    "prefecture": "滋賀県",
+    "city": "大津市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.03km (wikidata×osm)",
+      "nearby": "なし"
+    },
+    "sources": [
+      {
+        "src": "wikipedia",
+        "lat": 35.08881944,
+        "lng": 135.89405556,
+        "note": "雄琴温泉"
+      },
+      {
+        "src": "wikidata",
+        "lat": 35.09694444,
+        "lng": 135.89472222,
+        "note": "Q11659228"
+      },
+      {
+        "src": "osm",
+        "lat": 35.0971432,
+        "lng": 135.8949965,
+        "note": "おごと温泉 おごと温泉 おごと温泉"
+      },
+      {
+        "src": "gsi",
+        "lat": 35.0966199747222,
+        "lng": 135.894622487778,
+        "note": "おごと温泉駅"
+      }
+    ],
+    "distanceKm": 0.03,
+    "verifiedBy": [
+      "wikidata",
+      "osm"
+    ],
+    "lat": 35.09704,
+    "lng": 135.89486,
+    "pass": true
+  },
+  {
+    "id": "yunohana-kyo",
+    "name": "湯の花温泉",
+    "prefecture": "京都府",
+    "city": "亀岡市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致なし (wikidata,osm)"
+    },
+    "sources": [
+      {
+        "src": "wikidata",
+        "lat": 37.067861111111,
+        "lng": 139.52786111111,
+        "note": "Q11563445"
+      },
+      {
+        "src": "osm",
+        "lat": 35.0216148,
+        "lng": 135.5051606,
+        "note": "湯の花温泉 湯の花温泉 湯の花温泉"
+      }
+    ],
+    "pass": false
+  },
+  {
+    "id": "kumihama",
+    "name": "久美浜温泉",
+    "prefecture": "京都府",
+    "city": "京丹後市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "2ソース未満 (osm)"
+    },
+    "sources": [
+      {
+        "src": "osm",
+        "lat": 35.6406027,
+        "lng": 134.94458,
+        "note": "久美浜温泉 久美浜温泉"
+      }
+    ],
+    "pass": false
+  },
+  {
+    "id": "kutsukake-kyo",
+    "name": "夕日ヶ浦温泉",
+    "prefecture": "京都府",
+    "city": "京丹後市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.00km (wikipedia×wikidata)",
+      "nearby": "なし"
+    },
+    "sources": [
+      {
+        "src": "wikipedia",
+        "lat": 35.661,
+        "lng": 134.966,
+        "note": "夕日ヶ浦温泉"
+      },
+      {
+        "src": "wikidata",
+        "lat": 35.661,
+        "lng": 134.966,
+        "note": "Q11430227"
+      }
+    ],
+    "distanceKm": 0,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "lat": 35.661,
+    "lng": 134.966,
+    "pass": true
+  },
+  {
+    "id": "inunakiyama",
+    "name": "犬鳴山温泉",
+    "prefecture": "大阪府",
+    "city": "泉佐野市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.00km (wikipedia×wikidata)",
+      "nearby": "なし"
+    },
+    "sources": [
+      {
+        "src": "wikipedia",
+        "lat": 34.3385,
+        "lng": 135.375944,
+        "note": "犬鳴山温泉"
+      },
+      {
+        "src": "wikidata",
+        "lat": 34.3385,
+        "lng": 135.375944,
+        "note": "Q11571298"
+      },
+      {
+        "src": "osm",
+        "lat": 34.3407907,
+        "lng": 135.3746481,
+        "note": "犬鳴山温泉;山乃湯 犬鳴山温泉;山乃湯"
+      },
+      {
+        "src": "gsi",
+        "lat": 34.340847,
+        "lng": 135.375236,
+        "note": "犬鳴山温泉"
+      }
+    ],
+    "distanceKm": 0,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "lat": 34.3385,
+    "lng": 135.37594,
+    "pass": true
+  },
+  {
+    "id": "yumura-hyogo",
+    "name": "湯村温泉",
+    "prefecture": "兵庫県",
+    "city": "新温泉町",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.57km (wikipedia×wikidata)",
+      "nearby": "なし"
+    },
+    "sources": [
+      {
+        "src": "wikipedia",
+        "lat": 35.55,
+        "lng": 134.49,
+        "note": "湯村温泉 (兵庫県)"
+      },
+      {
+        "src": "wikidata",
+        "lat": 35.5549,
+        "lng": 134.488,
+        "note": "Q8061163"
+      },
+      {
+        "src": "gsi",
+        "lat": 35.6832358668579,
+        "lng": 138.548665443272,
+        "note": "湯村温泉"
+      }
+    ],
+    "distanceKm": 0.57,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "lat": 35.55245,
+    "lng": 134.489,
+    "pass": true
+  },
+  {
+    "id": "shioda",
+    "name": "塩田温泉",
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.00km (wikipedia×wikidata)",
+      "nearby": "なし"
+    },
+    "sources": [
+      {
+        "src": "wikipedia",
+        "lat": 34.945222,
+        "lng": 134.69025,
+        "note": "塩田温泉"
+      },
+      {
+        "src": "wikidata",
+        "lat": 34.945222,
+        "lng": 134.69025,
+        "note": "Q11428838"
+      }
+    ],
+    "distanceKm": 0,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "lat": 34.94522,
+    "lng": 134.69025,
+    "pass": true
+  },
+  {
+    "id": "kannabe",
+    "name": "神鍋温泉",
+    "prefecture": "兵庫県",
+    "city": "豊岡市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "2ソース未満 (wikipedia)"
+    },
+    "sources": [
+      {
+        "src": "wikipedia",
+        "lat": 35.49933333,
+        "lng": 134.67519444,
+        "note": "神鍋温泉"
+      }
+    ],
+    "pass": false
+  },
+  {
+    "id": "sumoto-onsen",
+    "name": "洲本温泉",
+    "prefecture": "兵庫県",
+    "city": "洲本市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.00km (wikipedia×wikidata)",
+      "nearby": "なし"
+    },
+    "sources": [
+      {
+        "src": "wikipedia",
+        "lat": 34.34019,
+        "lng": 134.90053,
+        "note": "洲本温泉"
+      },
+      {
+        "src": "wikidata",
+        "lat": 34.340194444444,
+        "lng": 134.90052777778,
+        "note": "Q11556541"
+      },
+      {
+        "src": "osm",
+        "lat": 34.340105,
+        "lng": 134.9005113,
+        "note": "洲本温泉・潮騒の湯　足湯 洲本温泉・潮騒の湯　足湯"
+      }
+    ],
+    "distanceKm": 0,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "lat": 34.34019,
+    "lng": 134.90053,
+    "pass": true
+  },
+  {
+    "id": "tenkawa",
+    "name": "天川温泉",
+    "prefecture": "奈良県",
+    "city": "天川村",
+    "checks": {
+      "duplicate": "id重複:天川村"
+    },
+    "pass": false
+  },
+  {
+    "id": "ryujin",
+    "name": "龍神温泉",
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "checks": {
+      "duplicate": "同名:龍神温泉"
+    },
+    "pass": false
+  },
+  {
+    "id": "hanayama",
+    "name": "花山温泉",
+    "prefecture": "和歌山県",
+    "city": "和歌山市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "2ソース未満 (なし)"
+    },
+    "sources": [],
+    "pass": false
+  },
+  {
+    "id": "watarase",
+    "name": "渡瀬温泉",
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.00km (wikipedia×wikidata)",
+      "nearby": "熊野古道(2.1km)"
+    },
+    "sources": [
+      {
+        "src": "wikipedia",
+        "lat": 33.8185,
+        "lng": 135.766472,
+        "note": "渡瀬温泉"
+      },
+      {
+        "src": "wikidata",
+        "lat": 33.8185,
+        "lng": 135.766472,
+        "note": "Q11561949"
+      },
+      {
+        "src": "osm",
+        "lat": 33.8182343,
+        "lng": 135.7664906,
+        "note": "渡瀬温泉 渡瀬温泉 渡瀬温泉"
+      }
+    ],
+    "distanceKm": 0,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "lat": 33.8185,
+    "lng": 135.76647,
+    "pass": false
+  },
+  {
+    "id": "misasa",
+    "name": "三朝温泉",
+    "prefecture": "鳥取県",
+    "city": "三朝町",
+    "checks": {
+      "duplicate": "同名:三朝温泉"
+    },
+    "pass": false
+  },
+  {
+    "id": "shikano",
+    "name": "鹿野温泉",
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.00km (wikipedia×wikidata)",
+      "nearby": "なし"
+    },
+    "sources": [
+      {
+        "src": "wikipedia",
+        "lat": 35.46463889,
+        "lng": 134.052,
+        "note": "鹿野温泉"
+      },
+      {
+        "src": "wikidata",
+        "lat": 35.46463889,
+        "lng": 134.052,
+        "note": "Q11677308"
+      },
+      {
+        "src": "gsi",
+        "lat": 35.5029981833333,
+        "lng": 134.051879006944,
+        "note": "浜村鹿野温泉ＩＣ"
+      }
+    ],
+    "distanceKm": 0,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "lat": 35.46464,
+    "lng": 134.052,
+    "pass": true
+  },
+  {
+    "id": "hamamura",
+    "name": "浜村温泉",
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.00km (wikipedia×wikidata)",
+      "nearby": "白兎神社(2.6km)"
+    },
+    "sources": [
+      {
+        "src": "wikipedia",
+        "lat": 35.50951944,
+        "lng": 134.05074722,
+        "note": "浜村温泉"
+      },
+      {
+        "src": "wikidata",
+        "lat": 35.50951944,
+        "lng": 134.05074722,
+        "note": "Q11557723"
+      },
+      {
+        "src": "gsi",
+        "lat": 35.4875141969444,
+        "lng": 134.097406905833,
+        "note": "旭国際浜村温泉ＧＣ"
+      }
+    ],
+    "distanceKm": 0,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "lat": 35.50952,
+    "lng": 134.05075,
+    "pass": false
+  },
+  {
+    "id": "togo",
+    "name": "東郷温泉",
+    "prefecture": "鳥取県",
+    "city": "湯梨浜町",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.00km (wikipedia×wikidata)",
+      "nearby": "なし"
+    },
+    "sources": [
+      {
+        "src": "wikipedia",
+        "lat": 35.469475,
+        "lng": 133.89869444,
+        "note": "東郷温泉"
+      },
+      {
+        "src": "wikidata",
+        "lat": 35.469475,
+        "lng": 133.89869444,
+        "note": "Q11528535"
+      },
+      {
+        "src": "gsi",
+        "lat": 35.469375,
+        "lng": 133.898525,
+        "note": "東郷温泉"
+      }
+    ],
+    "distanceKm": 0,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "lat": 35.46948,
+    "lng": 133.89869,
+    "pass": true
+  },
+  {
+    "id": "hawai",
+    "name": "はわい温泉",
+    "prefecture": "鳥取県",
+    "city": "湯梨浜町",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.00km (wikipedia×wikidata)",
+      "nearby": "東郷湖(2.1km)"
+    },
+    "sources": [
+      {
+        "src": "wikipedia",
+        "lat": 35.47808333,
+        "lng": 133.88266111,
+        "note": "はわい温泉"
+      },
+      {
+        "src": "wikidata",
+        "lat": 35.47808333,
+        "lng": 133.88266111,
+        "note": "Q11610057"
+      },
+      {
+        "src": "osm",
+        "lat": 35.4773886,
+        "lng": 133.8787365,
+        "note": "はわい温泉 はわい温泉 はわい温泉"
+      },
+      {
+        "src": "gsi",
+        "lat": 35.476837,
+        "lng": 133.885529,
+        "note": "鳥取県湯梨浜町はわい温泉"
+      }
+    ],
+    "distanceKm": 0,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "lat": 35.47808,
+    "lng": 133.88266,
+    "pass": false
+  },
+  {
+    "id": "yoshioka",
+    "name": "吉岡温泉",
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.00km (wikipedia×wikidata)",
+      "nearby": "なし"
+    },
+    "sources": [
+      {
+        "src": "wikipedia",
+        "lat": 35.48345,
+        "lng": 134.128175,
+        "note": "吉岡温泉"
+      },
+      {
+        "src": "wikidata",
+        "lat": 35.48345,
+        "lng": 134.128175,
+        "note": "Q11412849"
+      },
+      {
+        "src": "gsi",
+        "lat": 41.443411,
+        "lng": 140.227406,
+        "note": "吉岡温泉"
+      }
+    ],
+    "distanceKm": 0,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "lat": 35.48345,
+    "lng": 134.12817,
+    "pass": true
+  },
+  {
+    "id": "yunotsu",
+    "name": "温泉津温泉",
+    "prefecture": "島根県",
+    "city": "大田市",
+    "checks": {
+      "duplicate": "同名:温泉津温泉"
+    },
+    "pass": false
+  },
+  {
+    "id": "arifuku",
+    "name": "有福温泉",
+    "prefecture": "島根県",
+    "city": "江津市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.00km (wikipedia×wikidata)",
+      "nearby": "なし"
+    },
+    "sources": [
+      {
+        "src": "wikipedia",
+        "lat": 34.94039,
+        "lng": 132.20067,
+        "note": "有福温泉"
+      },
+      {
+        "src": "wikidata",
+        "lat": 34.940388888889,
+        "lng": 132.20066666667,
+        "note": "Q11516641"
+      },
+      {
+        "src": "osm",
+        "lat": 34.946513,
+        "lng": 132.200266,
+        "note": "有福温泉児童館 有福温泉児童館"
+      },
+      {
+        "src": "gsi",
+        "lat": 34.940764,
+        "lng": 132.20055,
+        "note": "有福温泉"
+      }
+    ],
+    "distanceKm": 0,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "lat": 34.94039,
+    "lng": 132.20067,
+    "pass": true
+  },
+  {
+    "id": "yunokawa-shim",
+    "name": "湯の川温泉",
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.49km (wikidata×gsi)",
+      "nearby": "なし"
+    },
+    "sources": [
+      {
+        "src": "wikipedia",
+        "lat": 35.39017,
+        "lng": 132.87186,
+        "note": "湯の川温泉 (島根県)"
+      },
+      {
+        "src": "wikidata",
+        "lat": 41.77875,
+        "lng": 140.78258333333,
+        "note": "Q3916336"
+      },
+      {
+        "src": "gsi",
+        "lat": 41.777575,
+        "lng": 140.788283,
+        "note": "湯の川温泉"
+      }
+    ],
+    "distanceKm": 0.49,
+    "verifiedBy": [
+      "wikidata",
+      "gsi"
+    ],
+    "lat": 41.77816,
+    "lng": 140.78543,
+    "pass": true
+  },
+  {
+    "id": "sanbe",
+    "name": "三瓶温泉",
+    "prefecture": "島根県",
+    "city": "大田市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.02km (wikipedia×wikidata)",
+      "nearby": "なし"
+    },
+    "sources": [
+      {
+        "src": "wikipedia",
+        "lat": 35.11777778,
+        "lng": 132.62727778,
+        "note": "三瓶温泉"
+      },
+      {
+        "src": "wikidata",
+        "lat": 35.117916666667,
+        "lng": 132.62736111111,
+        "note": "Q11356664"
+      },
+      {
+        "src": "gsi",
+        "lat": 35.1155,
+        "lng": 132.627694,
+        "note": "三瓶温泉"
+      }
+    ],
+    "distanceKm": 0.02,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "lat": 35.11785,
+    "lng": 132.62732,
+    "pass": true
+  },
+  {
+    "id": "izumoyumura",
+    "name": "出雲湯村温泉",
+    "prefecture": "島根県",
+    "city": "雲南市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.00km (wikipedia×wikidata)",
+      "nearby": "なし"
+    },
+    "sources": [
+      {
+        "src": "wikipedia",
+        "lat": 35.217778,
+        "lng": 132.906944,
+        "note": "出雲湯村温泉"
+      },
+      {
+        "src": "wikidata",
+        "lat": 35.217778,
+        "lng": 132.906944,
+        "note": "Q11395896"
+      },
+      {
+        "src": "gsi",
+        "lat": 35.217549110914,
+        "lng": 132.908206012287,
+        "note": "出雲湯村温泉"
+      }
+    ],
+    "distanceKm": 0,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "lat": 35.21778,
+    "lng": 132.90694,
+    "pass": true
+  },
+  {
+    "id": "tonbara",
+    "name": "頓原温泉",
+    "prefecture": "島根県",
+    "city": "飯南町",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "2ソース未満 (なし)"
+    },
+    "sources": [],
+    "pass": false
+  },
+  {
+    "id": "okutsu",
+    "name": "奥津温泉",
+    "prefecture": "岡山県",
+    "city": "鏡野町",
+    "checks": {
+      "duplicate": "id重複:奥津温泉"
+    },
+    "pass": false
+  },
+  {
+    "id": "yunogo",
+    "name": "湯郷温泉",
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "checks": {
+      "duplicate": "id重複:湯郷温泉"
+    },
+    "pass": false
+  },
+  {
+    "id": "hannyaji",
+    "name": "般若寺温泉",
+    "prefecture": "岡山県",
+    "city": "鏡野町",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "2ソース未満 (osm)"
+    },
+    "sources": [
+      {
+        "src": "osm",
+        "lat": 35.2139973,
+        "lng": 133.9135533,
+        "note": "般若寺温泉;大釣温泉 般若寺温泉;大釣温泉 般若寺温泉;大釣"
+      }
+    ],
+    "pass": false
+  },
+  {
+    "id": "yubara-onsen",
+    "name": "湯原温泉郷",
+    "prefecture": "岡山県",
+    "city": "真庭市",
+    "checks": {
+      "duplicate": "id重複:湯原温泉"
+    },
+    "pass": false
+  },
+  {
+    "id": "yano-onsen",
+    "name": "矢野温泉",
+    "prefecture": "広島県",
+    "city": "府中市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.11km (wikidata×osm)",
+      "nearby": "なし"
+    },
+    "sources": [
+      {
+        "src": "wikidata",
+        "lat": 34.67162,
+        "lng": 133.11101,
+        "note": "Q11584405"
+      },
+      {
+        "src": "osm",
+        "lat": 34.6721352,
+        "lng": 133.1099898,
+        "note": "矢野温泉 矢野温泉 矢野温泉"
+      }
+    ],
+    "distanceKm": 0.11,
+    "verifiedBy": [
+      "wikidata",
+      "osm"
+    ],
+    "lat": 34.67188,
+    "lng": 133.1105,
+    "pass": true
+  },
+  {
+    "id": "kimita",
+    "name": "君田温泉",
+    "prefecture": "広島県",
+    "city": "三次市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "2ソース未満 (なし)"
+    },
+    "sources": [],
+    "pass": false
+  },
+  {
+    "id": "ushiobara",
+    "name": "潮原温泉",
+    "prefecture": "広島県",
+    "city": "廿日市市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.09km (wikidata×osm)",
+      "nearby": "なし"
+    },
+    "sources": [
+      {
+        "src": "wikidata",
+        "lat": 34.467944444444,
+        "lng": 132.11441666667,
+        "note": "Q52046019"
+      },
+      {
+        "src": "osm",
+        "lat": 34.4671955,
+        "lng": 132.1147727,
+        "note": "潮原温泉 潮原温泉 潮原温泉"
+      }
+    ],
+    "distanceKm": 0.09,
+    "verifiedBy": [
+      "wikidata",
+      "osm"
+    ],
+    "lat": 34.46757,
+    "lng": 132.11459,
+    "pass": true
+  },
+  {
+    "id": "miyahama",
+    "name": "宮浜温泉",
+    "prefecture": "広島県",
+    "city": "廿日市市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.00km (wikipedia×wikidata)",
+      "nearby": "なし"
+    },
+    "sources": [
+      {
+        "src": "wikipedia",
+        "lat": 34.27359167,
+        "lng": 132.25538333,
+        "note": "宮浜温泉"
+      },
+      {
+        "src": "wikidata",
+        "lat": 34.273592,
+        "lng": 132.255383,
+        "note": "Q11455051"
+      },
+      {
+        "src": "osm",
+        "lat": 34.2710992,
+        "lng": 132.254985,
+        "note": "宮浜温泉 宮浜温泉 宮浜温泉"
+      },
+      {
+        "src": "gsi",
+        "lat": 34.273235,
+        "lng": 132.255859,
+        "note": "広島県廿日市市宮浜温泉"
+      }
+    ],
+    "distanceKm": 0,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "lat": 34.27359,
+    "lng": 132.25538,
+    "pass": true
+  },
+  {
+    "id": "yuda",
+    "name": "湯田温泉",
+    "prefecture": "山口県",
+    "city": "山口市",
+    "checks": {
+      "duplicate": "同名:湯田温泉"
+    },
+    "pass": false
+  },
+  {
+    "id": "nagatoyumoto",
+    "name": "長門湯本温泉",
+    "prefecture": "山口県",
+    "city": "長門市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.29km (wikidata×osm)",
+      "nearby": "なし"
+    },
+    "sources": [
+      {
+        "src": "wikidata",
+        "lat": 34.330555555555556,
+        "lng": 131.17083333333332,
+        "note": "Q11654891"
+      },
+      {
+        "src": "osm",
+        "lat": 34.3291574,
+        "lng": 131.1735632,
+        "note": "長門湯本温泉 長門湯本温泉"
+      },
+      {
+        "src": "gsi",
+        "lat": 34.3432061736111,
+        "lng": 131.175713166944,
+        "note": "長門湯本温泉ＩＣ"
+      }
+    ],
+    "distanceKm": 0.29,
+    "verifiedBy": [
+      "wikidata",
+      "osm"
+    ],
+    "lat": 34.32986,
+    "lng": 131.1722,
+    "pass": true
+  },
+  {
+    "id": "tawarayama",
+    "name": "俵山温泉",
+    "prefecture": "山口県",
+    "city": "長門市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.05km (wikipedia×gsi)",
+      "nearby": "なし"
+    },
+    "sources": [
+      {
+        "src": "wikipedia",
+        "lat": 34.29083333,
+        "lng": 131.10022222,
+        "note": "俵山温泉"
+      },
+      {
+        "src": "wikidata",
+        "lat": 34.291444444444,
+        "lng": 131.10130555556,
+        "note": "Q11386420"
+      },
+      {
+        "src": "osm",
+        "lat": 34.2914639,
+        "lng": 131.102421,
+        "note": "俵山温泉;白猿の湯 俵山温泉;白猿の湯"
+      },
+      {
+        "src": "gsi",
+        "lat": 34.290922,
+        "lng": 131.1008,
+        "note": "俵山温泉"
+      }
+    ],
+    "distanceKm": 0.05,
+    "verifiedBy": [
+      "wikipedia",
+      "gsi"
+    ],
+    "lat": 34.29088,
+    "lng": 131.10051,
+    "pass": true
+  },
+  {
+    "id": "kawatana",
+    "name": "川棚温泉",
+    "prefecture": "山口県",
+    "city": "下関市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.12km (wikidata×gsi)",
+      "nearby": "なし"
+    },
+    "sources": [
+      {
+        "src": "wikipedia",
+        "lat": 34.13972222,
+        "lng": 130.93972222,
+        "note": "川棚温泉"
+      },
+      {
+        "src": "wikidata",
+        "lat": 34.136972222222,
+        "lng": 130.93869444444,
+        "note": "Q11478867"
+      },
+      {
+        "src": "osm",
+        "lat": 34.1464995,
+        "lng": 130.9223059,
+        "note": "川棚温泉 川棚温泉 川棚温泉"
+      },
+      {
+        "src": "gsi",
+        "lat": 34.137883,
+        "lng": 130.937947,
+        "note": "川棚温泉"
+      }
+    ],
+    "distanceKm": 0.12,
+    "verifiedBy": [
+      "wikidata",
+      "gsi"
+    ],
+    "lat": 34.13743,
+    "lng": 130.93832,
+    "pass": true
+  },
+  {
+    "id": "yumen",
+    "name": "湯免温泉",
+    "prefecture": "山口県",
+    "city": "長門市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.02km (wikipedia×wikidata)",
+      "nearby": "なし"
+    },
+    "sources": [
+      {
+        "src": "wikipedia",
+        "lat": 34.35941667,
+        "lng": 131.26077778,
+        "note": "湯免温泉"
+      },
+      {
+        "src": "wikidata",
+        "lat": 34.359527777778,
+        "lng": 131.26066666667,
+        "note": "Q11563467"
+      },
+      {
+        "src": "gsi",
+        "lat": 34.359558,
+        "lng": 131.260472,
+        "note": "湯免温泉"
+      }
+    ],
+    "distanceKm": 0.02,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "lat": 34.35947,
+    "lng": 131.26072,
+    "pass": true
+  },
+  {
+    "id": "yuno-yamaguchi",
+    "name": "湯野温泉",
+    "prefecture": "山口県",
+    "city": "周南市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.04km (wikipedia×osm)",
+      "nearby": "なし"
+    },
+    "sources": [
+      {
+        "src": "wikipedia",
+        "lat": 34.09283333,
+        "lng": 131.67477778,
+        "note": "湯野温泉"
+      },
+      {
+        "src": "osm",
+        "lat": 34.0932101,
+        "lng": 131.6748421,
+        "note": "湯野温泉 湯野温泉"
+      }
+    ],
+    "distanceKm": 0.04,
+    "verifiedBy": [
+      "wikipedia",
+      "osm"
+    ],
+    "lat": 34.09302,
+    "lng": 131.67481,
+    "pass": true
+  },
+  {
+    "id": "kamiyama",
+    "name": "神山温泉",
+    "prefecture": "徳島県",
+    "city": "神山町",
+    "checks": {
+      "duplicate": "類似名:神山町"
+    },
+    "pass": false
+  },
+  {
+    "id": "tsukigatani",
+    "name": "月ヶ谷温泉",
+    "prefecture": "徳島県",
+    "city": "上勝町",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.00km (wikipedia×wikidata)",
+      "nearby": "なし"
+    },
+    "sources": [
+      {
+        "src": "wikipedia",
+        "lat": 33.885,
+        "lng": 134.418306,
+        "note": "月ヶ谷温泉"
+      },
+      {
+        "src": "wikidata",
+        "lat": 33.885,
+        "lng": 134.418306,
+        "note": "Q65270808"
+      },
+      {
+        "src": "gsi",
+        "lat": 33.885158,
+        "lng": 134.418069,
+        "note": "月ヶ谷温泉"
+      }
+    ],
+    "distanceKm": 0,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "lat": 33.885,
+    "lng": 134.41831,
+    "pass": true
+  },
+  {
+    "id": "hinomine",
+    "name": "日和佐温泉",
+    "prefecture": "徳島県",
+    "city": "美波町",
+    "checks": {
+      "duplicate": "類似名:日和佐"
+    },
+    "pass": false
+  },
+  {
+    "id": "shionoe",
+    "name": "塩江温泉",
+    "prefecture": "香川県",
+    "city": "高松市",
+    "checks": {
+      "duplicate": "id重複:塩江"
+    },
+    "pass": false
+  },
+  {
+    "id": "nibukawa",
+    "name": "鈍川温泉",
+    "prefecture": "愛媛県",
+    "city": "今治市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.00km (wikipedia×wikidata)",
+      "nearby": "なし"
+    },
+    "sources": [
+      {
+        "src": "wikipedia",
+        "lat": 33.98225,
+        "lng": 132.93544,
+        "note": "鈍川温泉"
+      },
+      {
+        "src": "wikidata",
+        "lat": 33.98225,
+        "lng": 132.93544444444,
+        "note": "Q11648329"
+      },
+      {
+        "src": "osm",
+        "lat": 33.9821983,
+        "lng": 132.9375144,
+        "note": "鈍川温泉 鈍川温泉"
+      },
+      {
+        "src": "gsi",
+        "lat": 33.981222,
+        "lng": 132.935339,
+        "note": "鈍川温泉"
+      }
+    ],
+    "distanceKm": 0,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "lat": 33.98225,
+    "lng": 132.93544,
+    "pass": true
+  },
+  {
+    "id": "yunoura",
+    "name": "湯ノ浦温泉",
+    "prefecture": "愛媛県",
+    "city": "今治市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.00km (wikipedia×wikidata)",
+      "nearby": "なし"
+    },
+    "sources": [
+      {
+        "src": "wikipedia",
+        "lat": 33.99519,
+        "lng": 133.05408,
+        "note": "湯ノ浦温泉"
+      },
+      {
+        "src": "wikidata",
+        "lat": 33.995194444444,
+        "lng": 133.05408333333,
+        "note": "Q11563443"
+      },
+      {
+        "src": "osm",
+        "lat": 33.9952509,
+        "lng": 133.0547911,
+        "note": "湯ノ浦温泉;四季の湯 ビア工房 湯ノ浦温泉;四季の湯 ビア工"
+      },
+      {
+        "src": "gsi",
+        "lat": 33.99505556,
+        "lng": 133.0524667,
+        "note": "湯ノ浦温泉"
+      }
+    ],
+    "distanceKm": 0,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "lat": 33.99519,
+    "lng": 133.05408,
+    "pass": true
+  },
+  {
+    "id": "kaminada",
+    "name": "中山越? ",
+    "prefecture": "愛媛県",
+    "city": "西予市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "2ソース未満 (wikipedia)"
+    },
+    "sources": [
+      {
+        "src": "wikipedia",
+        "lat": 33.22331,
+        "lng": 132.56056,
+        "note": "宇和島市"
+      }
+    ],
+    "pass": false
+  },
+  {
+    "id": "yunotani-koc",
+    "name": "湯之谷温泉",
+    "prefecture": "高知県",
+    "city": "土佐市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.03km (wikidata×gsi)",
+      "nearby": "霧島(2.1km)"
+    },
+    "sources": [
+      {
+        "src": "wikidata",
+        "lat": 31.887666666667,
+        "lng": 130.83747222222,
+        "note": "Q11563463"
+      },
+      {
+        "src": "gsi",
+        "lat": 31.887856,
+        "lng": 130.837697,
+        "note": "湯之谷温泉"
+      }
+    ],
+    "distanceKm": 0.03,
+    "verifiedBy": [
+      "wikidata",
+      "gsi"
+    ],
+    "lat": 31.88776,
+    "lng": 130.83758,
+    "pass": false
+  },
+  {
+    "id": "ashizuri",
+    "name": "あしずり温泉郷",
+    "prefecture": "高知県",
+    "city": "土佐清水市",
+    "checks": {
+      "duplicate": "id重複:足摺岬"
+    },
+    "pass": false
+  },
+  {
+    "id": "hatogayu",
+    "name": "鳩ヶ湯温泉",
+    "prefecture": "福井県",
+    "city": "大野市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.04km (wikipedia×wikidata)",
+      "nearby": "なし"
+    },
+    "sources": [
+      {
+        "src": "wikipedia",
+        "lat": 36.03222222,
+        "lng": 136.68080556,
+        "note": "鳩ヶ湯温泉"
+      },
+      {
+        "src": "wikidata",
+        "lat": 36.0325,
+        "lng": 136.68102777778,
+        "note": "Q11675197"
+      }
+    ],
+    "distanceKm": 0.04,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "lat": 36.03236,
+    "lng": 136.68092,
+    "pass": true
+  },
+  {
+    "id": "chugu",
+    "name": "中宮温泉",
+    "prefecture": "石川県",
+    "city": "白山市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.11km (wikidata×gsi)",
+      "nearby": "なし"
+    },
+    "sources": [
+      {
+        "src": "wikidata",
+        "lat": 36.259222222222,
+        "lng": 136.76380555556,
+        "note": "Q11363879"
+      },
+      {
+        "src": "gsi",
+        "lat": 36.2582351655164,
+        "lng": 136.76404195763,
+        "note": "中宮温泉"
+      }
+    ],
+    "distanceKm": 0.11,
+    "verifiedBy": [
+      "wikidata",
+      "gsi"
+    ],
+    "lat": 36.25873,
+    "lng": 136.76392,
+    "pass": true
+  },
+  {
+    "id": "iwama",
+    "name": "岩間温泉",
+    "prefecture": "石川県",
+    "city": "白山市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 2.76km (wikidata×gsi)",
+      "nearby": "白山(2.0km)"
+    },
+    "sources": [
+      {
+        "src": "wikidata",
+        "lat": 36.22672222,
+        "lng": 136.76127778,
+        "note": "Q11475692"
+      },
+      {
+        "src": "gsi",
+        "lat": 36.2490491755182,
+        "lng": 136.747735984082,
+        "note": "新岩間温泉"
+      }
+    ],
+    "distanceKm": 2.76,
+    "verifiedBy": [
+      "wikidata",
+      "gsi"
+    ],
+    "lat": 36.23789,
+    "lng": 136.75451,
+    "pass": false
+  },
+  {
+    "id": "yuwaku",
+    "name": "湯涌温泉",
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "checks": {
+      "duplicate": "同名:湯涌温泉"
+    },
+    "pass": false
+  },
+  {
+    "id": "ichirino",
+    "name": "白山一里野温泉",
+    "prefecture": "石川県",
+    "city": "白山市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.72km (wikidata×gsi)",
+      "nearby": "なし"
+    },
+    "sources": [
+      {
+        "src": "wikidata",
+        "lat": 36.26695278,
+        "lng": 136.71874167,
+        "note": "Q11579544"
+      },
+      {
+        "src": "gsi",
+        "lat": 36.26735875,
+        "lng": 136.710669611111,
+        "note": "白山一里野温泉スキー場"
+      }
+    ],
+    "distanceKm": 0.72,
+    "verifiedBy": [
+      "wikidata",
+      "gsi"
+    ],
+    "lat": 36.26716,
+    "lng": 136.71471,
+    "pass": true
+  },
+  {
+    "id": "hirado-senri",
+    "name": "平戸千里ヶ浜温泉",
+    "prefecture": "長崎県",
+    "city": "平戸市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "2ソース未満 (なし)"
+    },
+    "sources": [],
+    "pass": false
+  },
+  {
+    "id": "shimabara-onsen",
+    "name": "島原温泉",
+    "prefecture": "長崎県",
+    "city": "島原市",
+    "checks": {
+      "duplicate": "類似名:島原"
+    },
+    "pass": false
+  },
+  {
+    "id": "tokigawa",
+    "name": "都幾川温泉",
+    "prefecture": "埼玉県",
+    "city": "ときがわ町",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.00km (wikidata×osm)",
+      "nearby": "なし"
+    },
+    "sources": [
+      {
+        "src": "wikidata",
+        "lat": 35.987888888889,
+        "lng": 139.20644444444,
+        "note": "Q11643708"
+      },
+      {
+        "src": "osm",
+        "lat": 35.9878906,
+        "lng": 139.2064532,
+        "note": "都幾川温泉 とき川 都幾川温泉 とき川"
+      }
+    ],
+    "distanceKm": 0,
+    "verifiedBy": [
+      "wikidata",
+      "osm"
+    ],
+    "lat": 35.98789,
+    "lng": 139.20645,
+    "pass": true
+  },
+  {
+    "id": "otaki-saitama",
+    "name": "大滝温泉",
+    "prefecture": "埼玉県",
+    "city": "秩父市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致なし (wikidata,gsi)"
+    },
+    "sources": [
+      {
+        "src": "wikidata",
+        "lat": 35.950333333333,
+        "lng": 138.93816666667,
+        "note": "Q11641229"
+      },
+      {
+        "src": "gsi",
+        "lat": 40.2134853766389,
+        "lng": 140.644023145152,
+        "note": "大滝温泉"
+      }
+    ],
+    "pass": false
+  }
+]

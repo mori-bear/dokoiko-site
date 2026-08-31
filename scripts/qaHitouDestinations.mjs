@@ -3,7 +3,10 @@
 import fs from 'fs';
 
 const NEW = ['namari-onsen', 'geto-onsen', 'matsukawa-iwate', 'gaga-onsen', 'kuroyu', 'doroyu',
-  'tokusa', 'kaikake', 'nakabusa', 'kuronagi', 'nigorigo', 'nishiyama-yama', 'umegashima'];
+  'tokusa', 'kaikake', 'nakabusa', 'kuronagi', 'nigorigo', 'nishiyama-yama', 'umegashima',
+  // 第2バッチ
+  'horoka', 'osawa-onsen', 'yubama', 'kanigasaki', 'utto', 'seorasou', 'yunohana-fk',
+  'tsubame-onsen', 'yumata', 'kamikitayama', 'iwai-tottori', 'misasa2', 'yuki-hiroshima'];
 const d = JSON.parse(fs.readFileSync('src/data/destinations.json', 'utf8'));
 const byId = Object.fromEntries(d.map((x) => [x.id, x]));
 
@@ -14,6 +17,9 @@ const PREF_BOX = {
   '新潟県': [36.7, 38.6, 137.6, 139.9], '長野県': [35.1, 37.1, 137.3, 138.8],
   '富山県': [36.2, 36.99, 136.7, 137.8], '岐阜県': [35.1, 36.5, 136.2, 137.7],
   '山梨県': [35.1, 35.98, 138.2, 139.2], '静岡県': [34.5, 35.7, 137.4, 139.2],
+  '北海道': [41.3, 45.6, 139.3, 146.0], '山形県': [37.7, 39.2, 139.5, 140.7],
+  '奈良県': [33.8, 34.8, 135.6, 136.2], '鳥取県': [35.0, 35.7, 133.1, 134.5],
+  '広島県': [34.0, 35.1, 132.0, 133.5],
 };
 
 let ng = 0;

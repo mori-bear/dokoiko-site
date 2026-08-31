@@ -1,0 +1,580 @@
+[
+  {
+    "id": "sakakibara",
+    "name": "榊原温泉",
+    "prefecture": "三重県",
+    "city": "津市",
+    "lat": 34.70644,
+    "lng": 136.37506,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "distanceKm": 0.02,
+    "imageQuery": "Sakakibara Onsen Tsu Mie",
+    "localityWords": [
+      "榊原",
+      "津市",
+      "三重",
+      "Sakakibara"
+    ]
+  },
+  {
+    "id": "yunoyama",
+    "name": "湯の山温泉",
+    "prefecture": "三重県",
+    "city": "菰野町",
+    "lat": 35.0117,
+    "lng": 136.47402,
+    "verifiedBy": [
+      "wikidata",
+      "osm"
+    ],
+    "distanceKm": 0.02,
+    "imageQuery": "Yunoyama Onsen Komono Mie",
+    "localityWords": [
+      "湯の山",
+      "菰野",
+      "御在所",
+      "Yunoyama",
+      "Komono"
+    ]
+  },
+  {
+    "id": "ogoto",
+    "name": "おごと温泉",
+    "prefecture": "滋賀県",
+    "city": "大津市",
+    "lat": 35.09704,
+    "lng": 135.89486,
+    "verifiedBy": [
+      "wikidata",
+      "osm"
+    ],
+    "distanceKm": 0.03,
+    "imageQuery": "Ogoto Onsen Otsu Shiga",
+    "localityWords": [
+      "雄琴",
+      "おごと",
+      "大津",
+      "Ogoto",
+      "Otsu"
+    ]
+  },
+  {
+    "id": "kutsukake-kyo",
+    "name": "夕日ヶ浦温泉",
+    "prefecture": "京都府",
+    "city": "京丹後市",
+    "lat": 35.661,
+    "lng": 134.966,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "distanceKm": 0,
+    "imageQuery": "Yuhigaura Onsen Kyotango",
+    "localityWords": [
+      "夕日ヶ浦",
+      "京丹後",
+      "Yuhigaura",
+      "Kyotango"
+    ]
+  },
+  {
+    "id": "inunakiyama",
+    "name": "犬鳴山温泉",
+    "prefecture": "大阪府",
+    "city": "泉佐野市",
+    "lat": 34.3385,
+    "lng": 135.37594,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "distanceKm": 0,
+    "imageQuery": "Inunakiyama Onsen Izumisano",
+    "localityWords": [
+      "犬鳴",
+      "泉佐野",
+      "Inunaki",
+      "Izumisano"
+    ]
+  },
+  {
+    "id": "yumura-hyogo",
+    "name": "湯村温泉",
+    "prefecture": "兵庫県",
+    "city": "新温泉町",
+    "lat": 35.55245,
+    "lng": 134.489,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "distanceKm": 0.57,
+    "imageQuery": "Yumura Onsen Shinonsen Hyogo",
+    "localityWords": [
+      "湯村",
+      "新温泉町",
+      "荒湯",
+      "Yumura"
+    ]
+  },
+  {
+    "id": "shioda",
+    "name": "塩田温泉",
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "lat": 34.94522,
+    "lng": 134.69025,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "distanceKm": 0,
+    "imageQuery": "Shioda Onsen Himeji",
+    "localityWords": [
+      "塩田",
+      "姫路",
+      "Shioda",
+      "Himeji"
+    ]
+  },
+  {
+    "id": "sumoto-onsen",
+    "name": "洲本温泉",
+    "prefecture": "兵庫県",
+    "city": "洲本市",
+    "lat": 34.34019,
+    "lng": 134.90053,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "distanceKm": 0,
+    "imageQuery": "Sumoto Onsen Awaji",
+    "localityWords": [
+      "洲本",
+      "淡路",
+      "Sumoto",
+      "Awaji"
+    ]
+  },
+  {
+    "id": "shikano",
+    "name": "鹿野温泉",
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "lat": 35.46464,
+    "lng": 134.052,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "distanceKm": 0,
+    "imageQuery": "Shikano Onsen Tottori",
+    "localityWords": [
+      "鹿野",
+      "鳥取",
+      "Shikano"
+    ]
+  },
+  {
+    "id": "togo",
+    "name": "東郷温泉",
+    "prefecture": "鳥取県",
+    "city": "湯梨浜町",
+    "lat": 35.46948,
+    "lng": 133.89869,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "distanceKm": 0,
+    "imageQuery": "Togo Onsen Yurihama Tottori",
+    "localityWords": [
+      "東郷",
+      "湯梨浜",
+      "Togo",
+      "Yurihama"
+    ]
+  },
+  {
+    "id": "yoshioka",
+    "name": "吉岡温泉",
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "lat": 35.48345,
+    "lng": 134.12817,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "distanceKm": 0,
+    "imageQuery": "Yoshioka Onsen Tottori",
+    "localityWords": [
+      "吉岡",
+      "鳥取",
+      "Yoshioka"
+    ]
+  },
+  {
+    "id": "arifuku",
+    "name": "有福温泉",
+    "prefecture": "島根県",
+    "city": "江津市",
+    "lat": 34.94039,
+    "lng": 132.20067,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "distanceKm": 0,
+    "imageQuery": "Arifuku Onsen Gotsu Shimane",
+    "localityWords": [
+      "有福",
+      "江津",
+      "Arifuku",
+      "Gotsu"
+    ]
+  },
+  {
+    "id": "sanbe",
+    "name": "三瓶温泉",
+    "prefecture": "島根県",
+    "city": "大田市",
+    "lat": 35.11785,
+    "lng": 132.62732,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "distanceKm": 0.02,
+    "imageQuery": "Sanbe Onsen Oda Shimane",
+    "localityWords": [
+      "三瓶",
+      "大田",
+      "Sanbe",
+      "Oda"
+    ]
+  },
+  {
+    "id": "izumoyumura",
+    "name": "出雲湯村温泉",
+    "prefecture": "島根県",
+    "city": "雲南市",
+    "lat": 35.21778,
+    "lng": 132.90694,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "distanceKm": 0,
+    "imageQuery": "Izumo Yumura Onsen Unnan",
+    "localityWords": [
+      "湯村",
+      "雲南",
+      "木次",
+      "Yumura",
+      "Unnan"
+    ]
+  },
+  {
+    "id": "yano-onsen",
+    "name": "矢野温泉",
+    "prefecture": "広島県",
+    "city": "府中市",
+    "lat": 34.67188,
+    "lng": 133.1105,
+    "verifiedBy": [
+      "wikidata",
+      "osm"
+    ],
+    "distanceKm": 0.11,
+    "imageQuery": "Yano Onsen Fuchu Hiroshima",
+    "localityWords": [
+      "矢野",
+      "府中",
+      "Yano",
+      "Fuchu"
+    ]
+  },
+  {
+    "id": "ushiobara",
+    "name": "潮原温泉",
+    "prefecture": "広島県",
+    "city": "廿日市市",
+    "lat": 34.46757,
+    "lng": 132.11459,
+    "verifiedBy": [
+      "wikidata",
+      "osm"
+    ],
+    "distanceKm": 0.09,
+    "imageQuery": "Ushiobara Onsen Hatsukaichi",
+    "localityWords": [
+      "潮原",
+      "吉和",
+      "廿日市",
+      "Ushiobara"
+    ]
+  },
+  {
+    "id": "miyahama",
+    "name": "宮浜温泉",
+    "prefecture": "広島県",
+    "city": "廿日市市",
+    "lat": 34.27359,
+    "lng": 132.25538,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "distanceKm": 0,
+    "imageQuery": "Miyahama Onsen Hatsukaichi",
+    "localityWords": [
+      "宮浜",
+      "廿日市",
+      "Miyahama"
+    ]
+  },
+  {
+    "id": "nagatoyumoto",
+    "name": "長門湯本温泉",
+    "prefecture": "山口県",
+    "city": "長門市",
+    "lat": 34.32986,
+    "lng": 131.1722,
+    "verifiedBy": [
+      "wikidata",
+      "osm"
+    ],
+    "distanceKm": 0.29,
+    "imageQuery": "Nagato Yumoto Onsen",
+    "localityWords": [
+      "長門湯本",
+      "音信川",
+      "長門",
+      "Yumoto",
+      "Nagato"
+    ]
+  },
+  {
+    "id": "tawarayama",
+    "name": "俵山温泉",
+    "prefecture": "山口県",
+    "city": "長門市",
+    "lat": 34.29088,
+    "lng": 131.10051,
+    "verifiedBy": [
+      "wikipedia",
+      "gsi"
+    ],
+    "distanceKm": 0.05,
+    "imageQuery": "Tawarayama Onsen Nagato",
+    "localityWords": [
+      "俵山",
+      "長門",
+      "Tawarayama"
+    ]
+  },
+  {
+    "id": "kawatana",
+    "name": "川棚温泉",
+    "prefecture": "山口県",
+    "city": "下関市",
+    "lat": 34.13743,
+    "lng": 130.93832,
+    "verifiedBy": [
+      "wikidata",
+      "gsi"
+    ],
+    "distanceKm": 0.12,
+    "imageQuery": "Kawatana Onsen Shimonoseki",
+    "localityWords": [
+      "川棚",
+      "下関",
+      "Kawatana"
+    ]
+  },
+  {
+    "id": "yumen",
+    "name": "湯免温泉",
+    "prefecture": "山口県",
+    "city": "長門市",
+    "lat": 34.35947,
+    "lng": 131.26072,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "distanceKm": 0.02,
+    "imageQuery": "Yumen Onsen Nagato Yamaguchi",
+    "localityWords": [
+      "湯免",
+      "長門",
+      "三隅",
+      "Yumen"
+    ]
+  },
+  {
+    "id": "yuno-yamaguchi",
+    "name": "湯野温泉",
+    "prefecture": "山口県",
+    "city": "周南市",
+    "lat": 34.09302,
+    "lng": 131.67481,
+    "verifiedBy": [
+      "wikipedia",
+      "osm"
+    ],
+    "distanceKm": 0.04,
+    "imageQuery": "Yuno Onsen Shunan Yamaguchi",
+    "localityWords": [
+      "湯野",
+      "周南",
+      "徳山",
+      "Yuno"
+    ]
+  },
+  {
+    "id": "tsukigatani",
+    "name": "月ヶ谷温泉",
+    "prefecture": "徳島県",
+    "city": "上勝町",
+    "lat": 33.885,
+    "lng": 134.41831,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "distanceKm": 0,
+    "imageQuery": "Tsukigatani Onsen Kamikatsu",
+    "localityWords": [
+      "月ヶ谷",
+      "上勝",
+      "Tsukigatani",
+      "Kamikatsu"
+    ]
+  },
+  {
+    "id": "nibukawa",
+    "name": "鈍川温泉",
+    "prefecture": "愛媛県",
+    "city": "今治市",
+    "lat": 33.98225,
+    "lng": 132.93544,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "distanceKm": 0,
+    "imageQuery": "Nibukawa Onsen Imabari",
+    "localityWords": [
+      "鈍川",
+      "今治",
+      "Nibukawa",
+      "Imabari"
+    ]
+  },
+  {
+    "id": "yunoura",
+    "name": "湯ノ浦温泉",
+    "prefecture": "愛媛県",
+    "city": "今治市",
+    "lat": 33.99519,
+    "lng": 133.05408,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "distanceKm": 0,
+    "imageQuery": "Yunoura Onsen Imabari",
+    "localityWords": [
+      "湯ノ浦",
+      "今治",
+      "Yunoura",
+      "Imabari"
+    ]
+  },
+  {
+    "id": "hatogayu",
+    "name": "鳩ヶ湯温泉",
+    "prefecture": "福井県",
+    "city": "大野市",
+    "lat": 36.03236,
+    "lng": 136.68092,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "distanceKm": 0.04,
+    "imageQuery": "Hatogayu Onsen Ono Fukui",
+    "localityWords": [
+      "鳩ヶ湯",
+      "大野",
+      "打波",
+      "Hatogayu"
+    ]
+  },
+  {
+    "id": "chugu",
+    "name": "中宮温泉",
+    "prefecture": "石川県",
+    "city": "白山市",
+    "lat": 36.25873,
+    "lng": 136.76392,
+    "verifiedBy": [
+      "wikidata",
+      "gsi"
+    ],
+    "distanceKm": 0.11,
+    "imageQuery": "Chugu Onsen Hakusan Ishikawa",
+    "localityWords": [
+      "中宮",
+      "白山",
+      "Chugu",
+      "Hakusan"
+    ]
+  },
+  {
+    "id": "ichirino",
+    "name": "白山一里野温泉",
+    "prefecture": "石川県",
+    "city": "白山市",
+    "lat": 36.26716,
+    "lng": 136.71471,
+    "verifiedBy": [
+      "wikidata",
+      "gsi"
+    ],
+    "distanceKm": 0.72,
+    "imageQuery": "Ichirino Onsen Hakusan Ishikawa",
+    "localityWords": [
+      "一里野",
+      "白山",
+      "Ichirino",
+      "Hakusan"
+    ]
+  },
+  {
+    "id": "tokigawa",
+    "name": "都幾川温泉",
+    "prefecture": "埼玉県",
+    "city": "ときがわ町",
+    "lat": 35.98789,
+    "lng": 139.20645,
+    "verifiedBy": [
+      "wikidata",
+      "osm"
+    ],
+    "distanceKm": 0,
+    "imageQuery": "Tokigawa Onsen Saitama",
+    "localityWords": [
+      "都幾川",
+      "ときがわ",
+      "Tokigawa"
+    ]
+  }
+]
