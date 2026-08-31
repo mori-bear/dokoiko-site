@@ -1,0 +1,27 @@
+[
+  {
+    "id": "seorasou",
+    "name": "瀬見温泉",
+    "prefecture": "山形県",
+    "imageQuery": "Semi-Onsen street in Mogami Yamagata",
+    "localityWords": [
+      "瀬見",
+      "最上",
+      "Semi",
+      "Mogami"
+    ]
+  },
+  {
+    "id": "hirayu",
+    "name": "新穂高温泉",
+    "prefecture": "岐阜県",
+    "imageQuery": "新穂高温泉 panoramio",
+    "localityWords": [
+      "新穂高",
+      "奥飛騨",
+      "高山",
+      "Shinhotaka",
+      "Okuhida"
+    ]
+  }
+]

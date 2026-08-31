@@ -27,7 +27,8 @@
      "identifiable": true,
      "reason": "建物に『松の湯』と書かれた看板があり、雪景色の温泉施設として識別可能。北海道の冬の温泉地の雰囲気が伝わる。"
     }
-   ]
+   ],
+   "visualCheck": "宿「鹿の谷」の建物と鹿。良好"
   },
   {
    "id": "osawa-onsen",
@@ -56,7 +57,8 @@
      "identifiable": true,
      "reason": "大沢温泉の特徴的な木造建築と川沿いの風情が明確。緑に囲まれた湯屋の造りが典型的。"
     }
-   ]
+   ],
+   "visualCheck": "菊水館の木造建築。良好"
   },
   {
    "id": "yubama",
@@ -85,7 +87,8 @@
      "identifiable": true,
      "reason": "湯浜温泉の温泉旅館の外観。看板に「三浦旅館」と温泉地名が確認でき、木造建築の湯屋の特徴的な造りが写っている。"
     }
-   ]
+   ],
+   "visualCheck": "三浦旅館の玄関と看板。可"
   },
   {
    "id": "kanigasaki",
@@ -126,7 +129,8 @@
       "reason": "蟹場温泉の看板と宿舎外観が明確に写っている"
      }
     }
-   ]
+   ],
+   "visualCheck": "蟹場温泉の建物と看板。可"
   },
   {
    "id": "utto",
@@ -163,73 +167,8 @@
      "identifiable": true,
      "reason": "打当温泉の施設建物と雪景色が明確に写っており、秋田の冬の温泉地の特徴を示す適切な紹介画像。"
     }
-   ]
-  },
-  {
-   "id": "seorasou",
-   "name": "瀬見温泉",
-   "title": "File:Semi-Onsen-Station-Board.jpg",
-   "placeCheck": "ok",
-   "credit": {
-    "author": "Smi305",
-    "license": "CC BY-SA 4.0",
-    "url": "https://commons.wikimedia.org/wiki/File:Semi-Onsen-Station-Board.jpg",
-    "attributionRequired": true
-   },
-   "verdict": {
-    "haiku": {
-     "verdict": "ok",
-     "identifiable": true,
-     "reason": "瀬見温泉の案内看板が明確に写っており、温泉地の景観と施設が確認できる。"
-    }
-   },
-   "tried": [
-    {
-     "title": "File:JR East Semi-Onsen Station Platform, Yamagata Pref.jpg",
-     "stage": "haiku",
-     "placeCheck": "ok",
-     "verdict": "ng",
-     "identifiable": false,
-     "reason": "駅舎や駅名標は見えますが、瀬見温泉の特徴的な温泉施設や温泉地らしさが写っていません。単なる駅の風景です。"
-    },
-    {
-     "title": "File:Semi-Onsen-Station-Board.jpg",
-     "stage": "haiku",
-     "placeCheck": "ok",
-     "verdict": "ok",
-     "identifiable": true,
-     "reason": "瀬見温泉の案内看板が明確に写っており、温泉地の景観と施設が確認できる。"
-    }
-   ]
-  },
-  {
-   "id": "tsuchiyu",
-   "name": "土湯温泉",
-   "title": "File:Tsuchiyu Onsen 100808.jpg",
-   "placeCheck": "ok",
-   "credit": {
-    "author": "Yauchi",
-    "license": "Public domain",
-    "url": "https://commons.wikimedia.org/wiki/File:Tsuchiyu_Onsen_100808.jpg",
-    "attributionRequired": true
-   },
-   "verdict": {
-    "haiku": {
-     "verdict": "ok",
-     "identifiable": true,
-     "reason": "温泉街の建物群、渓流、山々の地形が土湯温泉の特徴を示しており、温泉地として識別可能。"
-    }
-   },
-   "tried": [
-    {
-     "title": "File:Tsuchiyu Onsen 100808.jpg",
-     "stage": "haiku",
-     "placeCheck": "ok",
-     "verdict": "ok",
-     "identifiable": true,
-     "reason": "温泉街の建物群、渓流、山々の地形が土湯温泉の特徴を示しており、温泉地として識別可能。"
-    }
-   ]
+   ],
+   "visualCheck": "マタギの湯の建物と雪。可"
   },
   {
    "id": "yunohana-fk",
@@ -258,36 +197,8 @@
      "identifiable": true,
      "reason": "湯ノ花温泉の特徴的な木造湯小屋と清流、周囲の緑豊かな山景が写っており、温泉地の雰囲気が明確に伝わる"
     }
-   ]
-  },
-  {
-   "id": "nishizawa",
-   "name": "西沢渓谷",
-   "title": "File:Nishizawa-Valley.jpg",
-   "placeCheck": "ok",
-   "credit": {
-    "author": "Jordy Meow",
-    "license": "CC BY 3.0",
-    "url": "https://commons.wikimedia.org/wiki/File:Nishizawa-Valley.jpg",
-    "attributionRequired": true
-   },
-   "verdict": {
-    "haiku": {
-     "verdict": "ok",
-     "identifiable": true,
-     "reason": "西沢渓谷特有の青白い滝と清流、岩壁、紅葉樹林が確認でき、同地の景観を代表する写真。明るく鮮明。"
-    }
-   },
-   "tried": [
-    {
-     "title": "File:Nishizawa-Valley.jpg",
-     "stage": "haiku",
-     "placeCheck": "ok",
-     "verdict": "ok",
-     "identifiable": true,
-     "reason": "西沢渓谷特有の青白い滝と清流、岩壁、紅葉樹林が確認でき、同地の景観を代表する写真。明るく鮮明。"
-    }
-   ]
+   ],
+   "visualCheck": "共同浴場「石湯」の湯小屋。良好"
   },
   {
    "id": "tsubame-onsen",
@@ -316,94 +227,8 @@
      "identifiable": true,
      "reason": "白濁した露天風呂、木製の柵、苔むした岩壁など燕温泉の特徴的な景観が確認できます。"
     }
-   ]
-  },
-  {
-   "id": "tazawa-nagano",
-   "name": "田沢温泉",
-   "title": "File:Yugawa River in Aoki Nagano Japan.jpg",
-   "placeCheck": "ok",
-   "credit": {
-    "author": "Triglav",
-    "license": "CC BY-SA 3.0",
-    "url": "https://commons.wikimedia.org/wiki/File:Yugawa_River_in_Aoki_Nagano_Japan.jpg",
-    "attributionRequired": true
-   },
-   "verdict": {
-    "haiku": {
-     "verdict": "ok",
-     "identifiable": true,
-     "reason": "温泉街の風情ある石畳路、湯屋建築、湯音川、山々の風景が写っており、田沢温泉の特徴的な景観を表現している。"
-    }
-   },
-   "tried": [
-    {
-     "title": "File:Yugawa River in Aoki Nagano Japan.jpg",
-     "stage": "haiku",
-     "placeCheck": "ok",
-     "verdict": "ok",
-     "identifiable": true,
-     "reason": "温泉街の風情ある石畳路、湯屋建築、湯音川、山々の風景が写っており、田沢温泉の特徴的な景観を表現している。"
-    }
-   ]
-  },
-  {
-   "id": "hirayu",
-   "name": "新穂高温泉",
-   "title": "File:View around Shinhotaka Onsen Station.jpg",
-   "placeCheck": "ok",
-   "credit": {
-    "author": "Tmv",
-    "license": "CC BY 4.0",
-    "url": "https://commons.wikimedia.org/wiki/File:View_around_Shinhotaka_Onsen_Station.jpg",
-    "attributionRequired": true
-   },
-   "verdict": {
-    "haiku": {
-     "verdict": "ok",
-     "identifiable": true,
-     "reason": "北アルプスの渓流と特徴的な谷地形、石積み護岸が新穂高温泉の地理的特徴を示している"
-    }
-   },
-   "tried": [
-    {
-     "title": "File:View around Shinhotaka Onsen Station.jpg",
-     "stage": "haiku",
-     "placeCheck": "ok",
-     "verdict": "ok",
-     "identifiable": true,
-     "reason": "北アルプスの渓流と特徴的な谷地形、石積み護岸が新穂高温泉の地理的特徴を示している"
-    }
-   ]
-  },
-  {
-   "id": "shimobe",
-   "name": "下部温泉",
-   "title": "File:JR Central Shimobe-onsen Station building.jpg",
-   "placeCheck": "ok",
-   "credit": {
-    "author": "Mister0124",
-    "license": "CC BY-SA 4.0",
-    "url": "https://commons.wikimedia.org/wiki/File:JR_Central_Shimobe-onsen_Station_building.jpg",
-    "attributionRequired": true
-   },
-   "verdict": {
-    "haiku": {
-     "verdict": "ok",
-     "identifiable": true,
-     "reason": "駅舎と山々の風景が映り、下部温泉駅として識別可能。温泉地の雰囲気が良好。"
-    }
-   },
-   "tried": [
-    {
-     "title": "File:JR Central Shimobe-onsen Station building.jpg",
-     "stage": "haiku",
-     "placeCheck": "ok",
-     "verdict": "ok",
-     "identifiable": true,
-     "reason": "駅舎と山々の風景が映り、下部温泉駅として識別可能。温泉地の雰囲気が良好。"
-    }
-   ]
+   ],
+   "visualCheck": "河原の湯の白濁湯船。良好"
   },
   {
    "id": "yumata",
@@ -444,7 +269,8 @@
       "reason": "噴湯丘と緑色の湯溜まり・山岳渓谷地形が湯俣温泉の特徴と合致"
      }
     }
-   ]
+   ],
+   "visualCheck": "噴湯丘と湧出池。良好"
   },
   {
    "id": "kamikitayama",
@@ -473,7 +299,8 @@
      "identifiable": true,
      "reason": "温泉施設の露天風呂と看板が見え、山奥の自然環境が入之波温泉の特徴を示している"
     }
-   ]
+   ],
+   "visualCheck": "山鳩湯の建物。可"
   },
   {
    "id": "iwai-tottori",
@@ -525,7 +352,8 @@
      "identifiable": true,
      "reason": "岩井温泉の看板が明確に写っており、温泉街の伝統的な街並みと建築が確認できます。"
     }
-   ]
+   ],
+   "visualCheck": "温泉街のゲートと岩井屋。良好"
   },
   {
    "id": "misasa2",
@@ -554,7 +382,8 @@
      "identifiable": true,
      "reason": "温泉施設の外観が明確に写っており、日本の温泉地の典型的な建築様式。関金温泉の施設として判定可能。"
     }
-   ]
+   ],
+   "visualCheck": "現代的な温泉施設の外観。弱い"
   },
   {
    "id": "yuki-hiroshima",
@@ -583,7 +412,8 @@
      "identifiable": true,
      "reason": "温泉街の風情、川、山並み、橋、施設建築が湯来温泉の特徴を示している"
     }
-   ]
+   ],
+   "visualCheck": "川沿いの施設。可"
   },
   {
    "id": "motoyu-shikoku",
@@ -624,7 +454,38 @@
       "reason": "温泉施設と思われる建物外観・山間の立地が確認でき、看板らしき文字も見える"
      }
     }
-   ]
+   ],
+   "visualCheck": "本谷温泉館の外観。可"
+  },
+  {
+   "id": "seorasou",
+   "name": "瀬見温泉",
+   "title": "File:Semi-Onsen street in Mogami, Yamagata.JPG",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Suz-b",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Semi-Onsen_street_in_Mogami,_Yamagata.JPG",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "温泉街の風情ある建造物と看板が写っており、瀬見温泉の特徴的な街並みを表現している"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Semi-Onsen street in Mogami, Yamagata.JPG",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "温泉街の風情ある建造物と看板が写っており、瀬見温泉の特徴的な街並みを表現している"
+    }
+   ],
+   "visualCheck": "温泉街と木造の喜至楼。良好（駅名標から差し替え済み）"
   }
  ],
  "rejected": [
@@ -669,6 +530,29 @@
    "name": "栃尾温泉",
    "reason": "合格画像なし",
    "tried": []
+  },
+  {
+   "id": "shimobe",
+   "name": "下部温泉",
+   "reason": "Commonsに駅舎・ホームの写真しかなく温泉そのものの画像がない"
+  },
+  {
+   "id": "tazawa-nagano",
+   "name": "田沢温泉",
+   "reason": "Commonsに温泉を写した規定サイズの画像がない（川の風景のみ）"
+  },
+  {
+   "id": "nishizawa",
+   "name": "西沢渓谷",
+   "reason": "温泉ではなく渓谷。秘湯・一軒宿の対象外"
+  },
+  {
+   "id": "hirayu",
+   "reason": "山の写真のみで温泉が写っていない。奥飛騨温泉郷は知名度も高く「大手に載らないレベル」の条件からも外れる"
+  },
+  {
+   "id": "tsuchiyu",
+   "reason": "温泉街の規模が大きく（宿16軒超・鉄筋の大型旅館）、宿数が極めて少ない秘湯という条件に合わない"
   }
  ]
 }
