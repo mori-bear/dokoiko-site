@@ -1,0 +1,674 @@
+{
+ "adopted": [
+  {
+   "id": "horoka",
+   "name": "幌加温泉",
+   "title": "File:鹿の谷の鹿（Deer springs） - panoramio.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "pakku",
+    "license": "CC BY 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:%E9%B9%BF%E3%81%AE%E8%B0%B7%E3%81%AE%E9%B9%BF%EF%BC%88Deer_springs%EF%BC%89_-_panoramio.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "建物に『松の湯』と書かれた看板があり、雪景色の温泉施設として識別可能。北海道の冬の温泉地の雰囲気が伝わる。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:鹿の谷の鹿（Deer springs） - panoramio.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "建物に『松の湯』と書かれた看板があり、雪景色の温泉施設として識別可能。北海道の冬の温泉地の雰囲気が伝わる。"
+    }
+   ]
+  },
+  {
+   "id": "osawa-onsen",
+   "name": "大沢温泉",
+   "title": "File:Osawa Onsen Kikusuikan.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "掬茶",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Osawa_Onsen_Kikusuikan.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "大沢温泉の特徴的な木造建築と川沿いの風情が明確。緑に囲まれた湯屋の造りが典型的。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Osawa Onsen Kikusuikan.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "大沢温泉の特徴的な木造建築と川沿いの風情が明確。緑に囲まれた湯屋の造りが典型的。"
+    }
+   ]
+  },
+  {
+   "id": "yubama",
+   "name": "湯浜温泉",
+   "title": "File:湯浜温泉 三浦旅館.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Takasaki001",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:%E6%B9%AF%E6%B5%9C%E6%B8%A9%E6%B3%89_%E4%B8%89%E6%B5%A6%E6%97%85%E9%A4%A8.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "湯浜温泉の温泉旅館の外観。看板に「三浦旅館」と温泉地名が確認でき、木造建築の湯屋の特徴的な造りが写っている。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:湯浜温泉 三浦旅館.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "湯浜温泉の温泉旅館の外観。看板に「三浦旅館」と温泉地名が確認でき、木造建築の湯屋の特徴的な造りが写っている。"
+    }
+   ]
+  },
+  {
+   "id": "kanigasaki",
+   "name": "蟹場温泉",
+   "title": "File:Ganiba Onsen 20201122.jpg",
+   "placeCheck": "weak",
+   "credit": {
+    "author": "Suicasmo",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Ganiba_Onsen_20201122.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "温泉施設の建物と看板が写っており、蟹場温泉の特定が可能。山地の景観も合致。"
+    },
+    "sonnet": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "蟹場温泉の看板と宿舎外観が明確に写っている"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Ganiba Onsen 20201122.jpg",
+     "stage": "sonnet",
+     "placeCheck": "weak",
+     "haiku": {
+      "verdict": "ok",
+      "identifiable": true,
+      "reason": "温泉施設の建物と看板が写っており、蟹場温泉の特定が可能。山地の景観も合致。"
+     },
+     "sonnet": {
+      "verdict": "ok",
+      "identifiable": true,
+      "reason": "蟹場温泉の看板と宿舎外観が明確に写っている"
+     }
+    }
+   ]
+  },
+  {
+   "id": "utto",
+   "name": "打当温泉",
+   "title": "File:打当温泉マタギの湯 - panoramio (1).jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "くろふね",
+    "license": "CC BY 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:%E6%89%93%E5%BD%93%E6%B8%A9%E6%B3%89%E3%83%9E%E3%82%BF%E3%82%AE%E3%81%AE%E6%B9%AF_-_panoramio_(1).jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "打当温泉の施設建物と雪景色が明確に写っており、秋田の冬の温泉地の特徴を示す適切な紹介画像。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:打当温泉マタギの湯 - panoramio.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "駐車場・休憩所の施設が中心。温泉地の特徴（浴場建物・湯気・源泉など）が見当たらない。"
+    },
+    {
+     "title": "File:打当温泉マタギの湯 - panoramio (1).jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "打当温泉の施設建物と雪景色が明確に写っており、秋田の冬の温泉地の特徴を示す適切な紹介画像。"
+    }
+   ]
+  },
+  {
+   "id": "seorasou",
+   "name": "瀬見温泉",
+   "title": "File:Semi-Onsen-Station-Board.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Smi305",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Semi-Onsen-Station-Board.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "瀬見温泉の案内看板が明確に写っており、温泉地の景観と施設が確認できる。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:JR East Semi-Onsen Station Platform, Yamagata Pref.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "駅舎や駅名標は見えますが、瀬見温泉の特徴的な温泉施設や温泉地らしさが写っていません。単なる駅の風景です。"
+    },
+    {
+     "title": "File:Semi-Onsen-Station-Board.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "瀬見温泉の案内看板が明確に写っており、温泉地の景観と施設が確認できる。"
+    }
+   ]
+  },
+  {
+   "id": "tsuchiyu",
+   "name": "土湯温泉",
+   "title": "File:Tsuchiyu Onsen 100808.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Yauchi",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Tsuchiyu_Onsen_100808.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "温泉街の建物群、渓流、山々の地形が土湯温泉の特徴を示しており、温泉地として識別可能。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Tsuchiyu Onsen 100808.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "温泉街の建物群、渓流、山々の地形が土湯温泉の特徴を示しており、温泉地として識別可能。"
+    }
+   ]
+  },
+  {
+   "id": "yunohana-fk",
+   "name": "湯ノ花温泉",
+   "title": "File:Yunohana Onsen Ishiyu.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "ブルーノ・プラス",
+    "license": "CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Yunohana_Onsen_Ishiyu.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "湯ノ花温泉の特徴的な木造湯小屋と清流、周囲の緑豊かな山景が写っており、温泉地の雰囲気が明確に伝わる"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Yunohana Onsen Ishiyu.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "湯ノ花温泉の特徴的な木造湯小屋と清流、周囲の緑豊かな山景が写っており、温泉地の雰囲気が明確に伝わる"
+    }
+   ]
+  },
+  {
+   "id": "nishizawa",
+   "name": "西沢渓谷",
+   "title": "File:Nishizawa-Valley.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Jordy Meow",
+    "license": "CC BY 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Nishizawa-Valley.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "西沢渓谷特有の青白い滝と清流、岩壁、紅葉樹林が確認でき、同地の景観を代表する写真。明るく鮮明。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Nishizawa-Valley.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "西沢渓谷特有の青白い滝と清流、岩壁、紅葉樹林が確認でき、同地の景観を代表する写真。明るく鮮明。"
+    }
+   ]
+  },
+  {
+   "id": "tsubame-onsen",
+   "name": "燕温泉",
+   "title": "File:TsubameOnsen kawaranoyu1.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Siriusplot",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:TsubameOnsen_kawaranoyu1.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "白濁した露天風呂、木製の柵、苔むした岩壁など燕温泉の特徴的な景観が確認できます。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:TsubameOnsen kawaranoyu1.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "白濁した露天風呂、木製の柵、苔むした岩壁など燕温泉の特徴的な景観が確認できます。"
+    }
+   ]
+  },
+  {
+   "id": "tazawa-nagano",
+   "name": "田沢温泉",
+   "title": "File:Yugawa River in Aoki Nagano Japan.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Triglav",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Yugawa_River_in_Aoki_Nagano_Japan.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "温泉街の風情ある石畳路、湯屋建築、湯音川、山々の風景が写っており、田沢温泉の特徴的な景観を表現している。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Yugawa River in Aoki Nagano Japan.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "温泉街の風情ある石畳路、湯屋建築、湯音川、山々の風景が写っており、田沢温泉の特徴的な景観を表現している。"
+    }
+   ]
+  },
+  {
+   "id": "hirayu",
+   "name": "新穂高温泉",
+   "title": "File:View around Shinhotaka Onsen Station.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Tmv",
+    "license": "CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:View_around_Shinhotaka_Onsen_Station.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "北アルプスの渓流と特徴的な谷地形、石積み護岸が新穂高温泉の地理的特徴を示している"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:View around Shinhotaka Onsen Station.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "北アルプスの渓流と特徴的な谷地形、石積み護岸が新穂高温泉の地理的特徴を示している"
+    }
+   ]
+  },
+  {
+   "id": "shimobe",
+   "name": "下部温泉",
+   "title": "File:JR Central Shimobe-onsen Station building.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Mister0124",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:JR_Central_Shimobe-onsen_Station_building.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "駅舎と山々の風景が映り、下部温泉駅として識別可能。温泉地の雰囲気が良好。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:JR Central Shimobe-onsen Station building.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "駅舎と山々の風景が映り、下部温泉駅として識別可能。温泉地の雰囲気が良好。"
+    }
+   ]
+  },
+  {
+   "id": "yumata",
+   "name": "湯俣温泉",
+   "title": "File:高瀬渓谷の噴湯丘2.jpg",
+   "placeCheck": "weak",
+   "credit": {
+    "author": "Koda6029",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:%E9%AB%98%E7%80%AC%E6%B8%93%E8%B0%B7%E3%81%AE%E5%99%B4%E6%B9%AF%E4%B8%982.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "湯気が立つ温泉池と渓谷の地形、硫黄成分による水の色合いが湯俣温泉の特徴を示している"
+    },
+    "sonnet": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "噴湯丘と緑色の湯溜まり・山岳渓谷地形が湯俣温泉の特徴と合致"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:高瀬渓谷の噴湯丘2.jpg",
+     "stage": "sonnet",
+     "placeCheck": "weak",
+     "haiku": {
+      "verdict": "ok",
+      "identifiable": true,
+      "reason": "湯気が立つ温泉池と渓谷の地形、硫黄成分による水の色合いが湯俣温泉の特徴を示している"
+     },
+     "sonnet": {
+      "verdict": "ok",
+      "identifiable": true,
+      "reason": "噴湯丘と緑色の湯溜まり・山岳渓谷地形が湯俣温泉の特徴と合致"
+     }
+    }
+   ]
+  },
+  {
+   "id": "kamikitayama",
+   "name": "入之波温泉",
+   "title": "File:入之波温泉湯元 山鳩湯PB242532.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Akiyoshi's Room",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:%E5%85%A5%E4%B9%8B%E6%B3%A2%E6%B8%A9%E6%B3%89%E6%B9%AF%E5%85%83_%E5%B1%B1%E9%B3%A9%E6%B9%AFPB242532.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "温泉施設の露天風呂と看板が見え、山奥の自然環境が入之波温泉の特徴を示している"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:入之波温泉湯元 山鳩湯PB242532.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "温泉施設の露天風呂と看板が見え、山奥の自然環境が入之波温泉の特徴を示している"
+    }
+   ]
+  },
+  {
+   "id": "iwai-tottori",
+   "name": "岩井温泉",
+   "title": "File:Iwaionsen-tottori1200.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "㭍月例祭",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Iwaionsen-tottori1200.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "岩井温泉の看板が明確に写っており、温泉街の伝統的な街並みと建築が確認できます。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Iwai-tougenji-tottori1200.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "寺院の写真で、温泉地の紹介に適切でない。岩井温泉を特定する手がかりがない。"
+    },
+    {
+     "title": "File:Iwaionsen and River Gamo.jpg",
+     "stage": "sonnet",
+     "placeCheck": "ok",
+     "haiku": {
+      "verdict": "ok",
+      "identifiable": false,
+      "reason": "岩井温泉の立地を表現した良好な風景写真だが、温泉地を特定する看板や建造物が不足している。"
+     },
+     "sonnet": {
+      "verdict": "ng",
+      "identifiable": false,
+      "reason": "山間の集落風景のみで岩井温泉を特定できる看板や特徴的建造物が写っていない"
+     }
+    },
+    {
+     "title": "File:Iwaionsen-tottori1200.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "岩井温泉の看板が明確に写っており、温泉街の伝統的な街並みと建築が確認できます。"
+    }
+   ]
+  },
+  {
+   "id": "misasa2",
+   "name": "関金温泉",
+   "title": "File:Sekigane onsen Yumeikan.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "運動会プロテインパワー",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Sekigane_onsen_Yumeikan.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "温泉施設の外観が明確に写っており、日本の温泉地の典型的な建築様式。関金温泉の施設として判定可能。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Sekigane onsen Yumeikan.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "温泉施設の外観が明確に写っており、日本の温泉地の典型的な建築様式。関金温泉の施設として判定可能。"
+    }
+   ]
+  },
+  {
+   "id": "yuki-hiroshima",
+   "name": "湯来温泉",
+   "title": "File:Yuki Onsen (Hiroshima) 01.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "windowmoon",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Yuki_Onsen_(Hiroshima)_01.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "温泉街の風情、川、山並み、橋、施設建築が湯来温泉の特徴を示している"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Yuki Onsen (Hiroshima) 01.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "温泉街の風情、川、山並み、橋、施設建築が湯来温泉の特徴を示している"
+    }
+   ]
+  },
+  {
+   "id": "motoyu-shikoku",
+   "name": "本谷温泉",
+   "title": "File:Hontani Onsen.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "ja:地方の田舎もの",
+    "license": "CC BY 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Hontani_Onsen.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": false,
+     "reason": "温泉施設の外観が写っており、山林に囲まれた自然環境が見える。ただし看板がなく本谷温泉特定は難しい。"
+    },
+    "sonnet": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "温泉施設と思われる建物外観・山間の立地が確認でき、看板らしき文字も見える"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Hontani Onsen.jpg",
+     "stage": "sonnet",
+     "placeCheck": "ok",
+     "haiku": {
+      "verdict": "ok",
+      "identifiable": false,
+      "reason": "温泉施設の外観が写っており、山林に囲まれた自然環境が見える。ただし看板がなく本谷温泉特定は難しい。"
+     },
+     "sonnet": {
+      "verdict": "ok",
+      "identifiable": true,
+      "reason": "温泉施設と思われる建物外観・山間の立地が確認でき、看板らしき文字も見える"
+     }
+    }
+   ]
+  }
+ ],
+ "rejected": [
+  {
+   "id": "sugo",
+   "name": "巣郷温泉",
+   "reason": "合格画像なし",
+   "tried": []
+  },
+  {
+   "id": "numajiri",
+   "name": "沼尻温泉",
+   "reason": "合格画像なし",
+   "tried": []
+  },
+  {
+   "id": "teshirosawa",
+   "name": "手白澤温泉",
+   "reason": "合格画像なし",
+   "tried": []
+  },
+  {
+   "id": "tsukiyono",
+   "name": "湯宿温泉",
+   "reason": "合格画像なし",
+   "tried": []
+  },
+  {
+   "id": "kawaura",
+   "name": "川浦温泉",
+   "reason": "合格画像なし",
+   "tried": []
+  },
+  {
+   "id": "kusatsu-sainokawara",
+   "name": "応徳温泉",
+   "reason": "合格画像なし",
+   "tried": []
+  },
+  {
+   "id": "tochio",
+   "name": "栃尾温泉",
+   "reason": "合格画像なし",
+   "tried": []
+  }
+ ]
+}
