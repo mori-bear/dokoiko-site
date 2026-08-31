@@ -27,7 +27,8 @@
      "identifiable": true,
      "reason": "湯の山温泉の象徴的な白いドーム型建築物と山林の風景が明確に映っており、当地の特徴を示す適切な画像"
     }
-   ]
+   ],
+   "visualCheck": "温泉街の俯瞰。可"
   },
   {
    "id": "yumura-hyogo",
@@ -56,7 +57,8 @@
      "identifiable": true,
      "reason": "湯村温泉の特徴的な足湯施設と温泉街の風景が明確に写っており、識別可能"
     }
-   ]
+   ],
+   "visualCheck": "荒湯周辺の街並み。可"
   },
   {
    "id": "shioda",
@@ -85,7 +87,8 @@
      "identifiable": true,
      "reason": "温泉旅館の建築、庭園、池、赤い橋など塩田温泉の典型的な風景が写っており、場所の特定が可能。"
     }
-   ]
+   ],
+   "visualCheck": "湯元上山旅館の建物。可"
   },
   {
    "id": "sumoto-onsen",
@@ -122,7 +125,8 @@
      "identifiable": true,
      "reason": "温泉旅館のプール施設と淡路島の海景が見え、洲本温泉の特徴的な景観が表現されている"
     }
-   ]
+   ],
+   "visualCheck": "海沿いの温泉街。可"
   },
   {
    "id": "togo",
@@ -151,7 +155,8 @@
      "identifiable": true,
      "reason": "東郷温泉の特徴的な緑色の瓦屋根建築と施設外観が明確に写っており、温泉地の紹介画像として適切。"
     }
-   ]
+   ],
+   "visualCheck": "東郷湖畔の温泉街。可"
   },
   {
    "id": "yoshioka",
@@ -188,7 +193,8 @@
      "identifiable": true,
      "reason": "吉岡温泉の看板が明確に映っており、温泉地の風情ある街並みが撮影されている。紹介画像として適切。"
     }
-   ]
+   ],
+   "visualCheck": "温泉街。可"
   },
   {
    "id": "arifuku",
@@ -217,7 +223,8 @@
      "identifiable": true,
      "reason": "温泉街の伝統的建築群、赤提灯、石垣など有福温泉の特徴的景観が明確に写っている"
     }
-   ]
+   ],
+   "visualCheck": "有福温泉の中心部。可"
   },
   {
    "id": "izumoyumura",
@@ -246,7 +253,8 @@
      "identifiable": true,
      "reason": "温泉宿の建築様式、雪景色、露天風呂の造り、看板が確認でき、出雲湯村温泉の特徴が明確に表現されている。"
     }
-   ]
+   ],
+   "visualCheck": "出雲湯村の湯船周辺。可"
   },
   {
    "id": "miyahama",
@@ -275,7 +283,8 @@
      "identifiable": true,
      "reason": "宮浜温泉の看板と温泉源泉地の石碑が明確に写っており、温泉地の特徴を示す画像として適切。"
     }
-   ]
+   ],
+   "visualCheck": "源泉地。可"
   },
   {
    "id": "nagatoyumoto",
@@ -304,7 +313,8 @@
      "identifiable": true,
      "reason": "温泉地の大型旅館群と山裾の風景が撮影されており、長門湯本温泉の温泉地としての特徴が表現されている。"
     }
-   ]
+   ],
+   "visualCheck": "音信川沿いのホテル。可（2011年撮影）"
   },
   {
    "id": "tawarayama",
@@ -333,7 +343,8 @@
      "identifiable": true,
      "reason": "温泉街の看板や旅館の暖簾、山景が写っており、俵山温泉の特徴的な街並みが明確に映っている"
     }
-   ]
+   ],
+   "visualCheck": "湯治場の路地と町の湯。良好"
   },
   {
    "id": "yuno-yamaguchi",
@@ -362,7 +373,8 @@
      "identifiable": true,
      "reason": "温泉旅館の庭園、石畳の通路、伝統的建築、山々の背景が写っており、温泉地らしい雰囲気が明確に表現されている。"
     }
-   ]
+   ],
+   "visualCheck": "湯野温泉の集落。可"
   },
   {
    "id": "nibukawa",
@@ -391,7 +403,8 @@
      "identifiable": true,
      "reason": "温泉施設と山々の風景、看板に日本語表記があり温泉地の雰囲気が明確。季節感も良好。"
     }
-   ]
+   ],
+   "visualCheck": "鈍川温泉の施設。可"
   },
   {
    "id": "yunoura",
@@ -420,7 +433,8 @@
      "identifiable": true,
      "reason": "湯ノ浦温泉への案内看板が明確に写っており、温泉地の入口風景として特定可能。良好な天候と周辺環境も紹介に適切。"
     }
-   ]
+   ],
+   "visualCheck": "道の駅今治湯ノ浦温泉。弱い"
   },
   {
    "id": "hatogayu",
@@ -457,7 +471,8 @@
      "identifiable": true,
      "reason": "鳩ヶ湯温泉の看板が右建物に明確に見える。温泉旅館の外観と湯けむりが写っており、温泉地の雰囲気が伝わる。"
     }
-   ]
+   ],
+   "visualCheck": "鳩ヶ湯温泉の建物。可"
   },
   {
    "id": "chugu",
@@ -486,36 +501,8 @@
      "identifiable": true,
      "reason": "露天風呂の木樽浴槽が写っており、中宮温泉の特徴的な湯船の造りが確認できる。山間の自然環境も合致している。"
     }
-   ]
-  },
-  {
-   "id": "ichirino",
-   "name": "白山一里野温泉",
-   "title": "File:Hakusan Ichirino Onsen Ski.jpg",
-   "placeCheck": "ok",
-   "credit": {
-    "author": "Saigawasakurabashi",
-    "license": "CC BY-SA 3.0",
-    "url": "https://commons.wikimedia.org/wiki/File:Hakusan_Ichirino_Onsen_Ski.jpg",
-    "attributionRequired": true
-   },
-   "verdict": {
-    "haiku": {
-     "verdict": "ok",
-     "identifiable": true,
-     "reason": "白山一里野温泉のスキー場と看板、ユニークな手の造形物が確認でき、その場所を特定できる。"
-    }
-   },
-   "tried": [
-    {
-     "title": "File:Hakusan Ichirino Onsen Ski.jpg",
-     "stage": "haiku",
-     "placeCheck": "ok",
-     "verdict": "ok",
-     "identifiable": true,
-     "reason": "白山一里野温泉のスキー場と看板、ユニークな手の造形物が確認でき、その場所を特定できる。"
-    }
-   ]
+   ],
+   "visualCheck": "木の露天風呂。良好"
   },
   {
    "id": "shikano",
@@ -575,7 +562,8 @@
      "identifiable": true,
      "reason": "露天風呂の木製浴槽、大岩、温泉地の特徴的な造りが確認でき、鹿野温泉の雰囲気が伝わる"
     }
-   ]
+   ],
+   "visualCheck": "鹿野温泉の宿。可"
   }
  ],
  "rejected": [
@@ -745,6 +733,11 @@
      "reason": "農地と小規模施設の風景。川棚温泉の特徴的な温泉施設・湯屋・看板が見当たらず、地域を特定できる要素がない。"
     }
    ]
+  },
+  {
+   "id": "ichirino",
+   "name": "白山一里野温泉",
+   "reason": "画像がスキー場のゲレンデと遊具で温泉が写っていない"
   }
  ]
 }

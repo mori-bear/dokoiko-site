@@ -1,16 +1,16 @@
 #!/usr/bin/env node
 /** verifyHitouDeploy.mjs — 追加した秘湯ページとトップのバナーが本番に出ているかを実測する。 */
 const BASE = 'https://tabidokoiko.com';
-const NEW = ['namari-onsen', 'geto-onsen', 'matsukawa-iwate', 'gaga-onsen', 'kuroyu', 'doroyu',
-  'tokusa', 'kaikake', 'nakabusa', 'kuronagi', 'nigorigo', 'nishiyama-yama', 'umegashima'];
+const NEW = ['horoka', 'osawa-onsen', 'yubama', 'kanigasaki', 'utto', 'seorasou', 'yunohana-fk',
+  'tsubame-onsen', 'yumata', 'kamikitayama', 'iwai-tottori', 'misasa2', 'yuki-hiroshima'];
 
 const CHECKS = [
   ['/', 'kf-banner'],
   ['/', '/kyushu-fukko/'],
-  ['/destinations/namari-onsen/', '白猿の湯'],
-  ['/destinations/kuronagi/', '黒薙温泉旅館'],
-  ['/destinations/nishiyama-yama/', '慶雲館'],
-  ['/destinations/kuroyu/', '打たせ湯'],
+  ['/destinations/yubama/', 'ランプ'],
+  ['/destinations/kamikitayama/', '山鳩湯'],
+  ['/destinations/iwai-tottori/', '湯かむり'],
+  ['/destinations/yumata/', '晴嵐荘'],
 ];
 
 let ng = 0;
