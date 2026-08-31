@@ -1,5 +1,6 @@
 node_modules/
 dist/
 logs/shots-transport/
+logs/shots/
 .env
 .DS_Store

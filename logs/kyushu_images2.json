@@ -1,0 +1,41 @@
+{
+ "adopted": [
+  {
+   "id": "kannojigoku",
+   "name": "寒の地獄温泉",
+   "title": "File:Kan no Jigoku Onsen.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Totti",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Kan_no_Jigoku_Onsen.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "温泉施設の建築、湯色の流れ、秋冬の季節感が地獄温泉の特徴を示している"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Kan no Jigoku Onsen.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "温泉施設の建築、湯色の流れ、秋冬の季節感が地獄温泉の特徴を示している"
+    }
+   ]
+  }
+ ],
+ "rejected": [
+  {
+   "id": "kabeyu-onsen",
+   "name": "壁湯温泉",
+   "reason": "合格画像なし",
+   "tried": []
+  }
+ ]
+}

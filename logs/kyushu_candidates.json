@@ -1,0 +1,435 @@
+[
+  {
+    "id": "kabeyu-onsen",
+    "name": "壁湯温泉",
+    "prefecture": "大分県",
+    "wikiTitle": "壁湯温泉",
+    "osmQuery": "壁湯温泉 大分県九重町",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "取得不可 (wiki=x osm=x)"
+    },
+    "wiki": null,
+    "osm": null,
+    "pass": false
+  },
+  {
+    "id": "kawazoko-onsen",
+    "name": "川底温泉",
+    "prefecture": "大分県",
+    "wikiTitle": "川底温泉",
+    "osmQuery": "川底温泉 大分県九重町",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "取得不可 (wiki=x osm=x)"
+    },
+    "wiki": null,
+    "osm": null,
+    "pass": false
+  },
+  {
+    "id": "kannojigoku",
+    "name": "寒の地獄温泉",
+    "prefecture": "大分県",
+    "wikiTitle": "寒の地獄温泉",
+    "osmQuery": "寒の地獄旅館 大分県九重町",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "取得不可 (wiki=o osm=x)"
+    },
+    "wiki": {
+      "lat": 33.11347,
+      "lng": 131.22711
+    },
+    "osm": null,
+    "pass": false
+  },
+  {
+    "id": "hokkein-onsen",
+    "name": "法華院温泉",
+    "prefecture": "大分県",
+    "wikiTitle": "法華院温泉",
+    "osmQuery": "法華院温泉山荘 大分県竹田市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "取得不可 (wiki=x osm=o)"
+    },
+    "wiki": null,
+    "osm": {
+      "lat": 33.0964642,
+      "lng": 131.2554383
+    },
+    "pass": false
+  },
+  {
+    "id": "akagawa-onsen",
+    "name": "赤川温泉",
+    "prefecture": "大分県",
+    "wikiTitle": "赤川温泉",
+    "osmQuery": "赤川温泉 大分県竹田市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "取得不可 (wiki=x osm=x)"
+    },
+    "wiki": null,
+    "osm": null,
+    "pass": false
+  },
+  {
+    "id": "shichirida-onsen",
+    "name": "七里田温泉",
+    "prefecture": "大分県",
+    "wikiTitle": "七里田温泉",
+    "osmQuery": "七里田温泉 大分県竹田市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "取得不可 (wiki=x osm=o)"
+    },
+    "wiki": null,
+    "osm": {
+      "lat": 33.0698674,
+      "lng": 131.3297424
+    },
+    "pass": false
+  },
+  {
+    "id": "sujiyu-onsen",
+    "name": "筋湯温泉",
+    "prefecture": "大分県",
+    "wikiTitle": "筋湯温泉",
+    "osmQuery": "筋湯温泉 大分県九重町",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "取得不可 (wiki=o osm=x)"
+    },
+    "wiki": {
+      "lat": 33.11442,
+      "lng": 131.18633
+    },
+    "osm": null,
+    "pass": false
+  },
+  {
+    "id": "yunohira-onsen",
+    "name": "湯平温泉",
+    "prefecture": "大分県",
+    "wikiTitle": "湯平温泉",
+    "osmQuery": "湯平温泉 大分県由布市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.39km",
+      "nearby": "なし"
+    },
+    "wiki": {
+      "lat": 33.19228,
+      "lng": 131.32542
+    },
+    "osm": {
+      "lat": 33.195373,
+      "lng": 131.327419
+    },
+    "distanceKm": 0.39,
+    "lat": 33.19383,
+    "lng": 131.32642,
+    "pass": true
+  },
+  {
+    "id": "tarutama-onsen",
+    "name": "垂玉温泉",
+    "prefecture": "熊本県",
+    "wikiTitle": "垂玉温泉",
+    "osmQuery": "垂玉温泉 熊本県南阿蘇村",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "取得不可 (wiki=o osm=x)"
+    },
+    "wiki": {
+      "lat": 32.8625,
+      "lng": 131.035694
+    },
+    "osm": null,
+    "pass": false
+  },
+  {
+    "id": "manganji-onsen",
+    "name": "満願寺温泉",
+    "prefecture": "熊本県",
+    "wikiTitle": "満願寺温泉",
+    "osmQuery": "満願寺温泉 熊本県南小国町",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "取得不可 (wiki=x osm=o)"
+    },
+    "wiki": null,
+    "osm": {
+      "lat": 33.0802941,
+      "lng": 131.1462954
+    },
+    "pass": false
+  },
+  {
+    "id": "yunotsuru-onsen",
+    "name": "湯の鶴温泉",
+    "prefecture": "熊本県",
+    "wikiTitle": "湯の鶴温泉",
+    "osmQuery": "湯の鶴温泉 熊本県水俣市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.01km",
+      "nearby": "なし"
+    },
+    "wiki": {
+      "lat": 32.14747222,
+      "lng": 130.43955556
+    },
+    "osm": {
+      "lat": 32.1474025,
+      "lng": 130.4395156
+    },
+    "distanceKm": 0.01,
+    "lat": 32.14744,
+    "lng": 130.43954,
+    "pass": true
+  },
+  {
+    "id": "hagenoyu-onsen",
+    "name": "はげの湯温泉",
+    "prefecture": "熊本県",
+    "wikiTitle": "岳の湯温泉 (熊本県)",
+    "osmQuery": "はげの湯温泉 熊本県小国町",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "取得不可 (wiki=x osm=o)"
+    },
+    "wiki": null,
+    "osm": {
+      "lat": 33.153407,
+      "lng": 131.1377397
+    },
+    "pass": false
+  },
+  {
+    "id": "tsuetate-onsen",
+    "name": "杖立温泉",
+    "prefecture": "熊本県",
+    "wikiTitle": "杖立温泉",
+    "osmQuery": "杖立温泉 熊本県小国町",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 1.09km",
+      "nearby": "なし"
+    },
+    "wiki": {
+      "lat": 33.18256,
+      "lng": 131.03425
+    },
+    "osm": {
+      "lat": 33.1731919,
+      "lng": 131.0376677
+    },
+    "distanceKm": 1.09,
+    "lat": 33.17788,
+    "lng": 131.03596,
+    "pass": true
+  },
+  {
+    "id": "yukawachi-onsen",
+    "name": "湯川内温泉",
+    "prefecture": "鹿児島県",
+    "wikiTitle": "湯川内温泉",
+    "osmQuery": "湯川内温泉 鹿児島県出水市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "取得不可 (wiki=x osm=x)"
+    },
+    "wiki": null,
+    "osm": null,
+    "pass": false
+  },
+  {
+    "id": "shibi-onsen",
+    "name": "紫尾温泉",
+    "prefecture": "鹿児島県",
+    "wikiTitle": "紫尾温泉",
+    "osmQuery": "紫尾温泉 鹿児島県さつま町",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "取得不可 (wiki=x osm=x)"
+    },
+    "wiki": null,
+    "osm": null,
+    "pass": false
+  },
+  {
+    "id": "myoken-onsen",
+    "name": "妙見温泉",
+    "prefecture": "鹿児島県",
+    "wikiTitle": "妙見温泉",
+    "osmQuery": "妙見温泉 鹿児島県霧島市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "取得不可 (wiki=x osm=x)"
+    },
+    "wiki": null,
+    "osm": null,
+    "pass": false
+  },
+  {
+    "id": "takaki-onsen",
+    "name": "川内高城温泉",
+    "prefecture": "鹿児島県",
+    "wikiTitle": "川内高城温泉",
+    "osmQuery": "川内高城温泉 鹿児島県薩摩川内市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "取得不可 (wiki=o osm=x)"
+    },
+    "wiki": {
+      "lat": 31.91630556,
+      "lng": 130.25569444
+    },
+    "osm": null,
+    "pass": false
+  },
+  {
+    "id": "kyomachi-onsen",
+    "name": "京町温泉",
+    "prefecture": "宮崎県",
+    "wikiTitle": "京町温泉",
+    "osmQuery": "京町温泉 宮崎県えびの市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "取得不可 (wiki=x osm=x)"
+    },
+    "wiki": null,
+    "osm": null,
+    "pass": false
+  },
+  {
+    "id": "hinokage-onsen",
+    "name": "日之影温泉",
+    "prefecture": "宮崎県",
+    "wikiTitle": "日之影町",
+    "osmQuery": "日之影温泉駅 宮崎県日之影町",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 1.51km",
+      "nearby": "なし"
+    },
+    "wiki": {
+      "lat": 32.65953,
+      "lng": 131.38092
+    },
+    "osm": {
+      "lat": 32.6491587,
+      "lng": 131.3913659
+    },
+    "distanceKm": 1.51,
+    "lat": 32.65434,
+    "lng": 131.38614,
+    "pass": true
+  },
+  {
+    "id": "kumanokawa-onsen",
+    "name": "熊の川温泉",
+    "prefecture": "佐賀県",
+    "wikiTitle": "熊の川温泉",
+    "osmQuery": "熊の川温泉 佐賀県佐賀市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.20km",
+      "nearby": "なし"
+    },
+    "wiki": {
+      "lat": 33.36556,
+      "lng": 130.24175
+    },
+    "osm": {
+      "lat": 33.3640284,
+      "lng": 130.2405707
+    },
+    "distanceKm": 0.2,
+    "lat": 33.36479,
+    "lng": 130.24116,
+    "pass": true
+  },
+  {
+    "id": "furuyu-onsen",
+    "name": "古湯温泉",
+    "prefecture": "佐賀県",
+    "wikiTitle": "古湯温泉",
+    "osmQuery": "古湯温泉 佐賀県佐賀市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.14km",
+      "nearby": "なし"
+    },
+    "wiki": {
+      "lat": 33.37194,
+      "lng": 130.20653
+    },
+    "osm": {
+      "lat": 33.371769,
+      "lng": 130.2079794
+    },
+    "distanceKm": 0.14,
+    "lat": 33.37185,
+    "lng": 130.20725,
+    "pass": true
+  },
+  {
+    "id": "obama-onsen",
+    "name": "小浜温泉",
+    "prefecture": "長崎県",
+    "wikiTitle": "小浜温泉",
+    "osmQuery": "小浜温泉 長崎県雲仙市",
+    "checks": {
+      "duplicate": "類似名:小浜",
+      "coords": "一致 0.16km",
+      "nearby": "雲仙温泉(2.3km)"
+    },
+    "wiki": {
+      "lat": 32.72822,
+      "lng": 130.20714
+    },
+    "osm": {
+      "lat": 32.7296886,
+      "lng": 130.206928
+    },
+    "distanceKm": 0.16,
+    "lat": 32.72895,
+    "lng": 130.20703,
+    "pass": false
+  },
+  {
+    "id": "wakita-onsen",
+    "name": "脇田温泉",
+    "prefecture": "福岡県",
+    "wikiTitle": "脇田温泉",
+    "osmQuery": "脇田温泉 福岡県宮若市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "取得不可 (wiki=o osm=x)"
+    },
+    "wiki": {
+      "lat": 33.69242,
+      "lng": 130.58931
+    },
+    "osm": null,
+    "pass": false
+  },
+  {
+    "id": "hoshinomura",
+    "name": "星野村",
+    "prefecture": "福岡県",
+    "wikiTitle": "星野村",
+    "osmQuery": "星野村 福岡県八女市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "取得不可 (wiki=x osm=x)"
+    },
+    "wiki": null,
+    "osm": null,
+    "pass": false
+  }
+]

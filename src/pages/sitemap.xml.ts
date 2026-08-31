@@ -8,6 +8,7 @@ export const GET: APIRoute = () => {
   const urls: { loc: string; changefreq: string; priority: string }[] = [
     { loc: `${BASE}/`,              changefreq: 'weekly',  priority: '1.0' },
     { loc: `${BASE}/destinations/`, changefreq: 'weekly',  priority: '0.9' },
+    { loc: `${BASE}/kyushu-fukko/`, changefreq: 'weekly',  priority: '0.9' },
     ...(destinations as any[]).map(d => ({
       loc: `${BASE}/destinations/${d.id}/`,
       changefreq: 'monthly',

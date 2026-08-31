@@ -1,0 +1,101 @@
+[
+  {
+    "id": "sujiyu-onsen",
+    "name": "筋湯温泉",
+    "pref": "大分県",
+    "city": "九重町",
+    "expect": "九重町",
+    "spreadKm": 0.16,
+    "ok": true
+  },
+  {
+    "id": "hosenji-onsen",
+    "name": "宝泉寺温泉",
+    "pref": "大分県",
+    "city": "九重町",
+    "expect": "九重町",
+    "spreadKm": 1.89,
+    "ok": true
+  },
+  {
+    "id": "yunohira-onsen",
+    "name": "湯平温泉",
+    "pref": "大分県",
+    "city": "由布市",
+    "expect": "由布市",
+    "spreadKm": 2.72,
+    "ok": true
+  },
+  {
+    "id": "hagenoyu-onsen",
+    "name": "はげの湯温泉",
+    "pref": "熊本県",
+    "city": "小国町",
+    "expect": "小国町",
+    "spreadKm": 0.17,
+    "ok": true
+  },
+  {
+    "id": "hinagu-onsen",
+    "name": "日奈久温泉",
+    "pref": "熊本県",
+    "city": "八代市",
+    "expect": "八代市",
+    "spreadKm": 1.68,
+    "ok": true
+  },
+  {
+    "id": "yunotsuru-onsen",
+    "name": "湯の鶴温泉",
+    "pref": "熊本県",
+    "city": "水俣市",
+    "expect": "水俣市",
+    "spreadKm": 0.1,
+    "ok": true
+  },
+  {
+    "id": "tsuetate-onsen",
+    "name": "杖立温泉",
+    "pref": "熊本県",
+    "city": "小国町",
+    "expect": "小国町",
+    "spreadKm": 1.09,
+    "ok": true
+  },
+  {
+    "id": "funagoya-onsen",
+    "name": "船小屋温泉",
+    "pref": "福岡県",
+    "city": "筑後市",
+    "expect": "筑後市",
+    "spreadKm": 0.17,
+    "ok": true
+  },
+  {
+    "id": "kumanokawa-onsen",
+    "name": "熊の川温泉",
+    "pref": "佐賀県",
+    "city": "佐賀市",
+    "expect": "佐賀市",
+    "spreadKm": 0.2,
+    "ok": true
+  },
+  {
+    "id": "furuyu-onsen",
+    "name": "古湯温泉",
+    "pref": "佐賀県",
+    "city": "佐賀市",
+    "expect": "佐賀市",
+    "spreadKm": 0.14,
+    "ok": true
+  },
+  {
+    "id": "hinokage-onsen",
+    "name": "日之影温泉",
+    "pref": "宮崎県",
+    "city": "日之影町",
+    "expect": "日之影町",
+    "spreadKm": 1.51,
+    "ok": true
+  }
+]

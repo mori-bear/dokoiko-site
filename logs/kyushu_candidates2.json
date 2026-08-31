@@ -1,0 +1,353 @@
+[
+  {
+    "id": "kabeyu-onsen",
+    "name": "壁湯温泉",
+    "prefecture": "大分県",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "取得不可 (wiki=x osm=o)"
+    },
+    "wiki": null,
+    "osm": {
+      "lat": 43.0769308,
+      "lng": 145.1336738,
+      "label": "霧多布温泉 ゆうゆ, 浜中町道湯沸高台避難道路, 霧多布東四条一丁目, 霧多布東, 浜中町, 厚岸郡, 釧路総合振興局, 北海道, 北海道地方, 088-1514, 日本",
+      "q": "壁湯温泉"
+    },
+    "wikiTitle": null,
+    "osmQuery": "壁湯温泉",
+    "pass": false
+  },
+  {
+    "id": "kawazoko-onsen",
+    "name": "川底温泉",
+    "prefecture": "大分県",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "取得不可 (wiki=x osm=o)"
+    },
+    "wiki": null,
+    "osm": {
+      "lat": 36.3203882,
+      "lng": 136.3504996,
+      "label": "加賀温泉, 加賀温泉停車場線, 小菅波町一丁目, 小菅波町, 天日町, 加賀市, 石川県, 922-4023, 日本",
+      "q": "川底温泉"
+    },
+    "wikiTitle": null,
+    "osmQuery": "川底温泉",
+    "pass": false
+  },
+  {
+    "id": "kannojigoku",
+    "name": "寒の地獄温泉",
+    "prefecture": "大分県",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.08km",
+      "nearby": "久住高原(2.6km)"
+    },
+    "wiki": {
+      "lat": 33.11347,
+      "lng": 131.22711,
+      "title": "寒の地獄温泉"
+    },
+    "osm": {
+      "lat": 33.1127252,
+      "lng": 131.2270224,
+      "label": "寒の地獄旅館, 九重町, 玖珠郡, 大分県, 879-4911, 日本",
+      "q": "寒の地獄旅館"
+    },
+    "wikiTitle": "寒の地獄温泉",
+    "osmQuery": "寒の地獄旅館",
+    "distanceKm": 0.08,
+    "lat": 33.1131,
+    "lng": 131.22707,
+    "pass": false
+  },
+  {
+    "id": "hokkein-onsen",
+    "name": "法華院温泉",
+    "prefecture": "大分県",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "取得不可 (wiki=x osm=o)"
+    },
+    "wiki": null,
+    "osm": {
+      "lat": 33.0964642,
+      "lng": 131.2554383,
+      "label": "法華院温泉山荘, 竹田市, 大分県, 872-0202, 日本",
+      "q": "法華院温泉山荘"
+    },
+    "wikiTitle": null,
+    "osmQuery": "法華院温泉山荘",
+    "pass": false
+  },
+  {
+    "id": "akagawa-onsen",
+    "name": "赤川温泉",
+    "prefecture": "大分県",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "取得不可 (wiki=x osm=o)"
+    },
+    "wiki": null,
+    "osm": {
+      "lat": 36.9239536,
+      "lng": 138.4261646,
+      "label": "赤滝川, 豊郷, 野沢温泉村, 下高井郡, 長野県, 389-2502, 日本",
+      "q": "赤川温泉"
+    },
+    "wikiTitle": null,
+    "osmQuery": "赤川温泉",
+    "pass": false
+  },
+  {
+    "id": "shichirida-onsen",
+    "name": "七里田温泉",
+    "prefecture": "大分県",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "取得不可 (wiki=x osm=o)"
+    },
+    "wiki": null,
+    "osm": {
+      "lat": 33.0698674,
+      "lng": 131.3297424,
+      "label": "七里田温泉;下の湯, 奥豊後グリーンロード（大野川上流広域農道）, 久住町大字仏原, 竹田市, 大分県, 日本",
+      "q": "七里田温泉"
+    },
+    "wikiTitle": null,
+    "osmQuery": "七里田温泉",
+    "pass": false
+  },
+  {
+    "id": "sujiyu-onsen",
+    "name": "筋湯温泉",
+    "prefecture": "大分県",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "不一致 248.47km"
+    },
+    "wiki": {
+      "lat": 33.11442,
+      "lng": 131.18633,
+      "title": "筋湯温泉"
+    },
+    "osm": {
+      "lat": 35.1150144,
+      "lng": 132.3851452,
+      "label": "山陰自動車道;仁摩・温泉津道路, 仁摩町馬路, 大田市, 島根県, 699-2502, 日本",
+      "q": "筋湯温泉"
+    },
+    "wikiTitle": "筋湯温泉",
+    "osmQuery": "筋湯温泉",
+    "distanceKm": 248.47,
+    "pass": false
+  },
+  {
+    "id": "tarutama-onsen",
+    "name": "垂玉温泉",
+    "prefecture": "熊本県",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "不一致 774.10km"
+    },
+    "wiki": {
+      "lat": 32.8625,
+      "lng": 131.035694,
+      "title": "垂玉温泉"
+    },
+    "osm": {
+      "lat": 35.6444107,
+      "lng": 138.6489968,
+      "label": "石和温泉停車場線, 石和町下平井, 笛吹市, 山梨県, 406-0027, 日本",
+      "q": "垂玉温泉"
+    },
+    "wikiTitle": "垂玉温泉",
+    "osmQuery": "垂玉温泉",
+    "distanceKm": 774.1,
+    "pass": false
+  },
+  {
+    "id": "manganji-onsen",
+    "name": "満願寺温泉",
+    "prefecture": "熊本県",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "取得不可 (wiki=x osm=o)"
+    },
+    "wiki": null,
+    "osm": {
+      "lat": 33.0809789,
+      "lng": 131.1380066,
+      "label": "黒川日帰り温泉;彩もみぢ, 国道442号, 満願寺, 黒川温泉, 南小国町, 阿蘇郡, 熊本県, 869-2402, 日本",
+      "q": "満願寺温泉"
+    },
+    "wikiTitle": null,
+    "osmQuery": "満願寺温泉",
+    "pass": false
+  },
+  {
+    "id": "hagenoyu-onsen",
+    "name": "はげの湯温泉",
+    "prefecture": "熊本県",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "取得不可 (wiki=x osm=o)"
+    },
+    "wiki": null,
+    "osm": {
+      "lat": 33.153407,
+      "lng": 131.1377397,
+      "label": "はげの湯温泉;くぬぎ湯, ファームロードWaita（小国広域農道）, 小国町, 阿蘇郡, 熊本県, 日本",
+      "q": "はげの湯温泉"
+    },
+    "wikiTitle": null,
+    "osmQuery": "はげの湯温泉",
+    "pass": false
+  },
+  {
+    "id": "yukawachi-onsen",
+    "name": "湯川内温泉",
+    "prefecture": "鹿児島県",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "取得不可 (wiki=x osm=o)"
+    },
+    "wiki": null,
+    "osm": {
+      "lat": 34.7393533,
+      "lng": 135.5985775,
+      "label": "常盤温泉, 守口門真線, 御堂町, 中町, 門真市, 大阪府, 571-0078, 日本",
+      "q": "湯川内温泉"
+    },
+    "wikiTitle": null,
+    "osmQuery": "湯川内温泉",
+    "pass": false
+  },
+  {
+    "id": "shibi-onsen",
+    "name": "紫尾温泉",
+    "prefecture": "鹿児島県",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "取得不可 (wiki=x osm=o)"
+    },
+    "wiki": null,
+    "osm": {
+      "lat": 44.6646869,
+      "lng": 142.2587113,
+      "label": "天塩川温泉, 国道40号, 咲来, 音威子府村, 中川郡(天塩国), 上川総合振興局, 北海道, 北海道地方, 日本",
+      "q": "紫尾温泉"
+    },
+    "wikiTitle": null,
+    "osmQuery": "紫尾温泉",
+    "pass": false
+  },
+  {
+    "id": "myoken-onsen",
+    "name": "妙見温泉",
+    "prefecture": "鹿児島県",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "取得不可 (wiki=x osm=o)"
+    },
+    "wiki": null,
+    "osm": {
+      "lat": 35.5557563,
+      "lng": 134.4897102,
+      "label": "日蓮宗 妙見堂, 国道9号, 湯, 新温泉町, 美方郡, 兵庫県, 669-6821, 日本",
+      "q": "妙見温泉"
+    },
+    "wikiTitle": null,
+    "osmQuery": "妙見温泉",
+    "pass": false
+  },
+  {
+    "id": "takaki-onsen",
+    "name": "川内高城温泉",
+    "prefecture": "鹿児島県",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "不一致 1318.02km"
+    },
+    "wiki": {
+      "lat": 31.91630556,
+      "lng": 130.25569444,
+      "title": "川内高城温泉"
+    },
+    "osm": {
+      "lat": 39.384088,
+      "lng": 141.1317307,
+      "label": "北上花巻温泉自転車道線, 高田, 花巻市, 岩手県, 025-0016, 日本",
+      "q": "川内高城温泉"
+    },
+    "wikiTitle": "川内高城温泉",
+    "osmQuery": "川内高城温泉",
+    "distanceKm": 1318.02,
+    "pass": false
+  },
+  {
+    "id": "kyomachi-onsen",
+    "name": "京町温泉",
+    "prefecture": "宮崎県",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "取得不可 (wiki=x osm=o)"
+    },
+    "wiki": null,
+    "osm": {
+      "lat": 33.2860301,
+      "lng": 131.5050656,
+      "label": "北浜テルマス温泉, 国道10号, 北浜三丁目, 北的ケ浜町, 別府市, 大分県, 874-0926, 日本",
+      "q": "京町温泉"
+    },
+    "wikiTitle": null,
+    "osmQuery": "京町温泉",
+    "pass": false
+  },
+  {
+    "id": "wakita-onsen",
+    "name": "脇田温泉",
+    "prefecture": "福岡県",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "不一致 96.96km"
+    },
+    "wiki": {
+      "lat": 33.69242,
+      "lng": 130.58931,
+      "title": "脇田温泉"
+    },
+    "osm": {
+      "lat": 33.2699788,
+      "lng": 131.5082172,
+      "label": "浜脇温泉, 1-8-20, 別府挾間線, 浜脇二丁目, 松原町, 別府市, 大分県, 874-0947, 日本",
+      "q": "脇田温泉"
+    },
+    "wikiTitle": "脇田温泉",
+    "osmQuery": "脇田温泉",
+    "distanceKm": 96.96,
+    "pass": false
+  },
+  {
+    "id": "hoshinomura",
+    "name": "星野村",
+    "prefecture": "福岡県",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "取得不可 (wiki=x osm=o)"
+    },
+    "wiki": null,
+    "osm": {
+      "lat": 33.249598,
+      "lng": 130.761118,
+      "label": "星野村, 八女市, 福岡県, 834-0201, 日本",
+      "q": "星野村 八女市"
+    },
+    "wikiTitle": null,
+    "osmQuery": "星野村 八女市",
+    "pass": false
+  }
+]

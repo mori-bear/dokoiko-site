@@ -1,0 +1,279 @@
+{
+ "adopted": [
+  {
+   "id": "yunohira-onsen",
+   "name": "湯平温泉",
+   "title": "File:Yunohira onsen.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "OitaKiseichu",
+    "license": "CC BY 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Yunohira_onsen.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "湯平温泉の特徴的な渓流沿いの建物群、石造りの橋、木造旅館の建築様式が確認でき、温泉地特有の景観が明確に写っている。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Yunohira onsen.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "湯平温泉の特徴的な渓流沿いの建物群、石造りの橋、木造旅館の建築様式が確認でき、温泉地特有の景観が明確に写っている。"
+    }
+   ]
+  },
+  {
+   "id": "hagenoyu-onsen",
+   "name": "はげの湯温泉",
+   "title": "File:はげの湯温泉2.JPG",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "unknown",
+    "license": "CC BY-SA 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:%E3%81%AF%E3%81%92%E3%81%AE%E6%B9%AF%E6%B8%A9%E6%B3%892.JPG",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "露天風呂と特徴的な大岩が写っており、はげの湯温泉の象徴的な風景として識別可能"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:はげの湯温泉2.JPG",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "露天風呂と特徴的な大岩が写っており、はげの湯温泉の象徴的な風景として識別可能"
+    }
+   ]
+  },
+  {
+   "id": "hinagu-onsen",
+   "name": "日奈久温泉",
+   "title": "File:Banpei-yu Hinagu Onsen 2025.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "ja:User:Sanjo",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Banpei-yu_Hinagu_Onsen_2025.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "日奈久温泉の共同湯施設と見られる建造物。伝統的な温泉街の雰囲気が明確に写っており、紹介画像として適切。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Banpei-yu Hinagu Onsen 2025.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "日奈久温泉の共同湯施設と見られる建造物。伝統的な温泉街の雰囲気が明確に写っており、紹介画像として適切。"
+    }
+   ]
+  },
+  {
+   "id": "yunotsuru-onsen",
+   "name": "湯の鶴温泉",
+   "title": "File:Yunotsuru Onsen.JPG",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "hyolee2",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Yunotsuru_Onsen.JPG",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "温泉浴槽の特徴的な造り、木製枠、湯の色合い、雪景色が湯の鶴温泉らしさを示している"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Yunotsuru Onsen.JPG",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "温泉浴槽の特徴的な造り、木製枠、湯の色合い、雪景色が湯の鶴温泉らしさを示している"
+    }
+   ]
+  },
+  {
+   "id": "tsuetate-onsen",
+   "name": "杖立温泉",
+   "title": "File:Tsuetate-hotspring01.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Miya.m",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Tsuetate-hotspring01.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "温泉街の建物配置、川、山々の地形が杖立温泉の特徴を示しており、温泉地の風景として識別可能。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Tsuetate-hotspring01.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "温泉街の建物配置、川、山々の地形が杖立温泉の特徴を示しており、温泉地の風景として識別可能。"
+    }
+   ]
+  },
+  {
+   "id": "funagoya-onsen",
+   "name": "船小屋温泉",
+   "title": "File:Entrance sign of Funagoya Onsen.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Peka",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Entrance_sign_of_Funagoya_Onsen.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "右手に『船小屋温泉』と書かれた看板があり、温泉街の景観が撮影されている。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Entrance sign of Funagoya Onsen.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "右手に『船小屋温泉』と書かれた看板があり、温泉街の景観が撮影されている。"
+    }
+   ]
+  },
+  {
+   "id": "kumanokawa-onsen",
+   "name": "熊の川温泉",
+   "title": "File:Kumanokawa Chidori no Yu entry signboard.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Peka",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Kumanokawa_Chidori_no_Yu_entry_signboard.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "温泉街の風情ある町並み、山々の地形、看板が確認でき、温泉地の雰囲気が伝わる。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Kumanokawa Chidori no Yu entry signboard.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "温泉街の風情ある町並み、山々の地形、看板が確認でき、温泉地の雰囲気が伝わる。"
+    }
+   ]
+  },
+  {
+   "id": "furuyu-onsen",
+   "name": "古湯温泉",
+   "title": "File:Furuyu Onsen town 1.JPG",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Pekachu",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Furuyu_Onsen_town_1.JPG",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "温泉街の湯屋建築、橋、山並み、案内看板が見え、古湯温泉の特徴的な風景が認識できる"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Furuyu Onsen town 1.JPG",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "温泉街の湯屋建築、橋、山並み、案内看板が見え、古湯温泉の特徴的な風景が認識できる"
+    }
+   ]
+  },
+  {
+   "id": "hinokage-onsen",
+   "name": "日之影温泉",
+   "title": "File:HinokageonsenSta2012.JPG",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "秋上久家",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:HinokageonsenSta2012.JPG",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "温泉施設の建物が明確に写っており、看板に温泉名が表示されている。山々に囲まれた地形も特徴的。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:HinokageonsenSta2012.JPG",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "温泉施設の建物が明確に写っており、看板に温泉名が表示されている。山々に囲まれた地形も特徴的。"
+    }
+   ]
+  }
+ ],
+ "rejected": [
+  {
+   "id": "sujiyu-onsen",
+   "name": "筋湯温泉",
+   "reason": "合格画像なし",
+   "tried": []
+  },
+  {
+   "id": "hosenji-onsen",
+   "name": "宝泉寺温泉",
+   "reason": "合格画像なし",
+   "tried": []
+  }
+ ]
+}

@@ -1,0 +1,166 @@
+総件数: 1220
+キー: id, name, type, region, hub, stayAllowed, departures, weight, description, tags, spots, shinkansenAccess, requiresCar, hotelSearch, gateways, accessHub, railNote, destType, railGateway, busGateway, ferryGateway, airportGateway, prefecture, lat, lng, stayBias, airportHub, railProvider, travelTime, stayRecommendation, secondaryTransport, city, hubStation, accessStation, hotelArea, jalanPath, hotelKeyword, access, fallbackCity, gateway, gatewayStations, localAccess, situations, catch, primary, secondary, onsenLevel, hasDirectFlight, mapPoint, subType, stayDescription, hubCity, stayPriority, representativeStation, finalAccess, accessPoint, staySearchUrl, bookingStation, mainSpot, stayArea, hotelLinks, tier, icCard, tier2, hubName, rentalCarRecommended, images, reasonChips, bestSeason, featured_stay
+
+--- 福岡県 (22件) ---
+  mojiko                       門司港  (33.9401,130.9695) [stay:プレミアホテル門司港]
+  itoshima                     糸島  (33.556,130.1797)
+  yanagawa                     柳川  (33.1635,130.4057) [stay:柳川藩主立花邸 御花]
+  dazaifu                      太宰府  (33.5137,130.5334) [stay:HOTEL CULTIA 太宰府]
+  kitakyushu                   北九州  (33.8834,130.8751)
+  asakura                      朝倉  (33.427,130.6632) [stay:原鶴温泉 泰泉閣]
+  kurume                       久留米  (33.3189,130.5081)
+  hiraodai                     平尾台  (33.7167,130.8417)
+  noko-island                  能古島  (33.64,130.34)
+  shikanoshima                 志賀島  (33.673,130.279) [stay:休暇村志賀島]
+  dazaifu-2                    太宰府  (33.521,130.534) [stay:二日市温泉 大丸別荘]
+  nakasu                       中洲屋台  (33.594,130.404)
+  umi-jigoku                   宇美八幡宮  (33.566,130.5)
+  chikugogawa                  原鶴温泉  (33.385,130.766) [stay:泰泉閣]
+  asakuradan                   秋月城下町  (33.53,130.671) [stay:秋月温泉 料亭旅館 清流庵]
+  fukuoka                      福岡  (33.5904,130.4017)
+  niche_福岡_2                   うきは市  (33.3473997,130.7552293)
+  niche_福岡_3                   嘉穂劇場  (33.5632103,130.7118029)
+  niche_福岡_4                   三井三池炭鉱  (33.047013,130.464155)
+  niche_福岡_6                   英彦山  (33.47611,130.92611)
+  niche_福岡_7                   福智山  (33.74219,130.80389)
+  yame                         八女  (33.211836,130.557915) [stay:NIPPONIA HOTEL 八女福島 商家町]
+
+--- 佐賀県 (19件) ---
+  ureshino-onsen               嬉野温泉  (33.1076,129.9943) [stay:大正屋]
+  takeo-onsen                  武雄温泉  (33.1936,130.0162) [stay:大正浪漫の宿 京都屋]
+  yoshinogari                  吉野ヶ里  (33.3256,130.4064)
+  karatsu                      唐津  (33.4458,129.9693) [stay:洋々閣]
+  yobuko                       呼子  (33.5456,129.8906)
+  arita                        有田  (33.1831,129.8869) [stay:arita huis（アリタハウス）]
+  kashima-saga                 鹿島  (33.1,130.1)
+  imari                        伊万里  (33.272,129.881)
+  saga-castle                  佐賀城  (33.243,130.3)
+  saga-balloon                 佐賀インターナショナルバ  (33.249,130.299)
+  mifuneyama                   御船山楽園  (33.197,130.013) [stay:御船山楽園ホテル]
+  yutoku-inari                 祐徳稲荷神社  (33.097,130.092)
+  saga-arima                   七ツ釜  (33.486,129.804) [stay:洋々閣]
+  niji-no-matsubara            虹の松原  (33.45,130.012)
+  saga-yoshino                 吉野ヶ里歴史公園  (33.327,130.388)
+  niche_佐賀_1                   白石温泉  (33.1625036,130.1427305)
+  niche_佐賀_5                   黒髪山  (33.2885725,130.1100243)
+  niche_佐賀_6                   太良町の海中鳥居  (33.0193802,130.1791833)
+  saga                         佐賀  (33.2494,130.2988) [stay:旅館あけぼの]
+
+--- 長崎県 (18件) ---
+  sasebo                       佐世保  (33.1603,129.715) [stay:ホテルヨーロッパ（ハウステンボス）]
+  hirado                       平戸  (33.3696,129.5492) [stay:国際観光ホテル旗松亭]
+  goto                         五島列島  (32.693,128.8356) [stay:五島リトリート ray by 温故知新]
+  unzen                        雲仙  (32.7561,130.276) [stay:Mt.Resort 雲仙九州ホテル]
+  shimabara                    島原  (32.7887,130.3669) [stay:ホテル南風楼]
+  hasami                       波佐見  (33.0981,129.8888)
+  tsushima                     対馬  (34.2017,129.2893) [stay:対馬グランドホテル]
+  iki-island                   壱岐  (33.7483,129.695) [stay:奥壱岐の千年湯 平山旅館]
+  ojika-island                 小値賀島  (33.1779,129.0808) [stay:五島列島おぢか島 古民家ステイ]
+  kugashima                    久賀島  (32.7169,128.8064)
+  unzen2                       雲仙温泉  (32.7403,130.187) [stay:雲仙観光ホテル]
+  hirado-island                平戸島  (33.371,129.553) [stay:国際観光ホテル旗松亭]
+  ikitsukijima                 生月島  (33.379,129.413)
+  fukue-island                 福江島  (32.689,128.84) [stay:五島リトリート ray by 温故知新]
+  ikeshima                     池島  (32.886,129.636)
+  nagasaki-city                長崎  (32.751,129.879) [stay:ガーデンテラス長崎 ホテル&リゾート]
+  niche_長崎_4                   権現山展望台  (32.8950926,129.7812261)
+  niche_長崎_7                   高島炭鉱遺跡  (32.6597278,129.751969)
+
+--- 熊本県 (19件) ---
+  kurokawa-k                   黒川温泉  (33.1022,131.0543) [stay:山の宿 新明館]
+  aso                          阿蘇  (32.8838,131.0878) [stay:阿蘇内牧温泉 蘇山郷]
+  amakusa                      天草  (32.4562,130.1906) [stay:石山離宮 五足のくつ]
+  hitoyoshi                    人吉  (32.2079,130.7645) [stay:人吉旅館]
+  minami-aso                   南阿蘇  (32.8193,131.0244) [stay:地獄温泉 青風荘]
+  kikuchi                      菊池  (32.9857,130.8215)
+  yamaga                       山鹿  (33.0156,130.6867) [stay:平山温泉 お宿 湯の蔵]
+  hitoyoshi-city               人吉・球磨  (32.215,130.7574) [stay:清流山水花 あゆの里]
+  yatsushiro                   八代  (32.5056,130.6008)
+  oguni-kumamoto               小国  (33.1254,131.074)
+  ushibuka                     牛深  (32.2028,130.0292)
+  kumamoto-castle              熊本城  (32.806,130.706) [stay:熊本ホテルキャッスル]
+  hitoyoshi-onsen              人吉温泉  (32.214,130.762) [stay:人吉旅館]
+  kumamoto-suizenji            水前寺成趣園  (32.787,130.747)
+  niche_熊本_1                   五木村の清流と棚田  (32.4203515,130.8407515)
+  niche_熊本_2                   産山村の星の宮古墳  (33.015436,131.207474)
+  niche_熊本_5                   菊池渓谷の滝群  (32.9798234,130.8131987)
+  niche_熊本_6                   白糸台地の棚田  (32.291777,130.838558)
+  niche_熊本_8                   三角町の漁師町  (32.647181,130.6839693)
+
+--- 大分県 (20件) ---
+  beppu                        別府  (33.2882,131.4917) [stay:AMANE RESORT SEIKAI（潮騒の宿 晴海）]
+  yufuin                       湯布院  (33.2641,131.3644) [stay:由布院 玉の湯]
+  bungo-takada                 豊後高田  (33.5613,131.4948)
+  taketa                       竹田  (32.9754,131.3963) [stay:長湯温泉 大丸旅館]
+  usuki                        臼杵  (33.1228,131.8019)
+  hita                         日田  (33.3217,130.94) [stay:日田温泉 亀山亭ホテル]
+  kitsuki                      杵築  (33.4169,131.6069)
+  kunisaki                     国東  (33.5592,131.7316)
+  nakatsu                      中津  (33.5985,131.1879)
+  himeshima                    姫島  (33.7213,131.6644)
+  hiji                         日出  (33.3755,131.5508)
+  saiki                        佐伯  (32.9667,131.9)
+  kuju-kogen                   久住高原  (33.1092,131.2543) [stay:レゾネイトクラブくじゅう]
+  yufuin-2                     由布院温泉  (33.265,131.351) [stay:亀の井別荘]
+  niche_長崎_3                   鶴御崎灯台  (32.93314,132.08539)
+  niche_大分_1                   佐賀関漁港と三浦海岸  (33.2490676,131.8665904)
+  niche_大分_2                   青の洞門と耶馬渓  (33.496263,131.169802)
+  niche_大分_3                   長湯温泉  (33.06364,131.365068)
+  niche_大分_4                   稲積水中鍾乳洞  (32.900632,131.543809)
+  oita                         大分  (33.233054,131.606243)
+
+--- 宮崎県 (23件) ---
+  takachiho                    高千穂  (32.7081,131.3003) [stay:旅館 神仙]
+  obi                          飫肥  (31.6604,131.3704) [stay:季楽 飫肥]
+  nichinan                     日南  (31.6026,131.4094) [stay:北郷 音色香の季 合歓のはな]
+  nobeoka                      延岡  (32.5818,131.668)
+  hyuga                        日向  (32.4218,131.6239)
+  ebino-kogen                  えびの高原  (31.9489,130.8048) [stay:えびの高原ホテル]
+  aoshima                      青島  (31.7822,131.4757)
+  ebino                        えびの  (32.0476,130.694)
+  miyakonojo                   都城  (31.7241,131.064)
+  takachihogo-shishiku         椎葉村  (32.4627,131.098) [stay:旅館 鶴富屋敷]
+  gokase                       五ヶ瀬  (32.8058,131.1056)
+  ikoma-kogen                  生駒高原  (31.9339,130.9258)
+  shiibamura                   椎葉村  (32.4833,131.0833) [stay:旅館 鶴富屋敷]
+  nichinan-coast               日南海岸  (31.617,131.378)
+  saitobaru                    西都原古墳群  (32.111,131.358)
+  nichinan-onsen               北郷温泉  (31.658,131.349) [stay:べっぴんの湯の宿 丸新荘]
+  niche_宮崎_2                   西米良村 仙人の湯  (32.2262835,131.1543871)
+  niche_宮崎_3                   みやざき地鶏の里  (32.5121707,131.3304503)
+  niche_宮崎_4                   渡川温泉  (31.9966841,130.9731456)
+  niche_宮崎_6                   観音池公園  (31.9373947,131.3397956)
+  niche_宮崎_7                   湯の元温泉  (32.276118,131.5081985)
+  niche_鹿児島_2                  関之尾滝  (31.76111111,130.98722222)
+  miyazaki                     宮崎  (31.9111,131.4239) [stay:天然温泉たまゆらの湯 宮崎観光ホテル]
+
+--- 鹿児島県 (27件) ---
+  yakushima                    屋久島  (30.3928,130.6576) [stay:sankara hotel&spa 屋久島]
+  ibusuki                      指宿  (31.2517,130.6306) [stay:指宿白水館]
+  amami                        奄美大島  (28.3769,129.4934) [stay:THE SCENE amami spa & resort]
+  tanegashima                  種子島  (30.743,130.976)
+  koshikijima                  甑島  (31.8189,129.9225) [stay:FUJIYA HOSTEL]
+  kirishima                    霧島  (31.8946,130.8578) [stay:霧島ホテル]
+  chiran                       知覧  (31.3716,130.4457)
+  minamikyushu                 南九州  (31.4064,130.4531)
+  minamiosumi                  南大隅  (31.2298,130.9778)
+  izumi-kagoshima              出水  (32.0867,130.3527) [stay:RITA 出水麓]
+  makurazaki                   枕崎  (31.2727,130.296)
+  hioki                        日置  (31.6151,130.3955) [stay:吹上温泉 湖畔の宿 みどり荘]
+  yoron-island                 与論島  (27.0453,128.41) [stay:プリシアリゾートヨロン]
+  kakeroma-island              加計呂麻島  (28.1167,129.2333)
+  sakurajima                   桜島  (31.5833,130.6667) [stay:桜島マグマ温泉 国民宿舎 レインボー桜島]
+  yorojima                     与路島  (28.27,129.36)
+  kuchinoerabu                 口永良部島  (30.443,130.2179)
+  kikai-island                 喜界島  (28.319,129.964)
+  tokunoshima                  徳之島  (27.821,128.939)
+  okinoerabu                   沖永良部島  (27.366,128.601)
+  kagoshima-city               鹿児島  (31.594,130.557) [stay:城山ホテル鹿児島]
+  ibusuki-onsen                指宿温泉  (31.232,130.64) [stay:指宿白水館]
+  iso                          仙巌園  (31.62,130.564) [stay:城山ホテル鹿児島]
+  sakurajima-onsen             古里温泉  (31.553,130.679) [stay:桜島シーサイドホテル]
+  niche_鹿児島_1                  串木野港周辺の漁師町  (31.7146024,130.2721599)
+  niche_鹿児島_3                  白糸の滝  (31.95173,130.7210161)
+  niche_鹿児島_5                  栗野岳温泉郷  (31.953246,130.787441)
+
+九州合計: 148件 / featured_stay付き: 64件

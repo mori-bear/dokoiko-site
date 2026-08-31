@@ -1,0 +1,156 @@
+[
+  {
+    "id": "sujiyu-onsen",
+    "name": "筋湯温泉",
+    "prefecture": "大分県",
+    "lat": 33.11512,
+    "lng": 131.18608,
+    "imageQuery": "Sujiyu Onsen Kokonoe",
+    "localityWords": [
+      "筋湯",
+      "九重",
+      "Kokonoe",
+      "Sujiyu"
+    ]
+  },
+  {
+    "id": "hosenji-onsen",
+    "name": "宝泉寺温泉",
+    "prefecture": "大分県",
+    "lat": 33.19139,
+    "lng": 131.15768,
+    "imageQuery": "Hosenji Onsen Kokonoe Oita",
+    "localityWords": [
+      "宝泉寺",
+      "九重",
+      "Kokonoe",
+      "Hosenji"
+    ]
+  },
+  {
+    "id": "yunohira-onsen",
+    "name": "湯平温泉",
+    "prefecture": "大分県",
+    "lat": 33.19485,
+    "lng": 131.33973,
+    "imageQuery": "Yunohira Onsen Yufu",
+    "localityWords": [
+      "湯平",
+      "由布",
+      "Yufu",
+      "Yunohira"
+    ]
+  },
+  {
+    "id": "hagenoyu-onsen",
+    "name": "はげの湯温泉",
+    "prefecture": "熊本県",
+    "lat": 33.15356,
+    "lng": 131.13865,
+    "imageQuery": "Hagenoyu Onsen Oguni Kumamoto",
+    "localityWords": [
+      "はげの湯",
+      "峐の湯",
+      "わいた",
+      "小国",
+      "Oguni",
+      "Waita"
+    ]
+  },
+  {
+    "id": "hinagu-onsen",
+    "name": "日奈久温泉",
+    "prefecture": "熊本県",
+    "lat": 32.43279,
+    "lng": 130.57359,
+    "imageQuery": "Hinagu Onsen Yatsushiro",
+    "localityWords": [
+      "日奈久",
+      "八代",
+      "Yatsushiro",
+      "Hinagu"
+    ]
+  },
+  {
+    "id": "yunotsuru-onsen",
+    "name": "湯の鶴温泉",
+    "prefecture": "熊本県",
+    "lat": 32.1475,
+    "lng": 130.44007,
+    "imageQuery": "Yunotsuru Onsen Minamata",
+    "localityWords": [
+      "湯の鶴",
+      "水俣",
+      "Minamata",
+      "Yunotsuru"
+    ]
+  },
+  {
+    "id": "tsuetate-onsen",
+    "name": "杖立温泉",
+    "prefecture": "熊本県",
+    "lat": 33.17788,
+    "lng": 131.03596,
+    "imageQuery": "Tsuetate Onsen",
+    "localityWords": [
+      "杖立",
+      "小国",
+      "Oguni",
+      "Tsuetate"
+    ]
+  },
+  {
+    "id": "funagoya-onsen",
+    "name": "船小屋温泉",
+    "prefecture": "福岡県",
+    "lat": 33.18384,
+    "lng": 130.50557,
+    "imageQuery": "Funagoya Onsen Chikugo",
+    "localityWords": [
+      "船小屋",
+      "筑後",
+      "Chikugo",
+      "Funagoya"
+    ]
+  },
+  {
+    "id": "kumanokawa-onsen",
+    "name": "熊の川温泉",
+    "prefecture": "佐賀県",
+    "lat": 33.36479,
+    "lng": 130.24116,
+    "imageQuery": "Kumanokawa Onsen Saga",
+    "localityWords": [
+      "熊の川",
+      "富士町",
+      "佐賀",
+      "Kumanokawa"
+    ]
+  },
+  {
+    "id": "furuyu-onsen",
+    "name": "古湯温泉",
+    "prefecture": "佐賀県",
+    "lat": 33.37185,
+    "lng": 130.20725,
+    "imageQuery": "Furuyu Onsen Saga",
+    "localityWords": [
+      "古湯",
+      "富士町",
+      "佐賀",
+      "Furuyu"
+    ]
+  },
+  {
+    "id": "hinokage-onsen",
+    "name": "日之影温泉",
+    "prefecture": "宮崎県",
+    "lat": 32.65434,
+    "lng": 131.38614,
+    "imageQuery": "Hinokage Onsen Station Miyazaki",
+    "localityWords": [
+      "日之影",
+      "Hinokage"
+    ]
+  }
+]
