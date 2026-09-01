@@ -78,7 +78,8 @@ async function search(query, limit = 6) {
   const out = [];
   for (const p of Object.values(j.query?.pages || {}).sort((a, b) => a.index - b.index)) {
     const ii = p.imageinfo?.[0];
-    if (!ii || ii.width < 1200 || ii.width <= ii.height) continue;
+    // 比が2.4を超えるものはCommonsのバナー画像なので弾く
+    if (!ii || ii.width < 1200 || ii.width <= ii.height || ii.width / ii.height > 2.4) continue;
     out.push({ title: p.title, url: ii.thumburl || ii.url, descurl: ii.descriptionurl, em: ii.extmetadata || {} });
     if (out.length >= limit) break;
   }

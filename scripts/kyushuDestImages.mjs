@@ -61,7 +61,9 @@ async function candidates(query, limit = 8) {
   const out = [];
   for (const p of pages) {
     const ii = p.imageinfo?.[0];
-    if (!ii || ii.width < 1200 || ii.width <= ii.height) continue; // 横長・十分な解像度のみ
+    // 横長・十分な解像度のみ。比が2.4を超えるものはCommonsのバナー画像で、
+    // ヒーローにもXのカードにも収まらないので弾く。
+    if (!ii || ii.width < 1200 || ii.width <= ii.height || ii.width / ii.height > 2.4) continue;
     out.push({ title: p.title, url: ii.thumburl || ii.url, descurl: ii.descriptionurl, em: ii.extmetadata || {} });
     if (out.length >= limit) break;
   }

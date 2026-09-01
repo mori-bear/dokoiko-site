@@ -1,0 +1,1346 @@
+[
+ {
+  "id": "gen_北海_弁天台場",
+  "n": 1,
+  "file": "logs/aspect_gen_北海_弁天台場/01.jpg",
+  "title": "File:Hakodate Goryokaku Panorama 1.JPG",
+  "w": 4200,
+  "h": 2800,
+  "ratio": 1.5,
+  "place": "weak",
+  "credit": {
+   "author": "Keihin nike",
+   "license": "CC BY-SA 3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Hakodate_Goryokaku_Panorama_1.JPG",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "gen_北海_弁天台場",
+  "n": 2,
+  "file": "logs/aspect_gen_北海_弁天台場/02.jpg",
+  "title": "File:Surrender of Goryokaku (by the Ezo rebels) by Hayakawa Shozan 1877.png",
+  "w": 2880,
+  "h": 1422,
+  "ratio": 2.03,
+  "place": "weak",
+  "credit": {
+   "author": "Hayakawa Shōzan (1850-1892), (Signature: 松月保誠 Shōgetsu Yasusei)",
+   "license": "Public domain",
+   "url": "https://commons.wikimedia.org/wiki/File:Surrender_of_Goryokaku_(by_the_Ezo_rebels)_by_Hayakawa_Shozan_1877.png",
+   "attributionRequired": false
+  }
+ },
+ {
+  "id": "gen_北海_弁天台場",
+  "n": 3,
+  "file": "logs/aspect_gen_北海_弁天台場/03.jpg",
+  "title": "File:五稜郭公園20210723-IMG 4820.jpg",
+  "w": 1600,
+  "h": 1067,
+  "ratio": 1.5,
+  "place": "ok",
+  "credit": {
+   "author": "くろふね",
+   "license": "CC BY 4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:%E4%BA%94%E7%A8%9C%E9%83%AD%E5%85%AC%E5%9C%9220210723-IMG_4820.jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "gen_北海_弁天台場",
+  "n": 4,
+  "file": "logs/aspect_gen_北海_弁天台場/04.jpg",
+  "title": "File:五稜郭公園20210723-IMG 4861.jpg",
+  "w": 1600,
+  "h": 1067,
+  "ratio": 1.5,
+  "place": "ok",
+  "credit": {
+   "author": "くろふね",
+   "license": "CC BY 4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:%E4%BA%94%E7%A8%9C%E9%83%AD%E5%85%AC%E5%9C%9220210723-IMG_4861.jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "gen_北海_弁天台場",
+  "n": 5,
+  "file": "logs/aspect_gen_北海_弁天台場/05.jpg",
+  "title": "File:Hokkaido-Goryokaku Fort in Summer-xl.jpg",
+  "w": 6144,
+  "h": 4080,
+  "ratio": 1.51,
+  "place": "ok",
+  "credit": {
+   "author": "Goryokaku-Tower",
+   "license": "CC BY 4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Hokkaido-Goryokaku_Fort_in_Summer-xl.jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "gen_北海_弁天台場",
+  "n": 6,
+  "file": "logs/aspect_gen_北海_弁天台場/06.jpg",
+  "title": "File:Hokkaido-Goryokaku Fort in winter-xl.jpg",
+  "w": 6144,
+  "h": 4080,
+  "ratio": 1.51,
+  "place": "ok",
+  "credit": {
+   "author": "Goryokaku-Tower",
+   "license": "CC BY 4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Hokkaido-Goryokaku_Fort_in_winter-xl.jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "gen_北海_弁天台場",
+  "n": 7,
+  "file": "logs/aspect_gen_北海_弁天台場/07.jpg",
+  "title": "File:Hokkaido-Goryokaku Fort in Cherry blossom-xl.jpg",
+  "w": 6144,
+  "h": 4080,
+  "ratio": 1.51,
+  "place": "ok",
+  "credit": {
+   "author": "Goryokaku-Tower",
+   "license": "CC BY 4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Hokkaido-Goryokaku_Fort_in_Cherry_blossom-xl.jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "gen_北海_弁天台場",
+  "n": 8,
+  "file": "logs/aspect_gen_北海_弁天台場/08.jpg",
+  "title": "File:Hokkaido-Goryokaku Fort in Autumn-xl.jpg",
+  "w": 6144,
+  "h": 4080,
+  "ratio": 1.51,
+  "place": "ok",
+  "credit": {
+   "author": "Goryokaku-Tower",
+   "license": "CC BY 4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Hokkaido-Goryokaku_Fort_in_Autumn-xl.jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "bise",
+  "n": 1,
+  "file": "logs/aspect_bise/01.jpg",
+  "title": "File:Bise Fukugi Tree Road 01.JPG",
+  "w": 2560,
+  "h": 1920,
+  "ratio": 1.33,
+  "place": "weak",
+  "credit": {
+   "author": "Abasaa",
+   "license": "Public domain",
+   "url": "https://commons.wikimedia.org/wiki/File:Bise_Fukugi_Tree_Road_01.JPG",
+   "attributionRequired": false
+  }
+ },
+ {
+  "id": "bise",
+  "n": 2,
+  "file": "logs/aspect_bise/02.jpg",
+  "title": "File:Bise Fukugi Tree Road 02.JPG",
+  "w": 2560,
+  "h": 1920,
+  "ratio": 1.33,
+  "place": "weak",
+  "credit": {
+   "author": "Abasaa",
+   "license": "Public domain",
+   "url": "https://commons.wikimedia.org/wiki/File:Bise_Fukugi_Tree_Road_02.JPG",
+   "attributionRequired": false
+  }
+ },
+ {
+  "id": "bise",
+  "n": 3,
+  "file": "logs/aspect_bise/03.jpg",
+  "title": "File:Cape Bise.jpg",
+  "w": 2560,
+  "h": 1920,
+  "ratio": 1.33,
+  "place": "ok",
+  "credit": {
+   "author": "cyawan",
+   "license": "CC BY 2.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Cape_Bise.jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "bise",
+  "n": 4,
+  "file": "logs/aspect_bise/04.jpg",
+  "title": "File:Cape Bise Evening.jpg",
+  "w": 3648,
+  "h": 2736,
+  "ratio": 1.33,
+  "place": "ok",
+  "credit": {
+   "author": "cyawan",
+   "license": "CC BY 2.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Cape_Bise_Evening.jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "bise",
+  "n": 5,
+  "file": "logs/aspect_bise/05.jpg",
+  "title": "File:フクギ並木 20160121 - panoramio.jpg",
+  "w": 2736,
+  "h": 1824,
+  "ratio": 1.5,
+  "place": "weak",
+  "credit": {
+   "author": "690 Noda",
+   "license": "CC BY 3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:%E3%83%95%E3%82%AF%E3%82%AE%E4%B8%A6%E6%9C%A8_20160121_-_panoramio.jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "bise",
+  "n": 6,
+  "file": "logs/aspect_bise/06.jpg",
+  "title": "File:Okinawa Aquarium.jpg",
+  "w": 5862,
+  "h": 3912,
+  "ratio": 1.5,
+  "place": "ok",
+  "credit": {
+   "author": "Jordy Meow",
+   "license": "CC BY-SA 3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Okinawa_Aquarium.jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "bise",
+  "n": 7,
+  "file": "logs/aspect_bise/07.jpg",
+  "title": "File:沖縄美ら海水族館＿大.jpg",
+  "w": 2048,
+  "h": 1437,
+  "ratio": 1.43,
+  "place": "ok",
+  "credit": {
+   "author": "sinnosuke uchida",
+   "license": "CC BY-SA 3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:%E6%B2%96%E7%B8%84%E7%BE%8E%E3%82%89%E6%B5%B7%E6%B0%B4%E6%97%8F%E9%A4%A8%EF%BC%BF%E5%A4%A7.jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "bise",
+  "n": 8,
+  "file": "logs/aspect_bise/08.jpg",
+  "title": "File:Okinawa Churaumi aquarium fish hdsr Vlux5 0.jpg",
+  "w": 4864,
+  "h": 3648,
+  "ratio": 1.33,
+  "place": "ok",
+  "credit": {
+   "author": "Hyppolyte de Saint-Rambert",
+   "license": "CC BY 4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Okinawa_Churaumi_aquarium_fish_hdsr_Vlux5_0.jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "niche_千葉_5",
+  "n": 1,
+  "file": "logs/aspect_niche_千葉_5/01.jpg",
+  "title": "File:Onjuku Beach.jpg",
+  "w": 2304,
+  "h": 1728,
+  "ratio": 1.33,
+  "place": "weak",
+  "credit": {
+   "author": "Zeimusu",
+   "license": "Public domain",
+   "url": "https://commons.wikimedia.org/wiki/File:Onjuku_Beach.jpg",
+   "attributionRequired": false
+  }
+ },
+ {
+  "id": "niche_千葉_5",
+  "n": 2,
+  "file": "logs/aspect_niche_千葉_5/02.jpg",
+  "title": "File:御宿海水浴場 - panoramio.jpg",
+  "w": 4752,
+  "h": 3168,
+  "ratio": 1.5,
+  "place": "ok",
+  "credit": {
+   "author": "くろふね",
+   "license": "CC BY 3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:%E5%BE%A1%E5%AE%BF%E6%B5%B7%E6%B0%B4%E6%B5%B4%E5%A0%B4_-_panoramio.jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "niche_千葉_5",
+  "n": 3,
+  "file": "logs/aspect_niche_千葉_5/03.jpg",
+  "title": "File:Onjuku Beach (14836546793).jpg",
+  "w": 6000,
+  "h": 4000,
+  "ratio": 1.5,
+  "place": "ok",
+  "credit": {
+   "author": "Yoshikazu TAKADA from Tokyo, Japan",
+   "license": "CC BY 2.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Onjuku_Beach_(14836546793).jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "niche_千葉_5",
+  "n": 4,
+  "file": "logs/aspect_niche_千葉_5/04.jpg",
+  "title": "File:Onjuku Beach (14816722195).jpg",
+  "w": 6000,
+  "h": 4000,
+  "ratio": 1.5,
+  "place": "ok",
+  "credit": {
+   "author": "Yoshikazu TAKADA from Tokyo, Japan",
+   "license": "CC BY 2.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Onjuku_Beach_(14816722195).jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "niche_千葉_5",
+  "n": 5,
+  "file": "logs/aspect_niche_千葉_5/05.jpg",
+  "title": "File:Onjuku Beach (14630048989).jpg",
+  "w": 6000,
+  "h": 4000,
+  "ratio": 1.5,
+  "place": "ok",
+  "credit": {
+   "author": "Yoshikazu TAKADA from Tokyo, Japan",
+   "license": "CC BY 2.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Onjuku_Beach_(14630048989).jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "niche_千葉_5",
+  "n": 6,
+  "file": "logs/aspect_niche_千葉_5/06.jpg",
+  "title": "File:Visitors and colorful sunshades at Onjuku beach, Chiba, Japan; August 2014.jpg",
+  "w": 6000,
+  "h": 4000,
+  "ratio": 1.5,
+  "place": "ok",
+  "credit": {
+   "author": "Yoshikazu TAKADA from Tokyo, Japan",
+   "license": "CC BY 2.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Visitors_and_colorful_sunshades_at_Onjuku_beach,_Chiba,_Japan;_August_2014.jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "niche_千葉_5",
+  "n": 7,
+  "file": "logs/aspect_niche_千葉_5/07.jpg",
+  "title": "File:御宿海岸 - panoramio.jpg",
+  "w": 1522,
+  "h": 1103,
+  "ratio": 1.38,
+  "place": "ok",
+  "credit": {
+   "author": "kcomiida",
+   "license": "CC BY-SA 3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:%E5%BE%A1%E5%AE%BF%E6%B5%B7%E5%B2%B8_-_panoramio.jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "niche_千葉_5",
+  "n": 8,
+  "file": "logs/aspect_niche_千葉_5/08.jpg",
+  "title": "File:御宿海岸 - panoramio - kcomiida.jpg",
+  "w": 1600,
+  "h": 1200,
+  "ratio": 1.33,
+  "place": "ok",
+  "credit": {
+   "author": "kcomiida",
+   "license": "CC BY-SA 3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:%E5%BE%A1%E5%AE%BF%E6%B5%B7%E5%B2%B8_-_panoramio_-_kcomiida.jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "cape-zampa",
+  "n": 1,
+  "file": "logs/aspect_cape-zampa/01.jpg",
+  "title": "File:Cape Zampa Lighthouse and rocks on Cape Zampa 2.JPG",
+  "w": 3264,
+  "h": 2448,
+  "ratio": 1.33,
+  "place": "ok",
+  "credit": {
+   "author": "そらみみ (Soramimi)",
+   "license": "CC BY-SA 4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Cape_Zampa_Lighthouse_and_rocks_on_Cape_Zampa_2.JPG",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "cape-zampa",
+  "n": 2,
+  "file": "logs/aspect_cape-zampa/02.jpg",
+  "title": "File:Cape Zampa Lighthouse on Cape Zampa 6.JPG",
+  "w": 3249,
+  "h": 2437,
+  "ratio": 1.33,
+  "place": "ok",
+  "credit": {
+   "author": "そらみみ (Soramimi)",
+   "license": "CC BY-SA 4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Cape_Zampa_Lighthouse_on_Cape_Zampa_6.JPG",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "cape-zampa",
+  "n": 3,
+  "file": "logs/aspect_cape-zampa/03.jpg",
+  "title": "File:Pandanus odoratissimus, scaevola taccada and Cape Zampa Lighthouse on Cape Zampa.JPG",
+  "w": 3264,
+  "h": 2448,
+  "ratio": 1.33,
+  "place": "ok",
+  "credit": {
+   "author": "そらみみ (Soramimi)",
+   "license": "CC BY-SA 4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Pandanus_odoratissimus,_scaevola_taccada_and_Cape_Zampa_Lighthouse_on_Cape_Zampa.JPG",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "cape-zampa",
+  "n": 4,
+  "file": "logs/aspect_cape-zampa/04.jpg",
+  "title": "File:Cape Zampa Lighthouse on Cape Zampa.JPG",
+  "w": 3264,
+  "h": 2448,
+  "ratio": 1.33,
+  "place": "ok",
+  "credit": {
+   "author": "そらみみ",
+   "license": "CC BY-SA 4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Cape_Zampa_Lighthouse_on_Cape_Zampa.JPG",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "cape-zampa",
+  "n": 5,
+  "file": "logs/aspect_cape-zampa/05.jpg",
+  "title": "File:残波岬公園 - panoramio (1).jpg",
+  "w": 3648,
+  "h": 2056,
+  "ratio": 1.77,
+  "place": "ok",
+  "credit": {
+   "author": "Arichika Taniguchi",
+   "license": "CC BY-SA 3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:%E6%AE%8B%E6%B3%A2%E5%B2%AC%E5%85%AC%E5%9C%92_-_panoramio_(1).jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "cape-zampa",
+  "n": 6,
+  "file": "logs/aspect_cape-zampa/06.jpg",
+  "title": "File:Zanpa-Misaki Cape Lighthouse.jpg",
+  "w": 3008,
+  "h": 2000,
+  "ratio": 1.5,
+  "place": "ok",
+  "credit": {
+   "author": "Hideyuki KAMON",
+   "license": "CC BY-SA 2.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Zanpa-Misaki_Cape_Lighthouse.jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "cape-zampa",
+  "n": 7,
+  "file": "logs/aspect_cape-zampa/07.jpg",
+  "title": "File:Cape Zampa Lighthouse 200401.jpg",
+  "w": 1459,
+  "h": 1072,
+  "ratio": 1.36,
+  "place": "ok",
+  "credit": {
+   "author": "Suikotei",
+   "license": "CC BY-SA 4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Cape_Zampa_Lighthouse_200401.jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "cape-zampa",
+  "n": 8,
+  "file": "logs/aspect_cape-zampa/08.jpg",
+  "title": "File:Cape Zampa Lighthouse on Cape Zampa 4.JPG",
+  "w": 3264,
+  "h": 2448,
+  "ratio": 1.33,
+  "place": "ok",
+  "credit": {
+   "author": "そらみみ (Soramimi)",
+   "license": "CC BY-SA 4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Cape_Zampa_Lighthouse_on_Cape_Zampa_4.JPG",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "niche_島根_6",
+  "n": 1,
+  "file": "logs/aspect_niche_島根_6/01.jpg",
+  "title": "File:R191-2020-450.jpg",
+  "w": 1920,
+  "h": 1078,
+  "ratio": 1.78,
+  "place": "ok",
+  "credit": {
+   "author": "Puchi-masashi",
+   "license": "CC BY-SA 4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:R191-2020-450.jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "niche_島根_6",
+  "n": 2,
+  "file": "logs/aspect_niche_島根_6/02.jpg",
+  "title": "File:Ikou temple soumon.JPG",
+  "w": 4000,
+  "h": 3000,
+  "ratio": 1.33,
+  "place": "ok",
+  "credit": {
+   "author": "Sengoku40",
+   "license": "CC BY-SA 3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Ikou_temple_soumon.JPG",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "niche_島根_6",
+  "n": 3,
+  "file": "logs/aspect_niche_島根_6/03.jpg",
+  "title": "File:Ikouji.jpg",
+  "w": 3504,
+  "h": 2336,
+  "ratio": 1.5,
+  "place": "weak",
+  "credit": {
+   "author": "前田左衛門佐",
+   "license": "Public domain",
+   "url": "https://commons.wikimedia.org/wiki/File:Ikouji.jpg",
+   "attributionRequired": false
+  }
+ },
+ {
+  "id": "niche_島根_6",
+  "n": 4,
+  "file": "logs/aspect_niche_島根_6/04.jpg",
+  "title": "File:Ikou temple.JPG",
+  "w": 4000,
+  "h": 3000,
+  "ratio": 1.33,
+  "place": "weak",
+  "credit": {
+   "author": "Sengoku40",
+   "license": "CC BY-SA 3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Ikou_temple.JPG",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "kibune-kurama",
+  "n": 1,
+  "file": "logs/aspect_kibune-kurama/01.jpg",
+  "title": "File:Kifune-jinja Shrine Sandou, Issha Meito Ward Nagoya 2021.jpg",
+  "w": 1500,
+  "h": 1000,
+  "ratio": 1.5,
+  "place": "ok",
+  "credit": {
+   "author": "Tomio344456",
+   "license": "CC BY-SA 4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Kifune-jinja_Shrine_Sandou,_Issha_Meito_Ward_Nagoya_2021.jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "kibune-kurama",
+  "n": 2,
+  "file": "logs/aspect_kibune-kurama/02.jpg",
+  "title": "File:Kurama-dera temple gate - panoramio.jpg",
+  "w": 1200,
+  "h": 800,
+  "ratio": 1.5,
+  "place": "weak",
+  "credit": {
+   "author": "ccfarmer",
+   "license": "CC BY 3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Kurama-dera_temple_gate_-_panoramio.jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "kibune-kurama",
+  "n": 3,
+  "file": "logs/aspect_kibune-kurama/03.jpg",
+  "title": "File:鞍馬寺 - panoramio.jpg",
+  "w": 4368,
+  "h": 2912,
+  "ratio": 1.5,
+  "place": "ok",
+  "credit": {
+   "author": "くろふね",
+   "license": "CC BY 3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:%E9%9E%8D%E9%A6%AC%E5%AF%BA_-_panoramio.jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "kibune-kurama",
+  "n": 4,
+  "file": "logs/aspect_kibune-kurama/04.jpg",
+  "title": "File:Kurama-dera sanmon.jpg",
+  "w": 3264,
+  "h": 2448,
+  "ratio": 1.33,
+  "place": "ok",
+  "credit": {
+   "author": "KENPEI",
+   "license": "CC BY-SA 3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Kurama-dera_sanmon.jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "kibune-kurama",
+  "n": 5,
+  "file": "logs/aspect_kibune-kurama/05.jpg",
+  "title": "File:Kurama-deralookingdownhill.jpg",
+  "w": 2048,
+  "h": 1536,
+  "ratio": 1.33,
+  "place": "ok",
+  "credit": {
+   "author": "kc3302",
+   "license": "CC BY-SA 4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Kurama-deralookingdownhill.jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "kibune-kurama",
+  "n": 6,
+  "file": "logs/aspect_kibune-kurama/06.jpg",
+  "title": "File:鞍馬寺 - panoramio (1).jpg",
+  "w": 3368,
+  "h": 2272,
+  "ratio": 1.48,
+  "place": "ok",
+  "credit": {
+   "author": "shikabane taro",
+   "license": "CC BY 3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:%E9%9E%8D%E9%A6%AC%E5%AF%BA_-_panoramio_(1).jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "kibune-kurama",
+  "n": 7,
+  "file": "logs/aspect_kibune-kurama/07.jpg",
+  "title": "File:鞍馬寺 - panoramio (2).jpg",
+  "w": 3356,
+  "h": 2276,
+  "ratio": 1.47,
+  "place": "ok",
+  "credit": {
+   "author": "shikabane taro",
+   "license": "CC BY 3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:%E9%9E%8D%E9%A6%AC%E5%AF%BA_-_panoramio_(2).jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "kibune-kurama",
+  "n": 8,
+  "file": "logs/aspect_kibune-kurama/08.jpg",
+  "title": "File:Kuramadera 鞍馬寺 (KYOTO-JAPAN) (4950775431).jpg",
+  "w": 6144,
+  "h": 3357,
+  "ratio": 1.83,
+  "place": "ok",
+  "credit": {
+   "author": "Chi King",
+   "license": "CC BY 2.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Kuramadera_%E9%9E%8D%E9%A6%AC%E5%AF%BA_(KYOTO-JAPAN)_(4950775431).jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "gen_北海_天に続く道",
+  "n": 1,
+  "file": "logs/aspect_gen_北海_天に続く道/01.jpg",
+  "title": "File:Shari road01.JPG",
+  "w": 4000,
+  "h": 3000,
+  "ratio": 1.33,
+  "place": "ok",
+  "credit": {
+   "author": "221.20 (talk)",
+   "license": "Public domain",
+   "url": "https://commons.wikimedia.org/wiki/File:Shari_road01.JPG",
+   "attributionRequired": false
+  }
+ },
+ {
+  "id": "gen_北海_天に続く道",
+  "n": 2,
+  "file": "logs/aspect_gen_北海_天に続く道/02.jpg",
+  "title": "File:Lavender Farm station 20230711 03.jpg",
+  "w": 4000,
+  "h": 3000,
+  "ratio": 1.33,
+  "place": "ok",
+  "credit": {
+   "author": "LR0725",
+   "license": "CC BY-SA 4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Lavender_Farm_station_20230711_03.jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "gen_北海_天に続く道",
+  "n": 3,
+  "file": "logs/aspect_gen_北海_天に続く道/03.jpg",
+  "title": "File:Lavender Farm station 20230711 04.jpg",
+  "w": 4000,
+  "h": 3000,
+  "ratio": 1.33,
+  "place": "ok",
+  "credit": {
+   "author": "LR0725",
+   "license": "CC BY-SA 4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Lavender_Farm_station_20230711_04.jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "gen_北海_天に続く道",
+  "n": 4,
+  "file": "logs/aspect_gen_北海_天に続く道/04.jpg",
+  "title": "File:LavenderFarmStation.jpg",
+  "w": 5472,
+  "h": 3648,
+  "ratio": 1.5,
+  "place": "ok",
+  "credit": {
+   "author": "Araisyohei",
+   "license": "CC BY-SA 4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:LavenderFarmStation.jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "gen_北海_天に続く道",
+  "n": 5,
+  "file": "logs/aspect_gen_北海_天に続く道/05.jpg",
+  "title": "File:中富良野町営ラベンダー園 2007 (1028188017).jpg",
+  "w": 3008,
+  "h": 2000,
+  "ratio": 1.5,
+  "place": "ok",
+  "credit": {
+   "author": "Yoshiki",
+   "license": "CC BY 2.0",
+   "url": "https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E5%AF%8C%E8%89%AF%E9%87%8E%E7%94%BA%E5%96%B6%E3%83%A9%E3%83%99%E3%83%B3%E3%83%80%E3%83%BC%E5%9C%92_2007_(1028188017).jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "gen_北海_天に続く道",
+  "n": 6,
+  "file": "logs/aspect_gen_北海_天に続く道/06.jpg",
+  "title": "File:Lavender Farm Station - 2022 Aug 12 various.jpeg",
+  "w": 4032,
+  "h": 3024,
+  "ratio": 1.33,
+  "place": "weak",
+  "credit": {
+   "author": "Nesnad",
+   "license": "CC BY 4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Lavender_Farm_Station_-_2022_Aug_12_various.jpeg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "gen_北海_天に続く道",
+  "n": 7,
+  "file": "logs/aspect_gen_北海_天に続く道/07.jpg",
+  "title": "File:Lavender Farm Station - 2022 Aug 12 various 15 37 55 325000.jpeg",
+  "w": 4032,
+  "h": 3024,
+  "ratio": 1.33,
+  "place": "weak",
+  "credit": {
+   "author": "Nesnad",
+   "license": "CC BY 4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Lavender_Farm_Station_-_2022_Aug_12_various_15_37_55_325000.jpeg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "gen_北海_天に続く道",
+  "n": 8,
+  "file": "logs/aspect_gen_北海_天に続く道/08.jpg",
+  "title": "File:Lavender Farm Station - 2022 Aug 12 various 15 38 20 225000.jpeg",
+  "w": 4032,
+  "h": 3024,
+  "ratio": 1.33,
+  "place": "weak",
+  "credit": {
+   "author": "Nesnad",
+   "license": "CC BY 4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Lavender_Farm_Station_-_2022_Aug_12_various_15_38_20_225000.jpeg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "nokogiriyama",
+  "n": 1,
+  "file": "logs/aspect_nokogiriyama/01.jpg",
+  "title": "File:Edge of Nokogiriyama's Hell Peek.jpg",
+  "w": 3771,
+  "h": 2829,
+  "ratio": 1.33,
+  "place": "ok",
+  "credit": {
+   "author": "Dandy1022",
+   "license": "CC BY-SA 4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Edge_of_Nokogiriyama%27s_Hell_Peek.jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "nokogiriyama",
+  "n": 2,
+  "file": "logs/aspect_nokogiriyama/02.jpg",
+  "title": "File:Hanging rock observation deck on Nokogiriyama.jpg",
+  "w": 4032,
+  "h": 3024,
+  "ratio": 1.33,
+  "place": "ok",
+  "credit": {
+   "author": "Dandy1022",
+   "license": "CC BY-SA 4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Hanging_rock_observation_deck_on_Nokogiriyama.jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "nokogiriyama",
+  "n": 3,
+  "file": "logs/aspect_nokogiriyama/03.jpg",
+  "title": "File:Nokogiriyama's Hell Peek from below.jpg",
+  "w": 5152,
+  "h": 3864,
+  "ratio": 1.33,
+  "place": "ok",
+  "credit": {
+   "author": "Dandy1022",
+   "license": "CC BY-SA 4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Nokogiriyama%27s_Hell_Peek_from_below.jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "nokogiriyama",
+  "n": 4,
+  "file": "logs/aspect_nokogiriyama/04.jpg",
+  "title": "File:Nihon-ji Daibutsu.jpg",
+  "w": 5152,
+  "h": 3863,
+  "ratio": 1.33,
+  "place": "ok",
+  "credit": {
+   "author": "Dandy1022",
+   "license": "CC BY-SA 4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Nihon-ji_Daibutsu.jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "nokogiriyama",
+  "n": 5,
+  "file": "logs/aspect_nokogiriyama/05.jpg",
+  "title": "File:Nokogiriyama Ropeway 20150503.jpg",
+  "w": 3264,
+  "h": 2448,
+  "ratio": 1.33,
+  "place": "ok",
+  "credit": {
+   "author": "Xser21",
+   "license": "CC BY-SA 4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Nokogiriyama_Ropeway_20150503.jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "nokogiriyama",
+  "n": 6,
+  "file": "logs/aspect_nokogiriyama/06.jpg",
+  "title": "File:Nokogiriyama Ropeway 2013-08-07 (9464463616).jpg",
+  "w": 3648,
+  "h": 2736,
+  "ratio": 1.33,
+  "place": "weak",
+  "credit": {
+   "author": "Guilhem Vellut from Annecy, France",
+   "license": "CC BY 2.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Nokogiriyama_Ropeway_2013-08-07_(9464463616).jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "nokogiriyama",
+  "n": 7,
+  "file": "logs/aspect_nokogiriyama/07.jpg",
+  "title": "File:View of Nokogiriyama Ropeway, crossing.jpg",
+  "w": 3072,
+  "h": 2304,
+  "ratio": 1.33,
+  "place": "ok",
+  "credit": {
+   "author": "掬茶",
+   "license": "CC BY-SA 3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:View_of_Nokogiriyama_Ropeway,_crossing.jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "nokogiriyama",
+  "n": 8,
+  "file": "logs/aspect_nokogiriyama/08.jpg",
+  "title": "File:Nokogiriyama Ropeway 2022 Dec 12 various.jpeg",
+  "w": 2925,
+  "h": 2130,
+  "ratio": 1.37,
+  "place": "ok",
+  "credit": {
+   "author": "Nesnad",
+   "license": "CC BY 4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Nokogiriyama_Ropeway_2022_Dec_12_various.jpeg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "oyama-afuri",
+  "n": 1,
+  "file": "logs/aspect_oyama-afuri/01.jpg",
+  "title": "File:Spring in Oyama Afuri jinja Shimosha.jpg",
+  "w": 4080,
+  "h": 3072,
+  "ratio": 1.33,
+  "place": "ok",
+  "credit": {
+   "author": "Mzaki",
+   "license": "CC0",
+   "url": "https://commons.wikimedia.org/wiki/File:Spring_in_Oyama_Afuri_jinja_Shimosha.jpg",
+   "attributionRequired": false
+  }
+ },
+ {
+  "id": "oyama-afuri",
+  "n": 2,
+  "file": "logs/aspect_oyama-afuri/02.jpg",
+  "title": "File:Oyama Afuri Shrine Shimosha Steps.jpg",
+  "w": 4608,
+  "h": 3456,
+  "ratio": 1.33,
+  "place": "ok",
+  "credit": {
+   "author": "KQuhen",
+   "license": "CC BY-SA 4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Oyama_Afuri_Shrine_Shimosha_Steps.jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "oyama-afuri",
+  "n": 3,
+  "file": "logs/aspect_oyama-afuri/03.jpg",
+  "title": "File:Oyama Afuri Shrine Shimosha Tenmangu.jpg",
+  "w": 4608,
+  "h": 3456,
+  "ratio": 1.33,
+  "place": "ok",
+  "credit": {
+   "author": "KQuhen",
+   "license": "CC BY-SA 4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Oyama_Afuri_Shrine_Shimosha_Tenmangu.jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "oyama-afuri",
+  "n": 4,
+  "file": "logs/aspect_oyama-afuri/04.jpg",
+  "title": "File:Oyama-afuri-jinja, shimosha, haiden.jpg",
+  "w": 5554,
+  "h": 3692,
+  "ratio": 1.5,
+  "place": "ok",
+  "credit": {
+   "author": "Saigen Jiro",
+   "license": "CC0",
+   "url": "https://commons.wikimedia.org/wiki/File:Oyama-afuri-jinja,_shimosha,_haiden.jpg",
+   "attributionRequired": false
+  }
+ },
+ {
+  "id": "oyama-afuri",
+  "n": 5,
+  "file": "logs/aspect_oyama-afuri/05.jpg",
+  "title": "File:Oyama-Afuri jinja 201709a.jpg",
+  "w": 3840,
+  "h": 2880,
+  "ratio": 1.33,
+  "place": "ok",
+  "credit": {
+   "author": "Tak1701d",
+   "license": "CC BY-SA 3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Oyama-Afuri_jinja_201709a.jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "oyama-afuri",
+  "n": 6,
+  "file": "logs/aspect_oyama-afuri/06.jpg",
+  "title": "File:Ooyama afurijinjya.jpg",
+  "w": 4288,
+  "h": 2848,
+  "ratio": 1.51,
+  "place": "ok",
+  "credit": {
+   "author": "Pyzhou",
+   "license": "GFDL",
+   "url": "https://commons.wikimedia.org/wiki/File:Ooyama_afurijinjya.jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "oyama-afuri",
+  "n": 7,
+  "file": "logs/aspect_oyama-afuri/07.jpg",
+  "title": "File:Odakyu-electric-railway-OH36-Isehara-station-platform-20190424-131414.jpg",
+  "w": 4000,
+  "h": 2250,
+  "ratio": 1.78,
+  "place": "ok",
+  "credit": {
+   "author": "LERK",
+   "license": "CC BY-SA 4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Odakyu-electric-railway-OH36-Isehara-station-platform-20190424-131414.jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "oyama-afuri",
+  "n": 8,
+  "file": "logs/aspect_oyama-afuri/08.jpg",
+  "title": "File:Isehara Station - 2022 Dec 5 - various.jpeg",
+  "w": 4032,
+  "h": 3024,
+  "ratio": 1.33,
+  "place": "ok",
+  "credit": {
+   "author": "Nesnad",
+   "license": "CC BY 4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Isehara_Station_-_2022_Dec_5_-_various.jpeg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "oita",
+  "n": 1,
+  "file": "logs/aspect_oita/01.jpg",
+  "title": "File:Funai Castle02n4272.jpg",
+  "w": 4272,
+  "h": 2848,
+  "ratio": 1.5,
+  "place": "ok",
+  "credit": {
+   "author": "663highland",
+   "license": "CC BY 2.5",
+   "url": "https://commons.wikimedia.org/wiki/File:Funai_Castle02n4272.jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "oita",
+  "n": 2,
+  "file": "logs/aspect_oita/02.jpg",
+  "title": "File:Funai Castle 20221023-1.jpg",
+  "w": 5184,
+  "h": 3456,
+  "ratio": 1.5,
+  "place": "weak",
+  "credit": {
+   "author": "Suicasmo",
+   "license": "CC BY-SA 4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Funai_Castle_20221023-1.jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "oita",
+  "n": 3,
+  "file": "logs/aspect_oita/03.jpg",
+  "title": "File:Funai Castle 01.jpg",
+  "w": 2592,
+  "h": 1944,
+  "ratio": 1.33,
+  "place": "weak",
+  "credit": {
+   "author": "by ja:User:Reggaeman",
+   "license": "CC BY-SA 3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Funai_Castle_01.jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "oita",
+  "n": 4,
+  "file": "logs/aspect_oita/04.jpg",
+  "title": "File:Funai Castle 02.jpg",
+  "w": 2592,
+  "h": 1944,
+  "ratio": 1.33,
+  "place": "weak",
+  "credit": {
+   "author": "by ja:User:Reggaeman",
+   "license": "CC BY-SA 3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Funai_Castle_02.jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "oita",
+  "n": 5,
+  "file": "logs/aspect_oita/05.jpg",
+  "title": "File:Funai Castle 05.JPG",
+  "w": 2592,
+  "h": 1944,
+  "ratio": 1.33,
+  "place": "weak",
+  "credit": {
+   "author": "by ja:User:Reggaeman",
+   "license": "CC BY-SA 3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Funai_Castle_05.JPG",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "oita",
+  "n": 6,
+  "file": "logs/aspect_oita/06.jpg",
+  "title": "File:Funai Castle 20221023-2.jpg",
+  "w": 5184,
+  "h": 3456,
+  "ratio": 1.5,
+  "place": "ok",
+  "credit": {
+   "author": "Suicasmo",
+   "license": "CC BY-SA 4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Funai_Castle_20221023-2.jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "oita",
+  "n": 7,
+  "file": "logs/aspect_oita/07.jpg",
+  "title": "File:Funai Castle Roka-bridge.jpg",
+  "w": 2592,
+  "h": 1944,
+  "ratio": 1.33,
+  "place": "ok",
+  "credit": {
+   "author": "by Reggaeman",
+   "license": "CC BY-SA 3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Funai_Castle_Roka-bridge.jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "oita",
+  "n": 8,
+  "file": "logs/aspect_oita/08.jpg",
+  "title": "File:090505 Funai Castle Oita Japan01bs.jpg",
+  "w": 4272,
+  "h": 2848,
+  "ratio": 1.5,
+  "place": "ok",
+  "credit": {
+   "author": "663highland",
+   "license": "CC BY 2.5",
+   "url": "https://commons.wikimedia.org/wiki/File:090505_Funai_Castle_Oita_Japan01bs.jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "mizuki-shigeru-road",
+  "n": 1,
+  "file": "logs/aspect_mizuki-shigeru-road/01.jpg",
+  "title": "File:水木しげるロード 鬼太郎まぐろラーメン 2008 (3375402985).jpg",
+  "w": 2640,
+  "h": 1760,
+  "ratio": 1.5,
+  "place": "ok",
+  "credit": {
+   "author": "puffyjet",
+   "license": "CC BY 2.0",
+   "url": "https://commons.wikimedia.org/wiki/File:%E6%B0%B4%E6%9C%A8%E3%81%97%E3%81%92%E3%82%8B%E3%83%AD%E3%83%BC%E3%83%89_%E9%AC%BC%E5%A4%AA%E9%83%8E%E3%81%BE%E3%81%90%E3%82%8D%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3_2008_(3375402985).jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "mizuki-shigeru-road",
+  "n": 2,
+  "file": "logs/aspect_mizuki-shigeru-road/02.jpg",
+  "title": "File:Mizuki Shigeru Road -01.jpg",
+  "w": 2592,
+  "h": 1944,
+  "ratio": 1.33,
+  "place": "ok",
+  "credit": {
+   "author": "Aimaimyi",
+   "license": "CC BY-SA 3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Mizuki_Shigeru_Road_-01.jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "mizuki-shigeru-road",
+  "n": 3,
+  "file": "logs/aspect_mizuki-shigeru-road/03.jpg",
+  "title": "File:Mizuki Shigeru Road 2010-08B.JPG",
+  "w": 4288,
+  "h": 3216,
+  "ratio": 1.33,
+  "place": "ok",
+  "credit": {
+   "author": "At by At",
+   "license": "CC BY-SA 3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Mizuki_Shigeru_Road_2010-08B.JPG",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "mizuki-shigeru-road",
+  "n": 4,
+  "file": "logs/aspect_mizuki-shigeru-road/04.jpg",
+  "title": "File:Mizuki Shigeru Road 2010-08.JPG",
+  "w": 3078,
+  "h": 2291,
+  "ratio": 1.34,
+  "place": "ok",
+  "credit": {
+   "author": "At by At",
+   "license": "CC BY-SA 3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Mizuki_Shigeru_Road_2010-08.JPG",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "mizuki-shigeru-road",
+  "n": 5,
+  "file": "logs/aspect_mizuki-shigeru-road/05.jpg",
+  "title": "File:Mizuki Shigeru Road Taxi.jpg",
+  "w": 3795,
+  "h": 2846,
+  "ratio": 1.33,
+  "place": "ok",
+  "credit": {
+   "author": "At by At",
+   "license": "CC BY-SA 3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Mizuki_Shigeru_Road_Taxi.jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "mizuki-shigeru-road",
+  "n": 6,
+  "file": "logs/aspect_mizuki-shigeru-road/06.jpg",
+  "title": "File:Mizuki Shigeru Road -02.jpg",
+  "w": 2592,
+  "h": 1944,
+  "ratio": 1.33,
+  "place": "ok",
+  "credit": {
+   "author": "Aimaimyi",
+   "license": "CC BY-SA 3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Mizuki_Shigeru_Road_-02.jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "mizuki-shigeru-road",
+  "n": 7,
+  "file": "logs/aspect_mizuki-shigeru-road/07.jpg",
+  "title": "File:境港水木ロード妖怪神社PA098302.JPG",
+  "w": 1280,
+  "h": 960,
+  "ratio": 1.33,
+  "place": "ok",
+  "credit": {
+   "author": "No machine-readable author provided. おぉたむすねィく探検隊 assumed (based on copyright claims).",
+   "license": "CC BY-SA 3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:%E5%A2%83%E6%B8%AF%E6%B0%B4%E6%9C%A8%E3%83%AD%E3%83%BC%E3%83%89%E5%A6%96%E6%80%AA%E7%A5%9E%E7%A4%BEPA098302.JPG",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "mizuki-shigeru-road",
+  "n": 8,
+  "file": "logs/aspect_mizuki-shigeru-road/08.jpg",
+  "title": "File:Shigeru Mizuki Road No,7.JPG",
+  "w": 1920,
+  "h": 1080,
+  "ratio": 1.78,
+  "place": "ok",
+  "credit": {
+   "author": "Mti",
+   "license": "CC BY-SA 3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Shigeru_Mizuki_Road_No,7.JPG",
+   "attributionRequired": true
+  }
+ }
+]

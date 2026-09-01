@@ -1,0 +1,386 @@
+[
+ {
+  "id": "sado-island",
+  "n": 1,
+  "file": "logs/banner_sado-island/01.jpg",
+  "title": "File:小川棚田（佐渡）01.jpg",
+  "w": 3648,
+  "h": 2736,
+  "ratio": 1.33,
+  "place": "weak",
+  "credit": {
+   "author": "Indiana jo",
+   "license": "CC0",
+   "url": "https://commons.wikimedia.org/wiki/File:%E5%B0%8F%E5%B7%9D%E6%A3%9A%E7%94%B0%EF%BC%88%E4%BD%90%E6%B8%A1%EF%BC%8901.jpg",
+   "attributionRequired": false
+  }
+ },
+ {
+  "id": "sado-island",
+  "n": 2,
+  "file": "logs/banner_sado-island/02.jpg",
+  "title": "File:小川棚田（佐渡）02.jpg",
+  "w": 3648,
+  "h": 2736,
+  "ratio": 1.33,
+  "place": "weak",
+  "credit": {
+   "author": "Indiana jo",
+   "license": "CC0",
+   "url": "https://commons.wikimedia.org/wiki/File:%E5%B0%8F%E5%B7%9D%E6%A3%9A%E7%94%B0%EF%BC%88%E4%BD%90%E6%B8%A1%EF%BC%8902.jpg",
+   "attributionRequired": false
+  }
+ },
+ {
+  "id": "sado-island",
+  "n": 3,
+  "file": "logs/banner_sado-island/03.jpg",
+  "title": "File:小川棚田（佐渡）03.jpg",
+  "w": 3648,
+  "h": 2736,
+  "ratio": 1.33,
+  "place": "weak",
+  "credit": {
+   "author": "Indiana jo",
+   "license": "CC0",
+   "url": "https://commons.wikimedia.org/wiki/File:%E5%B0%8F%E5%B7%9D%E6%A3%9A%E7%94%B0%EF%BC%88%E4%BD%90%E6%B8%A1%EF%BC%8903.jpg",
+   "attributionRequired": false
+  }
+ },
+ {
+  "id": "sado-island",
+  "n": 4,
+  "file": "logs/banner_sado-island/04.jpg",
+  "title": "File:西三川 06.jpg",
+  "w": 4320,
+  "h": 3240,
+  "ratio": 1.33,
+  "place": "ok",
+  "credit": {
+   "author": "Indiana jo",
+   "license": "CC BY-SA 4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:%E8%A5%BF%E4%B8%89%E5%B7%9D_06.jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "sado-island",
+  "n": 5,
+  "file": "logs/banner_sado-island/05.jpg",
+  "title": "File:Senkakuwan Sado-1.jpg",
+  "w": 2291,
+  "h": 1535,
+  "ratio": 1.49,
+  "place": "ok",
+  "credit": {
+   "author": "Suikotei",
+   "license": "CC BY-SA 4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Senkakuwan_Sado-1.jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "sado-island",
+  "n": 6,
+  "file": "logs/banner_sado-island/06.jpg",
+  "title": "File:Senkakuwan Sado-2.jpg",
+  "w": 2146,
+  "h": 1438,
+  "ratio": 1.49,
+  "place": "ok",
+  "credit": {
+   "author": "Suikotei",
+   "license": "CC BY-SA 4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Senkakuwan_Sado-2.jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "sado-island",
+  "n": 7,
+  "file": "logs/banner_sado-island/07.jpg",
+  "title": "File:佐渡金山 金山茶屋.jpg",
+  "w": 3264,
+  "h": 2176,
+  "ratio": 1.5,
+  "place": "ok",
+  "credit": {
+   "author": "番記者",
+   "license": "CC0",
+   "url": "https://commons.wikimedia.org/wiki/File:%E4%BD%90%E6%B8%A1%E9%87%91%E5%B1%B1_%E9%87%91%E5%B1%B1%E8%8C%B6%E5%B1%8B.jpg",
+   "attributionRequired": false
+  }
+ },
+ {
+  "id": "sado-island",
+  "n": 8,
+  "file": "logs/banner_sado-island/08.jpg",
+  "title": "File:佐渡金山.jpg",
+  "w": 4320,
+  "h": 3240,
+  "ratio": 1.33,
+  "place": "ok",
+  "credit": {
+   "author": "Indiana jo",
+   "license": "CC BY-SA 4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:%E4%BD%90%E6%B8%A1%E9%87%91%E5%B1%B1.jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "oze-2",
+  "n": 1,
+  "file": "logs/banner_oze-2/01.jpg",
+  "title": "File:Mt.Hiuchigatake 11.jpg",
+  "w": 3822,
+  "h": 2548,
+  "ratio": 1.5,
+  "place": "ok",
+  "credit": {
+   "author": "Σ64",
+   "license": "CC BY 3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Mt.Hiuchigatake_11.jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "oze-2",
+  "n": 2,
+  "file": "logs/banner_oze-2/02.jpg",
+  "title": "File:Oze 20180608 164147.jpg",
+  "w": 4553,
+  "h": 2561,
+  "ratio": 1.78,
+  "place": "weak",
+  "credit": {
+   "author": "Ka23 13",
+   "license": "CC BY-SA 4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Oze_20180608_164147.jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "oze-2",
+  "n": 3,
+  "file": "logs/banner_oze-2/03.jpg",
+  "title": "File:尾瀬ヶ原からの景鶴山.jpg",
+  "w": 4896,
+  "h": 3672,
+  "ratio": 1.33,
+  "place": "ok",
+  "credit": {
+   "author": "Koda6029",
+   "license": "CC BY-SA 4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:%E5%B0%BE%E7%80%AC%E3%83%B6%E5%8E%9F%E3%81%8B%E3%82%89%E3%81%AE%E6%99%AF%E9%B6%B4%E5%B1%B1.jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "oze-2",
+  "n": 4,
+  "file": "logs/banner_oze-2/04.jpg",
+  "title": "File:Ozegahara 41.jpg",
+  "w": 3888,
+  "h": 2592,
+  "ratio": 1.5,
+  "place": "ok",
+  "credit": {
+   "author": "Σ64",
+   "license": "CC BY 3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Ozegahara_41.jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "oze-2",
+  "n": 5,
+  "file": "logs/banner_oze-2/05.jpg",
+  "title": "File:Ozegahara 85.jpg",
+  "w": 3888,
+  "h": 2592,
+  "ratio": 1.5,
+  "place": "ok",
+  "credit": {
+   "author": "Σ64",
+   "license": "CC BY 3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Ozegahara_85.jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "oze-2",
+  "n": 6,
+  "file": "logs/banner_oze-2/06.jpg",
+  "title": "File:Ozegahara 81.jpg",
+  "w": 3888,
+  "h": 2592,
+  "ratio": 1.5,
+  "place": "ok",
+  "credit": {
+   "author": "Σ64",
+   "license": "CC BY 3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Ozegahara_81.jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "oze-2",
+  "n": 7,
+  "file": "logs/banner_oze-2/07.jpg",
+  "title": "File:Ozegahara 92.jpg",
+  "w": 3888,
+  "h": 2592,
+  "ratio": 1.5,
+  "place": "ok",
+  "credit": {
+   "author": "Σ64",
+   "license": "CC BY 3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Ozegahara_92.jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "oze-2",
+  "n": 8,
+  "file": "logs/banner_oze-2/08.jpg",
+  "title": "File:Ozegahara 86.jpg",
+  "w": 3830,
+  "h": 2553,
+  "ratio": 1.5,
+  "place": "ok",
+  "credit": {
+   "author": "Σ64",
+   "license": "CC BY 3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Ozegahara_86.jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "fukaya",
+  "n": 1,
+  "file": "logs/banner_fukaya/01.jpg",
+  "title": "File:JR Takasaki Line Fukaya Station Platform.jpg",
+  "w": 4161,
+  "h": 2949,
+  "ratio": 1.41,
+  "place": "weak",
+  "credit": {
+   "author": "Mister0124",
+   "license": "CC BY-SA 4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:JR_Takasaki_Line_Fukaya_Station_Platform.jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "fukaya",
+  "n": 2,
+  "file": "logs/banner_fukaya/02.jpg",
+  "title": "File:深谷駅 - panoramio (3).jpg",
+  "w": 5472,
+  "h": 3648,
+  "ratio": 1.5,
+  "place": "ok",
+  "credit": {
+   "author": "くろふね",
+   "license": "CC BY 3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:%E6%B7%B1%E8%B0%B7%E9%A7%85_-_panoramio_(3).jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "fukaya",
+  "n": 3,
+  "file": "logs/banner_fukaya/03.jpg",
+  "title": "File:深谷駅 - panoramio (2).jpg",
+  "w": 5472,
+  "h": 3648,
+  "ratio": 1.5,
+  "place": "ok",
+  "credit": {
+   "author": "くろふね",
+   "license": "CC BY 3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:%E6%B7%B1%E8%B0%B7%E9%A7%85_-_panoramio_(2).jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "fukaya",
+  "n": 4,
+  "file": "logs/banner_fukaya/04.jpg",
+  "title": "File:深谷駅 - panoramio.jpg",
+  "w": 5472,
+  "h": 3648,
+  "ratio": 1.5,
+  "place": "ok",
+  "credit": {
+   "author": "くろふね",
+   "license": "CC BY 3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:%E6%B7%B1%E8%B0%B7%E9%A7%85_-_panoramio.jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "fukaya",
+  "n": 5,
+  "file": "logs/banner_fukaya/05.jpg",
+  "title": "File:深谷駅 - panoramio (4).jpg",
+  "w": 5472,
+  "h": 3648,
+  "ratio": 1.5,
+  "place": "ok",
+  "credit": {
+   "author": "くろふね",
+   "license": "CC BY 3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:%E6%B7%B1%E8%B0%B7%E9%A7%85_-_panoramio_(4).jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "fukaya",
+  "n": 6,
+  "file": "logs/banner_fukaya/06.jpg",
+  "title": "File:深谷駅 - panoramio (1).jpg",
+  "w": 5472,
+  "h": 3648,
+  "ratio": 1.5,
+  "place": "ok",
+  "credit": {
+   "author": "くろふね",
+   "license": "CC BY 3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:%E6%B7%B1%E8%B0%B7%E9%A7%85_-_panoramio_(1).jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "fukaya",
+  "n": 7,
+  "file": "logs/banner_fukaya/07.jpg",
+  "title": "File:Milk Oyaji Fukaya 20110410 Shibusawa statue performance.jpg",
+  "w": 2592,
+  "h": 1936,
+  "ratio": 1.34,
+  "place": "ok",
+  "credit": {
+   "author": "Asamoto",
+   "license": "CC BY 4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Milk_Oyaji_Fukaya_20110410_Shibusawa_statue_performance.jpg",
+   "attributionRequired": true
+  }
+ },
+ {
+  "id": "fukaya",
+  "n": 8,
+  "file": "logs/banner_fukaya/08.jpg",
+  "title": "File:JR Takasaki Line Fukaya Station South Exit.jpg",
+  "w": 4161,
+  "h": 2949,
+  "ratio": 1.41,
+  "place": "weak",
+  "credit": {
+   "author": "Mister0124",
+   "license": "CC BY-SA 4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:JR_Takasaki_Line_Fukaya_Station_South_Exit.jpg",
+   "attributionRequired": true
+  }
+ }
+]
