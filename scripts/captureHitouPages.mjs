@@ -18,8 +18,7 @@ const server = http.createServer((req, res) => {
 });
 await new Promise((r) => server.listen(PORT, r));
 
-const IDS = ['yunomine', 'iizaka', 'higashiyama-aizu', 'yamanaka-onsen',
-  'hirayu', 'shinhotaka', 'kaike'];
+const IDS = ['niche_福井_3', 'kotohira', 'ashizuri'];
 
 fs.mkdirSync('logs/shots', { recursive: true });
 const browser = await chromium.launch();

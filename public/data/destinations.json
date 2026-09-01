@@ -10168,7 +10168,8 @@
     "description": "門前町に甘い醤油の匂いが漂い、石段脇の土産屋のざわめきが耳に届く。一段一段踏みしめるたびに街の喧騒が遠ざかり、汗をぬぐって振り返れば讃岐平野が静かに広がる。1368段の石段の先にある沈黙は、こんぴらさんでしか出会えない。杉木立のトンネルを抜けて金刀比羅宮へ登り、円山応挙の虎の襖絵が残る表書院、現存する日本最古の芝居小屋・旧金毘羅大芝居をめぐる。石段は人の少ない朝8時台に登り始めるのがいい。拠点は琴電琴平駅で、高松駅がハブになる。",
     "tags": [
       "街歩き",
-      "寺社"
+      "寺社",
+      "温泉"
     ],
     "spots": [
       {
@@ -10214,6 +10215,10 @@
           "url": "https://commons.wikimedia.org/wiki/File:Kotohira-gu01s.jpg",
           "attributionRequired": true
         }
+      },
+      {
+        "name": "こんぴら温泉郷",
+        "description": "参道の坂に沿って湧く温泉。石段を登り切ったあとの脚を、宿の湯でほどいて帰るのが定番になっている。"
       }
     ],
     "shinkansenAccess": false,
@@ -10310,7 +10315,7 @@
       "寺社"
     ],
     "secondary": [],
-    "onsenLevel": 0,
+    "onsenLevel": 2,
     "hasDirectFlight": false,
     "mapPoint": "こんぴらさん",
     "subType": "urban",
@@ -10352,6 +10357,7 @@
       "/images/kotohira/spot-4.jpg"
     ],
     "reasonChips": [
+      "温泉",
       "歴史を辿る",
       "寺社めぐり",
       "街歩き",
@@ -15963,7 +15969,8 @@
     "description": "断崖の上に立つと風が強くて声が飛び、足元の岩が震えるほどの波音が響く。椿の赤が風に揺れ、灯台の白が空に溶けていく。四国最南端、どこまでも続く水平線の果てしなさは、ここまで来なければ知れない。椿のトンネルを抜けて出会う高さ18mの白い足摺岬灯台、巨石が群れる遺跡・唐人駄馬、太平洋を向いて立つジョン万次郎像。遊歩道は椿の根で凸凹なのでスニーカー一択だ。鉄道は中村駅が玄関で、ハブは高知駅。バス連絡はあるが高知市から遠く、現地の移動には車が必要だ。",
     "tags": [
       "自然",
-      "街歩き"
+      "街歩き",
+      "温泉"
     ],
     "spots": [
       {
@@ -15998,6 +16005,10 @@
           "url": "https://commons.wikimedia.org/wiki/File:Manjiro_Nakahama_circa_1880,_Millicent_Library_collection.jpg",
           "attributionRequired": false
         }
+      },
+      {
+        "name": "あしずり温泉郷",
+        "description": "岬の宿が引く四国最南端の温泉。弘法大師が発見したと伝わり、湯に浸かったまま太平洋を望む宿もある。"
       }
     ],
     "shinkansenAccess": false,
@@ -16093,7 +16104,7 @@
       "自然"
     ],
     "secondary": [],
-    "onsenLevel": 0,
+    "onsenLevel": 2,
     "hasDirectFlight": false,
     "mapPoint": "足摺岬灯台",
     "subType": "mountain",
@@ -16135,6 +16146,7 @@
       "/images/ashizuri/spot-3.jpg"
     ],
     "reasonChips": [
+      "温泉",
       "歴史を辿る",
       "自然と過ごす",
       "街歩き",
@@ -189467,7 +189479,7 @@
   },
   {
     "id": "niche_福井_3",
-    "name": "芦原温泉共同浴場群",
+    "name": "あわら温泉",
     "type": "destination",
     "region": "中部",
     "hub": "福井",
@@ -189479,53 +189491,50 @@
       "福井"
     ],
     "weight": 0.8,
-    "description": "引き戸を開ければアルカリ性単純温泉の温かな湯気が顔を包み、湯船の縁には地元の老人たちの方言が溶けていく。肌にぬるりと絡む湯は美肌の湯として親しまれ、明治期に農作業中偶然湧いた起源を持つ。観光旅館街とは一線を画し、路地に点在する共同浴場が日常の銭湯文化を今に伝えるのはここならでは。昭和の意匠を残す建物が連なる湯町街道を歩けば、甘味屋や醗酵食品店が懐かしい賑わいの名残を見せる。拠点は北陸新幹線も通る福井駅で、そこから足を延ばせる。",
+    "description": "えちぜん鉄道のあわら湯のまち駅を降りると、碁盤目に区切られた通りに宿が並んでいる。明治十六年、田んぼの灌漑用の井戸を掘っていて湯が出たのが始まりで、以来ここは関西の奥座敷と呼ばれてきた。宿がそれぞれ自前の源泉を持っているのがこの土地の特徴で、その数は七十四本、泉温は三十三度から七十七度まで幅がある。昭和三十一年の大火で街ごと焼けたあと、いまの整然とした街並みに作り直された。駅前には無料の足湯「芦湯」があり、日が落ちると軒下の提灯に灯が入る。芦原温泉駅には北陸新幹線が停まる。",
     "tags": [
       "温泉",
-      "共同浴場",
-      "銭湯文化",
-      "ローカル"
+      "歴史",
+      "街歩き",
+      "湯治"
     ],
     "spots": [
       {
-        "name": "清明乃湯",
-        "description": "昭和29年創業の木造共同浴場。含塩化物泉の白濁湯に浸かり、大工や漁師が集う朝風呂で地域の情報交換に触れられる。レトロなタイルと階段も。",
-        "googleMapsQuery": "清明乃湯 福井県",
-        "imageUrl": "/images/spots/niche_福井_3/0.jpg"
+        "name": "芦湯",
+        "description": "あわら湯のまち駅前にある無料の足湯。大正ロマン風の湯屋に五つの湯船が並び、夜は提灯が灯る。"
       },
       {
-        "name": "湯町街道",
-        "description": "温泉街を横切る路地に老舗の甘味屋や醗酵食品店、小さな旅館が軒を連ねる。色褪せた温泉町の賑わいの名残を歩き、懐かしさと静寂を味わえる。",
-        "googleMapsQuery": "湯町街道 福井県",
-        "imageUrl": "/images/spots/niche_福井_3/1.jpg"
+        "name": "セントピアあわら",
+        "description": "街の公衆浴場。二つの浴室を男女で日替わりに入れ替えており、泊まらずに湯だけ立ち寄れる。"
       },
       {
-        "name": "北潟湖",
-        "description": "あわら市北部に広がる汽水湖。湖畔の花菖蒲園やサイクリングロードで湯上がりの散策ができる。",
-        "googleMapsQuery": "北潟湖 福井県あわら市"
+        "name": "湯けむり横丁",
+        "description": "駅前に屋台が並ぶ一角。小さな店が肩を寄せ、湯上がりに一杯やってから宿へ戻る客が多い。"
       }
     ],
     "shinkansenAccess": true,
     "requiresCar": false,
-    "hotelSearch": "芦原温泉の共同浴場群",
+    "hotelSearch": "あわら温泉",
     "gateways": {
       "rail": [
-        "福井駅"
+        "あわら湯のまち駅"
       ],
-      "airport": [],
+      "airport": [
+        "小松空港"
+      ],
       "bus": [],
       "ferry": []
     },
     "accessHub": null,
     "railNote": null,
     "destType": "onsen",
-    "railGateway": "福井駅",
+    "railGateway": "あわら湯のまち駅",
     "busGateway": null,
     "ferryGateway": null,
-    "airportGateway": null,
+    "airportGateway": "小松空港",
     "prefecture": "福井県",
-    "lat": 36.2113858,
-    "lng": 136.2291611,
+    "lat": 36.2146,
+    "lng": 136.2351,
     "stayBias": 1,
     "airportHub": null,
     "railProvider": "e5489",
@@ -189539,8 +189548,8 @@
     "stayRecommendation": "daytrip",
     "secondaryTransport": null,
     "city": "あわら市",
-    "hubStation": "福井駅",
-    "accessStation": "福井駅",
+    "hubStation": "あわら湯のまち駅",
+    "accessStation": "あわら湯のまち駅",
     "hotelArea": "福井",
     "jalanPath": null,
     "hotelKeyword": "芦原温泉の共同浴場群",
@@ -189572,21 +189581,23 @@
       "couple",
       "friends"
     ],
-    "catch": "北陸最大級の温泉地でありながら",
+    "catch": "宿がそれぞれ自前の源泉を持つ、七十四本の湯。",
     "primary": [
       "温泉",
-      "共同浴場",
-      "銭湯文化"
+      "歴史"
     ],
-    "secondary": [],
-    "onsenLevel": 2,
+    "secondary": [
+      "街歩き",
+      "湯治"
+    ],
+    "onsenLevel": 3,
     "hasDirectFlight": false,
-    "mapPoint": "清明乃湯",
+    "mapPoint": "芦湯",
     "subType": "onsen",
     "stayDescription": "",
     "hubCity": "福井",
     "stayPriority": "medium",
-    "representativeStation": "福井駅",
+    "representativeStation": "あわら湯のまち駅",
     "finalAccess": {
       "type": "walk"
     },
@@ -189599,7 +189610,7 @@
       "name": "福井駅",
       "company": "JR"
     },
-    "mainSpot": "清明乃湯",
+    "mainSpot": "芦湯",
     "stayArea": {
       "rakuten": "芦原温泉の共同浴場群",
       "jalan": "芦原温泉の共同浴場群"
@@ -189608,9 +189619,9 @@
       "rakuten": "https://travel.rakuten.co.jp/yado/fukui/",
       "jalan": "https://www.jalan.net/ikisaki/map/fukui/"
     },
-    "tier": "spot",
+    "tier": "area",
     "icCard": null,
-    "tier2": "niche",
+    "tier2": "area",
     "hubName": "福井",
     "rentalCarRecommended": false,
     "images": [
@@ -189618,15 +189629,25 @@
     ],
     "reasonChips": [
       "温泉",
-      "街歩き",
-      "グルメ",
-      "1泊がおすすめ",
       "ひとり旅向け",
       "カップル向け",
-      "友達と"
+      "1泊がおすすめ",
+      "車なしOK"
     ],
-    "bestSeason": "冬",
-    "isIsland": false
+    "bestSeason": "通年",
+    "isIsland": false,
+    "imageCredit": {
+      "author": "Asturio Cantabrio",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Tsuruya_Awara_ac_(2).jpg",
+      "attributionRequired": true
+    },
+    "featured_stay": {
+      "name": "あわら温泉 光風湯圃 べにや",
+      "catchcopy": "明治十七年開業。十七室すべてに源泉かけ流しの半露天風呂を備える",
+      "hasShuttle": false,
+      "accessStation": "えちぜん鉄道あわら湯のまち駅"
+    }
   },
   {
     "id": "niche_福井_4",
