@@ -4,6 +4,47 @@
 // 実体が無く3本とも404だった（全ページ共通のフッターなので全ページから死んだリンクが出ていた）。
 // 実在する /about/ /contact/ /privacy/ /terms/ に差し替えている。
 const { title, description, image } = Astro.props;
+
+// ── OGP画像 ────────────────────────────────────────────────
+// これまでの問題:
+//   ・トップと /list/ が /images/naoshima.jpg を指していたが実体が無く404だった
+//     （画像をIDごとのフォルダに整理したときにパスがずれたまま残っていた）
+//   ・destinationは /images/<id>/main.jpg という相対URLで、OGPは絶対URLが前提
+//   ・特設ページ・hub・固定ページは image 未指定でog:image自体が無かった
+//   ・width/heightが実寸に関係なく1200x630固定だった
+// ここで「絶対URL化」「未指定ならブランド画像」「実寸の出力」をまとめて面倒を見る。
+import fs from 'node:fs';
+import path from 'node:path';
+
+const SITE = 'https://tabidokoiko.com';
+const BRAND = '/images/brand_share.png';
+
+const toAbs = (u: string): string => (/^https?:\/\//.test(u) ? u : SITE + (u.startsWith('/') ? u : '/' + u));
+const ogImage: string = toAbs(typeof image === 'string' && image ? image : BRAND);
+
+// JPEG/PNGのヘッダから実寸を読む。外部URL(Unsplash等)は読めないので既定値のままにする。
+function readSize(absUrl: string): { w: number; h: number } | null {
+  if (!absUrl.startsWith(SITE)) return null;
+  const file = path.join(process.cwd(), 'public', decodeURIComponent(absUrl.slice(SITE.length)));
+  if (!fs.existsSync(file)) return null;
+  const b = fs.readFileSync(file);
+  if (b.length > 24 && b.readUInt32BE(0) === 0x89504e47) return { w: b.readUInt32BE(16), h: b.readUInt32BE(20) };
+  if (b[0] === 0xff && b[1] === 0xd8) {                       // JPEG: SOFマーカを探す
+    let i = 2;
+    while (i < b.length - 9) {
+      if (b[i] !== 0xff) { i++; continue; }
+      const m = b[i + 1];
+      if (m >= 0xc0 && m <= 0xcf && m !== 0xc4 && m !== 0xc8 && m !== 0xcc) {
+        return { h: b.readUInt16BE(i + 5), w: b.readUInt16BE(i + 7) };
+      }
+      i += 2 + b.readUInt16BE(i + 2);
+    }
+  }
+  return null;
+}
+const size = readSize(ogImage);
+const ogW = size?.w ?? 1200;
+const ogH = size?.h ?? 675;
 ---
 <!DOCTYPE html>
 <html lang="ja">
@@ -16,13 +57,13 @@ const { title, description, image } = Astro.props;
   <meta property="og:url" content={Astro.url.href}>
   <meta property="og:title" content={title}>
   <meta property="og:description" content={description}>
-  {image && <meta property="og:image" content={image}>}
-  {image && <meta property="og:image:width" content="1200">}
-  {image && <meta property="og:image:height" content="630">}
+  <meta property="og:image" content={ogImage}>
+  <meta property="og:image:width" content={String(ogW)}>
+  <meta property="og:image:height" content={String(ogH)}>
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content={title}>
   <meta name="twitter:description" content={description}>
-  {image && <meta name="twitter:image" content={image}>}
+  <meta name="twitter:image" content={ogImage}>
   <link rel="canonical" href={Astro.url.href}>
   <slot name="head-extra" />
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-WCJKVC2DXY"></script>
