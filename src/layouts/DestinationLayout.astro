@@ -1,4 +1,8 @@
 ---
+// フッターのリンクについて:
+// 以前は /pages/about.html /pages/privacy.html /pages/disclaimer.html を指していたが、
+// 実体が無く3本とも404だった（全ページ共通のフッターなので全ページから死んだリンクが出ていた）。
+// 実在する /about/ /contact/ /privacy/ /terms/ に差し替えている。
 const { title, description, image } = Astro.props;
 ---
 <!DOCTYPE html>
@@ -123,7 +127,6 @@ const { title, description, image } = Astro.props;
   </main>
   <footer class="site-footer">
     <p>交通・宿泊情報は各社公式サイトでご確認ください。本サービスはアフィリエイト広告（楽天トラベル・じゃらん）を含みます。</p>
-    <!-- 旧 /pages/*.html は実体が無く3本とも404だったため、実在するページに差し替えた -->
     <p style="margin-top: 12px;">
       <a href="/about/">運営者情報</a>
       <a href="/contact/">お問い合わせ</a>
