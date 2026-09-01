@@ -1,0 +1,49 @@
+❌ iwaishima              祝島           合格なし（13枚試行）
+✅ ogose                  越生           Ogose Plum Tree In Ogosebairin 1.JPG … 青空の下に広がる梅林の白梅
+✅ kumano-kodo            熊野古道         Inside the Kumano Hongu Taisha.jpg … 熊野本宮大社の荘厳な社殿と参拝者
+✅ okayama-city           岡山           Okayama Castle 02.jpg … 緑の木々に囲まれた岡山城天守閣
+✅ kagoshima-city         鹿児島          Sengan-en2.jpg … 松が映える日本庭園と東屋と山の景観
+❌ mt-fuji-fifth          富士山五合目       合格なし（14枚試行）
+✅ nabari                 名張           Akame 48 Waterfalls-Otometaki.jpg … 岩肌と苔の渓谷を流れる清流と小滝
+✅ akita-yokote           横手           Kamakura at Yokote Castle 202402.jpg … 横手城をバックに灯るかまくら夜景
+✅ miyagi-matsushima-2    塩釜           Shiwahiko-jinja, shinmon.jpg … 塩竈神社の朱塗り楼門と石灯籠
+  !! tomakomai: Error: 400 {"type":"error","error":{"type":"invalid_request_error","me
+❌ tomakomai              苫小牧          合格なし（0枚試行）
+  !! tendou: Error: 400 {"type":"error","error":{"type":"invalid_request_error","me
+❌ tendou                 天童           合格なし（0枚試行）
+  !! hokkaido-asahikawa: Error: 400 {"type":"error","error":{"type":"invalid_request_error","me
+❌ hokkaido-asahikawa     旭川           合格なし（0枚試行）
+  !! toyota-city: Error: 400 {"type":"error","error":{"type":"invalid_request_error","me
+❌ toyota-city            豊田           合格なし（0枚試行）
+  !! obihiro: Error: 400 {"type":"error","error":{"type":"invalid_request_error","me
+❌ obihiro                帯広           合格なし（0枚試行）
+  !! toyohashi: Error: 400 {"type":"error","error":{"type":"invalid_request_error","me
+❌ toyohashi              豊橋           合格なし（0枚試行）
+  !! saga: Error: 400 {"type":"error","error":{"type":"invalid_request_error","me
+❌ saga                   佐賀           合格なし（0枚試行）
+  !! usuki: Error: 400 {"type":"error","error":{"type":"invalid_request_error","me
+❌ usuki                  臼杵           合格なし（0枚試行）
+  !! mihara: Error: 400 {"type":"error","error":{"type":"invalid_request_error","me
+❌ mihara                 三原           合格なし（0枚試行）
+  !! iga-ueno: Error: 400 {"type":"error","error":{"type":"invalid_request_error","me
+❌ iga-ueno               伊賀上野         合格なし（0枚試行）
+  !! ainan: Error: 400 {"type":"error","error":{"type":"invalid_request_error","me
+❌ ainan                  愛南           合格なし（2枚試行）
+  !! yura-wakayama: Error: 400 {"type":"error","error":{"type":"invalid_request_error","me
+❌ yura-wakayama          由良           合格なし（0枚試行）
+  !! nakanoshima-oki: Error: 400 {"type":"error","error":{"type":"invalid_request_error","me
+❌ nakanoshima-oki        中ノ島          合格なし（0枚試行）
+  !! noto-kiriko: Error: 400 {"type":"error","error":{"type":"invalid_request_error","me
+❌ noto-kiriko            奥能登          合格なし（0枚試行）
+  !! akiyoshido: Error: 400 {"type":"error","error":{"type":"invalid_request_error","me
+❌ akiyoshido             秋芳洞          合格なし（0枚試行）
+  !! yamaguchi-city: Error: 400 {"type":"error","error":{"type":"invalid_request_error","me
+❌ yamaguchi-city         山口市          合格なし（0枚試行）
+  !! fukushima-aizu-2: Error: 400 {"type":"error","error":{"type":"invalid_request_error","me
+❌ fukushima-aizu-2       塔のへつり        合格なし（0枚試行）
+  !! higashine: Error: 400 {"type":"error","error":{"type":"invalid_request_error","me
+❌ higashine              東根           合格なし（0枚試行）
+  !! tajimi: Error: 400 {"type":"error","error":{"type":"invalid_request_error","me
+❌ tajimi                 多治見          合格なし（0枚試行）
+
+再取得 採用 38 / 不採用 25 → logs/refill_retry1.json

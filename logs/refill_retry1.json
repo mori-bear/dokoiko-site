@@ -1,0 +1,1008 @@
+{
+ "adopted": [
+  {
+   "id": "akita-oga",
+   "name": "男鹿温泉",
+   "title": "File:Mount Kampu seen from Futto, Wakami, Oga.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "掬茶",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Mount_Kampu_seen_from_Futto,_Wakami,_Oga.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "subject": "男鹿半島と緑の田園風景",
+     "reason": "男鹿温泉の背景にある独特の山容と秋田の豊かな自然を表現できる良い景観写真"
+    },
+    "sonnet": {
+     "verdict": "ok",
+     "subject": "緑の水田と寒風山を望む夏の景観",
+     "reason": "青空・田園・山が広がり旅情を誘う風景写真"
+    }
+   }
+  },
+  {
+   "id": "miyazaki",
+   "name": "宮崎",
+   "title": "File:2021-01-07 Aoshima Island (Miyazaki)Aerial photography青島 (宮崎県)DJI 0246 (2)空撮.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "松岡明芳",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:2021-01-07_Aoshima_Island_(Miyazaki)Aerial_photography%E9%9D%92%E5%B3%B6_(%E5%AE%AE%E5%B4%8E%E7%9C%8C)DJI_0246_(2)%E7%A9%BA%E6%92%AE.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "subject": "宮崎の海岸と橋、緑の島が映る景観",
+     "reason": "海の透明度と独特の地形が美しく、旅心をそそる風景"
+    },
+    "sonnet": {
+     "verdict": "ok",
+     "subject": "青島へ続く橋と鬼の洗濯板の海岸景観",
+     "reason": "独特の地形と青い海が宮崎の魅力を伝える絶景"
+    }
+   }
+  },
+  {
+   "id": "toshima",
+   "name": "利島",
+   "title": "File:Miyatsukayama.jpg",
+   "placeCheck": "weak",
+   "credit": {
+    "author": "ゆうき315",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Miyatsukayama.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "subject": "利島のシンボル、緑に覆われた火山と港の風景",
+     "reason": "島の自然景観と地形がよく表現されており、旅先の魅力が伝わる"
+    },
+    "sonnet": {
+     "verdict": "ok",
+     "subject": "雲をまとう利島の山と港の風景",
+     "reason": "島の象徴的な山容と港が一体で離島感が伝わる"
+    }
+   }
+  },
+  {
+   "id": "aso",
+   "name": "阿蘇",
+   "title": "File:Mount Aso 2010-05 01.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "STA3816",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Mount_Aso_2010-05_01.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "subject": "阿蘇山の火口と火山活動による白煙",
+     "reason": "阿蘇の象徴的な火山景観。訪問意欲を引き出す大自然の迫力がある"
+    },
+    "sonnet": {
+     "verdict": "ok",
+     "subject": "阿蘇中岳火口と噴煙の迫力ある景観",
+     "reason": "阿蘇を象徴する火口の雄大さが伝わる風景写真"
+    }
+   }
+  },
+  {
+   "id": "jozankei",
+   "name": "定山渓",
+   "title": "File:北海道道1号小樽定山渓線（Lakeline Jozankei） - panoramio.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "t-konno",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:%E5%8C%97%E6%B5%B7%E9%81%93%E9%81%931%E5%8F%B7%E5%B0%8F%E6%A8%BD%E5%AE%9A%E5%B1%B1%E6%B8%93%E7%B7%9A%EF%BC%88Lakeline_Jozankei%EF%BC%89_-_panoramio.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "subject": "秋の山々に囲まれた湖と紅葉景観",
+     "reason": "定山渓の自然風景を代表する美しい秋の景観。見どころが明確で魅力的"
+    },
+    "sonnet": {
+     "verdict": "ok",
+     "subject": "紅葉に包まれたダム湖と山々の絶景",
+     "reason": "色鮮やかな紅葉と湖面が定山渓の秋を魅力的に表現"
+    }
+   }
+  },
+  {
+   "id": "oarai",
+   "name": "大洗",
+   "title": "File:Oarai Isosaki Shrine 03.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Σ64",
+    "license": "CC BY 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Oarai_Isosaki_Shrine_03.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "subject": "大洗磯前神社の社殿と参道入口",
+     "reason": "大洗の代表的な社寺景観。歴史ある建築と季節感があり、訪問意欲を引き出せる"
+    },
+    "sonnet": {
+     "verdict": "ok",
+     "subject": "大洗磯前神社の社殿と狛犬",
+     "reason": "歴史ある神社建築で旅情を誘う景観"
+    }
+   }
+  },
+  {
+   "id": "takashima-shiga",
+   "name": "高島",
+   "title": "File:Shirahige shrine , 白鬚神社 - panoramio (11).jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "z tanuki",
+    "license": "CC BY 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Shirahige_shrine_,_%E7%99%BD%E9%AC%9A%E7%A5%9E%E7%A4%BE_-_panoramio_(11).jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "subject": "赤い鳥居と石段、参道の社寺入口風景",
+     "reason": "高島の社寺景観。訪問欲をそそる印象的な風景で、トップ画に適切"
+    },
+    "sonnet": {
+     "verdict": "ok",
+     "subject": "朱塗り鳥居と石段・石灯籠が並ぶ神社参道",
+     "reason": "鮮やかな鳥居と緑の森が映え、参拝意欲を誘う景観"
+    }
+   }
+  },
+  {
+   "id": "kitsuki",
+   "name": "杵築",
+   "title": "File:杵築市 大原邸 2022.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "ほっきー",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:%E6%9D%B5%E7%AF%89%E5%B8%82_%E5%A4%A7%E5%8E%9F%E9%82%B8_2022.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "subject": "杵築の歴史的な武家屋敷の茅葺き屋根と門構え",
+     "reason": "杵築の町並みを代表する建築。見応えあり、旅心をそそる風景"
+    },
+    "sonnet": {
+     "verdict": "ok",
+     "subject": "茅葺き屋根の武家屋敷と庭園",
+     "reason": "杵築らしい歴史的建物で風情があり旅情を誘う"
+    }
+   }
+  },
+  {
+   "id": "tsuyama",
+   "name": "津山",
+   "title": "File:Tuyama-1311-6.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Ujigis",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Tuyama-1311-6.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "subject": "津山城の白壁と天守閣の建築美",
+     "reason": "津山の象徴的な城郭建築。清廉な白壁と青空のコントラストが美しく、旅心をそそる風景"
+    },
+    "sonnet": {
+     "verdict": "ok",
+     "subject": "津山城（鶴山公園）の天守備中櫓と石垣",
+     "reason": "青空に映える白壁の城郭で旅情を誘う景観"
+    }
+   }
+  },
+  {
+   "id": "murakami",
+   "name": "村上",
+   "title": "File:きっかわ・益甚酒店.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "皓月旗",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:%E3%81%8D%E3%81%A3%E3%81%8B%E3%82%8F%E3%83%BB%E7%9B%8A%E7%94%9A%E9%85%92%E5%BA%97.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "subject": "村上の伝統的な町家建築と街並み",
+     "reason": "江戸時代の建物が立ち並ぶ村上らしい風情ある街景として、トップ画像に最適"
+    },
+    "sonnet": {
+     "verdict": "ok",
+     "subject": "村上の風情ある黒壁の老舗町家建築",
+     "reason": "歴史的な街並みが伝わり旅情を誘う景観写真"
+    }
+   }
+  },
+  {
+   "id": "rikuzentakata",
+   "name": "陸前高田",
+   "title": "File:高田松原箱根山Rikuzentakatamatsubara Mt.Hakone - panoramio.jpg",
+   "placeCheck": "weak",
+   "credit": {
+    "author": "Satoh Junpei",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:%E9%AB%98%E7%94%B0%E6%9D%BE%E5%8E%9F%E7%AE%B1%E6%A0%B9%E5%B1%B1Rikuzentakatamatsubara_Mt.Hakone_-_panoramio.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "subject": "高田松原付近の海浜風景と奥に見える山々",
+     "reason": "陸前高田の代表的な景観。海、松、山が調和した旅心をそそる風景"
+    },
+    "sonnet": {
+     "verdict": "ok",
+     "subject": "松林と砂浜、山を望む海岸風景",
+     "reason": "広田湾の自然景観が伝わり旅情を誘う"
+    }
+   }
+  },
+  {
+   "id": "higashihiroshima",
+   "name": "東広島",
+   "title": "File:仕込みの湯気 87cf521f-8e8f-44b4-8fad-2d608420ab68.jpg",
+   "placeCheck": "weak",
+   "credit": {
+    "author": "東広島市",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:%E4%BB%95%E8%BE%BC%E3%81%BF%E3%81%AE%E6%B9%AF%E6%B0%97_87cf521f-8e8f-44b4-8fad-2d608420ab68.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "subject": "温泉街の湯気が立ち込める景観と町並み",
+     "reason": "東広島の温泉情緒が感じられる風情のある景観。旅心を刺激する"
+    },
+    "sonnet": {
+     "verdict": "ok",
+     "subject": "西条の酒蔵群と煙突から立ち上る蒸気",
+     "reason": "東広島・西条の酒どころらしい風景で旅情を誘う"
+    }
+   }
+  },
+  {
+   "id": "shinjou",
+   "name": "新庄",
+   "title": "File:ShinjoMatsuriNight.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "克年 三沢",
+    "license": "CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:ShinjoMatsuriNight.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "subject": "新庄祭りの豪華な山車と提灯飾り",
+     "reason": "新庄藩主が誇る伝統祭りを象徴する夜間イベント。旅心をかき立てる華やかな風景"
+    },
+    "sonnet": {
+     "verdict": "ok",
+     "subject": "新庄まつりの巨大蛇の山車と夜の絵巻",
+     "reason": "新庄祭の豪華な山車が映え、行きたくなる祭り景観"
+    }
+   }
+  },
+  {
+   "id": "miyoshi-hiroshima",
+   "name": "三次",
+   "title": "File:みよし風土記の丘復元建物群.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "小池 隆",
+    "license": "CC BY 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:%E3%81%BF%E3%82%88%E3%81%97%E9%A2%A8%E5%9C%9F%E8%A8%98%E3%81%AE%E4%B8%98%E5%BE%A9%E5%85%83%E5%BB%BA%E7%89%A9%E7%BE%A4.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "subject": "茅葺き屋根の古民家と緑の景観",
+     "reason": "三次の歴史的建造物。見応えのある民俗建築で旅行欲を刺激する"
+    },
+    "sonnet": {
+     "verdict": "ok",
+     "subject": "茅葺き屋根の古代高床式建物群",
+     "reason": "歴史的な復元集落で見応えがあり旅情を誘う"
+    }
+   }
+  },
+  {
+   "id": "yatsushiro",
+   "name": "八代",
+   "title": "File:Kumagawa Shiroishi.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Bakkai at Japanese Wikipedia",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Kumagawa_Shiroishi.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "subject": "緑豊かな山々に囲まれた清流と集落",
+     "reason": "八代の自然景観を代表する川の風景。見どころのある魅力的な風景"
+    },
+    "sonnet": {
+     "verdict": "ok",
+     "subject": "緑の山々と川面の静かな渓谷風景",
+     "reason": "緑豊かな山と川の反射が美しく行きたくなる自然景観"
+    }
+   }
+  },
+  {
+   "id": "tsuchiura",
+   "name": "土浦",
+   "title": "File:Tsuchiura Fireworks Competition 2009 a.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "inoc from Japan",
+    "license": "CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Tsuchiura_Fireworks_Competition_2009_a.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "subject": "土浦の花火大会の壮大な花火の打ち上げ",
+     "reason": "土浦は花火の町として有名。祭りの華やかな夜景は旅先の魅力を効果的に表現"
+    },
+    "sonnet": {
+     "verdict": "ok",
+     "subject": "夜空を彩る土浦花火大会の華やかな打ち上げ花火",
+     "reason": "色鮮やかな花火が迫力満点で行きたくなる景観"
+    }
+   }
+  },
+  {
+   "id": "kisakata",
+   "name": "象潟",
+   "title": "File:Main Hall, Kanman-ji.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "掬茶",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Main_Hall,_Kanman-ji.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "subject": "象潟の寺院と庭園、緑と歴史的建築",
+     "reason": "象潟の歴史的寺社建築と庭園景観。旅先の文化的魅力を表現している"
+    },
+    "sonnet": {
+     "verdict": "ok",
+     "subject": "緑に囲まれた歴史ある寺院の本堂",
+     "reason": "象潟の社寺景観として旅情を感じる風景写真"
+    }
+   }
+  },
+  {
+   "id": "chokai-san",
+   "name": "鳥海山",
+   "title": "File:Mt. Chokai, 19 Oct. 2013.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "8-Forest",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Mt._Chokai,_19_Oct._2013.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "subject": "鳥海山の雪化粧と深い谷筋の景観",
+     "reason": "雄大な山容と地形の美しさが引き立つ良い構図で、旅への興味をそそられる"
+    },
+    "sonnet": {
+     "verdict": "ok",
+     "subject": "雪をいただく鳥海山と紅葉の山肌",
+     "reason": "青空と初雪の山頂・紅葉の稜線が雄大で行きたくなる景観"
+    }
+   }
+  },
+  {
+   "id": "nyukasa",
+   "name": "入笠山",
+   "title": "File:Mt.Nyukasa 01.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Σ64 (talk)",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Mt.Nyukasa_01.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "subject": "入笠山の麓の田園風景と山々の眺望",
+     "reason": "緑豊かな棚田と背景の山並みが調和した、旅心をくすぐる景観写真"
+    },
+    "sonnet": {
+     "verdict": "ok",
+     "subject": "緑の田園と山麓の集落と山の眺望",
+     "reason": "青空と緑豊かな山・田園が広がり行きたくなる景観"
+    }
+   }
+  },
+  {
+   "id": "uchiko",
+   "name": "内子",
+   "title": "File:Uchiko-za entrance ac (2).jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Asturio Cantabrio",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Uchiko-za_entrance_ac_(2).jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "subject": "内子の歴史的建造物の装飾的な屋根と鬼瓦",
+     "reason": "内子の伝統的な街並みを象徴する美しい建築で、訪問欲を喚起"
+    },
+    "sonnet": {
+     "verdict": "ok",
+     "subject": "内子座の唐破風屋根と扁額",
+     "reason": "内子を代表する歴史的芝居小屋の風格ある外観で旅情を誘う"
+    }
+   }
+  },
+  {
+   "id": "echizen",
+   "name": "越前",
+   "title": "File:水仙廼社.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Indiana jo",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:%E6%B0%B4%E4%BB%99%E5%BB%BC%E7%A4%BE.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "subject": "大きな岩窟の中にある白い社寺建築",
+     "reason": "越前の独特な自然景観と信仰遺産が融合した見ごたえのある風景"
+    },
+    "sonnet": {
+     "verdict": "ok",
+     "subject": "巨大な岩窟に祀られた小社と石灯籠",
+     "reason": "越前海岸の神秘的な洞窟社で旅情を誘う景観"
+    }
+   }
+  },
+  {
+   "id": "iga",
+   "name": "伊賀",
+   "title": "File:Ninja MUSEUM of Igaryu , 伊賀流忍者博物館 - panoramio (3).jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "z tanuki",
+    "license": "CC BY 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Ninja_MUSEUM_of_Igaryu_,_%E4%BC%8A%E8%B3%80%E6%B5%81%E5%BF%8D%E8%80%85%E5%8D%9A%E7%89%A9%E9%A4%A8_-_panoramio_(3).jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "subject": "茅葺き屋根の伝統的な建物と庭園",
+     "reason": "伊賀の歴史的な建築と自然が調和した風情ある景観で、旅行欲を喚起する"
+    },
+    "sonnet": {
+     "verdict": "ok",
+     "subject": "茅葺き屋根の古民家風建物と日本庭園",
+     "reason": "伊賀らしい趣ある茅葺き建築で訴求力あり"
+    }
+   }
+  },
+  {
+   "id": "kamaishi",
+   "name": "釜石",
+   "title": "File:Kamaishi Kannon 釜石大観音 Mar 4, 2012.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "karinckarinc",
+    "license": "CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Kamaishi_Kannon_%E9%87%9C%E7%9F%B3%E5%A4%A7%E8%A6%B3%E9%9F%B3_Mar_4,_2012.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "subject": "根浜海岸からの観音像と社寺の眺め",
+     "reason": "釜石の象徴的な観音像と社寺が見える風景。旅の魅力を伝える景観。"
+    },
+    "sonnet": {
+     "verdict": "ok",
+     "subject": "雪景色の丘に立つ釜石大観音と寺院",
+     "reason": "観音像と冬景色が釜石らしさを伝える風景写真"
+    }
+   }
+  },
+  {
+   "id": "ono-fukui",
+   "name": "越前大野",
+   "title": "File:Akazunomon in Echizen Ono Castle.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "藤谷良秀",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Akazunomon_in_Echizen_Ono_Castle.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "subject": "越前大野の古刹の門と城下町の歴史的建造物",
+     "reason": "その土地の歴史的な寺社建築と街並みが見て行きたくなる風景として魅力的"
+    },
+    "sonnet": {
+     "verdict": "ok",
+     "subject": "越前大野の寺院山門と大きな赤提灯",
+     "reason": "歴史ある山門と赤提灯が旅情を醸し出す風景"
+    }
+   }
+  },
+  {
+   "id": "isawa-onsen",
+   "name": "石和温泉",
+   "title": "File:Isawa Hot Springs Creek Aug.2013.JPG",
+   "placeCheck": "weak",
+   "credit": {
+    "author": "Sakaori (talk)",
+    "license": "CC BY 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Isawa_Hot_Springs_Creek_Aug.2013.JPG",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "subject": "温泉街の木立と清流沿いの散策路",
+     "reason": "石和温泉の情緒的な街並みと自然が調和した景観。訪問意欲を高める良い1枚"
+    },
+    "sonnet": {
+     "verdict": "ok",
+     "subject": "温泉街の川沿い遊歩道と緑豊かな並木",
+     "reason": "石和温泉らしい風情ある街並みで行きたくなる景観"
+    }
+   }
+  },
+  {
+   "id": "chizu",
+   "name": "智頭",
+   "title": "File:150425 Ishitani Residence Chizu Tottori pref Japan04n.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "663highland",
+    "license": "CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:150425_Ishitani_Residence_Chizu_Tottori_pref_Japan04n.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "subject": "緑の山々に囲まれた伝統的な日本家屋と湯屋",
+     "reason": "智頭の自然と歴史的建造物が調和した風景で、訪問意欲を高める"
+    },
+    "sonnet": {
+     "verdict": "ok",
+     "subject": "智頭の歴史的な町家と緑の山並み",
+     "reason": "風情ある宿場町の街並みと新緑が映え旅情を誘う"
+    }
+   }
+  },
+  {
+   "id": "kashiwara-wine",
+   "name": "柏原",
+   "title": "File:カタシモワイナリー.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Popbeans",
+    "license": "CC0",
+    "url": "https://commons.wikimedia.org/wiki/File:%E3%82%AB%E3%82%BF%E3%82%B7%E3%83%A2%E3%83%AF%E3%82%A4%E3%83%8A%E3%83%AA%E3%83%BC.jpg",
+    "attributionRequired": false
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "subject": "黒い土蔵造りの建物と樽が置かれた歴史的街並み",
+     "reason": "柏原の歴史的景観を代表する酒蔵街の風情が良く表現されており、旅心をそそる"
+    },
+    "sonnet": {
+     "verdict": "ok",
+     "subject": "黒壁の蔵元外観とワイン樽と松の木",
+     "reason": "柏原の歴史あるワイナリー蔵元で旅情を感じる景観"
+    }
+   }
+  },
+  {
+   "id": "ikuno",
+   "name": "生野",
+   "title": "File:Ikuno-Ginzan city1.JPG",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Indiana jo",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Ikuno-Ginzan_city1.JPG",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "subject": "生野の山間に広がる集落と清流、伝統的な家並み",
+     "reason": "山々に囲まれた自然豊かな風景で、生野の典型的な景観。訪問欲を引き出せる"
+    },
+    "sonnet": {
+     "verdict": "ok",
+     "subject": "山間の川沿いに広がる生野の街並みと山々",
+     "reason": "山・川・古い街並みが調和した情緒ある風景写真"
+    }
+   }
+  },
+  {
+   "id": "ogose",
+   "name": "越生",
+   "title": "File:Ogose Plum Tree In Ogosebairin 1.JPG",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "京浜にけ",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Ogose_Plum_Tree_In_Ogosebairin_1.JPG",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "subject": "越生の梅園で咲く梅の花と古木",
+     "reason": "越生は梅の名所。春の梅の開花風景は旅情を引き立てる景観"
+    },
+    "sonnet": {
+     "verdict": "ok",
+     "subject": "青空の下に広がる梅林の白梅",
+     "reason": "越生の名物・梅林が映え、訪れたくなる春景色"
+    }
+   }
+  },
+  {
+   "id": "kumano-kodo",
+   "name": "熊野古道",
+   "title": "File:Inside the Kumano Hongu Taisha.jpg",
+   "placeCheck": "weak",
+   "credit": {
+    "author": "Tim Notari from Tanabe-Shi Wakayama-Ken, Japan",
+    "license": "CC BY-SA 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Inside_the_Kumano_Hongu_Taisha.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "subject": "茅葺き屋根の社寺建築と参拝者、緑に囲まれた景観",
+     "reason": "熊野古道の信仰地である社寺の風情ある景観で、見どころが明確"
+    },
+    "sonnet": {
+     "verdict": "ok",
+     "subject": "熊野本宮大社の荘厳な社殿と参拝者",
+     "reason": "世界遺産の社殿が正面から映え、旅情を誘う景観"
+    }
+   }
+  },
+  {
+   "id": "okayama-city",
+   "name": "岡山",
+   "title": "File:Okayama Castle 02.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "by Reggaeman",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Okayama_Castle_02.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "subject": "岡山城の天守閣と周囲の緑。春の景観",
+     "reason": "岡山の代表的観光地である城郭建築が主役で、見どころが明確。構図も良好"
+    },
+    "sonnet": {
+     "verdict": "ok",
+     "subject": "緑の木々に囲まれた岡山城天守閣",
+     "reason": "烏城の黒い天守が映え岡山を象徴する景観"
+    }
+   }
+  },
+  {
+   "id": "kagoshima-city",
+   "name": "鹿児島",
+   "title": "File:Sengan-en2.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "STA3816",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Sengan-en2.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "subject": "鹿児島の庭園と伝統建築の風景",
+     "reason": "日本庭園の美しい景観で、その土地の特性を表現する見応えのある風景写真"
+    },
+    "sonnet": {
+     "verdict": "ok",
+     "subject": "松が映える日本庭園と東屋と山の景観",
+     "reason": "手入れされた庭園と山の借景が行きたい気持ちを喚起する"
+    }
+   }
+  },
+  {
+   "id": "nabari",
+   "name": "名張",
+   "title": "File:Akame 48 Waterfalls-Otometaki.jpg",
+   "placeCheck": "weak",
+   "credit": {
+    "author": "KENPEI",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Akame_48_Waterfalls-Otometaki.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "subject": "渓流の小滝と苔むした岩壁、清流の風景",
+     "reason": "名張の自然景観を代表する渓谷美。行きたくなる清涼感がある"
+    },
+    "sonnet": {
+     "verdict": "ok",
+     "subject": "岩肌と苔の渓谷を流れる清流と小滝",
+     "reason": "名張の自然渓谷の魅力が伝わる景観写真"
+    }
+   }
+  },
+  {
+   "id": "akita-yokote",
+   "name": "横手",
+   "title": "File:Kamakura at Yokote Castle 202402.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Rarisan",
+    "license": "CC0",
+    "url": "https://commons.wikimedia.org/wiki/File:Kamakura_at_Yokote_Castle_202402.jpg",
+    "attributionRequired": false
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "subject": "横手城とかまくら、夜間ライトアップの風景",
+     "reason": "横手の冬祭りを象徴する情緒的で見応えある夜景。旅心をくすぐる独特性がある。"
+    },
+    "sonnet": {
+     "verdict": "ok",
+     "subject": "横手城をバックに灯るかまくら夜景",
+     "reason": "横手の冬の風物詩が幻想的に撮れており旅情を強く喚起する"
+    }
+   }
+  },
+  {
+   "id": "miyagi-matsushima-2",
+   "name": "塩釜",
+   "title": "File:Shiwahiko-jinja, shinmon.jpg",
+   "placeCheck": "weak",
+   "credit": {
+    "author": "Saigen Jiro",
+    "license": "CC0",
+    "url": "https://commons.wikimedia.org/wiki/File:Shiwahiko-jinja,_shinmon.jpg",
+    "attributionRequired": false
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "subject": "塩釜神社の朱色の社殿と参道",
+     "reason": "塩釜を代表する神社の景観。見て行きたくなる風景として使用可能"
+    },
+    "sonnet": {
+     "verdict": "ok",
+     "subject": "塩竈神社の朱塗り楼門と石灯籠",
+     "reason": "社寺の風格ある景観で旅情を誘う"
+    }
+   }
+  }
+ ],
+ "rejected": [
+  {
+   "id": "otari-onsen",
+   "name": "小谷温泉",
+   "reason": "合格画像なし",
+   "triedCount": 7
+  },
+  {
+   "id": "arita",
+   "name": "有田",
+   "reason": "合格画像なし",
+   "triedCount": 11
+  },
+  {
+   "id": "tsubamesanjo",
+   "name": "燕三条",
+   "reason": "合格画像なし",
+   "triedCount": 10
+  },
+  {
+   "id": "sozogi",
+   "name": "曽々木海岸",
+   "reason": "合格画像なし",
+   "triedCount": 9
+  },
+  {
+   "id": "iwaishima",
+   "name": "祝島",
+   "reason": "合格画像なし",
+   "triedCount": 13
+  },
+  {
+   "id": "mt-fuji-fifth",
+   "name": "富士山五合目",
+   "reason": "合格画像なし",
+   "triedCount": 14
+  },
+  {
+   "id": "tomakomai",
+   "name": "苫小牧",
+   "reason": "合格画像なし",
+   "triedCount": 0
+  },
+  {
+   "id": "tendou",
+   "name": "天童",
+   "reason": "合格画像なし",
+   "triedCount": 0
+  },
+  {
+   "id": "hokkaido-asahikawa",
+   "name": "旭川",
+   "reason": "合格画像なし",
+   "triedCount": 0
+  },
+  {
+   "id": "toyota-city",
+   "name": "豊田",
+   "reason": "合格画像なし",
+   "triedCount": 0
+  },
+  {
+   "id": "obihiro",
+   "name": "帯広",
+   "reason": "合格画像なし",
+   "triedCount": 0
+  },
+  {
+   "id": "toyohashi",
+   "name": "豊橋",
+   "reason": "合格画像なし",
+   "triedCount": 0
+  },
+  {
+   "id": "saga",
+   "name": "佐賀",
+   "reason": "合格画像なし",
+   "triedCount": 0
+  },
+  {
+   "id": "usuki",
+   "name": "臼杵",
+   "reason": "合格画像なし",
+   "triedCount": 0
+  },
+  {
+   "id": "mihara",
+   "name": "三原",
+   "reason": "合格画像なし",
+   "triedCount": 0
+  },
+  {
+   "id": "iga-ueno",
+   "name": "伊賀上野",
+   "reason": "合格画像なし",
+   "triedCount": 0
+  },
+  {
+   "id": "ainan",
+   "name": "愛南",
+   "reason": "合格画像なし",
+   "triedCount": 2
+  },
+  {
+   "id": "yura-wakayama",
+   "name": "由良",
+   "reason": "合格画像なし",
+   "triedCount": 0
+  },
+  {
+   "id": "nakanoshima-oki",
+   "name": "中ノ島",
+   "reason": "合格画像なし",
+   "triedCount": 0
+  },
+  {
+   "id": "noto-kiriko",
+   "name": "奥能登",
+   "reason": "合格画像なし",
+   "triedCount": 0
+  },
+  {
+   "id": "akiyoshido",
+   "name": "秋芳洞",
+   "reason": "合格画像なし",
+   "triedCount": 0
+  },
+  {
+   "id": "yamaguchi-city",
+   "name": "山口市",
+   "reason": "合格画像なし",
+   "triedCount": 0
+  },
+  {
+   "id": "fukushima-aizu-2",
+   "name": "塔のへつり",
+   "reason": "合格画像なし",
+   "triedCount": 0
+  },
+  {
+   "id": "higashine",
+   "name": "東根",
+   "reason": "合格画像なし",
+   "triedCount": 0
+  },
+  {
+   "id": "tajimi",
+   "name": "多治見",
+   "reason": "合格画像なし",
+   "triedCount": 0
+  },
+  {
+   "id": "mimasaka",
+   "reason": "目視棄却: 湯原温泉の砂湯（真庭市）。美作市ではない。spotsに湯原温泉が入っているのが原因"
+  },
+  {
+   "id": "tsuruoka-kinzan",
+   "reason": "目視棄却: 埼玉県小鹿野町の二子山。山形県金山町ではない。透かし入りでもある"
+  },
+  {
+   "id": "fuchu-hiroshima",
+   "reason": "目視棄却: 帝釈峡の雄橋（庄原市・神石高原町）。府中市ではない。spotsに雄橋が入っているのが原因"
+  }
+ ]
+}

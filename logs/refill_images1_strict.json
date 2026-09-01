@@ -1,0 +1,468 @@
+{
+ "pass": [
+  {
+   "id": "suwa",
+   "title": "File:Suwataisya kamisya kawagoshi.JPG",
+   "subject": "諏訪大社御柱祭の川越し神事",
+   "reason": "勇壮な伝統祭事で諏訪の魅力を強く伝える景観"
+  },
+  {
+   "id": "tokyo",
+   "title": "File:Minato City, Tokyo, Japan.jpg",
+   "subject": "東京タワーと都心の高層ビル群の夕景",
+   "reason": "東京を象徴する景観で行きたくなる魅力的な一枚"
+  },
+  {
+   "id": "myoko",
+   "title": "File:Sekiyama shrine in Myōkō, Niigata.jpg",
+   "subject": "赤い鳥居と杉木立に囲まれた神社参道",
+   "reason": "緑豊かな社寺の景観で訪問意欲を喚起できる"
+  },
+  {
+   "id": "tateyama-toyama",
+   "title": "File:Tateyama 20191005 141249.jpg",
+   "subject": "立山の火山地形と山岳パノラマ風景",
+   "reason": "荒々しい火山地形と雄大な山並みが立山らしさを表現"
+  },
+  {
+   "id": "minami-aizu",
+   "title": "File:福島県南会津郡南会津町塩ノ原 02.jpg",
+   "subject": "秋の山里、川と橋、集落の全景",
+   "reason": "紅葉の山を背景に川と集落が広がり行きたくなる景観"
+  },
+  {
+   "id": "niimi",
+   "title": "File:Niimi city.jpg",
+   "subject": "桜咲く新見市街と高梁川の眺望",
+   "reason": "桜と川と山に囲まれた街並みが行楽感を演出"
+  },
+  {
+   "id": "nachikatsuura",
+   "title": "File:那智勝浦港の夕陽.jpg",
+   "subject": "勝浦漁港の夕焼けと海面の反射",
+   "reason": "劇的な夕焼け空と港の景観が旅情を誘う"
+  },
+  {
+   "id": "hachimantai",
+   "title": "File:Hachimann numa 2008.jpg",
+   "subject": "八幡平の高原湖と緑の山並み",
+   "reason": "青い湖と緑豊かな高原の景観が魅力的で行きたくなる"
+  },
+  {
+   "id": "kasama",
+   "title": "File:Ryogonji Temple (Kasama City) 03.jpg",
+   "subject": "緑に囲まれた歴史ある木造社寺建築",
+   "reason": "笠間の古刹を感じさせる風格ある景観で旅情を誘う"
+  },
+  {
+   "id": "koka",
+   "title": "File:Shiga Koka Shigarakinomiya00.jpg",
+   "subject": "森の中の小さな神社と鳥居",
+   "reason": "緑豊かな境内の社が旅情を誘う風景"
+  },
+  {
+   "id": "joetsu",
+   "title": "File:Unohama Beach, Joetsu, Niigata, Japan, July 2024.jpg",
+   "subject": "海水浴客でにぎわう上越の砂浜海岸",
+   "reason": "青空と日本海の開放感があり夏の魅力を伝える景観"
+  },
+  {
+   "id": "hakuba",
+   "title": "File:長野県白馬村（白馬ハイランドホテルから）20241123-P1060447.jpg",
+   "subject": "白馬村の街並みと雪を纏う北アルプス",
+   "reason": "雄大な山岳景観と秋の街並みが映え、訪問意欲を高める風景"
+  },
+  {
+   "id": "yaizu",
+   "title": "File:Kogawa fishing port Yaizu city.jpg",
+   "subject": "焼津港の漁船と夕暮れの港湾景色",
+   "reason": "漁港の雰囲気と夕景が焼津らしさを伝える魅力的な風景"
+  },
+  {
+   "id": "tsunan",
+   "title": "File:New Greenpia Tsunan Ski Resort, Tsunan, Niigata, Japan, February 2024.jpg",
+   "subject": "青空の下に広がるスキー場のゲレンデ",
+   "reason": "雪山と晴天が映え、津南の冬を魅力的に伝える景観"
+  },
+  {
+   "id": "mitoyo",
+   "title": "File:Mitoyoheiya Hokubu-Kagawa-b.jpg",
+   "subject": "山頂から望む三豊の田園と山並み",
+   "reason": "広大な田園と山々の眺望が旅情を誘う風景"
+  },
+  {
+   "id": "takatsuki",
+   "title": "File:Carp streamer festival in Takatsuki.jpg",
+   "subject": "青空いっぱいに泳ぐカラフルな鯉のぼり群",
+   "reason": "色鮮やかで華やかな季節感があり旅情を誘う景観"
+  },
+  {
+   "id": "saiko",
+   "title": "File:西湖 - panoramio (11).jpg",
+   "subject": "西湖と富士山の雄大な湖畔風景",
+   "reason": "青空と富士山・湖面の輝きが絶景で訴求力高い"
+  },
+  {
+   "id": "nakasu",
+   "title": "File:Seiryū Park Fukuoka Hakata Yatai Nakasu 1-chōme Hakata-ku Fukuoka 20250401 174434.jpg",
+   "subject": "中洲の川沿いに並ぶ屋台と夕暮れの街並み",
+   "reason": "川沿いの屋台街の雰囲気が伝わり行きたくなる景観"
+  },
+  {
+   "id": "senri",
+   "title": "File:Japanese garden scenery at Expo’70 Commemorative Park in Osaka, November 2017 - 146.jpg",
+   "subject": "日本庭園の流れと紅葉の木々",
+   "reason": "秋の庭園景観で訪れたくなる美しい風景"
+  },
+  {
+   "id": "zushi",
+   "title": "File:Hisagi Oike Park - 01.jpg",
+   "subject": "紅葉に囲まれた静かな池の水鏡",
+   "reason": "秋の自然美が映り込みで美しく行きたくなる景観"
+  },
+  {
+   "id": "biwako",
+   "title": "File:Top view of Lake Biwa.jpg",
+   "subject": "山上から望む琵琶湖と湖岸の街並み",
+   "reason": "琵琶湖を一望する雄大な景観で行きたくなる風景"
+  },
+  {
+   "id": "mt-yatsugatake",
+   "title": "File:Tateshina kogen from Mt.Kitayokodake.JPG",
+   "subject": "蓼科高原の山頂から望む緑豊かな高原と山並み",
+   "reason": "広大な高原景観で行きたくなる開放感がある"
+  },
+  {
+   "id": "shizu-shimizu",
+   "title": "File:由比 (静岡県静岡市清水区由比) - panoramio.jpg",
+   "subject": "テトラポットと青い海・空の景観",
+   "reason": "清水港らしい海景で旅情を感じられる風景写真"
+  },
+  {
+   "id": "anan",
+   "title": "File:那賀川（徳島県阿南市）.JPG",
+   "subject": "夕日に輝く川面と山並みの風景",
+   "reason": "逆光の光が川面に反射し情緒ある景観で旅情を誘う"
+  },
+  {
+   "id": "niseko",
+   "title": "File:Mt-nisekoannupuri-summer.jpg",
+   "subject": "青空と緑の山頂（ニセコアンヌプリ）",
+   "reason": "青空と緑の山肌が鮮やかで行きたくなる夏山景観"
+  },
+  {
+   "id": "sakai",
+   "title": "File:Japanese garden at Daisen Park in Sakai, October 2018 - 662.jpg",
+   "subject": "池に浮かぶ日本庭園の茶室風建物",
+   "reason": "水面の反射と緑が美しく旅情を誘う景観"
+  },
+  {
+   "id": "akashi",
+   "title": "File:密蔵院（大地蔵）兵庫県明石市PA211872.jpg",
+   "subject": "大きな仏像と寺院本堂の外観",
+   "reason": "巨大仏像と社寺が映え、明石の観光地として行きたくなる景観"
+  }
+ ],
+ "fail": [
+  {
+   "id": "akita-oga",
+   "title": "File:Oga Onsenn-kyo.jpg",
+   "subject": "なまはげ像とホテル建物と駐車場",
+   "reason": "駐車場・道路が主役で曇天、観光地の魅力が伝わらない"
+  },
+  {
+   "id": "mimasaka",
+   "title": "File:Mimasaka station soto.jpg",
+   "subject": "古い駅舎と道路・自動販売機",
+   "reason": "駅舎・道路・電柱が主役で旅情に欠ける"
+  },
+  {
+   "id": "miyazaki",
+   "title": "File:Miyazaki Airport Feb 2008.jpg",
+   "subject": "宮崎空港ターミナルビルと駐車場",
+   "reason": "空港ターミナルと駐車場が主役で観光訴求力がない"
+  },
+  {
+   "id": "otari-onsen",
+   "title": "File:Spa Yamadaya, Otari, Nagano Prefecture.jpg",
+   "subject": "温泉施設の浴槽内部・洗い場",
+   "reason": "暗く白飛びあり、生活感強く旅情に欠ける"
+  },
+  {
+   "id": "toshima",
+   "title": "File:ETH-BIB-Friedlaender-Toshima Südwestküste (Izu)-Ans 05420-076-AL-FL.tif",
+   "subject": "海上から望む利島の山容と海岸",
+   "reason": "全体的に白みがかり低コントラストで魅力に欠ける"
+  },
+  {
+   "id": "aso",
+   "title": "File:Aso city (Aso, Kumamoto) VLux5 hdsr 07.jpg",
+   "subject": "住宅街越しに見る阿蘇山と雲",
+   "reason": "手前に建物や電柱が目立ち景観の魅力が薄い"
+  },
+  {
+   "id": "jozankei",
+   "title": "File:北海道道1号小樽定山渓線（Lakeline Jozankei） - panoramio (1).jpg",
+   "subject": "紅葉の山を背景にした道路と車",
+   "reason": "道路・車が主役で景観より交通インフラが前面に出ている"
+  },
+  {
+   "id": "oarai",
+   "title": "File:Aqua World.jpg",
+   "subject": "アクアワールド大洗の外観と駐車場",
+   "reason": "手前に駐車場が広がり観光地として魅力が伝わらない"
+  },
+  {
+   "id": "takashima-shiga",
+   "title": "File:Kōganzan Kōshō-ji Temple 20220525 04.jpg",
+   "subject": "神社境内の石造物と大木",
+   "reason": "被写体が地味で散漫、行きたくなる魅力に欠ける"
+  },
+  {
+   "id": "tsuruoka-kinzan",
+   "title": "File:Kaneyama-sanpou.jpg",
+   "subject": "道路沿いから見た山と田畑と工場",
+   "reason": "電柱・道路・工場が目立ち景観写真として魅力に欠ける"
+  },
+  {
+   "id": "kitsuki",
+   "title": "File:Kitsuki City Hall.jpg",
+   "subject": "白壁の公共施設と案内看板",
+   "reason": "一般建物と案内看板が主役で観光意欲が湧かない"
+  },
+  {
+   "id": "tsuyama",
+   "title": "File:Tsuyama Funatsukiba 01.jpg",
+   "subject": "曇り空の河川敷と一般市街地の景観",
+   "reason": "曇天で殺風景な河川敷と平凡な街並みで魅力に欠ける"
+  },
+  {
+   "id": "murakami",
+   "title": "File:Murakami Station - 村上駅（新潟県） - panoramio.jpg",
+   "subject": "村上駅前ロータリーの歓迎モニュメント",
+   "reason": "駅前広場・道路・案内看板が主役で観光訴求力がない"
+  },
+  {
+   "id": "rikuzentakata",
+   "title": "File:Rikuzentakata City New Municipal Office.jpg",
+   "subject": "陸前高田市役所の庁舎外観",
+   "reason": "市役所の一般建物であり観光訴求力がない"
+  },
+  {
+   "id": "higashihiroshima",
+   "title": "File:広島県東広島市 - panoramio.jpg",
+   "subject": "東広島駅の駅舎外観",
+   "reason": "駅舎は使用不可カテゴリに該当するため"
+  },
+  {
+   "id": "shinjou",
+   "title": "File:Shinjo shinkin.JPG",
+   "subject": "新庄信用金庫の建物と駐車場",
+   "reason": "信用金庫・駐車場は観光魅力のない一般施設"
+  },
+  {
+   "id": "miyoshi-hiroshima",
+   "title": "File:県立みよし公園 Miyoshi park - panoramio.jpg",
+   "subject": "公共施設と冬枯れの庭園・駐車路",
+   "reason": "一般建物の外観で行きたくなる魅力に欠ける"
+  },
+  {
+   "id": "yatsushiro",
+   "title": "File:令和2年（2020年）7月3日からの大雨・斜め写真・球磨川地区（熊本県八代市、芦北町、球磨村）124A2643.jpg",
+   "subject": "濁流が流れる球磨川の洪水航空写真",
+   "reason": "災害記録の航空写真であり旅行意欲を損なう"
+  },
+  {
+   "id": "tsuchiura",
+   "title": "File:Chuo1 2 Tsuchiura-city.jpg",
+   "subject": "交差点と横断歩道・信号・銀行看板",
+   "reason": "道路・交差点が主役で行きたくなる魅力に欠ける"
+  },
+  {
+   "id": "kisakata",
+   "title": "File:Roadside Station Kisakata 20180526a.jpg",
+   "subject": "道の駅や商業施設と駐車場",
+   "reason": "駐車場と商業施設が主役で観光地の魅力が伝わらない"
+  },
+  {
+   "id": "chokai-san",
+   "title": "File:Mt. Chokai (60246840).jpg",
+   "subject": "笙川ヒュッテの建物と奥に鳥海山",
+   "reason": "建物が主役で山が小さく暗め、魅力的な景観写真に欠ける"
+  },
+  {
+   "id": "nyukasa",
+   "title": "File:入笠山とふじぱら.jpg",
+   "subject": "冬の入笠山とスキー場のゲレンデ遠景",
+   "reason": "解像度が低く被写体が遠すぎ、手前の住宅や電柱が目立つ"
+  },
+  {
+   "id": "uchiko",
+   "title": "File:Uchiko Town Uchiko Junior High School ac.jpg",
+   "subject": "内子町立中学校の門柱と道路",
+   "reason": "学校の建物と道路が主役で観光訴求力がない"
+  },
+  {
+   "id": "echizen",
+   "title": "File:R417-2020-368.jpg",
+   "subject": "道の駅越前の外観と駐車場",
+   "reason": "道の駅の看板・駐車場が主役で観光訴求力がない"
+  },
+  {
+   "id": "iga",
+   "title": "File:ミエゾウの足跡（三重県伊賀市 せせらぎ運動公園）.jpg",
+   "subject": "公園内の岩石と象のオブジェ",
+   "reason": "被写体が地味で行きたい気持ちが湧かない"
+  },
+  {
+   "id": "kamaishi",
+   "title": "File:Kamaishi Station Platform 5, Iwate Pref 20240324.jpg",
+   "subject": "駅のホームと線路が広がる鉄道施設",
+   "reason": "駅舎・ホーム・線路が主役で旅情感に欠ける"
+  },
+  {
+   "id": "ono-fukui",
+   "title": "File:Echizen-Ono Station 20171105.jpg",
+   "subject": "越前大野駅の駅舎外観",
+   "reason": "駅舎は使用不可カテゴリに該当するため"
+  },
+  {
+   "id": "isawa-onsen",
+   "title": "File:JREast-Chuo-main-line-CO41-Isawa-onsen-station-building-south-20220806-113920.jpg",
+   "subject": "石和温泉駅の駅舎外観",
+   "reason": "駅舎・駐車場が主役で旅情を感じる景観ではないため"
+  },
+  {
+   "id": "arita",
+   "title": "File:有田陶器市「陶磁器の里」 - panoramio (1).jpg",
+   "subject": "有田陶器市の屋外販売テントと建物",
+   "reason": "曇天で暗く、駐車場的な広場が主役で景観的魅力に欠ける"
+  },
+  {
+   "id": "chizu",
+   "title": "File:Chizu town Chizu junior high school 2016.JPG",
+   "subject": "校庭越しに見える学校風建物と山",
+   "reason": "学校や公共施設とみられる一般建物が主役で観光訴求力が低い"
+  },
+  {
+   "id": "kashiwara-wine",
+   "title": "File:JRW Kintetsu Kashiwara-STA West.jpg",
+   "subject": "柏原駅周辺の駅舎と道路の俯瞰",
+   "reason": "駅舎・道路・標識が主役で観光魅力が伝わらない"
+  },
+  {
+   "id": "tsubamesanjo",
+   "title": "File:Tsubame-Sanjo Station 2020.jpg",
+   "subject": "燕三条駅舎と駅前ロータリー",
+   "reason": "駅舎・駐車場・道路が主役で旅情を誘う景観ではない"
+  },
+  {
+   "id": "ikuno",
+   "title": "File:Ikuno Station Asago Hyogo01n3200.jpg",
+   "subject": "生野駅の駅舎と背後の山",
+   "reason": "駅舎が主役であり使用不可の対象のため"
+  },
+  {
+   "id": "fuchu-hiroshima",
+   "title": "File:Fuchu Town Office.jpg",
+   "subject": "府中市役所と思われる行政庁舎",
+   "reason": "市役所などの一般建物で観光訴求力がない"
+  },
+  {
+   "id": "sozogi",
+   "title": "File:Tarumi Fall & Yasenodomon.jpg",
+   "subject": "断崖の滝とトンネル入口と海岸",
+   "reason": "トンネル構造物が目立ち景観の魅力が半減する"
+  },
+  {
+   "id": "iwaishima",
+   "title": "File:Iwai island aerial shot.jpg",
+   "subject": "祝島と周辺海域の航空写真",
+   "reason": "航空写真の記録カットに該当するため"
+  },
+  {
+   "id": "ogose",
+   "title": "File:Houonji (Ogose).jpg",
+   "subject": "法恩寺の山門と石碑・電柱",
+   "reason": "電柱や信号が目立ち構図が散漫で魅力に欠ける"
+  },
+  {
+   "id": "kumano-kodo",
+   "title": "File:Michinoeki Kumano-kodo Nakahechi01.JPG",
+   "subject": "熊野古道の案内看板と売店施設",
+   "reason": "看板・売店が主役で景観の魅力が伝わらない"
+  },
+  {
+   "id": "okayama-city",
+   "title": "File:October, 2007 of Convex Okayama.JPG",
+   "subject": "交差点と大型ガラス張り建物と歩行者",
+   "reason": "道路・信号・電線が主役で観光的魅力に欠ける"
+  },
+  {
+   "id": "kagoshima-city",
+   "title": "File:鹿児島県庁舎 アーチ.jpg",
+   "subject": "公園のアーチモニュメントと広場",
+   "reason": "施設のモニュメントが主役で観光的魅力に欠ける"
+  },
+  {
+   "id": "mt-fuji-fifth",
+   "title": "File:富士山五合目 20150522 - panoramio.jpg",
+   "subject": "道路手前に富士山と樹林帯",
+   "reason": "道路が主張しすぎ、曇天で彩度低く魅力に欠ける"
+  },
+  {
+   "id": "nabari",
+   "title": "File:Nabari 20211225115918 (51821154705).jpg",
+   "subject": "駅前広場の銅像とビル群",
+   "reason": "曇天の駅前風景で観光訴求力に欠ける"
+  },
+  {
+   "id": "akita-yokote",
+   "title": "File:Yokote city Masuda junior high school 20260614b.jpg",
+   "subject": "白い3階建て一般建物と駐車場",
+   "reason": "学校や公共施設とみられる一般建物で観光魅力がない"
+  },
+  {
+   "id": "miyagi-matsushima-2",
+   "title": "File:マリンゲート塩釜 - panoramio.jpg",
+   "subject": "塩釜港のフェリー乗り場と市街地",
+   "reason": "港湾施設・工場が主体で観光的魅力に欠ける"
+  },
+  {
+   "id": "tomakomai",
+   "title": "File:Tomakomai ZEUS CITY.jpg",
+   "subject": "ZEUS CITYの商業施設と交差点",
+   "reason": "一般商業ビルと道路・標識が主役で旅情感がない"
+  },
+  {
+   "id": "tendou",
+   "title": "File:将棋ざるそば（山形県天童市・水車生そば）20241116-P1059967.jpg",
+   "subject": "将棋駒型の器に盛られたざる蕎麦",
+   "reason": "料理のクローズアップで風景写真として不適"
+  },
+  {
+   "id": "hokkaido-asahikawa",
+   "title": "File:北海道立旭川美術館.JPG",
+   "subject": "公共施設らしき建物と庭園",
+   "reason": "一般建物の外観で観光訴求力に乏しい"
+  },
+  {
+   "id": "toyota-city",
+   "title": "File:パチンコ店(愛知県豊田市清水町) - panoramio.jpg",
+   "subject": "国道155号標識とイオンモール外観",
+   "reason": "商業施設と道路標識が主役で旅情感がない"
+  },
+  {
+   "id": "obihiro",
+   "title": "File:131012 Obihiro Airport Hokkaido Japan01s5.jpg",
+   "subject": "帯広駅舎と駅前ロータリー・バス",
+   "reason": "駅舎・バス停・道路が主役で旅情を誘う景観ではない"
+  },
+  {
+   "id": "toyohashi",
+   "title": "File:豊橋市公会堂 (愛知県豊橋市八町通) - panoramio.jpg",
+   "subject": "豊橋市公会堂と周辺の行政施設",
+   "reason": "公共施設の外観写真で旅情を誘う景観ではないため"
+  }
+ ]
+}

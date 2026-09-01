@@ -484,7 +484,8 @@
         "imageCredit": {
           "author": "Abasaa",
           "license": "Public domain",
-          "url": "https://commons.wikimedia.org/wiki/File:Edo_Wonderland_Nikko_Edomura_01.JPG"
+          "url": "https://commons.wikimedia.org/wiki/File:Edo_Wonderland_Nikko_Edomura_01.JPG",
+          "attributionRequired": false
         }
       }
     ],
@@ -1884,7 +1885,8 @@
         "imageCredit": {
           "author": "Panoraman on Panoramio",
           "license": "CC BY-SA 3.0",
-          "url": "https://commons.wikimedia.org/wiki/File:Harmony_Land_01.jpg"
+          "url": "https://commons.wikimedia.org/wiki/File:Harmony_Land_01.jpg",
+          "attributionRequired": true
         }
       }
     ],
@@ -2151,7 +2153,8 @@
         "imageCredit": {
           "author": "星組背番号10",
           "license": "CC BY-SA 3.0",
-          "url": "https://commons.wikimedia.org/wiki/File:Kiroro_Resort.JPG"
+          "url": "https://commons.wikimedia.org/wiki/File:Kiroro_Resort.JPG",
+          "attributionRequired": true
         }
       }
     ],
@@ -8163,6 +8166,12 @@
       "hasShuttle": false,
       "accessStation": "JR阿蘇駅",
       "jalanUrl": "https://www.jalan.net/yad327522/"
+    },
+    "imageCredit": {
+      "author": "STA3816",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Mount_Aso_2010-05_01.jpg",
+      "attributionRequired": true
     }
   },
   {
@@ -9042,7 +9051,7 @@
       "author": "sayo ts",
       "license": "CC0",
       "url": "https://commons.wikimedia.org/wiki/File:%E7%A7%8B%E7%94%B0%E7%9C%8C_%E8%A7%92%E9%A4%A8%E7%94%BA_(41580337392).jpg",
-      "attributionRequired": true
+      "attributionRequired": false
     }
   },
   {
@@ -10866,7 +10875,8 @@
         "imageCredit": {
           "author": "Ted Chi さん https://www.flickr.com/photos/ted_chi/",
           "license": "CC BY 2.0",
-          "url": "https://commons.wikimedia.org/wiki/File:%E3%81%AE%E3%81%BC%E3%82%8A%E3%81%B9%E3%81%A4%E3%82%AF%E3%83%9E%E7%89%A7%E5%A0%B414_Noboribetsu_bear_park.jpg"
+          "url": "https://commons.wikimedia.org/wiki/File:%E3%81%AE%E3%81%BC%E3%82%8A%E3%81%B9%E3%81%A4%E3%82%AF%E3%83%9E%E7%89%A7%E5%A0%B414_Noboribetsu_bear_park.jpg",
+          "attributionRequired": true
         }
       }
     ],
@@ -11867,6 +11877,12 @@
       "hasShuttle": true,
       "shuttleInfo": "白馬駅・八方バスターミナルから無料送迎あり（要連絡）",
       "accessStation": "白馬駅"
+    },
+    "imageCredit": {
+      "author": "くろふね",
+      "license": "CC BY 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:%E9%95%B7%E9%87%8E%E7%9C%8C%E7%99%BD%E9%A6%AC%E6%9D%91%EF%BC%88%E7%99%BD%E9%A6%AC%E3%83%8F%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89%E3%83%9B%E3%83%86%E3%83%AB%E3%81%8B%E3%82%89%EF%BC%8920241123-P1060447.jpg",
+      "attributionRequired": true
     }
   },
   {
@@ -12568,7 +12584,8 @@
         "imageCredit": {
           "author": "JKT-c",
           "license": "CC BY 3.0",
-          "url": "https://commons.wikimedia.org/wiki/File:Huis_Ten_Bosch_-_01.jpg"
+          "url": "https://commons.wikimedia.org/wiki/File:Huis_Ten_Bosch_-_01.jpg",
+          "attributionRequired": true
         }
       }
     ],
@@ -12714,7 +12731,7 @@
       "author": "国書刊行会",
       "license": "Public domain",
       "url": "https://commons.wikimedia.org/wiki/File:%E9%95%B7%E5%B4%8E%E7%9C%8C%E4%BD%90%E4%B8%96%E4%BF%9D%E5%B8%82_%E6%9C%9D%E6%97%A5%E9%A4%A8.jpg",
-      "attributionRequired": true
+      "attributionRequired": false
     },
     "featured_stay": {
       "name": "ホテルヨーロッパ（ハウステンボス）",
@@ -13812,7 +13829,8 @@
         "imageCredit": {
           "author": "Bedside Moon",
           "license": "CC BY-SA 3.0",
-          "url": "https://commons.wikimedia.org/wiki/File:Motherfarm.jpg"
+          "url": "https://commons.wikimedia.org/wiki/File:Motherfarm.jpg",
+          "attributionRequired": true
         }
       }
     ],
@@ -14388,6 +14406,12 @@
       "accessStation": "JR札幌駅（じょうてつバス約80分）",
       "jalanUrl": "https://www.jalan.net/yad321633/",
       "shuttleInfo": "札幌市内（大通西1丁目NHK前）より無料送迎バスあり（要予約・14時発）"
+    },
+    "imageCredit": {
+      "author": "t-konno",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:%E5%8C%97%E6%B5%B7%E9%81%93%E9%81%931%E5%8F%B7%E5%B0%8F%E6%A8%BD%E5%AE%9A%E5%B1%B1%E6%B8%93%E7%B7%9A%EF%BC%88Lakeline_Jozankei%EF%BC%89_-_panoramio.jpg",
+      "attributionRequired": true
     }
   },
   {
@@ -15507,7 +15531,7 @@
       "author": "Image Science and Analysis Laboratory, NASA-Johnson Space Center. \"The Gateway to Astronaut Photography of Earth.\"",
       "license": "Public domain",
       "url": "https://commons.wikimedia.org/wiki/File:Amami_Oshima_ISS019.jpg",
-      "attributionRequired": true
+      "attributionRequired": false
     },
     "featured_stay": {
       "name": "THE SCENE amami spa & resort",
@@ -17030,7 +17054,7 @@
       "author": "へぼ飯",
       "license": "CC0",
       "url": "https://commons.wikimedia.org/wiki/File:%E6%99%AE%E9%96%80%E5%AF%BA_(%E9%95%B7%E9%87%8E%E7%9C%8C%E6%9C%A8%E6%9B%BD%E7%94%BA).jpg",
-      "attributionRequired": true
+      "attributionRequired": false
     }
   },
   {
@@ -18684,7 +18708,13 @@
       "街歩き向け",
       "ゆっくり滞在"
     ],
-    "bestSeason": "通年"
+    "bestSeason": "通年",
+    "imageCredit": {
+      "author": "Asturio Cantabrio",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Uchiko-za_entrance_ac_(2).jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "muroto",
@@ -21049,7 +21079,8 @@
         "imageCredit": {
           "author": "Adam Jones from Kelowna, BC, Canada",
           "license": "CC BY-SA 2.0",
-          "url": "https://commons.wikimedia.org/wiki/File:Choishi_Path_-_Okunoin_Cemetery_-_Koyasan_-_Japan_-_22_(47949824922).jpg"
+          "url": "https://commons.wikimedia.org/wiki/File:Choishi_Path_-_Okunoin_Cemetery_-_Koyasan_-_Japan_-_22_(47949824922).jpg",
+          "attributionRequired": true
         }
       }
     ],
@@ -27412,7 +27443,7 @@
       "author": "Saigen Jiro",
       "license": "CC0",
       "url": "https://commons.wikimedia.org/wiki/File:Tanabe_Haiji,_toutou.jpg",
-      "attributionRequired": true
+      "attributionRequired": false
     }
   },
   {
@@ -29745,7 +29776,7 @@
       "author": "Abasaa",
       "license": "Public domain",
       "url": "https://commons.wikimedia.org/wiki/File:Lake_Akan_01.JPG",
-      "attributionRequired": true
+      "attributionRequired": false
     },
     "featured_stay": {
       "name": "あかん遊久の里 鶴雅",
@@ -32160,7 +32191,8 @@
         "imageCredit": {
           "author": "Yoshio Kohara",
           "license": "CC BY 3.0",
-          "url": "https://commons.wikimedia.org/wiki/File:%E3%81%82%E3%81%97%E3%81%8B%E3%81%8C%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AF_-_panoramio.jpg"
+          "url": "https://commons.wikimedia.org/wiki/File:%E3%81%82%E3%81%97%E3%81%8B%E3%81%8C%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AF_-_panoramio.jpg",
+          "attributionRequired": true
         }
       }
     ],
@@ -33361,6 +33393,12 @@
       "hasShuttle": true,
       "accessStation": "JR上諏訪駅",
       "shuttleInfo": "JR上諏訪駅西口から無料送迎あり（予約不要・14:30〜17:00）"
+    },
+    "imageCredit": {
+      "author": "C1815",
+      "license": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File:Suwataisya_kamisya_kawagoshi.JPG",
+      "attributionRequired": false
     }
   },
   {
@@ -34411,7 +34449,13 @@
       "ひとり旅向け",
       "カップル向け"
     ],
-    "bestSeason": "夏"
+    "bestSeason": "夏",
+    "imageCredit": {
+      "author": "Indiana jo",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:%E6%B0%B4%E4%BB%99%E5%BB%BC%E7%A4%BE.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "ito",
@@ -34821,7 +34865,13 @@
       "ひとり旅向け",
       "カップル向け"
     ],
-    "bestSeason": "夏"
+    "bestSeason": "夏",
+    "imageCredit": {
+      "author": "z tanuki",
+      "license": "CC BY 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Ninja_MUSEUM_of_Igaryu_,_%E4%BC%8A%E8%B3%80%E6%B5%81%E5%BF%8D%E8%80%85%E5%8D%9A%E7%89%A9%E9%A4%A8_-_panoramio_(3).jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "kashihara",
@@ -38914,7 +38964,13 @@
       "友達と",
       "城下町散策"
     ],
-    "bestSeason": "通年"
+    "bestSeason": "通年",
+    "imageCredit": {
+      "author": "ほっきー",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:%E6%9D%B5%E7%AF%89%E5%B8%82_%E5%A4%A7%E5%8E%9F%E9%82%B8_2022.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "tsushima",
@@ -40550,7 +40606,8 @@
         "imageCredit": {
           "author": "Jordy Meow",
           "license": "CC BY-SA 3.0",
-          "url": "https://commons.wikimedia.org/wiki/File:Okinawa_Aquarium.jpg"
+          "url": "https://commons.wikimedia.org/wiki/File:Okinawa_Aquarium.jpg",
+          "attributionRequired": true
         }
       }
     ],
@@ -42186,7 +42243,13 @@
       "ひとり旅向け"
     ],
     "bestSeason": "春",
-    "_accessAutoFixed": "honshuFlightRemoved"
+    "_accessAutoFixed": "honshuFlightRemoved",
+    "imageCredit": {
+      "author": "Ujigis",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Tuyama-1311-6.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "tsurugi-san",
@@ -42386,7 +42449,7 @@
       "author": "As6673",
       "license": "Public domain",
       "url": "https://commons.wikimedia.org/wiki/File:Mt.Tsurugisan.jpg",
-      "attributionRequired": true
+      "attributionRequired": false
     },
     "featured_stay": {
       "name": "剣山頂上ヒュッテ",
@@ -42780,6 +42843,12 @@
       "accessStation": "三陸鉄道鵜住居駅",
       "jalanUrl": "https://www.jalan.net/yad342462/",
       "shuttleInfo": "釜石駅・鵜住居駅から無料送迎あり（要予約）"
+    },
+    "imageCredit": {
+      "author": "karinckarinc",
+      "license": "CC BY 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Kamaishi_Kannon_%E9%87%9C%E7%9F%B3%E5%A4%A7%E8%A6%B3%E9%9F%B3_Mar_4,_2012.jpg",
+      "attributionRequired": true
     }
   },
   {
@@ -42962,7 +43031,7 @@
       "author": "NASA Earth Observatory image by Lauren Dauphin, using Landsat data from the U.S. Geological Survey.",
       "license": "Public domain",
       "url": "https://commons.wikimedia.org/wiki/File:Japan_fires_in_Ofunato_now_tmo_20250301_lrg.jpg",
-      "attributionRequired": true
+      "attributionRequired": false
     }
   },
   {
@@ -43435,7 +43504,8 @@
         "imageCredit": {
           "author": "Wakimasa",
           "license": "CC BY-SA 3.0",
-          "url": "https://commons.wikimedia.org/wiki/File:%E3%82%B5%E3%83%B3%E3%82%BF%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%83%88%E3%83%91%E3%83%BC%E3%82%AF%E3%83%BB%E3%83%9E%E3%83%AD%E3%83%BC%E3%82%B9%E3%82%B2%E3%83%AC%E3%83%B3%E3%83%872.JPG"
+          "url": "https://commons.wikimedia.org/wiki/File:%E3%82%B5%E3%83%B3%E3%82%BF%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%83%88%E3%83%91%E3%83%BC%E3%82%AF%E3%83%BB%E3%83%9E%E3%83%AD%E3%83%BC%E3%82%B9%E3%82%B2%E3%83%AC%E3%83%B3%E3%83%872.JPG",
+          "attributionRequired": true
         }
       },
       {
@@ -43445,7 +43515,8 @@
         "imageCredit": {
           "author": "wakimasa",
           "license": "CC0",
-          "url": "https://commons.wikimedia.org/wiki/File:SAHORO_Ski_Area.jpg"
+          "url": "https://commons.wikimedia.org/wiki/File:SAHORO_Ski_Area.jpg",
+          "attributionRequired": false
         }
       }
     ],
@@ -44485,6 +44556,12 @@
       "hasShuttle": false,
       "accessStation": "JR盛岡駅からバス",
       "jalanUrl": "https://www.jalan.net/yad316900/"
+    },
+    "imageCredit": {
+      "author": "Soica2001 (talk)",
+      "license": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File:Hachimann_numa_2008.jpg",
+      "attributionRequired": false
     }
   },
   {
@@ -45544,7 +45621,7 @@
       "author": "Syced",
       "license": "CC0",
       "url": "https://commons.wikimedia.org/wiki/File:Constructed_areas_on_Enoshima_2.jpg",
-      "attributionRequired": true
+      "attributionRequired": false
     },
     "featured_stay": {
       "name": "岩本楼本館",
@@ -45814,7 +45891,7 @@
           "author": "Saigen Jiro",
           "license": "パブリック・ドメイン",
           "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:%E5%A4%A7%E6%B4%97%E7%A3%AF%E5%89%8D%E7%A5%9E%E7%A4%BE_%E5%A2%83%E5%86%85.JPG",
-          "attributionRequired": true
+          "attributionRequired": false
         }
       },
       {
@@ -45988,6 +46065,12 @@
       "hasShuttle": false,
       "accessStation": "鹿島臨海鉄道 大洗駅",
       "rakutenUrl": "https://travel.rakuten.co.jp/HOTEL/136101/136101.html"
+    },
+    "imageCredit": {
+      "author": "Σ64",
+      "license": "CC BY 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Oarai_Isosaki_Shrine_03.jpg",
+      "attributionRequired": true
     }
   },
   {
@@ -46400,7 +46483,7 @@
       "author": "Akiyoshi's Room",
       "license": "Public domain",
       "url": "https://commons.wikimedia.org/wiki/File:Gujo_hachiman_castle_P8117454.jpg",
-      "attributionRequired": true
+      "attributionRequired": false
     },
     "featured_stay": {
       "name": "料理旅館 備前屋",
@@ -47031,6 +47114,12 @@
       "accessStation": "JR村上駅",
       "jalanUrl": "https://www.jalan.net/yad313539/",
       "shuttleInfo": "JR村上駅から無料送迎あり（前日までに要予約）"
+    },
+    "imageCredit": {
+      "author": "皓月旗",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:%E3%81%8D%E3%81%A3%E3%81%8B%E3%82%8F%E3%83%BB%E7%9B%8A%E7%94%9A%E9%85%92%E5%BA%97.jpg",
+      "attributionRequired": true
     }
   },
   {
@@ -48452,6 +48541,12 @@
       "accessStation": "JR紀伊勝浦駅から徒歩で勝浦港桟橋へ",
       "jalanUrl": "https://www.jalan.net/yad313265/",
       "shuttleInfo": "勝浦港の桟橋から無料の専用送迎船で約5分"
+    },
+    "imageCredit": {
+      "author": "ありきたり",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:%E9%82%A3%E6%99%BA%E5%8B%9D%E6%B5%A6%E6%B8%AF%E3%81%AE%E5%A4%95%E9%99%BD.jpg",
+      "attributionRequired": true
     }
   },
   {
@@ -52511,6 +52606,12 @@
       "hasShuttle": true,
       "accessStation": "JR倶知安駅（車約15分）",
       "shuttleInfo": "JR倶知安駅より無料送迎あり（約15分）"
+    },
+    "imageCredit": {
+      "author": "No machine-readable author provided. Oga~commonswiki assumed (based on copyright claims).",
+      "license": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File:Mt-nisekoannupuri-summer.jpg",
+      "attributionRequired": false
     }
   },
   {
@@ -53369,7 +53470,7 @@
       "author": "Soica2001 (talk)",
       "license": "Public domain",
       "url": "https://commons.wikimedia.org/wiki/File:Lake_Towada_from_Ohanabe_2008.jpg",
-      "attributionRequired": true
+      "attributionRequired": false
     },
     "featured_stay": {
       "name": "星野リゾート 奥入瀬渓流ホテル",
@@ -55051,7 +55152,13 @@
       "日帰り最適",
       "1泊がおすすめ"
     ],
-    "bestSeason": "通年"
+    "bestSeason": "通年",
+    "imageCredit": {
+      "author": "小石川人晃",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Ryogonji_Temple_(Kasama_City)_03.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "naritasan",
@@ -55121,7 +55228,8 @@
         "imageCredit": {
           "author": "Xser21",
           "license": "CC BY-SA 4.0",
-          "url": "https://commons.wikimedia.org/wiki/File:Shisui_Premium_Outlets_illumination.jpg"
+          "url": "https://commons.wikimedia.org/wiki/File:Shisui_Premium_Outlets_illumination.jpg",
+          "attributionRequired": true
         }
       }
     ],
@@ -55255,7 +55363,7 @@
       "author": "Higa4",
       "license": "CC0",
       "url": "https://commons.wikimedia.org/wiki/File:Shinsh%C5%8D-ji_(Arakawa,_Arakawa)_03.jpg",
-      "attributionRequired": true
+      "attributionRequired": false
     },
     "featured_stay": {
       "name": "成田山門前 旅館 若松本店",
@@ -58297,7 +58405,7 @@
       "author": "Akahito Yamabe",
       "license": "CC0",
       "url": "https://commons.wikimedia.org/wiki/File:Matsusaka_Beef_tongue_of_Korean_barbecue.jpg",
-      "attributionRequired": true
+      "attributionRequired": false
     },
     "featured_stay": {
       "name": "鯛屋旅館",
@@ -58499,7 +58607,13 @@
       "ひとり旅向け",
       "カップル向け"
     ],
-    "bestSeason": "通年"
+    "bestSeason": "通年",
+    "imageCredit": {
+      "author": "Laitche",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Japanese_garden_at_Daisen_Park_in_Sakai,_October_2018_-_662.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "ama-island",
@@ -60386,7 +60500,13 @@
       "海を眺める",
       "ゆっくり滞在"
     ],
-    "bestSeason": "通年"
+    "bestSeason": "通年",
+    "imageCredit": {
+      "author": "Jsqwfthbfs",
+      "license": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File:%E9%82%A3%E8%B3%80%E5%B7%9D%EF%BC%88%E5%BE%B3%E5%B3%B6%E7%9C%8C%E9%98%BF%E5%8D%97%E5%B8%82%EF%BC%89.JPG",
+      "attributionRequired": false
+    }
   },
   {
     "id": "shikoku-karst",
@@ -61203,7 +61323,7 @@
       "author": "Saigen Jiro",
       "license": "CC0",
       "url": "https://commons.wikimedia.org/wiki/File:Yoshinogari-iseki_zenkei.JPG",
-      "attributionRequired": true
+      "attributionRequired": false
     }
   },
   {
@@ -64765,6 +64885,12 @@
       "hasShuttle": true,
       "shuttleInfo": "男鹿駅から無料送迎バスあり（1日各1便・要予約）",
       "accessStation": "男鹿駅"
+    },
+    "imageCredit": {
+      "author": "掬茶",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Mount_Kampu_seen_from_Futto,_Wakami,_Oga.jpg",
+      "attributionRequired": true
     }
   },
   {
@@ -64946,7 +65072,13 @@
       "ひとり旅向け",
       "カップル向け"
     ],
-    "bestSeason": "秋"
+    "bestSeason": "秋",
+    "imageCredit": {
+      "author": "掬茶",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Main_Hall,_Kanman-ji.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "gassan",
@@ -67911,7 +68043,13 @@
       "カップル向け",
       "友達と"
     ],
-    "bestSeason": "通年"
+    "bestSeason": "通年",
+    "imageCredit": {
+      "author": "秋空から蛇が降ってきた",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:%E5%AF%86%E8%94%B5%E9%99%A2%EF%BC%88%E5%A4%A7%E5%9C%B0%E8%94%B5%EF%BC%89%E5%85%B5%E5%BA%AB%E7%9C%8C%E6%98%8E%E7%9F%B3%E5%B8%82PA211872.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "naruto",
@@ -69684,7 +69822,8 @@
         "imageCredit": {
           "author": "掬茶",
           "license": "CC BY-SA 4.0",
-          "url": "https://commons.wikimedia.org/wiki/File:Northern_Horse_Park_20260703f.jpg"
+          "url": "https://commons.wikimedia.org/wiki/File:Northern_Horse_Park_20260703f.jpg",
+          "attributionRequired": true
         }
       },
       {
@@ -71152,7 +71291,13 @@
       "友達と",
       "ゆっくり滞在"
     ],
-    "bestSeason": "通年"
+    "bestSeason": "通年",
+    "imageCredit": {
+      "author": "Satoh Junpei",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:%E9%AB%98%E7%94%B0%E6%9D%BE%E5%8E%9F%E7%AE%B1%E6%A0%B9%E5%B1%B1Rikuzentakatamatsubara_Mt.Hakone_-_panoramio.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "sanriku-miyako",
@@ -72128,7 +72273,7 @@
       "author": "Drivephotographer",
       "license": "CC0",
       "url": "https://commons.wikimedia.org/wiki/File:Tendo_station.jpg",
-      "attributionRequired": true
+      "attributionRequired": false
     }
   },
   {
@@ -72673,7 +72818,13 @@
       "カップル向け",
       "友達と"
     ],
-    "bestSeason": "夏"
+    "bestSeason": "夏",
+    "imageCredit": {
+      "author": "Yusuke.ogawa",
+      "license": "CC BY 2.5",
+      "url": "https://commons.wikimedia.org/wiki/File:Shiga_Koka_Shigarakinomiya00.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "tondabayashi",
@@ -73395,7 +73546,13 @@
       "友達と",
       "グルメ目当て"
     ],
-    "bestSeason": "通年"
+    "bestSeason": "通年",
+    "imageCredit": {
+      "author": "東広島市",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:%E4%BB%95%E8%BE%BC%E3%81%BF%E3%81%AE%E6%B9%AF%E6%B0%97_87cf521f-8e8f-44b4-8fad-2d608420ab68.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "fukuyama",
@@ -73586,7 +73743,7 @@
       "author": "Drivephotographer",
       "license": "CC0",
       "url": "https://commons.wikimedia.org/wiki/File:%E7%A6%8F%E5%B1%B1%E5%9F%8E(%E5%BA%83%E5%B3%B6%E7%9C%8C).jpg",
-      "attributionRequired": true
+      "attributionRequired": false
     }
   },
   {
@@ -77038,7 +77195,13 @@
       "友達と",
       "東京に泊まるのがおすすめ"
     ],
-    "bestSeason": "春"
+    "bestSeason": "春",
+    "imageCredit": {
+      "author": "ゆうき315",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Miyatsukayama.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "joetsu",
@@ -77220,7 +77383,13 @@
       "カップル向け",
       "友達と"
     ],
-    "bestSeason": "春"
+    "bestSeason": "春",
+    "imageCredit": {
+      "author": "Tail furry",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Unohama_Beach,_Joetsu,_Niigata,_Japan,_July_2024.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "myoko",
@@ -77418,7 +77587,13 @@
       "カップル向け",
       "友達と"
     ],
-    "bestSeason": "冬"
+    "bestSeason": "冬",
+    "imageCredit": {
+      "author": "Hotaru2022",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Sekiyama_shrine_in_My%C5%8Dk%C5%8D,_Niigata.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "hokkaido-hakodate",
@@ -79233,7 +79408,13 @@
       "カップル向け",
       "友達と"
     ],
-    "bestSeason": "冬"
+    "bestSeason": "冬",
+    "imageCredit": {
+      "author": "克年 三沢",
+      "license": "CC BY 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:ShinjoMatsuriNight.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "ibaraki-mito",
@@ -80193,7 +80374,7 @@
       "author": "Tamaki",
       "license": "Public domain",
       "url": "https://commons.wikimedia.org/wiki/File:A_view_of_Sawara-Honmachi.JPG",
-      "attributionRequired": true
+      "attributionRequired": false
     },
     "featured_stay": {
       "name": "佐原商家町ホテル NIPPONIA",
@@ -81134,7 +81315,13 @@
       "ひとり旅向け",
       "カップル向け"
     ],
-    "bestSeason": "通年"
+    "bestSeason": "通年",
+    "imageCredit": {
+      "author": "Akahito Yamabe",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Kogawa_fishing_port_Yaizu_city.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "hamanako",
@@ -82259,7 +82446,13 @@
       "日帰り最適",
       "1泊がおすすめ"
     ],
-    "bestSeason": "春"
+    "bestSeason": "春",
+    "imageCredit": {
+      "author": "z tanuki",
+      "license": "CC BY 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Shirahige_shrine_,_%E7%99%BD%E9%AC%9A%E7%A5%9E%E7%A4%BE_-_panoramio_(11).jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "tango-kyoto",
@@ -83395,7 +83588,13 @@
       "カップル向け",
       "友達と"
     ],
-    "bestSeason": "通年"
+    "bestSeason": "通年",
+    "imageCredit": {
+      "author": "小池 隆",
+      "license": "CC BY 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:%E3%81%BF%E3%82%88%E3%81%97%E9%A2%A8%E5%9C%9F%E8%A8%98%E3%81%AE%E4%B8%98%E5%BE%A9%E5%85%83%E5%BB%BA%E7%89%A9%E7%BE%A4.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "nagato-yamaguchi",
@@ -84538,7 +84737,13 @@
       "ひとり旅向け",
       "カップル向け"
     ],
-    "bestSeason": "春"
+    "bestSeason": "春",
+    "imageCredit": {
+      "author": "Bakkai at Japanese Wikipedia",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Kumagawa_Shiroishi.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "oguni-kumamoto",
@@ -85346,7 +85551,8 @@
         "imageCredit": {
           "author": "funk bass",
           "license": "CC BY 3.0",
-          "url": "https://commons.wikimedia.org/wiki/File:%E3%81%8A%E3%81%8D%E3%81%AA%E3%82%8F%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89_-_panoramio.jpg"
+          "url": "https://commons.wikimedia.org/wiki/File:%E3%81%8A%E3%81%8D%E3%81%AA%E3%82%8F%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89_-_panoramio.jpg",
+          "attributionRequired": true
         }
       }
     ],
@@ -85672,7 +85878,7 @@
       "author": "Soica2001 (talk)",
       "license": "Public domain",
       "url": "https://commons.wikimedia.org/wiki/File:Aogasima_maruyama.jpg",
-      "attributionRequired": true
+      "attributionRequired": false
     }
   },
   {
@@ -86579,7 +86785,13 @@
       "カップル向け",
       "友達と"
     ],
-    "bestSeason": "夏"
+    "bestSeason": "夏",
+    "imageCredit": {
+      "author": "Phronimosx",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Niimi_city.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "uda-nara",
@@ -88715,7 +88927,13 @@
       "カップル向け",
       "友達と"
     ],
-    "bestSeason": "秋"
+    "bestSeason": "秋",
+    "imageCredit": {
+      "author": "藤谷良秀",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Akazunomon_in_Echizen_Ono_Castle.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "katsuyama",
@@ -90834,7 +91052,13 @@
       "カップル向け",
       "友達と"
     ],
-    "bestSeason": "夏・秋"
+    "bestSeason": "夏・秋",
+    "imageCredit": {
+      "author": "inoc from Japan",
+      "license": "CC BY 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Tsuchiura_Fireworks_Competition_2009_a.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "kujukuri-icho",
@@ -92148,7 +92372,13 @@
       "カップル向け",
       "友達と"
     ],
-    "bestSeason": "冬"
+    "bestSeason": "冬",
+    "imageCredit": {
+      "author": "Ka23 13",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Tateyama_20191005_141249.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "suo-sanbe",
@@ -94019,7 +94249,13 @@
       "カップル向け",
       "友達と"
     ],
-    "bestSeason": "冬"
+    "bestSeason": "冬",
+    "imageCredit": {
+      "author": "Tail furry",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:New_Greenpia_Tsunan_Ski_Resort,_Tsunan,_Niigata,_Japan,_February_2024.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "kurobe",
@@ -97753,7 +97989,7 @@
       "author": "Soica2001 (talk)",
       "license": "Public domain",
       "url": "https://commons.wikimedia.org/wiki/File:Nukabira_spa_Yumotokan_josei_rotenburo.jpg",
-      "attributionRequired": true
+      "attributionRequired": false
     }
   },
   {
@@ -101551,7 +101787,7 @@
       "author": "Shioyama",
       "license": "CC0",
       "url": "https://commons.wikimedia.org/wiki/File:%E5%BC%81%E5%A4%A9%E5%8F%B0%E5%A0%B4%E8%B7%A1%E3%81%A8%E5%87%BD%E9%A4%A8%E3%81%A9%E3%81%A4%E3%81%8F%E3%83%AC%E3%83%B3%E3%82%AC%E5%80%89%E5%BA%AB.jpg",
-      "attributionRequired": true
+      "attributionRequired": false
     }
   },
   {
@@ -102278,7 +102514,7 @@
       "author": "カイロス",
       "license": "Public domain",
       "url": "https://commons.wikimedia.org/wiki/File:Bells_of_Espoir_2017.JPG",
-      "attributionRequired": true
+      "attributionRequired": false
     }
   },
   {
@@ -110218,7 +110454,7 @@
       "author": "Soica2001 (talk)",
       "license": "Public domain",
       "url": "https://commons.wikimedia.org/wiki/File:Yorousi_spa_karamatu_no_yu_2009.jpg",
-      "attributionRequired": true
+      "attributionRequired": false
     }
   },
   {
@@ -111470,7 +111706,7 @@
       "author": "Saigen Jiro",
       "license": "Public domain",
       "url": "https://commons.wikimedia.org/wiki/File:Kamiiso_torii_at_Oarai_Isosaki_Jinja.jpg",
-      "attributionRequired": true
+      "attributionRequired": false
     }
   },
   {
@@ -114940,7 +115176,7 @@
           "author": "Saigen Jiro",
           "license": "パブリック・ドメイン",
           "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:%E5%AE%87%E9%83%BD%E5%AE%AE%E4%BA%8C%E8%8D%92%E5%B1%B1%E7%A5%9E%E7%A4%BE_%E6%8B%9D%E6%AE%BF.JPG",
-          "attributionRequired": true
+          "attributionRequired": false
         }
       },
       {
@@ -116161,7 +116397,7 @@
       "author": "User:Famifamifami",
       "license": "CC0",
       "url": "https://commons.wikimedia.org/wiki/File:KASAWAONSEN.JPG",
-      "attributionRequired": true
+      "attributionRequired": false
     }
   },
   {
@@ -117852,7 +118088,7 @@
       "author": "ウィキ太郎 (Wiki Taro)",
       "license": "Public domain",
       "url": "https://commons.wikimedia.org/wiki/File:A_stream_of_H%C5%8CSHI_Onsen_%E6%B3%95%E5%B8%AB%E6%B8%A9%E6%B3%89%E3%81%AE%E5%B0%8F%E5%B7%9D.jpg",
-      "attributionRequired": true
+      "attributionRequired": false
     }
   },
   {
@@ -119507,7 +119743,7 @@
       "author": "Soica2001 (talk)",
       "license": "Public domain",
       "url": "https://commons.wikimedia.org/wiki/File:Shiobetsu-turuturu-Onsen_2009.jpg",
-      "attributionRequired": true
+      "attributionRequired": false
     }
   },
   {
@@ -128229,7 +128465,7 @@
       "author": "唐山健志郎",
       "license": "Public domain",
       "url": "https://commons.wikimedia.org/wiki/File:%E4%BA%8C%E8%82%A1%E3%83%A9%E3%83%82%E3%82%A6%E3%83%A0%E6%B8%A9%E6%B3%89P6190061.JPG",
-      "attributionRequired": true
+      "attributionRequired": false
     }
   },
   {
@@ -129658,7 +129894,13 @@
       "山岳ハイキング",
       "秘境感あり"
     ],
-    "bestSeason": "冬"
+    "bestSeason": "冬",
+    "imageCredit": {
+      "author": "スティーブ・ミズキ",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:%E7%A6%8F%E5%B3%B6%E7%9C%8C%E5%8D%97%E4%BC%9A%E6%B4%A5%E9%83%A1%E5%8D%97%E4%BC%9A%E6%B4%A5%E7%94%BA%E5%A1%A9%E3%83%8E%E5%8E%9F_02.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "shosenkyo",
@@ -130050,6 +130292,12 @@
       "hasShuttle": true,
       "shuttleInfo": "石和温泉駅北口から無料送迎あり（14〜18時・要連絡）",
       "accessStation": "石和温泉駅"
+    },
+    "imageCredit": {
+      "author": "Sakaori (talk)",
+      "license": "CC BY 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Isawa_Hot_Springs_Creek_Aug.2013.JPG",
+      "attributionRequired": true
     }
   },
   {
@@ -130316,7 +130564,8 @@
         "imageCredit": {
           "author": "Osumi Akari",
           "license": "CC BY-SA 4.0",
-          "url": "https://commons.wikimedia.org/wiki/File:Similar_Fold_in_Saitama_Museum_of_Natural_History.jpg"
+          "url": "https://commons.wikimedia.org/wiki/File:Similar_Fold_in_Saitama_Museum_of_Natural_History.jpg",
+          "attributionRequired": true
         }
       }
     ],
@@ -131602,7 +131851,13 @@
       "友達と",
       "街歩き向け"
     ],
-    "bestSeason": "通年"
+    "bestSeason": "通年",
+    "imageCredit": {
+      "author": "663highland",
+      "license": "CC BY 2.5",
+      "url": "https://commons.wikimedia.org/wiki/File:150425_Ishitani_Residence_Chizu_Tottori_pref_Japan04n.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "minami-tokushima",
@@ -132044,7 +132299,8 @@
         "imageCredit": {
           "author": "掬茶",
           "license": "CC BY-SA 4.0",
-          "url": "https://commons.wikimedia.org/wiki/File:Tonami_Tulip_Fair_2019f.jpg"
+          "url": "https://commons.wikimedia.org/wiki/File:Tonami_Tulip_Fair_2019f.jpg",
+          "attributionRequired": true
         }
       }
     ],
@@ -133199,7 +133455,7 @@
       "author": "投稿者",
       "license": "Public domain",
       "url": "https://commons.wikimedia.org/wiki/File:Ogi_Isle_LightHouse.JPG",
-      "attributionRequired": true
+      "attributionRequired": false
     }
   },
   {
@@ -136378,7 +136634,13 @@
       "カップル向け",
       "友達と"
     ],
-    "bestSeason": "通年"
+    "bestSeason": "通年",
+    "imageCredit": {
+      "author": "Popbeans",
+      "license": "CC0",
+      "url": "https://commons.wikimedia.org/wiki/File:%E3%82%AB%E3%82%BF%E3%82%B7%E3%83%A2%E3%83%AF%E3%82%A4%E3%83%8A%E3%83%AA%E3%83%BC.jpg",
+      "attributionRequired": false
+    }
   },
   {
     "id": "tsubamesanjo",
@@ -137776,7 +138038,13 @@
       "ひとり旅向け",
       "カップル向け"
     ],
-    "bestSeason": "夏"
+    "bestSeason": "夏",
+    "imageCredit": {
+      "author": "Indiana jo",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Ikuno-Ginzan_city1.JPG",
+      "attributionRequired": true
+    }
   },
   {
     "id": "tobe",
@@ -137979,7 +138247,7 @@
       "author": "CT-May",
       "license": "CC0",
       "url": "https://commons.wikimedia.org/wiki/File:Tobe_Senzan_20240530.jpg",
-      "attributionRequired": true
+      "attributionRequired": false
     }
   },
   {
@@ -138598,7 +138866,7 @@
       "author": "Karora",
       "license": "Public domain",
       "url": "https://commons.wikimedia.org/wiki/File:JA1271_crossing_the_Otaki_River.jpg",
-      "attributionRequired": true
+      "attributionRequired": false
     }
   },
   {
@@ -139398,7 +139666,7 @@
       "author": "Saigen Jiro",
       "license": "Public domain",
       "url": "https://commons.wikimedia.org/wiki/File:%E6%84%9B%E5%AA%9B%E7%9C%8C%E6%96%B0%E5%B1%85%E6%B5%9C%E5%B8%82%E5%87%BA%E5%9C%9F_%E5%B9%B3%E5%BD%A2%E9%8A%85%E5%89%A3.JPG",
-      "attributionRequired": true
+      "attributionRequired": false
     }
   },
   {
@@ -139798,6 +140066,12 @@
       "hasShuttle": false,
       "accessStation": "JR詫間駅",
       "jalanUrl": "https://www.jalan.net/yad372643/"
+    },
+    "imageCredit": {
+      "author": "Original uploader was Toto-tarou (Edited by 663h)",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Mitoyoheiya_Hokubu-Kagawa-b.jpg",
+      "attributionRequired": true
     }
   },
   {
@@ -143898,7 +144172,13 @@
       "山岳ハイキング",
       "ゆっくり滞在"
     ],
-    "bestSeason": "夏"
+    "bestSeason": "夏",
+    "imageCredit": {
+      "author": "8-Forest",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Mt._Chokai,_19_Oct._2013.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "eshima-miyagi",
@@ -144521,7 +144801,13 @@
       "山岳ハイキング",
       "高原リゾート"
     ],
-    "bestSeason": "夏"
+    "bestSeason": "夏",
+    "imageCredit": {
+      "author": "Σ64 (talk)",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Mt.Nyukasa_01.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "ontake",
@@ -147520,7 +147806,7 @@
       "author": "ja:User:Sanjo",
       "license": "Public domain",
       "url": "https://commons.wikimedia.org/wiki/File:Gokase_Geo-Park.JPG",
-      "attributionRequired": true
+      "attributionRequired": false
     }
   },
   {
@@ -151605,7 +151891,7 @@
       "author": "日本語版ウィキペディアのItoshin87さん",
       "license": "Public domain",
       "url": "https://commons.wikimedia.org/wiki/File:Osorezan_Aomori.JPG",
-      "attributionRequired": true
+      "attributionRequired": false
     },
     "mainSpot": "恐山大師堂"
   },
@@ -151718,7 +152004,7 @@
       "author": "ひでゆき",
       "license": "Public domain",
       "url": "https://commons.wikimedia.org/wiki/File:Tashirojima_Island.JPG",
-      "attributionRequired": true
+      "attributionRequired": false
     },
     "mainSpot": "猫神社"
   },
@@ -155583,7 +155869,7 @@
       "author": "Kugel~commonswiki",
       "license": "Public domain",
       "url": "https://commons.wikimedia.org/wiki/File:Kouri_Island.JPG",
-      "attributionRequired": true
+      "attributionRequired": false
     },
     "mainSpot": "古宇利大橋",
     "featured_stay": {
@@ -156393,7 +156679,7 @@
       "author": "Syced",
       "license": "CC0",
       "url": "https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E5%8E%9F%E9%A7%85.jpg",
-      "attributionRequired": true
+      "attributionRequired": false
     },
     "mainSpot": "三千院",
     "featured_stay": {
@@ -157646,7 +157932,7 @@
       "author": "Saigen Jiro",
       "license": "CC0",
       "url": "https://commons.wikimedia.org/wiki/File:Tamatsukuri-onsen_Station_ekisha.JPG",
-      "attributionRequired": true
+      "attributionRequired": false
     },
     "mainSpot": "玉作湯神社",
     "featured_stay": {
@@ -158790,7 +159076,13 @@
       "日帰り最適"
     ],
     "bestSeason": "夏",
-    "mainSpot": "越生梅林"
+    "mainSpot": "越生梅林",
+    "imageCredit": {
+      "author": "京浜にけ",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Ogose_Plum_Tree_In_Ogosebairin_1.JPG",
+      "attributionRequired": true
+    }
   },
   {
     "id": "ogawa-saitama",
@@ -158888,7 +159180,7 @@
       "author": "妖精書士",
       "license": "CC0",
       "url": "https://commons.wikimedia.org/wiki/File:Ogawa-onsen_Kawara-no-yu_01.jpg",
-      "attributionRequired": true
+      "attributionRequired": false
     },
     "mainSpot": "和紙の里",
     "featured_stay": {
@@ -159269,7 +159561,13 @@
       "/images/takatsuki/main.jpg"
     ],
     "bestSeason": "通年",
-    "mainSpot": "今城塚古墳"
+    "mainSpot": "今城塚古墳",
+    "imageCredit": {
+      "author": "Barsaka2",
+      "license": "CC0",
+      "url": "https://commons.wikimedia.org/wiki/File:Carp_streamer_festival_in_Takatsuki.jpg",
+      "attributionRequired": false
+    }
   },
   {
     "id": "izumiotsu",
@@ -160169,7 +160467,8 @@
         "imageCredit": {
           "author": "SilverHaze",
           "license": "CC BY-SA 3.0",
-          "url": "https://commons.wikimedia.org/wiki/File:%E6%B5%B7%E7%8E%8B%E4%B8%B8%E3%83%91%E3%83%BC%E3%82%AF_%E5%AF%8C%E5%B1%B1%E7%9C%8C%E5%B0%84%E6%B0%B4%E5%B8%82_-_panoramio.jpg"
+          "url": "https://commons.wikimedia.org/wiki/File:%E6%B5%B7%E7%8E%8B%E4%B8%B8%E3%83%91%E3%83%BC%E3%82%AF_%E5%AF%8C%E5%B1%B1%E7%9C%8C%E5%B0%84%E6%B0%B4%E5%B8%82_-_panoramio.jpg",
+          "attributionRequired": true
         }
       }
     ],
@@ -162093,7 +162392,7 @@
       "author": "先従隗始",
       "license": "CC0",
       "url": "https://commons.wikimedia.org/wiki/File:Echigo-Tsumari_Satoyama_Museum_of_Contemporary_Art_KINARE_20200818.jpg",
-      "attributionRequired": true
+      "attributionRequired": false
     },
     "mainSpot": "大地の芸術祭",
     "featured_stay": {
@@ -163604,7 +163903,7 @@
       "author": "Hasec",
       "license": "Public domain",
       "url": "https://commons.wikimedia.org/wiki/File:Tomioka_Silk_Mill_East_Cocoon_Warehouse05.jpg",
-      "attributionRequired": true
+      "attributionRequired": false
     }
   },
   {
@@ -164749,6 +165048,12 @@
       "accessStation": "JR紀伊田辺駅からバス「栗栖川」バス停",
       "jalanUrl": "https://www.jalan.net/yad366504/",
       "shuttleInfo": "栗栖川・滝尻バス停まで送迎あり（要事前申込）"
+    },
+    "imageCredit": {
+      "author": "Tim Notari from Tanabe-Shi Wakayama-Ken, Japan",
+      "license": "CC BY-SA 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Inside_the_Kumano_Hongu_Taisha.jpg",
+      "attributionRequired": true
     }
   },
   {
@@ -164956,7 +165261,13 @@
       "街歩き向け"
     ],
     "bestSeason": "秋",
-    "mainSpot": "岡山城"
+    "mainSpot": "岡山城",
+    "imageCredit": {
+      "author": "by Reggaeman",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Okayama_Castle_02.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "akiyoshido",
@@ -165425,7 +165736,8 @@
         "imageCredit": {
           "author": "mahlervv",
           "license": "CC BY 3.0",
-          "url": "https://commons.wikimedia.org/wiki/File:%E3%82%84%E3%81%BE%E3%81%AA%E3%81%BF%E3%83%8F%E3%82%A4%E3%82%A6%E3%82%A7%E3%82%A4%E3%81%8B%E3%82%89%E3%81%AE%E5%B1%95%E6%9C%9B_-_panoramio.jpg"
+          "url": "https://commons.wikimedia.org/wiki/File:%E3%82%84%E3%81%BE%E3%81%AA%E3%81%BF%E3%83%8F%E3%82%A4%E3%82%A6%E3%82%A7%E3%82%A4%E3%81%8B%E3%82%89%E3%81%AE%E5%B1%95%E6%9C%9B_-_panoramio.jpg",
+          "attributionRequired": true
         }
       }
     ],
@@ -165581,6 +165893,12 @@
       "accessStation": "JR鹿児島中央駅",
       "jalanUrl": "https://www.jalan.net/yad318207/",
       "shuttleInfo": "鹿児島中央駅・天文館経由の無料シャトルバスを約30分毎に運行"
+    },
+    "imageCredit": {
+      "author": "STA3816",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Sengan-en2.jpg",
+      "attributionRequired": true
     }
   },
   {
@@ -165885,7 +166203,7 @@
       "author": "Higa4",
       "license": "CC0",
       "url": "https://commons.wikimedia.org/wiki/File:Shinsh%C5%8D-ji_(Arakawa,_Arakawa)_04.jpg",
-      "attributionRequired": true
+      "attributionRequired": false
     },
     "mainSpot": "成田山新勝寺"
   },
@@ -168836,7 +169154,7 @@
       "author": "おはぐろ蜻蛉",
       "license": "Public domain",
       "url": "https://commons.wikimedia.org/wiki/File:%E9%81%93%E3%81%AE%E9%A7%85_%E3%81%A4%E3%81%90%E9%AB%98%E5%8E%9F%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%BB%E3%83%91%E3%83%BC%E3%82%AF.jpg",
-      "attributionRequired": true
+      "attributionRequired": false
     }
   },
   {
@@ -169122,7 +169440,13 @@
       "街歩き向け"
     ],
     "bestSeason": "秋",
-    "mainSpot": "西湖"
+    "mainSpot": "西湖",
+    "imageCredit": {
+      "author": "くろふね",
+      "license": "CC BY 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:%E8%A5%BF%E6%B9%96_-_panoramio_(11).jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "shoji-lake",
@@ -169639,7 +169963,7 @@
       "author": "Alpsdake",
       "license": "CC0",
       "url": "https://commons.wikimedia.org/wiki/File:Gondola_lift_of_Winghills_Shirotori_Resort.jpg",
-      "attributionRequired": true
+      "attributionRequired": false
     }
   },
   {
@@ -170429,7 +170753,13 @@
       "街歩き向け"
     ],
     "bestSeason": "通年",
-    "mainSpot": "中洲屋台"
+    "mainSpot": "中洲屋台",
+    "imageCredit": {
+      "author": "Hirho",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Seiry%C5%AB_Park_Fukuoka_Hakata_Yatai_Nakasu_1-ch%C5%8Dme_Hakata-ku_Fukuoka_20250401_174434.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "umi-jigoku",
@@ -170916,7 +171246,8 @@
         "imageCredit": {
           "author": "Tokumeigakarinoaoshima",
           "license": "CC BY-SA 4.0",
-          "url": "https://commons.wikimedia.org/wiki/File:EXPOCITY.jpg"
+          "url": "https://commons.wikimedia.org/wiki/File:EXPOCITY.jpg",
+          "attributionRequired": true
         }
       }
     ],
@@ -170960,7 +171291,13 @@
     ],
     "bestSeason": "通年",
     "mainSpot": "太陽の塔",
-    "hubHotelOnly": true
+    "hubHotelOnly": true,
+    "imageCredit": {
+      "author": "Laitche",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Japanese_garden_scenery_at_Expo%E2%80%9970_Commemorative_Park_in_Osaka,_November_2017_-_146.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "izumi",
@@ -171575,7 +171912,7 @@
       "author": "Syced",
       "license": "CC0",
       "url": "https://commons.wikimedia.org/wiki/File:August_2007_Asakusa_temple_2.jpg",
-      "attributionRequired": true
+      "attributionRequired": false
     },
     "mainSpot": "浅草寺"
   },
@@ -172427,7 +172764,7 @@
       "author": "Harupimm",
       "license": "CC0",
       "url": "https://commons.wikimedia.org/wiki/File:Landscape_of_takatsu_totsukawa,_nara.jpg",
-      "attributionRequired": true
+      "attributionRequired": false
     },
     "mainSpot": "十津川温泉",
     "featured_stay": {
@@ -173146,7 +173483,7 @@
       "author": "Urashimataro",
       "license": "Public domain",
       "url": "https://commons.wikimedia.org/wiki/File:Shichirigahama_from_Inamuragasaki.jpg",
-      "attributionRequired": true
+      "attributionRequired": false
     }
   },
   {
@@ -173234,7 +173571,13 @@
       "/images/zushi/main.jpg"
     ],
     "bestSeason": "通年",
-    "mainSpot": "披露山公園"
+    "mainSpot": "披露山公園",
+    "imageCredit": {
+      "author": "Quercus acuta",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Hisagi_Oike_Park_-_01.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "biwako",
@@ -173334,7 +173677,13 @@
     ],
     "bestSeason": "夏・秋",
     "mainSpot": "琵琶湖",
-    "hubHotelOnly": true
+    "hubHotelOnly": true,
+    "imageCredit": {
+      "author": "Lonely Planet Japan",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Top_view_of_Lake_Biwa.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "hikone-2",
@@ -174148,7 +174497,13 @@
       "/images/nabari/main.jpg"
     ],
     "bestSeason": "夏",
-    "mainSpot": "赤目四十八滝"
+    "mainSpot": "赤目四十八滝",
+    "imageCredit": {
+      "author": "KENPEI",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Akame_48_Waterfalls-Otometaki.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "saitobaru",
@@ -174360,7 +174715,7 @@
       "author": "舌平目",
       "license": "CC0",
       "url": "https://commons.wikimedia.org/wiki/File:%E5%8C%97%E9%83%B7%E6%B8%A9%E6%B3%89%E5%85%A5%E5%8F%A3.jpg",
-      "attributionRequired": true
+      "attributionRequired": false
     }
   },
   {
@@ -174980,7 +175335,7 @@
       "author": "Hidaka-Nyo",
       "license": "CC0",
       "url": "https://commons.wikimedia.org/wiki/File:%E9%9D%92%E6%B8%A6.jpg",
-      "attributionRequired": true
+      "attributionRequired": false
     },
     "mainSpot": "帝釈峡",
     "hubHotelOnly": true
@@ -175085,7 +175440,7 @@
       "author": "おにく",
       "license": "CC0",
       "url": "https://commons.wikimedia.org/wiki/File:Kintaikyou_Bridge.jpg",
-      "attributionRequired": true
+      "attributionRequired": false
     },
     "mainSpot": "錦帯橋",
     "featured_stay": {
@@ -175520,6 +175875,12 @@
       "accessStation": "JR中央本線・茅野駅",
       "jalanUrl": "https://www.jalan.net/yad331396/",
       "shuttleInfo": "JR茅野駅東口から無料送迎バスあり（要事前予約）"
+    },
+    "imageCredit": {
+      "author": "Σ64",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Tateshina_kogen_from_Mt.Kitayokodake.JPG",
+      "attributionRequired": true
     }
   },
   {
@@ -176028,7 +176389,7 @@
       "author": "Breakover",
       "license": "CC0",
       "url": "https://commons.wikimedia.org/wiki/File:Nanokamachi_St_at_Aizuwakamatsu,_Fukushima.jpg",
-      "attributionRequired": true
+      "attributionRequired": false
     },
     "mainSpot": "七日町通り",
     "featured_stay": {
@@ -176532,7 +176893,13 @@
       "雪景色が楽しめる"
     ],
     "bestSeason": "秋",
-    "mainSpot": "横手かまくら"
+    "mainSpot": "横手かまくら",
+    "imageCredit": {
+      "author": "Rarisan",
+      "license": "CC0",
+      "url": "https://commons.wikimedia.org/wiki/File:Kamakura_at_Yokote_Castle_202402.jpg",
+      "attributionRequired": false
+    }
   },
   {
     "id": "akita-oga-peninsula",
@@ -177978,7 +178345,7 @@
       "author": "Msht05",
       "license": "CC0",
       "url": "https://commons.wikimedia.org/wiki/File:Tottori_Yazu-cho_Hakuto_Shrine.jpg",
-      "attributionRequired": true
+      "attributionRequired": false
     },
     "mainSpot": "白兎神社"
   },
@@ -178484,7 +178851,13 @@
       "絶景スポット"
     ],
     "bestSeason": "通年",
-    "mainSpot": "日本平"
+    "mainSpot": "日本平",
+    "imageCredit": {
+      "author": "gundam2345",
+      "license": "CC BY 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:%E7%94%B1%E6%AF%94_(%E9%9D%99%E5%B2%A1%E7%9C%8C%E9%9D%99%E5%B2%A1%E5%B8%82%E6%B8%85%E6%B0%B4%E5%8C%BA%E7%94%B1%E6%AF%94)_-_panoramio.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "chiba-ko",
@@ -179194,7 +179567,13 @@
       "/images/miyagi-matsushima-2/main.jpg"
     ],
     "bestSeason": "通年",
-    "mainSpot": "塩釜神社"
+    "mainSpot": "塩釜神社",
+    "imageCredit": {
+      "author": "Saigen Jiro",
+      "license": "CC0",
+      "url": "https://commons.wikimedia.org/wiki/File:Shiwahiko-jinja,_shinmon.jpg",
+      "attributionRequired": false
+    }
   },
   {
     "id": "toyama-himi-2",
@@ -179865,7 +180244,8 @@
         "imageCredit": {
           "author": "kanesue",
           "license": "CC BY 3.0",
-          "url": "https://commons.wikimedia.org/wiki/File:%E4%BC%8F%E8%A6%8B%E7%A8%B2%E8%8D%B7%E5%A4%A7%E7%A4%BE_-_panoramio_(6).jpg"
+          "url": "https://commons.wikimedia.org/wiki/File:%E4%BC%8F%E8%A6%8B%E7%A8%B2%E8%8D%B7%E5%A4%A7%E7%A4%BE_-_panoramio_(6).jpg",
+          "attributionRequired": true
         }
       }
     ],
@@ -180038,7 +180418,7 @@
       "author": "Hidaka-Nyo",
       "license": "CC0",
       "url": "https://commons.wikimedia.org/wiki/File:%E4%BA%AC%E9%83%BD%E5%BA%9C%E7%A6%8F%E7%9F%A5%E5%B1%B1%E5%B8%82%E5%A4%9C%E4%B9%85%E9%87%8E%E7%94%BA%E6%9D%BF%E7%94%9F%E3%81%AE%E5%BA%9A%E7%94%B3%E5%A1%94.jpg",
-      "attributionRequired": true
+      "attributionRequired": false
     },
     "featured_stay": {
       "name": "俵屋旅館",
@@ -180116,7 +180496,8 @@
         "imageCredit": {
           "author": "kanesue",
           "license": "CC BY 3.0",
-          "url": "https://commons.wikimedia.org/wiki/File:%E6%A2%85%E7%94%B0%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%93%E3%83%AB_-_panoramio.jpg"
+          "url": "https://commons.wikimedia.org/wiki/File:%E6%A2%85%E7%94%B0%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%93%E3%83%AB_-_panoramio.jpg",
+          "attributionRequired": true
         }
       },
       {
@@ -180126,7 +180507,8 @@
         "imageCredit": {
           "author": "Martin Falbisoner",
           "license": "CC BY-SA 4.0",
-          "url": "https://commons.wikimedia.org/wiki/File:Osaka_Castle_Outer_Moat_and_Osaka_Business_Park,_November_2016.jpg"
+          "url": "https://commons.wikimedia.org/wiki/File:Osaka_Castle_Outer_Moat_and_Osaka_Business_Park,_November_2016.jpg",
+          "attributionRequired": true
         }
       },
       {
@@ -180379,7 +180761,8 @@
         "imageCredit": {
           "author": "Christophe95",
           "license": "CC BY-SA 4.0",
-          "url": "https://commons.wikimedia.org/wiki/File:View_of_the_Grand_Nikko_Tokyo_Daiba_and_Hilton_Tokyo_Odaiba_from_the_Shiokaze_Park.jpg"
+          "url": "https://commons.wikimedia.org/wiki/File:View_of_the_Grand_Nikko_Tokyo_Daiba_and_Hilton_Tokyo_Odaiba_from_the_Shiokaze_Park.jpg",
+          "attributionRequired": true
         }
       },
       {
@@ -180393,7 +180776,8 @@
         "imageCredit": {
           "author": "Syced",
           "license": "CC0",
-          "url": "https://commons.wikimedia.org/wiki/File:Jiyugaoka_1-chome.jpg"
+          "url": "https://commons.wikimedia.org/wiki/File:Jiyugaoka_1-chome.jpg",
+          "attributionRequired": false
         }
       },
       {
@@ -180571,7 +180955,13 @@
       "カップル向け",
       "家族向け"
     ],
-    "bestSeason": "秋"
+    "bestSeason": "秋",
+    "imageCredit": {
+      "author": "David Kernan",
+      "license": "CC BY 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Minato_City,_Tokyo,_Japan.jpg",
+      "attributionRequired": true
+    }
   },
   {
     "id": "kobe",
@@ -180886,7 +181276,8 @@
         "imageCredit": {
           "author": "Thirteen-fri",
           "license": "CC BY-SA 4.0",
-          "url": "https://commons.wikimedia.org/wiki/File:Yokohama_Anpanman_Children%27s_Museum_2019_-_03.jpg"
+          "url": "https://commons.wikimedia.org/wiki/File:Yokohama_Anpanman_Children%27s_Museum_2019_-_03.jpg",
+          "attributionRequired": true
         }
       }
     ],
@@ -181508,7 +181899,7 @@
       "author": "Daderot",
       "license": "CC0",
       "url": "https://commons.wikimedia.org/wiki/File:Higashiyamahigashi_-_Kanazawa,_Japan_-_DSC00117.jpg",
-      "attributionRequired": true
+      "attributionRequired": false
     },
     "featured_stay": {
       "name": "料亭旅館 金城樓",
@@ -183799,7 +184190,7 @@
       "author": "Saigen Jiro",
       "license": "CC0",
       "url": "https://commons.wikimedia.org/wiki/File:Tanakura_Castle_hori.JPG",
-      "attributionRequired": true
+      "attributionRequired": false
     },
     "hubHotelOnly": true
   },
@@ -188000,7 +188391,7 @@
       "author": "Saigen Jiro",
       "license": "CC0",
       "url": "https://commons.wikimedia.org/wiki/File:Toga-jinja,_shamusho.jpg",
-      "attributionRequired": true
+      "attributionRequired": false
     }
   },
   {
@@ -192422,7 +192813,7 @@
       "author": "Soica2001 (talk)",
       "license": "Public domain",
       "url": "https://commons.wikimedia.org/wiki/File:Sugawa_spa_sunset.jpg",
-      "attributionRequired": true
+      "attributionRequired": false
     }
   },
   {
@@ -193465,7 +193856,7 @@
       "author": "Evelyn-rose",
       "license": "CC0",
       "url": "https://commons.wikimedia.org/wiki/File:Yuya-Onsen-1.jpg",
-      "attributionRequired": true
+      "attributionRequired": false
     },
     "hubHotelOnly": true
   },
@@ -198917,7 +199308,7 @@
       "author": "Soica2001 (talk)",
       "license": "Public domain",
       "url": "https://commons.wikimedia.org/wiki/File:Ogawa_Onsen_Motoyu_Doukutu.jpg",
-      "attributionRequired": true
+      "attributionRequired": false
     }
   },
   {
@@ -207249,7 +207640,8 @@
         "imageCredit": {
           "author": "jkyZjdjNjN",
           "license": "CC BY 3.0",
-          "url": "https://commons.wikimedia.org/wiki/File:%E6%B5%85%E8%99%AB%E6%B8%A9%E6%B3%89_%E5%86%AC%E6%9C%9F_-_panoramio.jpg"
+          "url": "https://commons.wikimedia.org/wiki/File:%E6%B5%85%E8%99%AB%E6%B8%A9%E6%B3%89_%E5%86%AC%E6%9C%9F_-_panoramio.jpg",
+          "attributionRequired": true
         }
       },
       {
@@ -207259,7 +207651,8 @@
         "imageCredit": {
           "author": "663highland",
           "license": "CC BY 2.5",
-          "url": "https://commons.wikimedia.org/wiki/File:Owani_Onsen_Owani_Aomori_pref_Japan01s3.jpg"
+          "url": "https://commons.wikimedia.org/wiki/File:Owani_Onsen_Owani_Aomori_pref_Japan01s3.jpg",
+          "attributionRequired": true
         }
       }
     ],
@@ -208251,7 +208644,7 @@
       "author": "Joseph Chan yulokchan",
       "license": "CC0",
       "url": "https://commons.wikimedia.org/wiki/File:Fairy_Land_(Unsplash).jpg",
-      "attributionRequired": true
+      "attributionRequired": false
     },
     "featured_stay": {
       "name": "信玄の湯 湯村温泉 常磐ホテル",
@@ -209185,7 +209578,8 @@
         "imageCredit": {
           "author": "funk bass",
           "license": "CC BY 3.0",
-          "url": "https://commons.wikimedia.org/wiki/File:%E9%AB%98%E5%B4%8E%E5%B1%B1%E8%87%AA%E7%84%B6%E5%8B%95%E7%89%A9%E5%9C%92_-_panoramio.jpg"
+          "url": "https://commons.wikimedia.org/wiki/File:%E9%AB%98%E5%B4%8E%E5%B1%B1%E8%87%AA%E7%84%B6%E5%8B%95%E7%89%A9%E5%9C%92_-_panoramio.jpg",
+          "attributionRequired": true
         }
       },
       {
@@ -209553,6 +209947,12 @@
       "hasShuttle": false,
       "accessStation": "JR宮崎駅（車5分）",
       "jalanUrl": "https://www.jalan.net/yad300515/"
+    },
+    "imageCredit": {
+      "author": "松岡明芳",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:2021-01-07_Aoshima_Island_(Miyazaki)Aerial_photography%E9%9D%92%E5%B3%B6_(%E5%AE%AE%E5%B4%8E%E7%9C%8C)DJI_0246_(2)%E7%A9%BA%E6%92%AE.jpg",
+      "attributionRequired": true
     }
   },
   {
@@ -210841,7 +211241,7 @@
       "author": "Ocdp",
       "license": "CC0",
       "url": "https://commons.wikimedia.org/wiki/File:Tokaido_Seki_Juku_007.jpg",
-      "attributionRequired": true
+      "attributionRequired": false
     },
     "featured_stay": {
       "name": "旅人宿 石垣屋",
@@ -211238,7 +211638,7 @@
       "author": "Soica2001 (talk)",
       "license": "Public domain",
       "url": "https://commons.wikimedia.org/wiki/File:Ubayu_roten.jpg",
-      "attributionRequired": true
+      "attributionRequired": false
     }
   },
   {
@@ -211763,7 +212163,7 @@
       "author": "Saigen Jiro",
       "license": "CC0",
       "url": "https://commons.wikimedia.org/wiki/File:Oshi_Castle,_yagura-1.jpg",
-      "attributionRequired": true
+      "attributionRequired": false
     },
     "hotelLinks": {
       "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fsaitama%2Fkawagoe.html",
@@ -215338,7 +215738,7 @@
       "author": "RickardA",
       "license": "Public domain",
       "url": "https://commons.wikimedia.org/wiki/File:Doroyu_Onsen.JPG",
-      "attributionRequired": true
+      "attributionRequired": false
     },
     "hotelLinks": {
       "rakuten": "https://travel.rakuten.co.jp/yado/akita/",
@@ -215472,7 +215872,7 @@
       "author": "Soica2001 (talk)",
       "license": "Public domain",
       "url": "https://commons.wikimedia.org/wiki/File:Tokusa_spa_iwaburo_2008.jpg",
-      "attributionRequired": true
+      "attributionRequired": false
     },
     "hotelLinks": {
       "rakuten": "https://travel.rakuten.co.jp/yado/fukushima/",
@@ -217756,7 +218156,7 @@
       "author": "㭍月例祭",
       "license": "Public domain",
       "url": "https://commons.wikimedia.org/wiki/File:Iwaionsen-tottori1200.jpg",
-      "attributionRequired": true
+      "attributionRequired": false
     },
     "hotelLinks": {
       "rakuten": "https://travel.rakuten.co.jp/yado/tottori/",
@@ -218698,7 +219098,7 @@
       "author": "MaedaAkihiko",
       "license": "CC0",
       "url": "https://commons.wikimedia.org/wiki/File:Arifuku-Onsen_central.jpg",
-      "attributionRequired": true
+      "attributionRequired": false
     },
     "hotelLinks": {
       "rakuten": "https://travel.rakuten.co.jp/yado/shimane/",
@@ -219637,7 +220037,7 @@
       "author": "Bsx",
       "license": "Public domain",
       "url": "https://commons.wikimedia.org/wiki/File:Tawarayama-spa.jpg",
-      "attributionRequired": true
+      "attributionRequired": false
     },
     "hotelLinks": {
       "rakuten": "https://travel.rakuten.co.jp/yado/yamaguchi/",
@@ -220040,7 +220440,7 @@
       "author": "As6022014",
       "license": "Public domain",
       "url": "https://commons.wikimedia.org/wiki/File:Roadside_Station_Imabari_Yunoura_onsen.jpg",
-      "attributionRequired": true
+      "attributionRequired": false
     },
     "hotelLinks": {
       "rakuten": "https://travel.rakuten.co.jp/yado/ehime/",
@@ -220174,7 +220574,7 @@
       "author": "Soica2001 (talk)",
       "license": "Public domain",
       "url": "https://commons.wikimedia.org/wiki/File:Chuuguu_spa_Nisiyama_taru.jpg",
-      "attributionRequired": true
+      "attributionRequired": false
     },
     "hotelLinks": {
       "rakuten": "https://travel.rakuten.co.jp/yado/ishikawa/",
@@ -221513,7 +221913,7 @@
       "author": "Original uploader was As6673 at ja.wikipedia  (Edited by 663highland)",
       "license": "Public domain",
       "url": "https://commons.wikimedia.org/wiki/File:Unomachi_town_b.jpg",
-      "attributionRequired": true
+      "attributionRequired": false
     },
     "hotelLinks": {
       "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fehime%2F",
@@ -221768,7 +222168,7 @@
       "author": "On-chan",
       "license": "CC0",
       "url": "https://commons.wikimedia.org/wiki/File:Kuni-Akaiwa_settlement01.JPG",
-      "attributionRequired": true
+      "attributionRequired": false
     },
     "hotelLinks": {
       "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fgunma%2F",
@@ -222929,7 +223329,7 @@
       "author": "㭍月例祭",
       "license": "Public domain",
       "url": "https://commons.wikimedia.org/wiki/File:Osikakei.jpg",
-      "attributionRequired": true
+      "attributionRequired": false
     },
     "hotelLinks": {
       "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Ftottori%2F",

@@ -1,0 +1,35 @@
+✅ akita-oga              男鹿温泉         Mount Kampu seen from Futto, Wakami, Oga … 緑の水田と寒風山を望む夏の景観
+✅ mimasaka               美作           Sunayu (Yubara hot spring).jpg … 石碑と桜が彩る砂湯の露天温泉情景
+✅ miyazaki               宮崎           2021-01-07 Aoshima Island (Miyazaki)Aeri … 青島へ続く橋と鬼の洗濯板の海岸景観
+❌ otari-onsen            小谷温泉         合格なし（7枚試行）
+✅ toshima                利島           Miyatsukayama.jpg … 雲をまとう利島の山と港の風景
+✅ aso                    阿蘇           Mount Aso 2010-05 01.jpg … 阿蘇中岳火口と噴煙の迫力ある景観
+✅ jozankei               定山渓          北海道道1号小樽定山渓線（Lakeline Jozankei） - panora … 紅葉に包まれたダム湖と山々の絶景
+✅ oarai                  大洗           Oarai Isosaki Shrine 03.jpg … 大洗磯前神社の社殿と狛犬
+✅ takashima-shiga        高島           Shirahige shrine , 白鬚神社 - panoramio (11) … 朱塗り鳥居と石段・石灯籠が並ぶ神社参道
+✅ tsuruoka-kinzan        金山町          Mount Futago (Ogano) 2011-10-10.jpg … 緑豊かな山並みと青空の大パノラマ
+✅ kitsuki                杵築           杵築市 大原邸 2022.jpg … 茅葺き屋根の武家屋敷と庭園
+✅ tsuyama                津山           Tuyama-1311-6.jpg … 津山城（鶴山公園）の天守備中櫓と石垣
+✅ murakami               村上           きっかわ・益甚酒店.jpg … 村上の風情ある黒壁の老舗町家建築
+✅ rikuzentakata          陸前高田         高田松原箱根山Rikuzentakatamatsubara Mt.Hakone  … 松林と砂浜、山を望む海岸風景
+✅ higashihiroshima       東広島          仕込みの湯気 87cf521f-8e8f-44b4-8fad-2d608420a … 西条の酒蔵群と煙突から立ち上る蒸気
+✅ shinjou                新庄           ShinjoMatsuriNight.jpg … 新庄まつりの巨大蛇の山車と夜の絵巻
+✅ miyoshi-hiroshima      三次           みよし風土記の丘復元建物群.jpg … 茅葺き屋根の古代高床式建物群
+✅ yatsushiro             八代           Kumagawa Shiroishi.jpg … 緑の山々と川面の静かな渓谷風景
+✅ tsuchiura              土浦           Tsuchiura Fireworks Competition 2009 a.j … 夜空を彩る土浦花火大会の華やかな打ち上げ花火
+✅ kisakata               象潟           Main Hall, Kanman-ji.jpg … 緑に囲まれた歴史ある寺院の本堂
+✅ chokai-san             鳥海山          Mt. Chokai, 19 Oct. 2013.jpg … 雪をいただく鳥海山と紅葉の山肌
+node:internal/modules/run_main:107
+    triggerUncaughtException(
+    ^
+
+[TypeError: fetch failed] {
+  [cause]: Error: read ECONNRESET
+      at TLSWrap.onStreamRead (node:internal/stream_base_commons:216:20) {
+    errno: -54,
+    code: 'ECONNRESET',
+    syscall: 'read'
+  }
+}
+
+Node.js v25.8.2

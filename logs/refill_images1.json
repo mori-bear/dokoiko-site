@@ -1,0 +1,4063 @@
+{
+ "adopted": [
+  {
+   "id": "suwa",
+   "name": "諏訪",
+   "title": "File:Suwataisya kamisya kawagoshi.JPG",
+   "placeCheck": "weak",
+   "credit": {
+    "author": "C1815",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Suwataisya_kamisya_kawagoshi.JPG",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "諏訪大社の御柱祭と見られる、特徴的な大規模祭典行事。赤と黄色の衣装の参加者、川での儀式、山々の地形が諏訪地域を示唆"
+    },
+    "sonnet": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "諏訪大社の御柱祭「川越し」の場面で、旗・巨木・川渡りが特徴的"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Buildings around Kami-Suwa (23032).jpg",
+     "stage": "haiku",
+     "placeCheck": "weak",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "公共施設の屋外撮影ですが、諏訪を特定する手がかりが不足。汎用的な街角風景です。"
+    },
+    {
+     "title": "File:林屋 うなぎ (長野県諏訪郡下諏訪町) - panoramio.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "屋内の飲食店料理の撮影。諏訪の観光地や特徴的な場所の特定ができない。"
+    },
+    {
+     "title": "File:Basin behind Kami-Suwa station.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "建設用の仮設シートと足場が目立ち、工事中の状態。諏訪を特定する手がかりがない。"
+    },
+    {
+     "title": "File:長野県諏訪市小和田6 - Flickr - m-louis 2023-07-08.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "古い町屋建築ですが、諏訪を特定できる看板や特徴的な地形がありません。一般的な古民家写真です。"
+    },
+    {
+     "title": "File:Buildings around Kami-Suwa (78225).jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": true,
+     "reason": "屋内施設（法務局）の外観。温泉地の魅力を伝える観光紹介画像として不適切。"
+    },
+    {
+     "title": "File:Buildings around Kami-Suwa (73494).jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "屋内施設（駅舎等の建物）の外観のみで、諏訪特有の観光地や風景を示していない。"
+    },
+    {
+     "title": "File:Buildings around Kami-Suwa (40231).jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "駐車場と一般的なビジネスホテル。諏訪固有の特徴（諏訪湖、神社、温泉施設など）が見当たらない。"
+    },
+    {
+     "title": "File:Suwataisya kamisya kawagoshi.JPG",
+     "stage": "sonnet",
+     "placeCheck": "weak",
+     "haiku": {
+      "verdict": "ok",
+      "identifiable": true,
+      "reason": "諏訪大社の御柱祭と見られる、特徴的な大規模祭典行事。赤と黄色の衣装の参加者、川での儀式、山々の地形が諏訪地域を示唆"
+     },
+     "sonnet": {
+      "verdict": "ok",
+      "identifiable": true,
+      "reason": "諏訪大社の御柱祭「川越し」の場面で、旗・巨木・川渡りが特徴的"
+     }
+    }
+   ]
+  },
+  {
+   "id": "tokyo",
+   "name": "東京",
+   "title": "File:Minato City, Tokyo, Japan.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "David Kernan",
+    "license": "CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Minato_City,_Tokyo,_Japan.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "東京スカイツリーが中央に映り、高層ビル群の特徴的な都市景観が認識できる。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Minato City, Tokyo, Japan.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "東京スカイツリーが中央に映り、高層ビル群の特徴的な都市景観が認識できる。"
+    }
+   ]
+  },
+  {
+   "id": "akita-oga",
+   "name": "男鹿温泉",
+   "title": "File:Oga Onsenn-kyo.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Totti",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Oga_Onsenn-kyo.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "男鹿温泉の象徴的なナマハゲ像が明確に写っており、地域特性が強く表現されている。温泉地の景観として適切。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Oga Onsenn-kyo.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "男鹿温泉の象徴的なナマハゲ像が明確に写っており、地域特性が強く表現されている。温泉地の景観として適切。"
+    }
+   ]
+  },
+  {
+   "id": "mimasaka",
+   "name": "美作",
+   "title": "File:Mimasaka station soto.jpg",
+   "placeCheck": "weak",
+   "credit": {
+    "author": "Nishioji225",
+    "license": "CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Mimasaka_station_soto.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "岡山県美作地域の典型的な駅舎と見られる、伝統的な日本建築様式の建物。地方都市の風情を示す景観として適切。"
+    },
+    "sonnet": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "瓦屋根の古風な駅舎で美作地域の地方駅と推定できる特徴的な建造物が写っている"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Mimasaka police station.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "官公庁舎と思われる建物で、美作地域の代表的な観光地や風景ではない"
+    },
+    {
+     "title": "File:岡山県美作市平福出土 陶棺.JPG",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "屋内の博物館展示品。土器や埴輪の資料展示であり、美作地域の観光地紹介画像として不適切。"
+    },
+    {
+     "title": "File:Mimasaka Senior High School main building.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "湯治宿や温泉施設と見られますが、美作地域を特定できる固有の手がかり（看板・銘板など）が見当たりません。"
+    },
+    {
+     "title": "File:Mimasaka Senior High School third building.jpg",
+     "stage": "haiku",
+     "placeCheck": "weak",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "一般的な建物写真で美作を特定する手がかりがない。看板が不鮮明。"
+    },
+    {
+     "title": "File:Mimasaka Senior High School communication center.jpg",
+     "stage": "haiku",
+     "placeCheck": "weak",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "現代的な公共施設・学校建築の写真。美作を特定できる看板や固有の特徴がない。"
+    },
+    {
+     "title": "File:Map Mimasaka en.png",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "地図・図表であり、旅行サイトの紹介画像として不適切。実景写真ではない。"
+    },
+    {
+     "title": "File:Mimasaka station naka.jpg",
+     "stage": "haiku",
+     "placeCheck": "weak",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "屋内の駅舎・資料展示室内。美作地域を特定できる看板や特徴的標識が不明瞭。"
+    },
+    {
+     "title": "File:Mimasaka station soto.jpg",
+     "stage": "sonnet",
+     "placeCheck": "weak",
+     "haiku": {
+      "verdict": "ok",
+      "identifiable": true,
+      "reason": "岡山県美作地域の典型的な駅舎と見られる、伝統的な日本建築様式の建物。地方都市の風情を示す景観として適切。"
+     },
+     "sonnet": {
+      "verdict": "ok",
+      "identifiable": true,
+      "reason": "瓦屋根の古風な駅舎で美作地域の地方駅と推定できる特徴的な建造物が写っている"
+     }
+    }
+   ]
+  },
+  {
+   "id": "miyazaki",
+   "name": "宮崎",
+   "title": "File:Miyazaki Airport Feb 2008.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "ja:User:Sanjo",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Miyazaki_Airport_Feb_2008.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "宮崎空港の建物と特徴的な駅舎、ヤシの木が写っており、宮崎を特定できます。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Miyazaki Airport Feb 2008.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "宮崎空港の建物と特徴的な駅舎、ヤシの木が写っており、宮崎を特定できます。"
+    }
+   ]
+  },
+  {
+   "id": "myoko",
+   "name": "妙高",
+   "title": "File:Sekiyama shrine in Myōkō, Niigata.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Hotaru2022",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Sekiyama_shrine_in_My%C5%8Dk%C5%8D,_Niigata.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "妙高の特徴的な赤い鳥居と杉並木の神社参道が明確に写っており、妙高らしさが伝わる"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Myoko City Office.JPG",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "公共施設の駐車場で、妙高の観光魅力を表現していません。屋外ですが景観価値がありません。"
+    },
+    {
+     "title": "File:マルフク看板 新潟県妙高市田口 - panoramio.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "電話番号などの広告看板が主体。妙高特定の特徴的建造物がなく、一般的な施設の廃墟のみ。"
+    },
+    {
+     "title": "File:とん汁の店たちばな（新潟県妙高市）20260522-P1083520.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": true,
+     "reason": "駅舎の看板に文字が焼き込まれており、旅行紹介画像の基準に不適切"
+    },
+    {
+     "title": "File:とん汁（新潟県妙高市・とん汁の店たちばな）20260522-P1083559.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "屋内の食事風景であり、妙高の観光地や特徴的な施設・風景が写っていない"
+    },
+    {
+     "title": "File:Sekiyama shrine in Myōkō, Niigata.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "妙高の特徴的な赤い鳥居と杉並木の神社参道が明確に写っており、妙高らしさが伝わる"
+    }
+   ]
+  },
+  {
+   "id": "tateyama-toyama",
+   "name": "立山",
+   "title": "File:Tateyama 20191005 141249.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Ka23 13",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Tateyama_20191005_141249.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "立山の特徴的な火山地形、硫黄の採掘跡、地獄谷の景観が明確に写っており、立山地獄谷とて識別可能。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Tateyama Town Hall.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "屋内施設（庁舎・宿泊施設など）の外観のみ。立山の自然景観が映っていない。"
+    },
+    {
+     "title": "File:Tateyama 20191005 141249.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "立山の特徴的な火山地形、硫黄の採掘跡、地獄谷の景観が明確に写っており、立山地獄谷とて識別可能。"
+    }
+   ]
+  },
+  {
+   "id": "otari-onsen",
+   "name": "小谷温泉",
+   "title": "File:Spa Yamadaya, Otari, Nagano Prefecture.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "黒ゆり",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Spa_Yamadaya,_Otari,_Nagano_Prefecture.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "温泉浴場の風情を示す暗い湯色、木製浴槽、昭和レトロな施設が小谷温泉の特徴を表現している"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Spa Yamadaya, Otari, Nagano Prefecture.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "屋内の浴場風景のみで、小谷温泉特定の手がかりがない。看板や特徴的建造物が見えない。"
+    },
+    {
+     "title": "File:Spa Yamadaya, Otari, Nagano Prefecture.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "温泉浴場の風情を示す暗い湯色、木製浴槽、昭和レトロな施設が小谷温泉の特徴を表現している"
+    }
+   ]
+  },
+  {
+   "id": "minami-aizu",
+   "name": "南会津",
+   "title": "File:福島県南会津郡南会津町塩ノ原 02.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "スティーブ・ミズキ",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:%E7%A6%8F%E5%B3%B6%E7%9C%8C%E5%8D%97%E4%BC%9A%E6%B4%A5%E9%83%A1%E5%8D%97%E4%BC%9A%E6%B4%A5%E7%94%BA%E5%A1%A9%E3%83%8E%E5%8E%9F_02.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "山々に囲まれた谷間の集落、川と橋が特徴的。南会津の典型的な風景として識別可能。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:福島県南会津郡南会津町塩ノ原 09.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "農業資材の積み置きで、南会津の観光地を特定できる要素がない。紹介画像に適さない。"
+    },
+    {
+     "title": "File:福島県南会津郡南会津町塩ノ原 02.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "山々に囲まれた谷間の集落、川と橋が特徴的。南会津の典型的な風景として識別可能。"
+    }
+   ]
+  },
+  {
+   "id": "toshima",
+   "name": "利島",
+   "title": "File:ETH-BIB-Friedlaender-Toshima Südwestküste (Izu)-Ans 05420-076-AL-FL.tif",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Immanuel Friedlaender",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:ETH-BIB-Friedlaender-Toshima_S%C3%BCdwestk%C3%BCste_(Izu)-Ans_05420-076-AL-FL.tif",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "利島の特徴的な火山地形と急峻な崖が写っており、伊豆諸島の島嶼風景として識別可能。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Toshima street.jpg",
+     "stage": "sonnet",
+     "placeCheck": "ok",
+     "haiku": {
+      "verdict": "ok",
+      "identifiable": false,
+      "reason": "利島の風景を捉えた画像。集落の街並みや建物が見え、離島の雰囲気が伝わるが、特定地点を断定できる看板等がない。"
+     },
+     "sonnet": {
+      "verdict": "ng",
+      "identifiable": false,
+      "reason": "一般的な島の住宅街の道で、利島と断定できる特徴がない"
+     }
+    },
+    {
+     "title": "File:Toshima.heliports.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "利島を特定できる看板や特徴的建造物がない。一般的な施設建物の写真で、旅先の紹介画像として不適切。"
+    },
+    {
+     "title": "File:Toshima.heliport.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "ヘリコプターと着陸場が写っているが、利島を特定する手がかりがない。汎用的な施設写真で観光地紹介に不適切。"
+    },
+    {
+     "title": "File:ETH-BIB-Friedlaender-Toshima Südwestküste (Izu)-Ans 05420-076-AL-FL.tif",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "利島の特徴的な火山地形と急峻な崖が写っており、伊豆諸島の島嶼風景として識別可能。"
+    }
+   ]
+  },
+  {
+   "id": "aso",
+   "name": "阿蘇",
+   "title": "File:Aso city (Aso, Kumamoto) VLux5 hdsr 07.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Hyppolyte de Saint-Rambert",
+    "license": "CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Aso_city_(Aso,_Kumamoto)_VLux5_hdsr_07.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "阿蘇の特徴的な山容（カルデラ地形）が明確に写っており、阿蘇だと特定可能。建物と山のバランスも良好。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Aso city (Aso, Kumamoto) VLux5 hdsr 07.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "阿蘇の特徴的な山容（カルデラ地形）が明確に写っており、阿蘇だと特定可能。建物と山のバランスも良好。"
+    }
+   ]
+  },
+  {
+   "id": "jozankei",
+   "name": "定山渓",
+   "title": "File:北海道道1号小樽定山渓線（Lakeline Jozankei） - panoramio (1).jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "t-konno",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:%E5%8C%97%E6%B5%B7%E9%81%93%E9%81%931%E5%8F%B7%E5%B0%8F%E6%A8%BD%E5%AE%9A%E5%B1%B1%E6%B8%93%E7%B7%9A%EF%BC%88Lakeline_Jozankei%EF%BC%89_-_panoramio_(1).jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "定山渓の象徴的な赤い橋と秋の紅葉が写っており、地域の特徴が明確に表現されている"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:北海道道1号小樽定山渓線.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "商店街の一般的な風景で、定山渓特有の温泉地の特徴が見当たらない"
+    },
+    {
+     "title": "File:Hokkaido Prefectural Road 1 and 95.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "道路と周囲の山並みは一般的。定山渓を特定できる看板や建造物がない"
+    },
+    {
+     "title": "File:Remains of Jozankei Station.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "資料展示（説明看板）が主体で、定山渓の観光地としての魅力を示していない。紹介画像に不適切。"
+    },
+    {
+     "title": "File:北海道道1号小樽定山渓線（Lakeline Jozankei） - panoramio (1).jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "定山渓の象徴的な赤い橋と秋の紅葉が写っており、地域の特徴が明確に表現されている"
+    }
+   ]
+  },
+  {
+   "id": "oarai",
+   "name": "大洗",
+   "title": "File:Aqua World.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Jennie Kondo (Jennie Valdivieso Kondo - Grialte)",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Aqua_World.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "大洗水族館の特徴的な建築と駐車場が写っており、大洗を代表する観光施設として識別可能。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:茨城県大洗水族館 - panoramio.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": true,
+     "reason": "茨城県大洗水族館の看板ですが、建物が見切れており構図が不適切。建築物全体や周辺景観が欠けている。"
+    },
+    {
+     "title": "File:Aqua World.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "大洗水族館の特徴的な建築と駐車場が写っており、大洗を代表する観光施設として識別可能。"
+    }
+   ]
+  },
+  {
+   "id": "takashima-shiga",
+   "name": "高島",
+   "title": "File:Kōganzan Kōshō-ji Temple 20220525 04.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "先従隗始",
+    "license": "CC0",
+    "url": "https://commons.wikimedia.org/wiki/File:K%C5%8Dganzan_K%C5%8Dsh%C5%8D-ji_Temple_20220525_04.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "高島の特徴的な杉林と石積みの祠が写っており、地域の自然景観を表現できています。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Takashima City Hall.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "現代的な公共施設の建物で、高島地域を特定できる看板や特徴的な手がかりがない"
+    },
+    {
+     "title": "File:滋賀県高島市大溝陣屋天守閣跡石碑.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": true,
+     "reason": "文字の焼き込みがある石碑。地図・標識的な資料のため紹介画像として不適切。"
+    },
+    {
+     "title": "File:Kōganzan Kōshō-ji Temple 20220525 04.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "高島の特徴的な杉林と石積みの祠が写っており、地域の自然景観を表現できています。"
+    }
+   ]
+  },
+  {
+   "id": "niimi",
+   "name": "新見",
+   "title": "File:Niimi city.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Phronimosx",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Niimi_city.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "新見の街並み、赤い塔、高梁川の流れが写っており、新見町の特徴的な風景として識別可能。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Niimi city.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "新見の街並み、赤い塔、高梁川の流れが写っており、新見町の特徴的な風景として識別可能。"
+    }
+   ]
+  },
+  {
+   "id": "tsuruoka-kinzan",
+   "name": "金山町",
+   "title": "File:Kaneyama-sanpou.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "MWE (talk) 22:03, 6 October 2009 (UTC)",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Kaneyama-sanpou.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "金山町の特徴的な山々の地形と農村風景が写っており、地域の自然景観を表現している。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Kaneyama town hall in Yamagata.JPG",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "建物は写っているが、金山町特有の特徴や識別できる看板がなく、どの地域の写真か特定できない。"
+    },
+    {
+     "title": "File:Kaneyama-sanpou.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "金山町の特徴的な山々の地形と農村風景が写っており、地域の自然景観を表現している。"
+    }
+   ]
+  },
+  {
+   "id": "nachikatsuura",
+   "name": "那智勝浦",
+   "title": "File:那智勝浦港の夕陽.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "ありきたり",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:%E9%82%A3%E6%99%BA%E5%8B%9D%E6%B5%A6%E6%B8%AF%E3%81%AE%E5%A4%95%E9%99%BD.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": false,
+     "reason": "那智勝浦の海と夕焼けを捉えた良好な風景写真。ただし特定建造物がなく断定困難"
+    },
+    "sonnet": {
+     "verdict": "ok",
+     "identifiable": false,
+     "reason": "港と山並みの夕景で雰囲気は合うが那智勝浦と断定できる特徴物は写っていない"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:那智勝浦港の夕陽.jpg",
+     "stage": "sonnet",
+     "placeCheck": "ok",
+     "haiku": {
+      "verdict": "ok",
+      "identifiable": false,
+      "reason": "那智勝浦の海と夕焼けを捉えた良好な風景写真。ただし特定建造物がなく断定困難"
+     },
+     "sonnet": {
+      "verdict": "ok",
+      "identifiable": false,
+      "reason": "港と山並みの夕景で雰囲気は合うが那智勝浦と断定できる特徴物は写っていない"
+     }
+    }
+   ]
+  },
+  {
+   "id": "hachimantai",
+   "name": "八幡平",
+   "title": "File:Hachimann numa 2008.jpg",
+   "placeCheck": "weak",
+   "credit": {
+    "author": "Soica2001 (talk)",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Hachimann_numa_2008.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "八幡平の特徴的な火山湖と周囲の緑の山々が映っており、地形的に識別可能。建造物も確認でき、八幡平の紹介画像として適切。"
+    },
+    "sonnet": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "高層湿原と火山性湖沼・針葉樹林が八幡平の景観と合致"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Hachimann numa 2008.jpg",
+     "stage": "sonnet",
+     "placeCheck": "weak",
+     "haiku": {
+      "verdict": "ok",
+      "identifiable": true,
+      "reason": "八幡平の特徴的な火山湖と周囲の緑の山々が映っており、地形的に識別可能。建造物も確認でき、八幡平の紹介画像として適切。"
+     },
+     "sonnet": {
+      "verdict": "ok",
+      "identifiable": true,
+      "reason": "高層湿原と火山性湖沼・針葉樹林が八幡平の景観と合致"
+     }
+    }
+   ]
+  },
+  {
+   "id": "kitsuki",
+   "name": "杵築",
+   "title": "File:Kitsuki City Hall.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "ja:user:Sinsyun",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Kitsuki_City_Hall.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "杵築の特徴的な建築様式（白壁、黒い横格子窓）と掲示板・看板が見え、町の歴史的建造物として識別可能"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Kitsuki City Hall.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "杵築の特徴的な建築様式（白壁、黒い横格子窓）と掲示板・看板が見え、町の歴史的建造物として識別可能"
+    }
+   ]
+  },
+  {
+   "id": "tsuyama",
+   "name": "津山",
+   "title": "File:Tsuyama Funatsukiba 01.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "VZP10224",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Tsuyama_Funatsukiba_01.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "津山城跡周辺の歴史的建造物と城下町の景観が認識でき、津山を特徴づける城跡エリアの紹介画像として適切。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Tsuyama Funatsukiba Nage.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "津山を特定できる看板・建造物がない。現代建築と石垣のみで場所特定困難。"
+    },
+    {
+     "title": "File:Tsuyama Funatsukiba 01.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "津山城跡周辺の歴史的建造物と城下町の景観が認識でき、津山を特徴づける城跡エリアの紹介画像として適切。"
+    }
+   ]
+  },
+  {
+   "id": "murakami",
+   "name": "村上",
+   "title": "File:Murakami Station - 村上駅（新潟県） - panoramio.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "friendD",
+    "license": "CC BY 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Murakami_Station_-_%E6%9D%91%E4%B8%8A%E9%A7%85%EF%BC%88%E6%96%B0%E6%BD%9F%E7%9C%8C%EF%BC%89_-_panoramio.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "村上の市街地中心部。黒い時計塔と日本語表記の看板により村上町と特定可能。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Murakami Station - 村上駅（新潟県） - panoramio.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "村上の市街地中心部。黒い時計塔と日本語表記の看板により村上町と特定可能。"
+    }
+   ]
+  },
+  {
+   "id": "kasama",
+   "name": "笠間",
+   "title": "File:Ryogonji Temple (Kasama City) 03.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "小石川人晃",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Ryogonji_Temple_(Kasama_City)_03.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "笠間の象徴的な寺院建築。伝統的な木造造りと黒い瓦屋根が笠間の歴史的景観を代表しており、紹介画像として適切。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Kasama city hall Kasama branch.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "公共施設の外観のみで、笠間固有の特徴（焼き物・陶芸関連施設など）が不明確。観光地の紹介画像として不適切。"
+    },
+    {
+     "title": "File:Ryogonji Temple (Kasama City) 03.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "笠間の象徴的な寺院建築。伝統的な木造造りと黒い瓦屋根が笠間の歴史的景観を代表しており、紹介画像として適切。"
+    }
+   ]
+  },
+  {
+   "id": "rikuzentakata",
+   "name": "陸前高田",
+   "title": "File:Rikuzentakata City New Municipal Office.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Katayokusan",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Rikuzentakata_City_New_Municipal_Office.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "陸前高田市庁舎の特徴的な建築が明確に写っており、屋号看板も読み取れる。地形・背景山々も地域を示している。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Rikuzentakata City New Municipal Office.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "陸前高田市庁舎の特徴的な建築が明確に写っており、屋号看板も読み取れる。地形・背景山々も地域を示している。"
+    }
+   ]
+  },
+  {
+   "id": "koka",
+   "name": "甲賀",
+   "title": "File:Shiga Koka Shigarakinomiya00.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Yusuke.ogawa",
+    "license": "CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:Shiga_Koka_Shigarakinomiya00.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "甲賀地域の特徴的な寺社建築と苔むした石灯籠が写っており、歴史的な雰囲気が伝わる"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Koka City Hall 2.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "看板が見えるが判別不可。近代的な建物は甲賀固有の特徴を示さず、どの地域にも存在する可能性がある。"
+    },
+    {
+     "title": "File:Shiga Koka Shigarakinomiya00.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "甲賀地域の特徴的な寺社建築と苔むした石灯籠が写っており、歴史的な雰囲気が伝わる"
+    }
+   ]
+  },
+  {
+   "id": "higashihiroshima",
+   "name": "東広島",
+   "title": "File:広島県東広島市 - panoramio.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "iPhone修理/カスタマイズパーツ販売…",
+    "license": "CC BY 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:%E5%BA%83%E5%B3%B6%E7%9C%8C%E6%9D%B1%E5%BA%83%E5%B3%B6%E5%B8%82_-_panoramio.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "駅舎の壁面に『HIGASHI-HIROSHIMA STATION』の表記が見え、東広島駅と特定可能。建築的特徴も明確。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:広島県東広島市 - panoramio.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "駅舎の壁面に『HIGASHI-HIROSHIMA STATION』の表記が見え、東広島駅と特定可能。建築的特徴も明確。"
+    }
+   ]
+  },
+  {
+   "id": "joetsu",
+   "name": "上越",
+   "title": "File:Unohama Beach, Joetsu, Niigata, Japan, July 2024.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Tail furry",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Unohama_Beach,_Joetsu,_Niigata,_Japan,_July_2024.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": false,
+     "reason": "上越の海水浴場として適切な風景だが、特定の場所を示す看板や特徴的建造物がない。"
+    },
+    "sonnet": {
+     "verdict": "ok",
+     "identifiable": false,
+     "reason": "日本海沿岸の砂浜海水浴場として上越の海岸と矛盾しないが断定できる固有の目印はない"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Unohama Beach, Joetsu, Niigata, Japan, July 2024.jpg",
+     "stage": "sonnet",
+     "placeCheck": "ok",
+     "haiku": {
+      "verdict": "ok",
+      "identifiable": false,
+      "reason": "上越の海水浴場として適切な風景だが、特定の場所を示す看板や特徴的建造物がない。"
+     },
+     "sonnet": {
+      "verdict": "ok",
+      "identifiable": false,
+      "reason": "日本海沿岸の砂浜海水浴場として上越の海岸と矛盾しないが断定できる固有の目印はない"
+     }
+    }
+   ]
+  },
+  {
+   "id": "shinjou",
+   "name": "新庄",
+   "title": "File:Shinjo shinkin.JPG",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "アラツク",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Shinjo_shinkin.JPG",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "新庄駅周辺の建造物と看板が確認でき、地域特性が明確。駅前の典型的な街並み風景として適切。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Shinjo city hall, Yamagata.JPG",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "一般的な商業施設の外観で、新庄固有の特徴が識別できない。観光地らしさが不足。"
+    },
+    {
+     "title": "File:Shinjo in the snow banner.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "極端に暗く、被写体が不明瞭。新庄との場所特定ができない。"
+    },
+    {
+     "title": "File:Shinjo shinkin.JPG",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "新庄駅周辺の建造物と看板が確認でき、地域特性が明確。駅前の典型的な街並み風景として適切。"
+    }
+   ]
+  },
+  {
+   "id": "miyoshi-hiroshima",
+   "name": "三次",
+   "title": "File:県立みよし公園 Miyoshi park - panoramio.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "OS6",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:%E7%9C%8C%E7%AB%8B%E3%81%BF%E3%82%88%E3%81%97%E5%85%AC%E5%9C%92_Miyoshi_park_-_panoramio.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "三次市の公園施設と思われる現代建築、整備された景観が確認でき、三次の観光地紹介に適切です。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Miyoshi Kinsai Stadium facade.JPG",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "モダン建築の施設ですが、三次を特定できる看板や特徴的ランドマークが不明確。汎用的な公共施設に見えます。"
+    },
+    {
+     "title": "File:Miyoshi in Hiroshima Prefecture.png",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "地図・図表であり、旅行紹介写真として不適切。実景写真ではない。"
+    },
+    {
+     "title": "File:Map Miyoshi en.png",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "地図・図表です。旅行サイトの紹介画像として不適切。実景写真が必要です。"
+    },
+    {
+     "title": "File:Aichi Miyoshi Post Office.jpg",
+     "stage": "placeCheck",
+     "verdict": "ng",
+     "others": [
+      "愛知県"
+     ]
+    },
+    {
+     "title": "File:Miyoshi Hiroshima 2023 Aug 20 09-50AM.jpeg",
+     "stage": "sonnet",
+     "placeCheck": "ok",
+     "haiku": {
+      "verdict": "ok",
+      "identifiable": false,
+      "reason": "山里の風景として美しいが、三次固有の特徴的建造物や看板が見当たらない"
+     },
+     "sonnet": {
+      "verdict": "ng",
+      "identifiable": false,
+      "reason": "緑の山と住宅街のみで三次と特定できる手がかりがない"
+     }
+    },
+    {
+     "title": "File:Miyoshi Basin Relief Map, SRTM-1.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "地図または地形図です。旅先を実際に体験できる風景写真ではありません。"
+    },
+    {
+     "title": "File:県立みよし公園 Miyoshi park - panoramio.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "三次市の公園施設と思われる現代建築、整備された景観が確認でき、三次の観光地紹介に適切です。"
+    }
+   ]
+  },
+  {
+   "id": "yatsushiro",
+   "name": "八代",
+   "title": "File:令和2年（2020年）7月3日からの大雨・斜め写真・球磨川地区（熊本県八代市、芦北町、球磨村）124A2643.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "国土地理院 (Geospatial Information Authority of Japan)",
+    "license": "CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:%E4%BB%A4%E5%92%8C2%E5%B9%B4%EF%BC%882020%E5%B9%B4%EF%BC%897%E6%9C%883%E6%97%A5%E3%81%8B%E3%82%89%E3%81%AE%E5%A4%A7%E9%9B%A8%E3%83%BB%E6%96%9C%E3%82%81%E5%86%99%E7%9C%9F%E3%83%BB%E7%90%83%E7%A3%A8%E5%B7%9D%E5%9C%B0%E5%8C%BA%EF%BC%88%E7%86%8A%E6%9C%AC%E7%9C%8C%E5%85%AB%E4%BB%A3%E5%B8%82%E3%80%81%E8%8A%A6%E5%8C%97%E7%94%BA%E3%80%81%E7%90%83%E7%A3%A8%E6%9D%91%EF%BC%89124A2643.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "八代の球磨川の蛇行地形が特徴的に写っており、地理的特徴から八代地域と判定可能"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:市街地循環バス（熊本県八代市）.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "バス車両のみで八代特定の手がかりなし。観光地や特徴的建造物が写っていない。"
+    },
+    {
+     "title": "File:YatsushiroCityOffice.JPG",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "屋内施設（ホテル・旅館）の単体写真。八代の観光地や風景ではなく、特定施設の外観のみ。"
+    },
+    {
+     "title": "File:令和2年（2020年）7月3日からの大雨・斜め写真・球磨川地区（熊本県八代市、芦北町、球磨村）124A2643.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "八代の球磨川の蛇行地形が特徴的に写っており、地理的特徴から八代地域と判定可能"
+    }
+   ]
+  },
+  {
+   "id": "tsuchiura",
+   "name": "土浦",
+   "title": "File:Chuo1 2 Tsuchiura-city.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "土浦",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Chuo1_2_Tsuchiura-city.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "土浦の街並みを示す商店街。古い建造物と現代建築の混在、日本の地方都市の風情が特徴的。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Chuo1 2 Tsuchiura-city.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "土浦の街並みを示す商店街。古い建造物と現代建築の混在、日本の地方都市の風情が特徴的。"
+    }
+   ]
+  },
+  {
+   "id": "hakuba",
+   "name": "白馬",
+   "title": "File:長野県白馬村（白馬ハイランドホテルから）20241123-P1060447.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "くろふね",
+    "license": "CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:%E9%95%B7%E9%87%8E%E7%9C%8C%E7%99%BD%E9%A6%AC%E6%9D%91%EF%BC%88%E7%99%BD%E9%A6%AC%E3%83%8F%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89%E3%83%9B%E3%83%86%E3%83%AB%E3%81%8B%E3%82%89%EF%BC%8920241123-P1060447.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "雪をかぶった北アルプスの山々、白馬町の街並み、町を流れる川が写っており、白馬の特徴的な景観が明確に捉えられています。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:長野県白馬村（白馬ハイランドホテルから）20241123-P1060447.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "雪をかぶった北アルプスの山々、白馬町の街並み、町を流れる川が写っており、白馬の特徴的な景観が明確に捉えられています。"
+    }
+   ]
+  },
+  {
+   "id": "kisakata",
+   "name": "象潟",
+   "title": "File:Roadside Station Kisakata 20180526a.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "掬茶",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Roadside_Station_Kisakata_20180526a.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "象潟駅舎と北前船の看板が見える。象潟の玄関口として適切な紹介画像。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Roadside station Kisakata.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "商業施設の建物で、象潟の観光地を代表する特徴的な景観ではない。看板は日本語ですが象潟特有の手がかりがない。"
+    },
+    {
+     "title": "File:Roadside Station Kisakata 20180526b.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "屋内の商業施設。象潟の観光地を特定できる手がかりがない。"
+    },
+    {
+     "title": "File:Roadside Station Kisakata 20180526a.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "象潟駅舎と北前船の看板が見える。象潟の玄関口として適切な紹介画像。"
+    }
+   ]
+  },
+  {
+   "id": "yaizu",
+   "name": "焼津",
+   "title": "File:Kogawa fishing port Yaizu city.jpg",
+   "placeCheck": "weak",
+   "credit": {
+    "author": "Akahito Yamabe",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Kogawa_fishing_port_Yaizu_city.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "焼津港の特徴的なオレンジ色の漁船と港湾施設が明確に映っており、焼津の主産業である漁業を象徴する画像として適切です。"
+    },
+    "sonnet": {
+     "verdict": "ok",
+     "identifiable": false,
+     "reason": "漁港の夕景で焼津らしい雰囲気だが断定できる看板等はなし"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:静岡県焼津市野秋 - panoramio.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "高速道路の一般的な風景。焼津特有の特徴（港・漁業関連施設・名所）が写っていない"
+    },
+    {
+     "title": "File:静岡県焼津市野秋 - panoramio (1).jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "焼津固有の特徴が見当たらない。トンネル施設と高速道路は全国どこにでもあり、焼津を特定できない。"
+    },
+    {
+     "title": "File:Yaizu City Hall 2020-04 ac (3).jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "建物は公共施設のようですが、焼津を特定できる看板や特徴的な標識が明確に写っていません。一般的な駅舎やビルとも見えるため、焼津との連結性が不足しています。"
+    },
+    {
+     "title": "File:焼津駅 夜景 Tokaido Line Yaizu Station Night View.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "夜間の都市風景で焼津特有の特徴が不明。駅前のような一般的な街並みで場所の特定ができない。"
+    },
+    {
+     "title": "File:View the night view of the scenery in front of the south exit of Yaizu Station from the pedestrian deck.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "夜間の駅前商業施設。焼津特有の風景・看板・地形的特徴が不明確で、他地域の駅前にも見える。"
+    },
+    {
+     "title": "File:静岡県焼津市上小杉 - panoramio.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "工業施設の外観のみ。焼津の観光資源を表現していない。"
+    },
+    {
+     "title": "File:Kogawa fishing port Yaizu city.jpg",
+     "stage": "sonnet",
+     "placeCheck": "weak",
+     "haiku": {
+      "verdict": "ok",
+      "identifiable": true,
+      "reason": "焼津港の特徴的なオレンジ色の漁船と港湾施設が明確に映っており、焼津の主産業である漁業を象徴する画像として適切です。"
+     },
+     "sonnet": {
+      "verdict": "ok",
+      "identifiable": false,
+      "reason": "漁港の夕景で焼津らしい雰囲気だが断定できる看板等はなし"
+     }
+    }
+   ]
+  },
+  {
+   "id": "tsunan",
+   "name": "津南",
+   "title": "File:New Greenpia Tsunan Ski Resort, Tsunan, Niigata, Japan, February 2024.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Tail furry",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:New_Greenpia_Tsunan_Ski_Resort,_Tsunan,_Niigata,_Japan,_February_2024.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "スキー場の施設、リフト、雪景色が写っており、津南町のスキー場として識別可能"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:New Greenpia Tsunan Ski Resort, Tsunan, Niigata, Japan, February 2024.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "スキー場の施設、リフト、雪景色が写っており、津南町のスキー場として識別可能"
+    }
+   ]
+  },
+  {
+   "id": "chokai-san",
+   "name": "鳥海山",
+   "title": "File:Mt. Chokai (60246840).jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "over hilowsee from Akita, Japan",
+    "license": "CC BY-SA 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Mt._Chokai_(60246840).jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "鳥海山の雪を被った山容が背景に明確に写っており、看板も見える。登山者向けの施設と山のセットで場所特定可能。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Mount Chōkai (2017-05-19) - Flickr.jpg",
+     "stage": "placeCheck",
+     "verdict": "ng",
+     "others": [
+      "山形県"
+     ]
+    },
+    {
+     "title": "File:Mt. Chokai (60246840).jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "鳥海山の雪を被った山容が背景に明確に写っており、看板も見える。登山者向けの施設と山のセットで場所特定可能。"
+    }
+   ]
+  },
+  {
+   "id": "nyukasa",
+   "name": "入笠山",
+   "title": "File:入笠山とふじぱら.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "苗場山",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:%E5%85%A5%E7%AC%A0%E5%B1%B1%E3%81%A8%E3%81%B5%E3%81%98%E3%81%B1%E3%82%89.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "スキー場のコース、山容、麓の町並みから入笠山と判定できます。冬景色で旅先紹介として適切です。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Mt.Nyukasa 01.jpg",
+     "stage": "sonnet",
+     "placeCheck": "ok",
+     "haiku": {
+      "verdict": "ok",
+      "identifiable": false,
+      "reason": "入笠山周辺の風景として適切。緑の盆地と山々の構図は該当地域の特徴を表現しているが、固有の看板や建造物がないため確実な特定は難しい。"
+     },
+     "sonnet": {
+      "verdict": "ng",
+      "identifiable": false,
+      "reason": "入笠山と断定できる特徴的な目印がなく、一般的な農村と山の風景にすぎない"
+     }
+    },
+    {
+     "title": "File:Mount Nyukasayama from train of Chuo Main Line at Aoyagi Station.JPG",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "入笠山の特徴的な景観が見当たりません。温泉施設と山容が写っていますが、他の場所との区別が困難です。"
+    },
+    {
+     "title": "File:Mount Nyukasayama from train of Chuo Main Line at Suzurannosato Station.JPG",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "入笠山の景観ではなく、集落と工業施設の俯瞰写真。屋内施設からの眺めの可能性も高い。"
+    },
+    {
+     "title": "File:入笠山とふじぱら.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "スキー場のコース、山容、麓の町並みから入笠山と判定できます。冬景色で旅先紹介として適切です。"
+    }
+   ]
+  },
+  {
+   "id": "uchiko",
+   "name": "内子",
+   "title": "File:Uchiko Town Uchiko Junior High School ac.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Asturio Cantabrio",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Uchiko_Town_Uchiko_Junior_High_School_ac.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "白い漆喰壁と石垣の伝統的建造物は内子の町並み保存地区の特徴を示している"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Uchiko town hall.JPG",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "現代の公共施設（役場など）で、内子の伝統的な町並みや特徴的な建造物が写っていない。旅行紹介に不適切。"
+    },
+    {
+     "title": "File:Uchiko Town Uchiko Junior High School ac.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "白い漆喰壁と石垣の伝統的建造物は内子の町並み保存地区の特徴を示している"
+    }
+   ]
+  },
+  {
+   "id": "echizen",
+   "name": "越前",
+   "title": "File:R417-2020-368.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Puchi-masashi",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:R417-2020-368.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "道の駅越前の看板が明確に見え、越前を象徴する施設として識別可能。天気も良く鮮明。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Michinoeki Echizen.JPG",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "商業施設の駐車場で、越前を特定できる看板や特徴的な地形がない"
+    },
+    {
+     "title": "File:福井県越前市の防災行政無線.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "通信塔と周囲の山林が映っているが、越前地域を特定できる明確な手がかりがない。観光地の紹介画像として不適切。"
+    },
+    {
+     "title": "File:越前陶芸村・福井県陶芸館.JPG",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "建物は整った日本家屋だが越前と特定できる看板・銘板なし。屋内施設入口が主で、観光地としての特定手がかりに欠ける。"
+    },
+    {
+     "title": "File:R417-2020-368.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "道の駅越前の看板が明確に見え、越前を象徴する施設として識別可能。天気も良く鮮明。"
+    }
+   ]
+  },
+  {
+   "id": "iga",
+   "name": "伊賀",
+   "title": "File:ミエゾウの足跡（三重県伊賀市 せせらぎ運動公園）.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Marantz7",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:%E3%83%9F%E3%82%A8%E3%82%BE%E3%82%A6%E3%81%AE%E8%B6%B3%E8%B7%A1%EF%BC%88%E4%B8%89%E9%87%8D%E7%9C%8C%E4%BC%8A%E8%B3%80%E5%B8%82_%E3%81%9B%E3%81%9B%E3%82%89%E3%81%8E%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92%EF%BC%89.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "伊賀の忍者村の古代石造物遺跡と思われる特徴的な石製施設が写っており、その地域を象徴する景観。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:ミエゾウの足跡（三重県伊賀市 せせらぎ運動公園）.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "伊賀の忍者村の古代石造物遺跡と思われる特徴的な石製施設が写っており、その地域を象徴する景観。"
+    }
+   ]
+  },
+  {
+   "id": "kamaishi",
+   "name": "釜石",
+   "title": "File:Kamaishi Station Platform 5, Iwate Pref 20240324.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Mister0124",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Kamaishi_Station_Platform_5,_Iwate_Pref_20240324.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "釜石駅と思われる駅舎、線路、周辺の建物が写っており、釜石の地域特性を表現できている"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Kamaishi city hall.JPG",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "公共施設（庁舎など）の建物が主体で、釜石の観光地として紹介する適切な被写体ではない"
+    },
+    {
+     "title": "File:Kamaishi Station Platform 5, Iwate Pref 20240324.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "釜石駅と思われる駅舎、線路、周辺の建物が写っており、釜石の地域特性を表現できている"
+    }
+   ]
+  },
+  {
+   "id": "ono-fukui",
+   "name": "越前大野",
+   "title": "File:Echizen-Ono Station 20171105.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "藤谷良秀 (Yoshihide Fujitani)",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Echizen-Ono_Station_20171105.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "越前大野の特徴的な日本建築様式の施設。看板と伝統的な造りから地域性が識別可能"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Echizen-Ono Station 20171105.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "越前大野の特徴的な日本建築様式の施設。看板と伝統的な造りから地域性が識別可能"
+    }
+   ]
+  },
+  {
+   "id": "isawa-onsen",
+   "name": "石和温泉",
+   "title": "File:JREast-Chuo-main-line-CO41-Isawa-onsen-station-building-south-20220806-113920.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "LERK",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:JREast-Chuo-main-line-CO41-Isawa-onsen-station-building-south-20220806-113920.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "石和温泉駅の現代的な駅舎外観。温泉地の玄関口として特徴的な建造物で、石和温泉の場所を特定できます。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:JREast-Chuo-main-line-CO41-Isawa-onsen-station-building-south-20220806-113920.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "石和温泉駅の現代的な駅舎外観。温泉地の玄関口として特徴的な建造物で、石和温泉の場所を特定できます。"
+    }
+   ]
+  },
+  {
+   "id": "arita",
+   "name": "有田",
+   "title": "File:有田陶器市「陶磁器の里」 - panoramio (1).jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "UltraH",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:%E6%9C%89%E7%94%B0%E9%99%B6%E5%99%A8%E5%B8%82%E3%80%8C%E9%99%B6%E7%A3%81%E5%99%A8%E3%81%AE%E9%87%8C%E3%80%8D_-_panoramio_(1).jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "有田の陶磁器市場の風景。赤白の暖簾と陶器販売の露店が特徴的で、有田の陶器文化を表現している。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:有田陶器市「陶磁器の里」 - panoramio (1).jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "有田の陶磁器市場の風景。赤白の暖簾と陶器販売の露店が特徴的で、有田の陶器文化を表現している。"
+    }
+   ]
+  },
+  {
+   "id": "chizu",
+   "name": "智頭",
+   "title": "File:Chizu town Chizu junior high school 2016.JPG",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "KASEI",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Chizu_town_Chizu_junior_high_school_2016.JPG",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "智頭の特徴的な木造建築と山並みが見え、地域の景観を良く表現している"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Chizu town office.jpg",
+     "stage": "haiku",
+     "placeCheck": "weak",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "駅舎の外観ですが、智頭町を特定できる固有の看板・標識が明確に見えません。一般的な地方駅の写真として判定します。"
+    },
+    {
+     "title": "File:150425 Koinobori Chizu Tottori pref Japan01bs.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "こいのぼりは一般的で、智頭特定の手がかりがない。背景の山も特徴不足。"
+    },
+    {
+     "title": "File:Chizu town Chizu junior high school 2016.JPG",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "智頭の特徴的な木造建築と山並みが見え、地域の景観を良く表現している"
+    }
+   ]
+  },
+  {
+   "id": "kashiwara-wine",
+   "name": "柏原",
+   "title": "File:JRW Kintetsu Kashiwara-STA West.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "MaedaAkihiko",
+    "license": "CC0",
+    "url": "https://commons.wikimedia.org/wiki/File:JRW_Kintetsu_Kashiwara-STA_West.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "柏原駅周辺の特徴的な駅舎と交通施設が明確に映っており、地域の現況を示す適切な紹介画像"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:JRW Kintetsu Kashiwara-STA West.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "柏原駅周辺の特徴的な駅舎と交通施設が明確に映っており、地域の現況を示す適切な紹介画像"
+    }
+   ]
+  },
+  {
+   "id": "tsubamesanjo",
+   "name": "燕三条",
+   "title": "File:Tsubame-Sanjo Station 2020.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "皓月旗",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Tsubame-Sanjo_Station_2020.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "燕三条駅の建築物と駅名表示が明確に写っており、その場所の特定が可能。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Tsubane-Sanjo Station Tsubame Entrance Mar2022.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "駅舎の建築写真だが、燕三条を特定できる看板やランドマークが不明確。一般的な駅施設のため地域の特徴が伝わらない。"
+    },
+    {
+     "title": "File:Archive Exhibition Booth Tsubame-Sanjō Station 20210508.JPG",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": true,
+     "reason": "屋内の資料展示・広告看板。旅先の風景や観光地の実景ではなく、施設内の展示パネルのみ。"
+    },
+    {
+     "title": "File:Tsubame-Sanjo Station 2020.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "燕三条駅の建築物と駅名表示が明確に写っており、その場所の特定が可能。"
+    }
+   ]
+  },
+  {
+   "id": "ikuno",
+   "name": "生野",
+   "title": "File:Ikuno Station Asago Hyogo01n3200.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "663highland",
+    "license": "CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:Ikuno_Station_Asago_Hyogo01n3200.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "生野町の駅舎と背景の山々が確認でき、地域の特徴的な景観が捉えられています。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Ikuno Station Asago Hyogo01n3200.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "生野町の駅舎と背景の山々が確認でき、地域の特徴的な景観が捉えられています。"
+    }
+   ]
+  },
+  {
+   "id": "fuchu-hiroshima",
+   "name": "府中",
+   "title": "File:Fuchu Town Office.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Taisyo at Japanese Wikipedia",
+    "license": "CC BY 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Fuchu_Town_Office.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "府中町役場と見られる公共施設。建物の看板と独特の建築様式が府中地域の特徴を示している。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Fuchu city office.JPG",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "府中町の特定建造物や地形的特徴が不明瞭。汎用的な駐車場付き庁舎建築で、場所特定が困難。"
+    },
+    {
+     "title": "File:Fuchu Town Office.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "府中町役場と見られる公共施設。建物の看板と独特の建築様式が府中地域の特徴を示している。"
+    }
+   ]
+  },
+  {
+   "id": "mitoyo",
+   "name": "三豊",
+   "title": "File:Mitoyoheiya Hokubu-Kagawa-b.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Original uploader was Toto-tarou (Edited by 663h)",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Mitoyoheiya_Hokubu-Kagawa-b.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "三豊の特徴的な盆地地形、讃岐山脈、農地と水田の広がり、複数の池が視認でき、地域を代表する景観として識別可能。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Mitoyoheiya Hokubu-Kagawa-b.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "三豊の特徴的な盆地地形、讃岐山脈、農地と水田の広がり、複数の池が視認でき、地域を代表する景観として識別可能。"
+    }
+   ]
+  },
+  {
+   "id": "sozogi",
+   "name": "曽々木海岸",
+   "title": "File:Tarumi Fall & Yasenodomon.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Hirorinmasa",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Tarumi_Fall_%26_Yasenodomon.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "滝と海岸崖地形、施設建造物により曽々木海岸の特徴的な景観が認識可能"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Tarumi Fall & Yasenodomon.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "滝と海岸崖地形、施設建造物により曽々木海岸の特徴的な景観が認識可能"
+    }
+   ]
+  },
+  {
+   "id": "iwaishima",
+   "name": "祝島",
+   "title": "File:Iwai island aerial shot.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "ブルーノ・プラス",
+    "license": "CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Iwai_island_aerial_shot.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "祝島の特徴的な形状（独特の湾曲した輪郭）と植生、周辺の小島が確認でき、航空写真として地理的に祝島と特定可能"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Iwai island aerial shot.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "祝島の特徴的な形状（独特の湾曲した輪郭）と植生、周辺の小島が確認でき、航空写真として地理的に祝島と特定可能"
+    }
+   ]
+  },
+  {
+   "id": "ogose",
+   "name": "越生",
+   "title": "File:Houonji (Ogose).jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Suikotei",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Houonji_(Ogose).jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "越生町の浄恩寺入口と看板が確認でき、寺院の特徴的建造物で場所を特定できる"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Ogose Town Hall.JPG",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "公共施設と見られる建物が写っているが、越生特有の特徴を示す看板や建造物が不明瞭。観光地を想起させる要素に乏しい。"
+    },
+    {
+     "title": "File:JA Irumano Ogose Branch.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "JA いるま野の看板は写っていますが、越生町を特定する地形・景観・特徴的建造物がなく、一般的な農協施設。旅先紹介に不適切。"
+    },
+    {
+     "title": "File:Houonji (Ogose).jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "越生町の浄恩寺入口と看板が確認でき、寺院の特徴的建造物で場所を特定できる"
+    }
+   ]
+  },
+  {
+   "id": "takatsuki",
+   "name": "高槻",
+   "title": "File:Carp streamer festival in Takatsuki.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Barsaka2",
+    "license": "CC0",
+    "url": "https://commons.wikimedia.org/wiki/File:Carp_streamer_festival_in_Takatsuki.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "高槻市のこいのぼりフェスティバル。背景に建物と地形が見え、こいのぼりイベントは高槻の特徴的な風物詩"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Takatsuki Station06n3780.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "高槻固有の特徴が写っていない。駅舎と高層マンションは多くの都市に存在する一般的な風景。"
+    },
+    {
+     "title": "File:Carp streamer festival in Takatsuki.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "高槻市のこいのぼりフェスティバル。背景に建物と地形が見え、こいのぼりイベントは高槻の特徴的な風物詩"
+    }
+   ]
+  },
+  {
+   "id": "kumano-kodo",
+   "name": "熊野古道",
+   "title": "File:Michinoeki Kumano-kodo Nakahechi01.JPG",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Kansai explorer",
+    "license": "CC BY 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Michinoeki_Kumano-kodo_Nakahechi01.JPG",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "熊野古道の看板と参詣道の特徴的な風景（山道、建造物、緑）が明確に写っている。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:(和歌山県)熊野古道からの帰り道。紀伊半島には古道が多く存在し、国道からは入り口の看板がある。 - panoramio.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "国道311号線の道路標識が焼き込まれており、熊野古道の紹介画像として不適切。古道らしさが欠落。"
+    },
+    {
+     "title": "File:Michinoeki Kumano-kodo Nakahechi01.JPG",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "熊野古道の看板と参詣道の特徴的な風景（山道、建造物、緑）が明確に写っている。"
+    }
+   ]
+  },
+  {
+   "id": "okayama-city",
+   "name": "岡山",
+   "title": "File:October, 2007 of Convex Okayama.JPG",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Tatushin",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:October,_2007_of_Convex_Okayama.JPG",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "岡山県立美術館の特徴的な建築（ガラス張りの大型モダン建物）が識別できる。岡山の主要な文化施設で、その場所と判定可能。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Okayama airport terminal.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "駅舎と見られる建物ですが、岡山県内の複数の駅と類似しており、岡山市そのものを特定する手がかりが不足しています。"
+    },
+    {
+     "title": "File:October, 2007 of Convex Okayama.JPG",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "岡山県立美術館の特徴的な建築（ガラス張りの大型モダン建物）が識別できる。岡山の主要な文化施設で、その場所と判定可能。"
+    }
+   ]
+  },
+  {
+   "id": "kagoshima-city",
+   "name": "鹿児島",
+   "title": "File:鹿児島県庁舎 アーチ.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "あじさか",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%E5%BA%81%E8%88%8E_%E3%82%A2%E3%83%BC%E3%83%81.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "鹿児島のランドマークである平和公園の象徴的なアーチモニュメント。背景に桜島の形状も確認でき、鹿児島を代表する風景として適切。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Kagoshima Airport01n4592.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": true,
+     "reason": "飛行場の航空機で鹿児島と断定できますが、屋外の産業施設で観光紹介画像に不適切です。"
+    },
+    {
+     "title": "File:鹿児島県志布志警察署.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "施設の看板が見えづらく、鹿児島であることを特定できる手がかりが不足。一般的な建物画像。"
+    },
+    {
+     "title": "File:鹿児島県阿久根市で引き上げられた紫電改（林喜重少佐機）.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "港湾の工事・荷役作業風景。鹿児島特有の観光要素や景観がなく、産業施設の記録写真に見える。"
+    },
+    {
+     "title": "File:鹿児島県鹿児島市、城山 500px photo (188687937).jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "屋外の土産物店の一般的な風景。鹿児島特有の特徴や目印となる看板・建造物が見当たらない。"
+    },
+    {
+     "title": "File:鹿児島県庁舎 アーチ.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "鹿児島のランドマークである平和公園の象徴的なアーチモニュメント。背景に桜島の形状も確認でき、鹿児島を代表する風景として適切。"
+    }
+   ]
+  },
+  {
+   "id": "mt-fuji-fifth",
+   "name": "富士山五合目",
+   "title": "File:富士山五合目 20150522 - panoramio.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "690 Noda",
+    "license": "CC BY 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:%E5%AF%8C%E5%A3%AB%E5%B1%B1%E4%BA%94%E5%90%88%E7%9B%AE_20150522_-_panoramio.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "富士山の特徴的な山容が明確に写っており、五合目からの典型的な景観。道路と森林も見える。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:富士山五合目 20150522 - panoramio.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "富士山の特徴的な山容が明確に写っており、五合目からの典型的な景観。道路と森林も見える。"
+    }
+   ]
+  },
+  {
+   "id": "saiko",
+   "name": "西湖",
+   "title": "File:西湖 - panoramio (11).jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "くろふね",
+    "license": "CC BY 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:%E8%A5%BF%E6%B9%96_-_panoramio_(11).jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "富士山と西湖の典型的な景観。富士山の特徴的な山容と湖の位置関係から西湖と断定可能。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Nishinoumi Kajirō II and Ōnishiki Uichirō (high resolution).tif",
+     "stage": "haiku",
+     "placeCheck": "weak",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "歴史的な人物写真で、西湖の景観や特徴を示す風景ではない。旅行紹介画像として不適切。"
+    },
+    {
+     "title": "File:Ichinoya-vs-Nishinoumi.jpg",
+     "stage": "haiku",
+     "placeCheck": "weak",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "歴史的な浮世絵で、西湖の風景や特徴を示す要素がない屋内資料展示"
+    },
+    {
+     "title": "File:西湖 - panoramio (11).jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "富士山と西湖の典型的な景観。富士山の特徴的な山容と湖の位置関係から西湖と断定可能。"
+    }
+   ]
+  },
+  {
+   "id": "nakasu",
+   "name": "中洲屋台",
+   "title": "File:Seiryū Park Fukuoka Hakata Yatai Nakasu 1-chōme Hakata-ku Fukuoka 20250401 174434.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Hirho",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Seiry%C5%AB_Park_Fukuoka_Hakata_Yatai_Nakasu_1-ch%C5%8Dme_Hakata-ku_Fukuoka_20250401_174434.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "川沿いの屋台群、独特の夜間営業スタイル、福岡の都市風景が中洲屋台を特定できる。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Seiryū Park Fukuoka Hakata Yatai Nakasu 1-chōme Hakata-ku Fukuoka 20250401 174434.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "川沿いの屋台群、独特の夜間営業スタイル、福岡の都市風景が中洲屋台を特定できる。"
+    }
+   ]
+  },
+  {
+   "id": "senri",
+   "name": "万博記念公園",
+   "title": "File:Japanese garden scenery at Expo’70 Commemorative Park in Osaka, November 2017 - 146.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Laitche",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Japanese_garden_scenery_at_Expo%E2%80%9970_Commemorative_Park_in_Osaka,_November_2017_-_146.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "日本庭園の景観、小川と石組み、秋の紅葉が特徴的。万博記念公園の日本庭園として識別可能。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Japanese garden scenery at Expo’70 Commemorative Park in Osaka, November 2017 - 146.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "日本庭園の景観、小川と石組み、秋の紅葉が特徴的。万博記念公園の日本庭園として識別可能。"
+    }
+   ]
+  },
+  {
+   "id": "zushi",
+   "name": "逗子",
+   "title": "File:Hisagi Oike Park - 01.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Quercus acuta",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Hisagi_Oike_Park_-_01.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": false,
+     "reason": "逗子の自然風景として適切。秋の川沿いの紅葉風景で季節感がある。ただし特定地点を断定できる看板や建造物がない。"
+    },
+    "sonnet": {
+     "verdict": "ok",
+     "identifiable": false,
+     "reason": "紅葉と池の風景は美しいが逗子と断定できる特徴的な手がかりがない"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Zushi City Hall 20110223.JPG",
+     "stage": "haiku",
+     "placeCheck": "weak",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "公共施設の建物で、逗子特有の特徴が不明確。海や浜など旅先の特徴的風景がない。"
+    },
+    {
+     "title": "File:Crème brûlée at restaurant in Zushi.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "料理の接写で、逗子特定の手がかりがない。屋内の食事風景のみ。"
+    },
+    {
+     "title": "File:Pickles for automatic sale in Zushi.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "屋内の商品陳列。逗子を特定できる看板・建造物・地形等がない。"
+    },
+    {
+     "title": "File:Fire station in Zushi.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "逗子特有の建造物や地形的特徴が写っていない。一般的な住宅地や商店街で他の地域にも見られる風景"
+    },
+    {
+     "title": "File:Safe toilet door handle in 夢庵 逗子店 restaurant.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "屋内の施設（トイレドア）のクローズアップ。逗子を特定する手がかりがなく、旅先紹介画像に不適切。"
+    },
+    {
+     "title": "File:Hisagi Oike Park - 01.jpg",
+     "stage": "sonnet",
+     "placeCheck": "ok",
+     "haiku": {
+      "verdict": "ok",
+      "identifiable": false,
+      "reason": "逗子の自然風景として適切。秋の川沿いの紅葉風景で季節感がある。ただし特定地点を断定できる看板や建造物がない。"
+     },
+     "sonnet": {
+      "verdict": "ok",
+      "identifiable": false,
+      "reason": "紅葉と池の風景は美しいが逗子と断定できる特徴的な手がかりがない"
+     }
+    }
+   ]
+  },
+  {
+   "id": "biwako",
+   "name": "琵琶湖",
+   "title": "File:Top view of Lake Biwa.jpg",
+   "placeCheck": "weak",
+   "credit": {
+    "author": "Lonely Planet Japan",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Top_view_of_Lake_Biwa.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "琵琶湖の広大な湖面と周囲の山々、湖畔の都市風景が明確に写っており、琵琶湖であると断定できる。"
+    },
+    "sonnet": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "比叡山系からの俯瞰で琵琶湖南湖と大津市街が明瞭に確認できる"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Top view of Lake Biwa.jpg",
+     "stage": "sonnet",
+     "placeCheck": "weak",
+     "haiku": {
+      "verdict": "ok",
+      "identifiable": true,
+      "reason": "琵琶湖の広大な湖面と周囲の山々、湖畔の都市風景が明確に写っており、琵琶湖であると断定できる。"
+     },
+     "sonnet": {
+      "verdict": "ok",
+      "identifiable": true,
+      "reason": "比叡山系からの俯瞰で琵琶湖南湖と大津市街が明瞭に確認できる"
+     }
+    }
+   ]
+  },
+  {
+   "id": "nabari",
+   "name": "名張",
+   "title": "File:Nabari 20211225115918 (51821154705).jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "inunami",
+    "license": "CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Nabari_20211225115918_(51821154705).jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "名張駅前の銅像と花壇が特徴的。地元の象徴的スポットとして識別可能。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Aerial view of Nabari City.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "航空写真で広範囲を撮影しており、名張を特定できる固有の目印がない。地図的で観光紹介向きでない。"
+    },
+    {
+     "title": "File:Nabari 20211225112309 (51820551073).jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "一般的な郊外の交差点で、名張を特定できる看板・建造物・地形的特徴がない"
+    },
+    {
+     "title": "File:Nabari gyujiru (2011.09.25).jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "食事の料理写真のみで、名張の場所特定ができる手がかりがない。"
+    },
+    {
+     "title": "File:Nabari 20211225115041 (51820550478).jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "商業施設の駐車場風景で、名張固有の特徴が見当たらない。観光地の紹介画像に不適切。"
+    },
+    {
+     "title": "File:Nabari Gyujiru, Beef Soup of Nabari.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "料理の接写で、名張を特定できる手がかりがない。屋内の食事写真のみ。"
+    },
+    {
+     "title": "File:Nabari 20211225112026 (51820437046).jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "商業施設が多く写っており、名張固有の特徴が判別できません。観光紹介には不適切です。"
+    },
+    {
+     "title": "File:Nabari 20211225110107 (51820437541).jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": true,
+     "reason": "商業施設の駐車場写真。観光地紹介としてふさわしくない屋外施設が対象。"
+    },
+    {
+     "title": "File:Nabari 20211225115918 (51821154705).jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "名張駅前の銅像と花壇が特徴的。地元の象徴的スポットとして識別可能。"
+    }
+   ]
+  },
+  {
+   "id": "mt-yatsugatake",
+   "name": "蓼科高原",
+   "title": "File:Tateshina kogen from Mt.Kitayokodake.JPG",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Σ64",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Tateshina_kogen_from_Mt.Kitayokodake.JPG",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": false,
+     "reason": "蓼科高原の雄大な山々と高原風景が写っており、紹介画像として適切。ただし特定の看板や建造物がなく、場所の断定根拠に乏しい。"
+    },
+    "sonnet": {
+     "verdict": "ok",
+     "identifiable": false,
+     "reason": "高原と山並みの景観は蓼科らしいが断定できる特徴的ランドマークなし"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Tateshina kogen from Mt.Kitayokodake.JPG",
+     "stage": "sonnet",
+     "placeCheck": "ok",
+     "haiku": {
+      "verdict": "ok",
+      "identifiable": false,
+      "reason": "蓼科高原の雄大な山々と高原風景が写っており、紹介画像として適切。ただし特定の看板や建造物がなく、場所の断定根拠に乏しい。"
+     },
+     "sonnet": {
+      "verdict": "ok",
+      "identifiable": false,
+      "reason": "高原と山並みの景観は蓼科らしいが断定できる特徴的ランドマークなし"
+     }
+    }
+   ]
+  },
+  {
+   "id": "akita-yokote",
+   "name": "横手",
+   "title": "File:Yokote city Masuda junior high school 20260614b.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "掬茶",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Yokote_city_Masuda_junior_high_school_20260614b.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "横手の温泉施設と思われる特徴的な建築物。看板に漢字が見える地域の重要施設"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Yokote municipal Masuda Junior high school.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "スポーツ施設と思われる建物。横手特有の特徴や看板がなく、場所の特定ができない"
+    },
+    {
+     "title": "File:Yokote City Hall Yokote branch and Kamakura-kan Hall.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "横手を特定できる看板や特徴的建造物がない。一般的な地方都市の風景で、他の場所と区別がつきません。"
+    },
+    {
+     "title": "File:Yokote city Masuda junior high school 20260614a.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "公共施設と思われるが、横手を特定できる看板・特徴的建造物がない"
+    },
+    {
+     "title": "File:Yokote city Masuda junior high school 20260614b.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "横手の温泉施設と思われる特徴的な建築物。看板に漢字が見える地域の重要施設"
+    }
+   ]
+  },
+  {
+   "id": "shizu-shimizu",
+   "name": "清水",
+   "title": "File:由比 (静岡県静岡市清水区由比) - panoramio.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "gundam2345",
+    "license": "CC BY 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:%E7%94%B1%E6%AF%94_(%E9%9D%99%E5%B2%A1%E7%9C%8C%E9%9D%99%E5%B2%A1%E5%B8%82%E6%B8%85%E6%B0%B4%E5%8C%BA%E7%94%B1%E6%AF%94)_-_panoramio.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "清水の海岸風景。岩礁と駿河湾の景観が特徴的で、当地の自然景観を代表する画像。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:静岡県静岡市清水区由比 - panoramio.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "山道の交通風景で、清水特有の特徴が不明。一般的な有料道路に見えます。"
+    },
+    {
+     "title": "File:由比 (静岡県静岡市清水区由比) - panoramio.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "清水の海岸風景。岩礁と駿河湾の景観が特徴的で、当地の自然景観を代表する画像。"
+    }
+   ]
+  },
+  {
+   "id": "miyagi-matsushima-2",
+   "name": "塩釜",
+   "title": "File:マリンゲート塩釜 - panoramio.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Tomokazu Kitjaima",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:%E3%83%9E%E3%83%AA%E3%83%B3%E3%82%B2%E3%83%BC%E3%83%88%E5%A1%A9%E9%87%9C_-_panoramio.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "塩釜の港湾風景。漁港の特徴的な船舶、岸壁、背景の市街地が写っており、塩釜と判定可能。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Marine Gate Shiogama 2022-10-31.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "Marine Gate Shiogama等の文字焼き込みがあり、施設内の建造物であるが塩釜の地形的特徴や象徴的景観が不足"
+    },
+    {
+     "title": "File:Shiogama City Ferry Automatic Ticket Machine.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "屋内の観光案内所の資料展示のみ。塩釜の風景や特徴的な建造物が写っていない。"
+    },
+    {
+     "title": "File:マリンゲート塩釜 - panoramio.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "塩釜の港湾風景。漁港の特徴的な船舶、岸壁、背景の市街地が写っており、塩釜と判定可能。"
+    }
+   ]
+  },
+  {
+   "id": "anan",
+   "name": "阿南",
+   "title": "File:那賀川（徳島県阿南市）.JPG",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Jsqwfthbfs",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:%E9%82%A3%E8%B3%80%E5%B7%9D%EF%BC%88%E5%BE%B3%E5%B3%B6%E7%9C%8C%E9%98%BF%E5%8D%97%E5%B8%82%EF%BC%89.JPG",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": false,
+     "reason": "阿南の河口や沿岸部の風景として自然。ただし看板や特徴的建造物がなく、この場所と断定する手がかりに乏しい。"
+    },
+    "sonnet": {
+     "verdict": "ok",
+     "identifiable": false,
+     "reason": "那賀川河口付近と思われる風景だが、阿南と断定できる特徴的な目印は写っていない"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:那賀川（徳島県阿南市）.JPG",
+     "stage": "sonnet",
+     "placeCheck": "ok",
+     "haiku": {
+      "verdict": "ok",
+      "identifiable": false,
+      "reason": "阿南の河口や沿岸部の風景として自然。ただし看板や特徴的建造物がなく、この場所と断定する手がかりに乏しい。"
+     },
+     "sonnet": {
+      "verdict": "ok",
+      "identifiable": false,
+      "reason": "那賀川河口付近と思われる風景だが、阿南と断定できる特徴的な目印は写っていない"
+     }
+    }
+   ]
+  },
+  {
+   "id": "tomakomai",
+   "name": "苫小牧",
+   "title": "File:Tomakomai ZEUS CITY.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Sinryow",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Tomakomai_ZEUS_CITY.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "ZEUS CITYの看板が明確に写っており、苫小牧を代表する商業施設。夜景も美しく紹介画像として適切。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Tomakomai from an aeroplane.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "航空写真で工業地帯が見えるが、苫小牧と特定する具体的な手がかりがない"
+    },
+    {
+     "title": "File:JR Muroran-Main-Line・Hidaka-Main-Line Tomakomai Station South Exit.jpg",
+     "stage": "haiku",
+     "placeCheck": "weak",
+     "verdict": "ng",
+     "identifiable": true,
+     "reason": "駅舎の屋内施設。旅先の風景・観光地として不適切。駅名看板は確認できるが、屋内構造物のみ。"
+    },
+    {
+     "title": "File:北海道新聞苫小牧支社.JPG",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": true,
+     "reason": "企業の営業所ビル。苫小牧の観光地・風景として不適切な屋内関連施設"
+    },
+    {
+     "title": "File:Tomakomai ZEUS CITY.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "ZEUS CITYの看板が明確に写っており、苫小牧を代表する商業施設。夜景も美しく紹介画像として適切。"
+    }
+   ]
+  },
+  {
+   "id": "tendou",
+   "name": "天童",
+   "title": "File:将棋ざるそば（山形県天童市・水車生そば）20241116-P1059967.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "くろふね",
+    "license": "CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:%E5%B0%86%E6%A3%8B%E3%81%96%E3%82%8B%E3%81%9D%E3%81%B0%EF%BC%88%E5%B1%B1%E5%BD%A2%E7%9C%8C%E5%A4%A9%E7%AB%A5%E5%B8%82%E3%83%BB%E6%B0%B4%E8%BB%8A%E7%94%9F%E3%81%9D%E3%81%B0%EF%BC%8920241116-P1059967.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "天童そばの特徴的な赤い将棋駒型容器と、木製盆の上のそば料理。天童の名物が明確に表現されている。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:マルフク看板 山形県天童市長岡 - panoramio.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "電車内部の撮影で、天童の観光地や特徴を示す手がかりがない。屋内資料のみ。"
+    },
+    {
+     "title": "File:マルフク看板 山形県天童市長岡 - panoramio (1).jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "商店の看板が主体。天童を特定する要素がなく、紹介画像として不適切。"
+    },
+    {
+     "title": "File:元祖鳥中華（山形県天童市・水車生そば）20241116-P1059974.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "ラーメン料理の写真ですが、天童を特定できる手がかかりが無く、一般的なラーメン画像として見えます"
+    },
+    {
+     "title": "File:将棋ざるそば（山形県天童市・水車生そば）20241116-P1059967.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "天童そばの特徴的な赤い将棋駒型容器と、木製盆の上のそば料理。天童の名物が明確に表現されている。"
+    }
+   ]
+  },
+  {
+   "id": "hokkaido-asahikawa",
+   "name": "旭川",
+   "title": "File:北海道立旭川美術館.JPG",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "unknown",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:%E5%8C%97%E6%B5%B7%E9%81%93%E7%AB%8B%E6%97%AD%E5%B7%9D%E7%BE%8E%E8%A1%93%E9%A4%A8.JPG",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "旭川市彫刻美術館の特徴的な建築（ブリックデザイン、モダン建築）と庭園が認識でき、旭川を代表する文化施設として適切です。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:140724 Asahikawa Airport Hokkaido Japan02s3.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": true,
+     "reason": "旭川空港の写真だが、空港施設は旅行地の紹介画像として不適切。観光スポットではない。"
+    },
+    {
+     "title": "File:北海道新聞旭川支社.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "旭川を特定できる看板・ランドマークが見当たりません。一般的なビル街の風景です。"
+    },
+    {
+     "title": "File:北海道立旭川美術館.JPG",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "旭川市彫刻美術館の特徴的な建築（ブリックデザイン、モダン建築）と庭園が認識でき、旭川を代表する文化施設として適切です。"
+    }
+   ]
+  },
+  {
+   "id": "niseko",
+   "name": "ニセコ",
+   "title": "File:Mt-nisekoannupuri-summer.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "No machine-readable author provided. Oga~commonswiki assumed (based on copyright claims).",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Mt-nisekoannupuri-summer.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "ニセコアンヌプリの特徴的な円錐形の山容が明確に映っており、ニセコの代表的な景観として認識可能。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Mt-nisekoannupuri-summer.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "ニセコアンヌプリの特徴的な円錐形の山容が明確に映っており、ニセコの代表的な景観として認識可能。"
+    }
+   ]
+  },
+  {
+   "id": "sakai",
+   "name": "堺",
+   "title": "File:Japanese garden at Daisen Park in Sakai, October 2018 - 662.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Laitche",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Japanese_garden_at_Daisen_Park_in_Sakai,_October_2018_-_662.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "堺の仁徳天皇陵古墳近くの日本庭園施設。伝統的な日本建築と池の景観が特徴的で、堺の観光地として識別可能。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:出島中交差点 大阪府道34号 堺市堺区 Jul 11, 2014.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "一般的な日本の街並みで、堺特有の特徴が見当たらない。観光紹介画像に不適切。"
+    },
+    {
+     "title": "File:JR西日本阪和線堺市駅 2024年9月10日の大阪府 202409101046 IMG 7253.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": true,
+     "reason": "駅構内の屋内施設で、堺の景観や特性を伝えない。観光紹介画像に不適切。"
+    },
+    {
+     "title": "File:Japanese white-eye in Sakai, Osaka, February 2016.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "野鳥のポートレート写真。堺の特定地を示す手がかり（看板・建造物・地形など）がない。"
+    },
+    {
+     "title": "File:Sakai City Museum.jpg",
+     "stage": "haiku",
+     "placeCheck": "weak",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "現代的な建築物と広場が写っていますが、堺を特定できる看板・建造物・地形的特徴が見当たりません。"
+    },
+    {
+     "title": "File:Sakai City.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "堺の特定地点を示す看板や特徴的建造物がなく、一般的な駅前再開発地区に見える。堺だと断定できない。"
+    },
+    {
+     "title": "File:Japanese garden at Daisen Park in Sakai, October 2018 - 662.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "堺の仁徳天皇陵古墳近くの日本庭園施設。伝統的な日本建築と池の景観が特徴的で、堺の観光地として識別可能。"
+    }
+   ]
+  },
+  {
+   "id": "akashi",
+   "name": "明石",
+   "title": "File:密蔵院（大地蔵）兵庫県明石市PA211872.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "秋空から蛇が降ってきた",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:%E5%AF%86%E8%94%B5%E9%99%A2%EF%BC%88%E5%A4%A7%E5%9C%B0%E8%94%B5%EF%BC%89%E5%85%B5%E5%BA%AB%E7%9C%8C%E6%98%8E%E7%9F%B3%E5%B8%82PA211872.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "明石の観音寺の大きな観音像と寺院建築が明確に写っており、明石を代表する景観です。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Acherontia styx medusa MHNT Female ventral Akashi City.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "昆虫の標本写真。明石の景観や特徴を示す手がかりがなく、旅先紹介画像として不適切。"
+    },
+    {
+     "title": "File:Higashinijima and Nijima in Akashi City.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "航空写真で工業港湾施設。明石の特定の手がかり（明石城、海峡大橋など）が見当たらない。"
+    },
+    {
+     "title": "File:兵庫県明石市内.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "高速道路の工事区間。明石特有の風景や建造物がなく、他地域との区別がつかない。"
+    },
+    {
+     "title": "File:Acherontia styx medusa MHNT Female Dorsal Akashi City .jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "昆虫の標本写真。明石の風景・建造物・特徴がなく、旅行地紹介画像として不適切。"
+    },
+    {
+     "title": "File:密蔵院（大地蔵）兵庫県明石市PA211872.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "明石の観音寺の大きな観音像と寺院建築が明確に写っており、明石を代表する景観です。"
+    }
+   ]
+  },
+  {
+   "id": "toyota-city",
+   "name": "豊田",
+   "title": "File:パチンコ店(愛知県豊田市清水町) - panoramio.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "gundam2345",
+    "license": "CC BY 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:%E3%83%91%E3%83%81%E3%83%B3%E3%82%B3%E5%BA%97(%E6%84%9B%E7%9F%A5%E7%9C%8C%E8%B1%8A%E7%94%B0%E5%B8%82%E6%B8%85%E6%B0%B4%E7%94%BA)_-_panoramio.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "豊田市のランドマーク「豊田市駅」の特徴的なUFO型建築物が明確に写っており、豊田の象徴的な施設として識別可能。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:パチンコ店(愛知県豊田市清水町) - panoramio.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "豊田市のランドマーク「豊田市駅」の特徴的なUFO型建築物が明確に写っており、豊田の象徴的な施設として識別可能。"
+    }
+   ]
+  },
+  {
+   "id": "obihiro",
+   "name": "帯広",
+   "title": "File:131012 Obihiro Airport Hokkaido Japan01s5.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "663highland",
+    "license": "CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:131012_Obihiro_Airport_Hokkaido_Japan01s5.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "帯広駅の駅舎が明確に写っており、建築の特徴と看板から帯広の特定が可能。天気も良く構図も適切。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Obihiro airport aerial photograph.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "航空写真（衛星画像）で、帯広を特定できる手がかりがなく、旅行紹介画像として不適切。"
+    },
+    {
+     "title": "File:131012 Obihiro Airport Hokkaido Japan01s5.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "帯広駅の駅舎が明確に写っており、建築の特徴と看板から帯広の特定が可能。天気も良く構図も適切。"
+    }
+   ]
+  },
+  {
+   "id": "toyohashi",
+   "name": "豊橋",
+   "title": "File:豊橋市公会堂 (愛知県豊橋市八町通) - panoramio.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "gundam2345",
+    "license": "CC BY 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:%E8%B1%8A%E6%A9%8B%E5%B8%82%E5%85%AC%E4%BC%9A%E5%A0%82_(%E6%84%9B%E7%9F%A5%E7%9C%8C%E8%B1%8A%E6%A9%8B%E5%B8%82%E5%85%AB%E7%94%BA%E9%80%9A)_-_panoramio.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "豊橋市公会堂は豊橋の代表的建造物。特徴的な黄色い石造建築が明確に識別できる。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:豊橋市公会堂 (愛知県豊橋市八町通) - panoramio.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "豊橋市公会堂は豊橋の代表的建造物。特徴的な黄色い石造建築が明確に識別できる。"
+    }
+   ]
+  }
+ ],
+ "rejected": [
+  {
+   "id": "saga",
+   "name": "佐賀",
+   "reason": "合格画像なし",
+   "tried": [
+    {
+     "title": "File:Saga Airport runway, taxiway and tarmac.JPG",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "空港の滑走路の一般的な風景で、佐賀県を特定できる固有の手がかりがない"
+    },
+    {
+     "title": "File:佐賀県と福岡県県境 - panoramio.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "工事中の橋上で、佐賀の特定地点を判定できる特徴的要素がない"
+    },
+    {
+     "title": "File:佐賀県唐津市 世界館.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "古い白黒写真で、劣化が激しく被写体が不鮮明。佐賀特定の手がかりがない。"
+    },
+    {
+     "title": "File:順天堂病院(佐賀県大町町) (48691630102).jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "建設用機材が前景を占め、背景の建物も佐賀を特定する手がかりがない。観光地として不適切。"
+    }
+   ]
+  },
+  {
+   "id": "usuki",
+   "name": "臼杵",
+   "reason": "合格画像なし",
+   "tried": [
+    {
+     "title": "File:Usuki city hall (usuki building).JPG",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "公共施設の庁舎と思われるが、臼杵特有の文化的特徴（石仏・城跡・古い街並み）が全く写っていない。地味な郊外風景で紹介画像として不適切。"
+    },
+    {
+     "title": "File:JR Usuki station , JR 臼杵駅 - panoramio (3).jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "一般的な地方都市の風景で、臼杵固有の特徴が見当たりません。看板や建造物から臼杵と特定できる手がかりがありません。"
+    },
+    {
+     "title": "File:Usuki port Ferrie terminal , 臼杵港フェリーターミナル - panoramio.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "高速道路のインターチェンジで、臼杵特有の特徴が見当たりません"
+    },
+    {
+     "title": "File:Usuki usuki elementary scho.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "臼杵を特定できる固有の目印がない。一般的な日本の山間集落風景で、どこにでも見られる構成。"
+    },
+    {
+     "title": "File:Usuki port Ferrie terminal , 臼杵港フェリーターミナル - panoramio (3).jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "フェリーターミナルの風景で臼杵の特定の手がかりがない。汎用的な港湾施設写真"
+    },
+    {
+     "title": "File:Usuki port Ferrie terminal , 臼杵港フェリーターミナル - panoramio (2).jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "屋内の駅舎や待合室と思われる。臼杵の特定が困難で、紹介画像として不適切。"
+    },
+    {
+     "title": "File:Usuki port Ferrie terminal , 臼杵港フェリーターミナル - panoramio (1).jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "船舶や港湾施設が映っていますが、臼杵特有の識別手がかりが不足。一般的な港の風景で場所特定困難。"
+    },
+    {
+     "title": "File:Usuki senbei.JPG",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "石造美術の資料写真。屋内での接写で、臼杵の地域特性を示す手がかりがない。"
+    }
+   ]
+  },
+  {
+   "id": "mihara",
+   "name": "三原",
+   "reason": "合格画像なし",
+   "tried": [
+    {
+     "title": "File:Hiroshima airport aerial photograph 2018.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "航空写真で空港施設が映っているが、三原特定の手がかりがなく、地図・俯瞰図的性質が強い。旅行紹介画像として不適切。"
+    },
+    {
+     "title": "File:Hiroshima.airports.airerial shoot.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "航空写真で地形のみ。三原特定の手がかり（看板・建造物・地形特徴）がない"
+    },
+    {
+     "title": "File:Hiroshima airport aerial photograph 2025.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "航空写真（衛星画像）で、旅行サイトの紹介画像として不適切です。地図・図表的性質が強く、旅先の魅力を伝えられません。"
+    },
+    {
+     "title": "File:Mihara City Central Library(2020).jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "現代的な商業施設で、三原固有の特徴がなく、どこの都市にもある建物。旅行紹介画像に不適切。"
+    },
+    {
+     "title": "File:Hiroshima-Airport Inside.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "屋内の商業施設・駅舎の撮影。三原の観光地としての特徴が不明。"
+    },
+    {
+     "title": "File:Hiroshima Airport Aerial photograph.2005.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "航空写真で飛行場施設。三原の観光地を紹介する画像として適切でなく、場所も特定困難。"
+    },
+    {
+     "title": "File:Hiroshima-Airport ANA-counter.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "空港ターミナルの屋内施設。三原の観光地としての価値がなく、旅行紹介画像に不適切。"
+    },
+    {
+     "title": "File:Sanyo Hakusyoku Cement-201908.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "工業施設・製鉄所の風景で、三原の特定地点を示す手がかりがない。観光地紹介に不適切。"
+    }
+   ]
+  },
+  {
+   "id": "iga-ueno",
+   "name": "伊賀上野",
+   "reason": "合格画像なし",
+   "tried": [
+    {
+     "title": "File:Iga-Ueno-Station-20120708.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "駅舎と思われる建物ですが、伊賀上野を特定できる看板や特徴的な標識が見当たりません。一般的な駅舎で別の場所の可能性も高い。"
+    },
+    {
+     "title": "File:Iga-Ueno Station-01.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "駅舎と思われる建物ですが、伊賀上野を特定できる看板や特徴的な建造物が不明瞭。一般的な駅舎の外観のみ。"
+    },
+    {
+     "title": "File:Iga-Ueno Station Platform 1-2 20120708.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "駅舎は写っているが、伊賀上野を特定できる看板・標識が明確でなく、一般的な地方駅の風景。"
+    },
+    {
+     "title": "File:FareTable of Iga-Ueno Station 20180108.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "駅の路線図と運賃表示の資料展示。屋内の案内図のみで、伊賀上野の場所特性が不明。"
+    },
+    {
+     "title": "File:FareTable of Iga-Ueno Station 20180317.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "駅の車内案内表示で屋内です。伊賀上野の特定の手がかりがなく、汎用的な駅施設写真です。"
+    },
+    {
+     "title": "File:Iga-Ueno Station Sign.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": true,
+     "reason": "駅名看板で場所は特定できるが、工事現場が主体で旅行紹介画像として不適切"
+    },
+    {
+     "title": "File:Iga-Ueno station iga-railway sign.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": true,
+     "reason": "駅名看板のみで、伊賀上野の観光地や風景が写っていない。駅施設の記録写真。"
+    },
+    {
+     "title": "File:Iga-Ueno Station railroad Bridge 20120708.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "駅の一般的な風景で伊賀上野特定の手がかりがない。看板や特徴的建造物が不足。"
+    }
+   ]
+  },
+  {
+   "id": "ainan",
+   "name": "愛南",
+   "reason": "合格画像なし",
+   "tried": [
+    {
+     "title": "File:Ainan town Iekushi elementary school.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "学校建築物で、愛南の観光地としての特定が困難。旅行紹介画像に不適切。"
+    },
+    {
+     "title": "File:JA Ehime-minami Iekushi branch office.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "駐車場と施設の外観のみで、愛南の特徴的な景観や観光地を示す要素がない"
+    },
+    {
+     "title": "File:Ainan town Iekushi elementary school.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "学校施設の外観で、愛南の観光地としての特定ができない。旅行紹介に不適切。"
+    },
+    {
+     "title": "File:JA Ehime-minami Iekushi branch office.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "駐車場と施設の写真で、愛南の観光地を示す特徴的な手がかりに欠ける"
+    }
+   ]
+  },
+  {
+   "id": "yura-wakayama",
+   "name": "由良",
+   "reason": "合格画像なし",
+   "tried": [
+    {
+     "title": "File:Wakayama prefectural road 24.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "工業施設・倉庫の無機的な風景で、由良の特徴を示す手がかりがない"
+    },
+    {
+     "title": "File:Yura Switchyard-01.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "産業施設（電波塔・通信基地局）で、由良の観光地を表現していない"
+    },
+    {
+     "title": "File:Yura Switchyard-02.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "工業施設（変電所・送電塔）が主体。観光地の紹介に不適切"
+    }
+   ]
+  },
+  {
+   "id": "nakanoshima-oki",
+   "name": "中ノ島",
+   "reason": "合格画像なし",
+   "tried": [
+    {
+     "title": "File:Pink roses, Nakanoshima Park, Osaka.jpg",
+     "stage": "placeCheck",
+     "verdict": "ng",
+     "others": [
+      "大阪府"
+     ]
+    },
+    {
+     "title": "File:Nakanoshima Skyscrapers in 201505 001.jpg",
+     "stage": "placeCheck",
+     "verdict": "ng",
+     "others": [
+      "大阪府"
+     ]
+    },
+    {
+     "title": "File:Nakanoshima Skyscrapers in 201409 001.jpg",
+     "stage": "placeCheck",
+     "verdict": "ng",
+     "others": [
+      "大阪府"
+     ]
+    },
+    {
+     "title": "File:Nakanoshima Osaka Japan.jpg",
+     "stage": "placeCheck",
+     "verdict": "ng",
+     "others": [
+      "大阪府"
+     ]
+    },
+    {
+     "title": "File:Nakanoshima Skyscrapers in 201705 001.jpg",
+     "stage": "placeCheck",
+     "verdict": "ng",
+     "others": [
+      "大阪府"
+     ]
+    },
+    {
+     "title": "File:Nakanoshima Skyscrapers in 201705 002.jpg",
+     "stage": "placeCheck",
+     "verdict": "ng",
+     "others": [
+      "大阪府"
+     ]
+    },
+    {
+     "title": "File:Nakanoshima - panoramio (75).jpg",
+     "stage": "haiku",
+     "placeCheck": "weak",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "都市部の一般的なオフィス街。中ノ島の特徴的な地形や名所がなく、どこか特定できません。"
+    },
+    {
+     "title": "File:Nakanoshima Skyscrapers in 201407 001.jpg",
+     "stage": "placeCheck",
+     "verdict": "ng",
+     "others": [
+      "大阪府"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "noto-kiriko",
+   "name": "奥能登",
+   "reason": "合格画像なし",
+   "tried": [
+    {
+     "title": "File:2023-05-05 Ishikawa earthquake intensity map.png",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "地図・図表です。旅行サイトの紹介画像には適さません。"
+    },
+    {
+     "title": "File:20240921線状降水帯石川県.png",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "気象庁の雨量レーダー画面のスクリーンショット。観光地の紹介画像としては不適切で、奥能登の実景ではありません。"
+    },
+    {
+     "title": "File:Ishikawa prefecture Oku-noto civil engineering general office.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "一般的な現代建築物の街景で、奥能登特有の地形・建造物・文化的特徴が見られません。"
+    },
+    {
+     "title": "File:Okunoto Suzu beach hotel 2023-09.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "現代的な公共施設の建物で、奥能登の観光地を代表する風景ではない。屋外ですが場所特定不可。"
+    },
+    {
+     "title": "File:Anamizu Fire Station.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "消防署の建物で、奥能登固有の特徴や風景がない。観光地紹介に不適切。"
+    },
+    {
+     "title": "File:Suzu fire station.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "消防署などの公共施設であり、奥能登の観光資源を表現していない。旅行サイトの紹介画像として不適切。"
+    },
+    {
+     "title": "File:Besshodake SA.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "駅舎など公共施設の建物で、奥能登特有の景観を表現していない。観光地の紹介画像として不適切。"
+    },
+    {
+     "title": "File:Okunoto Fire Department.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "公共施設の建物が中心で、奥能登の特徴的な景観（海岸線、地形など）が写っていない。"
+    }
+   ]
+  },
+  {
+   "id": "akiyoshido",
+   "name": "秋芳洞",
+   "reason": "合格画像なし",
+   "tried": [
+    {
+     "title": "File:Inagawa River near Akiyoshi Cave 4.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "秋芳洞の洞窟内部が写っていません。屋外の渓流風景で、秋芳洞固有の特徴が確認できません。"
+    },
+    {
+     "title": "File:Street in front of entrance of Akiyoshi Cave 2.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "秋芳洞の洞窟内部が写っていない。駐車場・施設周辺の屋外風景のため、この場所特定の根拠が不足。"
+    },
+    {
+     "title": "File:Inagawa River near Akiyoshi Cave 3.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "秋芳洞の特徴である鍾乳洞内部が写っていない。屋外の川風景であり、秋芳洞を特定する手がかりがない。"
+    },
+    {
+     "title": "File:Inagawa River near Akiyoshi Cave 5.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "秋芳洞の特徴である鍾乳洞の内部が写っていない。屋外の森と川の一般的な風景で、秋芳洞特定の手がかりなし。"
+    },
+    {
+     "title": "File:Inagawa River near Akiyoshi Cave 2.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "秋芳洞の洞窟内部が写っていない。外部の川や森の風景であり、秋芳洞を特定できる手がかりがない。"
+    },
+    {
+     "title": "File:Inagawa River near Akiyoshi Cave 8.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "秋芳洞の特徴的な鍾乳洞内部が写っていない。屋外の川と建造物のみで場所特定不可。"
+    },
+    {
+     "title": "File:Inagawa River near Akiyoshi Cave 7.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "秋芳洞の洞窟が映っていない。周辺の街並み・河川風景だが、秋芳洞であることを示す手がかりがない。"
+    },
+    {
+     "title": "File:Stela of Akiyoshi Cave.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": true,
+     "reason": "秋芳洞入口の石碑は識別可能だが、屋外の看板・記念碑のみで、洞窟内の特徴的な鍾乳石や地形が写っていない。"
+    }
+   ]
+  },
+  {
+   "id": "yamaguchi-city",
+   "name": "山口市",
+   "reason": "合格画像なし",
+   "tried": [
+    {
+     "title": "File:山口県岩国市 鞍掛山.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "山口市固有の特定手がかりがない。一般的な日本の山村風景で、場所の特定ができない。"
+    },
+    {
+     "title": "File:山口県下関市出土 和同開珎鋳型.JPG",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "屋内の資料展示（考古遺物）で、旅行地の風景や景観を示す画像ではありません。"
+    },
+    {
+     "title": "File:福井県勝山市赤兎山登山口.jpg",
+     "stage": "placeCheck",
+     "verdict": "ng",
+     "others": [
+      "福井県"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fukushima-aizu-2",
+   "name": "塔のへつり",
+   "reason": "合格画像なし",
+   "tried": [
+    {
+     "title": "File:Tō-no-Hetsuri Station 005.JPG",
+     "stage": "haiku",
+     "placeCheck": "weak",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "塔のへつりの特徴的な景観（渓谷の崖壁や岩壁）が写っておらず、遊園地施設のみ。場所特定困難。"
+    },
+    {
+     "title": "File:塔のへつり駅 - panoramio.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "塔のへつりの特徴的な地形（断崖絶壁）が写っておらず、森の中の一般的な施設に見える。場所特定の手がかり不足。"
+    },
+    {
+     "title": "File:塔のへつり駅 - panoramio (4).jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "施設の建物のみで、塔のへつりの特徴的な地形・岩壁が写っていない"
+    },
+    {
+     "title": "File:塔のへつり駅 - panoramio (1).jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "駅舎と列車が主体で、塔のへつりの特徴的な岩壁・地形が写っていない"
+    },
+    {
+     "title": "File:塔のへつり駅 - panoramio (2).jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "塔のへつりの景観地ではなく、鉄道車両が主体。風景紹介には不適切。"
+    },
+    {
+     "title": "File:塔のへつり駅 - panoramio (3).jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "塔のへつりの特徴的な岩壁・渓谷が見えない。遊歩道の整備風景のみで、この場所特有の地形が撮影されていない。"
+    },
+    {
+     "title": "File:塔のへつり駅 構内 会津鉄道 - panoramio.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "塔のへつりの特徴的な岩壁が写っていない。線路脇の通路で、場所の特定ができません。"
+    },
+    {
+     "title": "File:塔のへつり駅 最寄り踏切近辺から 会津鉄道 - panoramio.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "鉄道路線と森林風景のみ。塔のへつりの特徴である断崖絶壁や独特の地形が写っていない。"
+    }
+   ]
+  },
+  {
+   "id": "higashine",
+   "name": "東根",
+   "reason": "合格画像なし",
+   "tried": [
+    {
+     "title": "File:220428 Yamagata Airport Yamagata Yamagata pref Japan01s3.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "バス停留所・駅舎施設だが、東根特定の看板や特徴が見当たらない。汎用的な公共施設に見える。"
+    },
+    {
+     "title": "File:220428 Yamagata Airport Yamagata Yamagata pref Japan03s3.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "駅舎・バスターミナルの施設写真。東根の観光地・景観を紹介する画像として不適切。"
+    },
+    {
+     "title": "File:Inside Yamagata Airport.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "駅舎の屋内施設で、東根を特定できる看板や特徴的な建造物がない。一般的な駅構内のため別の場所の可能性も高い。"
+    },
+    {
+     "title": "File:Yamagata airportbilding front view.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": true,
+     "reason": "山形空港の写真。東根市内の観光地・風景ではなく、屋内施設の外観のみ。"
+    },
+    {
+     "title": "File:Interior of Yamagata Airport Terminal 002.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "屋内の駅舎・商業施設の写真。東根市の特定地点だと判定不可。旅先紹介に不適切。"
+    },
+    {
+     "title": "File:Interior of Yamagata Airport Terminal 001.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "屋内の商業施設（おそらく道の駅など）の内部。東根特定の手がかりがない。"
+    },
+    {
+     "title": "File:Yamagata Airport Terminal and Tower.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "空港施設の駐車場で、東根市特有の景観・建造物が判別できない"
+    },
+    {
+     "title": "File:FDA-JA12FJ at Yamagata Airport.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "飛行場の写真。東根の観光地を紹介する画像として不適切。"
+    }
+   ]
+  },
+  {
+   "id": "tajimi",
+   "name": "多治見",
+   "reason": "合格画像なし",
+   "tried": [
+    {
+     "title": "File:Tajimi city center area Aerial photograph.1987.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "衛星画像・地図であり、多治見の特定手がかりがない。旅行紹介に不適切。"
+    },
+    {
+     "title": "File:Aerial view of Tajimi City.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "航空写真で多治見の特定の特徴が識別できない。地形・建造物の詳細が不明瞭。"
+    },
+    {
+     "title": "File:岐阜県立多治見高等学校（Gifu prefectural Tajimi High School）.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "多治見の特定地点を示す看板・建造物がなく、どこにでもある日本の一般的な建物。多治見らしさが不足"
+    },
+    {
+     "title": "File:岐阜県立多治見高等学校.JPG",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "多治見を特定できる看板や特徴的なランドマークが見当たりません。一般的な住宅施設に見えます。"
+    },
+    {
+     "title": "File:Spring Field Golf Club, Tajimi Gifu Aerial photograph.1987.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "ゴルフコースの航空写真。多治見の特徴的な地形・建造物・産業が確認できない。場所特定不可。"
+    },
+    {
+     "title": "File:Tajimi IC1.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "高速道路の標識と風景。多治見を特定できる固有の手がかりがない。"
+    },
+    {
+     "title": "File:JR Tajimi Station 2021-10 ac (2).jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "現代的な建築物ですが、多治見を特定できる看板や特徴的なランドマークがなく、どこの建物か判別困難"
+    },
+    {
+     "title": "File:Tajimi Interchange Toll Gate.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "駅舎などの建造物は映っているが、多治見を特定する手がかり（看板の文字が不鮮明）が不足。施設の外観のみで場所特定困難。"
+    }
+   ]
+  }
+ ]
+}

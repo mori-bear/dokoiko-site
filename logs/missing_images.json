@@ -1,0 +1,2718 @@
+{
+ "heroBroken": [
+  {
+   "id": "gen_北海_朝里川温泉",
+   "name": "朝里川温泉",
+   "pref": "北海道",
+   "weight": 1.55,
+   "tier": "area",
+   "destType": "onsen",
+   "declared": 2,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/gen_北海_朝里川温泉/main.jpg"
+   ]
+  },
+  {
+   "id": "gen_北海_網走湖畔温泉",
+   "name": "網走湖畔温泉",
+   "pref": "北海道",
+   "weight": 1.55,
+   "tier": "area",
+   "destType": "onsen",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/gen_北海_網走湖畔温泉/main.jpg"
+   ]
+  },
+  {
+   "id": "gen_北海_羅臼温泉",
+   "name": "羅臼温泉",
+   "pref": "北海道",
+   "weight": 1.55,
+   "tier": "area",
+   "destType": "onsen",
+   "declared": 2,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/gen_北海_羅臼温泉/main.jpg"
+   ]
+  },
+  {
+   "id": "gen_北海_白老温泉",
+   "name": "白老温泉",
+   "pref": "北海道",
+   "weight": 1.55,
+   "tier": "area",
+   "destType": "onsen",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/gen_北海_白老温泉/main.jpg"
+   ]
+  },
+  {
+   "id": "gen_北海_滝の湯温泉",
+   "name": "滝の湯温泉",
+   "pref": "北海道",
+   "weight": 1.55,
+   "tier": "area",
+   "destType": "onsen",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/gen_北海_滝の湯温泉/main.jpg"
+   ]
+  },
+  {
+   "id": "gen_北海_天塩温泉",
+   "name": "天塩温泉",
+   "pref": "北海道",
+   "weight": 1.55,
+   "tier": "area",
+   "destType": "onsen",
+   "declared": 2,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/gen_北海_天塩温泉/main.jpg"
+   ]
+  },
+  {
+   "id": "gen_北海_かみゆうべつ温泉",
+   "name": "かみゆうべつ温泉",
+   "pref": "北海道",
+   "weight": 1.55,
+   "tier": "area",
+   "destType": "onsen",
+   "declared": 2,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/gen_北海_かみゆうべつ温泉/main.jpg"
+   ]
+  },
+  {
+   "id": "gen_北海_神居岩温泉",
+   "name": "神居岩温泉",
+   "pref": "北海道",
+   "weight": 1.55,
+   "tier": "area",
+   "destType": "onsen",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/gen_北海_神居岩温泉/main.jpg"
+   ]
+  },
+  {
+   "id": "gen_北海_黒松内温泉",
+   "name": "黒松内温泉",
+   "pref": "北海道",
+   "weight": 1.55,
+   "tier": "area",
+   "destType": "onsen",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/gen_北海_黒松内温泉/main.jpg"
+   ]
+  },
+  {
+   "id": "gen_北海_見市温泉",
+   "name": "見市温泉",
+   "pref": "北海道",
+   "weight": 1.55,
+   "tier": "area",
+   "destType": "onsen",
+   "declared": 2,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/gen_北海_見市温泉/main.jpg"
+   ]
+  },
+  {
+   "id": "gen_北海_支笏湖いとう温泉",
+   "name": "支笏湖温泉",
+   "pref": "北海道",
+   "weight": 1.55,
+   "tier": "area",
+   "destType": "onsen",
+   "declared": 2,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/gen_北海_支笏湖いとう温泉/main.jpg"
+   ]
+  },
+  {
+   "id": "gen_北海_樹海温泉",
+   "name": "樹海温泉",
+   "pref": "北海道",
+   "weight": 1.55,
+   "tier": "area",
+   "destType": "onsen",
+   "declared": 2,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/gen_北海_樹海温泉/main.jpg"
+   ]
+  },
+  {
+   "id": "gen_北海_伊達温泉",
+   "name": "伊達温泉",
+   "pref": "北海道",
+   "weight": 1.55,
+   "tier": "area",
+   "destType": "onsen",
+   "declared": 2,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/gen_北海_伊達温泉/main.jpg"
+   ]
+  },
+  {
+   "id": "gen_栃木_湯西川温泉",
+   "name": "湯西川温泉",
+   "pref": "栃木県",
+   "weight": 1.55,
+   "tier": "area",
+   "destType": "onsen",
+   "declared": 2,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/gen_栃木_湯西川温泉/main.jpg"
+   ]
+  },
+  {
+   "id": "gen_群馬_奥嬬恋温泉",
+   "name": "奥嬬恋温泉",
+   "pref": "群馬県",
+   "weight": 1.55,
+   "tier": "area",
+   "destType": "onsen",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/gen_群馬_奥嬬恋温泉/main.jpg"
+   ]
+  },
+  {
+   "id": "gen_群馬_片品温泉",
+   "name": "片品温泉",
+   "pref": "群馬県",
+   "weight": 1.55,
+   "tier": "area",
+   "destType": "onsen",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/gen_群馬_片品温泉/main.jpg"
+   ]
+  },
+  {
+   "id": "gen_群馬_川中温泉",
+   "name": "川中温泉",
+   "pref": "群馬県",
+   "weight": 1.55,
+   "tier": "area",
+   "destType": "onsen",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/gen_群馬_川中温泉/main.jpg"
+   ]
+  },
+  {
+   "id": "gen_群馬_花敷温泉",
+   "name": "花敷温泉",
+   "pref": "群馬県",
+   "weight": 1.55,
+   "tier": "area",
+   "destType": "onsen",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/gen_群馬_花敷温泉/main.jpg"
+   ]
+  },
+  {
+   "id": "gen_北海_臼別温泉",
+   "name": "臼別温泉",
+   "pref": "北海道",
+   "weight": 1.55,
+   "tier": "area",
+   "destType": "onsen",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/gen_北海_臼別温泉/main.jpg"
+   ]
+  },
+  {
+   "id": "gen_北海_オーロラ温泉",
+   "name": "オーロラ温泉",
+   "pref": "北海道",
+   "weight": 1.55,
+   "tier": "area",
+   "destType": "onsen",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/gen_北海_オーロラ温泉/main.jpg"
+   ]
+  },
+  {
+   "id": "gen_北海_神威脇温泉",
+   "name": "神威脇温泉",
+   "pref": "北海道",
+   "weight": 1.55,
+   "tier": "area",
+   "destType": "onsen",
+   "declared": 2,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/gen_北海_神威脇温泉/main.jpg"
+   ]
+  },
+  {
+   "id": "gen_北海_鹿部温泉",
+   "name": "鹿部温泉",
+   "pref": "北海道",
+   "weight": 1.55,
+   "tier": "area",
+   "destType": "onsen",
+   "declared": 2,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/gen_北海_鹿部温泉/main.jpg"
+   ]
+  },
+  {
+   "id": "gen_青森_相乗温泉",
+   "name": "相乗温泉",
+   "pref": "青森県",
+   "weight": 1.55,
+   "tier": "area",
+   "destType": "onsen",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/gen_青森_相乗温泉/main.jpg"
+   ]
+  },
+  {
+   "id": "gen_青森_秋元温泉",
+   "name": "秋元温泉",
+   "pref": "青森県",
+   "weight": 1.55,
+   "tier": "area",
+   "destType": "onsen",
+   "declared": 2,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/gen_青森_秋元温泉/main.jpg"
+   ]
+  },
+  {
+   "id": "gen_青森_板留温泉",
+   "name": "板留温泉",
+   "pref": "青森県",
+   "weight": 1.55,
+   "tier": "area",
+   "destType": "onsen",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/gen_青森_板留温泉/main.jpg"
+   ]
+  },
+  {
+   "id": "gen_青森_落合温泉",
+   "name": "落合温泉",
+   "pref": "青森県",
+   "weight": 1.55,
+   "tier": "area",
+   "destType": "onsen",
+   "declared": 2,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/gen_青森_落合温泉/main.jpg"
+   ]
+  },
+  {
+   "id": "gen_青森_嶽温泉",
+   "name": "嶽温泉",
+   "pref": "青森県",
+   "weight": 1.55,
+   "tier": "area",
+   "destType": "onsen",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/gen_青森_嶽温泉/main.jpg"
+   ]
+  },
+  {
+   "id": "gen_青森_十和田湖畔温泉",
+   "name": "十和田湖畔温泉",
+   "pref": "青森県",
+   "weight": 1.55,
+   "tier": "area",
+   "destType": "onsen",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/gen_青森_十和田湖畔温泉/main.jpg"
+   ]
+  },
+  {
+   "id": "gen_青森_馬門温泉",
+   "name": "馬門温泉",
+   "pref": "青森県",
+   "weight": 1.55,
+   "tier": "area",
+   "destType": "onsen",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/gen_青森_馬門温泉/main.jpg"
+   ]
+  },
+  {
+   "id": "saga",
+   "name": "佐賀",
+   "pref": "佐賀県",
+   "weight": 1.5,
+   "tier": "hub",
+   "destType": "city",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/saga/main.jpg"
+   ]
+  },
+  {
+   "id": "usuki",
+   "name": "臼杵",
+   "pref": "大分県",
+   "weight": 1.11,
+   "tier": "area",
+   "destType": "city",
+   "declared": 4,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/usuki/main.jpg"
+   ]
+  },
+  {
+   "id": "mihara",
+   "name": "三原",
+   "pref": "広島県",
+   "weight": 1.11,
+   "tier": "area",
+   "destType": "city",
+   "declared": 3,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/mihara/main.jpg"
+   ]
+  },
+  {
+   "id": "iga-ueno",
+   "name": "伊賀上野",
+   "pref": "三重県",
+   "weight": 1.11,
+   "tier": "area",
+   "destType": "city",
+   "declared": 4,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/iga-ueno/main.jpg"
+   ]
+  },
+  {
+   "id": "ainan",
+   "name": "愛南",
+   "pref": "愛媛県",
+   "weight": 1.1,
+   "tier": "spot",
+   "destType": "sight",
+   "declared": 2,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/ainan/main.jpg"
+   ]
+  },
+  {
+   "id": "yura-wakayama",
+   "name": "由良",
+   "pref": "和歌山県",
+   "weight": 1.1,
+   "tier": "spot",
+   "destType": "sight",
+   "declared": 4,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/yura-wakayama/main.jpg"
+   ]
+  },
+  {
+   "id": "echizen",
+   "name": "越前",
+   "pref": "福井県",
+   "weight": 1,
+   "tier": "area",
+   "destType": "city",
+   "declared": 3,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/echizen/main.jpg"
+   ]
+  },
+  {
+   "id": "iga",
+   "name": "伊賀",
+   "pref": "三重県",
+   "weight": 1,
+   "tier": "area",
+   "destType": "city",
+   "declared": 4,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/iga/main.jpg"
+   ]
+  },
+  {
+   "id": "kamaishi",
+   "name": "釜石",
+   "pref": "岩手県",
+   "weight": 1,
+   "tier": "area",
+   "destType": "city",
+   "declared": 3,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/kamaishi/main.jpg"
+   ]
+  },
+  {
+   "id": "ono-fukui",
+   "name": "越前大野",
+   "pref": "福井県",
+   "weight": 1,
+   "tier": "area",
+   "destType": "city",
+   "declared": 4,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/ono-fukui/main.jpg"
+   ]
+  },
+  {
+   "id": "isawa-onsen",
+   "name": "石和温泉",
+   "pref": "山梨県",
+   "weight": 1,
+   "tier": "area",
+   "destType": "onsen",
+   "declared": 4,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/isawa-onsen/main.jpg"
+   ]
+  },
+  {
+   "id": "arita",
+   "name": "有田",
+   "pref": "佐賀県",
+   "weight": 1,
+   "tier": "area",
+   "destType": "city",
+   "declared": 2,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/arita/main.jpg"
+   ]
+  },
+  {
+   "id": "chizu",
+   "name": "智頭",
+   "pref": "鳥取県",
+   "weight": 1,
+   "tier": "area",
+   "destType": "city",
+   "declared": 4,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/chizu/main.jpg"
+   ]
+  },
+  {
+   "id": "kashiwara-wine",
+   "name": "柏原",
+   "pref": "大阪府",
+   "weight": 1,
+   "tier": "area",
+   "destType": "city",
+   "declared": 3,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/kashiwara-wine/main.jpg"
+   ]
+  },
+  {
+   "id": "tsubamesanjo",
+   "name": "燕三条",
+   "pref": "新潟県",
+   "weight": 1,
+   "tier": "area",
+   "destType": "city",
+   "declared": 4,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/tsubamesanjo/main.jpg"
+   ]
+  },
+  {
+   "id": "ikuno",
+   "name": "生野",
+   "pref": "兵庫県",
+   "weight": 1,
+   "tier": "spot",
+   "destType": "sight",
+   "declared": 4,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/ikuno/main.jpg"
+   ]
+  },
+  {
+   "id": "fuchu-hiroshima",
+   "name": "府中",
+   "pref": "広島県",
+   "weight": 1,
+   "tier": "area",
+   "destType": "city",
+   "declared": 4,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/fuchu-hiroshima/main.jpg"
+   ]
+  },
+  {
+   "id": "mitoyo",
+   "name": "三豊",
+   "pref": "香川県",
+   "weight": 1,
+   "tier": "spot",
+   "destType": "sight",
+   "declared": 4,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/mitoyo/main.jpg"
+   ]
+  },
+  {
+   "id": "sozogi",
+   "name": "曽々木海岸",
+   "pref": "石川県",
+   "weight": 1,
+   "tier": "spot",
+   "destType": "sight",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/sozogi/main.jpg"
+   ]
+  },
+  {
+   "id": "nakanoshima-oki",
+   "name": "中ノ島",
+   "pref": "島根県",
+   "weight": 1,
+   "destType": "island",
+   "declared": 4,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/nakanoshima-oki/main.jpg"
+   ]
+  },
+  {
+   "id": "iwaishima",
+   "name": "祝島",
+   "pref": "山口県",
+   "weight": 1,
+   "destType": "island",
+   "declared": 3,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/iwaishima/main.jpg"
+   ]
+  },
+  {
+   "id": "ogose",
+   "name": "越生",
+   "pref": "埼玉県",
+   "weight": 1,
+   "destType": "sight",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/ogose/main.jpg"
+   ]
+  },
+  {
+   "id": "takatsuki",
+   "name": "高槻",
+   "pref": "大阪府",
+   "weight": 1,
+   "destType": "sight",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/takatsuki/main.jpg"
+   ]
+  },
+  {
+   "id": "noto-kiriko",
+   "name": "奥能登",
+   "pref": "石川県",
+   "weight": 1,
+   "destType": "sight",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/noto-kiriko/main.jpg"
+   ]
+  },
+  {
+   "id": "kumano-kodo",
+   "name": "熊野古道",
+   "pref": "和歌山県",
+   "weight": 1,
+   "destType": "sight",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/kumano-kodo/main.jpg"
+   ]
+  },
+  {
+   "id": "okayama-city",
+   "name": "岡山",
+   "pref": "岡山県",
+   "weight": 1,
+   "destType": "sight",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/okayama-city/main.jpg"
+   ]
+  },
+  {
+   "id": "akiyoshido",
+   "name": "秋芳洞",
+   "pref": "山口県",
+   "weight": 1,
+   "destType": "sight",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/akiyoshido/main.jpg"
+   ]
+  },
+  {
+   "id": "kagoshima-city",
+   "name": "鹿児島",
+   "pref": "鹿児島県",
+   "weight": 1,
+   "destType": "sight",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/kagoshima-city/main.jpg"
+   ]
+  },
+  {
+   "id": "mt-fuji-fifth",
+   "name": "富士山五合目",
+   "pref": "山梨県",
+   "weight": 1,
+   "destType": "sight",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/mt-fuji-fifth/main.jpg"
+   ]
+  },
+  {
+   "id": "saiko",
+   "name": "西湖",
+   "pref": "山梨県",
+   "weight": 1,
+   "destType": "sight",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/saiko/main.jpg"
+   ]
+  },
+  {
+   "id": "nakasu",
+   "name": "中洲屋台",
+   "pref": "福岡県",
+   "weight": 1,
+   "destType": "sight",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/nakasu/main.jpg"
+   ]
+  },
+  {
+   "id": "senri",
+   "name": "万博記念公園",
+   "pref": "大阪府",
+   "weight": 1,
+   "destType": "sight",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/senri/main.jpg"
+   ]
+  },
+  {
+   "id": "zushi",
+   "name": "逗子",
+   "pref": "神奈川県",
+   "weight": 1,
+   "destType": "sight",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/zushi/main.jpg"
+   ]
+  },
+  {
+   "id": "biwako",
+   "name": "琵琶湖",
+   "pref": "滋賀県",
+   "weight": 1,
+   "destType": "sight",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/biwako/main.jpg"
+   ]
+  },
+  {
+   "id": "nabari",
+   "name": "名張",
+   "pref": "三重県",
+   "weight": 1,
+   "destType": "sight",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/nabari/main.jpg"
+   ]
+  },
+  {
+   "id": "yamaguchi-city",
+   "name": "山口市",
+   "pref": "山口県",
+   "weight": 1,
+   "destType": "sight",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/yamaguchi-city/main.jpg"
+   ]
+  },
+  {
+   "id": "mt-yatsugatake",
+   "name": "蓼科高原",
+   "pref": "長野県",
+   "weight": 1,
+   "destType": "sight",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/mt-yatsugatake/main.jpg"
+   ]
+  },
+  {
+   "id": "akita-yokote",
+   "name": "横手",
+   "pref": "秋田県",
+   "weight": 1,
+   "destType": "sight",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/akita-yokote/main.jpg"
+   ]
+  },
+  {
+   "id": "shizu-shimizu",
+   "name": "清水",
+   "pref": "静岡県",
+   "weight": 1,
+   "destType": "sight",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/shizu-shimizu/main.jpg"
+   ]
+  },
+  {
+   "id": "fukushima-aizu-2",
+   "name": "塔のへつり",
+   "pref": "福島県",
+   "weight": 1,
+   "destType": "sight",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/fukushima-aizu-2/main.jpg"
+   ]
+  },
+  {
+   "id": "miyagi-matsushima-2",
+   "name": "塩釜",
+   "pref": "宮城県",
+   "weight": 1,
+   "destType": "sight",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/miyagi-matsushima-2/main.jpg"
+   ]
+  },
+  {
+   "id": "anan",
+   "name": "阿南",
+   "pref": "徳島県",
+   "weight": 0.99,
+   "tier": "spot",
+   "destType": "sight",
+   "declared": 3,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/anan/main.jpg"
+   ]
+  },
+  {
+   "id": "higashine",
+   "name": "東根",
+   "pref": "山形県",
+   "weight": 0.97,
+   "tier": "area",
+   "destType": "city",
+   "declared": 3,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/higashine/main.jpg"
+   ]
+  },
+  {
+   "id": "tomakomai",
+   "name": "苫小牧",
+   "pref": "北海道",
+   "weight": 0.97,
+   "tier": "area",
+   "destType": "city",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/tomakomai/main.jpg"
+   ]
+  },
+  {
+   "id": "tendou",
+   "name": "天童",
+   "pref": "山形県",
+   "weight": 0.97,
+   "tier": "area",
+   "destType": "city",
+   "declared": 4,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/tendou/main.jpg"
+   ]
+  },
+  {
+   "id": "sagae",
+   "name": "寒河江",
+   "pref": "山形県",
+   "weight": 0.97,
+   "tier": "area",
+   "destType": "city",
+   "declared": 3,
+   "missing": 0,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": []
+  },
+  {
+   "id": "hokkaido-asahikawa",
+   "name": "旭川",
+   "pref": "北海道",
+   "weight": 0.97,
+   "tier": "area",
+   "destType": "city",
+   "declared": 4,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/hokkaido-asahikawa/main.jpg"
+   ]
+  },
+  {
+   "id": "gen_北海_花の拠点「はなふる」",
+   "name": "花の拠点 はなふる",
+   "pref": "北海道",
+   "weight": 0.9,
+   "tier": "spot",
+   "destType": "sight",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/gen_北海_花の拠点「はなふる」/main.jpg"
+   ]
+  },
+  {
+   "id": "gen_北海_石狩弁天社",
+   "name": "石狩弁天社",
+   "pref": "北海道",
+   "weight": 0.9,
+   "tier": "spot",
+   "destType": "sight",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/gen_北海_石狩弁天社/main.jpg"
+   ]
+  },
+  {
+   "id": "gen_北海_浦臼神社",
+   "name": "浦臼神社",
+   "pref": "北海道",
+   "weight": 0.9,
+   "tier": "spot",
+   "destType": "sight",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/gen_北海_浦臼神社/main.jpg"
+   ]
+  },
+  {
+   "id": "niseko",
+   "name": "ニセコ",
+   "pref": "北海道",
+   "weight": 0.88,
+   "tier": "spot",
+   "destType": "sight",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niseko/main.jpg"
+   ]
+  },
+  {
+   "id": "sakai",
+   "name": "堺",
+   "pref": "大阪府",
+   "weight": 0.86,
+   "tier": "area",
+   "destType": "city",
+   "declared": 4,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/sakai/main.jpg"
+   ]
+  },
+  {
+   "id": "tajimi",
+   "name": "多治見",
+   "pref": "岐阜県",
+   "weight": 0.86,
+   "tier": "area",
+   "destType": "city",
+   "declared": 3,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/tajimi/main.jpg"
+   ]
+  },
+  {
+   "id": "akashi",
+   "name": "明石",
+   "pref": "兵庫県",
+   "weight": 0.86,
+   "tier": "area",
+   "destType": "city",
+   "declared": 4,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/akashi/main.jpg"
+   ]
+  },
+  {
+   "id": "toyota-city",
+   "name": "豊田",
+   "pref": "愛知県",
+   "weight": 0.86,
+   "tier": "area",
+   "destType": "city",
+   "declared": 4,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/toyota-city/main.jpg"
+   ]
+  },
+  {
+   "id": "obihiro",
+   "name": "帯広",
+   "pref": "北海道",
+   "weight": 0.81,
+   "tier": "area",
+   "destType": "city",
+   "declared": 4,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/obihiro/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_宮城_1",
+   "name": "女川漁港と海産物市場",
+   "pref": "宮城県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "food",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_宮城_1/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_宮城_3",
+   "name": "七ヶ宿町のダム湖",
+   "pref": "宮城県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "nature",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_宮城_3/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_宮城_5",
+   "name": "登米の蔵の町並み",
+   "pref": "宮城県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "historic",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_宮城_5/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_秋田_4",
+   "name": "小坂鉄道遺産と銀山跡",
+   "pref": "秋田県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "historic",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_秋田_4/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_秋田_5",
+   "name": "太平湖と奥ノ松渓谷",
+   "pref": "秋田県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "nature",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_秋田_5/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_山形_1",
+   "name": "白鷹町べにばな温泉郷",
+   "pref": "山形県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "onsen",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_山形_1/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_山形_2",
+   "name": "庄内町庭月観音温泉",
+   "pref": "山形県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "onsen",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_山形_2/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_福島_1",
+   "name": "只見町ブナ林と清流",
+   "pref": "福島県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "nature",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_福島_1/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_福島_4",
+   "name": "小高区歴史的町並み",
+   "pref": "福島県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "historic",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_福島_4/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_茨城_1",
+   "name": "真壁の古い町並み",
+   "pref": "茨城県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "historic",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_茨城_1/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_栃木_4",
+   "name": "馬頭温泉郷",
+   "pref": "栃木県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "town",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_栃木_4/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_群馬_1",
+   "name": "佐野の門前町",
+   "pref": "栃木県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "historic",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_群馬_1/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_群馬_4",
+   "name": "桐生の工場跡と町並み",
+   "pref": "群馬県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "historic",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_群馬_4/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_埼玉_1",
+   "name": "寄居町の荒川渓谷",
+   "pref": "埼玉県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "nature",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_埼玉_1/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_千葉_2",
+   "name": "小湊鐵道沿線",
+   "pref": "千葉県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "sight",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_千葉_2/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_神奈川_4",
+   "name": "大磯照ヶ崎海岸",
+   "pref": "神奈川県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "historic",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_神奈川_4/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_神奈川_5",
+   "name": "開成町水田",
+   "pref": "神奈川県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "nature",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_神奈川_5/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_新潟_2",
+   "name": "寺泊アメの横丁",
+   "pref": "新潟県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "food",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_新潟_2/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_新潟_3",
+   "name": "越後松代の棚田と旧街道",
+   "pref": "新潟県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "nature",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_新潟_3/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_新潟_6",
+   "name": "加茂の古い酒蔵群と職人街",
+   "pref": "新潟県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "food",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_新潟_6/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_富山_3",
+   "name": "福光地区",
+   "pref": "富山県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "historic",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_富山_3/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_石川_6",
+   "name": "九谷陶芸村",
+   "pref": "石川県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "historic",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_石川_6/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_福井_1",
+   "name": "河野海岸の三角波紋",
+   "pref": "福井県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "sight",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_福井_1/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_福井_2",
+   "name": "白山平泉寺門前町",
+   "pref": "福井県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "historic",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_福井_2/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_福井_4",
+   "name": "九頭竜湖・西野ダム展望台",
+   "pref": "福井県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "sight",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_福井_4/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_山梨_1",
+   "name": "道志村渓谷",
+   "pref": "山梨県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "nature",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_山梨_1/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_山梨_2",
+   "name": "南部町・湯船温泉",
+   "pref": "山梨県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "onsen",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_山梨_2/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_山梨_3",
+   "name": "丹波山温泉・多摩川源流",
+   "pref": "山梨県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "onsen",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_山梨_3/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_山梨_4",
+   "name": "猿橋宿場町",
+   "pref": "山梨県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "historic",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_山梨_4/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_山梨_5",
+   "name": "猿が城跡",
+   "pref": "山梨県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "sight",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_山梨_5/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_山梨_7",
+   "name": "塩山梅林",
+   "pref": "山梨県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "food",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_山梨_7/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_長野_4",
+   "name": "結東温泉",
+   "pref": "長野県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "onsen",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_長野_4/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_岐阜_8",
+   "name": "養老公園",
+   "pref": "岐阜県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "nature",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_岐阜_8/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_静岡_3",
+   "name": "石部棚田",
+   "pref": "静岡県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "sight",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_静岡_3/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_愛知_4",
+   "name": "内子町の三間町並み",
+   "pref": "愛媛県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "town",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_愛知_4/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_愛知_7",
+   "name": "吉良町漁村",
+   "pref": "愛知県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "food",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_愛知_7/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_三重_2",
+   "name": "宮川渓谷",
+   "pref": "三重県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "nature",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_三重_2/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_滋賀_1",
+   "name": "日野商人の町並み",
+   "pref": "滋賀県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "historic",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_滋賀_1/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_滋賀_3",
+   "name": "永源寺門前と愛知川",
+   "pref": "滋賀県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "historic",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_滋賀_3/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_滋賀_4",
+   "name": "五個荘近江商人の館",
+   "pref": "滋賀県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "historic",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_滋賀_4/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_滋賀_6",
+   "name": "賤ヶ岳と湖北山里",
+   "pref": "滋賀県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "historic",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_滋賀_6/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_京都_3",
+   "name": "青谷地区",
+   "pref": "京都府",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "sight",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_京都_3/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_京都_5",
+   "name": "由良川渓谷",
+   "pref": "京都府",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "nature",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_京都_5/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_京都_6",
+   "name": "北の宿温泉",
+   "pref": "京都府",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "onsen",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_京都_6/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_大阪_1",
+   "name": "能勢白滝",
+   "pref": "大阪府",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "nature",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_大阪_1/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_大阪_2",
+   "name": "太子町の古刹群",
+   "pref": "大阪府",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "historic",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_大阪_2/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_大阪_3",
+   "name": "山崎の古い町並み",
+   "pref": "京都府",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "town",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_大阪_3/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_兵庫_2",
+   "name": "湯村温泉・荒湯地獄",
+   "pref": "兵庫県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "onsen",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_兵庫_2/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_兵庫_4",
+   "name": "鳥飼漁港と丸島番所跡",
+   "pref": "兵庫県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "sight",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_兵庫_4/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_奈良_2",
+   "name": "野迫川村の深山と秘湯群",
+   "pref": "奈良県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "onsen",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_奈良_2/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_奈良_3",
+   "name": "月ヶ瀬温泉と梅林の里",
+   "pref": "奈良県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "onsen",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_奈良_3/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_奈良_4",
+   "name": "上北山村",
+   "pref": "奈良県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "nature",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_奈良_4/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_和歌山_3",
+   "name": "北山村いかだ下り",
+   "pref": "和歌山県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "nature",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_和歌山_3/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_和歌山_6",
+   "name": "高野龍神スカイライン",
+   "pref": "和歌山県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "sight",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_和歌山_6/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_和歌山_8",
+   "name": "印南くじらの浜",
+   "pref": "和歌山県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "town",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_和歌山_8/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_鳥取_2",
+   "name": "若桜町商店街",
+   "pref": "鳥取県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "historic",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_鳥取_2/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_鳥取_8",
+   "name": "琴浦町の漁村風景",
+   "pref": "鳥取県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "town",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_鳥取_8/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_島根_1",
+   "name": "斐伊川荒島地区",
+   "pref": "島根県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "nature",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_島根_1/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_島根_4",
+   "name": "掛合町の鐘乳洞群",
+   "pref": "島根県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "nature",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_島根_4/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_広島_6",
+   "name": "世羅ラベンダー畑",
+   "pref": "広島県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "food",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_広島_6/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_山口_2",
+   "name": "錦川峡谷",
+   "pref": "山口県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "town",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_山口_2/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_徳島_2",
+   "name": "勝浦川峡谷",
+   "pref": "徳島県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "onsen",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_徳島_2/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_香川_2",
+   "name": "仁尾の町並みと造り酒屋",
+   "pref": "香川県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "town",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_香川_2/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_高知_1",
+   "name": "佐川町の酒蔵と古い町並み",
+   "pref": "高知県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "town",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_高知_1/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_高知_6",
+   "name": "日高村",
+   "pref": "高知県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "food",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_高知_6/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_熊本_1",
+   "name": "五木村の清流と棚田",
+   "pref": "熊本県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "nature",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_熊本_1/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_熊本_2",
+   "name": "産山村の星の宮古墳",
+   "pref": "熊本県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "historic",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_熊本_2/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_熊本_6",
+   "name": "白糸台地の棚田",
+   "pref": "熊本県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "nature",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_熊本_6/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_熊本_8",
+   "name": "三角町の漁師町",
+   "pref": "熊本県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "town",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_熊本_8/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_大分_1",
+   "name": "佐賀関漁港と三浦海岸",
+   "pref": "大分県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "food",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_大分_1/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_大分_2",
+   "name": "青の洞門と耶馬渓",
+   "pref": "大分県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "historic",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_大分_2/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_宮崎_2",
+   "name": "西米良村 仙人の湯",
+   "pref": "宮崎県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "onsen",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_宮崎_2/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_宮崎_3",
+   "name": "みやざき地鶏の里",
+   "pref": "宮崎県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "food",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_宮崎_3/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_鹿児島_1",
+   "name": "串木野港周辺の漁師町",
+   "pref": "鹿児島県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "town",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_鹿児島_1/main.jpg"
+   ]
+  },
+  {
+   "id": "niche_鹿児島_5",
+   "name": "栗野岳温泉郷",
+   "pref": "鹿児島県",
+   "weight": 0.8,
+   "tier": "spot",
+   "destType": "onsen",
+   "declared": 1,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/niche_鹿児島_5/main.jpg"
+   ]
+  },
+  {
+   "id": "toyohashi",
+   "name": "豊橋",
+   "pref": "愛知県",
+   "weight": 0.75,
+   "tier": "area",
+   "destType": "city",
+   "declared": 3,
+   "missing": 1,
+   "mainDeclared": true,
+   "mainExists": false,
+   "singleExists": false,
+   "heroBroken": true,
+   "missingList": [
+    "/images/toyohashi/main.jpg"
+   ]
+  }
+ ],
+ "spotOnly": []
+}

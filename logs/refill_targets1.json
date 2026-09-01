@@ -1,0 +1,1305 @@
+[
+ {
+  "id": "suwa",
+  "name": "諏訪",
+  "prefecture": "長野県",
+  "imageQuery": "諏訪 長野県",
+  "localityWords": [
+   "長野",
+   "諏訪温泉",
+   "諏訪湖",
+   "片倉館",
+   "諏訪大社",
+   "諏訪"
+  ],
+  "firstSpot": "諏訪大社"
+ },
+ {
+  "id": "tokyo",
+  "name": "東京",
+  "prefecture": "東京都",
+  "imageQuery": "東京 東京都",
+  "localityWords": [
+   "幕張",
+   "浅草・浅草寺",
+   "秋葉原",
+   "お台場",
+   "自由が丘",
+   "上野",
+   "東京",
+   "浅草"
+  ],
+  "firstSpot": "浅草・浅草寺"
+ },
+ {
+  "id": "akita-oga",
+  "name": "男鹿温泉",
+  "prefecture": "秋田県",
+  "imageQuery": "男鹿温泉 秋田県",
+  "localityWords": [
+   "男鹿温泉郷",
+   "秋田",
+   "寒風山",
+   "入道崎",
+   "男鹿",
+   "男鹿温泉"
+  ],
+  "firstSpot": "男鹿温泉郷"
+ },
+ {
+  "id": "mimasaka",
+  "name": "美作",
+  "prefecture": "岡山県",
+  "imageQuery": "美作 岡山県",
+  "localityWords": [
+   "岡山",
+   "湯原温泉",
+   "美作",
+   "武蔵の里",
+   "湯郷温泉"
+  ],
+  "firstSpot": "湯郷温泉"
+ },
+ {
+  "id": "saga",
+  "name": "佐賀",
+  "prefecture": "佐賀県",
+  "imageQuery": "佐賀 佐賀県",
+  "localityWords": [
+   "佐賀城本丸歴史館",
+   "佐賀",
+   "佐賀バルーンミュージアム",
+   "武雄温泉",
+   "吉野ヶ里遺跡"
+  ],
+  "firstSpot": "佐賀城本丸歴史館"
+ },
+ {
+  "id": "miyazaki",
+  "name": "宮崎",
+  "prefecture": "宮崎県",
+  "imageQuery": "宮崎 宮崎県",
+  "localityWords": [
+   "宮崎神宮",
+   "鵜戸神宮",
+   "高千穂峡",
+   "青島",
+   "宮崎"
+  ],
+  "firstSpot": "青島"
+ },
+ {
+  "id": "myoko",
+  "name": "妙高",
+  "prefecture": "新潟県",
+  "imageQuery": "妙高 新潟県",
+  "localityWords": [
+   "妙高高原",
+   "苗名滝",
+   "新潟",
+   "燕温泉",
+   "妙高"
+  ],
+  "firstSpot": "妙高高原"
+ },
+ {
+  "id": "tateyama-toyama",
+  "name": "立山",
+  "prefecture": "富山県",
+  "imageQuery": "立山 富山県",
+  "localityWords": [
+   "中新川郡立山",
+   "立山黒部アルペンルート",
+   "立山",
+   "雷鳥沢",
+   "立山駅",
+   "富山"
+  ],
+  "firstSpot": "立山駅"
+ },
+ {
+  "id": "otari-onsen",
+  "name": "小谷温泉",
+  "prefecture": "長野県",
+  "imageQuery": "小谷温泉 長野県",
+  "localityWords": [
+   "長野",
+   "小谷温泉",
+   "雨飾荘",
+   "雨飾山登山口",
+   "小谷",
+   "山田旅館"
+  ],
+  "firstSpot": "雨飾荘"
+ },
+ {
+  "id": "minami-aizu",
+  "name": "南会津",
+  "prefecture": "福島県",
+  "imageQuery": "南会津 福島県",
+  "localityWords": [
+   "駒止湿原",
+   "福島",
+   "南会津の茅葺き民家",
+   "舘岩温泉",
+   "南会津"
+  ],
+  "firstSpot": "駒止湿原"
+ },
+ {
+  "id": "toshima",
+  "name": "利島",
+  "prefecture": "東京都",
+  "imageQuery": "利島 東京都",
+  "localityWords": [
+   "利島",
+   "椿林",
+   "東京",
+   "利島港",
+   "宮塚山"
+  ],
+  "firstSpot": "椿林"
+ },
+ {
+  "id": "aso",
+  "name": "阿蘇",
+  "prefecture": "熊本県",
+  "imageQuery": "阿蘇 熊本県",
+  "localityWords": [
+   "草千里",
+   "中岳火口",
+   "米塚",
+   "阿蘇山",
+   "熊本",
+   "大観峰",
+   "阿蘇"
+  ],
+  "firstSpot": "草千里"
+ },
+ {
+  "id": "jozankei",
+  "name": "定山渓",
+  "prefecture": "北海道",
+  "imageQuery": "定山渓 北海道",
+  "localityWords": [
+   "定山渓温泉街",
+   "定山渓",
+   "北海道",
+   "二見公園",
+   "札幌",
+   "豊平峡ダム"
+  ],
+  "firstSpot": "定山渓温泉街"
+ },
+ {
+  "id": "oarai",
+  "name": "大洗",
+  "prefecture": "茨城県",
+  "imageQuery": "大洗 茨城県",
+  "localityWords": [
+   "大洗サンビーチ",
+   "アクアワールド大洗",
+   "東茨城郡大洗",
+   "大洗磯前神社",
+   "大洗",
+   "茨城"
+  ],
+  "firstSpot": "大洗磯前神社"
+ },
+ {
+  "id": "takashima-shiga",
+  "name": "高島",
+  "prefecture": "滋賀県",
+  "imageQuery": "高島 滋賀県",
+  "localityWords": [
+   "高島",
+   "メタセコイア並木",
+   "白鬚神社",
+   "海津大崎",
+   "滋賀"
+  ],
+  "firstSpot": "白鬚神社"
+ },
+ {
+  "id": "niimi",
+  "name": "新見",
+  "prefecture": "岡山県",
+  "imageQuery": "新見 岡山県",
+  "localityWords": [
+   "岡山",
+   "満奇洞",
+   "井倉洞",
+   "新見",
+   "哲西きらめき広場"
+  ],
+  "firstSpot": "満奇洞"
+ },
+ {
+  "id": "tsuruoka-kinzan",
+  "name": "金山町",
+  "prefecture": "山形県",
+  "imageQuery": "金山町 山形県",
+  "localityWords": [
+   "金山の景観（重文化財）",
+   "金山",
+   "金山温泉",
+   "山形",
+   "金山杉森",
+   "最上郡金山"
+  ],
+  "firstSpot": "金山の景観（重文化財）"
+ },
+ {
+  "id": "nachikatsuura",
+  "name": "那智勝浦",
+  "prefecture": "和歌山県",
+  "imageQuery": "那智勝浦 和歌山県",
+  "localityWords": [
+   "和歌山",
+   "那智勝浦",
+   "那智黒砂",
+   "那智の大滝",
+   "熊野那智大社",
+   "東牟婁郡那智勝浦"
+  ],
+  "firstSpot": "那智の大滝"
+ },
+ {
+  "id": "hachimantai",
+  "name": "八幡平",
+  "prefecture": "岩手県",
+  "imageQuery": "八幡平 岩手県",
+  "localityWords": [
+   "八幡平",
+   "藤七温泉",
+   "岩手",
+   "八幡平頂上",
+   "松川温泉"
+  ],
+  "firstSpot": "八幡平頂上"
+ },
+ {
+  "id": "usuki",
+  "name": "臼杵",
+  "prefecture": "大分県",
+  "imageQuery": "臼杵 大分県",
+  "localityWords": [
+   "臼杵",
+   "大分",
+   "臼杵石仏（国宝）",
+   "サーラ・デ・うすき",
+   "二王座歴史の道"
+  ],
+  "firstSpot": "臼杵石仏（国宝）"
+ },
+ {
+  "id": "kitsuki",
+  "name": "杵築",
+  "prefecture": "大分県",
+  "imageQuery": "杵築 大分県",
+  "localityWords": [
+   "勘定場の坂",
+   "大分",
+   "杵築",
+   "大原邸",
+   "杵築城"
+  ],
+  "firstSpot": "杵築城"
+ },
+ {
+  "id": "tsuyama",
+  "name": "津山",
+  "prefecture": "岡山県",
+  "imageQuery": "津山 岡山県",
+  "localityWords": [
+   "岡山",
+   "津山",
+   "津山城（鶴山公園）",
+   "衆楽園",
+   "出雲街道"
+  ],
+  "firstSpot": "津山城（鶴山公園）"
+ },
+ {
+  "id": "murakami",
+  "name": "村上",
+  "prefecture": "新潟県",
+  "imageQuery": "村上 新潟県",
+  "localityWords": [
+   "城下町村上町屋",
+   "村上城跡",
+   "上城跡",
+   "新潟",
+   "千年鮭きっかわ"
+  ],
+  "firstSpot": "村上城跡"
+ },
+ {
+  "id": "kasama",
+  "name": "笠間",
+  "prefecture": "茨城県",
+  "imageQuery": "笠間 茨城県",
+  "localityWords": [
+   "笠間稲荷神社",
+   "笠間",
+   "笠間芸術の森公園",
+   "陶炎祭",
+   "茨城"
+  ],
+  "firstSpot": "笠間稲荷神社"
+ },
+ {
+  "id": "mihara",
+  "name": "三原",
+  "prefecture": "広島県",
+  "imageQuery": "三原 広島県",
+  "localityWords": [
+   "さんはら観光農園",
+   "三原城跡",
+   "聖湖",
+   "三原",
+   "広島"
+  ],
+  "firstSpot": "三原城跡"
+ },
+ {
+  "id": "rikuzentakata",
+  "name": "陸前高田",
+  "prefecture": "岩手県",
+  "imageQuery": "陸前高田 岩手県",
+  "localityWords": [
+   "岩手",
+   "奇跡の一本松",
+   "高田松原",
+   "東日本大震災津波伝承館",
+   "陸前高田"
+  ],
+  "firstSpot": "奇跡の一本松"
+ },
+ {
+  "id": "koka",
+  "name": "甲賀",
+  "prefecture": "滋賀県",
+  "imageQuery": "甲賀 滋賀県",
+  "localityWords": [
+   "水口城跡",
+   "甲賀流忍術屋敷",
+   "甲賀",
+   "MIHO MUSEUM（近郊）",
+   "滋賀"
+  ],
+  "firstSpot": "甲賀流忍術屋敷"
+ },
+ {
+  "id": "higashihiroshima",
+  "name": "東広島",
+  "prefecture": "広島県",
+  "imageQuery": "東広島 広島県",
+  "localityWords": [
+   "賀茂鶴酒造",
+   "広島",
+   "東広島",
+   "白市の酒蔵",
+   "西条酒蔵通り"
+  ],
+  "firstSpot": "西条酒蔵通り"
+ },
+ {
+  "id": "joetsu",
+  "name": "上越",
+  "prefecture": "新潟県",
+  "imageQuery": "上越 新潟県",
+  "localityWords": [
+   "高田城址公園",
+   "上越",
+   "新潟",
+   "直江津港",
+   "春日山城跡"
+  ],
+  "firstSpot": "春日山城跡"
+ },
+ {
+  "id": "shinjou",
+  "name": "新庄",
+  "prefecture": "山形県",
+  "imageQuery": "新庄 山形県",
+  "localityWords": [
+   "最上公園",
+   "新庄城跡",
+   "新庄",
+   "新庄まつり",
+   "山形"
+  ],
+  "firstSpot": "新庄まつり"
+ },
+ {
+  "id": "miyoshi-hiroshima",
+  "name": "三次",
+  "prefecture": "広島県",
+  "imageQuery": "三次 広島県",
+  "localityWords": [
+   "霧の海展望台",
+   "みよし風土記の丘",
+   "三次ワイナリー",
+   "広島",
+   "三次"
+  ],
+  "firstSpot": "霧の海展望台"
+ },
+ {
+  "id": "yatsushiro",
+  "name": "八代",
+  "prefecture": "熊本県",
+  "imageQuery": "八代 熊本県",
+  "localityWords": [
+   "八代城跡",
+   "八代",
+   "熊本",
+   "球磨川",
+   "八代神社（妙見宮）"
+  ],
+  "firstSpot": "八代城跡"
+ },
+ {
+  "id": "iga-ueno",
+  "name": "伊賀上野",
+  "prefecture": "三重県",
+  "imageQuery": "伊賀上野 三重県",
+  "localityWords": [
+   "伊賀",
+   "三重",
+   "伊賀流忍者博物館",
+   "芭蕉翁記念館",
+   "伊賀上野",
+   "伊賀上野城"
+  ],
+  "firstSpot": "伊賀流忍者博物館"
+ },
+ {
+  "id": "tsuchiura",
+  "name": "土浦",
+  "prefecture": "茨城県",
+  "imageQuery": "土浦 茨城県",
+  "localityWords": [
+   "土浦城跡（亀城公園）",
+   "霞ヶ浦サイクリングロード",
+   "土浦",
+   "土浦花火大会",
+   "茨城"
+  ],
+  "firstSpot": "霞ヶ浦サイクリングロード"
+ },
+ {
+  "id": "hakuba",
+  "name": "白馬",
+  "prefecture": "長野県",
+  "imageQuery": "白馬 長野県",
+  "localityWords": [
+   "長野",
+   "白馬大雪渓",
+   "白馬",
+   "岩岳",
+   "八方尾根"
+  ],
+  "firstSpot": "八方尾根"
+ },
+ {
+  "id": "ainan",
+  "name": "愛南",
+  "prefecture": "愛媛県",
+  "imageQuery": "愛南 愛媛県",
+  "localityWords": [
+   "愛媛",
+   "内海",
+   "一本松温泉あけぼの荘",
+   "正木海岸",
+   "愛媛愛南",
+   "愛南"
+  ],
+  "firstSpot": "一本松温泉あけぼの荘"
+ },
+ {
+  "id": "kisakata",
+  "name": "象潟",
+  "prefecture": "秋田県",
+  "imageQuery": "象潟 秋田県",
+  "localityWords": [
+   "九十九島展望台",
+   "秋田",
+   "蚶満寺",
+   "にかほ",
+   "象潟",
+   "鳥海山展望"
+  ],
+  "firstSpot": "蚶満寺"
+ },
+ {
+  "id": "yura-wakayama",
+  "name": "由良",
+  "prefecture": "和歌山県",
+  "imageQuery": "由良 和歌山県",
+  "localityWords": [
+   "和歌山",
+   "蘭島閣美術館",
+   "白崎海洋公園",
+   "白崎海岸",
+   "由良",
+   "日高郡由良"
+  ],
+  "firstSpot": "白崎海洋公園"
+ },
+ {
+  "id": "yaizu",
+  "name": "焼津",
+  "prefecture": "静岡県",
+  "imageQuery": "焼津 静岡県",
+  "localityWords": [
+   "焼津",
+   "静岡",
+   "焼津神社",
+   "焼津さかなセンター",
+   "大崩海岸"
+  ],
+  "firstSpot": "焼津さかなセンター"
+ },
+ {
+  "id": "tsunan",
+  "name": "津南",
+  "prefecture": "新潟県",
+  "imageQuery": "津南 新潟県",
+  "localityWords": [
+   "なじょもん縄文の里",
+   "津南",
+   "中魚沼郡津南",
+   "津南棚田",
+   "ひまわり広場（7月下旬）",
+   "新潟"
+  ],
+  "firstSpot": "ひまわり広場（7月下旬）"
+ },
+ {
+  "id": "chokai-san",
+  "name": "鳥海山",
+  "prefecture": "秋田県",
+  "imageQuery": "鳥海山 秋田県",
+  "localityWords": [
+   "秋田",
+   "鉾立展望台",
+   "胴腹滝",
+   "鳥海山頂",
+   "山形飽海郡遊佐",
+   "酒田",
+   "鳥海山"
+  ],
+  "firstSpot": "鳥海山頂"
+ },
+ {
+  "id": "nyukasa",
+  "name": "入笠山",
+  "prefecture": "長野県",
+  "imageQuery": "入笠山 長野県",
+  "localityWords": [
+   "長野",
+   "長野伊那",
+   "入笠山",
+   "富士見",
+   "すずらん群生地",
+   "大阿原湿原",
+   "入笠山頂"
+  ],
+  "firstSpot": "入笠山頂"
+ },
+ {
+  "id": "uchiko",
+  "name": "内子",
+  "prefecture": "愛媛県",
+  "imageQuery": "内子 愛媛県",
+  "localityWords": [
+   "愛媛",
+   "八日市護国町並み",
+   "木蝋資料館",
+   "内子",
+   "内子座"
+  ],
+  "firstSpot": "内子座"
+ },
+ {
+  "id": "echizen",
+  "name": "越前",
+  "prefecture": "福井県",
+  "imageQuery": "越前 福井県",
+  "localityWords": [
+   "越前温泉 越前岬",
+   "福井",
+   "越前海岸（水仙）",
+   "越前和紙の里",
+   "越前岬",
+   "越前"
+  ],
+  "firstSpot": "越前海岸（水仙）"
+ },
+ {
+  "id": "iga",
+  "name": "伊賀",
+  "prefecture": "三重県",
+  "imageQuery": "伊賀 三重県",
+  "localityWords": [
+   "伊賀",
+   "三重伊賀",
+   "三重",
+   "伊賀流忍者博物館",
+   "俳聖殿",
+   "伊賀上野",
+   "伊賀上野城"
+  ],
+  "firstSpot": "伊賀流忍者博物館"
+ },
+ {
+  "id": "kamaishi",
+  "name": "釜石",
+  "prefecture": "岩手県",
+  "imageQuery": "釜石 岩手県",
+  "localityWords": [
+   "根浜海岸",
+   "岩手",
+   "釜石",
+   "橋野鉄鉱山",
+   "釜石大観音"
+  ],
+  "firstSpot": "根浜海岸"
+ },
+ {
+  "id": "ono-fukui",
+  "name": "越前大野",
+  "prefecture": "福井県",
+  "imageQuery": "越前大野 福井県",
+  "localityWords": [
+   "越前大野",
+   "福井",
+   "大野",
+   "勝山恐竜博物館（近隣）",
+   "本町通り湧水群",
+   "越前大野城"
+  ],
+  "firstSpot": "越前大野城"
+ },
+ {
+  "id": "isawa-onsen",
+  "name": "石和温泉",
+  "prefecture": "山梨県",
+  "imageQuery": "石和温泉 山梨県",
+  "localityWords": [
+   "笛吹川",
+   "石和温泉街",
+   "ぶどう畑",
+   "山梨",
+   "石和温泉",
+   "笛吹"
+  ],
+  "firstSpot": "石和温泉街"
+ },
+ {
+  "id": "arita",
+  "name": "有田",
+  "prefecture": "佐賀県",
+  "imageQuery": "有田 佐賀県",
+  "localityWords": [
+   "トンバイ塀の裏通り",
+   "泉山磁石場",
+   "有田陶磁美術館",
+   "佐賀",
+   "有田"
+  ],
+  "firstSpot": "有田陶磁美術館"
+ },
+ {
+  "id": "chizu",
+  "name": "智頭",
+  "prefecture": "鳥取県",
+  "imageQuery": "智頭 鳥取県",
+  "localityWords": [
+   "智頭宿",
+   "智頭",
+   "鳥取",
+   "石谷家住宅",
+   "板井原集落"
+  ],
+  "firstSpot": "石谷家住宅"
+ },
+ {
+  "id": "kashiwara-wine",
+  "name": "柏原",
+  "prefecture": "大阪府",
+  "imageQuery": "柏原 大阪府",
+  "localityWords": [
+   "大阪",
+   "玉手山公園",
+   "大和川沿いのぶどう畑",
+   "柏原",
+   "カタシモワイナリー"
+  ],
+  "firstSpot": "カタシモワイナリー"
+ },
+ {
+  "id": "tsubamesanjo",
+  "name": "燕三条",
+  "prefecture": "新潟県",
+  "imageQuery": "燕三条 新潟県",
+  "localityWords": [
+   "スノーピーク本社",
+   "三条",
+   "三条鍛冶道場",
+   "新潟",
+   "燕市産業史料館",
+   "燕三条"
+  ],
+  "firstSpot": "三条鍛冶道場"
+ },
+ {
+  "id": "ikuno",
+  "name": "生野",
+  "prefecture": "兵庫県",
+  "imageQuery": "生野 兵庫県",
+  "localityWords": [
+   "生野",
+   "生野銀山湖",
+   "朝来",
+   "兵庫",
+   "生野銀山",
+   "口銀谷の街並み"
+  ],
+  "firstSpot": "生野銀山"
+ },
+ {
+  "id": "fuchu-hiroshima",
+  "name": "府中",
+  "prefecture": "広島県",
+  "imageQuery": "府中 広島県",
+  "localityWords": [
+   "府中市上下町",
+   "備後府中駅周辺",
+   "雄橋",
+   "中上下",
+   "広島"
+  ],
+  "firstSpot": "府中市上下町"
+ },
+ {
+  "id": "mitoyo",
+  "name": "三豊",
+  "prefecture": "香川県",
+  "imageQuery": "三豊 香川県",
+  "localityWords": [
+   "父母ヶ浜",
+   "三豊",
+   "紫雲出山",
+   "荘内半島",
+   "香川"
+  ],
+  "firstSpot": "父母ヶ浜"
+ },
+ {
+  "id": "sozogi",
+  "name": "曽々木海岸",
+  "prefecture": "石川県",
+  "imageQuery": "曽々木海岸 石川県",
+  "localityWords": [
+   "石川",
+   "輪島",
+   "千畳敷",
+   "窓岩",
+   "石川輪島西保地区",
+   "曽々木海岸"
+  ],
+  "firstSpot": "窓岩"
+ },
+ {
+  "id": "nakanoshima-oki",
+  "name": "中ノ島",
+  "prefecture": "島根県",
+  "imageQuery": "中ノ島 島根県",
+  "localityWords": [
+   "中ノ島",
+   "島根",
+   "宇受賀命神社",
+   "後鳥羽天皇御火葬塚",
+   "明屋海岸"
+  ],
+  "firstSpot": "後鳥羽天皇御火葬塚"
+ },
+ {
+  "id": "iwaishima",
+  "name": "祝島",
+  "prefecture": "山口県",
+  "imageQuery": "祝島 山口県",
+  "localityWords": [
+   "練塀の集落",
+   "山口",
+   "平さと",
+   "神舞神事",
+   "祝島"
+  ],
+  "firstSpot": "練塀の集落"
+ },
+ {
+  "id": "ogose",
+  "name": "越生",
+  "prefecture": "埼玉県",
+  "imageQuery": "越生 埼玉県",
+  "localityWords": [
+   "越生",
+   "黒山三滝",
+   "五大尊",
+   "越生梅林",
+   "越生 川越",
+   "埼玉"
+  ],
+  "firstSpot": "越生梅林"
+ },
+ {
+  "id": "takatsuki",
+  "name": "高槻",
+  "prefecture": "大阪府",
+  "imageQuery": "高槻 大阪府",
+  "localityWords": [
+   "高槻",
+   "大阪",
+   "今城塚古墳",
+   "高槻ジャズストリート",
+   "摂津峡"
+  ],
+  "firstSpot": "今城塚古墳"
+ },
+ {
+  "id": "noto-kiriko",
+  "name": "奥能登",
+  "prefecture": "石川県",
+  "imageQuery": "奥能登 石川県",
+  "localityWords": [
+   "石川",
+   "白米千枚田",
+   "見附島",
+   "禄剛崎",
+   "輪島 珠洲",
+   "奥能登"
+  ],
+  "firstSpot": "白米千枚田"
+ },
+ {
+  "id": "kumano-kodo",
+  "name": "熊野古道",
+  "prefecture": "和歌山県",
+  "imageQuery": "熊野古道 和歌山県",
+  "localityWords": [
+   "熊野古道",
+   "熊野本宮大社",
+   "和歌山",
+   "熊野 田辺",
+   "熊野速玉大社",
+   "大門坂"
+  ],
+  "firstSpot": "熊野本宮大社"
+ },
+ {
+  "id": "okayama-city",
+  "name": "岡山",
+  "prefecture": "岡山県",
+  "imageQuery": "岡山 岡山県",
+  "localityWords": [
+   "岡山",
+   "後楽園",
+   "岡山桃太郎大通り",
+   "岡山城"
+  ],
+  "firstSpot": "岡山城"
+ },
+ {
+  "id": "akiyoshido",
+  "name": "秋芳洞",
+  "prefecture": "山口県",
+  "imageQuery": "秋芳洞 山口県",
+  "localityWords": [
+   "大正洞",
+   "山口",
+   "秋芳洞 美祢",
+   "秋芳洞",
+   "秋吉台"
+  ],
+  "firstSpot": "秋芳洞"
+ },
+ {
+  "id": "kagoshima-city",
+  "name": "鹿児島",
+  "prefecture": "鹿児島県",
+  "imageQuery": "鹿児島 鹿児島県",
+  "localityWords": [
+   "西郷隆盛銅像",
+   "鹿児島中央駅",
+   "鹿児島",
+   "仙厳園"
+  ],
+  "firstSpot": "仙厳園"
+ },
+ {
+  "id": "mt-fuji-fifth",
+  "name": "富士山五合目",
+  "prefecture": "山梨県",
+  "imageQuery": "富士山五合目 山梨県",
+  "localityWords": [
+   "富士スバルライン五合目",
+   "奥庭",
+   "富士河口湖",
+   "御中道",
+   "富士山五合目",
+   "山梨"
+  ],
+  "firstSpot": "富士スバルライン五合目"
+ },
+ {
+  "id": "saiko",
+  "name": "西湖",
+  "prefecture": "山梨県",
+  "imageQuery": "西湖 山梨県",
+  "localityWords": [
+   "西湖",
+   "西湖いやしの里根場",
+   "西湖 富士河口湖",
+   "野鳥の森公園",
+   "山梨"
+  ],
+  "firstSpot": "西湖"
+ },
+ {
+  "id": "nakasu",
+  "name": "中洲屋台",
+  "prefecture": "福岡県",
+  "imageQuery": "中洲屋台 福岡県",
+  "localityWords": [
+   "中洲屋台",
+   "櫛田神社",
+   "中洲 博多",
+   "福岡",
+   "水鏡天満宮"
+  ],
+  "firstSpot": "中洲屋台"
+ },
+ {
+  "id": "senri",
+  "name": "万博記念公園",
+  "prefecture": "大阪府",
+  "imageQuery": "万博記念公園 大阪府",
+  "localityWords": [
+   "大阪",
+   "エキスポシティ",
+   "EXPO 70パビリオン",
+   "太陽の塔",
+   "万博記念公園",
+   "万博公園 千里",
+   "日本庭園"
+  ],
+  "firstSpot": "太陽の塔"
+ },
+ {
+  "id": "zushi",
+  "name": "逗子",
+  "prefecture": "神奈川県",
+  "imageQuery": "逗子 神奈川県",
+  "localityWords": [
+   "逗子海岸",
+   "披露山公園",
+   "神奈川",
+   "逗子",
+   "久木の海"
+  ],
+  "firstSpot": "披露山公園"
+ },
+ {
+  "id": "biwako",
+  "name": "琵琶湖",
+  "prefecture": "滋賀県",
+  "imageQuery": "琵琶湖 滋賀県",
+  "localityWords": [
+   "大津 滋賀",
+   "琵琶湖大橋",
+   "琵琶湖",
+   "滋賀",
+   "竹生島"
+  ],
+  "firstSpot": "琵琶湖"
+ },
+ {
+  "id": "nabari",
+  "name": "名張",
+  "prefecture": "三重県",
+  "imageQuery": "名張 三重県",
+  "localityWords": [
+   "名張藤堂家邸跡",
+   "三重",
+   "赤目四十八滝",
+   "青蓮寺湖",
+   "名張"
+  ],
+  "firstSpot": "赤目四十八滝"
+ },
+ {
+  "id": "yamaguchi-city",
+  "name": "山口市",
+  "prefecture": "山口県",
+  "imageQuery": "山口市 山口県",
+  "localityWords": [
+   "山口",
+   "常栄寺雪舟庭",
+   "SLやまぐち号",
+   "瑠璃光寺五重塔",
+   "山口 湯田温泉"
+  ],
+  "firstSpot": "瑠璃光寺五重塔"
+ },
+ {
+  "id": "mt-yatsugatake",
+  "name": "蓼科高原",
+  "prefecture": "長野県",
+  "imageQuery": "蓼科高原 長野県",
+  "localityWords": [
+   "女神湖",
+   "長野",
+   "蓼科高原",
+   "蓼科 茅野",
+   "蓼科",
+   "白樺湖"
+  ],
+  "firstSpot": "蓼科"
+ },
+ {
+  "id": "akita-yokote",
+  "name": "横手",
+  "prefecture": "秋田県",
+  "imageQuery": "横手 秋田県",
+  "localityWords": [
+   "後三年の合戦遺跡",
+   "横手",
+   "秋田",
+   "秋田ふるさと村",
+   "横手かまくら"
+  ],
+  "firstSpot": "横手かまくら"
+ },
+ {
+  "id": "shizu-shimizu",
+  "name": "清水",
+  "prefecture": "静岡県",
+  "imageQuery": "清水 静岡県",
+  "localityWords": [
+   "清水 静岡",
+   "清水",
+   "久能山東照宮",
+   "日本平",
+   "静岡",
+   "清水港"
+  ],
+  "firstSpot": "日本平"
+ },
+ {
+  "id": "fukushima-aizu-2",
+  "name": "塔のへつり",
+  "prefecture": "福島県",
+  "imageQuery": "塔のへつり 福島県",
+  "localityWords": [
+   "福島",
+   "塔のへつり",
+   "大川渓谷",
+   "奇岩",
+   "会津若松"
+  ],
+  "firstSpot": "塔のへつり"
+ },
+ {
+  "id": "miyagi-matsushima-2",
+  "name": "塩釜",
+  "prefecture": "宮城県",
+  "imageQuery": "塩釜 宮城県",
+  "localityWords": [
+   "塩釜",
+   "寿司",
+   "塩釜港",
+   "塩釜神社",
+   "宮城"
+  ],
+  "firstSpot": "塩釜神社"
+ },
+ {
+  "id": "anan",
+  "name": "阿南",
+  "prefecture": "徳島県",
+  "imageQuery": "阿南 徳島県",
+  "localityWords": [
+   "阿南",
+   "薬王寺",
+   "徳島",
+   "大浜海岸（アカウミガメ産卵地）",
+   "日和佐うみがめ博物館"
+  ],
+  "firstSpot": "大浜海岸（アカウミガメ産卵地）"
+ },
+ {
+  "id": "higashine",
+  "name": "東根",
+  "prefecture": "山形県",
+  "imageQuery": "東根 山形県",
+  "localityWords": [
+   "東根温泉",
+   "大けやき公園",
+   "さくらんぼ狩り農園",
+   "山形",
+   "東根"
+  ],
+  "firstSpot": "東根温泉"
+ },
+ {
+  "id": "tomakomai",
+  "name": "苫小牧",
+  "prefecture": "北海道",
+  "imageQuery": "苫小牧 北海道",
+  "localityWords": [
+   "ウトナイ湖野生鳥獣保護センター",
+   "二風谷ファミリーランド",
+   "ノーザンホースパーク",
+   "苫小牧ホッキ貝",
+   "苫小牧",
+   "北海道",
+   "北海道博物館（近郊）",
+   "日高山岳ビラパーク"
+  ],
+  "firstSpot": "ウトナイ湖野生鳥獣保護センター"
+ },
+ {
+  "id": "tendou",
+  "name": "天童",
+  "prefecture": "山形県",
+  "imageQuery": "天童 山形県",
+  "localityWords": [
+   "天童温泉",
+   "舞鶴山公園（人間将棋）",
+   "天童市将棋資料館",
+   "天童",
+   "山形"
+  ],
+  "firstSpot": "舞鶴山公園（人間将棋）"
+ },
+ {
+  "id": "hokkaido-asahikawa",
+  "name": "旭川",
+  "prefecture": "北海道",
+  "imageQuery": "旭川 北海道",
+  "localityWords": [
+   "旭山動物園",
+   "旭川ラーメン村",
+   "北海道",
+   "旭川",
+   "上野ファーム"
+  ],
+  "firstSpot": "旭山動物園"
+ },
+ {
+  "id": "niseko",
+  "name": "ニセコ",
+  "prefecture": "北海道",
+  "imageQuery": "ニセコ 北海道",
+  "localityWords": [
+   "グラン・ヒラフ",
+   "昆布温泉",
+   "ニセコ",
+   "北海道",
+   "ニセコアンヌプリ",
+   "倶知安"
+  ],
+  "firstSpot": "グラン・ヒラフ"
+ },
+ {
+  "id": "sakai",
+  "name": "堺",
+  "prefecture": "大阪府",
+  "imageQuery": "堺 大阪府",
+  "localityWords": [
+   "大阪",
+   "南宗寺",
+   "仁徳天皇陵古墳",
+   "堺市博物館"
+  ],
+  "firstSpot": "仁徳天皇陵古墳"
+ },
+ {
+  "id": "tajimi",
+  "name": "多治見",
+  "prefecture": "岐阜県",
+  "imageQuery": "多治見 岐阜県",
+  "localityWords": [
+   "虎渓山永保寺",
+   "多治見",
+   "多治見市モザイクタイルミュージアム",
+   "本オリベストリート",
+   "本町オリベストリート",
+   "岐阜"
+  ],
+  "firstSpot": "本町オリベストリート"
+ },
+ {
+  "id": "akashi",
+  "name": "明石",
+  "prefecture": "兵庫県",
+  "imageQuery": "明石 兵庫県",
+  "localityWords": [
+   "明石立天文科学館",
+   "明石市立天文科学館",
+   "兵庫",
+   "明石城跡",
+   "魚の棚商店街",
+   "明石"
+  ],
+  "firstSpot": "明石市立天文科学館"
+ },
+ {
+  "id": "toyota-city",
+  "name": "豊田",
+  "prefecture": "愛知県",
+  "imageQuery": "豊田 愛知県",
+  "localityWords": [
+   "香嵐渓（足助）",
+   "足助城",
+   "トヨタ会館",
+   "愛知",
+   "豊田"
+  ],
+  "firstSpot": "香嵐渓（足助）"
+ },
+ {
+  "id": "obihiro",
+  "name": "帯広",
+  "prefecture": "北海道",
+  "imageQuery": "帯広 北海道",
+  "localityWords": [
+   "帯広",
+   "北海道",
+   "サンタプレゼントパーク",
+   "幸福駅",
+   "十勝牧場",
+   "サホロリゾート",
+   "帯広競馬場（ばんえい競馬）"
+  ],
+  "firstSpot": "十勝牧場"
+ },
+ {
+  "id": "toyohashi",
+  "name": "豊橋",
+  "prefecture": "愛知県",
+  "imageQuery": "豊橋 愛知県",
+  "localityWords": [
+   "豊橋公園",
+   "豊橋",
+   "豊川稲荷（近郊）",
+   "愛知",
+   "吉田城"
+  ],
+  "firstSpot": "豊川稲荷（近郊）"
+ }
+]
