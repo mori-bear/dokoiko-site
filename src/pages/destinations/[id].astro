@@ -764,6 +764,17 @@ const hubCity = _destHubCity && _destHubCity !== dest.name
     box-shadow: 0 2px 12px rgba(0,0,0,0.08);
   }
   .spot-content { width: 100%; }
+  /* 画像の下に小さく著作者を出す。読み物の邪魔にならない大きさに留める。 */
+  .spot-figure { margin: 0; }
+  .spot-credit {
+    margin-top: 6px;
+    font-size: 10px;
+    line-height: 1.6;
+    color: #b0b0b0;
+    letter-spacing: 0.03em;
+    word-break: break-word;
+  }
+  .spot-credit a { color: #b0b0b0; text-decoration: underline; }
   @media (min-width: 720px) {
     .spot-thumb { height: 260px; }
   }
@@ -1595,12 +1606,26 @@ const hubCity = _destHubCity && _destHubCity !== dest.name
             (typeof s === 'object' && s.name && (sectionTitle.includes(s.name) || s.name.includes(sectionTitle)))
           );
           const spotImg = matchSpot?.imageUrl;
+          // 画像を借りてきた以上、CC BY / CC BY-SA は著作者表示が要る（下の分岐と同じ扱い）。
+          const msc = matchSpot?.imageCredit || null;
+          const spotImgCredit = (spotImg && msc && msc.attributionRequired !== false
+            && (msc.author || msc.license)) ? msc : null;
           return (
             <div class="spot-section">
               <span class="spot-num">{String(i + 1).padStart(2, '0')}</span>
               <div class={spotImg ? 'spot-with-img' : ''}>
                 {spotImg && (
-                  <img class="spot-thumb" src={spotImg} alt={`${dest.name}の${sectionTitle}`} loading="lazy" onerror="this.style.display='none'" />
+                  <figure class="spot-figure">
+                    <img class="spot-thumb" src={spotImg} alt={`${dest.name}の${sectionTitle}`} loading="lazy" onerror="this.style.display='none'" />
+                    {spotImgCredit && (
+                      <figcaption class="spot-credit">
+                        {spotImgCredit.url
+                          ? <a href={spotImgCredit.url} target="_blank" rel="noopener noreferrer">{spotImgCredit.author || '作者不明'}</a>
+                          : (spotImgCredit.author || '作者不明')}
+                        {spotImgCredit.license ? ` / ${spotImgCredit.license}` : ''}
+                      </figcaption>
+                    )}
+                  </figure>
                 )}
                 <div class="spot-content">
                   <h3 class="spot-title">{sectionTitle}</h3>
@@ -1624,12 +1649,29 @@ const hubCity = _destHubCity && _destHubCity !== dest.name
           const name = typeof spot === 'string' ? spot : spot.name;
           const imageUrl = typeof spot === 'object' ? spot.imageUrl : null;
           const spotDesc = typeof spot === 'object' ? spot.description : null;
+          // spot画像はほとんどが Wikimedia Commons 由来で、CC BY / CC BY-SA は
+          // 著作者表示が条件になっている。データには imageCredit が入っていたのに
+          // 描画されておらず、表示義務を満たしていなかったのでここで出す。
+          // CC0・パブリックドメインは義務が無いので出さない。
+          const sc = (typeof spot === 'object' && spot.imageCredit) || null;
+          const spotCredit = (imageUrl && sc && sc.attributionRequired !== false
+            && (sc.author || sc.license)) ? sc : null;
           return (
             <div class="spot-section">
               <span class="spot-num">{String(i + 1).padStart(2, '0')}</span>
               <div class={imageUrl ? 'spot-with-img' : ''}>
                 {imageUrl && (
-                  <img class="spot-thumb" src={imageUrl} alt={`${dest.name}の${name}`} loading="lazy" onerror="this.style.display='none'" />
+                  <figure class="spot-figure">
+                    <img class="spot-thumb" src={imageUrl} alt={`${dest.name}の${name}`} loading="lazy" onerror="this.style.display='none'" />
+                    {spotCredit && (
+                      <figcaption class="spot-credit">
+                        {spotCredit.url
+                          ? <a href={spotCredit.url} target="_blank" rel="noopener noreferrer">{spotCredit.author || '作者不明'}</a>
+                          : (spotCredit.author || '作者不明')}
+                        {spotCredit.license ? ` / ${spotCredit.license}` : ''}
+                      </figcaption>
+                    )}
+                  </figure>
                 )}
                 <div class="spot-content">
                   <h3 class="spot-title">{name}</h3>

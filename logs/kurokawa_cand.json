@@ -1,0 +1,316 @@
+[
+  {
+    "n": 1,
+    "title": "File:Kurokawa onsen 001.JPG",
+    "file": "logs/kurokawa_cand/01.jpg",
+    "w": 2592,
+    "h": 1944,
+    "license": "CC BY-SA 3.0",
+    "author": "No machine-readable author provided. Yosemite~commonswiki assumed (based on copyright claims).",
+    "descurl": "https://commons.wikimedia.org/wiki/File:Kurokawa_onsen_001.JPG",
+    "desc": "Photo by Yosemite 11:44, 25 November 2005 (UTC). Kurokawa is Onsen in Japan.",
+    "haiku": {
+      "verdict": "ok",
+      "identifiable": true,
+      "subject": "黒川温泉の温泉旅館群と山々に囲まれた集落景観",
+      "reason": "黒川温泉の特徴的な木造旅館建築、阿蘇山系の山並み、谷間の立地が見て取れます"
+    },
+    "sonnet": null,
+    "verdict": "ok",
+    "identifiable": true,
+    "subject": "黒川温泉の温泉旅館群と山々に囲まれた集落景観"
+  },
+  {
+    "n": 2,
+    "title": "File:Kurokawa-onsen.jpg",
+    "file": "logs/kurokawa_cand/02.jpg",
+    "w": 4000,
+    "h": 3000,
+    "license": "CC BY-SA 3.0",
+    "author": "Igorberger",
+    "descurl": "https://commons.wikimedia.org/wiki/File:Kurokawa-onsen.jpg",
+    "desc": "Kurokawa onsen rotenburo in Kyushu, Japan.",
+    "haiku": {
+      "verdict": "ok",
+      "identifiable": true,
+      "subject": "茅葺き屋根の湯小屋と青湯。川沿いの温泉施設",
+      "reason": "黒川温泉の特徴的な湯小屋建築、青白い湯色、自然石、茅葺き屋根が確認でき、この温泉地の典型的な風情を表現している"
+    },
+    "sonnet": null,
+    "verdict": "ok",
+    "identifiable": true,
+    "subject": "茅葺き屋根の湯小屋と青湯。川沿いの温泉施設"
+  },
+  {
+    "n": 3,
+    "title": "File:Yumotosō -Kurokawa Onsen.jpg",
+    "file": "logs/kurokawa_cand/03.jpg",
+    "w": 1600,
+    "h": 1200,
+    "license": "CC BY 2.0",
+    "author": "Hans Suter from Milano, Italia",
+    "descurl": "https://commons.wikimedia.org/wiki/File:Yumotos%C5%8D_-Kurokawa_Onsen.jpg",
+    "desc": "Ryokan Yumotosō of Kurokawa Onsen .",
+    "haiku": {
+      "verdict": "ng",
+      "identifiable": false,
+      "subject": "夜間の提灯に書かれた漢字と館号",
+      "reason": "極端に暗く、黒川温泉特定の手がかりがない。屋外撮影だが場所が特定できない。"
+    },
+    "sonnet": {
+      "verdict": "ng",
+      "identifiable": true,
+      "subject": "旅館「湯なび荘」と書かれた行灯",
+      "reason": "文字・ロゴの焼き込みに該当し、暗闇で行灯のみの構図は旅先の景観を伝えない"
+    },
+    "verdict": "ng",
+    "identifiable": true,
+    "subject": "旅館「湯なび荘」と書かれた行灯"
+  },
+  {
+    "n": 4,
+    "title": "File:Ikoi ryokan -Kurokawa Onsen.jpg",
+    "file": "logs/kurokawa_cand/04.jpg",
+    "w": 1600,
+    "h": 1200,
+    "license": "CC BY 2.0",
+    "author": "Hans Suter",
+    "descurl": "https://commons.wikimedia.org/wiki/File:Ikoi_ryokan_-Kurokawa_Onsen.jpg",
+    "desc": "Ikoi Ryokan at Kurokawa Onsen",
+    "haiku": {
+      "verdict": "ok",
+      "identifiable": true,
+      "subject": "夜間の温泉街の風情ある路地と提灯、木造建築",
+      "reason": "黒川温泉の特徴的な夜景。提灯、石畳、木造湯屋建築が写っており、温泉地として識別可能。"
+    },
+    "sonnet": null,
+    "verdict": "ok",
+    "identifiable": true,
+    "subject": "夜間の温泉街の風情ある路地と提灯、木造建築"
+  },
+  {
+    "n": 5,
+    "title": "File:Street in Kurokawa Onsen.jpg",
+    "file": "logs/kurokawa_cand/05.jpg",
+    "w": 3264,
+    "h": 2448,
+    "license": "CC BY-SA 4.0",
+    "author": "Tzu-hsun, Hsu",
+    "descurl": "https://commons.wikimedia.org/wiki/File:Street_in_Kurokawa_Onsen.jpg",
+    "desc": "Street and MaruRin-Bridge in Kurokawa Onsen",
+    "haiku": {
+      "verdict": "ok",
+      "identifiable": true,
+      "subject": "黒川温泉の代表的な湯宿建築と橋、秋の山々に囲まれた風景",
+      "reason": "温泉旅館の特徴的な木造建築、渓流に架かる橋、黒川温泉独特の景観が明確に写っている"
+    },
+    "sonnet": null,
+    "verdict": "ok",
+    "identifiable": true,
+    "subject": "黒川温泉の代表的な湯宿建築と橋、秋の山々に囲まれた風景"
+  },
+  {
+    "n": 6,
+    "title": "File:黒川温泉穴湯1 - panoramio.jpg",
+    "file": "logs/kurokawa_cand/06.jpg",
+    "w": 2816,
+    "h": 2112,
+    "license": "CC BY-SA 3.0",
+    "author": "sk01",
+    "descurl": "https://commons.wikimedia.org/wiki/File:%E9%BB%92%E5%B7%9D%E6%B8%A9%E6%B3%89%E7%A9%B4%E6%B9%AF1_-_panoramio.jpg",
+    "desc": "黒川温泉穴湯1",
+    "haiku": {
+      "verdict": "ng",
+      "identifiable": false,
+      "subject": "屋内の温泉浴槽と木製の柵",
+      "reason": "屋内資料展示のみで、黒川温泉の特徴的な景観が見られない。極端に暗くて旅行サイトの紹介画像に不適切。"
+    },
+    "sonnet": {
+      "verdict": "ng",
+      "identifiable": false,
+      "subject": "茅葺き屋根の露天風呂内部",
+      "reason": "黒川温泉と断定できる看板等なく、全体的に暗く印象が悪い"
+    },
+    "verdict": "ng",
+    "identifiable": false,
+    "subject": "茅葺き屋根の露天風呂内部"
+  },
+  {
+    "n": 7,
+    "title": "File:黒川温泉穴湯2 - panoramio.jpg",
+    "file": "logs/kurokawa_cand/07.jpg",
+    "w": 2816,
+    "h": 2112,
+    "license": "CC BY-SA 3.0",
+    "author": "sk01",
+    "descurl": "https://commons.wikimedia.org/wiki/File:%E9%BB%92%E5%B7%9D%E6%B8%A9%E6%B3%89%E7%A9%B4%E6%B9%AF2_-_panoramio.jpg",
+    "desc": "黒川温泉穴湯2",
+    "haiku": {
+      "verdict": "ok",
+      "identifiable": true,
+      "subject": "川沿いの木造温泉建築物と緑の自然風景",
+      "reason": "黒川温泉の特徴的な湯小屋建築、清流、樹齢の古い木々が写っており、この温泉地の象徴的な景観として識別可能。"
+    },
+    "sonnet": null,
+    "verdict": "ok",
+    "identifiable": true,
+    "subject": "川沿いの木造温泉建築物と緑の自然風景"
+  },
+  {
+    "n": 8,
+    "title": "File:黒川温泉 - panoramio.jpg",
+    "file": "logs/kurokawa_cand/08.jpg",
+    "w": 3648,
+    "h": 2736,
+    "license": "CC BY 3.0",
+    "author": "certified",
+    "descurl": "https://commons.wikimedia.org/wiki/File:%E9%BB%92%E5%B7%9D%E6%B8%A9%E6%B3%89_-_panoramio.jpg",
+    "desc": "黒川温泉",
+    "haiku": {
+      "verdict": "ok",
+      "identifiable": true,
+      "subject": "黒川温泉の湯治場建築群と温泉街の風景",
+      "reason": "伝統的な黒川温泉の建築様式、石段、木製柵、山の地形が特徴的。温泉地の典型的な景観。"
+    },
+    "sonnet": null,
+    "verdict": "ok",
+    "identifiable": true,
+    "subject": "黒川温泉の湯治場建築群と温泉街の風景"
+  },
+  {
+    "n": 9,
+    "title": "File:Kurokawa Onsen-2.jpg",
+    "file": "logs/kurokawa_cand/09.jpg",
+    "w": 2592,
+    "h": 1936,
+    "license": "CC BY-SA 4.0",
+    "author": "江戸村のとくぞう",
+    "descurl": "https://commons.wikimedia.org/wiki/File:Kurokawa_Onsen-2.jpg",
+    "desc": "熊本県 黒川温泉",
+    "haiku": {
+      "verdict": "ng",
+      "identifiable": false,
+      "subject": "木製の円盤に印字された記念品・スタンプ",
+      "reason": "屋内の記念品・工芸品の撮影。旅先の風景や温泉施設が写っておらず、紹介画像として不適切。"
+    },
+    "sonnet": {
+      "verdict": "ng",
+      "identifiable": false,
+      "subject": "黒川温泉の入湯手形（木製コイン）",
+      "reason": "屋内での物撮りのみで温泉地の景観・建物が写っておらず紹介画像として不適切"
+    },
+    "verdict": "ng",
+    "identifiable": false,
+    "subject": "黒川温泉の入湯手形（木製コイン）"
+  },
+  {
+    "n": 10,
+    "title": "File:Kurokawa Onsen-1.jpg",
+    "file": "logs/kurokawa_cand/10.jpg",
+    "w": 2592,
+    "h": 1936,
+    "license": "CC BY-SA 4.0",
+    "author": "江戸村のとくぞう",
+    "descurl": "https://commons.wikimedia.org/wiki/File:Kurokawa_Onsen-1.jpg",
+    "desc": "​熊本県 黒川温泉",
+    "haiku": {
+      "verdict": "ng",
+      "identifiable": false,
+      "subject": "木製の丸い工芸品に焼印された顔図案",
+      "reason": "屋内の工芸品クローズアップ。黒川温泉の特定地点を示す手がかりがなく、温泉地の紹介画像として不適切。"
+    },
+    "sonnet": {
+      "verdict": "ng",
+      "identifiable": true,
+      "subject": "黒川温泉の木製入湯手形",
+      "reason": "屋内の物品クローズアップのみで温泉地の景観が伝わらない"
+    },
+    "verdict": "ng",
+    "identifiable": true,
+    "subject": "黒川温泉の木製入湯手形"
+  },
+  {
+    "n": 11,
+    "title": "File:黒川温泉 (268553622).jpg",
+    "file": "logs/kurokawa_cand/11.jpg",
+    "w": 2496,
+    "h": 1664,
+    "license": "CC BY-SA 2.0",
+    "author": "veroyama from Meguro, Japan",
+    "descurl": "https://commons.wikimedia.org/wiki/File:%E9%BB%92%E5%B7%9D%E6%B8%A9%E6%B3%89_(268553622).jpg",
+    "desc": "Kurokawa hot spring in Ogumi, Kumamoto pref Japan",
+    "haiku": {
+      "verdict": "ok",
+      "identifiable": true,
+      "subject": "渓流沿いの木造温泉浴場と自然の風景",
+      "reason": "黒川温泉特有の渓流沿い露天風呂建築と看板が明確に写っており、その場所の断定が可能"
+    },
+    "sonnet": null,
+    "verdict": "ok",
+    "identifiable": true,
+    "subject": "渓流沿いの木造温泉浴場と自然の風景"
+  },
+  {
+    "n": 12,
+    "title": "File:黒川温泉 (268552393).jpg",
+    "file": "logs/kurokawa_cand/12.jpg",
+    "w": 2496,
+    "h": 1664,
+    "license": "CC BY-SA 2.0",
+    "author": "veroyama from Meguro, Japan",
+    "descurl": "https://commons.wikimedia.org/wiki/File:%E9%BB%92%E5%B7%9D%E6%B8%A9%E6%B3%89_(268552393).jpg",
+    "desc": "Kurokawa hot spring in Ogumi, Kumamoto pref Japan",
+    "haiku": {
+      "verdict": "ok",
+      "identifiable": true,
+      "subject": "山間の温泉宿。石造りの湯舞台と茅葺き風の建築が見える",
+      "reason": "黒川温泉の特徴的な田舎情緒あふれる湯治場の風情を表現。木造建築と石積みが典型的"
+    },
+    "sonnet": null,
+    "verdict": "ok",
+    "identifiable": true,
+    "subject": "山間の温泉宿。石造りの湯舞台と茅葺き風の建築が見える"
+  },
+  {
+    "n": 13,
+    "title": "File:黒川温泉 (268552178).jpg",
+    "file": "logs/kurokawa_cand/13.jpg",
+    "w": 2496,
+    "h": 1664,
+    "license": "CC BY-SA 2.0",
+    "author": "veroyama from Meguro, Japan",
+    "descurl": "https://commons.wikimedia.org/wiki/File:%E9%BB%92%E5%B7%9D%E6%B8%A9%E6%B3%89_(268552178).jpg",
+    "desc": "Kurokawa hot spring in Ogumi, Kumamoto pref Japan",
+    "haiku": {
+      "verdict": "ok",
+      "identifiable": true,
+      "subject": "黒川温泉の温泉旅館と木造橋、渓流景観",
+      "reason": "黒川温泉特有の木造温泉旅館建築と渓流に架かる橋が典型的。温泉地の雰囲気が良く伝わる。"
+    },
+    "sonnet": null,
+    "verdict": "ok",
+    "identifiable": true,
+    "subject": "黒川温泉の温泉旅館と木造橋、渓流景観"
+  },
+  {
+    "n": 14,
+    "title": "File:Kurokawa-Onsen Light-up.jpg",
+    "file": "logs/kurokawa_cand/14.jpg",
+    "w": 3828,
+    "h": 2552,
+    "license": "CC0",
+    "author": "MaedaAkihiko",
+    "descurl": "https://commons.wikimedia.org/wiki/File:Kurokawa-Onsen_Light-up.jpg",
+    "desc": "Mari lanterns lit up on the Tanohara River at Kurokawa Onsen in Minamioguni Town, Aso District, Kumamoto Prefecture. The facility on the left is the public bath called “Anayu”",
+    "haiku": {
+      "verdict": "ok",
+      "identifiable": true,
+      "subject": "夜間にライトアップされた温泉街の川沿い風景",
+      "reason": "黒川温泉の特徴的な夜間景観。露天風呂、提灯装飾、自然の川、木造建築が写り、黒川温泉と認識できる"
+    },
+    "sonnet": null,
+    "verdict": "ok",
+    "identifiable": true,
+    "subject": "夜間にライトアップされた温泉街の川沿い風景"
+  }
+]
