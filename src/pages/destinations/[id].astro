@@ -305,12 +305,16 @@ const STAY_DESC: Record<string, string> = {
 };
 const stayNote: string = article?.bestStay || STAY_DESC[(dest as any).destType] || '';
 
-// 鉄道完結アクセスかを判定 (false → Yahoo乗換ボタン非表示)
+// 地上経路で行けるかを判定 (false → Yahoo乗換ボタン非表示)
+// gateways.airport は「その空港も使える」という参考情報であって、
+// 鉄道やバスで行けないことを意味しない。判定に入れていたせいで、
+// 空港を1つ書いただけのdestinationで乗換案内ボタンが消えていた（35件で実測0%）。
+// 空路の選択肢があっても地上の経路案内は別途出してよいので、airport は見ない。
+// ferry と access.steps の空路/航路、離島は従来どおり除外する。
 const _accessStepTypes = new Set(((dest as any).access?.steps || []).map((s: any) => s.type));
 const _hasNonRailStep = _accessStepTypes.has('flight') || _accessStepTypes.has('ferry');
-const _hasAirportGateway = ((dest as any).gateways?.airport || []).length > 0;
 const _hasFerryGateway = ((dest as any).gateways?.ferry || []).length > 0;
-const isRailReachable: boolean = !isIsland && !_hasNonRailStep && !_hasAirportGateway && !_hasFerryGateway;
+const isRailReachable: boolean = !isIsland && !_hasNonRailStep && !_hasFerryGateway;
 
 // ── 移動手段タブ（電車・バス / 車）────────────────────────────────
 // まず少数のdestinationでテストしてから全件展開する。全件公開時は
