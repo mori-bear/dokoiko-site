@@ -1,0 +1,26 @@
+file:///Users/moririn/MORI-LAB/projects/dokoiko-site/node_modules/@anthropic-ai/sdk/core/error.mjs:39
+            return new BadRequestError(status, error, message, headers, type);
+                   ^
+
+BadRequestError: 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_id":"req_011CecyyEh8ggiWwqEVkWgJC"}
+    at APIError.generate (file:///Users/moririn/MORI-LAB/projects/dokoiko-site/node_modules/@anthropic-ai/sdk/core/error.mjs:39:20)
+    at Anthropic.makeStatusError (file:///Users/moririn/MORI-LAB/projects/dokoiko-site/node_modules/@anthropic-ai/sdk/client.mjs:156:32)
+    at Anthropic.makeRequest (file:///Users/moririn/MORI-LAB/projects/dokoiko-site/node_modules/@anthropic-ai/sdk/client.mjs:311:30)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async judge (file:///Users/moririn/MORI-LAB/projects/dokoiko-site/scripts/kyushuDestImages.mjs:42:15)
+    at async file:///Users/moririn/MORI-LAB/projects/dokoiko-site/scripts/kyushuDestImages.mjs:109:15 {
+  status: 400,
+  headers: Headers {},
+  requestID: 'req_011CecyyEh8ggiWwqEVkWgJC',
+  error: {
+    type: 'error',
+    error: {
+      type: 'invalid_request_error',
+      message: 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'
+    },
+    request_id: 'req_011CecyyEh8ggiWwqEVkWgJC'
+  },
+  type: 'invalid_request_error'
+}
+
+Node.js v25.8.2
