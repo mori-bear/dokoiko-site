@@ -1,8 +1,9 @@
 #!/usr/bin/env node
 /** verifyHitouDeploy.mjs — 追加した秘湯ページとトップのバナーが本番に出ているかを実測する。 */
 const BASE = 'https://tabidokoiko.com';
-const NEW = ['horoka', 'osawa-onsen', 'yubama', 'kanigasaki', 'utto', 'seorasou', 'yunohana-fk',
-  'tsubame-onsen', 'yumata', 'kamikitayama', 'iwai-tottori', 'misasa2', 'yuki-hiroshima'];
+const NEW = ['yunoyama', 'yumura-hyogo', 'shioda', 'sumoto-onsen', 'arifuku', 'izumoyumura',
+  'shikano', 'togo', 'yoshioka', 'nagatoyumoto', 'tawarayama', 'yuno-yamaguchi',
+  'miyahama', 'nibukawa', 'yunoura', 'chugu'];
 
 const CHECKS = [
   ['/', 'kf-banner'],
