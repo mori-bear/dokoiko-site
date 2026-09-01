@@ -1,0 +1,326 @@
+{
+ "adopted": [
+  {
+   "id": "imajo",
+   "name": "今庄宿",
+   "title": "File:Imajo-juku 20231007.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "皓月旗",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Imajo-juku_20231007.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "江戸時代の宿場町の街並みが明確に写っており、歴史的建造物や伝統的な木造建築が見られます。今庄宿の特徴的な景観です。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Imajo-juku 20231007.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "江戸時代の宿場町の街並みが明確に写っており、歴史的建造物や伝統的な木造建築が見られます。今庄宿の特徴的な景観です。"
+    }
+   ]
+  },
+  {
+   "id": "mitarai",
+   "name": "御手洗",
+   "title": "File:Osaki-shimojima Mitarai Panoramic View 2013-08.JPG",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "At by At",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Osaki-shimojima_Mitarai_Panoramic_View_2013-08.JPG",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "瀬戸内海の島々と伝統的な町並みが見える俯瞰画像。御手洗の特徴的な景観が明確。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Osaki-shimojima Mitarai Panoramic View 2013-08.JPG",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "瀬戸内海の島々と伝統的な町並みが見える俯瞰画像。御手洗の特徴的な景観が明確。"
+    }
+   ]
+  },
+  {
+   "id": "unomachi",
+   "name": "卯之町",
+   "title": "File:Unomachi town b.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Original uploader was As6673 at ja.wikipedia  (Edited by 663highland)",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Unomachi_town_b.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "江戸情緒の街並み、白壁と黒格子の伝統建築、日本国旗が卯之町の特徴を示す"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Unomachi-station-Platform.jpg",
+     "stage": "haiku",
+     "placeCheck": "weak",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "駅舎や線路など撮影されていますが、卯之町を特定できる固有の特徴（看板・銘板・特徴的建造物）が不足しています。"
+    },
+    {
+     "title": "File:Unomachi town b.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "江戸情緒の街並み、白壁と黒格子の伝統建築、日本国旗が卯之町の特徴を示す"
+    }
+   ]
+  },
+  {
+   "id": "kaemon",
+   "name": "栃木 嘉右衛門町",
+   "title": "File:Kauemon-cho.JPG",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Abasaa",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Kauemon-cho.JPG",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "嘉右衛門町の江戸情緒ある街並みが明確に写っており、伝統的な建造物と街路が特徴的。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Kauemon-cho.JPG",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "嘉右衛門町の江戸情緒ある街並みが明確に写っており、伝統的な建造物と街路が特徴的。"
+    }
+   ]
+  },
+  {
+   "id": "akaiwa-gunma",
+   "name": "六合赤岩",
+   "title": "File:Kuni-Akaiwa settlement01.JPG",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "On-chan",
+    "license": "CC0",
+    "url": "https://commons.wikimedia.org/wiki/File:Kuni-Akaiwa_settlement01.JPG",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": false,
+     "reason": "山村の風景として良好だが、六合赤岩を特定する看板や特徴的建造物が見当たらない"
+    },
+    "sonnet": {
+     "verdict": "ok",
+     "identifiable": false,
+     "reason": "山間の集落と農地の景観は赤岩地区に合致するが、特定できる看板等なし"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Kuni-Akaiwa settlement01.JPG",
+     "stage": "sonnet",
+     "placeCheck": "ok",
+     "haiku": {
+      "verdict": "ok",
+      "identifiable": false,
+      "reason": "山村の風景として良好だが、六合赤岩を特定する看板や特徴的建造物が見当たらない"
+     },
+     "sonnet": {
+      "verdict": "ok",
+      "identifiable": false,
+      "reason": "山間の集落と農地の景観は赤岩地区に合致するが、特定できる看板等なし"
+     }
+    }
+   ]
+  },
+  {
+   "id": "inariyama",
+   "name": "稲荷山宿",
+   "title": "File:Inariyama-juku 20251130 03.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Suikotei",
+    "license": "CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Inariyama-juku_20251130_03.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "江戸時代の宿場町の特徴的な建築様式が明確。白壁・黒格子の伝統的家屋が稲荷山宿の景観を代表している。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Inariyama-juku 20251130 03.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "江戸時代の宿場町の特徴的な建築様式が明確。白壁・黒格子の伝統的家屋が稲荷山宿の景観を代表している。"
+    }
+   ]
+  },
+  {
+   "id": "doikachu",
+   "name": "土居廓中",
+   "title": "File:Kochi aki doikachu samurai town.JPG",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Isoyan",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Kochi_aki_doikachu_samurai_town.JPG",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "土居廓中の特徴的な石垣造りの塀、格子窓、瓦屋根の伝統的町並みが明確に映っている。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Kochi aki doikachu samurai town.JPG",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "土居廓中の特徴的な石垣造りの塀、格子窓、瓦屋根の伝統的町並みが明確に映っている。"
+    }
+   ]
+  },
+  {
+   "id": "irikifumoto",
+   "name": "入来麓",
+   "title": "File:Iriki Fumoto 01.JPG",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "ja:User:Sanjo",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Iriki_Fumoto_01.JPG",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "武士屋敷の石垣塀と伝統的な街並みが特徴的。入来麓の歴史的景観が明確に認識できる。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Iriki Fumoto 01.JPG",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "武士屋敷の石垣塀と伝統的な街並みが特徴的。入来麓の歴史的景観が明確に認識できる。"
+    }
+   ]
+  },
+  {
+   "id": "kaseda-fumoto",
+   "name": "加世田麓",
+   "title": "File:加世田麓.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "八幡大佐",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:%E5%8A%A0%E4%B8%96%E7%94%B0%E9%BA%93.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "加世田麓の特徴的な日本家屋建築と水路が写っており、地域の風景を代表する景観"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:加世田麓.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "加世田麓の特徴的な日本家屋建築と水路が写っており、地域の風景を代表する景観"
+    }
+   ]
+  },
+  {
+   "id": "murata-miyagi",
+   "name": "File:旧大沼家住宅.jpg",
+   "title": "File:旧大沼家住宅.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "皓月旗",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:%E6%97%A7%E5%A4%A7%E6%B2%BC%E5%AE%B6%E4%BD%8F%E5%AE%85.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "retry": true,
+    "subject": "白壁と黒い格子窓の江戸時代様式の蔵造り町並み"
+   }
+  }
+ ],
+ "rejected": [
+  {
+   "id": "kanegasaki",
+   "name": "金ケ崎 城内諏訪小路",
+   "reason": "合格画像なし",
+   "tried": [
+    {
+     "title": "File:Aerial photographs of Groups of Traditional Buildings district Kanegasaki-Cho Jonai Suwa-Koji.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "航空写真で建物が小さすぎ、城内諏訪小路の特定手がかりなし"
+    }
+   ]
+  },
+  {
+   "id": "suzaka",
+   "reason": "田中本家博物館の庭園写真ばかりで、重伝建の蔵の町並みが写っていない"
+  },
+  {
+   "id": "tebajima",
+   "reason": "船上から撮った遠い島影で、集落の町並みが見えない"
+  }
+ ]
+}

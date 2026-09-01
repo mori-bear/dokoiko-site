@@ -1,0 +1,1281 @@
+{{出典の明記|date=2017年11月28日 (火) 10:16 (UTC)}}
+'''重要伝統的建造物群保存地区'''（じゅうようでんとうてきけんぞうぶつぐんほぞんちく）は、[[日本]]の[[文化財保護法]]に規定する文化財種別のひとつ。日本の[[市町村]]が[[条例]]などにより決定した[[伝統的建造物群保存地区]]のうち、文化財保護法第144条の規定に基づき、特に価値が高いものとして国（[[文部科学大臣]]）が選定したものを指す。略称は'''重伝建地区'''（じゅうでんけんちく）、'''重伝建'''（じゅうでんけん）。
+
+== 概要 ==
+文化財保護法でいう[[伝統的建造物群保存地区]]とは、[[城下町]]・[[宿場町]]・[[門前町]]・[[寺内町]]・[[港町]]・[[農村]]・[[漁村]]などの伝統的建造物群およびこれと一体をなして歴史的風致を形成している環境を保存するために市町村が定める地区を指す。この制度は、[[文化財]]としての[[建築物|建造物]]を「点」（単体）ではなく「面」（群）で保存しようとするもので、保存地区内では[[社寺]]・[[住宅|民家]]・[[蔵]]などの「建築物」はもちろん、[[門]]・[[土塀]]・[[石垣]]・[[水路]]・[[墓]]・石塔・石仏・燈籠などの「工作物」、[[庭園]]・[[生垣]]・[[樹木]]・水路などの「環境物件」を特定し保存措置を図ることとされている。
+
+[[市町村]]は[[都市計画法]]に基づく[[都市計画]]または[[条例]]により伝統的建造物群保存地区を定め、[[文部科学大臣]]は市町村の申し出に基づき、その価値が特に高いものを重要伝統的建造物群保存地区として選定することとされ、広報普及を担う全国伝統的建造物群保存地区協議会を置く{{Efn|全国伝統的建造物群保存地区協議会、略称「伝建」のウェブサイト運営は[[塩尻市]]教育委員会（生涯学習部文化財課）が管轄、[[日本芸術文化振興会]]の助成事業として実施する。}}。2015年は伝統的建造物群保存地区制度が法制化されて40年に当たり<ref name=":0">{{Harvnb|文化庁文化財部参事官（建造物担当）|2015|p=11|loc=「伝建制度の40年（文化庁文化財部参事官伝統的建造物群部門）」}}</ref>、累計109件を認めた<ref name=":0" /><ref>{{Harvnb|文化庁文化財部参事官（建造物担当）|2015|pp=18 - 234|loc=「1 函館市元町末広町（港町 北海道）」（18頁）から「109 竹富町竹富島（島の農村集落 沖縄）」（234頁）。}}</ref>。
+
+{{時点|2024|8}}で前回から2件増やし、山形、東京、神奈川、熊本を除く43道府県、106市町村の129地区が選定されており{{Efn|愛媛県宇和島市に1件追加、宇和島市津島町岩松伝統的建造物群保存地区<ref>{{Cite press release |和書|URL= https://www.bunka.go.jp/koho_hodo_oshirase/hodohappyo/93969001.html |work= 文化審議会の答申（重要伝統的建造物群保存地区の選定）|date=2023-11-24|co-authors=佐藤信（文化審議会会長）、文化財分科会 |title= 重要伝統的建造物群保存地区の新規選定、名称：宇和島市津島町岩松伝統的建造物群保存地区（うわじまし・つしまちょう・いわまつ）、所在地：愛媛県宇和島市|quote= 官報告示を経て、重要伝統的建造物群保存地区は127地区となる予定 |publisher=文化庁}}</ref>。}}、合計面積は4066.1[[ヘクタール|ha]]、約30,680件の伝統的建造物及び環境物件が特定され保護されている<ref>{{Cite web |title=伝統的建造物群保存地区 {{!}} 文化庁 |url=https://www.bunka.go.jp/seisaku/bunkazai/shokai/hozonchiku/index.html |website= |access-date=2024-09-23}}</ref>。
+
+制度運用上は、市町村が保存地区を決定し、保存のための措置を条例で定める一方で、文部科学大臣が市町村の申出に基づき重要伝統的建造物群保存地区を選定し、[[官報]]で告示する二段階の手続である<ref name="egov_bunkazai143_2026">{{Cite web |url=https://laws.e-gov.go.jp/law/325AC0100000214/ |title=文化財保護法 第百四十三条（伝統的建造物群保存地区の決定及びその保護） |website=e-Gov法令検索 |access-date=2026-02-19}}</ref><ref name="egov_bunkazai144_2026">{{Cite web |url=https://laws.e-gov.go.jp/law/350M50000080032 |title=文化財保護法 第百四十四条（重要伝統的建造物群保存地区の選定） |website=e-Gov法令検索 |access-date=2026-02-19}}</ref>。
+
+また、[[文化庁]]が公表する実務手引きでは、保存活用計画において現状変更規制、修理・修景・防災事業、助成措置及び税制優遇措置を一体で運用することが示されており、一覧ページの公開情報と合わせて選定地区数・面積等の基礎データを照合できる<ref name="bunka_guide_2026">{{Cite web |url=https://www.bunka.go.jp/seisaku/bunkazai/shokai/hozonchiku/pdf/93312701_03.pdf |title=伝統的建造物群保存地区制度の実務の手引き（軽量版） |publisher=文化庁 |date=2024-03 |format=PDF |access-date=2026-02-19}}</ref><ref name="bunka_judenken_ichiran_2026">{{Cite web |url=https://www.bunka.go.jp/seisaku/bunkazai/shokai/hozonchiku/judenken_ichiran.html |title=「重要伝統的建造物群保存地区一覧」と「各地区の保存・活用の取組み」 |publisher=文化庁 |access-date=2026-02-19}}</ref>。
+
+=== 選定基準 ===
+{{Anchors|選定基準}}「重要伝統的建造物群保存地区選定基準」（昭和50年文部省告示第157号<ref>{{Harvnb|文化財保護法研究会（3改）|2009|pp=2240 - }}</ref><ref>{{Harvnb|文化庁文化財部参事官（建造物担当）|2008|p=224}}</ref>）では、選定する保存地区の基準{{Refnest|2009年文化財保護法研究会<ref>{{Harvnb|文化財保護法研究会（3改）|2009|page=2240}}</ref>ほか、文化庁文化財部参事官2008年<ref>{{Harvnb|文化庁文化財部参事官（建造物担当）|2008|page= 224}}</ref>、同2015年<ref>{{Harvnb|文化庁文化財部参事官（建造物担当）|2015|page=267}}</ref>による発表。}}を次のように定めている。
+* 伝統的建造物群が全体として意匠的に優秀なもの
+* 伝統的建造物群及び地割がよく旧態を保持しているもの
+* 伝統的建造物群及びその周囲の環境が地域的特色を顕著に示しているもの
+
+== 一覧 ==
+{{座標一覧|article=Category:重要伝統的建造物群保存地区|level=1}}
+* 2024年8月現在の選定地を示す。
+* 市町村合併に伴い保存地区の名称が改称されたものについては、改称後の名称を表示した。
+* 「重要伝統的建造物群保存地区一覧<ref name="bun2021">{{Cite web |url=[https://www.bunka.go.jp/seisaku/bunkazai/shokai/hozonchiku/judenken_ichiran.html |title=「重要伝統的建造物群保存地区一覧」と「各地区の保存・活用の取組み」 |access-date=2023-12-23 |publisher=文化庁 |date=2021-08-02}}</ref>」の示す指定地区名称は「○○市/町/村△△（町）」であるが、本表では市区町村名の「○○市/町/村」と「△△（町）」の部分を分けて記載する。
+* 種別は上記の「重要伝統的建造物群保存地区一覧」による<ref name="bun2021" />。
+
+{| class="wikitable sortable" style="font-size:0.90625em; overflow:visible"
+|+ 重要伝統的建造物群保存地区 {{時点|2024|8|15}}
+!都道府県
+!市区町村
+!名称
+!選定年月日
+![[重要伝統的建造物群保存地区#選定基準|選定基準]]
+!種別
+!面積（[[ヘクタール|ha]]）
+!class="unsortable"|画像
+|-
+|{{Display none|01202}}[[北海道]]
+|{{Display none|はこたてし}}[[函館市]]
+|{{Display none|もとまちすえひろちよう}}[[函館西部地区の町並み|元町末広町]]
+|{{Display none|19890421}}[[1989年]][[4月21日]]
+|3
+|港町
+|14.5
+|[[ファイル:Kanemori Red Brick Warehouse Hakodate Hokkaido pref Japan05s3.jpg|150x150px|center]]
+|-
+|{{Display none|02202}}[[青森県]]
+|{{Display none|ひろさきし}}[[弘前市]]
+|{{Display none|なかちよう}}[[仲町 (弘前市)|仲町]]
+|{{Display none|19780531}}[[1978年]][[5月31日]]
+|2
+|武家町
+|10.6
+|[[ファイル:Hirosaki City Nakacho 2023.jpg|150x150px|center]]
+|-
+|{{Display none|02204}}[[青森県]]
+|{{Display none|くろいしし}}[[黒石市]]
+|{{Display none|なかまち}}[[中町こみせ通り|中町]]
+|{{Display none|20050722}}[[2005年]][[7月22日]]
+|1
+|商家町
+|3.1
+|[[ファイル:Narumi Brewery.jpg|150x150px|center]]
+|-
+|{{Display none|03381}}[[岩手県]]
+|{{Display none|かねかさきちよう}}[[金ケ崎町]]
+|{{Display none|しようないすわこうし}}[[金ケ崎町城内諏訪小路|城内諏訪小路]]
+|{{Display none|20010615}}[[2001年]][[6月15日]]
+|2
+|武家町
+|34.8
+|[[ファイル:Shiraito machinami kouryukan in Kanegasaki.jpg|150x150px|center]]
+|-
+|{{Display none|04322}}[[宮城県]]
+|{{Display none|むらたまち}}[[村田町]]
+|{{Display none|むらた}}[[村田町村田|村田]]
+|{{Display none|20140918}}[[2014年]][[9月18日]]
+|1
+|商家町
+|7.4
+|[[ファイル:旧大沼家住宅.jpg|150x150px|center]]
+|-
+|{{Display none|05203}}[[秋田県]]
+|{{Display none|よこてし}}[[横手市]]
+|{{Display none|ますた}}[[横手市増田伝統的建造物群保存地区|増田]]
+|{{Display none|20131227}}[[2013年]][[12月27日]]
+|2
+|在郷町
+|10.6
+|[[ファイル:Yamakichi Fertilizer Store 2020 P2.jpg|150x150px|center]]
+|-
+|{{Display none|05215}}[[秋田県]]
+|{{Display none|せんほくし}}[[仙北市]]
+|{{Display none|かくのたて}}[[角館]]
+|{{Display none|19760904}}[[1976年]][[9月4日]]
+|2
+|武家町
+|6.9
+|[[ファイル:Bukeyashiki Street in Kakunodate 20161106b.jpg|150x150px|center]]
+|-
+|{{Display none|07208}}[[福島県]]
+|{{Display none|きたかたし}}[[喜多方市]]
+|{{Display none|おたつき}}[[喜多方市小田付伝統的建造物群保存地区|小田付]]
+|{{Display none|20180817}}[[2018年]][[8月17日]]
+|2
+|在郷町・醸造町
+|15.5
+|[[ファイル:Odazuki, Kitakata, Fukushima pref., Japan.JPG|150x150px|center]]
+|-
+|{{Display none|07362}}[[福島県]]
+|{{Display none|しもこうまち}}[[下郷町]]
+|{{Display none|おおうちしゆく}}[[大内宿]]
+|{{Display none|19810418}}[[1981年]][[4月18日]]
+|3
+|宿場町
+|11.3
+|[[ファイル:大内宿展望台20220917-P1003566.jpg|150x150px|center]]
+|-
+|{{Display none|07368}}[[福島県]]
+|{{Display none|みなみあいつまち}}[[南会津町]]
+|{{Display none|まえさわ}}[[南会津町前沢|前沢]]
+|{{Display none|20110620}}[[2011年]][[6月20日]]
+|3
+|山村集落
+|13.3
+|[[ファイル:Maezewa minamiaidu fukushima japan 01.jpg|150x150px|center]]
+|-
+|{{Display none|08231}}[[茨城県]]
+|{{Display none|さくらかわし}}[[桜川市]]
+|{{Display none|まかへ}}[[桜川市真壁|真壁]]
+|{{Display none|20100629}}[[2010年]][[6月29日]]
+|2
+|在郷町
+|17.6
+|[[File:Makabe-chō Makabe 12-Mar-2023.jpg|150x150px|center]]
+|-
+|{{Display none|09203}}[[栃木県]]
+|{{Display none|とちきし}}[[栃木市]]
+|{{Display none|かうえもんちよう}}[[嘉右衛門町 (栃木市)|嘉右衛門町]]
+|{{Display none|20120709}}[[2012年]][[7月9日]]
+|2
+|在郷町
+|9.6
+|[[ファイル: Kauemon Bridge.jpg|150x150px|center]]
+|-
+|{{Display none|10203}}[[群馬県]]
+|{{Display none|きりゆうし}}[[桐生市]]
+|{{Display none|きりゆうしんまち}}[[桐生新町]]
+|{{Display none|20120709}}[[2012年]][[7月9日]]
+|2
+|製織町
+|13.4
+|[[ファイル: Nokoyane.jpg|150x150px|center]]
+|-
+|{{Display none|10412}}[[群馬県]]
+|{{Display none|なかのしようまち}}[[中之条町]]
+|{{Display none|くにあかいわ}}[[赤岩 (中之条町)|六合赤岩]]
+|{{Display none|20060705}}[[2006年]][[7月5日]]
+|3
+|山村・養蚕集落
+|63.0
+|[[ファイル:Kuni-Akaiwa settlement01.JPG|150x150px|center]]
+|-
+|{{Display none|11201}}[[埼玉県]]
+|{{Display none|かわこえし}}[[川越市]]
+|{{Display none|かわこえ}}[[川越]]
+|{{Display none|19991201}}[[1999年]][[12月1日]]
+|1
+|商家町
+|7.8
+|[[ファイル:埼玉県 川越市 かねつき通り 時の鐘 - panoramio.jpg|150x150px|center]]
+|-
+|{{Display none|12236}}[[千葉県]]
+|{{Display none|かとりし}}[[香取市]]
+|{{Display none|はわら}}[[佐原の町並み|佐原]]
+|{{Display none|19961210}}[[1996年]][[12月10日]]
+|3
+|商家町
+|7.1
+|[[ファイル:Syojyo&onogawa-river&dashi,sawara,katori-city,japan.JPG|150x150px|center]]
+|-
+|{{Display none|15224-A}}[[新潟県]]
+|{{Display none|さとし}}[[佐渡市]]
+|{{Display none|しゆくねき}}[[宿根木]]
+|{{Display none|19910430}}[[1991年]][[4月30日]]
+|3
+|港町
+|28.5
+|[[File:Sado Shukunegi.jpg|150x150px|center]]
+|-
+|{{Display none|15224-B}}[[新潟県]]
+|{{Display none|さとし}}[[佐渡市]]
+|{{Display none|おきまち}}[[小木町 (新潟県)|小木町]]
+|{{Display none|20240815}}[[2024年]][[8月15日]]
+|2
+|港町
+|13.3
+|[[ファイル:Ogi 20200828.jpg|150x150px|center]]
+|-
+|{{Display none|16202-A}}[[富山県]]
+|{{Display none|たかおかし}}[[高岡市]]
+|{{Display none|やまちようすし}}[[山町筋]]
+|{{Display none|20001204}}[[2000年]][[12月4日]]
+|1
+|商家町
+|5.5
+|[[File:Town Of Storehouse Making 土蔵造りの町並み 高岡市木舟町 - panoramio.jpg|150x150px|center]]
+|-
+|{{Display none|16202-B}}[[富山県]]
+|{{Display none|たかおかし}}[[高岡市]]
+|{{Display none|かなやまち}}[[金屋町 (高岡市)|金屋町]]
+|{{Display none|20121228}}[[2012年]][[12月28日]]
+|1
+|鋳物師町
+|6.4
+|[[ファイル:Takaoka-shi Kanayamachi, Toyama, historic industrial town(metal).JPG|150x150px|center]]
+|-
+|{{Display none|16202-C}}[[富山県]]
+|{{Display none|たかおかし}}[[高岡市]]
+|{{Display none|よしひさ}}[[吉久 (高岡市)|吉久]]
+|{{Display none|20201223}}[[2020年]][[12月23日]]
+|2
+|在郷町
+|4.1
+|[[ファイル:吉久の街並み.jpg|150x150px|center]]
+|-
+|{{Display none|16210-A}}[[富山県]]
+|{{Display none|なんとし}}[[南砺市]]
+|{{Display none|あいのくら}}[[越中五箇山相倉集落|相倉]]（[[五箇山]]）
+|{{Display none|19941221}}[[1994年]][[12月21日]]
+|3
+|山村集落
+|18.0
+|[[ファイル:五箇山相倉合掌集落02.jpg|150x150px|center]]
+|-
+|{{Display none|16210-B}}[[富山県]]
+|{{Display none|なんとし}}[[南砺市]]
+|{{Display none|すかぬま}}[[越中五箇山菅沼集落|菅沼]]（五箇山）
+|{{Display none|19941221}}[[1994年]][[12月21日]]
+|3
+|山村集落
+|4.4
+|[[File:Suganuma-Shigo-496.jpg|150x150px|center]]
+|-
+|{{Display none|17201-A}}[[石川県]]
+|{{Display none|かなさわし}}[[金沢市]]
+|{{Display none|ひかしやまひかし}}[[東山ひがし]]
+|{{Display none|20011114}}[[2001年]][[11月14日]]
+|1
+|茶屋町
+|1.8
+|[[ファイル:Higashiyama-higashi Kanazawa Ishikawa01n4272.jpg|150x150px|center]]
+|-
+|{{Display none|17201-B}}[[石川県]]
+|{{Display none|かなさわし}}[[金沢市]]
+|{{Display none|かすえまち}}[[主計町 (金沢市)|主計町]]
+|{{Display none|20080609}}[[2008年]][[6月9日]]
+|1
+|茶屋町
+|0.6
+|[[ファイル:Kazuemachi - Kanazawa, Japan - DSC00031.jpg|150x150px|center]]
+|-
+|{{Display none|17201-C}}[[石川県]]
+|{{Display none|かなさわし}}[[金沢市]]
+|{{Display none|うたつさんろく}}[[卯辰山山麓寺院群|卯辰山麓]]
+|{{Display none|20111129}}[[2011年]][[11月29日]]
+|2
+|寺町
+|22.1
+|[[ファイル:Kanazawa-shi Utatsu-sanroku, Ishikawa, temple district.JPG|150x150px|center]]
+|-
+|{{Display none|17201-D}}[[石川県]]
+|{{Display none|かなさわし}}[[金沢市]]
+|{{Display none|てらまちたい}}[[寺町寺院群|寺町台]]
+|{{Display none|20121228}}[[2012年]][[12月28日]]
+|2
+|寺町
+|22.0
+|[[ファイル:Kanazawa-shi Teramachi-Dai,Ishikawa,temple district.JPG|150x150px|center]]
+|-
+|{{Display none|17204}}[[石川県]]
+|{{Display none|わしまし}}[[輪島市]]
+|{{Display none|くろしまちく}}[[門前町黒島町|黒島地区]]
+|{{Display none|20090630}}[[2009年]][[6月30日]]
+|2
+|船主集落
+|20.5
+|[[ファイル:Wajima-shi Kuroshima-chiku, Ishikawa,Japan.JPG|150x150px|center]]
+|-
+|{{Display none|17206-A}}[[石川県]]
+|{{Display none|かかし}}[[加賀市]]
+|{{Display none|かかはしたて}}[[加賀橋立]]
+|{{Display none|20051227}}[[2005年]][[12月27日]]
+|2
+|船主集落
+|11.0
+|[[ファイル:Ishikawa Kaga Kagahashidate00.jpg|150x150px|center]]
+|-
+|{{Display none|17206-B}}[[石川県]]
+|{{Display none|かかし}}[[加賀市]]
+|{{Display none|かかひかしたに}}[[加賀東谷]]
+|{{Display none|20111129}}[[2011年]][[11月29日]]
+|3
+|山村集落
+|151.8
+|[[ファイル:Kaga-shi Kaga-higashitani, Ishikawa.JPG|150x150px|center]]
+|-
+|{{Display none|17210}}[[石川県]]
+|{{Display none|はくさんし}}[[白山市]]
+|{{Display none|しらみね}}[[白山市白峰|白峰]]
+|{{Display none|20120709}}[[2012年]][[7月9日]]
+|3
+|山村・養蚕集落
+|10.7
+|[[File:Shiramine old town01.jpg|150x150px|center]]
+|-
+|{{Display none|18204}}[[福井県]]
+|{{Display none|おはまし}}[[小浜市]]
+|{{Display none|おはまにしくみ}}[[小浜西組]]
+|{{Display none|20080609}}[[2008年]][[6月9日]]
+|2
+|商家町・茶屋町
+|19.1
+|[[ファイル:Obama nishigumi.JPG|150x150px|center]]
+|-
+|{{Display none|18404}}[[福井県]]
+|{{Display none|みなみえちせんちよう}}[[南越前町]]
+|{{Display none|いましようしゆく}}[[今庄宿]]
+|{{Display none|20210802}}[[2021年]][[8月2日]]
+|2
+|宿場町
+|9.2
+|[[ファイル:Imajo-juku 20231007.jpg|150x150px|center]]
+|-
+|{{Display none|18501}}[[福井県]]
+|{{Display none|わかさちよう}}[[若狭町]]
+|{{Display none|くまかわしゆく}}[[熊川宿]]
+|{{Display none|19960709}}[[1996年]][[7月9日]]
+|3
+|宿場町
+|10.8
+|[[ファイル:Kumagawa-juku16n4592.jpg|150x150px|center]]
+|-
+|{{Display none|19213}}[[山梨県]]
+|{{Display none|こうしゆうし}}[[甲州市]]
+|{{Display none|えんさんしもおたわらかみしよう}}[[甲州市塩山下小田原上条伝統的建造物群保存地区|塩山下小田原上条]]
+|{{Display none|20150708}}[[2015年]][[7月8日]]
+|3
+|山村・養蚕集落
+|15.1
+|[[ファイル:Kamijo settlement 1.JPG|150x150px|center]]
+|-
+|{{Display none|19364}}[[山梨県]]
+|{{Display none|はやかわちよう}}[[早川町]]
+|{{Display none|あかさわ}}[[赤沢]]
+|{{Display none|19930714}}[[1993年]][[7月14日]]
+|3
+|山村・講中宿
+|25.6
+|[[File:Stone pavement of Akasawa.JPG|150x150px|center]]
+|-
+|{{Display none|20201}}[[長野県]]
+|{{Display none|なかのし}}[[長野市]]
+|{{Display none|とかくし}}[[戸隠 (長野市)|戸隠]]
+|{{Display none|20170223}}[[2017年]][[2月23日]]
+|2
+|宿坊群・門前町
+|73.3
+|[[File:Togakushi Shrine in 2014-8-13 No,8.JPG|150x150px|center]]
+|-
+|{{Display none|20207}}[[長野県]]
+|{{Display none|すさかし}}[[須坂市]]
+|{{Display none|すさか}}[[須坂]]
+|{{Display none|20240815}}[[2024年]][[8月15日]]
+|1
+|製糸町・商家町
+|18.3
+|[[ファイル:Suzaka Yokomachi Street ac.jpg|150x150px|center]]
+|-
+|{{Display none|20215-A}}[[長野県]]
+|{{Display none|しおしりし}}[[塩尻市]]
+|{{Display none|ならい}}[[奈良井宿|奈良井]]
+|{{Display none|19780331}}[[1978年]][[3月31日]]
+|3
+|宿場町
+|17.6
+|[[ファイル:Narai-juku 6-Jun-2020.jpg|150x150px|center]]
+|-
+|{{Display none|20215-B}}[[長野県]]
+|{{Display none|しおしりし}}[[塩尻市]]
+|{{Display none|きそひらさわ}}[[木曽平沢|木曾平沢]]
+|{{Display none|20060705}}[[2006年]][[7月5日]]
+|2
+|漆工町
+|12.5
+|[[ファイル:Kiso-Hirasawa01n3200.jpg|150x150px|center]]
+|-
+|{{Display none|20218}}[[長野県]]
+|{{Display none|ちくまし}}[[千曲市]]
+|{{Display none|いなりやま}}[[稲荷山宿|稲荷山]]
+|{{Display none|20141210}}[[2014年]][[12月10日]]
+|2
+|商家町
+|13.0
+|[[ファイル:Inariyama-juku Kurashikan 1.jpg|150x150px|center]]
+|-
+|{{Display none|20219}}[[長野県]]
+|{{Display none|とうみし}}[[東御市]]
+|{{Display none|うんのしゆく}}[[海野宿]]
+|{{Display none|19870428}}[[1987年]][[4月28日]]
+|1
+|宿場・養蚕町
+|13.2
+|[[ファイル:Unno-juku 2019-05 1.jpg|150x150px|center]]
+|-
+|{{Display none|20423}}[[長野県]]
+|{{Display none|なきそまち}}[[南木曽町]]
+|{{Display none|つまこしゆく}}[[妻籠宿]]
+|{{Display none|19760904}}[[1976年]][[9月4日]]
+|3
+|宿場町
+|1245.4
+|[[ファイル:Tsumago-juku 6-Jun-2020 P2.jpg|150x150px|center]]
+|-
+|{{Display none|20485}}[[長野県]]
+|{{Display none|はくはむら}}[[白馬村]]
+|{{Display none|あおに}}[[青鬼 (白馬村)|青鬼]]
+|{{Display none|20001204}}[[2000年]][[12月4日]]
+|3
+|山村集落
+|59.7
+|[[ファイル:Aoni.jpg|150x150px|center]]
+|-
+|{{Display none|21203-A}}[[岐阜県]]
+|{{Display none|たかやまし}}[[高山市]]
+|{{Display none|さんまち}}[[三町 (高山市)|三町]]
+|{{Display none|19790203}}[[1979年]][[2月3日]]
+|1
+|商家町
+|4.4
+|[[ファイル:Takayama Altstadt 14.jpg|150x150px|center]]
+|-
+|{{Display none|21203-B}}[[岐阜県]]
+|{{Display none|たかやまし}}[[高山市]]
+|{{Display none|しもにのまちおおしんまち}}[[下二之町大新町]]
+|{{Display none|20040706}}[[2004年]][[7月6日]]
+|1
+|商家町
+|6.6
+|[[ファイル:Shimoninomachi Takahaya Gifu pref01s3s3870.jpg|150x150px|center]]
+|-
+|{{Display none|21207}}[[岐阜県]]
+|{{Display none|みのし}}[[美濃市]]
+|{{Display none|みのまち}}[[美濃市美濃町伝統的建造物群保存地区|美濃町]]
+|{{Display none|19990513}}[[1999年]][[5月13日]]
+|1
+|商家町
+|9.3
+|[[ファイル:Minomachi 2020-06 ac (1).jpg|150x150px|center]]
+|-
+|{{Display none|21210}}[[岐阜県]]
+|{{Display none|えなし}}[[恵那市]]
+|{{Display none|いわむらちようほんとおり}}[[岩村町本通り]]
+|{{Display none|19980417}}[[1998年]][[4月17日]]
+|3
+|商家町
+|14.6
+|[[ファイル:Iwamura Nishimachi 2021-01 ac (3).jpg|150x150px|center]]
+|-
+|{{Display none|21219}}[[岐阜県]]
+|{{Display none|くしようし}}[[郡上市]]
+|{{Display none|くしようはちまんきたまち}}[[郡上八幡北町]]
+|{{Display none|20121228}}[[2012年]][[12月28日]]
+|3
+|城下町
+|14.1
+|[[ファイル:Gujo-shi Gujo-hachiman kitamachi, Gifu, castle town.JPG|150x150px|center]]
+|-
+|{{Display none|21604}}[[岐阜県]]
+|{{Display none|しらかわむら}}[[白川村]]
+|{{Display none|おきまち}}[[白川郷・五箇山の合掌造り集落#荻町集落|荻町]]（[[白川郷]]）
+|{{Display none|19760904}}[[1976年]][[9月4日]]
+|3
+|山村集落
+|45.6
+|[[ファイル:Ogi Shirakawa-gō, Gifu, Japan.jpg|150x150px|center]]
+|-
+|{{Display none|22212}}[[静岡県]]
+|{{Display none|やいつし}}[[焼津市]]
+|{{Display none|はなさわ}}[[花沢の里|花沢]]
+|{{Display none|20140918}}[[2014年]][[9月18日]]
+|3
+|山村集落
+|19.5
+|[[ファイル:Yaizu hanazono area 01.JPG|150x150px|center]]
+|-
+|{{Display none|23114}}[[愛知県]]
+|{{Display none|なこやし}}[[名古屋市]]（[[緑区 (名古屋市)|緑区]]）
+|{{Display none|ありまつ}}[[有松町|有松]]
+|{{Display none|20160725}}[[2016年]][[7月25日]]
+|1
+|染織町
+|7.3
+|[[ファイル:Arimatsu Historic Townscape, Midori Ward Nagoya 2012.JPG|150x150px|center]]
+|-
+|{{Display none|23211}}[[愛知県]]
+|{{Display none|とよたし}}[[豊田市]]
+|{{Display none|あすけ}}[[足助町 (豊田市)|足助]]
+|{{Display none|20110620}}[[2011年]][[6月20日]]
+|1
+|商家町
+|21.5
+|[[ファイル:Manrin-kouji Alley in 2019 ac.jpg|150x150px|center]]
+|-
+|{{Display none|24210}}[[三重県]]
+|{{Display none|かめやまし}}[[亀山市]]
+|{{Display none|せきしゆく}}[[関宿]]
+|{{Display none|19841210}}[[1984年]][[12月10日]]
+|3
+|宿場町
+|25.0
+|[[ファイル:Seki-juku 2-Sept-2022 P2.jpg|150x150px|center]]
+|-
+|{{Display none|25201}}[[滋賀県]]
+|{{Display none|おおつし}}[[大津市]]
+|{{Display none|さかもと}}[[坂本 (大津市)|坂本]]
+|{{Display none|19971031}}[[1997年]][[10月31日]]
+|3
+|里坊群・門前町
+|28.7
+|[[ファイル:Sakamoto Otsu04s4592.jpg|150x150px|center]]
+|-
+|{{Display none|25202}}[[滋賀県]]
+|{{Display none|ひこねし}}[[彦根市]]
+|{{Display none|かわらまちせりまちちく}}[[花しょうぶ通り商店街|河原町芹町]]
+|{{Display none|20160725}}[[2016年]][[7月25日]]
+|2
+|商家町
+|5.0
+|[[ファイル:Hikone Teishinsha201606.jpg|150x150px|center]]
+|-
+|{{Display none|25204}}[[滋賀県]]
+|{{Display none|おうみはちまんし}}[[近江八幡市]]
+|{{Display none|はちまん}}[[近江八幡市八幡伝統的建造物群保存地区|八幡]]
+|{{Display none|19910430}}[[1991年]][[4月30日]]
+|1
+|商家町
+|13.1
+|[[ファイル:Yahatahachimanjo38.jpg|150x150px|center]]
+|-
+|{{Display none|25213}}[[滋賀県]]
+|{{Display none|ひかしおうみし}}[[東近江市]]
+|{{Display none|こかしようこんとう}}[[五個荘金堂町|五個荘金堂]]
+|{{Display none|19981225}}[[1998年]][[12月25日]]
+|3
+|農村集落
+|32.2
+|[[ファイル:Nakae Jungoro House Kondo-cho Gokasho01s4s4410.jpg|150x150px|center]]
+|-
+|{{Display none|26101}}[[京都府]]
+|{{Display none|きようとし}}[[京都市]]（[[北区 (京都市)|北区]]）
+|{{Display none|かみかも}}[[上賀茂]]
+|{{Display none|19881216}}[[1988年]][[12月16日]]
+|3
+|社家町
+|2.7
+|[[ファイル:Kamigamohondori1.JPG|150x150px|center]]
+|-
+|{{Display none|26105-A}}[[京都府]]
+|{{Display none|きようとし}}[[京都市]]（[[東山区]]）
+|{{Display none|さんねいさか}}[[産寧坂]]
+|{{Display none|19760904}}[[1976年]][[9月4日]]
+|3
+|門前町
+|8.2
+|[[File:Sannenzaka-kyoto.JPG|150x150px|center]]
+|-
+|{{Display none|26105-B}}[[京都府]]
+|{{Display none|きようとし}}[[京都市]]（[[東山区]]）
+|{{Display none|きおんしんはし}}[[祇園|祇園新橋]]
+|{{Display none|19760904}}[[1976年]][[9月4日]]
+|1
+|茶屋町
+|1.4
+|[[File:Gion kyoto japan.JPG|150x150px|center]]
+|-
+|{{Display none|26108}}[[京都府]]
+|{{Display none|きようとし}}[[京都市]]（[[右京区]]）
+|{{Display none|さかとりいもと}}[[嵯峨鳥居本]]
+|{{Display none|19790521}}[[1979年]][[5月21日]]
+|3
+|門前町
+|2.6
+|[[ファイル:Toriimoto03s3200.jpg|150x150px|center]]
+|-
+|{{Display none|26213}}[[京都府]]
+|{{Display none|なんたんし}}[[南丹市]]
+|{{Display none|みやまちょうきた}}[[かやぶきの里・北村|美山町北]]
+|{{Display none|19931208}}[[1993年]][[12月8日]]
+|3
+|山村集落
+|127.5
+|[[ファイル:Kayabukinosato04.jpg|150x150px|center]]
+|-
+|{{Display none|26463}}[[京都府]]
+|{{Display none|いねちよう}}[[伊根町]]
+|{{Display none|いねうら}}[[伊根の舟屋|伊根浦]]
+|{{Display none|20050722}}[[2005年]][[7月22日]]
+|3
+|漁村
+|310.2
+|[[ファイル:Funaya in Ine Town, Yosa District, Kyoto Prefecture 004.jpg|150x150px|center]]
+|-
+|{{Display none|26465}}[[京都府]]
+|{{Display none|よさのちよう}}[[与謝野町]]
+|{{Display none|かや}}[[ちりめん街道|加悦]]
+|{{Display none|20051227}}[[2005年]][[12月27日]]
+|2
+|製織町
+|12.0
+|[[ファイル:Yosano-cho Kaya, Kyoto, historic industrial town.JPG|150x150px|center]]
+|-
+|{{Display none|27214}}[[大阪府]]
+|{{Display none|とんたはやしし}}[[富田林市]]
+|{{Display none|とんたはやし}}[[富田林寺内町|富田林]]
+|{{Display none|19971031}}[[1997年]][[10月31日]]
+|1
+|寺内町・在郷町
+|12.9
+|[[ファイル:富田林 寺内町 2022.jpg|150x150px|center]]
+|-
+|{{Display none|28110}}[[兵庫県]]
+|{{Display none|こうへし}}[[神戸市]]（[[中央区 (神戸市)|中央区]]）
+|{{Display none|きたのちようやまもととおり}}[[北野町山本通]]
+|{{Display none|19800410}}[[1980年]][[4月10日]]
+|1
+|港町
+|9.3
+|[[ファイル:Kitano Street Kobe02s3s4272.jpg|150x150px|center]]
+|-
+|{{Display none|28209}}[[兵庫県]]
+|{{Display none|とよおかし}}[[豊岡市]]
+|{{Display none|いすし}}[[出石]]
+|{{Display none|20071204}}[[2007年]][[12月4日]]
+|2
+|城下町
+|23.1
+|[[ファイル:Izushi Toyooka02nt3200.jpg|150x150px|center]]
+|-
+|{{Display none|28221-A}}[[兵庫県]]
+|{{Display none|たんはささやまし}}[[丹波篠山市]]
+|{{Display none|ささやま}}[[丹波篠山市篠山伝統的建造物群保存地区|篠山]]
+|{{Display none|20041210}}[[2004年]][[12月10日]]
+|2
+|城下町
+|40.2
+|[[ファイル:Sasayama Okachi-machi05st3200.jpg|150x150px|center]]
+|-
+|{{Display none|28221-B}}[[兵庫県]]
+|{{Display none|たんはささやまし}}[[丹波篠山市]]
+|{{Display none|ふくすみ}}[[丹波篠山市福住伝統的建造物群保存地区|福住]]
+|{{Display none|20121228}}[[2012年]][[12月28日]]
+|3
+|宿場町・農村集落
+|25.2
+|[[File:Fukusumi Kawahara 2021-10 ac (1).jpg|150x150px|center]]
+|-
+|{{Display none|28222}}[[兵庫県]]
+|{{Display none|やふし}}[[養父市]]
+|{{Display none|おおやちようおおすき}}[[大屋町大杉]]
+|{{Display none|20170731}}[[2017年]][[7月31日]]
+|3
+|山村・養蚕集落
+|5.8
+|[[ファイル:221029 Ooya-cho Oosugi Yabu Hyogo pref Japan01s3.jpg|150x150px|center]]
+|-
+|{{Display none|28229}}[[兵庫県]]
+|{{Display none|たつのし}}[[たつの市]]
+|{{Display none|たつの}}[[龍野 (たつの市)|龍野]]
+|{{Display none|20191223}}[[2019年]][[12月23日]]
+|1
+|商家町・醸造町
+|15.9
+|[[ファイル:Shimogawara Tatsuno Hyogo pref03n4272.jpg|150x150px|center]]
+|-
+|{{Display none|29205}}[[奈良県]]
+|{{Display none|かしはらし}}[[橿原市]]
+|{{Display none|いまいちよう}}[[今井町 (橿原市)|今井町]]
+|{{Display none|19931208}}[[1993年]][[12月8日]]
+|1
+|寺内町・在郷町
+|17.4
+|[[ファイル:Imaichō Kashihara JPN 005.jpg|150x150px|center]]
+|-
+|{{Display none|29207}}[[奈良県]]
+|{{Display none|こしようし}}[[五條市]]
+|{{Display none|こしようしんまち}}[[五條新町]]
+|{{Display none|20101224}}[[2010年]][[12月24日]]
+|1
+|商家町
+|7.0
+|[[ファイル:130629 Gojo Shinmachi Gojo Nara pref Japan13s3.jpg|150x150px|center]]
+|-
+|{{Display none|29212}}[[奈良県]]
+|{{Display none|うたし}}[[宇陀市]]
+|{{Display none|まつやま}}[[松山 (宇陀市)|松山]]
+|{{Display none|20060705}}[[2006年]][[7月5日]]
+|1
+|商家町
+|17.0
+|[[ファイル:Uda-Matsuyama 20240107.jpg|150x150px|center]]
+|-
+|{{Display none|30361}}[[和歌山県]]
+|{{Display none|ゆあさちょう}}[[湯浅町]]
+|{{Display none|ゆあさ}}[[湯浅町湯浅伝統的建造物群保存地区|湯浅]]
+|{{Display none|20061219}}[[2006年]][[12月19日]]
+|2
+|醸造町
+|6.3
+|[[ファイル:260516 Kadocho Yuasa Wakayama pref Japan04s3.jpg|150x150px|center]]
+|-
+|{{Display none|31203}}[[鳥取県]]
+|{{Display none|くらよしし}}[[倉吉市]]
+|{{Display none|うつふきたまかわ}}[[打吹玉川]]
+|{{Display none|19981219}}[[1998年]][[12月19日]]
+|1
+|商家町
+|9.2
+|[[ファイル:Kurayoshi Utsubuki-Tamagawa17nt3200.jpg|150x150px|center]]
+|-
+|{{Display none|31325}}[[鳥取県]]
+|{{Display none|わかさちよう}}[[若桜町]]
+|{{Display none|わかさしゆく}}[[若桜宿|若桜]]
+|{{Display none|20210802}}[[2021年]][[8月2日]]
+|3
+|商家町
+|9.5
+|[[ファイル:Wakasa-juku03s4592.jpg|150x150px|center]]
+|-
+|{{Display none|31386}}[[鳥取県]]
+|{{Display none|たいせんちよう}}[[大山町]]
+|{{Display none|ところこ}}[[大山町所子|所子]]
+|{{Display none|20131227}}[[2013年]][[12月27日]]
+|3
+|農村集落
+|25.8
+|[[ファイル:Kadowaki Residence.jpg|150x150px|center]]
+|-
+|{{Display none|32205-A}}[[島根県]]
+|{{Display none|おおたしおおもりきんさん}}[[大田市]]
+|{{Display none|おおもりきんさん}}[[石見銀山|大森銀山]]
+|{{Display none|19871205}}[[1987年]][[12月5日]]
+|3
+|鉱山町
+|162.7
+|[[ファイル:180504 Omori of Iwami Ginzan Silver Mine Oda Shimane pref Japan01bs4.jpg|150x150px|center]]
+|-
+|{{Display none|32205-B}}[[島根県]]
+|{{Display none|おおたしゆのつ}}[[大田市]]
+|{{Display none|ゆのつ}}[[温泉津温泉|温泉津]]
+|{{Display none|20040706}}[[2004年]][[7月6日]]
+|2
+|港町・温泉町
+|36.6
+|[[ファイル:Yakushiyu 5-May-2022 P3.jpg|150x150px|center]]
+|-
+|{{Display none|32501}}[[島根県]]
+|{{Display none|つわのちよう}}[[津和野町]]
+|{{Display none|つわの}}[[津和野町津和野伝統的建造物群保存地区|津和野]]
+|{{Display none|20130807}}[[2013年]][[8月7日]]
+|2
+|武家町・商家町
+|11.1
+|[[ファイル:Hommachi-dori_Street_in_Tsuwano,_Kanoashi,_Shimane_2.jpg|150x150px|center]]
+|-
+|{{Display none|33202}}[[岡山県]]
+|{{Display none|くらしきし}}[[倉敷市]]
+|{{Display none|くらしきかわはん}}[[倉敷美観地区|倉敷川畔]]
+|{{Display none|19790521}}[[1979年]][[5月21日]]
+|1
+|商家町
+|15.0
+|[[ファイル:161015 At Kurashiki Bikan historical quarter Kurashiki Okayama pref Japan02s3.jpg|150x150px|center]]
+|-
+|{{Display none|33203-A}}[[岡山県]]
+|{{Display none|つやまし}}[[津山市]]
+|{{Display none|しようとう}}[[城東町並み保存地区|城東]]
+|{{Display none|20130807}}[[2013年]][[8月7日]]
+|1
+|商家町
+|8.1
+|[[ファイル:Joto Tsuyama Okayama07n4272.jpg|150x150px|center]]
+|-
+|{{Display none|33203-B}}[[岡山県]]
+|{{Display none|つやまし}}[[津山市]]
+|{{Display none|しようさい}}[[津山市城西伝統的建造物群保存地区|城西]]
+|{{Display none|20201223}}[[2020年]][[12月23日]]
+|2
+|寺町・商家町
+|12.0
+|[[ファイル:IMG2850.tsuyama.jpg|中央|150x150ピクセル]]
+|-
+|{{Display none|33209}}[[岡山県]]
+|{{Display none|たかはしし}}[[高梁市]]
+|{{Display none|ふきや}}[[吹屋]]
+|{{Display none|19770518}}[[1977年]][[5月18日]]
+|3
+|鉱山町
+|6.4
+|[[ファイル:Fukiya 23-Oct-2021.jpg|150x150px|center]]
+|-
+|{{Display none|33461}}[[岡山県]]
+|{{Display none|やかけちよう}}[[矢掛町]]
+|{{Display none|やかけしゆく}}[[矢掛|矢掛宿]]
+|{{Display none|20201223}}[[2020年]][[12月23日]]
+|2
+|宿場町
+|11.5
+|[[ファイル:160320 Yakage-juku Yakage Okayama pref Japan02n.jpg|150x150px|center]]
+|-
+|{{Display none|34202}}[[広島県]]
+|{{Display none|くれし}}[[呉市]]
+|{{Display none|ゆたかまちみたらい}}[[御手洗 (呉市)|豊町御手洗]]
+|{{Display none|19940704}}[[1994年]][[7月4日]]
+|2
+|港町
+|6.9
+|[[ファイル:Yutakamachi-mitarai.jpg|150x150px|center]]
+|-
+|{{Display none|34203}}[[広島県]]
+|{{Display none|たけはらし}}[[竹原市]]
+|{{Display none|たけはらちく}}[[竹原|竹原地区]]
+|{{Display none|19821216}}[[1982年]][[12月16日]]
+|1
+|製塩町
+|5.0
+|[[ファイル:Taketsuru house Takehara.jpg|150x150px|center]]
+|-
+|{{Display none|34207}}[[広島県]]
+|{{Display none|ふくやまし}}[[福山市]]
+|{{Display none|ともちよう}}[[鞆の浦|鞆町]]
+|{{Display none|20171128}}[[2017年]][[11月28日]]
+|2
+|港町
+|8.6
+|[[ファイル:Ota house Tomo07n4592.jpg|150x150px|center]]
+|-
+|{{Display none|34213}}[[広島県]]
+|{{Display none|はつかいちし}}[[廿日市市]]
+|{{Display none|みやしまちよう}}[[厳島|宮島町]]
+|{{Display none|20210802}}[[2021年]][[8月2日]]
+|2
+|門前町
+|16.8
+|[[File:Street view in front of Miyajima History and Folklore Museum.jpg|150x150px|center]]
+|-
+|{{Display none|35204-A}}[[山口県]]
+|{{Display none|はきし}}[[萩市]]
+|{{Display none|ほりうちちく}}[[堀内 (萩市)|堀内地区]]
+|{{Display none|19760904}}[[1976年]][[9月4日]]
+|2
+|武家町
+|55.0
+|[[ファイル:Hagi-shi Horiuchi-chiku, Yamaguchi, samurai quarter.JPG|150x150px|center]]
+|-
+|{{Display none|35204-B}}[[山口県]]
+|{{Display none|はきし}}[[萩市]]
+|{{Display none|ひやこちく}}[[平安古 (萩市)|平安古地区]]
+|{{Display none|19760904}}[[1976年]][[9月4日]]
+|2
+|武家町
+|4.0
+|[[ファイル:Hagi-hiyako yamaguchi japan.JPG|150x150px|center]]
+|-
+|{{Display none|35204-C}}[[山口県]]
+|{{Display none|はきし}}[[萩市]]
+|{{Display none|はまさき}}[[浜崎 (萩市)|浜崎]]
+|{{Display none|20011114}}[[2001年]][[11月14日]]
+|2
+|港町
+|10.3
+|[[ファイル:Hamasaki Hagi 01.JPG|150x150px|center]]
+|-
+|{{Display none|35204-D}}[[山口県]]
+|{{Display none|はきし}}[[萩市]]
+|{{Display none|ささなみいち}}[[萩市佐々並市伝統的建造物群保存地区|佐々並市]]
+|{{Display none|20110620}}[[2011年]][[6月20日]]
+|2
+|宿場町
+|20.8
+|[[ファイル:Hagi-shi Sasanamiichi, Yamaguchi, post town.JPG|150x150px|center]]
+|-
+|{{Display none|35212}}[[山口県]]
+|{{Display none|やないし}}[[柳井市]]
+|{{Display none|ふるいちかなや}}[[柳井市古市金屋伝統的建造物群保存地区|古市金屋]]
+|{{Display none|19841210}}[[1984年]][[12月10日]]
+|1
+|商家町
+|1.7
+|[[ファイル:Furuichi-Kanaya 4-May-2023 P2.jpg|150x150px|center]]
+|-
+|{{Display none|36207}}[[徳島県]]
+|{{Display none|みまし}}[[美馬市]]
+|{{Display none|わきまちみなみまち}}[[脇町南町]]
+|{{Display none|19881216}}[[1988年]][[12月16日]]
+|1
+|商家町
+|5.3
+|[[ファイル:Wakimachi Minami-machi in Mima Tokushima pref01.jpg|150x150px|center]]
+|-
+|{{Display none|36208}}[[徳島県]]
+|{{Display none|みよしし}}[[三好市]]
+|{{Display none|ひかしいややまそんおちあい}}[[東祖谷落合|東祖谷山村落合]]
+|{{Display none|20051227}}[[2005年]][[12月27日]]
+|3
+|山村集落
+|32.3
+|[[File:A mountainside village, built on terraces (6551524129).jpg|150x150px|center]]
+|-
+|{{Display none|36383}}[[徳島県]]
+|{{Display none|むきちよう}}[[牟岐町]]
+|{{Display none|てはしま}}[[出羽島]]
+|{{Display none|20170223}}[[2017年]][[2月23日]]
+|3
+|漁村集落
+|3.7
+|[[ファイル:Tebajima 2.jpg|150x150px|center]]
+|-
+|{{Display none|37202}}[[香川県]]
+|{{Display none|まるかめし}}[[丸亀市]]
+|{{Display none|しわくほんしまちようかさしま}}[[本島町笠島|塩飽本島町笠島]]
+|{{Display none|19850413}}[[1985年]][[4月13日]]
+|3
+|港町
+|13.1
+|[[ファイル:Kasajima02s3872.jpg|150x150px|center]]
+|-
+|{{Display none|38203}}[[愛媛県]]
+|{{Display none|うわしまし}}[[宇和島市]]
+|{{Display none|つしまちよういわまつ}}[[津島町岩松]]{{Refnest|指定面積は10.6ヘクタール、域内の町丁名は省略<ref>{{Harvnb|官報|2023|page=6}}</ref>。}}
+|{{Display none|20231215}}[[2023年]][[12月15日]]
+|3
+|在郷町
+|10.6
+|[[ファイル:Iwamatsu, Ehime 20241130.jpg|150x150px|center]]
+|-
+|{{Display none|38214}}[[愛媛県]]
+|{{Display none|せいよし}}[[西予市]]
+|{{Display none|うわちよううのまち}}[[宇和町卯之町]]
+|{{Display none|20091208}}[[2009年]][[12月8日]]
+|2
+|在郷町
+|4.9
+|[[ファイル:Unomachi town b.jpg|150x150px|center]]
+|-
+|{{Display none|38422}}[[愛媛県]]
+|{{Display none|うちこちよう}}[[内子町]]
+|{{Display none|ようかいちここく}}[[八日市護国]]
+|{{Display none|19820417}}[[1982年]][[4月17日]]
+|3
+|製蝋町
+|3.5
+|[[ファイル:Uchiko1,Uchiko-town,Japan.JPG|150x150px|center]]
+|-
+|{{Display none|39202}}[[高知県]]
+|{{Display none|むろとし}}[[室戸市]]
+|{{Display none|きらかわちよう}}[[吉良川町]]
+|{{Display none|19971031}}[[1997年]][[10月31日]]
+|1
+|在郷町
+|18.3
+|[[ファイル:Kiragawacho 03.JPG|150x150px|center]]
+|-
+|{{Display none|39203}}[[高知県]]
+|{{Display none|あきし}}[[安芸市]]
+|{{Display none|といかちゆう}}[[土居廓中]]
+|{{Display none|20120709}}[[2012年]][[7月9日]]
+|2
+|武家町
+|9.2
+|[[ファイル:Kochi aki doikachu samurai town.JPG|150x150px|center]]
+|-
+|{{Display none|40210-A}}[[福岡県]]
+|{{Display none|やめし}}[[八女市]]
+|{{Display none|やめふくしま}}[[八女市八女福島伝統的建造物群保存地区|八女福島]]
+|{{Display none|20020523}}[[2002年]][[5月23日]]
+|2
+|商家町
+|19.8
+|[[ファイル:Yame-fukushima fukuoka japan.JPG|150x150px|center]]
+|-
+|{{Display none|40210-B}}[[福岡県]]
+|{{Display none|やめし}}[[八女市]]
+|{{Display none|くろき}}[[八女市黒木|黒木]]
+|{{Display none|20090630}}[[2009年]][[6月30日]]
+|3
+|在郷町
+|18.4
+|[[ファイル:Yame-kurogi fukuoka japan.JPG|150x150px|center]]
+|-
+|{{Display none|40225-A}}[[福岡県]]
+|{{Display none|うきはし}}[[うきは市]]
+|{{Display none|ちくこよしい}}[[筑後吉井]]
+|{{Display none|19961210}}[[1996年]][[12月10日]]
+|3
+|在郷町
+|20.7
+|[[ファイル:Chikugo-Yoshii04s5s3200.jpg|150x150px|center]]
+|-
+|{{Display none|40225-B}}[[福岡県]]
+|{{Display none|うきはし}}[[うきは市]]
+|{{Display none|にいかわたこもり}}[[新川田篭]]
+|{{Display none|20120709}}[[2012年]][[7月9日]]
+|3
+|山村集落
+|71.2
+|[[ファイル:Niikawa Tagomori.jpg|150x150px|center]]
+|-
+|{{Display none|40228}}[[福岡県]]
+|{{Display none|あさくらし}}[[朝倉市]]
+|{{Display none|あきつき}}[[秋月 (朝倉市)|秋月]]
+|{{Display none|19980417}}[[1998年]][[4月17日]]
+|2
+|城下町
+|58.6
+|[[ファイル:Route322 old Akizuki.JPG|150x150px|center]]
+|-
+|{{Display none|41207-A}}[[佐賀県]]
+|{{Display none|かしまし}}[[鹿島市]]
+|{{Display none|はましようつまちはまかなやまち}}[[鹿島市浜庄津町浜金屋町|浜庄津町浜金屋町]]
+|{{Display none|20060705}}[[2006年]][[7月5日]]
+|2
+|港町・在郷町
+|2.0
+|[[ファイル:Hamasyuku kashima saga japan.JPG|150x150px|center]]
+|-
+|{{Display none|41207-B}}[[佐賀県]]
+|{{Display none|かしまし}}[[鹿島市]]
+|{{Display none|はまなかまちはちほんきしゆく}}[[鹿島市浜中町八本木宿|浜中町八本木宿]]
+|{{Display none|20060705}}[[2006年]][[7月5日]]
+|1
+|醸造町
+|6.7
+|[[ファイル:Shuzo-dori Street in Hama-Nakamachi Hachihongishuku Area 9.jpg|150x150px|center]]
+|-
+|{{Display none|41209}}[[佐賀県]]
+|{{Display none|うれしのし}}[[嬉野市]]
+|{{Display none|しおたつ}}[[塩田津]]
+|{{Display none|20051227}}[[2005年]][[12月27日]]
+|2
+|商家町
+|12.8
+|[[ファイル:Nishioka-ke, Saga, Japan.JPG|150x150px|center]]
+|-
+|{{Display none|41401}}[[佐賀県]]
+|{{Display none|ありたちよう}}[[有田町]]
+|{{Display none|ありたうちやま}}[[有田町有田内山伝統的建造物群保存地区|有田内山]]
+|{{Display none|19910430}}[[1991年]][[4月30日]]
+|3
+|製磁町
+|15.9
+|[[File:Arita Akaemachi potteries and porcelain stores street 01.JPG|150x150px|center]]
+|-
+|{{Display none|42201-A}}[[長崎県]]
+|{{Display none|なかさきし}}[[長崎市]]
+|{{Display none|ひかしやまて}}[[東山手]]
+|{{Display none|19910430}}[[1991年]][[4月30日]]
+|2
+|港町
+|7.5
+|[[File:Higashiyamate 13 ban kan and Oranda-zaka.jpg|150x150px|center]]
+|-
+|{{Display none|42201-B}}[[長崎県]]
+|{{Display none|なかさきし}}[[長崎市]]
+|{{Display none|みなみやまて}}[[南山手]]
+|{{Display none|19910430}}[[1991年]][[4月30日]]
+|2
+|港町
+|17.0
+|[[File:Former the archbishop hall of the Roman Catholic Archdiocese of Nagasaki01s3.jpg|150x150px|center]]
+|-
+|{{Display none|42207}}[[長崎県]]
+|{{Display none|ひらとし}}[[平戸市]]
+|{{Display none|おおしまむらこうのうら}}[[大島村神浦]]
+|{{Display none|20080609}}[[2008年]][[6月9日]]
+|2
+|港町
+|21.2
+|[[ファイル:Konoura hirado nagasaki japan.JPG|150x150px|center]]
+|-
+|{{Display none|42213}}[[長崎県]]
+|{{Display none|うんせんし}}[[雲仙市]]
+|{{Display none|こうしろくうし}}[[神代小路]]
+|{{Display none|20050722}}[[2005年]][[7月22日]]
+|2
+|武家町
+|9.8
+|[[ファイル:Kojirokuji Unzen Nagasaki pref.jpg|150x150px|center]]
+|-
+|{{Display none|44204}}[[大分県]]
+|{{Display none|ひたし}}[[日田市]]
+|{{Display none|まめたまち}}[[豆田町]]
+|{{Display none|20041210}}[[2004年]][[12月10日]]
+|2
+|商家町
+|10.7
+|[[ファイル:Hita-city Mameda01.jpg|150x150px|center]]
+|-
+|{{Display none|44210}}[[大分県]]
+|{{Display none|きつきし}}[[杵築市]]
+|{{Display none|きたたいみなみたい}}[[杵築市北台南台伝統的建造物群保存地区|北台南台]]
+|{{Display none|20171128}}[[2017年]][[11月28日]]
+|2
+|武家町
+|16.1
+|[[ファイル:Castle Town of Kitsuki 05.jpg|150x150px|center]]
+|-
+|{{Display none|45204}}[[宮崎県]]
+|{{Display none|にちなんし}}[[日南市]]
+|{{Display none|おひ}}[[飫肥]]
+|{{Display none|19770518}}[[1977年]][[5月18日]]
+|2
+|武家町
+|19.8
+|[[ファイル:Obi miyazaki japan0.JPG|150x150px|center]]
+|-
+|{{Display none|45206}}[[宮崎県]]
+|{{Display none|ひゆうかし}}[[日向市]]
+|{{Display none|みみつ}}[[美々津]]
+|{{Display none|19861208}}[[1986年]][[12月8日]]
+|2
+|港町
+|7.2
+|[[ファイル:Mimitsu Hyuga 2008.JPG|150x150px|center]]
+|-
+|{{Display none|45430}}[[宮崎県]]
+|{{Display none|しいはそん}}[[椎葉村]]
+|{{Display none|とねかわ}}[[椎葉村十根川|十根川]]
+|{{Display none|19981225}}[[1998年]][[12月25日]]
+|3
+|山村集落
+|39.9
+|[[ファイル:Shiibamura miyazaki japan.JPG|150x150px|center]]
+|-
+|{{Display none|46208}}[[鹿児島県]]
+|{{Display none|いすみし}}[[出水市]]
+|{{Display none|いすみふもと}}[[出水麓]]
+|{{Display none|19951226}}[[1995年]][[12月26日]]
+|2
+|武家町
+|43.8
+|[[ファイル:Tatebaba dori Izumi.JPG|150x150px|center]]
+|-
+|{{Display none|46215}}[[鹿児島県]]
+|{{Display none|さつませんたいし}}[[薩摩川内市]]
+|{{Display none|いりきふもと}}[[入来麓]]
+|{{Display none|20031225}}[[2003年]][[12月25日]]
+|2
+|武家町
+|19.2
+|[[ファイル:Iriki Fumoto 01.JPG|150x150px|center]]
+|-
+|{{Display none|46220}}[[鹿児島県]]
+|{{Display none|みなみさつまし}}[[南さつま市]]
+|{{Display none|かせたふもと}}[[加世田麓]]
+|{{Display none|20191223}}[[2019年]][[12月23日]]
+|2
+|武家町
+|20.0
+|[[ファイル:Kaseda.jpg|中央|150x150ピクセル]]
+|-
+|{{Display none|46223}}[[鹿児島県]]
+|{{Display none|みなみきゆうしゆうし}}[[南九州市]]
+|{{Display none|ちらん}}[[武家屋敷通り (南九州市)|知覧]]
+|{{Display none|19811130}}[[1981年]][[11月30日]]
+|2
+|武家町
+|18.6
+|[[ファイル:Chiran Fumoto 01.JPG|150x150px|center]]
+|-
+|{{Display none|47356}}[[沖縄県]]
+|{{Display none|となきそん}}[[渡名喜村]]
+|{{Display none|となきしま}}[[渡名喜島]]
+|{{Display none|20000525}}[[2000年]][[5月25日]]
+|3
+|島の農村集落
+|21.4
+|[[ファイル:Tonakihouse1.jpg|150x150px|center]]
+|-
+|{{Display none|47381}}[[沖縄県]]
+|{{Display none|たけとみちよう}}[[竹富町]]
+|{{Display none|たけとみしま}}[[竹富島]]
+|{{Display none|19870428}}[[1987年]][[4月28日]]
+|3
+|島の農村集落
+|38.3
+|[[ファイル:Village in Taketomi Island - located at southwest Japan.jpg|150x150px|center]]
+|}
+
+== 課題 ==
+[[文化庁]]の実務手引きでは、重伝建制度の運用課題を、保存活用計画における許可基準・修理基準・修景基準の設定、現状変更規制の運用、住民生活との両立、防災計画や環境整備計画の実施を含む総合的なマネジメントとして整理している<ref name="bunka_guide_2026" /><ref name="egov_bunkazai143_2026" />。
+
+重伝建に選定される地域の道路形態は、自動車交通に対応していないところが多い。これはインフラ整備などによる開発から取り残されたり、元々交通の不便な島嶼や山村であったりしたために、結果的に伝統的な建造物が残ったケースが多いからであるが、重伝建選定時の伝統的建造物と[[都市計画道路|都市計画決定済みの道路]]との関係や観光客の増加に伴う自動車交通への対応などが課題になることが多い。その他にも、歴史的風致に関わる建造物の外観・外構について増改築に制約が掛かるほか、観光客のマナー問題（騒音やごみ、私有地への無断立ち入りなど）によって、そこで生活する住民にとってマイナス要素となることがある。
+
+その一方で、制約がかかる部分の修理には8割前後の市町村補助が有り、ほとんどが伝統木造建築であることから防災事業が行われることが多い。国は市町村補助・事業の5割（場合によってはそれ以上）を負担する。また、伝統的建造物及びその土地については、相続税と固定資産税に一定の優遇措置がとられる。したがって、伝統的な町並みや建物を活かしたいと考える自治体・住民にとっては、プラス要素が大きい制度である。
+
+== 参考文献 ==
+脚注に使用。主な執筆者の順。
+
+; 文化材保護法研究会
+* {{Cite book|和書|author= 文化財保護法研究会 監修|title= 文化財保護関係法令集|publisher= ぎょうせい|edition=第3次改訂|ref={{SfnRef|文化財保護法研究会（3改）|2009}}|year=2009}}{{国立国会図書館書誌ID|000010269466}}、{{全国書誌番号|21617379}}、{{ISBN|978-4-324-08773-2}}（第2次改訂版は2006年刊）
+** 「重要文化的景観選定基準（平成17年文部科学省告示第47号）2240頁。
+** 「重要伝統的建造物群保存地区選定基準（昭和50年文部省告示第157号）2240頁。
+** 「選定保存技術の選定並びに保持者及び保存団体の認定の基準」
+; 文化庁
+* {{Cite book|和書|author= 文化庁文化財部 監修|title= 文化財保護関係法令集|ref={{SfnRef|文化庁文化財部|2009}}|publisher= 文化庁|year=2008}}{{国立国会図書館書誌ID|000010023909}}、{{全国書誌番号|21547633}}。
+** 「重要文化的景観選定基準（平成17年文部科学省告示第47号）」2480頁。
+** 「重要伝統的建造物群保存地区選定基準（昭和50年文部省告示第157号）」2480頁。
+** 「選定保存技術の選定並びに保持者及び保存団体の認定の基準」
+* {{Cite book|和書|author= 文化庁文化財部参事官（建造物担当）|title= 伝統的建造物群保存地区制度関係法令集|publisher= 文化庁|ref={{SfnRef|文化庁文化財部参事官（建造物担当）|2008}}|year=2008}}{{国立国会図書館書誌ID|000010269466}}、{{全国書誌番号|21617379}}。
+** 「伝統的建造物群保存地区保存計画（作成例）」27頁。
+** 2省令「（4）伝統的建造物群保存地区に関する条例の制定等の場合の報告に関する規則（昭和50年文部省令31号）」196頁。
+** 2省令「（6）重要伝統的建造物群保存地区の選定の申出に関する規則（昭和50年文部省令第32号）」198頁。
+** 告示「○重要伝統的建造物群保存地区選定基準（昭和50年文部省告示第157）」224頁。
+* {{Cite book|和書|author= 文化庁文化財部参事官（建造物担当）|title= 歴史を活かしたまちづくり : 重要伝統的建造物群保存地区109|publisher= 文化庁|ref={{SfnRef|文化庁文化財部参事官（建造物担当）|2015}}|year=2015}}{{国立国会図書館書誌ID|026643392}}、{{全国書誌番号|22625544}}。伝統的建造物群保存地区制度40周年。
+** 「重要伝統的建造物群保存地区一覧」6頁。
+** 「伝建制度の40年（文化庁文化財部参事官伝統的建造物群部門）」11頁。
+** 「II 重要伝統的建造物群保存地区の概要」
+*** 「1 函館市元町末広町（港町 北海道）」（18頁）から「109 竹富町竹富島（島の農村集落 沖縄）」（234頁）。
+** 「III 資料編」
+*** 「重要伝統的建造物群保存地区一覧（選定順）」245頁。
+*** 「重要伝統的建造物群保存地区選定数の推移」249頁。
+*** 「文化庁予算の推移（伝統的建造物群）」249頁。
+*** 「伝統的建造物群保存地区制度フローチャート」262頁。
+*** 「文化財保護法（抄）」263頁。
+*** 「文化財保護法施行令（抄）」266頁。
+*** 「重要伝統的建造物群保存地区選定基準」267頁。
+*** 「伝統的建造物群保存地区の現状変更規制の概要」268頁。
+*** 「年表」269頁。
+; 文部科学省
+* {{Cite journal|和書|author=盛山正仁（文部科学大臣）|year=2023|date=2023年12月15日|title=文部科学省告示第137：伝統的建造物群保存地区を重要伝統的建造物群保存地区として選定する件|journal=官報|issue=1124|page=6|ref={{SfnRef|官報|2023}}|work=告示}}
+
+== 脚注 ==
+{{脚注ヘルプ}}
+=== 注釈 ===
+{{Notelist}}
+=== 出典 ===
+{{Reflist|30em}}
+
+== 関連資料 ==
+* {{Cite book|和書|author= 文化庁|title= 文化財保護法五十年史|publisher= ぎょうせい|year=2001}}{{国立国会図書館書誌ID|000003012629}}、{{全国書誌番号|20203741}}。
+** 「第3章 伝統的建造物群の保護」184頁。
+** 「第3編 資料・統計 §3 指定等基準」
+*** 「特別史跡名勝天然記念物及び史跡名勝天然記念物指定基準」580（9）
+*** 「（10）重要伝統的建造物群保存地区選定基準」581
+*** 「（10）重要伝統的建造物群保存地区選定一覧」592
+*** 「選定保存技術の選定並びに保持者及び保存団体の認定の基準」581（4）
+*** 「10 伝統的建造物群関係資料 §（1）伝統的建造物群保存地区原因別被害棟数」614
+
+== 関連項目 ==
+* [[文化財]]
+* [[登録有形文化財]]
+* [[伝統的建造物群保存地区]]
+* [[観光都市]]
+* [[町並み保存]]
+* [[重要文化的景観]]
+
+== 外部リンク ==
+{{Commonscat|Important Preservation Districts for Groups of Historic Buildings in Japan}}
+* {{Official website|https://www.bunka.go.jp/seisaku/bunkazai/shokai/hozonchiku/judenken_ichiran.html}} 重要伝統的建造物群保存地区一覧 - 文化庁
+* [https://web.archive.org/web/20190717165448/https://www.city.sasayama.hyogo.jp/pc/group/shakaikyoiku/sightseeing/post-21.html 全国の重要伝統的建造物群保存地区一覧] - 篠山市教育委員会
+* [https://www.denken.gr.jp/archive/index.html 保存整備の急がれる保存地区] 全国伝統的建造物群保存地区協議会（略号：伝建協（でんけんきょう））
+
+{{日本の文化財}}
+{{重要伝統的建造物群保存地区}}
+{{DEFAULTSORT:しゆうようてんとうてきけんそうふつくんほそんちく}}
+[[Category:重要伝統的建造物群保存地区|*]]
+[[Category:地域地区]]
+[[Category:日本の景観一覧]]
+[[Category:1975年設立]]

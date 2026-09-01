@@ -1,0 +1,1034 @@
+[
+ {
+  "prefecture": "北海道",
+  "city": "函館市",
+  "name": "元町末広町",
+  "date": "1989年4月21日",
+  "kind": "港町",
+  "areaHa": "14.5"
+ },
+ {
+  "prefecture": "青森県",
+  "city": "弘前市",
+  "name": "仲町",
+  "date": "1978年5月31日",
+  "kind": "武家町",
+  "areaHa": "10.6"
+ },
+ {
+  "prefecture": "青森県",
+  "city": "黒石市",
+  "name": "中町",
+  "date": "2005年7月22日",
+  "kind": "商家町",
+  "areaHa": "3.1"
+ },
+ {
+  "prefecture": "岩手県",
+  "city": "金ケ崎町",
+  "name": "城内諏訪小路",
+  "date": "2001年6月15日",
+  "kind": "武家町",
+  "areaHa": "34.8"
+ },
+ {
+  "prefecture": "宮城県",
+  "city": "村田町",
+  "name": "村田",
+  "date": "2014年9月18日",
+  "kind": "商家町",
+  "areaHa": "7.4"
+ },
+ {
+  "prefecture": "秋田県",
+  "city": "横手市",
+  "name": "増田",
+  "date": "2013年12月27日",
+  "kind": "在郷町",
+  "areaHa": "10.6"
+ },
+ {
+  "prefecture": "秋田県",
+  "city": "仙北市",
+  "name": "角館",
+  "date": "1976年9月4日",
+  "kind": "武家町",
+  "areaHa": "6.9"
+ },
+ {
+  "prefecture": "福島県",
+  "city": "喜多方市",
+  "name": "小田付",
+  "date": "2018年8月17日",
+  "kind": "在郷町・醸造町",
+  "areaHa": "15.5"
+ },
+ {
+  "prefecture": "福島県",
+  "city": "下郷町",
+  "name": "大内宿",
+  "date": "1981年4月18日",
+  "kind": "宿場町",
+  "areaHa": "11.3"
+ },
+ {
+  "prefecture": "福島県",
+  "city": "南会津町",
+  "name": "前沢",
+  "date": "2011年6月20日",
+  "kind": "山村集落",
+  "areaHa": "13.3"
+ },
+ {
+  "prefecture": "茨城県",
+  "city": "桜川市",
+  "name": "真壁",
+  "date": "2010年6月29日",
+  "kind": "在郷町",
+  "areaHa": "17.6"
+ },
+ {
+  "prefecture": "栃木県",
+  "city": "栃木市",
+  "name": "嘉右衛門町",
+  "date": "2012年7月9日",
+  "kind": "在郷町",
+  "areaHa": "9.6"
+ },
+ {
+  "prefecture": "群馬県",
+  "city": "桐生市",
+  "name": "桐生新町",
+  "date": "2012年7月9日",
+  "kind": "製織町",
+  "areaHa": "13.4"
+ },
+ {
+  "prefecture": "群馬県",
+  "city": "中之条町",
+  "name": "六合赤岩",
+  "date": "2006年7月5日",
+  "kind": "山村・養蚕集落",
+  "areaHa": "63.0"
+ },
+ {
+  "prefecture": "埼玉県",
+  "city": "川越市",
+  "name": "川越",
+  "date": "1999年12月1日",
+  "kind": "商家町",
+  "areaHa": "7.8"
+ },
+ {
+  "prefecture": "千葉県",
+  "city": "香取市",
+  "name": "佐原",
+  "date": "1996年12月10日",
+  "kind": "商家町",
+  "areaHa": "7.1"
+ },
+ {
+  "prefecture": "新潟県",
+  "city": "佐渡市",
+  "name": "宿根木",
+  "date": "1991年4月30日",
+  "kind": "港町",
+  "areaHa": "28.5"
+ },
+ {
+  "prefecture": "新潟県",
+  "city": "佐渡市",
+  "name": "小木町",
+  "date": "2024年8月15日",
+  "kind": "港町",
+  "areaHa": "13.3"
+ },
+ {
+  "prefecture": "富山県",
+  "city": "高岡市",
+  "name": "山町筋",
+  "date": "2000年12月4日",
+  "kind": "商家町",
+  "areaHa": "5.5"
+ },
+ {
+  "prefecture": "富山県",
+  "city": "高岡市",
+  "name": "金屋町",
+  "date": "2012年12月28日",
+  "kind": "鋳物師町",
+  "areaHa": "6.4"
+ },
+ {
+  "prefecture": "富山県",
+  "city": "高岡市",
+  "name": "吉久",
+  "date": "2020年12月23日",
+  "kind": "在郷町",
+  "areaHa": "4.1"
+ },
+ {
+  "prefecture": "富山県",
+  "city": "南砺市",
+  "name": "相倉（五箇山）",
+  "date": "1994年12月21日",
+  "kind": "山村集落",
+  "areaHa": "18.0"
+ },
+ {
+  "prefecture": "富山県",
+  "city": "南砺市",
+  "name": "菅沼（五箇山）",
+  "date": "1994年12月21日",
+  "kind": "山村集落",
+  "areaHa": "4.4"
+ },
+ {
+  "prefecture": "石川県",
+  "city": "金沢市",
+  "name": "東山ひがし",
+  "date": "2001年11月14日",
+  "kind": "茶屋町",
+  "areaHa": "1.8"
+ },
+ {
+  "prefecture": "石川県",
+  "city": "金沢市",
+  "name": "主計町",
+  "date": "2008年6月9日",
+  "kind": "茶屋町",
+  "areaHa": "0.6"
+ },
+ {
+  "prefecture": "石川県",
+  "city": "金沢市",
+  "name": "卯辰山麓",
+  "date": "2011年11月29日",
+  "kind": "寺町",
+  "areaHa": "22.1"
+ },
+ {
+  "prefecture": "石川県",
+  "city": "金沢市",
+  "name": "寺町台",
+  "date": "2012年12月28日",
+  "kind": "寺町",
+  "areaHa": "22.0"
+ },
+ {
+  "prefecture": "石川県",
+  "city": "輪島市",
+  "name": "黒島地区",
+  "date": "2009年6月30日",
+  "kind": "船主集落",
+  "areaHa": "20.5"
+ },
+ {
+  "prefecture": "石川県",
+  "city": "加賀市",
+  "name": "加賀橋立",
+  "date": "2005年12月27日",
+  "kind": "船主集落",
+  "areaHa": "11.0"
+ },
+ {
+  "prefecture": "石川県",
+  "city": "加賀市",
+  "name": "加賀東谷",
+  "date": "2011年11月29日",
+  "kind": "山村集落",
+  "areaHa": "151.8"
+ },
+ {
+  "prefecture": "石川県",
+  "city": "白山市",
+  "name": "白峰",
+  "date": "2012年7月9日",
+  "kind": "山村・養蚕集落",
+  "areaHa": "10.7"
+ },
+ {
+  "prefecture": "福井県",
+  "city": "小浜市",
+  "name": "小浜西組",
+  "date": "2008年6月9日",
+  "kind": "商家町・茶屋町",
+  "areaHa": "19.1"
+ },
+ {
+  "prefecture": "福井県",
+  "city": "南越前町",
+  "name": "今庄宿",
+  "date": "2021年8月2日",
+  "kind": "宿場町",
+  "areaHa": "9.2"
+ },
+ {
+  "prefecture": "福井県",
+  "city": "若狭町",
+  "name": "熊川宿",
+  "date": "1996年7月9日",
+  "kind": "宿場町",
+  "areaHa": "10.8"
+ },
+ {
+  "prefecture": "山梨県",
+  "city": "甲州市",
+  "name": "塩山下小田原上条",
+  "date": "2015年7月8日",
+  "kind": "山村・養蚕集落",
+  "areaHa": "15.1"
+ },
+ {
+  "prefecture": "山梨県",
+  "city": "早川町",
+  "name": "赤沢",
+  "date": "1993年7月14日",
+  "kind": "山村・講中宿",
+  "areaHa": "25.6"
+ },
+ {
+  "prefecture": "長野県",
+  "city": "長野市",
+  "name": "戸隠",
+  "date": "2017年2月23日",
+  "kind": "宿坊群・門前町",
+  "areaHa": "73.3"
+ },
+ {
+  "prefecture": "長野県",
+  "city": "須坂市",
+  "name": "須坂",
+  "date": "2024年8月15日",
+  "kind": "製糸町・商家町",
+  "areaHa": "18.3"
+ },
+ {
+  "prefecture": "長野県",
+  "city": "塩尻市",
+  "name": "奈良井",
+  "date": "1978年3月31日",
+  "kind": "宿場町",
+  "areaHa": "17.6"
+ },
+ {
+  "prefecture": "長野県",
+  "city": "塩尻市",
+  "name": "木曾平沢",
+  "date": "2006年7月5日",
+  "kind": "漆工町",
+  "areaHa": "12.5"
+ },
+ {
+  "prefecture": "長野県",
+  "city": "千曲市",
+  "name": "稲荷山",
+  "date": "2014年12月10日",
+  "kind": "商家町",
+  "areaHa": "13.0"
+ },
+ {
+  "prefecture": "長野県",
+  "city": "東御市",
+  "name": "海野宿",
+  "date": "1987年4月28日",
+  "kind": "宿場・養蚕町",
+  "areaHa": "13.2"
+ },
+ {
+  "prefecture": "長野県",
+  "city": "南木曽町",
+  "name": "妻籠宿",
+  "date": "1976年9月4日",
+  "kind": "宿場町",
+  "areaHa": "1245.4"
+ },
+ {
+  "prefecture": "長野県",
+  "city": "白馬村",
+  "name": "青鬼",
+  "date": "2000年12月4日",
+  "kind": "山村集落",
+  "areaHa": "59.7"
+ },
+ {
+  "prefecture": "岐阜県",
+  "city": "高山市",
+  "name": "三町",
+  "date": "1979年2月3日",
+  "kind": "商家町",
+  "areaHa": "4.4"
+ },
+ {
+  "prefecture": "岐阜県",
+  "city": "高山市",
+  "name": "下二之町大新町",
+  "date": "2004年7月6日",
+  "kind": "商家町",
+  "areaHa": "6.6"
+ },
+ {
+  "prefecture": "岐阜県",
+  "city": "美濃市",
+  "name": "美濃町",
+  "date": "1999年5月13日",
+  "kind": "商家町",
+  "areaHa": "9.3"
+ },
+ {
+  "prefecture": "岐阜県",
+  "city": "恵那市",
+  "name": "岩村町本通り",
+  "date": "1998年4月17日",
+  "kind": "商家町",
+  "areaHa": "14.6"
+ },
+ {
+  "prefecture": "岐阜県",
+  "city": "郡上市",
+  "name": "郡上八幡北町",
+  "date": "2012年12月28日",
+  "kind": "城下町",
+  "areaHa": "14.1"
+ },
+ {
+  "prefecture": "岐阜県",
+  "city": "白川村",
+  "name": "荻町（白川郷）",
+  "date": "1976年9月4日",
+  "kind": "山村集落",
+  "areaHa": "45.6"
+ },
+ {
+  "prefecture": "静岡県",
+  "city": "焼津市",
+  "name": "花沢",
+  "date": "2014年9月18日",
+  "kind": "山村集落",
+  "areaHa": "19.5"
+ },
+ {
+  "prefecture": "愛知県",
+  "city": "名古屋市（緑区）",
+  "name": "有松",
+  "date": "2016年7月25日",
+  "kind": "染織町",
+  "areaHa": "7.3"
+ },
+ {
+  "prefecture": "愛知県",
+  "city": "豊田市",
+  "name": "足助",
+  "date": "2011年6月20日",
+  "kind": "商家町",
+  "areaHa": "21.5"
+ },
+ {
+  "prefecture": "三重県",
+  "city": "亀山市",
+  "name": "関宿",
+  "date": "1984年12月10日",
+  "kind": "宿場町",
+  "areaHa": "25.0"
+ },
+ {
+  "prefecture": "滋賀県",
+  "city": "大津市",
+  "name": "坂本",
+  "date": "1997年10月31日",
+  "kind": "里坊群・門前町",
+  "areaHa": "28.7"
+ },
+ {
+  "prefecture": "滋賀県",
+  "city": "彦根市",
+  "name": "河原町芹町",
+  "date": "2016年7月25日",
+  "kind": "商家町",
+  "areaHa": "5.0"
+ },
+ {
+  "prefecture": "滋賀県",
+  "city": "近江八幡市",
+  "name": "八幡",
+  "date": "1991年4月30日",
+  "kind": "商家町",
+  "areaHa": "13.1"
+ },
+ {
+  "prefecture": "滋賀県",
+  "city": "東近江市",
+  "name": "五個荘金堂",
+  "date": "1998年12月25日",
+  "kind": "農村集落",
+  "areaHa": "32.2"
+ },
+ {
+  "prefecture": "京都府",
+  "city": "京都市（北区）",
+  "name": "上賀茂",
+  "date": "1988年12月16日",
+  "kind": "社家町",
+  "areaHa": "2.7"
+ },
+ {
+  "prefecture": "京都府",
+  "city": "京都市（東山区）",
+  "name": "産寧坂",
+  "date": "1976年9月4日",
+  "kind": "門前町",
+  "areaHa": "8.2"
+ },
+ {
+  "prefecture": "京都府",
+  "city": "京都市（東山区）",
+  "name": "祇園新橋",
+  "date": "1976年9月4日",
+  "kind": "茶屋町",
+  "areaHa": "1.4"
+ },
+ {
+  "prefecture": "京都府",
+  "city": "京都市（右京区）",
+  "name": "嵯峨鳥居本",
+  "date": "1979年5月21日",
+  "kind": "門前町",
+  "areaHa": "2.6"
+ },
+ {
+  "prefecture": "京都府",
+  "city": "南丹市",
+  "name": "美山町北",
+  "date": "1993年12月8日",
+  "kind": "山村集落",
+  "areaHa": "127.5"
+ },
+ {
+  "prefecture": "京都府",
+  "city": "伊根町",
+  "name": "伊根浦",
+  "date": "2005年7月22日",
+  "kind": "漁村",
+  "areaHa": "310.2"
+ },
+ {
+  "prefecture": "京都府",
+  "city": "与謝野町",
+  "name": "加悦",
+  "date": "2005年12月27日",
+  "kind": "製織町",
+  "areaHa": "12.0"
+ },
+ {
+  "prefecture": "大阪府",
+  "city": "富田林市",
+  "name": "富田林",
+  "date": "1997年10月31日",
+  "kind": "寺内町・在郷町",
+  "areaHa": "12.9"
+ },
+ {
+  "prefecture": "兵庫県",
+  "city": "神戸市（中央区）",
+  "name": "北野町山本通",
+  "date": "1980年4月10日",
+  "kind": "港町",
+  "areaHa": "9.3"
+ },
+ {
+  "prefecture": "兵庫県",
+  "city": "豊岡市",
+  "name": "出石",
+  "date": "2007年12月4日",
+  "kind": "城下町",
+  "areaHa": "23.1"
+ },
+ {
+  "prefecture": "兵庫県",
+  "city": "丹波篠山市",
+  "name": "篠山",
+  "date": "2004年12月10日",
+  "kind": "城下町",
+  "areaHa": "40.2"
+ },
+ {
+  "prefecture": "兵庫県",
+  "city": "丹波篠山市",
+  "name": "福住",
+  "date": "2012年12月28日",
+  "kind": "宿場町・農村集落",
+  "areaHa": "25.2"
+ },
+ {
+  "prefecture": "兵庫県",
+  "city": "養父市",
+  "name": "大屋町大杉",
+  "date": "2017年7月31日",
+  "kind": "山村・養蚕集落",
+  "areaHa": "5.8"
+ },
+ {
+  "prefecture": "兵庫県",
+  "city": "たつの市",
+  "name": "龍野",
+  "date": "2019年12月23日",
+  "kind": "商家町・醸造町",
+  "areaHa": "15.9"
+ },
+ {
+  "prefecture": "奈良県",
+  "city": "橿原市",
+  "name": "今井町",
+  "date": "1993年12月8日",
+  "kind": "寺内町・在郷町",
+  "areaHa": "17.4"
+ },
+ {
+  "prefecture": "奈良県",
+  "city": "五條市",
+  "name": "五條新町",
+  "date": "2010年12月24日",
+  "kind": "商家町",
+  "areaHa": "7.0"
+ },
+ {
+  "prefecture": "奈良県",
+  "city": "宇陀市",
+  "name": "松山",
+  "date": "2006年7月5日",
+  "kind": "商家町",
+  "areaHa": "17.0"
+ },
+ {
+  "prefecture": "和歌山県",
+  "city": "湯浅町",
+  "name": "湯浅",
+  "date": "2006年12月19日",
+  "kind": "醸造町",
+  "areaHa": "6.3"
+ },
+ {
+  "prefecture": "鳥取県",
+  "city": "倉吉市",
+  "name": "打吹玉川",
+  "date": "1998年12月19日",
+  "kind": "商家町",
+  "areaHa": "9.2"
+ },
+ {
+  "prefecture": "鳥取県",
+  "city": "若桜町",
+  "name": "若桜",
+  "date": "2021年8月2日",
+  "kind": "商家町",
+  "areaHa": "9.5"
+ },
+ {
+  "prefecture": "鳥取県",
+  "city": "大山町",
+  "name": "所子",
+  "date": "2013年12月27日",
+  "kind": "農村集落",
+  "areaHa": "25.8"
+ },
+ {
+  "prefecture": "島根県",
+  "city": "大田市",
+  "name": "大森銀山",
+  "date": "1987年12月5日",
+  "kind": "鉱山町",
+  "areaHa": "162.7"
+ },
+ {
+  "prefecture": "島根県",
+  "city": "大田市",
+  "name": "温泉津",
+  "date": "2004年7月6日",
+  "kind": "港町・温泉町",
+  "areaHa": "36.6"
+ },
+ {
+  "prefecture": "島根県",
+  "city": "津和野町",
+  "name": "津和野",
+  "date": "2013年8月7日",
+  "kind": "武家町・商家町",
+  "areaHa": "11.1"
+ },
+ {
+  "prefecture": "岡山県",
+  "city": "倉敷市",
+  "name": "倉敷川畔",
+  "date": "1979年5月21日",
+  "kind": "商家町",
+  "areaHa": "15.0"
+ },
+ {
+  "prefecture": "岡山県",
+  "city": "津山市",
+  "name": "城東",
+  "date": "2013年8月7日",
+  "kind": "商家町",
+  "areaHa": "8.1"
+ },
+ {
+  "prefecture": "岡山県",
+  "city": "津山市",
+  "name": "城西",
+  "date": "2020年12月23日",
+  "kind": "寺町・商家町",
+  "areaHa": "12.0"
+ },
+ {
+  "prefecture": "岡山県",
+  "city": "高梁市",
+  "name": "吹屋",
+  "date": "1977年5月18日",
+  "kind": "鉱山町",
+  "areaHa": "6.4"
+ },
+ {
+  "prefecture": "岡山県",
+  "city": "矢掛町",
+  "name": "矢掛宿",
+  "date": "2020年12月23日",
+  "kind": "宿場町",
+  "areaHa": "11.5"
+ },
+ {
+  "prefecture": "広島県",
+  "city": "呉市",
+  "name": "豊町御手洗",
+  "date": "1994年7月4日",
+  "kind": "港町",
+  "areaHa": "6.9"
+ },
+ {
+  "prefecture": "広島県",
+  "city": "竹原市",
+  "name": "竹原地区",
+  "date": "1982年12月16日",
+  "kind": "製塩町",
+  "areaHa": "5.0"
+ },
+ {
+  "prefecture": "広島県",
+  "city": "福山市",
+  "name": "鞆町",
+  "date": "2017年11月28日",
+  "kind": "港町",
+  "areaHa": "8.6"
+ },
+ {
+  "prefecture": "広島県",
+  "city": "廿日市市",
+  "name": "宮島町",
+  "date": "2021年8月2日",
+  "kind": "門前町",
+  "areaHa": "16.8"
+ },
+ {
+  "prefecture": "山口県",
+  "city": "萩市",
+  "name": "堀内地区",
+  "date": "1976年9月4日",
+  "kind": "武家町",
+  "areaHa": "55.0"
+ },
+ {
+  "prefecture": "山口県",
+  "city": "萩市",
+  "name": "平安古地区",
+  "date": "1976年9月4日",
+  "kind": "武家町",
+  "areaHa": "4.0"
+ },
+ {
+  "prefecture": "山口県",
+  "city": "萩市",
+  "name": "浜崎",
+  "date": "2001年11月14日",
+  "kind": "港町",
+  "areaHa": "10.3"
+ },
+ {
+  "prefecture": "山口県",
+  "city": "萩市",
+  "name": "佐々並市",
+  "date": "2011年6月20日",
+  "kind": "宿場町",
+  "areaHa": "20.8"
+ },
+ {
+  "prefecture": "山口県",
+  "city": "柳井市",
+  "name": "古市金屋",
+  "date": "1984年12月10日",
+  "kind": "商家町",
+  "areaHa": "1.7"
+ },
+ {
+  "prefecture": "徳島県",
+  "city": "美馬市",
+  "name": "脇町南町",
+  "date": "1988年12月16日",
+  "kind": "商家町",
+  "areaHa": "5.3"
+ },
+ {
+  "prefecture": "徳島県",
+  "city": "三好市",
+  "name": "東祖谷山村落合",
+  "date": "2005年12月27日",
+  "kind": "山村集落",
+  "areaHa": "32.3"
+ },
+ {
+  "prefecture": "徳島県",
+  "city": "牟岐町",
+  "name": "出羽島",
+  "date": "2017年2月23日",
+  "kind": "漁村集落",
+  "areaHa": "3.7"
+ },
+ {
+  "prefecture": "香川県",
+  "city": "丸亀市",
+  "name": "塩飽本島町笠島",
+  "date": "1985年4月13日",
+  "kind": "港町",
+  "areaHa": "13.1"
+ },
+ {
+  "prefecture": "愛媛県",
+  "city": "宇和島市",
+  "name": "津島町岩松。}}",
+  "date": "2023年12月15日",
+  "kind": "在郷町",
+  "areaHa": "10.6"
+ },
+ {
+  "prefecture": "愛媛県",
+  "city": "西予市",
+  "name": "宇和町卯之町",
+  "date": "2009年12月8日",
+  "kind": "在郷町",
+  "areaHa": "4.9"
+ },
+ {
+  "prefecture": "愛媛県",
+  "city": "内子町",
+  "name": "八日市護国",
+  "date": "1982年4月17日",
+  "kind": "製蝋町",
+  "areaHa": "3.5"
+ },
+ {
+  "prefecture": "高知県",
+  "city": "室戸市",
+  "name": "吉良川町",
+  "date": "1997年10月31日",
+  "kind": "在郷町",
+  "areaHa": "18.3"
+ },
+ {
+  "prefecture": "高知県",
+  "city": "安芸市",
+  "name": "土居廓中",
+  "date": "2012年7月9日",
+  "kind": "武家町",
+  "areaHa": "9.2"
+ },
+ {
+  "prefecture": "福岡県",
+  "city": "八女市",
+  "name": "八女福島",
+  "date": "2002年5月23日",
+  "kind": "商家町",
+  "areaHa": "19.8"
+ },
+ {
+  "prefecture": "福岡県",
+  "city": "八女市",
+  "name": "黒木",
+  "date": "2009年6月30日",
+  "kind": "在郷町",
+  "areaHa": "18.4"
+ },
+ {
+  "prefecture": "福岡県",
+  "city": "うきは市",
+  "name": "筑後吉井",
+  "date": "1996年12月10日",
+  "kind": "在郷町",
+  "areaHa": "20.7"
+ },
+ {
+  "prefecture": "福岡県",
+  "city": "うきは市",
+  "name": "新川田篭",
+  "date": "2012年7月9日",
+  "kind": "山村集落",
+  "areaHa": "71.2"
+ },
+ {
+  "prefecture": "福岡県",
+  "city": "朝倉市",
+  "name": "秋月",
+  "date": "1998年4月17日",
+  "kind": "城下町",
+  "areaHa": "58.6"
+ },
+ {
+  "prefecture": "佐賀県",
+  "city": "鹿島市",
+  "name": "浜庄津町浜金屋町",
+  "date": "2006年7月5日",
+  "kind": "港町・在郷町",
+  "areaHa": "2.0"
+ },
+ {
+  "prefecture": "佐賀県",
+  "city": "鹿島市",
+  "name": "浜中町八本木宿",
+  "date": "2006年7月5日",
+  "kind": "醸造町",
+  "areaHa": "6.7"
+ },
+ {
+  "prefecture": "佐賀県",
+  "city": "嬉野市",
+  "name": "塩田津",
+  "date": "2005年12月27日",
+  "kind": "商家町",
+  "areaHa": "12.8"
+ },
+ {
+  "prefecture": "佐賀県",
+  "city": "有田町",
+  "name": "有田内山",
+  "date": "1991年4月30日",
+  "kind": "製磁町",
+  "areaHa": "15.9"
+ },
+ {
+  "prefecture": "長崎県",
+  "city": "長崎市",
+  "name": "東山手",
+  "date": "1991年4月30日",
+  "kind": "港町",
+  "areaHa": "7.5"
+ },
+ {
+  "prefecture": "長崎県",
+  "city": "長崎市",
+  "name": "南山手",
+  "date": "1991年4月30日",
+  "kind": "港町",
+  "areaHa": "17.0"
+ },
+ {
+  "prefecture": "長崎県",
+  "city": "平戸市",
+  "name": "大島村神浦",
+  "date": "2008年6月9日",
+  "kind": "港町",
+  "areaHa": "21.2"
+ },
+ {
+  "prefecture": "長崎県",
+  "city": "雲仙市",
+  "name": "神代小路",
+  "date": "2005年7月22日",
+  "kind": "武家町",
+  "areaHa": "9.8"
+ },
+ {
+  "prefecture": "大分県",
+  "city": "日田市",
+  "name": "豆田町",
+  "date": "2004年12月10日",
+  "kind": "商家町",
+  "areaHa": "10.7"
+ },
+ {
+  "prefecture": "大分県",
+  "city": "杵築市",
+  "name": "北台南台",
+  "date": "2017年11月28日",
+  "kind": "武家町",
+  "areaHa": "16.1"
+ },
+ {
+  "prefecture": "宮崎県",
+  "city": "日南市",
+  "name": "飫肥",
+  "date": "1977年5月18日",
+  "kind": "武家町",
+  "areaHa": "19.8"
+ },
+ {
+  "prefecture": "宮崎県",
+  "city": "日向市",
+  "name": "美々津",
+  "date": "1986年12月8日",
+  "kind": "港町",
+  "areaHa": "7.2"
+ },
+ {
+  "prefecture": "宮崎県",
+  "city": "椎葉村",
+  "name": "十根川",
+  "date": "1998年12月25日",
+  "kind": "山村集落",
+  "areaHa": "39.9"
+ },
+ {
+  "prefecture": "鹿児島県",
+  "city": "出水市",
+  "name": "出水麓",
+  "date": "1995年12月26日",
+  "kind": "武家町",
+  "areaHa": "43.8"
+ },
+ {
+  "prefecture": "鹿児島県",
+  "city": "薩摩川内市",
+  "name": "入来麓",
+  "date": "2003年12月25日",
+  "kind": "武家町",
+  "areaHa": "19.2"
+ },
+ {
+  "prefecture": "鹿児島県",
+  "city": "南さつま市",
+  "name": "加世田麓",
+  "date": "2019年12月23日",
+  "kind": "武家町",
+  "areaHa": "20.0"
+ },
+ {
+  "prefecture": "鹿児島県",
+  "city": "南九州市",
+  "name": "知覧",
+  "date": "1981年11月30日",
+  "kind": "武家町",
+  "areaHa": "18.6"
+ },
+ {
+  "prefecture": "沖縄県",
+  "city": "渡名喜村",
+  "name": "渡名喜島",
+  "date": "2000年5月25日",
+  "kind": "島の農村集落",
+  "areaHa": "21.4"
+ },
+ {
+  "prefecture": "沖縄県",
+  "city": "竹富町",
+  "name": "竹富島",
+  "date": "1987年4月28日",
+  "kind": "島の農村集落",
+  "areaHa": "38.3"
+ }
+]

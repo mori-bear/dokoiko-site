@@ -1,0 +1,451 @@
+[
+  {
+    "id": "kanegasaki",
+    "name": "金ケ崎城内諏訪小路",
+    "prefecture": "岩手県",
+    "city": "金ケ崎町",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.00km (wikipedia×wikidata)",
+      "nearby": "なし"
+    },
+    "sources": [
+      {
+        "src": "wikipedia",
+        "lat": 39.19611111,
+        "lng": 141.12194444,
+        "note": "金ケ崎町城内諏訪小路"
+      },
+      {
+        "src": "wikidata",
+        "lat": 39.196111,
+        "lng": 141.121944,
+        "note": "Q11646271"
+      }
+    ],
+    "distanceKm": 0,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "lat": 39.19611,
+    "lng": 141.12194,
+    "pass": true
+  },
+  {
+    "id": "murata-miyagi",
+    "name": "村田商家町",
+    "prefecture": "宮城県",
+    "city": "村田町",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "2ソース未満 (wikipedia)"
+    },
+    "sources": [
+      {
+        "src": "wikipedia",
+        "lat": 38.11853,
+        "lng": 140.72242,
+        "note": "村田町"
+      }
+    ],
+    "pass": false
+  },
+  {
+    "id": "kaemon",
+    "name": "栃木嘉右衛門町",
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "2ソース未満 (osm)"
+    },
+    "sources": [
+      {
+        "src": "osm",
+        "lat": 36.388573,
+        "lng": 139.7336054,
+        "note": "嘉右衛門町 嘉右衛門町"
+      }
+    ],
+    "pass": false
+  },
+  {
+    "id": "akaiwa-gunma",
+    "name": "六合赤岩",
+    "prefecture": "群馬県",
+    "city": "中之条町",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "2ソース未満 (wikidata)"
+    },
+    "sources": [
+      {
+        "src": "wikidata",
+        "lat": 36.576852,
+        "lng": 138.627226,
+        "note": "Q11635536"
+      }
+    ],
+    "pass": false
+  },
+  {
+    "id": "imajo",
+    "name": "今庄宿",
+    "prefecture": "福井県",
+    "city": "南越前町",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.00km (wikipedia×wikidata)",
+      "nearby": "なし"
+    },
+    "sources": [
+      {
+        "src": "wikipedia",
+        "lat": 35.77277778,
+        "lng": 136.19666667,
+        "note": "今庄宿"
+      },
+      {
+        "src": "wikidata",
+        "lat": 35.772777777777776,
+        "lng": 136.19666666666666,
+        "note": "Q105063771"
+      }
+    ],
+    "distanceKm": 0,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "lat": 35.77278,
+    "lng": 136.19667,
+    "pass": true
+  },
+  {
+    "id": "shioyama-kamijo",
+    "name": "塩山下小田原上条",
+    "prefecture": "山梨県",
+    "city": "甲州市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "2ソース未満 (なし)"
+    },
+    "sources": [],
+    "pass": false
+  },
+  {
+    "id": "suzaka",
+    "name": "須坂",
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.00km (wikipedia×wikidata)",
+      "nearby": "なし"
+    },
+    "sources": [
+      {
+        "src": "wikipedia",
+        "lat": 36.65111,
+        "lng": 138.30725,
+        "note": "須坂市"
+      },
+      {
+        "src": "wikidata",
+        "lat": 36.65111111111111,
+        "lng": 138.30725,
+        "note": "Q850461"
+      },
+      {
+        "src": "osm",
+        "lat": 36.6567509,
+        "lng": 138.3044761,
+        "note": "須坂 須坂 須坂"
+      },
+      {
+        "src": "gsi",
+        "lat": 36.6511,
+        "lng": 138.307251,
+        "note": "長野県須坂市"
+      }
+    ],
+    "distanceKm": 0,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "lat": 36.65111,
+    "lng": 138.30725,
+    "pass": true
+  },
+  {
+    "id": "inariyama",
+    "name": "稲荷山",
+    "prefecture": "長野県",
+    "city": "千曲市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致なし (wikidata,gsi)"
+    },
+    "sources": [
+      {
+        "src": "wikidata",
+        "lat": 35.32283889,
+        "lng": 139.57129722,
+        "note": "Q1504529"
+      },
+      {
+        "src": "gsi",
+        "lat": 39.170998,
+        "lng": 140.496109,
+        "note": "秋田県湯沢市稲荷山"
+      }
+    ],
+    "pass": false
+  },
+  {
+    "id": "gokasho-kondo",
+    "name": "五個荘金堂",
+    "prefecture": "滋賀県",
+    "city": "東近江市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.14km (wikidata×gsi)",
+      "nearby": "五個荘近江商人の館(1.1km)"
+    },
+    "sources": [
+      {
+        "src": "wikidata",
+        "lat": 35.155064,
+        "lng": 136.179186,
+        "note": "Q11372025"
+      },
+      {
+        "src": "osm",
+        "lat": 35.153693,
+        "lng": 136.1778492,
+        "note": "五個荘金堂 五個荘金堂"
+      },
+      {
+        "src": "gsi",
+        "lat": 35.1553281767679,
+        "lng": 136.1806926629,
+        "note": "五個荘金堂町"
+      }
+    ],
+    "distanceKm": 0.14,
+    "verifiedBy": [
+      "wikidata",
+      "gsi"
+    ],
+    "lat": 35.1552,
+    "lng": 136.17994,
+    "pass": false
+  },
+  {
+    "id": "oya-osugi",
+    "name": "大屋町大杉",
+    "prefecture": "兵庫県",
+    "city": "養父市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "2ソース未満 (gsi)"
+    },
+    "sources": [
+      {
+        "src": "gsi",
+        "lat": 35.329998,
+        "lng": 134.650345,
+        "note": "兵庫県養父市大屋町大杉"
+      }
+    ],
+    "pass": false
+  },
+  {
+    "id": "mitarai",
+    "name": "御手洗",
+    "prefecture": "広島県",
+    "city": "呉市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.00km (wikipedia×wikidata)",
+      "nearby": "なし"
+    },
+    "sources": [
+      {
+        "src": "wikipedia",
+        "lat": 34.17934167,
+        "lng": 132.86679722,
+        "note": "御手洗 (呉市)"
+      },
+      {
+        "src": "wikidata",
+        "lat": 34.17934167,
+        "lng": 132.86679722,
+        "note": "Q11489089"
+      },
+      {
+        "src": "gsi",
+        "lat": 35.436996,
+        "lng": 136.77478,
+        "note": "岐阜県岐阜市御手洗"
+      }
+    ],
+    "distanceKm": 0,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "lat": 34.17934,
+    "lng": 132.8668,
+    "pass": true
+  },
+  {
+    "id": "tebajima",
+    "name": "出羽島",
+    "prefecture": "徳島県",
+    "city": "牟岐町",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.00km (wikipedia×wikidata)",
+      "nearby": "なし"
+    },
+    "sources": [
+      {
+        "src": "wikipedia",
+        "lat": 33.63166667,
+        "lng": 134.42416667,
+        "note": "出羽島"
+      },
+      {
+        "src": "wikidata",
+        "lat": 33.631667,
+        "lng": 134.424167,
+        "note": "Q11395786"
+      },
+      {
+        "src": "osm",
+        "lat": 33.633493,
+        "lng": 134.4237728,
+        "note": "出羽島 出羽島 出羽島"
+      },
+      {
+        "src": "gsi",
+        "lat": 33.633508,
+        "lng": 134.423533,
+        "note": "出羽島"
+      }
+    ],
+    "distanceKm": 0,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "lat": 33.63167,
+    "lng": 134.42417,
+    "pass": true
+  },
+  {
+    "id": "unomachi",
+    "name": "卯之町",
+    "prefecture": "愛媛県",
+    "city": "西予市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.00km (wikipedia×wikidata)",
+      "nearby": "なし"
+    },
+    "sources": [
+      {
+        "src": "wikipedia",
+        "lat": 33.36388889,
+        "lng": 132.51316667,
+        "note": "宇和町卯之町"
+      },
+      {
+        "src": "wikidata",
+        "lat": 33.363889,
+        "lng": 132.513167,
+        "note": "Q11449158"
+      },
+      {
+        "src": "osm",
+        "lat": 33.363061,
+        "lng": 132.509943,
+        "note": "卯之町 卯之町 卯之町"
+      },
+      {
+        "src": "gsi",
+        "lat": 33.3707929864576,
+        "lng": 132.513018209472,
+        "note": "宇和町卯之町一丁目"
+      }
+    ],
+    "distanceKm": 0,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "lat": 33.36389,
+    "lng": 132.51317,
+    "pass": true
+  },
+  {
+    "id": "doikachu",
+    "name": "土居廓中",
+    "prefecture": "高知県",
+    "city": "安芸市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "2ソース未満 (osm)"
+    },
+    "sources": [
+      {
+        "src": "osm",
+        "lat": 33.5191544,
+        "lng": 133.9117232,
+        "note": "安芸市土居廓中伝統的建造物群保存地区 安芸市土居廓中伝統的建"
+      }
+    ],
+    "pass": false
+  },
+  {
+    "id": "irikifumoto",
+    "name": "入来麓",
+    "prefecture": "鹿児島県",
+    "city": "薩摩川内市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "2ソース未満 (gsi)"
+    },
+    "sources": [
+      {
+        "src": "gsi",
+        "lat": 31.80486111,
+        "lng": 130.4315556,
+        "note": "入来麓郵便局"
+      }
+    ],
+    "pass": false
+  },
+  {
+    "id": "kaseda-fumoto",
+    "name": "加世田麓",
+    "prefecture": "鹿児島県",
+    "city": "南さつま市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "2ソース未満 (gsi)"
+    },
+    "sources": [
+      {
+        "src": "gsi",
+        "lat": 31.4135599972665,
+        "lng": 130.321544187332,
+        "note": "加世田麓町"
+      }
+    ],
+    "pass": false
+  }
+]

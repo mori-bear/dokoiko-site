@@ -24,12 +24,13 @@ fs.mkdirSync(path.join('public/images', id), { recursive: true });
 await sharp(buf).resize({ width: 1600, withoutEnlargement: true })
   .jpeg({ quality: 80, mozjpeg: true, progressive: true }).toFile(path.join('public/images', id, 'main.jpg'));
 
-const report = JSON.parse(fs.readFileSync('logs/major_images.json', 'utf8'));
+const REPORT = process.argv[5] || 'logs/major_images.json';
+const report = JSON.parse(fs.readFileSync(REPORT, 'utf8'));
 report.adopted = report.adopted.filter((x) => x.id !== id);
 report.rejected = (report.rejected || []).filter((x) => x.id !== id);
 report.adopted.push({ id, name: c.title, title: c.title, placeCheck: c.place,
   credit: { author: c.author, license: c.license, url: c.descurl,
     attributionRequired: !/^(CC0|Public domain)/i.test(c.license) },
   verdict: { retry: true, subject: c.subject } });
-fs.writeFileSync('logs/major_images.json', JSON.stringify(report, null, 1));
+fs.writeFileSync(REPORT, JSON.stringify(report, null, 1));
 console.log(`採用 ${id} ← ${c.title}  (${c.author} / ${c.license})`);

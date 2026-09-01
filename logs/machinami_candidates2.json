@@ -1,0 +1,307 @@
+[
+  {
+    "id": "murata-miyagi",
+    "name": "村田の蔵の町",
+    "prefecture": "宮城県",
+    "city": "村田町",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.01km (wikipedia×osm)",
+      "nearby": "なし"
+    },
+    "sources": [
+      {
+        "src": "wikipedia",
+        "lat": 38.11853,
+        "lng": 140.72242,
+        "note": "村田町"
+      },
+      {
+        "src": "osm",
+        "lat": 38.1185346,
+        "lng": 140.7225272,
+        "note": "村田町 村田町 村田町"
+      }
+    ],
+    "distanceKm": 0.01,
+    "verifiedBy": [
+      "wikipedia",
+      "osm"
+    ],
+    "lat": 38.11853,
+    "lng": 140.72247,
+    "pass": true
+  },
+  {
+    "id": "kaemon",
+    "name": "嘉右衛門町",
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.00km (wikidata×osm)",
+      "nearby": "なし"
+    },
+    "sources": [
+      {
+        "src": "wikipedia",
+        "lat": 36.38244,
+        "lng": 139.73414,
+        "note": "栃木市"
+      },
+      {
+        "src": "wikidata",
+        "lat": 36.388573055555554,
+        "lng": 139.733605,
+        "note": "Q11419375"
+      },
+      {
+        "src": "osm",
+        "lat": 36.388573,
+        "lng": 139.7336054,
+        "note": "嘉右衛門町 嘉右衛門町"
+      },
+      {
+        "src": "gsi",
+        "lat": 36.38813,
+        "lng": 139.733276,
+        "note": "栃木県栃木市嘉右衛門町"
+      }
+    ],
+    "distanceKm": 0,
+    "verifiedBy": [
+      "wikidata",
+      "osm"
+    ],
+    "lat": 36.38857,
+    "lng": 139.73361,
+    "pass": true
+  },
+  {
+    "id": "akaiwa-gunma",
+    "name": "六合赤岩",
+    "prefecture": "群馬県",
+    "city": "中之条町",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.26km (wikidata×osm)",
+      "nearby": "なし"
+    },
+    "sources": [
+      {
+        "src": "wikipedia",
+        "lat": 36.58983,
+        "lng": 138.841,
+        "note": "中之条町"
+      },
+      {
+        "src": "wikidata",
+        "lat": 36.576852,
+        "lng": 138.627226,
+        "note": "Q11635536"
+      },
+      {
+        "src": "osm",
+        "lat": 36.5752656,
+        "lng": 138.62932,
+        "note": "赤岩 赤岩 赤岩"
+      }
+    ],
+    "distanceKm": 0.26,
+    "verifiedBy": [
+      "wikidata",
+      "osm"
+    ],
+    "lat": 36.57606,
+    "lng": 138.62827,
+    "pass": true
+  },
+  {
+    "id": "shioyama-kamijo",
+    "name": "塩山下小田原上条",
+    "prefecture": "山梨県",
+    "city": "甲州市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "2ソース未満 (wikipedia)"
+    },
+    "sources": [
+      {
+        "src": "wikipedia",
+        "lat": 35.73811111,
+        "lng": 138.77075,
+        "note": "甲州市塩山下小田原上条伝統的建造物群保存地区"
+      }
+    ],
+    "pass": false
+  },
+  {
+    "id": "inariyama",
+    "name": "稲荷山宿",
+    "prefecture": "長野県",
+    "city": "千曲市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.00km (wikipedia×wikidata)",
+      "nearby": "なし"
+    },
+    "sources": [
+      {
+        "src": "wikipedia",
+        "lat": 36.53844,
+        "lng": 138.1048,
+        "note": "稲荷山宿"
+      },
+      {
+        "src": "wikidata",
+        "lat": 36.53844,
+        "lng": 138.1048,
+        "note": "Q11596867"
+      },
+      {
+        "src": "osm",
+        "lat": 36.5527177,
+        "lng": 138.1082476,
+        "note": "稲荷山 稲荷山 稲荷山"
+      }
+    ],
+    "distanceKm": 0,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "lat": 36.53844,
+    "lng": 138.1048,
+    "pass": true
+  },
+  {
+    "id": "oya-osugi",
+    "name": "大屋町大杉",
+    "prefecture": "兵庫県",
+    "city": "養父市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致なし (wikipedia,gsi)"
+    },
+    "sources": [
+      {
+        "src": "wikipedia",
+        "lat": 35.40461,
+        "lng": 134.76761,
+        "note": "養父市"
+      },
+      {
+        "src": "gsi",
+        "lat": 35.329998,
+        "lng": 134.650345,
+        "note": "兵庫県養父市大屋町大杉"
+      }
+    ],
+    "pass": false
+  },
+  {
+    "id": "doikachu",
+    "name": "土居廓中",
+    "prefecture": "高知県",
+    "city": "安芸市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.60km (wikipedia×osm)",
+      "nearby": "なし"
+    },
+    "sources": [
+      {
+        "src": "wikipedia",
+        "lat": 33.51639,
+        "lng": 133.90611,
+        "note": "安芸市"
+      },
+      {
+        "src": "osm",
+        "lat": 33.5191544,
+        "lng": 133.9117232,
+        "note": "安芸市土居廓中伝統的建造物群保存地区 安芸市土居廓中伝統的建"
+      }
+    ],
+    "distanceKm": 0.6,
+    "verifiedBy": [
+      "wikipedia",
+      "osm"
+    ],
+    "lat": 33.51777,
+    "lng": 133.90892,
+    "pass": true
+  },
+  {
+    "id": "irikifumoto",
+    "name": "入来麓",
+    "prefecture": "鹿児島県",
+    "city": "薩摩川内市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.20km (wikipedia×gsi)",
+      "nearby": "なし"
+    },
+    "sources": [
+      {
+        "src": "wikipedia",
+        "lat": 31.80658,
+        "lng": 130.43078,
+        "note": "入来町"
+      },
+      {
+        "src": "gsi",
+        "lat": 31.80486111,
+        "lng": 130.4315556,
+        "note": "入来麓郵便局"
+      }
+    ],
+    "distanceKm": 0.2,
+    "verifiedBy": [
+      "wikipedia",
+      "gsi"
+    ],
+    "lat": 31.80572,
+    "lng": 130.43117,
+    "pass": true
+  },
+  {
+    "id": "kaseda-fumoto",
+    "name": "加世田麓",
+    "prefecture": "鹿児島県",
+    "city": "南さつま市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.38km (wikipedia×gsi)",
+      "nearby": "なし"
+    },
+    "sources": [
+      {
+        "src": "wikipedia",
+        "lat": 31.41664,
+        "lng": 130.32339,
+        "note": "南さつま市"
+      },
+      {
+        "src": "osm",
+        "lat": 31.4208229,
+        "lng": 130.3195833,
+        "note": "加世田 加世田 加世田"
+      },
+      {
+        "src": "gsi",
+        "lat": 31.4135599972665,
+        "lng": 130.321544187332,
+        "note": "加世田麓町"
+      }
+    ],
+    "distanceKm": 0.38,
+    "verifiedBy": [
+      "wikipedia",
+      "gsi"
+    ],
+    "lat": 31.4151,
+    "lng": 130.32247,
+    "pass": true
+  }
+]

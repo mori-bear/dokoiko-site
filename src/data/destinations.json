@@ -221132,5 +221132,772 @@
       "hasShuttle": false,
       "accessStation": "JR米子駅"
     }
+  },
+  {
+    "id": "imajo",
+    "name": "今庄宿",
+    "type": "destination",
+    "region": "中部",
+    "hub": "福井",
+    "stayAllowed": [
+      "1night"
+    ],
+    "departures": [
+      "福井"
+    ],
+    "weight": 1,
+    "description": "山が幾重にも重なる木ノ芽峠の手前、京から北陸へ入る旅人が最後に休んだ宿場である。参勤交代の行列もここで一泊した。いまも街道沿いに百六十棟ほどの伝統的な建物が残り、そのうち八棟は江戸時代のものだ。江戸期に十五軒あった造り酒屋は四軒が今も続いており、堀口酒造・北善商店・白駒酒造・畠山酒造の看板が通りに並ぶ。二〇二一年八月、福井県では熊川宿・小浜西組に次ぐ三例目の重要伝統的建造物群保存地区に選ばれた。明治に鉄道が通ってからは機関区が置かれ、今庄駅の立ち食いそばはその名残である。",
+    "tags": [
+      "街歩き",
+      "歴史",
+      "グルメ"
+    ],
+    "spots": [
+      {
+        "name": "街道沿いの町並み",
+        "description": "約九・二ヘクタールに百六十棟ほどの伝統的建造物が残る。うち八棟は江戸時代に建てられたもの。"
+      },
+      {
+        "name": "四軒の造り酒屋",
+        "description": "江戸期には十五軒あった蔵のうち四軒が今も続く。通りを歩きながら蔵の看板を数えていける。"
+      },
+      {
+        "name": "今庄駅の立ち食いそば",
+        "description": "明治の鉄道開通で機関区が置かれた頃に生まれた駅そば。峠越えを待つ間の一杯が始まりだった。"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "hotelSearch": "南越前町",
+    "gateways": {
+      "rail": [
+        "今庄駅"
+      ],
+      "airport": [
+        "小松空港"
+      ],
+      "bus": [],
+      "ferry": []
+    },
+    "destType": "city",
+    "railGateway": "今庄駅",
+    "busGateway": null,
+    "ferryGateway": null,
+    "airportGateway": "小松空港",
+    "prefecture": "福井県",
+    "lat": 35.77278,
+    "lng": 136.19667,
+    "stayBias": 1,
+    "city": "南越前町",
+    "situations": [
+      "solo",
+      "couple",
+      "friends"
+    ],
+    "catch": "北陸道の難所を前に、旅人が足を止めた宿場。",
+    "mainSpot": "街道沿いの町並み",
+    "mapPoint": "街道沿いの町並み",
+    "representativeStation": "今庄駅",
+    "hubStation": "今庄駅",
+    "accessStation": "今庄駅",
+    "hotelArea": "fukui",
+    "finalAccess": {
+      "type": "walk"
+    },
+    "travelTime": {
+      "tokyo": 215,
+      "osaka": 145,
+      "nagoya": 160,
+      "fukuoka": 325,
+      "takamatsu": 290,
+      "mito": 260,
+      "maebashi": 275,
+      "takasaki": 275,
+      "hamamatsu": 190,
+      "gifu": 180,
+      "kofu": 305,
+      "shingu": 265,
+      "tanabe": 235,
+      "shirahama": 245,
+      "kushimoto": 265,
+      "tottori": 265,
+      "shimonoseki": 355,
+      "saga": 355,
+      "oita": 385,
+      "beppu": 395
+    },
+    "stayRecommendation": "1night",
+    "tier": "area",
+    "tier2": "area",
+    "icCard": "suica",
+    "bestSeason": "秋",
+    "onsenLevel": 0,
+    "hasDirectFlight": false,
+    "primary": [
+      "街歩き",
+      "歴史"
+    ],
+    "secondary": [
+      "グルメ"
+    ],
+    "reasonChips": [
+      "街歩き",
+      "歴史を辿る",
+      "ひとり旅向け",
+      "1泊がおすすめ",
+      "車なしOK"
+    ],
+    "images": [
+      "/images/imajo/main.jpg"
+    ],
+    "imageCredit": {
+      "author": "皓月旗",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Imajo-juku_20231007.jpg",
+      "attributionRequired": true
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Ffukui%2F",
+      "jalan": "https://www.jalan.net/ikisaki/map/fukui/"
+    }
+  },
+  {
+    "id": "mitarai",
+    "name": "御手洗",
+    "type": "destination",
+    "region": "中国",
+    "hub": "広島",
+    "stayAllowed": [
+      "1night"
+    ],
+    "departures": [
+      "広島"
+    ],
+    "weight": 1,
+    "description": "瀬戸内の大崎下島に、寛文六年に藩の認可を受けて開かれた風待ち・潮待ちの港がある。西廻り海運が確立すると北前船が次々に寄港し、中国第一の港と呼ばれるまでになった。享保九年に若胡子屋が広島藩公認の茶屋として開き、やがて四軒の茶屋が並ぶ花街ができる。最盛期には若胡子屋だけで芸妓が百人ほどいたという。いまも若胡子屋跡が資料館として残り、昭和十二年開設の映画館・乙女座は当時の姿に復元された。一九九四年に全国で三十八番目の重要伝統的建造物群保存地区に選ばれている。",
+    "tags": [
+      "街歩き",
+      "歴史",
+      "海"
+    ],
+    "spots": [
+      {
+        "name": "若胡子屋跡",
+        "description": "享保九年開業の茶屋の建物。最盛期には芸妓が百人ほどいたとされ、いまは資料館になっている。"
+      },
+      {
+        "name": "乙女座",
+        "description": "昭和十二年に開かれた映画館。当時の姿に復元され、木の座席と舞台がそのまま残されている。"
+      },
+      {
+        "name": "住吉神社",
+        "description": "文政十一年に建てられた本格的な住吉造の社。港に出入りする船の無事を祈ってきた社である。"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": true,
+    "hotelSearch": "呉市",
+    "gateways": {
+      "rail": [
+        "広駅"
+      ],
+      "airport": [
+        "広島空港"
+      ],
+      "bus": [],
+      "ferry": []
+    },
+    "destType": "city",
+    "railGateway": "広駅",
+    "busGateway": null,
+    "ferryGateway": null,
+    "airportGateway": "広島空港",
+    "prefecture": "広島県",
+    "lat": 34.17934,
+    "lng": 132.8668,
+    "stayBias": 1,
+    "city": "呉市",
+    "situations": [
+      "solo",
+      "couple",
+      "friends"
+    ],
+    "catch": "風と潮を待つあいだ、船乗りが遊んだ島の港。",
+    "mainSpot": "若胡子屋跡",
+    "mapPoint": "若胡子屋跡",
+    "representativeStation": "広駅",
+    "hubStation": "広駅",
+    "accessStation": "広駅",
+    "hotelArea": "hiroshima",
+    "finalAccess": {
+      "type": "car"
+    },
+    "travelTime": {
+      "tokyo": 310,
+      "osaka": 170,
+      "nagoya": 225,
+      "fukuoka": 160,
+      "takamatsu": 130,
+      "fukuyama": 70,
+      "kurashiki": 110,
+      "wakayama": 200,
+      "mito": 355,
+      "maebashi": 370,
+      "takasaki": 370,
+      "hamamatsu": 255,
+      "gifu": 245,
+      "kofu": 400,
+      "shingu": 290,
+      "tanabe": 260,
+      "shirahama": 270,
+      "kushimoto": 290,
+      "tottori": 290,
+      "shimonoseki": 190,
+      "saga": 190,
+      "oita": 220,
+      "beppu": 230,
+      "hiroshima": 95
+    },
+    "stayRecommendation": "1night",
+    "tier": "area",
+    "tier2": "area",
+    "icCard": "icoca",
+    "bestSeason": "通年",
+    "onsenLevel": 0,
+    "hasDirectFlight": false,
+    "primary": [
+      "街歩き",
+      "歴史"
+    ],
+    "secondary": [
+      "海"
+    ],
+    "reasonChips": [
+      "街歩き",
+      "歴史を辿る",
+      "ひとり旅向け",
+      "1泊がおすすめ"
+    ],
+    "images": [
+      "/images/mitarai/main.jpg"
+    ],
+    "imageCredit": {
+      "author": "At by At",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Osaki-shimojima_Mitarai_Panoramic_View_2013-08.JPG",
+      "attributionRequired": true
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fhiroshima%2F",
+      "jalan": "https://www.jalan.net/340000/"
+    }
+  },
+  {
+    "id": "unomachi",
+    "name": "卯之町",
+    "type": "destination",
+    "region": "四国",
+    "hub": "松山",
+    "stayAllowed": [
+      "1night"
+    ],
+    "departures": [
+      "松山"
+    ],
+    "weight": 1,
+    "description": "戦国期には城下町、城が移ってからは宇和島街道の宿場町であり、明石寺の門前町でもあった町だ。江戸中期から昭和初期にかけての建物が街道の両側に連なり、白い漆喰壁、細工を凝らした鬼瓦、細かい格子の窓が続く。町並みのなかには国の重要文化財である開明学校が建つ。明治期の擬洋風建築で、当時の教科書や机がそのまま置かれている。二〇〇九年十二月、全国で八十六番目の重要伝統的建造物群保存地区に選ばれた。予讃線の卯之町駅から歩いて行ける距離にあり、車がなくても回れる。",
+    "tags": [
+      "街歩き",
+      "歴史",
+      "文化"
+    ],
+    "spots": [
+      {
+        "name": "開明学校",
+        "description": "明治十五年築の擬洋風校舎で国の重要文化財。アーチ窓が並び、当時の教科書や机が残されている。"
+      },
+      {
+        "name": "中町の町並み",
+        "description": "江戸中期から昭和初期の建物が街道の両側に続く。白壁と鬼瓦、細かい格子が家ごとに違う。"
+      },
+      {
+        "name": "明石寺",
+        "description": "四国八十八箇所の第四十三番札所。卯之町はこの寺の門前町として人が集まってきた町である。"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "hotelSearch": "西予市",
+    "gateways": {
+      "rail": [
+        "卯之町駅"
+      ],
+      "airport": [
+        "松山空港"
+      ],
+      "bus": [],
+      "ferry": []
+    },
+    "destType": "city",
+    "railGateway": "卯之町駅",
+    "busGateway": null,
+    "ferryGateway": null,
+    "airportGateway": "松山空港",
+    "prefecture": "愛媛県",
+    "lat": 33.36389,
+    "lng": 132.51317,
+    "stayBias": 1,
+    "city": "西予市",
+    "situations": [
+      "solo",
+      "couple",
+      "friends"
+    ],
+    "catch": "白壁と鬼瓦。宇和島街道の在郷町がそのまま残る。",
+    "mainSpot": "開明学校",
+    "mapPoint": "開明学校",
+    "representativeStation": "卯之町駅",
+    "hubStation": "卯之町駅",
+    "accessStation": "卯之町駅",
+    "hotelArea": "ehime",
+    "finalAccess": {
+      "type": "walk"
+    },
+    "travelTime": {
+      "tokyo": 435,
+      "osaka": 295,
+      "nagoya": 350,
+      "fukuoka": 355,
+      "takamatsu": 180,
+      "mito": 480,
+      "maebashi": 495,
+      "takasaki": 495,
+      "hamamatsu": 380,
+      "gifu": 370,
+      "kofu": 525,
+      "shingu": 415,
+      "tanabe": 385,
+      "shirahama": 395,
+      "kushimoto": 415,
+      "tottori": 415,
+      "shimonoseki": 385,
+      "saga": 385,
+      "oita": 415,
+      "beppu": 425
+    },
+    "stayRecommendation": "1night",
+    "tier": "area",
+    "tier2": "area",
+    "icCard": "icoca",
+    "bestSeason": "通年",
+    "onsenLevel": 0,
+    "hasDirectFlight": false,
+    "primary": [
+      "街歩き",
+      "歴史"
+    ],
+    "secondary": [
+      "文化"
+    ],
+    "reasonChips": [
+      "街歩き",
+      "歴史を辿る",
+      "ひとり旅向け",
+      "1泊がおすすめ",
+      "車なしOK"
+    ],
+    "images": [
+      "/images/unomachi/main.jpg"
+    ],
+    "imageCredit": {
+      "author": "Original uploader was As6673 at ja.wikipedia  (Edited by 663highland)",
+      "license": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File:Unomachi_town_b.jpg",
+      "attributionRequired": true
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fehime%2F",
+      "jalan": "https://www.jalan.net/380000/"
+    }
+  },
+  {
+    "id": "murata-miyagi",
+    "name": "村田の蔵の町",
+    "type": "destination",
+    "region": "東北",
+    "hub": "仙台",
+    "stayAllowed": [
+      "1night"
+    ],
+    "departures": [
+      "仙台"
+    ],
+    "weight": 1,
+    "description": "江戸時代、この町は紅花の集積地だった。最上紅花を京へ送り、帰りの荷で上方の品を持ち帰る商いで財を成した商人たちが、白い漆喰になまこ壁をあしらった店蔵を競って建てた。明治に入ると養蚕製品の集散地となり、蔵はさらに増える。いまも街道の両側に重厚な店蔵と黒い門が向かい合い、みちのく宮城の小京都と呼ばれてきた。二〇一四年九月、七・四ヘクタールが重要伝統的建造物群保存地区に選ばれた。特産はそら豆で、六月にはそら豆まつりが開かれる。東北自動車道の村田インターから町の中心まですぐだ。",
+    "tags": [
+      "街歩き",
+      "歴史",
+      "グルメ"
+    ],
+    "spots": [
+      {
+        "name": "店蔵の並ぶ通り",
+        "description": "白い漆喰になまこ壁をあしらった店蔵と黒い門が、街道の両側で向かい合って並んでいる。"
+      },
+      {
+        "name": "旧大沼家住宅",
+        "description": "紅花商人の屋敷。格子窓と重い扉に、京と行き来した商いの規模がそのまま表れている。"
+      },
+      {
+        "name": "そら豆まつり",
+        "description": "六月第二日曜に開かれる町の祭り。特産のそら豆を目当てに、町の外からも人がやって来る。"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": true,
+    "hotelSearch": "村田町",
+    "gateways": {
+      "rail": [
+        "白石蔵王駅"
+      ],
+      "airport": [
+        "仙台空港"
+      ],
+      "bus": [],
+      "ferry": []
+    },
+    "destType": "city",
+    "railGateway": "白石蔵王駅",
+    "busGateway": null,
+    "ferryGateway": null,
+    "airportGateway": "仙台空港",
+    "prefecture": "宮城県",
+    "lat": 38.11853,
+    "lng": 140.72247,
+    "stayBias": 1,
+    "city": "村田町",
+    "situations": [
+      "solo",
+      "couple",
+      "friends"
+    ],
+    "catch": "なまこ壁の店蔵が向かい合う、紅花で栄えた町。",
+    "mainSpot": "店蔵の並ぶ通り",
+    "mapPoint": "店蔵の並ぶ通り",
+    "representativeStation": "白石蔵王駅",
+    "hubStation": "白石蔵王駅",
+    "accessStation": "白石蔵王駅",
+    "hotelArea": "miyagi",
+    "finalAccess": {
+      "type": "car"
+    },
+    "travelTime": {
+      "tokyo": 130,
+      "osaka": 300,
+      "nagoya": 260,
+      "fukuoka": 445,
+      "takamatsu": 385,
+      "mito": 175,
+      "maebashi": 190,
+      "takasaki": 190,
+      "hamamatsu": 290,
+      "gifu": 280,
+      "kofu": 220,
+      "shingu": 420,
+      "tanabe": 390,
+      "shirahama": 400,
+      "kushimoto": 420,
+      "tottori": 420,
+      "shimonoseki": 475,
+      "saga": 475,
+      "oita": 505,
+      "beppu": 515
+    },
+    "stayRecommendation": "1night",
+    "tier": "area",
+    "tier2": "area",
+    "icCard": "suica",
+    "bestSeason": "通年",
+    "onsenLevel": 0,
+    "hasDirectFlight": false,
+    "primary": [
+      "街歩き",
+      "歴史"
+    ],
+    "secondary": [
+      "グルメ"
+    ],
+    "reasonChips": [
+      "街歩き",
+      "歴史を辿る",
+      "ひとり旅向け",
+      "1泊がおすすめ"
+    ],
+    "images": [
+      "/images/murata-miyagi/main.jpg"
+    ],
+    "imageCredit": {
+      "author": "皓月旗",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:%E6%97%A7%E5%A4%A7%E6%B2%BC%E5%AE%B6%E4%BD%8F%E5%AE%85.jpg",
+      "attributionRequired": true
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fmiyagi%2F",
+      "jalan": "https://www.jalan.net/040000/"
+    }
+  },
+  {
+    "id": "akaiwa-gunma",
+    "name": "六合赤岩",
+    "type": "destination",
+    "region": "関東",
+    "hub": "東京",
+    "stayAllowed": [
+      "1night"
+    ],
+    "departures": [
+      "東京"
+    ],
+    "weight": 1,
+    "description": "白砂川の河岸段丘に、養蚕で暮らしてきた集落がそのまま残っている。昭和三十年代まで村のほとんどの家が蚕を飼い、二階三階を蚕室にした背の高い家が石垣で造成した畑に囲まれて建つ。中でも湯本家住宅は文化三年に建て直された主屋と明治三十年建設の蚕室からなる三階建てで、幕末に蘭学者の高野長英がかくまわれたと伝わる長英の間が二階に残る。二〇〇六年七月、群馬県で初めての重要伝統的建造物群保存地区に選ばれた。長野原草津口駅からバスで十五分、南大橋を降りて歩いて五分と近い。",
+    "tags": [
+      "街歩き",
+      "歴史",
+      "自然"
+    ],
+    "spots": [
+      {
+        "name": "湯本家住宅",
+        "description": "文化三年再建の主屋と明治三十年の蚕室からなる三階建て。二階に高野長英の隠れ部屋が残る。"
+      },
+      {
+        "name": "段丘の集落",
+        "description": "石垣で造成した畑に囲まれ、蚕室を載せた背の高い家が段丘の上に並ぶ。六十三ヘクタール。"
+      },
+      {
+        "name": "草津・尻焼への道",
+        "description": "草津温泉まで車で二十分ほど。川底から湯が湧く尻焼温泉や花敷温泉も同じ谷筋にある。"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "hotelSearch": "中之条町",
+    "gateways": {
+      "rail": [
+        "長野原草津口駅"
+      ],
+      "airport": [
+        "羽田空港"
+      ],
+      "bus": [],
+      "ferry": []
+    },
+    "destType": "city",
+    "railGateway": "長野原草津口駅",
+    "busGateway": null,
+    "ferryGateway": null,
+    "airportGateway": "羽田空港",
+    "prefecture": "群馬県",
+    "lat": 36.57606,
+    "lng": 138.62827,
+    "stayBias": 1,
+    "city": "中之条町",
+    "situations": [
+      "solo",
+      "couple",
+      "friends"
+    ],
+    "catch": "三階建ての養蚕農家が、段丘の上に並んでいる。",
+    "mainSpot": "湯本家住宅",
+    "mapPoint": "湯本家住宅",
+    "representativeStation": "長野原草津口駅",
+    "hubStation": "長野原草津口駅",
+    "accessStation": "長野原草津口駅",
+    "hotelArea": "gunma",
+    "finalAccess": {
+      "type": "walk"
+    },
+    "travelTime": {
+      "tokyo": 180,
+      "osaka": 320,
+      "nagoya": 265,
+      "fukuoka": 470,
+      "takamatsu": 420,
+      "mito": 225,
+      "maebashi": 240,
+      "takasaki": 240,
+      "hamamatsu": 295,
+      "gifu": 285,
+      "kofu": 270,
+      "shingu": 440,
+      "tanabe": 410,
+      "shirahama": 420,
+      "kushimoto": 440,
+      "tottori": 440,
+      "shimonoseki": 500,
+      "saga": 500,
+      "oita": 530,
+      "beppu": 540
+    },
+    "stayRecommendation": "1night",
+    "tier": "area",
+    "tier2": "area",
+    "icCard": "suica",
+    "bestSeason": "秋",
+    "onsenLevel": 0,
+    "hasDirectFlight": false,
+    "primary": [
+      "街歩き",
+      "歴史"
+    ],
+    "secondary": [
+      "自然"
+    ],
+    "reasonChips": [
+      "街歩き",
+      "歴史を辿る",
+      "ひとり旅向け",
+      "1泊がおすすめ",
+      "車なしOK"
+    ],
+    "images": [
+      "/images/akaiwa-gunma/main.jpg"
+    ],
+    "imageCredit": {
+      "author": "On-chan",
+      "license": "CC0",
+      "url": "https://commons.wikimedia.org/wiki/File:Kuni-Akaiwa_settlement01.JPG",
+      "attributionRequired": true
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fgunma%2F",
+      "jalan": "https://www.jalan.net/100000/"
+    }
+  },
+  {
+    "id": "inariyama",
+    "name": "稲荷山宿",
+    "type": "destination",
+    "region": "中部",
+    "hub": "松本",
+    "stayAllowed": [
+      "1night"
+    ],
+    "departures": [
+      "松本"
+    ],
+    "weight": 1,
+    "description": "天正十年に上杉景勝が稲荷山城を築いたとき、城の縄張りとともに町割りと伝馬の制度が敷かれた。善光寺参りの人々が通う北国西街道の宿場となり、文久二年には家四百三十六軒、人千六百二十五人を数えて街道最大の宿場に育つ。月に九回も市が立ち、呉服問屋を軸に商いが回っていた。弘化四年の善光寺地震でほぼ全焼したが復興し、明治には繭と生糸と絹織物で北信濃随一の商都になる。そのころ建てられた土蔵造りの家がいまも残り、二〇一四年十二月に百九番目の重要伝統的建造物群保存地区に選ばれた。",
+    "tags": [
+      "街歩き",
+      "歴史"
+    ],
+    "spots": [
+      {
+        "name": "土蔵造りの町並み",
+        "description": "善光寺地震のあと火に強い土蔵造りで建て直された家が残る。白壁と重い扉が通りに続く。"
+      },
+      {
+        "name": "旧北国西街道",
+        "description": "善光寺参りの人が歩いた道。月九回の市が立ち、呉服問屋が軒を連ねた通りがそのまま残る。"
+      },
+      {
+        "name": "善光寺への道",
+        "description": "稲荷山から善光寺までは車で三十分ほど。宿場に泊まって朝いちばんに参る旅程が組める。"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "hotelSearch": "千曲市",
+    "gateways": {
+      "rail": [
+        "稲荷山駅"
+      ],
+      "airport": [
+        "羽田空港"
+      ],
+      "bus": [],
+      "ferry": []
+    },
+    "destType": "city",
+    "railGateway": "稲荷山駅",
+    "busGateway": null,
+    "ferryGateway": null,
+    "airportGateway": "羽田空港",
+    "prefecture": "長野県",
+    "lat": 36.53844,
+    "lng": 138.1048,
+    "stayBias": 1,
+    "city": "千曲市",
+    "situations": [
+      "solo",
+      "couple",
+      "friends"
+    ],
+    "catch": "善光寺街道で最大の宿場は、絹で栄えた商都だった。",
+    "mainSpot": "土蔵造りの町並み",
+    "mapPoint": "土蔵造りの町並み",
+    "representativeStation": "稲荷山駅",
+    "hubStation": "稲荷山駅",
+    "accessStation": "稲荷山駅",
+    "hotelArea": "nagano",
+    "finalAccess": {
+      "type": "walk"
+    },
+    "travelTime": {
+      "tokyo": 110,
+      "osaka": 225,
+      "nagoya": 195,
+      "fukuoka": 375,
+      "takamatsu": 325,
+      "mito": 155,
+      "maebashi": 170,
+      "takasaki": 170,
+      "hamamatsu": 225,
+      "gifu": 215,
+      "kofu": 200,
+      "shingu": 345,
+      "tanabe": 315,
+      "shirahama": 325,
+      "kushimoto": 345,
+      "tottori": 345,
+      "shimonoseki": 405,
+      "saga": 405,
+      "oita": 435,
+      "beppu": 445
+    },
+    "stayRecommendation": "1night",
+    "tier": "area",
+    "tier2": "area",
+    "icCard": "suica",
+    "bestSeason": "通年",
+    "onsenLevel": 0,
+    "hasDirectFlight": false,
+    "primary": [
+      "街歩き",
+      "歴史"
+    ],
+    "secondary": [],
+    "reasonChips": [
+      "街歩き",
+      "歴史を辿る",
+      "ひとり旅向け",
+      "1泊がおすすめ",
+      "車なしOK"
+    ],
+    "images": [
+      "/images/inariyama/main.jpg"
+    ],
+    "imageCredit": {
+      "author": "Suikotei",
+      "license": "CC BY 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Inariyama-juku_20251130_03.jpg",
+      "attributionRequired": true
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fnagano%2F",
+      "jalan": "https://www.jalan.net/ikisaki/map/nagano/"
+    }
   }
 ]

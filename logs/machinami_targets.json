@@ -1,0 +1,184 @@
+[
+  {
+    "id": "kanegasaki",
+    "name": "金ケ崎 城内諏訪小路",
+    "prefecture": "岩手県",
+    "city": "金ケ崎町",
+    "lat": 39.19611,
+    "lng": 141.12194,
+    "imageQuery": "金ケ崎町城内諏訪小路",
+    "localityWords": [
+      "金ケ崎",
+      "城内",
+      "諏訪小路",
+      "岩手"
+    ]
+  },
+  {
+    "id": "imajo",
+    "name": "今庄宿",
+    "prefecture": "福井県",
+    "city": "南越前町",
+    "lat": 35.77278,
+    "lng": 136.19667,
+    "imageQuery": "今庄宿",
+    "localityWords": [
+      "今庄",
+      "南越前",
+      "福井"
+    ]
+  },
+  {
+    "id": "suzaka",
+    "name": "須坂",
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "lat": 36.65111,
+    "lng": 138.30725,
+    "imageQuery": "須坂 蔵の町",
+    "localityWords": [
+      "須坂",
+      "長野"
+    ]
+  },
+  {
+    "id": "mitarai",
+    "name": "御手洗",
+    "prefecture": "広島県",
+    "city": "呉市",
+    "lat": 34.17934,
+    "lng": 132.8668,
+    "imageQuery": "御手洗 呉市",
+    "localityWords": [
+      "御手洗",
+      "大崎下島",
+      "呉",
+      "広島"
+    ]
+  },
+  {
+    "id": "tebajima",
+    "name": "出羽島",
+    "prefecture": "徳島県",
+    "city": "牟岐町",
+    "lat": 33.63167,
+    "lng": 134.42417,
+    "imageQuery": "出羽島",
+    "localityWords": [
+      "出羽島",
+      "牟岐",
+      "徳島"
+    ]
+  },
+  {
+    "id": "unomachi",
+    "name": "卯之町",
+    "prefecture": "愛媛県",
+    "city": "西予市",
+    "lat": 33.36389,
+    "lng": 132.51317,
+    "imageQuery": "卯之町",
+    "localityWords": [
+      "卯之町",
+      "西予",
+      "宇和"
+    ]
+  },
+  {
+    "id": "murata-miyagi",
+    "name": "村田の蔵の町",
+    "prefecture": "宮城県",
+    "city": "村田町",
+    "lat": 38.11853,
+    "lng": 140.72247,
+    "imageQuery": "村田町 蔵の町並み",
+    "localityWords": [
+      "村田",
+      "宮城"
+    ]
+  },
+  {
+    "id": "kaemon",
+    "name": "栃木 嘉右衛門町",
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "lat": 36.38857,
+    "lng": 139.73361,
+    "imageQuery": "嘉右衛門町 栃木市",
+    "localityWords": [
+      "嘉右衛門",
+      "栃木"
+    ]
+  },
+  {
+    "id": "akaiwa-gunma",
+    "name": "六合赤岩",
+    "prefecture": "群馬県",
+    "city": "中之条町",
+    "lat": 36.57606,
+    "lng": 138.62827,
+    "imageQuery": "赤岩 中之条町",
+    "localityWords": [
+      "赤岩",
+      "六合",
+      "中之条",
+      "群馬"
+    ]
+  },
+  {
+    "id": "inariyama",
+    "name": "稲荷山宿",
+    "prefecture": "長野県",
+    "city": "千曲市",
+    "lat": 36.53844,
+    "lng": 138.1048,
+    "imageQuery": "稲荷山宿 千曲市",
+    "localityWords": [
+      "稲荷山",
+      "千曲",
+      "長野"
+    ]
+  },
+  {
+    "id": "doikachu",
+    "name": "土居廓中",
+    "prefecture": "高知県",
+    "city": "安芸市",
+    "lat": 33.51777,
+    "lng": 133.90892,
+    "imageQuery": "土居廓中 安芸市",
+    "localityWords": [
+      "土居廓中",
+      "安芸",
+      "高知"
+    ]
+  },
+  {
+    "id": "irikifumoto",
+    "name": "入来麓",
+    "prefecture": "鹿児島県",
+    "city": "薩摩川内市",
+    "lat": 31.80572,
+    "lng": 130.43117,
+    "imageQuery": "入来麓武家屋敷群",
+    "localityWords": [
+      "入来",
+      "薩摩川内",
+      "鹿児島"
+    ]
+  },
+  {
+    "id": "kaseda-fumoto",
+    "name": "加世田麓",
+    "prefecture": "鹿児島県",
+    "city": "南さつま市",
+    "lat": 31.4151,
+    "lng": 130.32247,
+    "imageQuery": "加世田麓",
+    "localityWords": [
+      "加世田",
+      "南さつま",
+      "鹿児島"
+    ]
+  }
+]
