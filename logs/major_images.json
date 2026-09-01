@@ -1,0 +1,175 @@
+{
+ "adopted": [
+  {
+   "id": "yunomine",
+   "name": "湯の峰温泉",
+   "title": "File:Kumano Kodo pilgrimage route Yunomine Onsen World heritage 熊野古道 湯の峰温泉56.JPG",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Nekosuki",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Kumano_Kodo_pilgrimage_route_Yunomine_Onsen_World_heritage_%E7%86%8A%E9%87%8E%E5%8F%A4%E9%81%93_%E6%B9%AF%E3%81%AE%E5%B3%B0%E6%B8%A9%E6%B3%8956.JPG",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "湯の峰温泉の特徴的な湯小屋群、温泉街の風情、立ち上る湯気、山間の地形が明確に写っている。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Kumano Kodo pilgrimage route Yunomine Onsen World heritage 熊野古道 湯の峰温泉56.JPG",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "湯の峰温泉の特徴的な湯小屋群、温泉街の風情、立ち上る湯気、山間の地形が明確に写っている。"
+    }
+   ]
+  },
+  {
+   "id": "yamanaka-onsen",
+   "name": "山中温泉",
+   "title": "File:Yamanaka Onsen.JPG",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Kakidai",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Yamanaka_Onsen.JPG",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "山中温泉の特徴的な温泉街建築。緑の屋根と日本家屋様式の構造が山中温泉の景観を代表。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Yamanaka Onsen.JPG",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "山中温泉の特徴的な温泉街建築。緑の屋根と日本家屋様式の構造が山中温泉の景観を代表。"
+    }
+   ]
+  },
+  {
+   "id": "hirayu",
+   "name": "平湯温泉",
+   "title": "File:Hirayu onsen02n3872.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "663highland",
+    "license": "CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:Hirayu_onsen02n3872.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "雪をかぶった山々と温泉地の旅館建築が映り、平湯温泉の景観を示しています。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Hirayu onsen02n3872.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "雪をかぶった山々と温泉地の旅館建築が映り、平湯温泉の景観を示しています。"
+    }
+   ]
+  },
+  {
+   "id": "kaike",
+   "name": "皆生温泉",
+   "title": "File:Kaike onsen01n3200.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "663highland",
+    "license": "CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:Kaike_onsen01n3200.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "皆生温泉のビーチと日本海の特徴的な風景。防波堤と砂浜、海水浴場の雰囲気が明確に映っている。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Kaike onsen01n3200.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "皆生温泉のビーチと日本海の特徴的な風景。防波堤と砂浜、海水浴場の雰囲気が明確に映っている。"
+    }
+   ]
+  },
+  {
+   "id": "iizaka",
+   "name": "File:Sabakoyu 01.jpg",
+   "title": "File:Sabakoyu 01.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Higa4",
+    "license": "CC0",
+    "url": "https://commons.wikimedia.org/wiki/File:Sabakoyu_01.jpg",
+    "attributionRequired": false
+   },
+   "verdict": {
+    "retry": true,
+    "subject": "飯坂温泉の温泉旅館。木造建築の歴史的な湯屋"
+   }
+  },
+  {
+   "id": "shinhotaka",
+   "name": "File:Shinhotaka ropeway01s3200.jpg",
+   "title": "File:Shinhotaka ropeway01s3200.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "663highland",
+    "license": "CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:Shinhotaka_ropeway01s3200.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "retry": true,
+    "subject": "ロープウェイと雪景色、奥飛騨の山々"
+   }
+  },
+  {
+   "id": "higashiyama-aizu",
+   "name": "File:Higashiyama hot springs (37856367571).jpg",
+   "title": "File:Higashiyama hot springs (37856367571).jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Raita Futo from Tokyo, Japan",
+    "license": "CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Higashiyama_hot_springs_(37856367571).jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "retry": true,
+    "subject": "川沿いの伝統的な日本建築の温泉旅館と緑の山々"
+   }
+  }
+ ],
+ "rejected": [
+  {
+   "id": "myoken-kagoshima",
+   "name": "妙見温泉",
+   "reason": "Commonsに使える画像なし（唯一の合格候補は妙見発電所の建物で目視棄却）"
+  }
+ ]
+}

@@ -1,0 +1,449 @@
+[
+  {
+    "id": "dogo",
+    "name": "道後温泉",
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.00km (wikipedia×wikidata)",
+      "nearby": "松山(2.0km)"
+    },
+    "sources": [
+      {
+        "src": "wikipedia",
+        "lat": 33.85194444,
+        "lng": 132.78638889,
+        "note": "道後温泉"
+      },
+      {
+        "src": "wikidata",
+        "lat": 33.851944444444,
+        "lng": 132.78638888889,
+        "note": "Q1037748"
+      },
+      {
+        "src": "osm",
+        "lat": 33.8504258,
+        "lng": 132.7850817,
+        "note": "道後温泉 道後温泉駅 道後温泉"
+      },
+      {
+        "src": "gsi",
+        "lat": 33.864561,
+        "lng": 132.823214,
+        "note": "奥道後温泉"
+      }
+    ],
+    "distanceKm": 0,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "lat": 33.85194,
+    "lng": 132.78639,
+    "pass": false
+  },
+  {
+    "id": "kannawa",
+    "name": "鉄輪温泉",
+    "prefecture": "大分県",
+    "city": "別府市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 4.35km (wikidata×gsi)",
+      "nearby": "別府(1.1km)"
+    },
+    "sources": [
+      {
+        "src": "wikidata",
+        "lat": 33.28027778,
+        "lng": 131.5,
+        "note": "Q4890932"
+      },
+      {
+        "src": "gsi",
+        "lat": 33.314786,
+        "lng": 131.477847,
+        "note": "鉄輪温泉"
+      }
+    ],
+    "distanceKm": 4.35,
+    "verifiedBy": [
+      "wikidata",
+      "gsi"
+    ],
+    "lat": 33.29753,
+    "lng": 131.48892,
+    "pass": false
+  },
+  {
+    "id": "yunomine",
+    "name": "湯の峰温泉",
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.00km (wikipedia×wikidata)",
+      "nearby": "熊野古道(1.9km)"
+    },
+    "sources": [
+      {
+        "src": "wikipedia",
+        "lat": 33.82892,
+        "lng": 135.75744,
+        "note": "湯の峰温泉"
+      },
+      {
+        "src": "wikidata",
+        "lat": 33.828916666667,
+        "lng": 135.75744444444,
+        "note": "Q11563414"
+      },
+      {
+        "src": "osm",
+        "lat": 33.8286995,
+        "lng": 135.7575631,
+        "note": "湯の峰温泉 湯の峰温泉 湯の峰温泉"
+      }
+    ],
+    "distanceKm": 0,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "lat": 33.82892,
+    "lng": 135.75744,
+    "pass": false
+  },
+  {
+    "id": "iizaka",
+    "name": "飯坂温泉",
+    "prefecture": "福島県",
+    "city": "福島市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.00km (wikipedia×wikidata)",
+      "nearby": "なし"
+    },
+    "sources": [
+      {
+        "src": "wikipedia",
+        "lat": 37.831944,
+        "lng": 140.454444,
+        "note": "飯坂温泉"
+      },
+      {
+        "src": "wikidata",
+        "lat": 37.831944,
+        "lng": 140.454444,
+        "note": "Q17192714"
+      },
+      {
+        "src": "osm",
+        "lat": 37.8298669,
+        "lng": 140.4542848,
+        "note": "飯坂温泉 飯坂温泉 飯坂温泉"
+      },
+      {
+        "src": "gsi",
+        "lat": 37.8326907275,
+        "lng": 140.4543862875,
+        "note": "飯坂温泉駅"
+      }
+    ],
+    "distanceKm": 0,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "lat": 37.83194,
+    "lng": 140.45444,
+    "pass": true
+  },
+  {
+    "id": "higashiyama-aizu",
+    "name": "東山温泉",
+    "prefecture": "福島県",
+    "city": "会津若松市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.36km (wikipedia×gsi)",
+      "nearby": "なし"
+    },
+    "sources": [
+      {
+        "src": "wikipedia",
+        "lat": 37.479722,
+        "lng": 139.960833,
+        "note": "東山温泉"
+      },
+      {
+        "src": "wikidata",
+        "lat": 35.517138888889,
+        "lng": 137.41625,
+        "note": "Q53673432"
+      },
+      {
+        "src": "gsi",
+        "lat": 37.47750556,
+        "lng": 139.9638861,
+        "note": "東山温泉"
+      }
+    ],
+    "distanceKm": 0.36,
+    "verifiedBy": [
+      "wikipedia",
+      "gsi"
+    ],
+    "lat": 37.47861,
+    "lng": 139.96236,
+    "pass": true
+  },
+  {
+    "id": "yamanaka-onsen",
+    "name": "山中温泉",
+    "prefecture": "石川県",
+    "city": "加賀市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.19km (wikidata×gsi)",
+      "nearby": "なし"
+    },
+    "sources": [
+      {
+        "src": "wikidata",
+        "lat": 36.247119444444,
+        "lng": 136.37279722222,
+        "note": "Q3571451"
+      },
+      {
+        "src": "osm",
+        "lat": 36.24889,
+        "lng": 136.374039,
+        "note": "山中温泉湯の本町 山中温泉湯の本町 山中温泉湯の本町"
+      },
+      {
+        "src": "gsi",
+        "lat": 36.2465935199437,
+        "lng": 136.374858619395,
+        "note": "山中温泉"
+      }
+    ],
+    "distanceKm": 0.19,
+    "verifiedBy": [
+      "wikidata",
+      "gsi"
+    ],
+    "lat": 36.24686,
+    "lng": 136.37383,
+    "pass": true
+  },
+  {
+    "id": "awara",
+    "name": "あわら温泉",
+    "prefecture": "福井県",
+    "city": "あわら市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.00km (wikipedia×wikidata)",
+      "nearby": "なし"
+    },
+    "sources": [
+      {
+        "src": "wikipedia",
+        "lat": 36.225,
+        "lng": 136.19444444,
+        "note": "芦原温泉"
+      },
+      {
+        "src": "wikidata",
+        "lat": 36.225,
+        "lng": 136.194444,
+        "note": "Q11614796"
+      },
+      {
+        "src": "osm",
+        "lat": 36.2146024,
+        "lng": 136.2350566,
+        "note": "芦原温泉 芦原温泉 芦原温泉"
+      }
+    ],
+    "distanceKm": 0,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "lat": 36.225,
+    "lng": 136.19444,
+    "pass": true
+  },
+  {
+    "id": "hirayu",
+    "name": "平湯温泉",
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.00km (wikipedia×wikidata)",
+      "nearby": "なし"
+    },
+    "sources": [
+      {
+        "src": "wikipedia",
+        "lat": 36.19217,
+        "lng": 137.55253,
+        "note": "平湯温泉"
+      },
+      {
+        "src": "wikidata",
+        "lat": 36.192166666667,
+        "lng": 137.55252777778,
+        "note": "Q11483231"
+      },
+      {
+        "src": "osm",
+        "lat": 36.1910908,
+        "lng": 137.5516527,
+        "note": "平湯温泉;アルプス街道平湯 平湯温泉;アルプス街道平湯"
+      },
+      {
+        "src": "gsi",
+        "lat": 36.2335097180025,
+        "lng": 137.528619452766,
+        "note": "新平湯温泉"
+      }
+    ],
+    "distanceKm": 0,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "lat": 36.19217,
+    "lng": 137.55253,
+    "pass": true
+  },
+  {
+    "id": "shinhotaka",
+    "name": "新穂高温泉",
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.00km (wikipedia×wikidata)",
+      "nearby": "なし"
+    },
+    "sources": [
+      {
+        "src": "wikipedia",
+        "lat": 36.26539,
+        "lng": 137.56261,
+        "note": "新穂高温泉"
+      },
+      {
+        "src": "wikidata",
+        "lat": 36.265388888889,
+        "lng": 137.56261111111,
+        "note": "Q11503887"
+      },
+      {
+        "src": "osm",
+        "lat": 36.2670613,
+        "lng": 137.5665394,
+        "note": "新穂高温泉;ひがくの湯 新穂高温泉;ひがくの湯"
+      },
+      {
+        "src": "gsi",
+        "lat": 36.2715931752656,
+        "lng": 137.564215223246,
+        "note": "新穂高温泉"
+      }
+    ],
+    "distanceKm": 0,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "lat": 36.26539,
+    "lng": 137.56261,
+    "pass": true
+  },
+  {
+    "id": "kaike",
+    "name": "皆生温泉",
+    "prefecture": "鳥取県",
+    "city": "米子市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.00km (wikipedia×wikidata)",
+      "nearby": "なし"
+    },
+    "sources": [
+      {
+        "src": "wikipedia",
+        "lat": 35.45630278,
+        "lng": 133.36180278,
+        "note": "皆生温泉"
+      },
+      {
+        "src": "wikidata",
+        "lat": 35.45630278,
+        "lng": 133.36180278,
+        "note": "Q11580978"
+      },
+      {
+        "src": "osm",
+        "lat": 35.4546531,
+        "lng": 133.3683926,
+        "note": "医療法人友紘会 皆生温泉病院 医療法人友紘会 皆生温泉病院"
+      },
+      {
+        "src": "gsi",
+        "lat": 35.455242,
+        "lng": 133.358475,
+        "note": "鳥取県米子市皆生温泉"
+      }
+    ],
+    "distanceKm": 0,
+    "verifiedBy": [
+      "wikipedia",
+      "wikidata"
+    ],
+    "lat": 35.4563,
+    "lng": 133.3618,
+    "pass": true
+  },
+  {
+    "id": "myoken-kagoshima",
+    "name": "妙見温泉",
+    "prefecture": "鹿児島県",
+    "city": "霧島市",
+    "checks": {
+      "duplicate": "なし",
+      "coords": "一致 0.16km (wikidata×gsi)",
+      "nearby": "なし"
+    },
+    "sources": [
+      {
+        "src": "wikidata",
+        "lat": 31.810888888889,
+        "lng": 130.75755555556,
+        "note": "Q11447034"
+      },
+      {
+        "src": "gsi",
+        "lat": 31.811917,
+        "lng": 130.756394,
+        "note": "妙見温泉"
+      }
+    ],
+    "distanceKm": 0.16,
+    "verifiedBy": [
+      "wikidata",
+      "gsi"
+    ],
+    "lat": 31.8114,
+    "lng": 130.75697,
+    "pass": true
+  }
+]

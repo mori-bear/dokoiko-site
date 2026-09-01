@@ -1,0 +1,113 @@
+[
+  {
+    "id": "yunomine",
+    "name": "湯の峰温泉",
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "lat": 33.82892,
+    "lng": 135.75744,
+    "imageQuery": "湯の峰温泉",
+    "localityWords": [
+      "湯の峰",
+      "本宮",
+      "田辺",
+      "熊野"
+    ]
+  },
+  {
+    "id": "iizaka",
+    "name": "飯坂温泉",
+    "prefecture": "福島県",
+    "city": "福島市",
+    "lat": 37.83194,
+    "lng": 140.45444,
+    "imageQuery": "飯坂温泉",
+    "localityWords": [
+      "飯坂",
+      "福島"
+    ]
+  },
+  {
+    "id": "higashiyama-aizu",
+    "name": "東山温泉",
+    "prefecture": "福島県",
+    "city": "会津若松市",
+    "lat": 37.47861,
+    "lng": 139.96236,
+    "imageQuery": "東山温泉",
+    "localityWords": [
+      "東山",
+      "会津",
+      "若松"
+    ]
+  },
+  {
+    "id": "yamanaka-onsen",
+    "name": "山中温泉",
+    "prefecture": "石川県",
+    "city": "加賀市",
+    "lat": 36.24686,
+    "lng": 136.37383,
+    "imageQuery": "山中温泉",
+    "localityWords": [
+      "山中",
+      "加賀",
+      "鶴仙"
+    ]
+  },
+  {
+    "id": "hirayu",
+    "name": "平湯温泉",
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "lat": 36.19217,
+    "lng": 137.55253,
+    "imageQuery": "平湯温泉",
+    "localityWords": [
+      "平湯",
+      "奥飛騨",
+      "高山"
+    ]
+  },
+  {
+    "id": "shinhotaka",
+    "name": "新穂高温泉",
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "lat": 36.26539,
+    "lng": 137.56261,
+    "imageQuery": "新穂高温泉",
+    "localityWords": [
+      "新穂高",
+      "奥飛騨",
+      "高山"
+    ]
+  },
+  {
+    "id": "kaike",
+    "name": "皆生温泉",
+    "prefecture": "鳥取県",
+    "city": "米子市",
+    "lat": 35.4563,
+    "lng": 133.3618,
+    "imageQuery": "皆生温泉",
+    "localityWords": [
+      "皆生",
+      "米子"
+    ]
+  },
+  {
+    "id": "myoken-kagoshima",
+    "name": "妙見温泉",
+    "prefecture": "鹿児島県",
+    "city": "霧島市",
+    "lat": 31.8114,
+    "lng": 130.75697,
+    "imageQuery": "妙見温泉",
+    "localityWords": [
+      "妙見",
+      "霧島",
+      "天降川"
+    ]
+  }
+]

@@ -220165,5 +220165,951 @@
       "hasShuttle": false,
       "accessStation": "JR金沢駅"
     }
+  },
+  {
+    "id": "yunomine",
+    "name": "湯の峰温泉",
+    "type": "destination",
+    "region": "近畿",
+    "hub": "大阪",
+    "stayAllowed": [
+      "1night"
+    ],
+    "departures": [
+      "大阪"
+    ],
+    "weight": 1,
+    "description": "熊野本宮大社へ向かう参詣道の途中、谷あいに十数軒の宿が身を寄せている。四世紀の発見と伝わる千八百年の湯で、二〇〇四年に紀伊山地の霊場と参詣道の一部として世界遺産に登録された。世界遺産に入っている温泉は、いまのところここだけだ。岩をくり抜いた小さなつぼ湯は二人も入れば一杯になる大きさで、一日に七度も湯の色が変わると言い伝えられてきた。泉質は含硫黄の炭酸水素塩泉、源泉は九十二・五度と熱く、川べりの湯筒では玉子や野菜が茹だる。新宮駅からバスで一時間ほど。",
+    "tags": [
+      "温泉",
+      "歴史",
+      "世界遺産",
+      "湯治"
+    ],
+    "spots": [
+      {
+        "name": "つぼ湯",
+        "description": "岩をくり抜いた二人でいっぱいの湯船。世界遺産に登録された唯一の温泉で、湯の色が変わると伝わる。"
+      },
+      {
+        "name": "湯筒",
+        "description": "九十二度の源泉が自噴する川べりの湯だまり。売店で買った玉子や野菜をその場で茹でて食べられる。"
+      },
+      {
+        "name": "公衆浴場",
+        "description": "一般湯・くすり湯・貸切湯の三つを備える。十リットル百円で湯を汲んで持ち帰ることもできる。"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "hotelSearch": "湯の峰温泉",
+    "gateways": {
+      "rail": [
+        "新宮駅"
+      ],
+      "airport": [
+        "南紀白浜空港"
+      ],
+      "bus": [],
+      "ferry": []
+    },
+    "destType": "onsen",
+    "railGateway": "新宮駅",
+    "busGateway": null,
+    "ferryGateway": null,
+    "airportGateway": "南紀白浜空港",
+    "prefecture": "和歌山県",
+    "lat": 33.82892,
+    "lng": 135.75744,
+    "stayBias": 1,
+    "city": "田辺市",
+    "situations": [
+      "solo",
+      "couple"
+    ],
+    "catch": "世界遺産に登録された、たった一つの湯。",
+    "mainSpot": "つぼ湯",
+    "mapPoint": "つぼ湯",
+    "representativeStation": "新宮駅",
+    "hubStation": "新宮駅",
+    "accessStation": "新宮駅",
+    "hotelArea": "wakayama",
+    "finalAccess": {
+      "type": "walk"
+    },
+    "travelTime": {
+      "tokyo": 360,
+      "osaka": 215,
+      "nagoya": 260,
+      "fukuoka": 375,
+      "takamatsu": 335,
+      "wakayama": 245,
+      "mito": 405,
+      "maebashi": 420,
+      "takasaki": 420,
+      "hamamatsu": 290,
+      "gifu": 280,
+      "kofu": 450,
+      "shingu": 335,
+      "tanabe": 305,
+      "shirahama": 315,
+      "kushimoto": 335,
+      "tottori": 335,
+      "shimonoseki": 405,
+      "saga": 405,
+      "oita": 435,
+      "beppu": 445
+    },
+    "stayRecommendation": "1night",
+    "tier": "area",
+    "tier2": "area",
+    "icCard": "suica",
+    "bestSeason": "秋",
+    "onsenLevel": 3,
+    "hasDirectFlight": false,
+    "primary": [
+      "温泉",
+      "歴史"
+    ],
+    "secondary": [
+      "世界遺産",
+      "湯治"
+    ],
+    "reasonChips": [
+      "温泉",
+      "ひとり旅向け",
+      "カップル向け",
+      "1泊がおすすめ",
+      "車なしOK"
+    ],
+    "images": [
+      "/images/yunomine/main.jpg"
+    ],
+    "imageCredit": {
+      "author": "Nekosuki",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Kumano_Kodo_pilgrimage_route_Yunomine_Onsen_World_heritage_%E7%86%8A%E9%87%8E%E5%8F%A4%E9%81%93_%E6%B9%AF%E3%81%AE%E5%B3%B0%E6%B8%A9%E6%B3%8956.JPG",
+      "attributionRequired": true
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fwakayama%2F",
+      "jalan": "https://www.jalan.net/300000/"
+    },
+    "featured_stay": {
+      "name": "湯の峰温泉 旅館あづまや",
+      "catchcopy": "世界遺産の湯を引く老舗。総檜の大浴場で九十二度の源泉に浸かる",
+      "hasShuttle": false,
+      "accessStation": "JR新宮駅"
+    }
+  },
+  {
+    "id": "iizaka",
+    "name": "飯坂温泉",
+    "type": "destination",
+    "region": "東北",
+    "hub": "仙台",
+    "stayAllowed": [
+      "1night"
+    ],
+    "departures": [
+      "仙台"
+    ],
+    "weight": 1,
+    "description": "摺上川の谷に宿が三十軒あまり並び、そのあいだに共同浴場が点在する。中でも鯖湖湯は日本でも古い木造の共同浴場を復元したもので、大きな一枚屋根と黒光りする板壁が通りの目印になっている。入浴料は百円台から三百円ほど、地元の人が桶を持って通う光景がいまも残る。日本武尊が見つけたと伝わる古い湯で、松尾芭蕉が元禄二年に泊まり、ヘレン・ケラーも二度訪れている。泉質は単純温泉。福島駅から飯坂線で二十三分と、新幹線からの乗り継ぎがいい。",
+    "tags": [
+      "温泉",
+      "歴史",
+      "街歩き",
+      "湯治"
+    ],
+    "spots": [
+      {
+        "name": "鯖湖湯",
+        "description": "飯坂を代表する共同浴場。古い木造湯屋を復元したもので、大きな屋根と板壁が通りの目印になる。"
+      },
+      {
+        "name": "波来湯",
+        "description": "摺上川のほとりに建つもう一つの共同浴場。川面より低い位置に湯船があり、窓の外を水が流れる。"
+      },
+      {
+        "name": "摺上川の谷",
+        "description": "宿と共同浴場が両岸に並ぶ。桶を提げて湯へ向かう地元の人の姿が、いまも日常として見られる。"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "hotelSearch": "飯坂温泉",
+    "gateways": {
+      "rail": [
+        "飯坂温泉駅"
+      ],
+      "airport": [
+        "仙台空港"
+      ],
+      "bus": [],
+      "ferry": []
+    },
+    "destType": "onsen",
+    "railGateway": "飯坂温泉駅",
+    "busGateway": null,
+    "ferryGateway": null,
+    "airportGateway": "仙台空港",
+    "prefecture": "福島県",
+    "lat": 37.83194,
+    "lng": 140.45444,
+    "stayBias": 1,
+    "city": "福島市",
+    "situations": [
+      "solo",
+      "couple"
+    ],
+    "catch": "百円玉一枚で入れる共同浴場が、九つ。",
+    "mainSpot": "鯖湖湯",
+    "mapPoint": "鯖湖湯",
+    "representativeStation": "飯坂温泉駅",
+    "hubStation": "飯坂温泉駅",
+    "accessStation": "飯坂温泉駅",
+    "hotelArea": "fukushima",
+    "finalAccess": {
+      "type": "walk"
+    },
+    "travelTime": {
+      "tokyo": 100,
+      "osaka": 295,
+      "nagoya": 245,
+      "fukuoka": 435,
+      "takamatsu": 375,
+      "mito": 145,
+      "maebashi": 160,
+      "takasaki": 160,
+      "hamamatsu": 275,
+      "gifu": 265,
+      "kofu": 190,
+      "shingu": 415,
+      "tanabe": 385,
+      "shirahama": 395,
+      "kushimoto": 415,
+      "tottori": 415,
+      "shimonoseki": 465,
+      "saga": 465,
+      "oita": 495,
+      "beppu": 505
+    },
+    "stayRecommendation": "1night",
+    "tier": "area",
+    "tier2": "area",
+    "icCard": "suica",
+    "bestSeason": "通年",
+    "onsenLevel": 3,
+    "hasDirectFlight": false,
+    "primary": [
+      "温泉",
+      "歴史"
+    ],
+    "secondary": [
+      "街歩き",
+      "湯治"
+    ],
+    "reasonChips": [
+      "温泉",
+      "ひとり旅向け",
+      "カップル向け",
+      "1泊がおすすめ",
+      "車なしOK"
+    ],
+    "images": [
+      "/images/iizaka/main.jpg"
+    ],
+    "imageCredit": {
+      "author": "Higa4",
+      "license": "CC0",
+      "url": "https://commons.wikimedia.org/wiki/File:Sabakoyu_01.jpg",
+      "attributionRequired": false
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Ffukushima%2F",
+      "jalan": "https://www.jalan.net/070000/"
+    },
+    "featured_stay": {
+      "name": "飯坂温泉 摺上亭 大鳥",
+      "catchcopy": "摺上川を見下ろす宿。九つの共同浴場めぐりの拠点にできる",
+      "hasShuttle": false,
+      "accessStation": "飯坂温泉駅"
+    }
+  },
+  {
+    "id": "higashiyama-aizu",
+    "name": "東山温泉",
+    "type": "destination",
+    "region": "東北",
+    "hub": "仙台",
+    "stayAllowed": [
+      "1night"
+    ],
+    "departures": [
+      "仙台"
+    ],
+    "weight": 1,
+    "description": "会津若松の市街地からバスで十五分、湯川の細い谷に二十軒あまりの宿が石垣の上に積み重なっている。奈良時代に行基が見つけたと伝わり、江戸期には会津藩の指定する湯治場として整えられ、藩の奥座敷と呼ばれてきた。泉質は硫酸塩泉、四十五度から五十八度の湯が毎分千五百リットル湧く。谷には東山四大滝がかかり、秋は宿の窓がそのまま紅葉の額縁になる。からころ芸妓と呼ばれる芸妓がいまも座敷に出る土地でもある。八月中旬には盆踊りで温泉街が埋まる。",
+    "tags": [
+      "温泉",
+      "歴史",
+      "自然",
+      "秋"
+    ],
+    "spots": [
+      {
+        "name": "向瀧",
+        "description": "明治六年創業、建物が国の登録有形文化財。会津藩指定の湯治場だった時代から続く宿である。"
+      },
+      {
+        "name": "東山四大滝",
+        "description": "湯川の谷にかかる伏見ヶ滝・雨降り滝など四つの滝。宿の窓や散歩道から眺めることができる。"
+      },
+      {
+        "name": "東山温泉盆踊り",
+        "description": "八月中旬、温泉街の通りが提灯と踊りの輪で埋まる。宿泊客も浴衣のまま輪に入れる行事。"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "hotelSearch": "東山温泉",
+    "gateways": {
+      "rail": [
+        "会津若松駅"
+      ],
+      "airport": [
+        "福島空港"
+      ],
+      "bus": [],
+      "ferry": []
+    },
+    "destType": "onsen",
+    "railGateway": "会津若松駅",
+    "busGateway": null,
+    "ferryGateway": null,
+    "airportGateway": "福島空港",
+    "prefecture": "福島県",
+    "lat": 37.47861,
+    "lng": 139.96236,
+    "stayBias": 1,
+    "city": "会津若松市",
+    "situations": [
+      "solo",
+      "couple"
+    ],
+    "catch": "会津の奥座敷。芸妓の三味線がまだ聞こえる。",
+    "mainSpot": "向瀧",
+    "mapPoint": "向瀧",
+    "representativeStation": "会津若松駅",
+    "hubStation": "会津若松駅",
+    "accessStation": "会津若松駅",
+    "hotelArea": "fukushima",
+    "finalAccess": {
+      "type": "walk"
+    },
+    "travelTime": {
+      "tokyo": 230,
+      "osaka": 370,
+      "nagoya": 315,
+      "fukuoka": 520,
+      "takamatsu": 470,
+      "mito": 275,
+      "maebashi": 290,
+      "takasaki": 290,
+      "hamamatsu": 345,
+      "gifu": 335,
+      "kofu": 320,
+      "shingu": 490,
+      "tanabe": 460,
+      "shirahama": 470,
+      "kushimoto": 490,
+      "tottori": 490,
+      "shimonoseki": 550,
+      "saga": 550,
+      "oita": 580,
+      "beppu": 590
+    },
+    "stayRecommendation": "1night",
+    "tier": "area",
+    "tier2": "area",
+    "icCard": "suica",
+    "bestSeason": "秋",
+    "onsenLevel": 3,
+    "hasDirectFlight": false,
+    "primary": [
+      "温泉",
+      "歴史"
+    ],
+    "secondary": [
+      "自然",
+      "秋"
+    ],
+    "reasonChips": [
+      "温泉",
+      "ひとり旅向け",
+      "カップル向け",
+      "1泊がおすすめ",
+      "車なしOK"
+    ],
+    "images": [
+      "/images/higashiyama-aizu/main.jpg"
+    ],
+    "imageCredit": {
+      "author": "Raita Futo from Tokyo, Japan",
+      "license": "CC BY 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Higashiyama_hot_springs_(37856367571).jpg",
+      "attributionRequired": true
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Ffukushima%2F",
+      "jalan": "https://www.jalan.net/070000/"
+    },
+    "featured_stay": {
+      "name": "会津東山温泉 向瀧",
+      "catchcopy": "明治六年創業の登録有形文化財。回遊式庭園と自家源泉かけ流し",
+      "hasShuttle": false,
+      "accessStation": "JR会津若松駅"
+    }
+  },
+  {
+    "id": "yamanaka-onsen",
+    "name": "山中温泉",
+    "type": "destination",
+    "region": "中部",
+    "hub": "金沢",
+    "stayAllowed": [
+      "1night"
+    ],
+    "departures": [
+      "金沢"
+    ],
+    "weight": 1,
+    "description": "大聖寺川がえぐった鶴仙渓に沿って、二十数軒の宿が建つ。元禄二年に松尾芭蕉が八泊し、扶桑三名泉のひとつに数えて句を残した湯だ。総湯の菊の湯は男湯と女湯が別棟になっており、壁面には九谷焼のタイルで山中温泉縁起絵巻が写されている。泉質はナトリウム・カルシウムの硫酸塩泉、四十八・三度。渓谷には総ヒノキのこおろぎ橋とS字にうねるあやとり橋が架かり、川床が出る季節もある。山中漆器の産地でもあり、木地屋の工房が今も通りに残っている。加賀温泉駅からバスで三十分。",
+    "tags": [
+      "温泉",
+      "自然",
+      "歴史",
+      "秋"
+    ],
+    "spots": [
+      {
+        "name": "総湯 菊の湯",
+        "description": "男湯と女湯が別棟に建つ総湯。壁の九谷焼タイルに山中温泉縁起絵巻が写し取られている。"
+      },
+      {
+        "name": "鶴仙渓",
+        "description": "大聖寺川がえぐった渓谷。遊歩道が川沿いに続き、季節によっては川床が出て茶を飲める。"
+      },
+      {
+        "name": "こおろぎ橋",
+        "description": "総ヒノキで架けられた渓谷の橋。少し下流のあやとり橋はS字にうねる現代的な造りで対照的。"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "hotelSearch": "山中温泉",
+    "gateways": {
+      "rail": [
+        "加賀温泉駅"
+      ],
+      "airport": [
+        "小松空港"
+      ],
+      "bus": [],
+      "ferry": []
+    },
+    "destType": "onsen",
+    "railGateway": "加賀温泉駅",
+    "busGateway": null,
+    "ferryGateway": null,
+    "airportGateway": "小松空港",
+    "prefecture": "石川県",
+    "lat": 36.24686,
+    "lng": 136.37383,
+    "stayBias": 1,
+    "city": "加賀市",
+    "situations": [
+      "solo",
+      "couple"
+    ],
+    "catch": "芭蕉が八泊した渓谷の湯。扶桑三名泉のひとつ。",
+    "mainSpot": "総湯 菊の湯",
+    "mapPoint": "総湯 菊の湯",
+    "representativeStation": "加賀温泉駅",
+    "hubStation": "加賀温泉駅",
+    "accessStation": "加賀温泉駅",
+    "hotelArea": "ishikawa",
+    "finalAccess": {
+      "type": "walk"
+    },
+    "travelTime": {
+      "tokyo": 195,
+      "osaka": 145,
+      "nagoya": 165,
+      "fukuoka": 365,
+      "takamatsu": 295,
+      "mito": 240,
+      "maebashi": 255,
+      "takasaki": 255,
+      "hamamatsu": 195,
+      "gifu": 185,
+      "kofu": 285,
+      "shingu": 265,
+      "tanabe": 235,
+      "shirahama": 245,
+      "kushimoto": 265,
+      "tottori": 265,
+      "shimonoseki": 395,
+      "saga": 395,
+      "oita": 425,
+      "beppu": 435
+    },
+    "stayRecommendation": "1night",
+    "tier": "area",
+    "tier2": "area",
+    "icCard": "icoca",
+    "bestSeason": "秋",
+    "onsenLevel": 3,
+    "hasDirectFlight": false,
+    "primary": [
+      "温泉",
+      "自然"
+    ],
+    "secondary": [
+      "歴史",
+      "秋"
+    ],
+    "reasonChips": [
+      "温泉",
+      "ひとり旅向け",
+      "カップル向け",
+      "1泊がおすすめ",
+      "車なしOK"
+    ],
+    "images": [
+      "/images/yamanaka-onsen/main.jpg"
+    ],
+    "imageCredit": {
+      "author": "Kakidai",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Yamanaka_Onsen.JPG",
+      "attributionRequired": true
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fishikawa%2F",
+      "jalan": "https://www.jalan.net/ikisaki/map/ishikawa/"
+    },
+    "featured_stay": {
+      "name": "山中温泉 かよう亭",
+      "catchcopy": "鶴仙渓の山あいに建つ静かな宿。芭蕉が八泊した湯を引く",
+      "hasShuttle": false,
+      "accessStation": "JR加賀温泉駅"
+    }
+  },
+  {
+    "id": "hirayu",
+    "name": "平湯温泉",
+    "type": "destination",
+    "region": "中部",
+    "hub": "松本",
+    "stayAllowed": [
+      "1night"
+    ],
+    "departures": [
+      "松本"
+    ],
+    "weight": 1,
+    "description": "奥飛騨温泉郷の入口にあたる標高千二百メートルの盆地で、源泉が四十本ほど、毎分一万三千リットルが湧く。炭酸水素塩泉・塩化物泉・単純温泉・硫黄泉と泉質が入り混じり、宿ごとに湯の性格が違う。宿は二十六軒、外湯が四つ。戦国のころ疲れた兵を白い猿が湯へ導いたという伝説が残り、昭和三十九年に国民保養温泉地に指定された。上高地と乗鞍岳へのマイカー規制が始まってからは、車を停めてバスに乗り換える拠点にもなっている。落差六十四メートルの平湯大滝が谷の奥にかかる。",
+    "tags": [
+      "温泉",
+      "自然",
+      "絶景",
+      "秋"
+    ],
+    "spots": [
+      {
+        "name": "平湯大滝",
+        "description": "落差六十四メートル、幅六メートルの滝。冬は凍りつき、二月には夜間のライトアップがある。"
+      },
+      {
+        "name": "平湯民俗館",
+        "description": "国の登録文化財である豊坂家住宅を移築した施設。併設の露天風呂に入ることもできる。"
+      },
+      {
+        "name": "平湯バスターミナル",
+        "description": "上高地・乗鞍岳へのマイカー規制の乗り換え地点。ここに車を停めてバスに乗り継ぐことになる。"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "hotelSearch": "平湯温泉",
+    "gateways": {
+      "rail": [
+        "高山駅"
+      ],
+      "airport": [
+        "富山空港"
+      ],
+      "bus": [],
+      "ferry": []
+    },
+    "destType": "onsen",
+    "railGateway": "高山駅",
+    "busGateway": null,
+    "ferryGateway": null,
+    "airportGateway": "富山空港",
+    "prefecture": "岐阜県",
+    "lat": 36.19217,
+    "lng": 137.55253,
+    "stayBias": 1,
+    "city": "高山市",
+    "situations": [
+      "solo",
+      "couple"
+    ],
+    "catch": "源泉四十本。奥飛騨でいちばん湯量が多い。",
+    "mainSpot": "平湯大滝",
+    "mapPoint": "平湯大滝",
+    "representativeStation": "高山駅",
+    "hubStation": "高山駅",
+    "accessStation": "高山駅",
+    "hotelArea": "gifu",
+    "finalAccess": {
+      "type": "walk"
+    },
+    "travelTime": {
+      "tokyo": 180,
+      "osaka": 265,
+      "nagoya": 185,
+      "fukuoka": 415,
+      "takamatsu": 365,
+      "mito": 225,
+      "maebashi": 240,
+      "takasaki": 240,
+      "hamamatsu": 215,
+      "gifu": 205,
+      "kofu": 270,
+      "shingu": 385,
+      "tanabe": 355,
+      "shirahama": 365,
+      "kushimoto": 385,
+      "tottori": 385,
+      "shimonoseki": 445,
+      "saga": 445,
+      "oita": 475,
+      "beppu": 485
+    },
+    "stayRecommendation": "1night",
+    "tier": "area",
+    "tier2": "area",
+    "icCard": "suica",
+    "bestSeason": "秋",
+    "onsenLevel": 3,
+    "hasDirectFlight": false,
+    "primary": [
+      "温泉",
+      "自然"
+    ],
+    "secondary": [
+      "絶景",
+      "秋"
+    ],
+    "reasonChips": [
+      "温泉",
+      "ひとり旅向け",
+      "カップル向け",
+      "1泊がおすすめ",
+      "車なしOK"
+    ],
+    "images": [
+      "/images/hirayu/main.jpg"
+    ],
+    "imageCredit": {
+      "author": "663highland",
+      "license": "CC BY 2.5",
+      "url": "https://commons.wikimedia.org/wiki/File:Hirayu_onsen02n3872.jpg",
+      "attributionRequired": true
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fgifu%2F",
+      "jalan": "https://www.jalan.net/210000/"
+    },
+    "featured_stay": {
+      "name": "平湯温泉 ひらゆの森",
+      "catchcopy": "広い露天風呂群と素泊まりも通る宿。奥飛騨の湯量を実感できる",
+      "hasShuttle": false,
+      "accessStation": "平湯温泉バスターミナル"
+    }
+  },
+  {
+    "id": "shinhotaka",
+    "name": "新穂高温泉",
+    "type": "destination",
+    "region": "中部",
+    "hub": "松本",
+    "stayAllowed": [
+      "1night"
+    ],
+    "departures": [
+      "松本"
+    ],
+    "weight": 1,
+    "description": "蒲田川をさかのぼった谷の最奥に、宿が五十軒あまり点在する。奥飛騨温泉郷でも標高が高く、蒲田・中尾・新穂高の三地区で泉質が分かれ、中尾の高いところでは硫黄泉が湧く。武田信玄の家来が浸かったとも言い伝えられるが、開湯の年ははっきりしない。谷の奥から新穂高ロープウェイが標高二千百五十六メートルまで一気に上がり、西穂高口の展望台に立つと槍ヶ岳から笠ヶ岳まで北アルプスの稜線が並ぶ。北アルプス登山の玄関口でもあり、無料で入れる公衆露天風呂も残っている。高山駅からバスで九十分。",
+    "tags": [
+      "温泉",
+      "絶景",
+      "自然",
+      "山"
+    ],
+    "spots": [
+      {
+        "name": "新穂高ロープウェイ",
+        "description": "二階建てのゴンドラで標高二千百五十六メートルへ。西穂高口の展望台から槍ヶ岳が見える。"
+      },
+      {
+        "name": "蒲田川沿いの露天",
+        "description": "川のすぐ横に湯船を切った宿が並ぶ。湯に浸かったまま北アルプスの稜線を見上げられる。"
+      },
+      {
+        "name": "北アルプスの登山口",
+        "description": "槍ヶ岳・笠ヶ岳・双六岳への道がここから始まる。下山後にそのまま湯へ入れる立地である。"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "hotelSearch": "新穂高温泉",
+    "gateways": {
+      "rail": [
+        "高山駅"
+      ],
+      "airport": [
+        "富山空港"
+      ],
+      "bus": [],
+      "ferry": []
+    },
+    "destType": "onsen",
+    "railGateway": "高山駅",
+    "busGateway": null,
+    "ferryGateway": null,
+    "airportGateway": "富山空港",
+    "prefecture": "岐阜県",
+    "lat": 36.26539,
+    "lng": 137.56261,
+    "stayBias": 1,
+    "city": "高山市",
+    "situations": [
+      "solo",
+      "couple"
+    ],
+    "catch": "露天風呂の正面に、槍ヶ岳と穂高が立つ。",
+    "mainSpot": "新穂高ロープウェイ",
+    "mapPoint": "新穂高ロープウェイ",
+    "representativeStation": "高山駅",
+    "hubStation": "高山駅",
+    "accessStation": "高山駅",
+    "hotelArea": "gifu",
+    "finalAccess": {
+      "type": "walk"
+    },
+    "travelTime": {
+      "tokyo": 150,
+      "osaka": 225,
+      "nagoya": 170,
+      "fukuoka": 375,
+      "takamatsu": 325,
+      "mito": 195,
+      "maebashi": 210,
+      "takasaki": 210,
+      "hamamatsu": 200,
+      "gifu": 190,
+      "kofu": 240,
+      "shingu": 345,
+      "tanabe": 315,
+      "shirahama": 325,
+      "kushimoto": 345,
+      "tottori": 345,
+      "shimonoseki": 405,
+      "saga": 405,
+      "oita": 435,
+      "beppu": 445
+    },
+    "stayRecommendation": "1night",
+    "tier": "area",
+    "tier2": "area",
+    "icCard": "icoca",
+    "bestSeason": "秋",
+    "onsenLevel": 3,
+    "hasDirectFlight": false,
+    "primary": [
+      "温泉",
+      "絶景"
+    ],
+    "secondary": [
+      "自然",
+      "山"
+    ],
+    "reasonChips": [
+      "温泉",
+      "ひとり旅向け",
+      "カップル向け",
+      "1泊がおすすめ",
+      "車なしOK"
+    ],
+    "images": [
+      "/images/shinhotaka/main.jpg"
+    ],
+    "imageCredit": {
+      "author": "663highland",
+      "license": "CC BY 2.5",
+      "url": "https://commons.wikimedia.org/wiki/File:Shinhotaka_ropeway01s3200.jpg",
+      "attributionRequired": true
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fgifu%2F",
+      "jalan": "https://www.jalan.net/210000/"
+    },
+    "featured_stay": {
+      "name": "新穂高温泉 槍見舘",
+      "catchcopy": "蒲田川沿いの古民家造り。露天から槍ヶ岳を望むかけ流しの宿",
+      "hasShuttle": false,
+      "accessStation": "高山駅からバス"
+    }
+  },
+  {
+    "id": "kaike",
+    "name": "皆生温泉",
+    "type": "destination",
+    "region": "中国",
+    "hub": "鳥取",
+    "stayAllowed": [
+      "1night"
+    ],
+    "departures": [
+      "鳥取"
+    ],
+    "weight": 1,
+    "description": "日本海に面した弓ヶ浜の砂浜沿いに、宿が十六軒ほど並ぶ山陰最大の温泉地だ。明治三十三年、漁師が海中に湧く湯を見つけたのが始まりで、大正期に有本松太郎が本格的に開発した。泉質はナトリウム・カルシウムの塩化物泉、八十九度の湯が日に五十六万リットル湧く。海水浴と温泉を同じ日に楽しめる場所は国内でも数えるほどしかない。美保湾越しに中国地方最高峰の大山が立ち、宿の展望風呂からその姿を眺められる。昭和五十六年には日本で最初のトライアスロン大会がここで開かれた。米子駅からバスで十九分。",
+    "tags": [
+      "温泉",
+      "絶景",
+      "ビーチ",
+      "夏"
+    ],
+    "spots": [
+      {
+        "name": "皆生海岸",
+        "description": "白砂と松林が続く弓ヶ浜の一角。海水浴と温泉を同じ日に楽しめる、国内でも珍しい浜である。"
+      },
+      {
+        "name": "大山の眺め",
+        "description": "美保湾の向こうに中国地方最高峰が立つ。宿の展望風呂から見えることを売りにする宿も多い。"
+      },
+      {
+        "name": "トライアスロン発祥の地",
+        "description": "昭和五十六年、日本初のトライアスロン大会がここで開かれた。夏には今も大会が続いている。"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "hotelSearch": "皆生温泉",
+    "gateways": {
+      "rail": [
+        "米子駅"
+      ],
+      "airport": [
+        "米子鬼太郎空港"
+      ],
+      "bus": [],
+      "ferry": []
+    },
+    "destType": "onsen",
+    "railGateway": "米子駅",
+    "busGateway": null,
+    "ferryGateway": null,
+    "airportGateway": "米子鬼太郎空港",
+    "prefecture": "鳥取県",
+    "lat": 35.4563,
+    "lng": 133.3618,
+    "stayBias": 1,
+    "city": "米子市",
+    "situations": [
+      "solo",
+      "couple"
+    ],
+    "catch": "海のなかから湧いた湯。正面に大山が立つ。",
+    "mainSpot": "皆生海岸",
+    "mapPoint": "皆生海岸",
+    "representativeStation": "米子駅",
+    "hubStation": "米子駅",
+    "accessStation": "米子駅",
+    "hotelArea": "tottori",
+    "finalAccess": {
+      "type": "walk"
+    },
+    "travelTime": {
+      "tokyo": 330,
+      "osaka": 190,
+      "nagoya": 285,
+      "fukuoka": 270,
+      "takamatsu": 240,
+      "mito": 375,
+      "maebashi": 390,
+      "takasaki": 390,
+      "hamamatsu": 315,
+      "gifu": 305,
+      "kofu": 420,
+      "shingu": 310,
+      "tanabe": 280,
+      "shirahama": 290,
+      "kushimoto": 310,
+      "tottori": 310,
+      "shimonoseki": 300,
+      "saga": 300,
+      "oita": 330,
+      "beppu": 340
+    },
+    "stayRecommendation": "1night",
+    "tier": "area",
+    "tier2": "area",
+    "icCard": "icoca",
+    "bestSeason": "夏",
+    "onsenLevel": 3,
+    "hasDirectFlight": false,
+    "primary": [
+      "温泉",
+      "絶景"
+    ],
+    "secondary": [
+      "ビーチ",
+      "夏"
+    ],
+    "reasonChips": [
+      "温泉",
+      "ひとり旅向け",
+      "カップル向け",
+      "1泊がおすすめ",
+      "車なしOK"
+    ],
+    "images": [
+      "/images/kaike/main.jpg"
+    ],
+    "imageCredit": {
+      "author": "663highland",
+      "license": "CC BY 2.5",
+      "url": "https://commons.wikimedia.org/wiki/File:Kaike_onsen01n3200.jpg",
+      "attributionRequired": true
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Ftottori%2F",
+      "jalan": "https://www.jalan.net/310000/"
+    },
+    "featured_stay": {
+      "name": "皆生温泉 華水亭",
+      "catchcopy": "日本海に面した宿。海に湧いた塩化物泉と大山の眺めを併せ持つ",
+      "hasShuttle": false,
+      "accessStation": "JR米子駅"
+    }
   }
 ]
