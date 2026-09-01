@@ -305,6 +305,31 @@ const STAY_DESC: Record<string, string> = {
 };
 const stayNote: string = article?.bestStay || STAY_DESC[(dest as any).destType] || '';
 
+// ── Googleマップのリンク生成 ──────────────────────────────
+// 「湯の鶴温泉 熊本県」のようなテキストで maps/search に飛ばすと、
+// Google側が宿泊検索と解釈して周辺ホテルの価格ピンだらけの画面になり、
+// 肝心の目的地がどこか分からなくなる。座標は全destinationに入っているので、
+// 座標が使えるときは緯度経度で指定し、ピンとルートが一点に定まるようにする。
+const _lat = typeof (dest as any).lat === 'number' ? (dest as any).lat : null;
+const _lng = typeof (dest as any).lng === 'number' ? (dest as any).lng : null;
+const hasCoord: boolean = _lat !== null && _lng !== null;
+const coordQ = hasCoord ? `${_lat},${_lng}` : '';
+// 目的地そのものを地図に出す（ピン1本）。座標が無ければ従来のテキスト検索へ。
+const gmapPlaceUrl: string = hasCoord
+  ? `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(coordQ)}`
+  : `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(`${dest.name} ${(dest as any).prefecture || ''}`.trim())}`;
+// 出発地→目的地の経路。destination を座標にすると宿泊検索に化けない。
+const gmapDirUrl = (from: string, driving = false): string => {
+  const to = hasCoord ? coordQ : `${dest.name} ${(dest as any).prefecture || ''}`.trim();
+  return `https://www.google.com/maps/dir/?api=1&origin=${encodeURIComponent(from)}`
+    + `&destination=${encodeURIComponent(to)}${driving ? '&travelmode=driving' : ''}`;
+};
+// spotは個別の座標を持たないので検索は名前のまま。ただし目的地の座標を中心に
+// 添えて、同名の別の場所を全国から拾わないようにする。
+const gmapSpotUrl = (spot: string): string => hasCoord
+  ? `https://www.google.com/maps/search/${encodeURIComponent(spot)}/@${_lat},${_lng},14z`
+  : `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(`${spot} ${dest.name}`)}`;
+
 // 地上経路で行けるかを判定 (false → Yahoo乗換ボタン非表示)
 // gateways.airport は「その空港も使える」という参考情報であって、
 // 鉄道やバスで行けないことを意味しない。判定に入れていたせいで、
@@ -1585,7 +1610,7 @@ const hubCity = _destHubCity && _destHubCity !== dest.name
                     ))}
                   </div>
                   {section.info && <div class="spot-info">{section.info}</div>}
-                  <a href={`https://www.google.com/maps/search/${encodeURIComponent(sectionTitle + ' ' + dest.name)}`} target="_blank" rel="noopener noreferrer" class="spot-map">地図で見る →</a>
+                  <a href={gmapSpotUrl(sectionTitle)} target="_blank" rel="noopener noreferrer" class="spot-map">地図で見る →</a>
                 </div>
               </div>
             </div>
@@ -1611,7 +1636,7 @@ const hubCity = _destHubCity && _destHubCity !== dest.name
                   {spotDesc && (
                     <div class="spot-body"><p>{spotDesc}</p></div>
                   )}
-                  <a href={`https://www.google.com/maps/search/${encodeURIComponent(name + ' ' + dest.name)}`} target="_blank" rel="noopener noreferrer" class="spot-map">地図で見る →</a>
+                  <a href={gmapSpotUrl(name)} target="_blank" rel="noopener noreferrer" class="spot-map">地図で見る →</a>
                 </div>
               </div>
             </div>
@@ -1654,7 +1679,7 @@ const hubCity = _destHubCity && _destHubCity !== dest.name
       <h2 class="section-title">{dest.name}への行き方</h2>
       <a
         class="gmap-link"
-        href={`https://www.google.com/maps/search/${encodeURIComponent(dest.name)}+${encodeURIComponent(dest.prefecture || '')}`}
+        href={gmapPlaceUrl}
         target="_blank"
         rel="noopener noreferrer"
       >
@@ -1684,9 +1709,9 @@ const hubCity = _destHubCity && _destHubCity !== dest.name
         </div>
         <div class="access-empty-msg" id="access-empty-msg">出発地を選ぶと、ここに経路情報が表示されます</div>
           {ALL_DEPARTURE_CITIES_JP.filter((city: string) => city !== dest.hubCity && city !== dest.name && city !== dest.city).map((city: string) => {
-            const gmap = `https://www.google.com/maps/dir/${encodeURIComponent(city)}/${encodeURIComponent(dest.name)}/`;
+            const gmap = gmapDirUrl(city);
             // 車タブ用: 自動車モードを明示したGoogleマップのルート検索
-            const gmapDrive = `https://www.google.com/maps/dir/?api=1&origin=${encodeURIComponent(city)}&destination=${encodeURIComponent(`${dest.name} ${dest.prefecture || ''}`.trim())}&travelmode=driving`;
+            const gmapDrive = gmapDirUrl(city, true);
             const yahooTransit = `https://transit.yahoo.co.jp/search/result?from=${encodeURIComponent(city)}&to=${encodeURIComponent(dest.name)}`;
             const origPref = CITY_TO_PREF[city] || '';
             const destPref = dest.prefecture || '';
