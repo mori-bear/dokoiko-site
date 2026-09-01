@@ -1,0 +1,305 @@
+[
+  {
+    "id": "fukiware",
+    "name": "吹割の滝",
+    "prefecture": "群馬県",
+    "city": "沼田市",
+    "lat": 36.70211,
+    "lng": 139.20723,
+    "imageQuery": "吹割の滝",
+    "localityWords": [
+      "吹割",
+      "沼田",
+      "片品",
+      "群馬"
+    ]
+  },
+  {
+    "id": "myogisan",
+    "name": "妙義山",
+    "prefecture": "群馬県",
+    "city": "富岡市",
+    "lat": 36.29879,
+    "lng": 138.74757,
+    "imageQuery": "妙義山",
+    "localityWords": [
+      "妙義",
+      "富岡",
+      "下仁田",
+      "群馬"
+    ]
+  },
+  {
+    "id": "sasagawa",
+    "name": "笹川流れ",
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "lat": 38.37481,
+    "lng": 139.45833,
+    "imageQuery": "笹川流れ",
+    "localityWords": [
+      "笹川流れ",
+      "村上",
+      "新潟"
+    ]
+  },
+  {
+    "id": "shomyodaki",
+    "name": "称名滝",
+    "prefecture": "富山県",
+    "city": "立山町",
+    "lat": 36.57541,
+    "lng": 137.52356,
+    "imageQuery": "称名滝",
+    "localityWords": [
+      "称名",
+      "立山",
+      "富山"
+    ]
+  },
+  {
+    "id": "sotomo",
+    "name": "蘇洞門",
+    "prefecture": "福井県",
+    "city": "小浜市",
+    "lat": 35.56627,
+    "lng": 135.71147,
+    "imageQuery": "蘇洞門",
+    "localityWords": [
+      "蘇洞門",
+      "小浜",
+      "福井"
+    ]
+  },
+  {
+    "id": "tenryukyo",
+    "name": "天龍峡",
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "lat": 35.44031,
+    "lng": 137.818,
+    "imageQuery": "天竜峡",
+    "localityWords": [
+      "天竜峡",
+      "飯田",
+      "長野"
+    ]
+  },
+  {
+    "id": "rurikei",
+    "name": "瑠璃渓",
+    "prefecture": "京都府",
+    "city": "南丹市",
+    "lat": 35.03582,
+    "lng": 135.40461,
+    "imageQuery": "瑠璃渓",
+    "localityWords": [
+      "瑠璃渓",
+      "南丹",
+      "京都"
+    ]
+  },
+  {
+    "id": "kasumi-kaigan",
+    "name": "香住海岸",
+    "prefecture": "兵庫県",
+    "city": "香美町",
+    "lat": 35.64208,
+    "lng": 134.62097,
+    "imageQuery": "香住海岸",
+    "localityWords": [
+      "香住",
+      "但馬",
+      "香美",
+      "兵庫"
+    ]
+  },
+  {
+    "id": "ojika",
+    "name": "小鹿渓",
+    "prefecture": "鳥取県",
+    "city": "三朝町",
+    "lat": 35.37378,
+    "lng": 133.9755,
+    "imageQuery": "小鹿渓",
+    "localityWords": [
+      "小鹿",
+      "三朝",
+      "鳥取"
+    ]
+  },
+  {
+    "id": "kuniga",
+    "name": "国賀海岸",
+    "prefecture": "島根県",
+    "city": "西ノ島町",
+    "lat": 36.08556,
+    "lng": 132.95838,
+    "imageQuery": "国賀海岸",
+    "localityWords": [
+      "国賀",
+      "西ノ島",
+      "隠岐",
+      "島根"
+    ]
+  },
+  {
+    "id": "dangyokei",
+    "name": "断魚渓",
+    "prefecture": "島根県",
+    "city": "邑南町",
+    "lat": 34.92919,
+    "lng": 132.47442,
+    "imageQuery": "断魚渓",
+    "localityWords": [
+      "断魚",
+      "邑南",
+      "島根"
+    ]
+  },
+  {
+    "id": "sandankyo",
+    "name": "三段峡",
+    "prefecture": "広島県",
+    "city": "安芸太田町",
+    "lat": 34.5998,
+    "lng": 132.20815,
+    "imageQuery": "三段峡",
+    "localityWords": [
+      "三段峡",
+      "安芸太田",
+      "広島"
+    ]
+  },
+  {
+    "id": "chomonkyo",
+    "name": "長門峡",
+    "prefecture": "山口県",
+    "city": "山口市",
+    "lat": 34.30378,
+    "lng": 131.57752,
+    "imageQuery": "長門峡",
+    "localityWords": [
+      "長門峡",
+      "阿武川",
+      "山口"
+    ]
+  },
+  {
+    "id": "omogokei",
+    "name": "面河渓",
+    "prefecture": "愛媛県",
+    "city": "久万高原町",
+    "lat": 33.73624,
+    "lng": 133.11496,
+    "imageQuery": "面河渓",
+    "localityWords": [
+      "面河",
+      "久万高原",
+      "石鎚",
+      "愛媛"
+    ]
+  },
+  {
+    "id": "ozuru",
+    "name": "尾鈴山瀑布群",
+    "prefecture": "宮崎県",
+    "city": "都農町",
+    "lat": 32.28396,
+    "lng": 131.45199,
+    "imageQuery": "尾鈴山 瀑布群",
+    "localityWords": [
+      "尾鈴",
+      "都農",
+      "宮崎"
+    ]
+  },
+  {
+    "id": "sengan",
+    "name": "千巌山",
+    "prefecture": "熊本県",
+    "city": "上天草市",
+    "lat": 32.51067,
+    "lng": 130.41968,
+    "imageQuery": "千巌山 上天草",
+    "localityWords": [
+      "千巌",
+      "松島",
+      "上天草",
+      "熊本"
+    ]
+  },
+  {
+    "id": "toriike",
+    "name": "通り池",
+    "prefecture": "沖縄県",
+    "city": "宮古島市",
+    "lat": 24.82403,
+    "lng": 125.13642,
+    "imageQuery": "通り池 下地島",
+    "localityWords": [
+      "通り池",
+      "下地島",
+      "伊良部",
+      "宮古"
+    ]
+  },
+  {
+    "id": "nasonoshirataki",
+    "name": "奈曽の白瀑",
+    "prefecture": "秋田県",
+    "city": "にかほ市",
+    "lat": 39.18144,
+    "lng": 139.94325,
+    "imageQuery": "奈曽の白滝",
+    "localityWords": [
+      "奈曽",
+      "にかほ",
+      "象潟",
+      "秋田"
+    ]
+  },
+  {
+    "id": "oya-kigan",
+    "name": "大谷の奇岩群",
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "lat": 36.59813,
+    "lng": 139.82155,
+    "imageQuery": "大谷 宇都宮 奇岩",
+    "localityWords": [
+      "大谷",
+      "宇都宮",
+      "栃木"
+    ]
+  },
+  {
+    "id": "gokei",
+    "name": "豪渓",
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "lat": 34.76003,
+    "lng": 133.69922,
+    "imageQuery": "豪渓 総社",
+    "localityWords": [
+      "豪渓",
+      "総社",
+      "岡山"
+    ]
+  },
+  {
+    "id": "sekichukei",
+    "name": "石柱渓",
+    "prefecture": "山口県",
+    "city": "下関市",
+    "lat": 34.2487,
+    "lng": 131.15985,
+    "imageQuery": "石柱渓",
+    "localityWords": [
+      "石柱渓",
+      "下関",
+      "豊田",
+      "山口"
+    ]
+  }
+]

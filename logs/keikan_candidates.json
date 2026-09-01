@@ -1,0 +1,800 @@
+[
+ {
+  "id": "tsutanuma",
+  "name": "蔦沼",
+  "prefecture": "青森県",
+  "city": "十和田市",
+  "checks": {
+   "duplicate": "なし",
+   "coords": "一致 0.01km (wikidata×osm)",
+   "nearby": "蔦温泉(0.5km)"
+  },
+  "sources": [
+   {
+    "src": "wikipedia",
+    "lat": 40.596944,
+    "lng": 140.953056,
+    "note": "蔦温泉"
+   },
+   {
+    "src": "wikidata",
+    "lat": 40.60079,
+    "lng": 140.9502,
+    "note": "Q123485998"
+   },
+   {
+    "src": "osm",
+    "lat": 40.6008787,
+    "lng": 140.9501044,
+    "note": "蔦沼 蔦沼 蔦沼"
+   },
+   {
+    "src": "gsi",
+    "lat": 40.6007503254519,
+    "lng": 140.949866251161,
+    "note": "蔦沼"
+   }
+  ],
+  "distanceKm": 0.01,
+  "verifiedBy": [
+   "wikidata",
+   "osm"
+  ],
+  "lat": 40.60083,
+  "lng": 140.95015,
+  "pass": false
+ },
+ {
+  "id": "goshikinuma-ur",
+  "name": "浄土ヶ浜",
+  "prefecture": "岩手県",
+  "city": "宮古市",
+  "checks": {
+   "duplicate": "同名:浄土ヶ浜"
+  },
+  "pass": false
+ },
+ {
+  "id": "kamabuchi",
+  "name": "釜淵の滝",
+  "prefecture": "山形県",
+  "city": "南陽市",
+  "checks": {
+   "duplicate": "なし",
+   "coords": "一致 0.07km (wikidata×gsi)",
+   "nearby": "なし"
+  },
+  "sources": [
+   {
+    "src": "wikidata",
+    "lat": 39.456111111111,
+    "lng": 141.06638888889,
+    "note": "Q34752754"
+   },
+   {
+    "src": "gsi",
+    "lat": 39.4555869487103,
+    "lng": 141.066038375261,
+    "note": "釜淵の滝"
+   }
+  ],
+  "distanceKm": 0.07,
+  "verifiedBy": [
+   "wikidata",
+   "gsi"
+  ],
+  "lat": 39.45585,
+  "lng": 141.06621,
+  "pass": true
+ },
+ {
+  "id": "nabekura",
+  "name": "鍋倉高原",
+  "prefecture": "長野県",
+  "city": "飯山市",
+  "checks": {
+   "duplicate": "なし",
+   "coords": "2ソース未満 (なし)"
+  },
+  "sources": [],
+  "pass": false
+ },
+ {
+  "id": "ryusendo",
+  "name": "龍泉洞",
+  "prefecture": "岩手県",
+  "city": "岩泉町",
+  "checks": {
+   "duplicate": "id重複:龍泉洞"
+  },
+  "pass": false
+ },
+ {
+  "id": "himekawa",
+  "name": "親不知",
+  "prefecture": "新潟県",
+  "city": "糸魚川市",
+  "checks": {
+   "duplicate": "なし",
+   "coords": "一致 0.02km (wikidata×gsi)",
+   "nearby": "なし"
+  },
+  "sources": [
+   {
+    "src": "wikipedia",
+    "lat": 37,
+    "lng": 137.7,
+    "note": "親不知"
+   },
+   {
+    "src": "wikidata",
+    "lat": 36.99305556,
+    "lng": 137.695,
+    "note": "Q8015877"
+   },
+   {
+    "src": "osm",
+    "lat": 37.0068013,
+    "lng": 137.7382109,
+    "note": "親不知 親不知 親不知"
+   },
+   {
+    "src": "gsi",
+    "lat": 36.993211071877,
+    "lng": 137.694960851695,
+    "note": "親不知"
+   }
+  ],
+  "distanceKm": 0.02,
+  "verifiedBy": [
+   "wikidata",
+   "gsi"
+  ],
+  "lat": 36.99313,
+  "lng": 137.69498,
+  "pass": true
+ },
+ {
+  "id": "tojinbo-oshima",
+  "name": "雄島",
+  "prefecture": "福井県",
+  "city": "坂井市",
+  "checks": {
+   "duplicate": "なし",
+   "coords": "一致 0.01km (wikipedia×osm)",
+   "nearby": "なし"
+  },
+  "sources": [
+   {
+    "src": "wikipedia",
+    "lat": 36.25180556,
+    "lng": 136.11913889,
+    "note": "雄島 (福井県)"
+   },
+   {
+    "src": "wikidata",
+    "lat": 36.25111111,
+    "lng": 136.11833333,
+    "note": "Q11659209"
+   },
+   {
+    "src": "osm",
+    "lat": 36.2517537,
+    "lng": 136.1190402,
+    "note": "雄島 雄島"
+   },
+   {
+    "src": "gsi",
+    "lat": 36.2519214901422,
+    "lng": 136.119299584851,
+    "note": "雄島"
+   }
+  ],
+  "distanceKm": 0.01,
+  "verifiedBy": [
+   "wikipedia",
+   "osm"
+  ],
+  "lat": 36.25178,
+  "lng": 136.11909,
+  "pass": true
+ },
+ {
+  "id": "nachi-otaki",
+  "name": "桑ノ木の滝",
+  "prefecture": "和歌山県",
+  "city": "新宮市",
+  "checks": {
+   "duplicate": "なし",
+   "coords": "一致 0.67km (wikidata×gsi)",
+   "nearby": "なし"
+  },
+  "sources": [
+   {
+    "src": "wikidata",
+    "lat": 33.722222,
+    "lng": 135.936,
+    "note": "Q17216692"
+   },
+   {
+    "src": "gsi",
+    "lat": 33.727847,
+    "lng": 135.933253,
+    "note": "桑ノ木の滝"
+   }
+  ],
+  "distanceKm": 0.67,
+  "verifiedBy": [
+   "wikidata",
+   "gsi"
+  ],
+  "lat": 33.72503,
+  "lng": 135.93463,
+  "pass": true
+ },
+ {
+  "id": "takachiho-amano",
+  "name": "天岩戸神社",
+  "prefecture": "宮崎県",
+  "city": "高千穂町",
+  "checks": {
+   "duplicate": "なし",
+   "coords": "一致 0.26km (wikidata×gsi)",
+   "nearby": "なし"
+  },
+  "sources": [
+   {
+    "src": "wikidata",
+    "lat": 32.734444,
+    "lng": 131.350556,
+    "note": "Q2841102"
+   },
+   {
+    "src": "gsi",
+    "lat": 32.7368079722222,
+    "lng": 131.3503695,
+    "note": "天岩戸神社"
+   }
+  ],
+  "distanceKm": 0.26,
+  "verifiedBy": [
+   "wikidata",
+   "gsi"
+  ],
+  "lat": 32.73563,
+  "lng": 131.35046,
+  "pass": true
+ },
+ {
+  "id": "ohkanmon",
+  "name": "青の洞門",
+  "prefecture": "大分県",
+  "city": "中津市",
+  "checks": {
+   "duplicate": "なし",
+   "coords": "一致 0.01km (wikipedia×wikidata)",
+   "nearby": "青の洞門と耶馬渓(0.5km)"
+  },
+  "sources": [
+   {
+    "src": "wikipedia",
+    "lat": 33.50013889,
+    "lng": 131.17180556,
+    "note": "青の洞門"
+   },
+   {
+    "src": "wikidata",
+    "lat": 33.500071,
+    "lng": 131.171823,
+    "note": "Q4118917"
+   },
+   {
+    "src": "osm",
+    "lat": 33.4990913,
+    "lng": 131.1726343,
+    "note": "青の洞門 青の洞門"
+   },
+   {
+    "src": "gsi",
+    "lat": 33.4928345225,
+    "lng": 131.182575939167,
+    "note": "青の洞門トンネル"
+   }
+  ],
+  "distanceKm": 0.01,
+  "verifiedBy": [
+   "wikipedia",
+   "wikidata"
+  ],
+  "lat": 33.5001,
+  "lng": 131.17181,
+  "pass": false
+ },
+ {
+  "id": "nariwa",
+  "name": "備中松山城",
+  "prefecture": "岡山県",
+  "city": "高梁市",
+  "checks": {
+   "duplicate": "なし",
+   "coords": "一致 0.00km (wikipedia×wikidata)",
+   "nearby": "なし"
+  },
+  "sources": [
+   {
+    "src": "wikipedia",
+    "lat": 34.80907778,
+    "lng": 133.62230278,
+    "note": "備中松山城"
+   },
+   {
+    "src": "wikidata",
+    "lat": 34.80908889,
+    "lng": 133.622325,
+    "note": "Q577273"
+   },
+   {
+    "src": "osm",
+    "lat": 34.8087058,
+    "lng": 133.6221468,
+    "note": "備中松山城 備中松山城 備中松山城"
+   },
+   {
+    "src": "gsi",
+    "lat": 34.8091281666667,
+    "lng": 133.622268833333,
+    "note": "備中松山城跡"
+   }
+  ],
+  "distanceKm": 0,
+  "verifiedBy": [
+   "wikipedia",
+   "wikidata"
+  ],
+  "lat": 34.80908,
+  "lng": 133.62231,
+  "pass": true
+ },
+ {
+  "id": "takeda-castle",
+  "name": "竹田城",
+  "prefecture": "兵庫県",
+  "city": "朝来市",
+  "checks": {
+   "duplicate": "id重複:竹田城跡"
+  },
+  "pass": false
+ },
+ {
+  "id": "ine-funaya",
+  "name": "伊根の舟屋",
+  "prefecture": "京都府",
+  "city": "伊根町",
+  "checks": {
+   "duplicate": "なし",
+   "coords": "一致 0.25km (wikidata×osm)",
+   "nearby": "伊根(2.6km)"
+  },
+  "sources": [
+   {
+    "src": "wikipedia",
+    "lat": 35.67522,
+    "lng": 135.27269,
+    "note": "伊根町"
+   },
+   {
+    "src": "wikidata",
+    "lat": 35.6752,
+    "lng": 135.286697,
+    "note": "Q11379620"
+   },
+   {
+    "src": "osm",
+    "lat": 35.6749398,
+    "lng": 135.2894367,
+    "note": "伊根の舟屋　雅 伊根の舟屋　雅 伊根の舟屋　雅"
+   }
+  ],
+  "distanceKm": 0.25,
+  "verifiedBy": [
+   "wikidata",
+   "osm"
+  ],
+  "lat": 35.67507,
+  "lng": 135.28807,
+  "pass": false
+ },
+ {
+  "id": "kaiyodai",
+  "name": "皆野 美の山",
+  "prefecture": "埼玉県",
+  "city": "皆野町",
+  "checks": {
+   "duplicate": "なし",
+   "coords": "一致 0.10km (wikipedia×osm)",
+   "nearby": "なし"
+  },
+  "sources": [
+   {
+    "src": "wikipedia",
+    "lat": 36.05738889,
+    "lng": 139.11297222,
+    "note": "美の山公園"
+   },
+   {
+    "src": "osm",
+    "lat": 36.0566784,
+    "lng": 139.1136326,
+    "note": "美の山公園 美の山公園 美の山公園"
+   }
+  ],
+  "distanceKm": 0.1,
+  "verifiedBy": [
+   "wikipedia",
+   "osm"
+  ],
+  "lat": 36.05703,
+  "lng": 139.1133,
+  "pass": true
+ },
+ {
+  "id": "nishiizu-dogashima",
+  "name": "堂ヶ島",
+  "prefecture": "静岡県",
+  "city": "西伊豆町",
+  "checks": {
+   "duplicate": "なし",
+   "coords": "一致 0.00km (wikipedia×wikidata)",
+   "nearby": "なし"
+  },
+  "sources": [
+   {
+    "src": "wikipedia",
+    "lat": 34.78,
+    "lng": 138.76,
+    "note": "堂ヶ島"
+   },
+   {
+    "src": "wikidata",
+    "lat": 34.78,
+    "lng": 138.76,
+    "note": "Q11427843"
+   },
+   {
+    "src": "osm",
+    "lat": 34.7841162,
+    "lng": 138.7684522,
+    "note": "堂ヶ島 堂ヶ島"
+   },
+   {
+    "src": "gsi",
+    "lat": 35.24470417,
+    "lng": 139.0628781,
+    "note": "堂ヶ島"
+   }
+  ],
+  "distanceKm": 0,
+  "verifiedBy": [
+   "wikipedia",
+   "wikidata"
+  ],
+  "lat": 34.78,
+  "lng": 138.76,
+  "pass": true
+ },
+ {
+  "id": "tsunoshima",
+  "name": "角島",
+  "prefecture": "山口県",
+  "city": "下関市",
+  "checks": {
+   "duplicate": "id重複:角島"
+  },
+  "pass": false
+ },
+ {
+  "id": "motonosumi",
+  "name": "元乃隅神社",
+  "prefecture": "山口県",
+  "city": "長門市",
+  "checks": {
+   "duplicate": "id重複:元乃隅稲成神社"
+  },
+  "pass": false
+ },
+ {
+  "id": "manza-mouth",
+  "name": "万座毛",
+  "prefecture": "沖縄県",
+  "city": "恩納村",
+  "checks": {
+   "duplicate": "なし",
+   "coords": "一致 0.00km (wikipedia×wikidata)",
+   "nearby": "恩納村(2.7km)"
+  },
+  "sources": [
+   {
+    "src": "wikipedia",
+    "lat": 26.505,
+    "lng": 127.85027778,
+    "note": "万座毛"
+   },
+   {
+    "src": "wikidata",
+    "lat": 26.505,
+    "lng": 127.85027778,
+    "note": "Q11353838"
+   },
+   {
+    "src": "osm",
+    "lat": 26.5050087,
+    "lng": 127.8502564,
+    "note": "万座毛 万座毛 万座毛"
+   },
+   {
+    "src": "gsi",
+    "lat": 26.504708,
+    "lng": 127.850183,
+    "note": "万座毛"
+   }
+  ],
+  "distanceKm": 0,
+  "verifiedBy": [
+   "wikipedia",
+   "wikidata"
+  ],
+  "lat": 26.505,
+  "lng": 127.85028,
+  "pass": false
+ },
+ {
+  "id": "kabira",
+  "name": "川平湾",
+  "prefecture": "沖縄県",
+  "city": "石垣市",
+  "checks": {
+   "duplicate": "なし",
+   "coords": "一致 0.00km (wikipedia×wikidata)",
+   "nearby": "なし"
+  },
+  "sources": [
+   {
+    "src": "wikipedia",
+    "lat": 24.45138889,
+    "lng": 124.14444444,
+    "note": "川平湾"
+   },
+   {
+    "src": "wikidata",
+    "lat": 24.451388888889,
+    "lng": 124.14444444444,
+    "note": "Q2654598"
+   },
+   {
+    "src": "osm",
+    "lat": 24.4500748,
+    "lng": 124.1436464,
+    "note": "川平湾 川平湾 川平湾"
+   },
+   {
+    "src": "gsi",
+    "lat": 24.4500049547983,
+    "lng": 124.14166,
+    "note": "川平湾"
+   }
+  ],
+  "distanceKm": 0,
+  "verifiedBy": [
+   "wikipedia",
+   "wikidata"
+  ],
+  "lat": 24.45139,
+  "lng": 124.14444,
+  "pass": true
+ },
+ {
+  "id": "oshimizu",
+  "name": "千里浜なぎさ",
+  "prefecture": "石川県",
+  "city": "羽咋市",
+  "checks": {
+   "duplicate": "なし",
+   "coords": "一致 1.11km (wikipedia×osm)",
+   "nearby": "気多大社(2.1km)"
+  },
+  "sources": [
+   {
+    "src": "wikipedia",
+    "lat": 36.88897222,
+    "lng": 136.76438889,
+    "note": "千里浜なぎさドライブウェイ"
+   },
+   {
+    "src": "osm",
+    "lat": 36.8791419,
+    "lng": 136.7621117,
+    "note": "千里浜なぎさドライブウェイ 千里浜なぎさドライブウェイ 千里"
+   }
+  ],
+  "distanceKm": 1.11,
+  "verifiedBy": [
+   "wikipedia",
+   "osm"
+  ],
+  "lat": 36.88406,
+  "lng": 136.76325,
+  "pass": false
+ },
+ {
+  "id": "shirakami",
+  "name": "青池",
+  "prefecture": "青森県",
+  "city": "深浦町",
+  "checks": {
+   "duplicate": "なし",
+   "coords": "一致 0.83km (wikipedia×gsi)",
+   "nearby": "なし"
+  },
+  "sources": [
+   {
+    "src": "wikipedia",
+    "lat": 40.55357778,
+    "lng": 139.98106944,
+    "note": "十二湖"
+   },
+   {
+    "src": "wikidata",
+    "lat": 20.945077,
+    "lng": 105.844432,
+    "note": "Q4403404"
+   },
+   {
+    "src": "gsi",
+    "lat": 40.5604536498307,
+    "lng": 139.984819936559,
+    "note": "青池"
+   }
+  ],
+  "distanceKm": 0.83,
+  "verifiedBy": [
+   "wikipedia",
+   "gsi"
+  ],
+  "lat": 40.55702,
+  "lng": 139.98294,
+  "pass": true
+ },
+ {
+  "id": "bijodaira",
+  "name": "雨晴海岸",
+  "prefecture": "富山県",
+  "city": "高岡市",
+  "checks": {
+   "duplicate": "同名:雨晴海岸"
+  },
+  "pass": false
+ },
+ {
+  "id": "nezame",
+  "name": "寝覚の床",
+  "prefecture": "長野県",
+  "city": "上松町",
+  "checks": {
+   "duplicate": "なし",
+   "coords": "一致 0.00km (wikipedia×wikidata)",
+   "nearby": "木曽(2.4km)"
+  },
+  "sources": [
+   {
+    "src": "wikipedia",
+    "lat": 35.77264722,
+    "lng": 137.69945,
+    "note": "寝覚の床"
+   },
+   {
+    "src": "wikidata",
+    "lat": 35.77264722,
+    "lng": 137.69945,
+    "note": "Q11457580"
+   },
+   {
+    "src": "gsi",
+    "lat": 35.7721777056059,
+    "lng": 137.700043207376,
+    "note": "寝覚の床"
+   }
+  ],
+  "distanceKm": 0,
+  "verifiedBy": [
+   "wikipedia",
+   "wikidata"
+  ],
+  "lat": 35.77265,
+  "lng": 137.69945,
+  "pass": false
+ },
+ {
+  "id": "kyukamura-oku",
+  "name": "奥津渓",
+  "prefecture": "岡山県",
+  "city": "鏡野町",
+  "checks": {
+   "duplicate": "なし",
+   "coords": "一致 0.00km (wikipedia×wikidata)",
+   "nearby": "なし"
+  },
+  "sources": [
+   {
+    "src": "wikipedia",
+    "lat": 35.21357222,
+    "lng": 133.91509722,
+    "note": "奥津渓"
+   },
+   {
+    "src": "wikidata",
+    "lat": 35.213572,
+    "lng": 133.915097,
+    "note": "Q11445968"
+   },
+   {
+    "src": "osm",
+    "lat": 35.214591,
+    "lng": 133.9113868,
+    "note": "奥津渓 奥津渓"
+   },
+   {
+    "src": "gsi",
+    "lat": 35.2114115590236,
+    "lng": 133.91475722017,
+    "note": "奥津渓"
+   }
+  ],
+  "distanceKm": 0,
+  "verifiedBy": [
+   "wikipedia",
+   "wikidata"
+  ],
+  "lat": 35.21357,
+  "lng": 133.9151,
+  "pass": true
+ },
+ {
+  "id": "soemon",
+  "name": "瀞峡",
+  "prefecture": "和歌山県",
+  "city": "新宮市",
+  "checks": {
+   "duplicate": "なし",
+   "coords": "一致 0.00km (wikipedia×wikidata)",
+   "nearby": "なし"
+  },
+  "sources": [
+   {
+    "src": "wikipedia",
+    "lat": 33.90719,
+    "lng": 135.88628,
+    "note": "瀞峡"
+   },
+   {
+    "src": "wikidata",
+    "lat": 33.90719444444444,
+    "lng": 135.88627777777776,
+    "note": "Q11566280"
+   },
+   {
+    "src": "gsi",
+    "lat": 33.79068749,
+    "lng": 135.89667719,
+    "note": "道の駅「瀞峡街道熊野川」"
+   }
+  ],
+  "distanceKm": 0,
+  "verifiedBy": [
+   "wikipedia",
+   "wikidata"
+  ],
+  "lat": 33.90719,
+  "lng": 135.88628,
+  "pass": true
+ }
+]

@@ -1,0 +1,539 @@
+{
+ "adopted": [
+  {
+   "id": "fukiware",
+   "name": "吹割の滝",
+   "title": "File:吹割の滝 - panoramio (1).jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "shinohal",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:%E5%90%B9%E5%89%B2%E3%81%AE%E6%BB%9D_-_panoramio_(1).jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "吹割の滝の特徴的な階段状の滝と岩盤、周囲の深い渓谷が明確に写っており、この場所を特定できます。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:吹割の滝 - panoramio (1).jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "吹割の滝の特徴的な階段状の滝と岩盤、周囲の深い渓谷が明確に写っており、この場所を特定できます。"
+    }
+   ]
+  },
+  {
+   "id": "myogisan",
+   "name": "妙義山",
+   "title": "File:Mt-myogi-in-summer.jpg",
+   "placeCheck": "weak",
+   "credit": {
+    "author": "Jesse Fuller",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Mt-myogi-in-summer.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "妙義山の特徴的な奇岩・奇峰群が明確に写っており、山容で識別可能。露出・ピントも良好。"
+    },
+    "sonnet": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "妙義山特有の奇峰・岩峰群と緑が明瞭に写り、特徴的な山容が確認できる"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Mt-myogi-in-summer.jpg",
+     "stage": "sonnet",
+     "placeCheck": "weak",
+     "haiku": {
+      "verdict": "ok",
+      "identifiable": true,
+      "reason": "妙義山の特徴的な奇岩・奇峰群が明確に写っており、山容で識別可能。露出・ピントも良好。"
+     },
+     "sonnet": {
+      "verdict": "ok",
+      "identifiable": true,
+      "reason": "妙義山特有の奇峰・岩峰群と緑が明瞭に写り、特徴的な山容が確認できる"
+     }
+    }
+   ]
+  },
+  {
+   "id": "sasagawa",
+   "name": "笹川流れ",
+   "title": "File:Maoroshi, Murakami, Niigata Prefecture 958-0001, Japan - panoramio (1).jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Fumihiko Ueno",
+    "license": "CC BY 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Maoroshi,_Murakami,_Niigata_Prefecture_958-0001,_Japan_-_panoramio_(1).jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "笹川流れの象徴的な岩礁と海岸線、トンネル入口が確認でき、青い標識も看板として認識できる。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Sasagawa-nagare, Michi-no-Eki, Niigata, Japan, October 2019.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": true,
+     "reason": "笹川流れの場所は特定できるが、屋内施設と道路標識が主体で、景勝地の風景特性（海岸の渓谷美）が映っていない"
+    },
+    {
+     "title": "File:笹川流れ - panoramio.jpg",
+     "stage": "sonnet",
+     "placeCheck": "ok",
+     "haiku": {
+      "verdict": "ok",
+      "identifiable": false,
+      "reason": "日本海沿岸の景勝地として適切。ただし笹川流れを特定する看板や特徴的建造物がなく、他地域の海岸写真と区別困難"
+     },
+     "sonnet": {
+      "verdict": "ng",
+      "identifiable": false,
+      "reason": "海岸と松林が写るが笹川流れ特有の奇岩・地形が確認できず場所を特定できない"
+     }
+    },
+    {
+     "title": "File:日本海からの笹川流れ - panoramio.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "笹川流れの特徴的な岩礁・奇岩が見当たらず、一般的な海岸風景。場所特定不可。"
+    },
+    {
+     "title": "File:Maoroshi, Murakami, Niigata Prefecture 958-0001, Japan - panoramio (1).jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "笹川流れの象徴的な岩礁と海岸線、トンネル入口が確認でき、青い標識も看板として認識できる。"
+    }
+   ]
+  },
+  {
+   "id": "shomyodaki",
+   "name": "称名滝",
+   "title": "File:Falls basin of the Shomyo-daki.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "kahusi (會話)",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Falls_basin_of_the_Shomyo-daki.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "称名滝の特徴的な落差と峡谷地形が明確に写っており、豊かな緑と白い滝の流れが典型的。紹介画像として適切。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Falls basin of the Shomyo-daki.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "称名滝の特徴的な落差と峡谷地形が明確に写っており、豊かな緑と白い滝の流れが典型的。紹介画像として適切。"
+    }
+   ]
+  },
+  {
+   "id": "sotomo",
+   "name": "蘇洞門",
+   "title": "File:The sea from the cruise boat of \"Sotomo\" - panoramio.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "MAKIKO OMOKAWA",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:The_sea_from_the_cruise_boat_of_%22Sotomo%22_-_panoramio.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "柱状節理の特徴的な岩壁と海岸地形が蘇洞門の典型的な景観を示している"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:The sea from the cruise boat of \"Sotomo\" - panoramio.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "柱状節理の特徴的な岩壁と海岸地形が蘇洞門の典型的な景観を示している"
+    }
+   ]
+  },
+  {
+   "id": "rurikei",
+   "name": "瑠璃渓",
+   "title": "File:Meibaku, Rurikei02.JPG",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Kansai explorer",
+    "license": "CC BY 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Meibaku,_Rurikei02.JPG",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "渓谷の滝、岩石、清流が瑠璃渓の特徴的な風景として写っており、京都の自然観光地として適切"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Meibaku, Rurikei02.JPG",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "渓谷の滝、岩石、清流が瑠璃渓の特徴的な風景として写っており、京都の自然観光地として適切"
+    }
+   ]
+  },
+  {
+   "id": "ojika",
+   "name": "小鹿渓",
+   "title": "File:Osikakei.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "㭍月例祭",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Osikakei.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "渓谷の特徴的な岩壁、滝、清流が写っており、小鹿渓の典型的な景観を示している"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Osikakei.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "渓谷の特徴的な岩壁、滝、清流が写っており、小鹿渓の典型的な景観を示している"
+    }
+   ]
+  },
+  {
+   "id": "kuniga",
+   "name": "国賀海岸",
+   "title": "File:Kuniga coast torii.jpg",
+   "placeCheck": "weak",
+   "credit": {
+    "author": "Yuvalr",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Kuniga_coast_torii.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "海岸の鳥居と特徴的な断崖絶壁が国賀海岸の典型的な景観。鮮明で構図も良好。"
+    },
+    "sonnet": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "岩礁海岸に立つ白い鳥居と断崖地形が国賀海岸の通天橋周辺の景観と合致"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Kuniga coast torii.jpg",
+     "stage": "sonnet",
+     "placeCheck": "weak",
+     "haiku": {
+      "verdict": "ok",
+      "identifiable": true,
+      "reason": "海岸の鳥居と特徴的な断崖絶壁が国賀海岸の典型的な景観。鮮明で構図も良好。"
+     },
+     "sonnet": {
+      "verdict": "ok",
+      "identifiable": true,
+      "reason": "岩礁海岸に立つ白い鳥居と断崖地形が国賀海岸の通天橋周辺の景観と合致"
+     }
+    }
+   ]
+  },
+  {
+   "id": "dangyokei",
+   "name": "断魚渓",
+   "title": "File:Dangyokei.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Jack serow",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Dangyokei.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "断魚渓の特徴的な渓谷の地形、険しい岩壁と清流が写っており、場所の特定が可能。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Dangyokei.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "断魚渓の特徴的な渓谷の地形、険しい岩壁と清流が写っており、場所の特定が可能。"
+    }
+   ]
+  },
+  {
+   "id": "chomonkyo",
+   "name": "長門峡",
+   "title": "File:Chomonkyo.jpg",
+   "placeCheck": "weak",
+   "credit": {
+    "author": "As6022014",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Chomonkyo.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "渓谷の独特な岩肌、清流、そして豊かな緑が長門峡の特徴的な景観を捉えている。"
+    },
+    "sonnet": {
+     "verdict": "ok",
+     "identifiable": false,
+     "reason": "渓谷・岩場・清流の景観は長門峡らしいが、特定できる看板等はない"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Chomonkyo.jpg",
+     "stage": "sonnet",
+     "placeCheck": "weak",
+     "haiku": {
+      "verdict": "ok",
+      "identifiable": true,
+      "reason": "渓谷の独特な岩肌、清流、そして豊かな緑が長門峡の特徴的な景観を捉えている。"
+     },
+     "sonnet": {
+      "verdict": "ok",
+      "identifiable": false,
+      "reason": "渓谷・岩場・清流の景観は長門峡らしいが、特定できる看板等はない"
+     }
+    }
+   ]
+  },
+  {
+   "id": "omogokei",
+   "name": "面河渓",
+   "title": "File:鶴ノ瀬橋からの面河渓.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Koda6029",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:%E9%B6%B4%E3%83%8E%E7%80%AC%E6%A9%8B%E3%81%8B%E3%82%89%E3%81%AE%E9%9D%A2%E6%B2%B3%E6%B8%93.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "白い岩盤と翡翠色の清流、渓谷の特徴的な景観が面河渓を象徴している"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:面河渓入口.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": true,
+     "reason": "看板に文字焼き込みがあり、旅行サイト向け紹介画像として不適切"
+    },
+    {
+     "title": "File:鶴ノ瀬橋からの面河渓.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "白い岩盤と翡翠色の清流、渓谷の特徴的な景観が面河渓を象徴している"
+    }
+   ]
+  },
+  {
+   "id": "toriike",
+   "name": "通り池",
+   "title": "File:Toriike.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Paipateroma",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Toriike.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "独特の深青色の池、黒い溶岩崖、木製柵など通り池の特徴的な景観が明確に写っている"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Toriike.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "独特の深青色の池、黒い溶岩崖、木製柵など通り池の特徴的な景観が明確に写っている"
+    }
+   ]
+  },
+  {
+   "id": "nasonoshirataki",
+   "name": "奈曽の白瀑",
+   "title": "File:Naso-no-Shirataki (24236410528).jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "KAORU NAGASAWA",
+    "license": "CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Naso-no-Shirataki_(24236410528).jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "滝の形状、峡谷の地形、紅葉と緑の自然景観が奈曽の白瀑の特徴を示している"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Naso-no-Shirataki (24236410528).jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "滝の形状、峡谷の地形、紅葉と緑の自然景観が奈曽の白瀑の特徴を示している"
+    }
+   ]
+  },
+  {
+   "id": "sekichukei",
+   "name": "石柱渓",
+   "title": "File:Sekichukei Renri Falls.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "プブリリウス",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Sekichukei_Renri_Falls.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "柱状節理の岩壁と清流の滝が石柱渓の特徴的な景観を良く表現している。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Sekichukei Renri Falls.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "柱状節理の岩壁と清流の滝が石柱渓の特徴的な景観を良く表現している。"
+    }
+   ]
+  },
+  {
+   "id": "sandankyo",
+   "name": "File:黒淵.jpg",
+   "title": "File:黒淵.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "HKT3012",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:%E9%BB%92%E6%B7%B5.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "retry": true,
+    "subject": "峡谷の川沿いに立つ絶壁と秋の紅葉、観光用舟"
+   }
+  },
+  {
+   "id": "kasumi-kaigan",
+   "name": "File:Yoroi-no-sode in Kasumi Coast Kami Hyogo pref02s5s4200.jpg",
+   "title": "File:Yoroi-no-sode in Kasumi Coast Kami Hyogo pref02s5s4200.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "663highland",
+    "license": "CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:Yoroi-no-sode_in_Kasumi_Coast_Kami_Hyogo_pref02s5s4200.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "retry": true,
+    "subject": "柱状節理の岩壁と海。独特の地質構造が見える。"
+   }
+  }
+ ],
+ "rejected": [
+  {
+   "id": "tenryukyo",
+   "reason": "合格画像なし（8枚試行）"
+  },
+  {
+   "id": "ozuru",
+   "reason": "Commonsに候補が無い"
+  },
+  {
+   "id": "sengan",
+   "reason": "Commonsに候補が無い"
+  },
+  {
+   "id": "oya-kigan",
+   "reason": "合格画像なし（4枚試行）"
+  },
+  {
+   "id": "gokei",
+   "reason": "合格画像なし（8枚試行）"
+  }
+ ]
+}

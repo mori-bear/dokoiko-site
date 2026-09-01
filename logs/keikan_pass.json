@@ -1,0 +1,170 @@
+[
+ {
+  "id": "fukiware",
+  "name": "吹割の滝",
+  "prefecture": "群馬県",
+  "city": "沼田市",
+  "lat": 36.70211,
+  "lng": 139.20723
+ },
+ {
+  "id": "myogisan",
+  "name": "妙義山",
+  "prefecture": "群馬県",
+  "city": "富岡市",
+  "lat": 36.29879,
+  "lng": 138.74757
+ },
+ {
+  "id": "sasagawa",
+  "name": "笹川流れ",
+  "prefecture": "新潟県",
+  "city": "村上市",
+  "lat": 38.37481,
+  "lng": 139.45833
+ },
+ {
+  "id": "shomyodaki",
+  "name": "称名滝",
+  "prefecture": "富山県",
+  "city": "立山町",
+  "lat": 36.57541,
+  "lng": 137.52356
+ },
+ {
+  "id": "sotomo",
+  "name": "蘇洞門",
+  "prefecture": "福井県",
+  "city": "小浜市",
+  "lat": 35.56627,
+  "lng": 135.71147
+ },
+ {
+  "id": "tenryukyo",
+  "name": "天龍峡",
+  "prefecture": "長野県",
+  "city": "飯田市",
+  "lat": 35.44031,
+  "lng": 137.818
+ },
+ {
+  "id": "rurikei",
+  "name": "瑠璃渓",
+  "prefecture": "京都府",
+  "city": "南丹市",
+  "lat": 35.03582,
+  "lng": 135.40461
+ },
+ {
+  "id": "kasumi-kaigan",
+  "name": "香住海岸",
+  "prefecture": "兵庫県",
+  "city": "香美町",
+  "lat": 35.64208,
+  "lng": 134.62097
+ },
+ {
+  "id": "ojika",
+  "name": "小鹿渓",
+  "prefecture": "鳥取県",
+  "city": "三朝町",
+  "lat": 35.37378,
+  "lng": 133.9755
+ },
+ {
+  "id": "kuniga",
+  "name": "国賀海岸",
+  "prefecture": "島根県",
+  "city": "西ノ島町",
+  "lat": 36.08556,
+  "lng": 132.95838
+ },
+ {
+  "id": "dangyokei",
+  "name": "断魚渓",
+  "prefecture": "島根県",
+  "city": "邑南町",
+  "lat": 34.92919,
+  "lng": 132.47442
+ },
+ {
+  "id": "sandankyo",
+  "name": "三段峡",
+  "prefecture": "広島県",
+  "city": "安芸太田町",
+  "lat": 34.5998,
+  "lng": 132.20815
+ },
+ {
+  "id": "chomonkyo",
+  "name": "長門峡",
+  "prefecture": "山口県",
+  "city": "山口市",
+  "lat": 34.30378,
+  "lng": 131.57752
+ },
+ {
+  "id": "omogokei",
+  "name": "面河渓",
+  "prefecture": "愛媛県",
+  "city": "久万高原町",
+  "lat": 33.73624,
+  "lng": 133.11496
+ },
+ {
+  "id": "ozuru",
+  "name": "尾鈴山瀑布群",
+  "prefecture": "宮崎県",
+  "city": "都農町",
+  "lat": 32.28396,
+  "lng": 131.45199
+ },
+ {
+  "id": "sengan",
+  "name": "千巌山",
+  "prefecture": "熊本県",
+  "city": "上天草市",
+  "lat": 32.51067,
+  "lng": 130.41968
+ },
+ {
+  "id": "toriike",
+  "name": "通り池",
+  "prefecture": "沖縄県",
+  "city": "宮古島市",
+  "lat": 24.82403,
+  "lng": 125.13642
+ },
+ {
+  "id": "nasonoshirataki",
+  "name": "奈曽の白瀑",
+  "prefecture": "秋田県",
+  "city": "にかほ市",
+  "lat": 39.18144,
+  "lng": 139.94325
+ },
+ {
+  "id": "oya-kigan",
+  "name": "大谷の奇岩群",
+  "prefecture": "栃木県",
+  "city": "宇都宮市",
+  "lat": 36.59813,
+  "lng": 139.82155
+ },
+ {
+  "id": "gokei",
+  "name": "豪渓",
+  "prefecture": "岡山県",
+  "city": "総社市",
+  "lat": 34.76003,
+  "lng": 133.69922
+ },
+ {
+  "id": "sekichukei",
+  "name": "石柱渓",
+  "prefecture": "山口県",
+  "city": "下関市",
+  "lat": 34.2487,
+  "lng": 131.15985
+ }
+]

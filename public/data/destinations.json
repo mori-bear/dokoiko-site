@@ -221899,5 +221899,2076 @@
       "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fnagano%2F",
       "jalan": "https://www.jalan.net/ikisaki/map/nagano/"
     }
+  },
+  {
+    "id": "fukiware",
+    "name": "吹割の滝",
+    "type": "destination",
+    "region": "関東",
+    "hub": "前橋",
+    "stayAllowed": [
+      "1night"
+    ],
+    "departures": [
+      "前橋"
+    ],
+    "weight": 1,
+    "description": "片品川が溶結凝灰岩を削ってできたV字の裂け目に、三方から川が落ちていく。高さ七メートル、幅三十メートル。滝を上から見下ろすのではなく、岩盤の上に立って足元の割れ目に水が吸い込まれていくのを見る形になる。東洋のナイアガラと呼ばれてきたのはこの独特の姿による。九百万年前の火砕流が冷え固まった岩が、軟らかいところから削られて吹き割れたように見えることが名の由来だ。昭和十一年に国の名勝と天然記念物に指定された。周囲一キロは遊歩道が整い、下流には鱒飛の滝が続く。老神温泉まで車で十分ほど。",
+    "tags": [
+      "絶景",
+      "自然",
+      "秋"
+    ],
+    "spots": [
+      {
+        "name": "吹割の滝",
+        "description": "高さ七メートル、幅三十メートル。三方から水が落ちる裂け目を、岩盤の上から見下ろせる。"
+      },
+      {
+        "name": "鱒飛の滝",
+        "description": "吹割の滝の下流にある高さ八メートルの滝。遡上した鱒がここを越えられず止まるという。"
+      },
+      {
+        "name": "吹割渓谷遊歩道",
+        "description": "滝の周囲一キロに整えられた道。般若岩や獅子岩と呼ばれる岩壁を見ながら歩いていける。"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": true,
+    "hotelSearch": "沼田市",
+    "gateways": {
+      "rail": [
+        "沼田駅"
+      ],
+      "airport": [
+        "羽田空港"
+      ],
+      "bus": [],
+      "ferry": []
+    },
+    "destType": "sight",
+    "railGateway": "沼田駅",
+    "busGateway": null,
+    "ferryGateway": null,
+    "airportGateway": "羽田空港",
+    "prefecture": "群馬県",
+    "lat": 36.70211,
+    "lng": 139.20723,
+    "stayBias": 1,
+    "city": "沼田市",
+    "situations": [
+      "solo",
+      "couple",
+      "friends"
+    ],
+    "catch": "滝が下ではなく、足元の割れ目に落ちていく。",
+    "mainSpot": "吹割の滝",
+    "mapPoint": "吹割の滝",
+    "representativeStation": "沼田駅",
+    "hubStation": "沼田駅",
+    "accessStation": "沼田駅",
+    "hotelArea": "gunma",
+    "finalAccess": {
+      "type": "car"
+    },
+    "travelTime": {
+      "tokyo": 133,
+      "nagoya": 220,
+      "osaka": 301,
+      "takamatsu": 380,
+      "fukuoka": 583,
+      "wakayama": 331,
+      "mito": 178,
+      "maebashi": 193,
+      "takasaki": 193,
+      "hamamatsu": 250,
+      "gifu": 240,
+      "kofu": 223,
+      "shingu": 421,
+      "tanabe": 391,
+      "shirahama": 401,
+      "kushimoto": 421,
+      "tottori": 421,
+      "shimonoseki": 613,
+      "saga": 613,
+      "oita": 643,
+      "beppu": 653
+    },
+    "stayRecommendation": "1night",
+    "tier": "area",
+    "tier2": "area",
+    "icCard": "suica",
+    "bestSeason": "秋",
+    "onsenLevel": 0,
+    "hasDirectFlight": false,
+    "primary": [
+      "絶景",
+      "自然"
+    ],
+    "secondary": [
+      "秋"
+    ],
+    "reasonChips": [
+      "絶景",
+      "自然と過ごす",
+      "ひとり旅向け",
+      "1泊がおすすめ"
+    ],
+    "images": [
+      "/images/fukiware/main.jpg"
+    ],
+    "imageCredit": {
+      "author": "shinohal",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:%E5%90%B9%E5%89%B2%E3%81%AE%E6%BB%9D_-_panoramio_(1).jpg",
+      "attributionRequired": true
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fgunma%2F",
+      "jalan": "https://www.jalan.net/100000/"
+    }
+  },
+  {
+    "id": "myogisan",
+    "name": "妙義山",
+    "type": "destination",
+    "region": "中部",
+    "hub": "東京",
+    "stayAllowed": [
+      "1night"
+    ],
+    "departures": [
+      "東京"
+    ],
+    "weight": 1,
+    "description": "赤城・榛名と並ぶ上毛三山のひとつで、日本三大奇景にも数えられる山だ。中木川をはさんで南東を表妙義、北西を裏妙義と呼び、表妙義には衝立のような岩、ろうそくのような岩が林立する。最高峰は相馬岳の千百四メートル。第一から第四までの石門をめぐる石門群コースが人気で、大砲岩や筆頭岩といった奇岩も点在する。白雲山の中腹には妙義神社が建ち、金洞山側には中之嶽神社がある。大正十二年に国の名勝に指定され、二〇二三年に指定百年を迎えた。上毛かるたには紅葉に映える妙義山と詠まれている。",
+    "tags": [
+      "絶景",
+      "自然",
+      "山",
+      "秋"
+    ],
+    "spots": [
+      {
+        "name": "石門群めぐり",
+        "description": "第一から第四まで四つの石門をたどるコース。第二石門は急で鎖が張られた中級の道になる。"
+      },
+      {
+        "name": "妙義神社",
+        "description": "白雲山の中腹に建つ社。参道の石段を登り切ると、背後に表妙義の岩峰が立ち上がってくる。"
+      },
+      {
+        "name": "大砲岩と筆頭岩",
+        "description": "表妙義に点在する奇岩。名の通りの形をしており、岩峰群のなかでも見分けやすい存在。"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": true,
+    "hotelSearch": "富岡市",
+    "gateways": {
+      "rail": [
+        "松井田駅"
+      ],
+      "airport": [
+        "羽田空港"
+      ],
+      "bus": [],
+      "ferry": []
+    },
+    "destType": "sight",
+    "railGateway": "松井田駅",
+    "busGateway": null,
+    "ferryGateway": null,
+    "airportGateway": "羽田空港",
+    "prefecture": "群馬県",
+    "lat": 36.29879,
+    "lng": 138.74757,
+    "stayBias": 1,
+    "city": "富岡市",
+    "situations": [
+      "solo",
+      "couple",
+      "friends"
+    ],
+    "catch": "ろうそくのような岩峰が、いくつも空へ突き出す。",
+    "mainSpot": "石門群めぐり",
+    "mapPoint": "妙義山",
+    "representativeStation": "松井田駅",
+    "hubStation": "松井田駅",
+    "accessStation": "松井田駅",
+    "hotelArea": "gunma",
+    "finalAccess": {
+      "type": "car"
+    },
+    "travelTime": {
+      "tokyo": 105,
+      "osaka": 245,
+      "nagoya": 190,
+      "fukuoka": 395,
+      "takamatsu": 345,
+      "niigata": 120,
+      "mito": 150,
+      "maebashi": 165,
+      "takasaki": 165,
+      "hamamatsu": 220,
+      "gifu": 210,
+      "kofu": 195,
+      "shingu": 365,
+      "tanabe": 335,
+      "shirahama": 345,
+      "kushimoto": 365,
+      "tottori": 365,
+      "shimonoseki": 425,
+      "saga": 425,
+      "oita": 455,
+      "beppu": 465
+    },
+    "stayRecommendation": "1night",
+    "tier": "area",
+    "tier2": "area",
+    "icCard": "suica",
+    "bestSeason": "秋",
+    "onsenLevel": 0,
+    "hasDirectFlight": false,
+    "primary": [
+      "絶景",
+      "自然"
+    ],
+    "secondary": [
+      "山",
+      "秋"
+    ],
+    "reasonChips": [
+      "絶景",
+      "自然と過ごす",
+      "ひとり旅向け",
+      "1泊がおすすめ"
+    ],
+    "images": [
+      "/images/myogisan/main.jpg"
+    ],
+    "imageCredit": {
+      "author": "Jesse Fuller",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Mt-myogi-in-summer.jpg",
+      "attributionRequired": true
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fgunma%2F",
+      "jalan": "https://www.jalan.net/100000/"
+    }
+  },
+  {
+    "id": "sasagawa",
+    "name": "笹川流れ",
+    "type": "destination",
+    "region": "中部",
+    "hub": "新潟",
+    "stayAllowed": [
+      "1night"
+    ],
+    "departures": [
+      "新潟"
+    ],
+    "weight": 1,
+    "description": "鳥越山から狐崎まで、十一キロにわたって奇岩と絶壁と洞窟が途切れずに続く海岸である。眼鏡岩、びょうぶ岩、ニタリ岩、蓬莱山と名の付いた岩が並び、観光船で海から見て回ることもできる。名は集落名の笹川に由来し、沖の岩場まで潮の流れが見えたことからそう呼ばれるようになった。昭和二年に国の名勝と天然記念物に指定され、日本百景にも選ばれている。国道三四五号と羽越本線が海沿いを並んで走り、車窓からそのまま眺められるのがこの海岸の強みだ。桑川駅の道の駅から見る日没が特に知られている。",
+    "tags": [
+      "絶景",
+      "海",
+      "自然",
+      "夏"
+    ],
+    "spots": [
+      {
+        "name": "奇岩めぐりの遊覧船",
+        "description": "眼鏡岩やびょうぶ岩など、海からしか見えない洞窟や岩を回る観光船が港から出ている。"
+      },
+      {
+        "name": "車窓からの海",
+        "description": "羽越本線が海岸沿いを走る。週末には観光列車の海里が通り、座ったまま眺めていられる。"
+      },
+      {
+        "name": "道の駅笹川流れの夕日",
+        "description": "桑川駅に併設された道の駅。日本海に日が沈む時刻を目当てに来る人が多い場所である。"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "hotelSearch": "村上市",
+    "gateways": {
+      "rail": [
+        "桑川駅"
+      ],
+      "airport": [
+        "新潟空港"
+      ],
+      "bus": [],
+      "ferry": []
+    },
+    "destType": "sight",
+    "railGateway": "桑川駅",
+    "busGateway": null,
+    "ferryGateway": null,
+    "airportGateway": "新潟空港",
+    "prefecture": "新潟県",
+    "lat": 38.37481,
+    "lng": 139.45833,
+    "stayBias": 1,
+    "city": "村上市",
+    "situations": [
+      "solo",
+      "couple",
+      "friends"
+    ],
+    "catch": "奇岩と洞窟が十一キロ、列車の窓を流れていく。",
+    "mainSpot": "奇岩めぐりの遊覧船",
+    "mapPoint": "笹川流れ",
+    "representativeStation": "桑川駅",
+    "hubStation": "桑川駅",
+    "accessStation": "桑川駅",
+    "hotelArea": "niigata",
+    "finalAccess": {
+      "type": "walk"
+    },
+    "travelTime": {
+      "tokyo": 170,
+      "osaka": 355,
+      "nagoya": 300,
+      "fukuoka": 450,
+      "takamatsu": 405,
+      "niigata": 60,
+      "mito": 215,
+      "maebashi": 230,
+      "takasaki": 230,
+      "hamamatsu": 330,
+      "gifu": 320,
+      "kofu": 260,
+      "shingu": 475,
+      "tanabe": 445,
+      "shirahama": 455,
+      "kushimoto": 475,
+      "tottori": 475,
+      "shimonoseki": 480,
+      "saga": 480,
+      "oita": 510,
+      "beppu": 520
+    },
+    "stayRecommendation": "1night",
+    "tier": "area",
+    "tier2": "area",
+    "icCard": "suica",
+    "bestSeason": "夏",
+    "onsenLevel": 0,
+    "hasDirectFlight": false,
+    "primary": [
+      "絶景",
+      "海"
+    ],
+    "secondary": [
+      "自然",
+      "夏"
+    ],
+    "reasonChips": [
+      "絶景",
+      "自然と過ごす",
+      "ひとり旅向け",
+      "1泊がおすすめ",
+      "車なしOK"
+    ],
+    "images": [
+      "/images/sasagawa/main.jpg"
+    ],
+    "imageCredit": {
+      "author": "Fumihiko Ueno",
+      "license": "CC BY 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Maoroshi,_Murakami,_Niigata_Prefecture_958-0001,_Japan_-_panoramio_(1).jpg",
+      "attributionRequired": true
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fniigata%2F",
+      "jalan": "https://www.jalan.net/ikisaki/map/niigata/"
+    }
+  },
+  {
+    "id": "shomyodaki",
+    "name": "称名滝",
+    "type": "destination",
+    "region": "中部",
+    "hub": "富山",
+    "stayAllowed": [
+      "1night"
+    ],
+    "departures": [
+      "富山"
+    ],
+    "weight": 1,
+    "description": "弥陀ヶ原の台地から一気に落ちる四段の滝で、落差は三百五十メートルと日本一を誇る。一段目七十メートル、二段目五十八メートル、三段目九十六メートル、四段目百二十六メートル。滝つぼは直径六十メートル、深さ六メートルある。法然が滝の音を南無阿弥陀仏と聞いたことが名の由来と伝わる。雪解けの季節には右手にハンノキ滝が現れ、水が多い日はさらにソーメン滝も加わって三本が並ぶ。十万年前は十五キロ下流にあり、岩を年十センチずつ削りながら後退してきた。立山駅から称名滝探勝バスで向かう。",
+    "tags": [
+      "絶景",
+      "自然",
+      "山",
+      "夏"
+    ],
+    "spots": [
+      {
+        "name": "四段の滝",
+        "description": "一段目七十メートルから四段目百二十六メートルまで、四段に分かれて落ちる日本一の落差。"
+      },
+      {
+        "name": "ハンノキ滝",
+        "description": "雪解けの季節に称名滝の右手へ現れる滝。落差は約五百メートルと称名滝よりも大きい。"
+      },
+      {
+        "name": "悪城の壁",
+        "description": "滝が後退しながら削り出した高さ五百メートルの岩壁。バスの車窓から続けて見えている。"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": true,
+    "hotelSearch": "立山町",
+    "gateways": {
+      "rail": [
+        "立山駅"
+      ],
+      "airport": [
+        "富山空港"
+      ],
+      "bus": [],
+      "ferry": []
+    },
+    "destType": "sight",
+    "railGateway": "立山駅",
+    "busGateway": null,
+    "ferryGateway": null,
+    "airportGateway": "富山空港",
+    "prefecture": "富山県",
+    "lat": 36.57541,
+    "lng": 137.52356,
+    "stayBias": 1,
+    "city": "立山町",
+    "situations": [
+      "solo",
+      "couple",
+      "friends"
+    ],
+    "catch": "落差三百五十メートル。日本一の高さから水が落ちる。",
+    "mainSpot": "四段の滝",
+    "mapPoint": "称名滝",
+    "representativeStation": "立山駅",
+    "hubStation": "立山駅",
+    "accessStation": "立山駅",
+    "hotelArea": "toyama",
+    "finalAccess": {
+      "type": "car"
+    },
+    "travelTime": {
+      "tokyo": 200,
+      "osaka": 190,
+      "nagoya": 160,
+      "fukuoka": 385,
+      "takamatsu": 305,
+      "mito": 245,
+      "maebashi": 260,
+      "takasaki": 260,
+      "hamamatsu": 190,
+      "gifu": 180,
+      "kofu": 290,
+      "shingu": 310,
+      "tanabe": 280,
+      "shirahama": 290,
+      "kushimoto": 310,
+      "tottori": 310,
+      "shimonoseki": 415,
+      "saga": 415,
+      "oita": 445,
+      "beppu": 455
+    },
+    "stayRecommendation": "1night",
+    "tier": "area",
+    "tier2": "area",
+    "icCard": "suica",
+    "bestSeason": "夏",
+    "onsenLevel": 0,
+    "hasDirectFlight": false,
+    "primary": [
+      "絶景",
+      "自然"
+    ],
+    "secondary": [
+      "山",
+      "夏"
+    ],
+    "reasonChips": [
+      "絶景",
+      "自然と過ごす",
+      "ひとり旅向け",
+      "1泊がおすすめ"
+    ],
+    "images": [
+      "/images/shomyodaki/main.jpg"
+    ],
+    "imageCredit": {
+      "author": "kahusi (會話)",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Falls_basin_of_the_Shomyo-daki.jpg",
+      "attributionRequired": true
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Ftoyama%2F",
+      "jalan": "https://www.jalan.net/160000/"
+    }
+  },
+  {
+    "id": "sotomo",
+    "name": "蘇洞門",
+    "type": "destination",
+    "region": "中部",
+    "hub": "福井",
+    "stayAllowed": [
+      "1night"
+    ],
+    "departures": [
+      "福井"
+    ],
+    "weight": 1,
+    "description": "内外海半島の日本海側に、洞門と断崖と滝が六キロ続く。花崗岩の柱状節理が波に削られてできた地形で、海蝕洞の大門・小門をはじめ、夫婦亀岩、獅子岩、唐船島、百畳敷といった名の付いた見どころが並ぶ。陸路では近づけないため、小浜港から出る遊覧船で海から見て回ることになる。昭和九年に若狭蘇洞門として国の名勝に指定され、若狭湾国定公園に含まれる。古くは小浜湾の外に面していることから外面と書いてそともと呼ばれた。小浜の町には鯖街道の起点があり、湯を含めて一泊の旅程が組みやすい。",
+    "tags": [
+      "絶景",
+      "海",
+      "自然",
+      "夏"
+    ],
+    "spots": [
+      {
+        "name": "大門・小門",
+        "description": "波が花崗岩を削って開けた海蝕洞。遊覧船はこの前で速度を落とし、間近まで寄ってくれる。"
+      },
+      {
+        "name": "遊覧船",
+        "description": "陸路では近づけないため、小浜港からの船で海側から眺める。冬季は運航が休みになる。"
+      },
+      {
+        "name": "鯖街道の起点",
+        "description": "小浜は若狭の海の幸を京へ運んだ道の出発点。町なかに起点の碑と資料館が残っている。"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "hotelSearch": "小浜市",
+    "gateways": {
+      "rail": [
+        "小浜駅"
+      ],
+      "airport": [
+        "小松空港"
+      ],
+      "bus": [],
+      "ferry": []
+    },
+    "destType": "sight",
+    "railGateway": "小浜駅",
+    "busGateway": null,
+    "ferryGateway": null,
+    "airportGateway": "小松空港",
+    "prefecture": "福井県",
+    "lat": 35.56627,
+    "lng": 135.71147,
+    "stayBias": 1,
+    "city": "小浜市",
+    "situations": [
+      "solo",
+      "couple",
+      "friends"
+    ],
+    "catch": "花崗岩の柱状節理を、波が六キロ削り続けた。",
+    "mainSpot": "大門・小門",
+    "mapPoint": "蘇洞門",
+    "representativeStation": "小浜駅",
+    "hubStation": "小浜駅",
+    "accessStation": "小浜駅",
+    "hotelArea": "fukui",
+    "finalAccess": {
+      "type": "walk"
+    },
+    "travelTime": {
+      "tokyo": 250,
+      "osaka": 140,
+      "nagoya": 165,
+      "fukuoka": 290,
+      "takamatsu": 240,
+      "mito": 295,
+      "maebashi": 310,
+      "takasaki": 310,
+      "hamamatsu": 195,
+      "gifu": 185,
+      "kofu": 340,
+      "shingu": 260,
+      "tanabe": 230,
+      "shirahama": 240,
+      "kushimoto": 260,
+      "tottori": 260,
+      "shimonoseki": 320,
+      "saga": 320,
+      "oita": 350,
+      "beppu": 360
+    },
+    "stayRecommendation": "1night",
+    "tier": "area",
+    "tier2": "area",
+    "icCard": "icoca",
+    "bestSeason": "夏",
+    "onsenLevel": 0,
+    "hasDirectFlight": false,
+    "primary": [
+      "絶景",
+      "海"
+    ],
+    "secondary": [
+      "自然",
+      "夏"
+    ],
+    "reasonChips": [
+      "絶景",
+      "自然と過ごす",
+      "ひとり旅向け",
+      "1泊がおすすめ",
+      "車なしOK"
+    ],
+    "images": [
+      "/images/sotomo/main.jpg"
+    ],
+    "imageCredit": {
+      "author": "MAKIKO OMOKAWA",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:The_sea_from_the_cruise_boat_of_%22Sotomo%22_-_panoramio.jpg",
+      "attributionRequired": true
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Ffukui%2F",
+      "jalan": "https://www.jalan.net/ikisaki/map/fukui/"
+    }
+  },
+  {
+    "id": "rurikei",
+    "name": "るり渓",
+    "type": "destination",
+    "region": "近畿",
+    "hub": "大阪",
+    "stayAllowed": [
+      "1night"
+    ],
+    "departures": [
+      "大阪"
+    ],
+    "weight": 1,
+    "description": "園部川の上流、四キロにわたって続く渓谷である。もとは滑と呼ばれていたが、明治三十八年に訪れた郡長の三宅樅陰が景色に感じ入って琉璃渓と改めた。通天湖から流れ出る水が光を反射して瑠璃色の石のように見えることが名の由来だ。地質は流紋岩で、浸食された奇岩と小さな滝が点在する。錦繍巌、双龍淵、座禅石、水晶簾など漢詩めいた名が付いた十二勝がある。昭和七年に国の名勝に指定され、日本の音風景百選にも選ばれた。紅葉の名所でもあり、大阪や京都から日帰りできる距離ながら、谷に入ると人の気配が消える。",
+    "tags": [
+      "絶景",
+      "自然",
+      "秋"
+    ],
+    "spots": [
+      {
+        "name": "十二勝",
+        "description": "錦繍巌・双龍淵・座禅石・水晶簾など、漢詩めいた名の付いた十二の見どころが谷に点在する。"
+      },
+      {
+        "name": "通天湖",
+        "description": "渓谷の上流にあるダム湖。ここから流れ出た水が光を受けて瑠璃色に見えるのが名の由来。"
+      },
+      {
+        "name": "音風景",
+        "description": "日本の音風景百選に選ばれた谷。水の音だけが岩に反響し、耳が先に景色を捉えていく。"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": true,
+    "hotelSearch": "南丹市",
+    "gateways": {
+      "rail": [
+        "園部駅"
+      ],
+      "airport": [
+        "伊丹空港"
+      ],
+      "bus": [],
+      "ferry": []
+    },
+    "destType": "sight",
+    "railGateway": "園部駅",
+    "busGateway": null,
+    "ferryGateway": null,
+    "airportGateway": "伊丹空港",
+    "prefecture": "京都府",
+    "lat": 35.03582,
+    "lng": 135.40461,
+    "stayBias": 1,
+    "city": "南丹市",
+    "situations": [
+      "solo",
+      "couple",
+      "friends"
+    ],
+    "catch": "光が当たると、流れが瑠璃色に光って見える。",
+    "mainSpot": "十二勝",
+    "mapPoint": "るり渓",
+    "representativeStation": "園部駅",
+    "hubStation": "園部駅",
+    "accessStation": "園部駅",
+    "hotelArea": "kyoto",
+    "finalAccess": {
+      "type": "car"
+    },
+    "travelTime": {
+      "tokyo": 215,
+      "osaka": 75,
+      "nagoya": 120,
+      "fukuoka": 215,
+      "takamatsu": 185,
+      "himeji": 80,
+      "wakayama": 105,
+      "mito": 260,
+      "maebashi": 275,
+      "takasaki": 275,
+      "hamamatsu": 150,
+      "gifu": 140,
+      "kofu": 305,
+      "shingu": 195,
+      "tanabe": 165,
+      "shirahama": 175,
+      "kushimoto": 195,
+      "tottori": 195,
+      "shimonoseki": 245,
+      "saga": 245,
+      "oita": 275,
+      "beppu": 285
+    },
+    "stayRecommendation": "1night",
+    "tier": "area",
+    "tier2": "area",
+    "icCard": "suica",
+    "bestSeason": "秋",
+    "onsenLevel": 0,
+    "hasDirectFlight": false,
+    "primary": [
+      "絶景",
+      "自然"
+    ],
+    "secondary": [
+      "秋"
+    ],
+    "reasonChips": [
+      "絶景",
+      "自然と過ごす",
+      "ひとり旅向け",
+      "1泊がおすすめ"
+    ],
+    "images": [
+      "/images/rurikei/main.jpg"
+    ],
+    "imageCredit": {
+      "author": "Kansai explorer",
+      "license": "CC BY 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Meibaku,_Rurikei02.JPG",
+      "attributionRequired": true
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fkyoto%2F",
+      "jalan": "https://www.jalan.net/260000/"
+    }
+  },
+  {
+    "id": "kasumi-kaigan",
+    "name": "香住海岸",
+    "type": "destination",
+    "region": "中国",
+    "hub": "鳥取",
+    "stayAllowed": [
+      "1night"
+    ],
+    "departures": [
+      "鳥取"
+    ],
+    "weight": 1,
+    "description": "但馬海岸のうち香住から西へ続く一帯で、山陰海岸ユネスコ世界ジオパークに含まれる。鎧の袖と呼ばれる柱状節理の大岩壁が海へ落ち、その先には但馬御火浦の断崖が連なる。四千万年前から日本海ができていく過程が、そのまま地形として残っている場所だ。今子浦には奇岩が並び、海食洞や入り江が入り組む。遊覧船が出ており、陸から見えない岩を海側から見て回れる。香住漁港は松葉ガニとベニズワイガニの水揚げで知られ、冬はカニ目当ての客で宿が埋まる。城崎温泉まで車で四十分ほど。",
+    "tags": [
+      "絶景",
+      "海",
+      "自然",
+      "グルメ"
+    ],
+    "spots": [
+      {
+        "name": "鎧の袖",
+        "description": "海へ落ちる柱状節理の大岩壁。鎧の袖のように見えることから、この名で呼ばれてきた。"
+      },
+      {
+        "name": "但馬御火浦",
+        "description": "香住の西に続く断崖の海岸。国の名勝と天然記念物で、遊覧船から海側の姿を見られる。"
+      },
+      {
+        "name": "香住漁港のカニ",
+        "description": "松葉ガニとベニズワイガニの水揚げ港。冬は宿の夕食がそのまま旅の目的になっている。"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "hotelSearch": "香美町",
+    "gateways": {
+      "rail": [
+        "香住駅"
+      ],
+      "airport": [
+        "但馬空港"
+      ],
+      "bus": [],
+      "ferry": []
+    },
+    "destType": "sight",
+    "railGateway": "香住駅",
+    "busGateway": null,
+    "ferryGateway": null,
+    "airportGateway": "但馬空港",
+    "prefecture": "兵庫県",
+    "lat": 35.64208,
+    "lng": 134.62097,
+    "stayBias": 1,
+    "city": "香美町",
+    "situations": [
+      "solo",
+      "couple",
+      "friends"
+    ],
+    "catch": "柱状節理の岩壁が、そのまま海へ落ちている。",
+    "mainSpot": "鎧の袖",
+    "mapPoint": "香住海岸",
+    "representativeStation": "香住駅",
+    "hubStation": "香住駅",
+    "accessStation": "香住駅",
+    "hotelArea": "hyogo",
+    "finalAccess": {
+      "type": "walk"
+    },
+    "travelTime": {
+      "tokyo": 330,
+      "osaka": 190,
+      "nagoya": 260,
+      "fukuoka": 330,
+      "takamatsu": 240,
+      "wakayama": 220,
+      "mito": 375,
+      "maebashi": 390,
+      "takasaki": 390,
+      "hamamatsu": 290,
+      "gifu": 280,
+      "kofu": 420,
+      "shingu": 310,
+      "tanabe": 280,
+      "shirahama": 290,
+      "kushimoto": 310,
+      "tottori": 310,
+      "shimonoseki": 360,
+      "saga": 360,
+      "oita": 390,
+      "beppu": 400
+    },
+    "stayRecommendation": "1night",
+    "tier": "area",
+    "tier2": "area",
+    "icCard": "icoca",
+    "bestSeason": "夏",
+    "onsenLevel": 0,
+    "hasDirectFlight": false,
+    "primary": [
+      "絶景",
+      "海"
+    ],
+    "secondary": [
+      "自然",
+      "グルメ"
+    ],
+    "reasonChips": [
+      "絶景",
+      "自然と過ごす",
+      "ひとり旅向け",
+      "1泊がおすすめ",
+      "車なしOK"
+    ],
+    "images": [
+      "/images/kasumi-kaigan/main.jpg"
+    ],
+    "imageCredit": {
+      "author": "663highland",
+      "license": "CC BY 2.5",
+      "url": "https://commons.wikimedia.org/wiki/File:Yoroi-no-sode_in_Kasumi_Coast_Kami_Hyogo_pref02s5s4200.jpg",
+      "attributionRequired": true
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fhyogo%2F",
+      "jalan": "https://www.jalan.net/280000/"
+    }
+  },
+  {
+    "id": "ojika",
+    "name": "小鹿渓",
+    "type": "destination",
+    "region": "中国",
+    "hub": "鳥取",
+    "stayAllowed": [
+      "1night"
+    ],
+    "departures": [
+      "鳥取"
+    ],
+    "weight": 1,
+    "description": "天神川の支流の小鹿川の上流にある四キロほどの渓谷で、昭和九年に国の名勝に指定された。岩を削って淵と小さな滝が続き、両岸には広葉樹が覆いかぶさる。名の知られた三朝温泉から車で十五分ほどしか離れていないのに、遊歩道に入ると人に会わないことが多い。同じ三朝町には国宝の三佛寺投入堂があり、断崖に張り付く堂を見上げてから谷に入る組み方ができる。三朝温泉は世界有数の高濃度ラドンを含む湯で、病後の療養で通う人もいる土地だ。谷そのものに宿はないので、湯の町に泊まって足を延ばすことになる。",
+    "tags": [
+      "絶景",
+      "自然",
+      "秋"
+    ],
+    "spots": [
+      {
+        "name": "渓谷の遊歩道",
+        "description": "淵と小さな滝が続く道。三朝温泉から近いのに、歩いていて人に会わないことが多い場所。"
+      },
+      {
+        "name": "三佛寺投入堂",
+        "description": "同じ三朝町にある国宝。断崖の窪みに建つ堂で、参拝には険しい山道を登ることになる。"
+      },
+      {
+        "name": "三朝温泉",
+        "description": "世界有数の高濃度ラドンを含む湯。谷に宿は無いので、この湯の町に泊まって通う形になる。"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": true,
+    "hotelSearch": "三朝町",
+    "gateways": {
+      "rail": [
+        "倉吉駅"
+      ],
+      "airport": [
+        "鳥取空港"
+      ],
+      "bus": [],
+      "ferry": []
+    },
+    "destType": "sight",
+    "railGateway": "倉吉駅",
+    "busGateway": null,
+    "ferryGateway": null,
+    "airportGateway": "鳥取空港",
+    "prefecture": "鳥取県",
+    "lat": 35.37378,
+    "lng": 133.9755,
+    "stayBias": 1,
+    "city": "三朝町",
+    "situations": [
+      "solo",
+      "couple",
+      "friends"
+    ],
+    "catch": "三朝の湯から車で十五分、人のいない渓谷。",
+    "mainSpot": "渓谷の遊歩道",
+    "mapPoint": "小鹿渓",
+    "representativeStation": "倉吉駅",
+    "hubStation": "倉吉駅",
+    "accessStation": "倉吉駅",
+    "hotelArea": "tottori",
+    "finalAccess": {
+      "type": "car"
+    },
+    "travelTime": {
+      "tokyo": 320,
+      "osaka": 180,
+      "nagoya": 250,
+      "fukuoka": 320,
+      "takamatsu": 230,
+      "wakayama": 210,
+      "mito": 365,
+      "maebashi": 380,
+      "takasaki": 380,
+      "hamamatsu": 280,
+      "gifu": 270,
+      "kofu": 410,
+      "shingu": 300,
+      "tanabe": 270,
+      "shirahama": 280,
+      "kushimoto": 300,
+      "tottori": 25,
+      "shimonoseki": 350,
+      "saga": 350,
+      "oita": 380,
+      "beppu": 390
+    },
+    "stayRecommendation": "1night",
+    "tier": "area",
+    "tier2": "area",
+    "icCard": "icoca",
+    "bestSeason": "秋",
+    "onsenLevel": 0,
+    "hasDirectFlight": false,
+    "primary": [
+      "絶景",
+      "自然"
+    ],
+    "secondary": [
+      "秋"
+    ],
+    "reasonChips": [
+      "絶景",
+      "自然と過ごす",
+      "ひとり旅向け",
+      "1泊がおすすめ"
+    ],
+    "images": [
+      "/images/ojika/main.jpg"
+    ],
+    "imageCredit": {
+      "author": "㭍月例祭",
+      "license": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File:Osikakei.jpg",
+      "attributionRequired": true
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Ftottori%2F",
+      "jalan": "https://www.jalan.net/310000/"
+    }
+  },
+  {
+    "id": "kuniga",
+    "name": "国賀海岸",
+    "type": "destination",
+    "region": "中国",
+    "hub": "松江",
+    "stayAllowed": [
+      "1night"
+    ],
+    "departures": [
+      "松江"
+    ],
+    "weight": 1,
+    "description": "隠岐諸島の西ノ島の北西に、二百から二百五十メートルの海蝕崖が十三キロにわたって続く。中でも摩天崖は高さ二百五十七メートルあり、国内最大級の海崖として知られる。天然の洞門である通天橋や鬼ヶ城といった奇勝が並ぶ一方、崖の上は牧草地になっていて牛や馬が放たれており、荒々しい海と穏やかな草地が同じ視界に入る。昭和十三年に国の名勝、昭和三十八年に国立公園に指定された。摩天崖から国賀浜まで高低差二百五十メートルの遊歩道があり、下りで四十五分ほど。海からは定期観光船で洞窟を巡ることができる。",
+    "tags": [
+      "絶景",
+      "海",
+      "自然",
+      "離島"
+    ],
+    "spots": [
+      {
+        "name": "摩天崖",
+        "description": "高さ二百五十七メートル、国内最大級の海崖。崖の上は牧草地で牛や馬が放たれている。"
+      },
+      {
+        "name": "通天橋",
+        "description": "波が岩を貫いてできた天然の洞門。遊歩道の途中から、その全貌を見下ろすことができる。"
+      },
+      {
+        "name": "国賀海岸遊歩道",
+        "description": "摩天崖から国賀浜まで高低差二百五十メートル。下り四十五分、上りは一時間ほどかかる。"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": true,
+    "hotelSearch": "西ノ島町",
+    "gateways": {
+      "rail": [
+        "境港駅"
+      ],
+      "airport": [
+        "隠岐空港"
+      ],
+      "bus": [],
+      "ferry": []
+    },
+    "destType": "sight",
+    "railGateway": "境港駅",
+    "busGateway": null,
+    "ferryGateway": null,
+    "airportGateway": "隠岐空港",
+    "prefecture": "島根県",
+    "lat": 36.08556,
+    "lng": 132.95838,
+    "stayBias": 1,
+    "city": "西ノ島町",
+    "situations": [
+      "solo",
+      "couple",
+      "friends"
+    ],
+    "catch": "高さ二五七メートルの摩天崖に、牛と馬が放たれている。",
+    "mainSpot": "摩天崖",
+    "mapPoint": "国賀海岸",
+    "representativeStation": "境港駅",
+    "hubStation": "境港駅",
+    "accessStation": "境港駅",
+    "hotelArea": "shimane",
+    "finalAccess": {
+      "type": "car"
+    },
+    "travelTime": {
+      "tokyo": 380,
+      "osaka": 250,
+      "nagoya": 300,
+      "fukuoka": 295,
+      "takamatsu": 265,
+      "wakayama": 280,
+      "mito": 425,
+      "maebashi": 440,
+      "takasaki": 440,
+      "hamamatsu": 330,
+      "gifu": 320,
+      "kofu": 470,
+      "shingu": 370,
+      "tanabe": 340,
+      "shirahama": 350,
+      "kushimoto": 370,
+      "tottori": 370,
+      "shimonoseki": 325,
+      "saga": 325,
+      "oita": 355,
+      "beppu": 365
+    },
+    "stayRecommendation": "1night",
+    "tier": "area",
+    "tier2": "area",
+    "icCard": "suica",
+    "bestSeason": "夏",
+    "onsenLevel": 0,
+    "hasDirectFlight": false,
+    "primary": [
+      "絶景",
+      "海"
+    ],
+    "secondary": [
+      "自然",
+      "離島"
+    ],
+    "reasonChips": [
+      "絶景",
+      "自然と過ごす",
+      "ひとり旅向け",
+      "1泊がおすすめ"
+    ],
+    "images": [
+      "/images/kuniga/main.jpg"
+    ],
+    "imageCredit": {
+      "author": "Yuvalr",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Kuniga_coast_torii.jpg",
+      "attributionRequired": true
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fshimane%2F",
+      "jalan": "https://www.jalan.net/320000/"
+    }
+  },
+  {
+    "id": "dangyokei",
+    "name": "断魚渓",
+    "type": "destination",
+    "region": "中国",
+    "hub": "松江",
+    "stayAllowed": [
+      "1night"
+    ],
+    "departures": [
+      "松江"
+    ],
+    "weight": 1,
+    "description": "江の川の支流の濁川を四キロさかのぼった渓流で、流紋岩が削られてできた。高低差は百メートルほど。目立つ滝は無いが、谷底に露出した千畳敷という岩盤に、自然が掘った水路が通っている。名は下流の神楽淵にある断魚の淵に由来し、鮎の遡上をここで遮ることから付いた。嫁ガ淵、通仙橋、千畳敷、神楽淵など二十四の景勝地があり、漢学者の野田慎が断魚渓二十四景として名を定めた。昭和十年に国の名勝に指定されている。石見銀山や温泉津温泉まで車で三十分ほどの位置にあり、石見の旅程に組み込みやすい。",
+    "tags": [
+      "絶景",
+      "自然",
+      "秋"
+    ],
+    "spots": [
+      {
+        "name": "千畳敷",
+        "description": "谷底に広く露出した岩盤。自然が削った岩樋川という水路が、その岩の上を通っている。"
+      },
+      {
+        "name": "神楽淵",
+        "description": "鮎の遡上を遮ってきた断魚の淵がある一帯。この淵の名が渓谷そのものの名になっている。"
+      },
+      {
+        "name": "断魚渓二十四景",
+        "description": "漢学者の野田慎が定めた二十四の景勝。嫁ガ淵や通仙橋など、散策路でひとつずつ辿れる。"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": true,
+    "hotelSearch": "邑南町",
+    "gateways": {
+      "rail": [
+        "浜田駅"
+      ],
+      "airport": [
+        "萩・石見空港"
+      ],
+      "bus": [],
+      "ferry": []
+    },
+    "destType": "sight",
+    "railGateway": "浜田駅",
+    "busGateway": null,
+    "ferryGateway": null,
+    "airportGateway": "萩・石見空港",
+    "prefecture": "島根県",
+    "lat": 34.92919,
+    "lng": 132.47442,
+    "stayBias": 1,
+    "city": "邑南町",
+    "situations": [
+      "solo",
+      "couple",
+      "friends"
+    ],
+    "catch": "鮎が遡れなかった淵から、名が付いた渓谷。",
+    "mainSpot": "千畳敷",
+    "mapPoint": "断魚渓",
+    "representativeStation": "浜田駅",
+    "hubStation": "浜田駅",
+    "accessStation": "浜田駅",
+    "hotelArea": "shimane",
+    "finalAccess": {
+      "type": "car"
+    },
+    "travelTime": {
+      "tokyo": 370,
+      "osaka": 230,
+      "nagoya": 285,
+      "fukuoka": 290,
+      "takamatsu": 240,
+      "mito": 415,
+      "maebashi": 430,
+      "takasaki": 430,
+      "hamamatsu": 315,
+      "gifu": 305,
+      "kofu": 460,
+      "shingu": 350,
+      "tanabe": 320,
+      "shirahama": 330,
+      "kushimoto": 350,
+      "tottori": 350,
+      "shimonoseki": 320,
+      "saga": 320,
+      "oita": 350,
+      "beppu": 360
+    },
+    "stayRecommendation": "1night",
+    "tier": "area",
+    "tier2": "area",
+    "icCard": "icoca",
+    "bestSeason": "秋",
+    "onsenLevel": 0,
+    "hasDirectFlight": false,
+    "primary": [
+      "絶景",
+      "自然"
+    ],
+    "secondary": [
+      "秋"
+    ],
+    "reasonChips": [
+      "絶景",
+      "自然と過ごす",
+      "ひとり旅向け",
+      "1泊がおすすめ"
+    ],
+    "images": [
+      "/images/dangyokei/main.jpg"
+    ],
+    "imageCredit": {
+      "author": "Jack serow",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Dangyokei.jpg",
+      "attributionRequired": true
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fshimane%2F",
+      "jalan": "https://www.jalan.net/320000/"
+    }
+  },
+  {
+    "id": "sandankyo",
+    "name": "三段峡",
+    "type": "destination",
+    "region": "中国",
+    "hub": "広島",
+    "stayAllowed": [
+      "1night"
+    ],
+    "departures": [
+      "広島"
+    ],
+    "weight": 1,
+    "description": "太田川水系の柴木川が刻んだ、総延長十六キロの峡谷である。中国山地の隆起に川の下刻が追いつき、山列を直角に横切る横谷ができた。国の特別名勝で、日本百景と日本紅葉の名所百選にも選ばれている。見どころは黒淵・猿飛・二段滝・三段滝と続き、黒淵と猿飛は道が途切れるため渡し舟に乗って進む。両岸から岩壁が迫る水面を舟で行くのが、この峡谷でいちばん知られた場面だ。フランスの旅行案内で三つ星を得たこともある。湯来温泉まで車で三十分ほど、広島市街からも一時間半で着く。",
+    "tags": [
+      "絶景",
+      "自然",
+      "秋"
+    ],
+    "spots": [
+      {
+        "name": "黒淵",
+        "description": "両岸から岩壁が迫り、道が途切れる淵。ここは渡し舟に乗って水面を進むことになる場所。"
+      },
+      {
+        "name": "猿飛",
+        "description": "岩と岩が迫り、猿なら飛び越えられそうな幅になる場所。ここにも渡し舟が出されている。"
+      },
+      {
+        "name": "三段滝",
+        "description": "峡谷の名の由来になった三段の滝。入口から歩くと片道三時間ほどかかる奥に懸かっている。"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": true,
+    "hotelSearch": "安芸太田町",
+    "gateways": {
+      "rail": [
+        "広島駅"
+      ],
+      "airport": [
+        "広島空港"
+      ],
+      "bus": [],
+      "ferry": []
+    },
+    "destType": "sight",
+    "railGateway": "広島駅",
+    "busGateway": null,
+    "ferryGateway": null,
+    "airportGateway": "広島空港",
+    "prefecture": "広島県",
+    "lat": 34.5998,
+    "lng": 132.20815,
+    "stayBias": 1,
+    "city": "安芸太田町",
+    "situations": [
+      "solo",
+      "couple",
+      "friends"
+    ],
+    "catch": "渡し舟でしか進めない、切り立った淵がある。",
+    "mainSpot": "黒淵",
+    "mapPoint": "三段峡",
+    "representativeStation": "広島駅",
+    "hubStation": "広島駅",
+    "accessStation": "広島駅",
+    "hotelArea": "hiroshima",
+    "finalAccess": {
+      "type": "car"
+    },
+    "travelTime": {
+      "tokyo": 255,
+      "osaka": 115,
+      "nagoya": 170,
+      "fukuoka": 105,
+      "takamatsu": 125,
+      "fukuyama": 120,
+      "mito": 300,
+      "maebashi": 315,
+      "takasaki": 315,
+      "hamamatsu": 200,
+      "gifu": 190,
+      "kofu": 345,
+      "shingu": 235,
+      "tanabe": 205,
+      "shirahama": 215,
+      "kushimoto": 235,
+      "tottori": 235,
+      "shimonoseki": 135,
+      "saga": 135,
+      "oita": 165,
+      "beppu": 175,
+      "hiroshima": 30
+    },
+    "stayRecommendation": "1night",
+    "tier": "area",
+    "tier2": "area",
+    "icCard": "icoca",
+    "bestSeason": "秋",
+    "onsenLevel": 0,
+    "hasDirectFlight": false,
+    "primary": [
+      "絶景",
+      "自然"
+    ],
+    "secondary": [
+      "秋"
+    ],
+    "reasonChips": [
+      "絶景",
+      "自然と過ごす",
+      "ひとり旅向け",
+      "1泊がおすすめ"
+    ],
+    "images": [
+      "/images/sandankyo/main.jpg"
+    ],
+    "imageCredit": {
+      "author": "HKT3012",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:%E9%BB%92%E6%B7%B5.jpg",
+      "attributionRequired": true
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fhiroshima%2F",
+      "jalan": "https://www.jalan.net/340000/"
+    }
+  },
+  {
+    "id": "chomonkyo",
+    "name": "長門峡",
+    "type": "destination",
+    "region": "中国",
+    "hub": "広島",
+    "stayAllowed": [
+      "1night"
+    ],
+    "departures": [
+      "広島"
+    ],
+    "weight": 1,
+    "description": "阿武川の上流、山口市阿東から萩市川上にかけて十二キロ続く峡谷である。白亜紀の流紋岩質凝灰岩とデイサイト溶岩が断崖を作り、奇岩と滝と深い淵が入れ替わりに現れる。名付けたのは郷土の画家の高島北海で、詩人の中原中也もこの谷を絶賛し、洗心橋には詩碑が立つ。洗心橋から龍宮淵まで五・五キロの遊歩道があり、獺淵や暗がり淵といった名の場所を辿って歩ける。国の名勝で、日本五大名峡に数えられることもある。阿武川の鮎が名物で、龍宮淵の入口には鮎料理の店が並ぶ。湯田温泉まで車で三十分ほど。",
+    "tags": [
+      "絶景",
+      "自然",
+      "秋",
+      "グルメ"
+    ],
+    "spots": [
+      {
+        "name": "洗心橋の詩碑",
+        "description": "中原中也がこの谷を詠んだ詩の碑が立つ。山口市側の入口にあたり、ここから遊歩道が始まる。"
+      },
+      {
+        "name": "龍宮淵までの遊歩道",
+        "description": "洗心橋から五・五キロ。獺淵や暗がり淵など、名の付いた淵を辿りながら歩いていける。"
+      },
+      {
+        "name": "阿武川の鮎",
+        "description": "峡谷の名物になっている。龍宮淵の入口には鮎料理の店が並び、夏には鮎祭りも開かれる。"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "hotelSearch": "山口市",
+    "gateways": {
+      "rail": [
+        "長門峡駅"
+      ],
+      "airport": [
+        "山口宇部空港"
+      ],
+      "bus": [],
+      "ferry": []
+    },
+    "destType": "sight",
+    "railGateway": "長門峡駅",
+    "busGateway": null,
+    "ferryGateway": null,
+    "airportGateway": "山口宇部空港",
+    "prefecture": "山口県",
+    "lat": 34.30378,
+    "lng": 131.57752,
+    "stayBias": 1,
+    "city": "山口市",
+    "situations": [
+      "solo",
+      "couple",
+      "friends"
+    ],
+    "catch": "中原中也が絶賛した、十二キロの峡谷。",
+    "mainSpot": "洗心橋の詩碑",
+    "mapPoint": "長門峡",
+    "representativeStation": "長門峡駅",
+    "hubStation": "長門峡駅",
+    "accessStation": "長門峡駅",
+    "hotelArea": "yamaguchi",
+    "finalAccess": {
+      "type": "walk"
+    },
+    "travelTime": {
+      "tokyo": 310,
+      "osaka": 170,
+      "nagoya": 225,
+      "fukuoka": 160,
+      "takamatsu": 180,
+      "wakayama": 200,
+      "mito": 355,
+      "maebashi": 370,
+      "takasaki": 370,
+      "hamamatsu": 255,
+      "gifu": 245,
+      "kofu": 400,
+      "shingu": 290,
+      "tanabe": 260,
+      "shirahama": 270,
+      "kushimoto": 290,
+      "tottori": 290,
+      "shimonoseki": 190,
+      "saga": 190,
+      "oita": 220,
+      "beppu": 230
+    },
+    "stayRecommendation": "1night",
+    "tier": "area",
+    "tier2": "area",
+    "icCard": "icoca",
+    "bestSeason": "秋",
+    "onsenLevel": 0,
+    "hasDirectFlight": false,
+    "primary": [
+      "絶景",
+      "自然"
+    ],
+    "secondary": [
+      "秋",
+      "グルメ"
+    ],
+    "reasonChips": [
+      "絶景",
+      "自然と過ごす",
+      "ひとり旅向け",
+      "1泊がおすすめ",
+      "車なしOK"
+    ],
+    "images": [
+      "/images/chomonkyo/main.jpg"
+    ],
+    "imageCredit": {
+      "author": "As6022014",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Chomonkyo.jpg",
+      "attributionRequired": true
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fyamaguchi%2F",
+      "jalan": "https://www.jalan.net/350000/"
+    }
+  },
+  {
+    "id": "omogokei",
+    "name": "面河渓",
+    "type": "destination",
+    "region": "四国",
+    "hub": "松山",
+    "stayAllowed": [
+      "1night"
+    ],
+    "departures": [
+      "松山"
+    ],
+    "weight": 1,
+    "description": "仁淀川の上流を九・六キロさかのぼった渓谷で、入口ですでに標高六百五十メートルある。四国山地の高い山に囲まれたV字の谷で、早瀬と深い淵と滝が続く。関門、相思渓、五色河原、亀腹、蓬莱峡といった名所は明治の探勝団が名付けたものだ。仁淀ブルーと呼ばれる水の透明度はここでも変わらず、白い岩肌と相まって水が青緑に見える。昭和八年に国の名勝に指定され、石鎚国定公園に含まれる。西日本最高峰の石鎚山へ登る裏参道口でもある。松山市街から車で一時間半、道後温泉に泊まって日帰りする人も多い。",
+    "tags": [
+      "絶景",
+      "自然",
+      "山",
+      "秋"
+    ],
+    "spots": [
+      {
+        "name": "五色河原",
+        "description": "白い岩の上を水が流れる河原。水の色が浅いところと深いところで大きく変わって見える。"
+      },
+      {
+        "name": "亀腹",
+        "description": "高さ百メートル、幅二百メートルの一枚岩。谷の入口で正面に立ちはだかる巨大な岩壁。"
+      },
+      {
+        "name": "石鎚山の裏参道",
+        "description": "西日本最高峰へ登る道がここから始まる。面河山を経て山頂に至る、古くからの参道である。"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": true,
+    "hotelSearch": "久万高原町",
+    "gateways": {
+      "rail": [
+        "松山駅"
+      ],
+      "airport": [
+        "松山空港"
+      ],
+      "bus": [],
+      "ferry": []
+    },
+    "destType": "sight",
+    "railGateway": "松山駅",
+    "busGateway": null,
+    "ferryGateway": null,
+    "airportGateway": "松山空港",
+    "prefecture": "愛媛県",
+    "lat": 33.73624,
+    "lng": 133.11496,
+    "stayBias": 1,
+    "city": "久万高原町",
+    "situations": [
+      "solo",
+      "couple",
+      "friends"
+    ],
+    "catch": "石鎚山の裏参道口に、透きとおった水が流れる。",
+    "mainSpot": "五色河原",
+    "mapPoint": "面河渓",
+    "representativeStation": "松山駅",
+    "hubStation": "松山駅",
+    "accessStation": "松山駅",
+    "hotelArea": "ehime",
+    "finalAccess": {
+      "type": "car"
+    },
+    "travelTime": {
+      "tokyo": 160,
+      "osaka": 160,
+      "nagoya": 195,
+      "fukuoka": 250,
+      "takamatsu": 60,
+      "mito": 205,
+      "maebashi": 220,
+      "takasaki": 220,
+      "hamamatsu": 225,
+      "gifu": 215,
+      "kofu": 250,
+      "shingu": 280,
+      "tanabe": 250,
+      "shirahama": 260,
+      "kushimoto": 280,
+      "tottori": 280,
+      "shimonoseki": 280,
+      "saga": 280,
+      "oita": 310,
+      "beppu": 320
+    },
+    "stayRecommendation": "1night",
+    "tier": "area",
+    "tier2": "area",
+    "icCard": "icoca",
+    "bestSeason": "秋",
+    "onsenLevel": 0,
+    "hasDirectFlight": false,
+    "primary": [
+      "絶景",
+      "自然"
+    ],
+    "secondary": [
+      "山",
+      "秋"
+    ],
+    "reasonChips": [
+      "絶景",
+      "自然と過ごす",
+      "ひとり旅向け",
+      "1泊がおすすめ"
+    ],
+    "images": [
+      "/images/omogokei/main.jpg"
+    ],
+    "imageCredit": {
+      "author": "Koda6029",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:%E9%B6%B4%E3%83%8E%E7%80%AC%E6%A9%8B%E3%81%8B%E3%82%89%E3%81%AE%E9%9D%A2%E6%B2%B3%E6%B8%93.jpg",
+      "attributionRequired": true
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fehime%2F",
+      "jalan": "https://www.jalan.net/380000/"
+    }
+  },
+  {
+    "id": "toriike",
+    "name": "通り池",
+    "type": "destination",
+    "region": "沖縄",
+    "hub": "那覇",
+    "stayAllowed": [
+      "1night"
+    ],
+    "departures": [
+      "那覇"
+    ],
+    "weight": 1,
+    "description": "下地島の西岸、琉球石灰岩の台地に空いた二つの池である。もとは鍾乳洞で、天井が崩れ落ちて池になった。海側の池は地下で外洋とつながっており、上層は淡水、下層は海水という二層構造をしている。ダイバーはこの水路を通って海から池へ抜けることができ、光が差し込む瞬間は宮古のダイビングでも屈指の場面とされる。陸からは遊歩道と展望台が整い、覗き込むと深い藍色の水が動かずにたまっている。継母と子の悲しい伝説も残る。伊良部大橋が二〇一五年に開通してから、宮古島から車で行けるようになった。",
+    "tags": [
+      "絶景",
+      "海",
+      "自然",
+      "離島"
+    ],
+    "spots": [
+      {
+        "name": "二つの池",
+        "description": "鍾乳洞の天井が崩れてできた二つの池。海側の池は地下の水路で外洋とつながっている。"
+      },
+      {
+        "name": "水中の水路",
+        "description": "ダイバーは海から水路を抜けて池へ出られる。差し込む光が宮古屈指の見どころとされる。"
+      },
+      {
+        "name": "下地島の西海岸",
+        "description": "琉球石灰岩の海食崖が続く。伊良部大橋の開通で宮古島から車のまま渡れるようになった。"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": true,
+    "hotelSearch": "宮古島市",
+    "gateways": {
+      "rail": [
+        "宮古空港"
+      ],
+      "airport": [
+        "宮古空港"
+      ],
+      "bus": [],
+      "ferry": []
+    },
+    "destType": "sight",
+    "railGateway": "宮古空港",
+    "busGateway": null,
+    "ferryGateway": null,
+    "airportGateway": "宮古空港",
+    "prefecture": "沖縄県",
+    "lat": 24.82403,
+    "lng": 125.13642,
+    "stayBias": 1,
+    "city": "宮古島市",
+    "situations": [
+      "solo",
+      "couple",
+      "friends"
+    ],
+    "catch": "陸の池が、地下で海とつながっている。",
+    "mainSpot": "二つの池",
+    "mapPoint": "通り池",
+    "representativeStation": "宮古空港",
+    "hubStation": "宮古空港",
+    "accessStation": "宮古空港",
+    "hotelArea": "okinawa",
+    "finalAccess": {
+      "type": "car"
+    },
+    "travelTime": {
+      "tokyo": 210,
+      "osaka": 235,
+      "nagoya": 265,
+      "fukuoka": 155,
+      "takamatsu": 235,
+      "naha": 110,
+      "wakayama": 265,
+      "mito": 255,
+      "maebashi": 270,
+      "takasaki": 270,
+      "hamamatsu": 295,
+      "gifu": 285,
+      "kofu": 300,
+      "shingu": 355,
+      "tanabe": 325,
+      "shirahama": 335,
+      "kushimoto": 355,
+      "tottori": 355,
+      "shimonoseki": 185,
+      "saga": 185,
+      "oita": 215,
+      "beppu": 225,
+      "ishigaki": 95,
+      "miyako": 30
+    },
+    "stayRecommendation": "1night",
+    "tier": "area",
+    "tier2": "area",
+    "icCard": "suica",
+    "bestSeason": "夏",
+    "onsenLevel": 0,
+    "hasDirectFlight": false,
+    "primary": [
+      "絶景",
+      "海"
+    ],
+    "secondary": [
+      "自然",
+      "離島"
+    ],
+    "reasonChips": [
+      "絶景",
+      "自然と過ごす",
+      "ひとり旅向け",
+      "1泊がおすすめ"
+    ],
+    "images": [
+      "/images/toriike/main.jpg"
+    ],
+    "imageCredit": {
+      "author": "Paipateroma",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Toriike.jpg",
+      "attributionRequired": true
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fokinawa%2F",
+      "jalan": "https://www.jalan.net/470000/"
+    }
+  },
+  {
+    "id": "nasonoshirataki",
+    "name": "奈曽の白瀑",
+    "type": "destination",
+    "region": "東北",
+    "hub": "秋田",
+    "stayAllowed": [
+      "1night"
+    ],
+    "departures": [
+      "秋田"
+    ],
+    "weight": 1,
+    "description": "鳥海山から流れ出る奈曽川にかかる、落差二十六メートル、幅十一メートルの直瀑である。十万年以上前の小滝溶岩を削って落ちており、一帯は鳥海国定公園に含まれる。すぐ近くの金峰神社は平安時代からの文化財を数多く収める古社で、その境内を通って長い石段を降りていくと、木々に囲まれた滝の全容が現れる。周辺はかつて鳥海山へ登る人が泊まる宿坊集落だった。社殿の南には長さ七十五メートルのねがい橋という吊り橋が架かり、対岸の道から滝の上流側へ回れる。昭和七年に奈曽の白瀑谷として国の名勝に指定された。",
+    "tags": [
+      "絶景",
+      "自然",
+      "寺社",
+      "秋"
+    ],
+    "spots": [
+      {
+        "name": "滝の全容",
+        "description": "落差二十六メートル、幅十一メートルの直瀑。石段を降り切ると木立の間に姿を現してくる。"
+      },
+      {
+        "name": "金峰神社",
+        "description": "平安時代からの文化財を収める古社。この境内を通らないと滝のところへは降りていけない。"
+      },
+      {
+        "name": "ねがい橋",
+        "description": "社殿の南に架かる長さ七十五メートルの吊り橋。渡ると滝の上流側へ回ることができる。"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": true,
+    "hotelSearch": "にかほ市",
+    "gateways": {
+      "rail": [
+        "象潟駅"
+      ],
+      "airport": [
+        "庄内空港"
+      ],
+      "bus": [],
+      "ferry": []
+    },
+    "destType": "sight",
+    "railGateway": "象潟駅",
+    "busGateway": null,
+    "ferryGateway": null,
+    "airportGateway": "庄内空港",
+    "prefecture": "秋田県",
+    "lat": 39.18144,
+    "lng": 139.94325,
+    "stayBias": 1,
+    "city": "にかほ市",
+    "situations": [
+      "solo",
+      "couple",
+      "friends"
+    ],
+    "catch": "神社の石段を降りた先に、滝が待っている。",
+    "mainSpot": "滝の全容",
+    "mapPoint": "奈曽の白瀑",
+    "representativeStation": "象潟駅",
+    "hubStation": "象潟駅",
+    "accessStation": "象潟駅",
+    "hotelArea": "akita",
+    "finalAccess": {
+      "type": "car"
+    },
+    "travelTime": {
+      "tokyo": 280,
+      "osaka": 460,
+      "nagoya": 400,
+      "fukuoka": 660,
+      "takamatsu": 590,
+      "mito": 325,
+      "maebashi": 340,
+      "takasaki": 340,
+      "hamamatsu": 430,
+      "gifu": 420,
+      "kofu": 370,
+      "shingu": 580,
+      "tanabe": 550,
+      "shirahama": 560,
+      "kushimoto": 580,
+      "tottori": 580,
+      "shimonoseki": 690,
+      "saga": 690,
+      "oita": 720,
+      "beppu": 730
+    },
+    "stayRecommendation": "1night",
+    "tier": "area",
+    "tier2": "area",
+    "icCard": "suica",
+    "bestSeason": "秋",
+    "onsenLevel": 0,
+    "hasDirectFlight": false,
+    "primary": [
+      "絶景",
+      "自然"
+    ],
+    "secondary": [
+      "寺社",
+      "秋"
+    ],
+    "reasonChips": [
+      "絶景",
+      "自然と過ごす",
+      "ひとり旅向け",
+      "1泊がおすすめ"
+    ],
+    "images": [
+      "/images/nasonoshirataki/main.jpg"
+    ],
+    "imageCredit": {
+      "author": "KAORU NAGASAWA",
+      "license": "CC BY 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Naso-no-Shirataki_(24236410528).jpg",
+      "attributionRequired": true
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fakita%2F",
+      "jalan": "https://www.jalan.net/050000/"
+    }
+  },
+  {
+    "id": "sekichukei",
+    "name": "石柱渓",
+    "type": "destination",
+    "region": "中国",
+    "hub": "広島",
+    "stayAllowed": [
+      "1night"
+    ],
+    "departures": [
+      "広島"
+    ],
+    "weight": 1,
+    "description": "木屋川水系の大州田川にある二キロほどの渓谷である。白亜紀末期の石英斑岩が削られ、四角から六角までの不等辺の柱状節理が谷の壁一面に並ぶ。石の柱が立ち並ぶように見えることが名の由来だ。小さな滝がいくつも連なり、連理の滝と呼ばれる二筋の滝が節理の間を落ちていく。大正十五年に国の名勝と天然記念物に指定された。長門峡と同じく画家の高島北海が紹介したことで知られるようになった谷である。俵山温泉まで車で十五分、長門湯本温泉までも二十分ほどなので、湯の町に泊まって朝に立ち寄る組み方ができる。",
+    "tags": [
+      "絶景",
+      "自然",
+      "秋"
+    ],
+    "spots": [
+      {
+        "name": "柱状節理の壁",
+        "description": "四角から六角までの不等辺な石柱が谷の壁一面に並ぶ。名の由来になっている地形である。"
+      },
+      {
+        "name": "連理の滝",
+        "description": "石柱のあいだを二筋になって落ちる滝。谷に点在する小さな滝のなかでも特に目を引く。"
+      },
+      {
+        "name": "俵山温泉への道",
+        "description": "車で十五分ほど。外湯だけで宿に内湯を持たない湯治場が、同じ谷筋の先に控えている。"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": true,
+    "hotelSearch": "下関市豊田町",
+    "gateways": {
+      "rail": [
+        "小月駅"
+      ],
+      "airport": [
+        "山口宇部空港"
+      ],
+      "bus": [],
+      "ferry": []
+    },
+    "destType": "sight",
+    "railGateway": "小月駅",
+    "busGateway": null,
+    "ferryGateway": null,
+    "airportGateway": "山口宇部空港",
+    "prefecture": "山口県",
+    "lat": 34.2487,
+    "lng": 131.15985,
+    "stayBias": 1,
+    "city": "下関市",
+    "situations": [
+      "solo",
+      "couple",
+      "friends"
+    ],
+    "catch": "四角から六角の石柱が、谷の壁に並んでいる。",
+    "mainSpot": "柱状節理の壁",
+    "mapPoint": "石柱渓",
+    "representativeStation": "小月駅",
+    "hubStation": "小月駅",
+    "accessStation": "小月駅",
+    "hotelArea": "yamaguchi",
+    "finalAccess": {
+      "type": "car"
+    },
+    "travelTime": {
+      "tokyo": 380,
+      "osaka": 260,
+      "nagoya": 360,
+      "fukuoka": 130,
+      "takamatsu": 280,
+      "mito": 425,
+      "maebashi": 440,
+      "takasaki": 440,
+      "hamamatsu": 390,
+      "gifu": 380,
+      "kofu": 470,
+      "shingu": 380,
+      "tanabe": 350,
+      "shirahama": 360,
+      "kushimoto": 380,
+      "tottori": 380,
+      "shimonoseki": 160,
+      "saga": 160,
+      "oita": 190,
+      "beppu": 200
+    },
+    "stayRecommendation": "1night",
+    "tier": "area",
+    "tier2": "area",
+    "icCard": "icoca",
+    "bestSeason": "秋",
+    "onsenLevel": 0,
+    "hasDirectFlight": false,
+    "primary": [
+      "絶景",
+      "自然"
+    ],
+    "secondary": [
+      "秋"
+    ],
+    "reasonChips": [
+      "絶景",
+      "自然と過ごす",
+      "ひとり旅向け",
+      "1泊がおすすめ"
+    ],
+    "images": [
+      "/images/sekichukei/main.jpg"
+    ],
+    "imageCredit": {
+      "author": "プブリリウス",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Sekichukei_Renri_Falls.jpg",
+      "attributionRequired": true
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fyamaguchi%2F",
+      "jalan": "https://www.jalan.net/350000/"
+    }
   }
 ]

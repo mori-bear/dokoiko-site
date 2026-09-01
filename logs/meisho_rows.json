@@ -1,0 +1,2682 @@
+[
+ {
+  "prefecture": "北海道",
+  "name": "旧岩船氏庭園",
+  "where": "香雪園"
+ },
+ {
+  "prefecture": "北海道",
+  "name": "天都山",
+  "where": "網走市"
+ },
+ {
+  "prefecture": "北海道",
+  "name": "ピリカノカ",
+  "where": "名寄市・石狩市・枝幸郡枝幸町・同浜頓別町・幌泉郡えりも町・紋別郡遠軽町・虻田郡豊浦町・室蘭市・帯広市・河西郡中札内村・沙流郡平取町・新冠郡新冠町"
+ },
+ {
+  "prefecture": "北海道",
+  "name": "九度山",
+  "where": "クトウンヌプリ"
+ },
+ {
+  "prefecture": "北海道",
+  "name": "黄金山",
+  "where": "ピンネタイオルシペ"
+ },
+ {
+  "prefecture": "北海道",
+  "name": "神威岬",
+  "where": "カムイエトウ"
+ },
+ {
+  "prefecture": "北海道",
+  "name": "襟裳岬",
+  "where": "オンネエンルム"
+ },
+ {
+  "prefecture": "北海道",
+  "name": "瞰望岩",
+  "where": "インカルシ"
+ },
+ {
+  "prefecture": "北海道",
+  "name": "カムイチャシ",
+  "where": ""
+ },
+ {
+  "prefecture": "北海道",
+  "name": "絵鞆半島外海岸",
+  "where": ""
+ },
+ {
+  "prefecture": "北海道",
+  "name": "十勝幌尻岳",
+  "where": "ポロシリ"
+ },
+ {
+  "prefecture": "北海道",
+  "name": "幌尻岳",
+  "where": "ポロシリ"
+ },
+ {
+  "prefecture": "北海道",
+  "name": "オキクルミのチャシ及びムイノカ",
+  "where": ""
+ },
+ {
+  "prefecture": "青森県",
+  "name": "金平成園",
+  "where": "澤成園"
+ },
+ {
+  "prefecture": "青森県",
+  "name": "瑞楽園",
+  "where": "弘前市"
+ },
+ {
+  "prefecture": "青森県",
+  "name": "成田氏庭園",
+  "where": "弘前市"
+ },
+ {
+  "prefecture": "青森県",
+  "name": "對馬氏庭園",
+  "where": "弘前市"
+ },
+ {
+  "prefecture": "青森県",
+  "name": "須藤氏庭園",
+  "where": "青松園"
+ },
+ {
+  "prefecture": "青森県",
+  "name": "清藤氏書院庭園",
+  "where": "平川市"
+ },
+ {
+  "prefecture": "青森県",
+  "name": "盛美園",
+  "where": "平川市"
+ },
+ {
+  "prefecture": "青森県",
+  "name": "種差海岸",
+  "where": "八戸市"
+ },
+ {
+  "prefecture": "青森県",
+  "name": "仏宇多",
+  "where": "仏ヶ浦"
+ },
+ {
+  "prefecture": "青森県",
+  "name": "静川園",
+  "where": "北津軽郡中泊町"
+ },
+ {
+  "prefecture": "岩手県",
+  "name": "毛越寺庭園",
+  "where": "西磐井郡平泉町"
+ },
+ {
+  "prefecture": "岩手県",
+  "name": "イーハトーブの風景地",
+  "where": "滝沢市・岩手郡雫石町・花巻市・奥州市・気仙郡住田町"
+ },
+ {
+  "prefecture": "岩手県",
+  "name": "鞍掛山",
+  "where": ""
+ },
+ {
+  "prefecture": "岩手県",
+  "name": "七つ森",
+  "where": ""
+ },
+ {
+  "prefecture": "岩手県",
+  "name": "狼森",
+  "where": ""
+ },
+ {
+  "prefecture": "岩手県",
+  "name": "釜淵の滝",
+  "where": ""
+ },
+ {
+  "prefecture": "岩手県",
+  "name": "イギリス海岸",
+  "where": ""
+ },
+ {
+  "prefecture": "岩手県",
+  "name": "五輪峠",
+  "where": ""
+ },
+ {
+  "prefecture": "岩手県",
+  "name": "種山ヶ原",
+  "where": ""
+ },
+ {
+  "prefecture": "岩手県",
+  "name": "旧観自在王院庭園",
+  "where": "西磐井郡平泉町"
+ },
+ {
+  "prefecture": "岩手県",
+  "name": "猊鼻渓",
+  "where": "一関市"
+ },
+ {
+  "prefecture": "岩手県",
+  "name": "厳美渓",
+  "where": "一関市"
+ },
+ {
+  "prefecture": "岩手県",
+  "name": "浄土ヶ浜",
+  "where": "宮古市"
+ },
+ {
+  "prefecture": "岩手県",
+  "name": "碁石海岸",
+  "where": "大船渡市"
+ },
+ {
+  "prefecture": "岩手県",
+  "name": "珊琥島",
+  "where": "大船渡市"
+ },
+ {
+  "prefecture": "岩手県",
+  "name": "高田松原",
+  "where": "陸前高田市"
+ },
+ {
+  "prefecture": "岩手県",
+  "name": "男神岩・女神岩・鳥越山",
+  "where": "二戸市・二戸郡一戸町"
+ },
+ {
+  "prefecture": "宮城県",
+  "name": "松島",
+  "where": "塩竈市・宮城郡七ヶ浜町・同利府町・同松島町・東松島市"
+ },
+ {
+  "prefecture": "宮城県",
+  "name": "秋保大滝",
+  "where": "仙台市太白区"
+ },
+ {
+  "prefecture": "宮城県",
+  "name": "旧有備館および庭園",
+  "where": "大崎市"
+ },
+ {
+  "prefecture": "宮城県",
+  "name": "齋藤氏庭園",
+  "where": "石巻市"
+ },
+ {
+  "prefecture": "宮城県",
+  "name": "磐司",
+  "where": "仙台市太白区"
+ },
+ {
+  "prefecture": "宮城県",
+  "name": "煙雲館庭園",
+  "where": "気仙沼市"
+ },
+ {
+  "prefecture": "秋田県",
+  "name": "旧池田氏庭園",
+  "where": "大仙市"
+ },
+ {
+  "prefecture": "秋田県",
+  "name": "旧秋田藩主佐竹氏別邸",
+  "where": "如斯亭"
+ },
+ {
+  "prefecture": "秋田県",
+  "name": "奈曽の白瀑谷",
+  "where": "にかほ市"
+ },
+ {
+  "prefecture": "秋田県",
+  "name": "檜木内川堤",
+  "where": "サクラ"
+ },
+ {
+  "prefecture": "秋田県",
+  "name": "鳥潟会館庭園",
+  "where": "大館市"
+ },
+ {
+  "prefecture": "山形県",
+  "name": "大沼の浮島",
+  "where": "西村山郡朝日町"
+ },
+ {
+  "prefecture": "山形県",
+  "name": "金峰山",
+  "where": "鶴岡市"
+ },
+ {
+  "prefecture": "山形県",
+  "name": "酒井氏庭園",
+  "where": "鶴岡市"
+ },
+ {
+  "prefecture": "山形県",
+  "name": "總光寺庭園",
+  "where": "酒田市"
+ },
+ {
+  "prefecture": "山形県",
+  "name": "本間氏別邸庭園",
+  "where": "鶴舞園"
+ },
+ {
+  "prefecture": "山形県",
+  "name": "玉川寺庭園",
+  "where": "鶴岡市"
+ },
+ {
+  "prefecture": "山形県",
+  "name": "山寺",
+  "where": "山形市"
+ },
+ {
+  "prefecture": "福島県",
+  "name": "会津松平氏庭園",
+  "where": "会津若松市"
+ },
+ {
+  "prefecture": "福島県",
+  "name": "須賀川の牡丹園",
+  "where": "須賀川市"
+ },
+ {
+  "prefecture": "福島県",
+  "name": "南湖公園",
+  "where": "白河市"
+ },
+ {
+  "prefecture": "福島県",
+  "name": "霊山",
+  "where": "伊達市・相馬市"
+ },
+ {
+  "prefecture": "茨城県",
+  "name": "桜川",
+  "where": "サクラ"
+ },
+ {
+  "prefecture": "茨城県",
+  "name": "常磐公園",
+  "where": "水戸市"
+ },
+ {
+  "prefecture": "茨城県",
+  "name": "袋田の滝及び生瀬滝",
+  "where": "久慈郡大子町"
+ },
+ {
+  "prefecture": "茨城県",
+  "name": "西山御殿跡",
+  "where": "西山荘"
+ },
+ {
+  "prefecture": "栃木県",
+  "name": "大谷の奇岩群",
+  "where": "宇都宮市"
+ },
+ {
+  "prefecture": "栃木県",
+  "name": "御止山",
+  "where": ""
+ },
+ {
+  "prefecture": "栃木県",
+  "name": "越路岩",
+  "where": ""
+ },
+ {
+  "prefecture": "栃木県",
+  "name": "華厳瀑および中宮祠湖",
+  "where": "中禅寺湖"
+ },
+ {
+  "prefecture": "群馬県",
+  "name": "吾妻峡",
+  "where": "吾妻郡東吾妻町・同長野原町"
+ },
+ {
+  "prefecture": "群馬県",
+  "name": "三波川",
+  "where": "サクラ"
+ },
+ {
+  "prefecture": "群馬県",
+  "name": "躑躅ヶ岡",
+  "where": "ツツジ"
+ },
+ {
+  "prefecture": "群馬県",
+  "name": "吹割渓ならびに吹割瀑",
+  "where": "沼田市"
+ },
+ {
+  "prefecture": "群馬県",
+  "name": "妙義山",
+  "where": "富岡市・甘楽郡下仁田町・安中市"
+ },
+ {
+  "prefecture": "群馬県",
+  "name": "楽山園",
+  "where": "甘楽郡甘楽町"
+ },
+ {
+  "prefecture": "群馬県",
+  "name": "湯畑",
+  "where": "吾妻郡草津町"
+ },
+ {
+  "prefecture": "埼玉県",
+  "name": "長瀞",
+  "where": "秩父郡長瀞町・同皆野町"
+ },
+ {
+  "prefecture": "埼玉県",
+  "name": "高梨氏庭園",
+  "where": "野田市"
+ },
+ {
+  "prefecture": "埼玉県",
+  "name": "旧徳川昭武庭園",
+  "where": "戸定邸庭園"
+ },
+ {
+  "prefecture": "埼玉県",
+  "name": "旧堀田正倫庭園",
+  "where": "佐倉市"
+ },
+ {
+  "prefecture": "埼玉県",
+  "name": "屏風ケ浦",
+  "where": "銚子市"
+ },
+ {
+  "prefecture": "東京都",
+  "name": "小石川後楽園",
+  "where": "文京区"
+ },
+ {
+  "prefecture": "東京都",
+  "name": "旧浜離宮庭園",
+  "where": "中央区"
+ },
+ {
+  "prefecture": "東京都",
+  "name": "六義園",
+  "where": "文京区"
+ },
+ {
+  "prefecture": "東京都",
+  "name": "旧朝倉文夫氏庭園",
+  "where": "台東区"
+ },
+ {
+  "prefecture": "東京都",
+  "name": "旧芝離宮庭園",
+  "where": "港区"
+ },
+ {
+  "prefecture": "東京都",
+  "name": "旧古河氏庭園",
+  "where": "北区"
+ },
+ {
+  "prefecture": "東京都",
+  "name": "小石川植物園",
+  "where": "御薬園跡および養生所跡"
+ },
+ {
+  "prefecture": "東京都",
+  "name": "小金井",
+  "where": "サクラ"
+ },
+ {
+  "prefecture": "東京都",
+  "name": "向島百花園",
+  "where": "墨田区"
+ },
+ {
+  "prefecture": "東京都",
+  "name": "伝法院庭園",
+  "where": "台東区"
+ },
+ {
+  "prefecture": "東京都",
+  "name": "殿ヶ谷戸庭園",
+  "where": "随冝園"
+ },
+ {
+  "prefecture": "東京都",
+  "name": "懐徳館庭園",
+  "where": "旧加賀藩主前田氏本郷本邸庭園"
+ },
+ {
+  "prefecture": "東京都",
+  "name": "横山大観旧宅及び庭園",
+  "where": "台東区"
+ },
+ {
+  "prefecture": "東京都",
+  "name": "哲学堂公園",
+  "where": "中野区"
+ },
+ {
+  "prefecture": "神奈川県",
+  "name": "円覚寺庭園",
+  "where": "鎌倉市"
+ },
+ {
+  "prefecture": "神奈川県",
+  "name": "建長寺庭園",
+  "where": "鎌倉市"
+ },
+ {
+  "prefecture": "神奈川県",
+  "name": "三溪園",
+  "where": "横浜市中区"
+ },
+ {
+  "prefecture": "神奈川県",
+  "name": "瑞泉寺庭園",
+  "where": "鎌倉市"
+ },
+ {
+  "prefecture": "神奈川県",
+  "name": "山手公園",
+  "where": "横浜市中区"
+ },
+ {
+  "prefecture": "神奈川県",
+  "name": "神仙郷",
+  "where": "足柄下郡箱根町"
+ },
+ {
+  "prefecture": "新潟県",
+  "name": "旧新発田藩下屋敷",
+  "where": "清水谷御殿"
+ },
+ {
+  "prefecture": "新潟県",
+  "name": "清津峡",
+  "where": "南魚沼郡湯沢町・十日町市"
+ },
+ {
+  "prefecture": "新潟県",
+  "name": "笹川流",
+  "where": "村上市"
+ },
+ {
+  "prefecture": "新潟県",
+  "name": "佐渡小木海岸",
+  "where": "佐渡市"
+ },
+ {
+  "prefecture": "新潟県",
+  "name": "佐渡海府海岸",
+  "where": "佐渡市"
+ },
+ {
+  "prefecture": "新潟県",
+  "name": "貞観園",
+  "where": "柏崎市"
+ },
+ {
+  "prefecture": "新潟県",
+  "name": "田代の七ツ釜",
+  "where": "中魚沼郡津南町・十日町市"
+ },
+ {
+  "prefecture": "新潟県",
+  "name": "渡辺氏庭園",
+  "where": "岩船郡関川村"
+ },
+ {
+  "prefecture": "新潟県",
+  "name": "旧関山宝蔵院庭園",
+  "where": "妙高市"
+ },
+ {
+  "prefecture": "新潟県",
+  "name": "旧齋藤氏別邸庭園",
+  "where": "新潟市中央区"
+ },
+ {
+  "prefecture": "新潟県",
+  "name": "白山公園",
+  "where": "新潟市中央区"
+ },
+ {
+  "prefecture": "富山県",
+  "name": "黒部峡谷 附 猿飛ならびに奥鐘山",
+  "where": "中新川郡立山町・黒部市"
+ },
+ {
+  "prefecture": "富山県",
+  "name": "称名滝",
+  "where": "立山町"
+ },
+ {
+  "prefecture": "石川県",
+  "name": "兼六園",
+  "where": "金沢市"
+ },
+ {
+  "prefecture": "石川県",
+  "name": "旧松波城庭園",
+  "where": "鳳珠郡能登町"
+ },
+ {
+  "prefecture": "石川県",
+  "name": "時国氏庭園",
+  "where": "輪島市"
+ },
+ {
+  "prefecture": "石川県",
+  "name": "上時国氏庭園",
+  "where": "輪島市"
+ },
+ {
+  "prefecture": "石川県",
+  "name": "白米の千枚田",
+  "where": "輪島市"
+ },
+ {
+  "prefecture": "石川県",
+  "name": "曽々木海岸",
+  "where": "輪島市"
+ },
+ {
+  "prefecture": "石川県",
+  "name": "末浄水場園地",
+  "where": "金沢市"
+ },
+ {
+  "prefecture": "石川県",
+  "name": "成巽閣庭園",
+  "where": "金沢市"
+ },
+ {
+  "prefecture": "石川県",
+  "name": "那谷寺庫裡庭園",
+  "where": "小松市"
+ },
+ {
+  "prefecture": "石川県",
+  "name": "西氏庭園",
+  "where": "金沢市"
+ },
+ {
+  "prefecture": "福井県",
+  "name": "一乗谷朝倉氏庭園",
+  "where": "福井市"
+ },
+ {
+  "prefecture": "福井県",
+  "name": "伊藤氏庭園",
+  "where": "南条郡南越前町"
+ },
+ {
+  "prefecture": "福井県",
+  "name": "梅田氏庭園",
+  "where": "今立郡池田町"
+ },
+ {
+  "prefecture": "福井県",
+  "name": "旧玄成院庭園",
+  "where": "勝山市"
+ },
+ {
+  "prefecture": "福井県",
+  "name": "気比の松原",
+  "where": "敦賀市"
+ },
+ {
+  "prefecture": "福井県",
+  "name": "西福寺書院庭園",
+  "where": "敦賀市"
+ },
+ {
+  "prefecture": "福井県",
+  "name": "柴田氏庭園",
+  "where": "敦賀市"
+ },
+ {
+  "prefecture": "福井県",
+  "name": "城福寺庭園",
+  "where": "越前市"
+ },
+ {
+  "prefecture": "福井県",
+  "name": "滝谷寺庭園",
+  "where": "坂井市"
+ },
+ {
+  "prefecture": "福井県",
+  "name": "東尋坊",
+  "where": "坂井市"
+ },
+ {
+  "prefecture": "福井県",
+  "name": "萬徳寺庭園",
+  "where": "小浜市"
+ },
+ {
+  "prefecture": "福井県",
+  "name": "三方五湖",
+  "where": "三方上中郡若狭町"
+ },
+ {
+  "prefecture": "福井県",
+  "name": "養浩館",
+  "where": "旧御泉水屋敷"
+ },
+ {
+  "prefecture": "福井県",
+  "name": "若狭蘇洞門",
+  "where": "小浜市"
+ },
+ {
+  "prefecture": "福井県",
+  "name": "三田村氏庭園",
+  "where": "越前市"
+ },
+ {
+  "prefecture": "山梨県",
+  "name": "御嶽昇仙峡",
+  "where": "甲府市・甲斐市"
+ },
+ {
+  "prefecture": "山梨県",
+  "name": "恵林寺庭園",
+  "where": "甲州市"
+ },
+ {
+  "prefecture": "山梨県",
+  "name": "向嶽寺庭園",
+  "where": "甲州市"
+ },
+ {
+  "prefecture": "山梨県",
+  "name": "猿橋",
+  "where": "大月市"
+ },
+ {
+  "prefecture": "山梨県",
+  "name": "富士五湖",
+  "where": "南都留郡富士河口湖町・同山中湖村・南巨摩郡身延町"
+ },
+ {
+  "prefecture": "山梨県",
+  "name": "山中湖",
+  "where": ""
+ },
+ {
+  "prefecture": "山梨県",
+  "name": "河口湖",
+  "where": ""
+ },
+ {
+  "prefecture": "山梨県",
+  "name": "西湖",
+  "where": ""
+ },
+ {
+  "prefecture": "山梨県",
+  "name": "精進湖",
+  "where": ""
+ },
+ {
+  "prefecture": "山梨県",
+  "name": "本栖湖",
+  "where": ""
+ },
+ {
+  "prefecture": "長野県",
+  "name": "上高地",
+  "where": "松本市"
+ },
+ {
+  "prefecture": "長野県",
+  "name": "姨捨",
+  "where": "田毎の月"
+ },
+ {
+  "prefecture": "長野県",
+  "name": "光前寺庭園",
+  "where": "駒ヶ根市"
+ },
+ {
+  "prefecture": "長野県",
+  "name": "天龍峡",
+  "where": "飯田市"
+ },
+ {
+  "prefecture": "長野県",
+  "name": "寝覚の床",
+  "where": "木曽郡上松町"
+ },
+ {
+  "prefecture": "長野県",
+  "name": "米子瀑布群",
+  "where": "須坂市"
+ },
+ {
+  "prefecture": "岐阜県",
+  "name": "東氏館跡庭園",
+  "where": "郡上市"
+ },
+ {
+  "prefecture": "岐阜県",
+  "name": "永保寺庭園",
+  "where": "多治見市"
+ },
+ {
+  "prefecture": "岐阜県",
+  "name": "鬼岩",
+  "where": "可児郡御嵩町・瑞浪市"
+ },
+ {
+  "prefecture": "岐阜県",
+  "name": "霞間ヶ渓",
+  "where": "サクラ"
+ },
+ {
+  "prefecture": "岐阜県",
+  "name": "江馬氏館跡庭園",
+  "where": "飛驒市"
+ },
+ {
+  "prefecture": "岐阜県",
+  "name": "白水滝",
+  "where": "大野郡白川村"
+ },
+ {
+  "prefecture": "静岡県",
+  "name": "伊豆西南海岸",
+  "where": "賀茂郡松崎町・同西伊豆町・同南伊豆町"
+ },
+ {
+  "prefecture": "静岡県",
+  "name": "柴屋寺庭園",
+  "where": "静岡市駿河区"
+ },
+ {
+  "prefecture": "静岡県",
+  "name": "白糸ノ滝",
+  "where": "富士宮市"
+ },
+ {
+  "prefecture": "静岡県",
+  "name": "清見寺庭園",
+  "where": "静岡市清水区"
+ },
+ {
+  "prefecture": "静岡県",
+  "name": "日本平",
+  "where": "静岡市清水区"
+ },
+ {
+  "prefecture": "静岡県",
+  "name": "三保松原",
+  "where": "静岡市清水区"
+ },
+ {
+  "prefecture": "静岡県",
+  "name": "楽寿園",
+  "where": "三島市"
+ },
+ {
+  "prefecture": "静岡県",
+  "name": "竜潭寺庭園",
+  "where": "浜松市浜名区"
+ },
+ {
+  "prefecture": "静岡県",
+  "name": "臨済寺庭園",
+  "where": "静岡市葵区"
+ },
+ {
+  "prefecture": "静岡県",
+  "name": "旧沼津御用邸苑地",
+  "where": "沼津市"
+ },
+ {
+  "prefecture": "愛知県",
+  "name": "阿寺の七滝",
+  "where": "新城市"
+ },
+ {
+  "prefecture": "愛知県",
+  "name": "木曽川堤",
+  "where": "サクラ"
+ },
+ {
+  "prefecture": "愛知県",
+  "name": "乳岩および乳岩峡",
+  "where": "新城市"
+ },
+ {
+  "prefecture": "愛知県",
+  "name": "名古屋城二之丸庭園",
+  "where": "名古屋市中区"
+ },
+ {
+  "prefecture": "愛知県",
+  "name": "鳳来寺山",
+  "where": "新城市"
+ },
+ {
+  "prefecture": "愛知県",
+  "name": "旧龍性院庭園",
+  "where": "豊田市"
+ },
+ {
+  "prefecture": "三重県",
+  "name": "赤目の峡谷",
+  "where": "名張市"
+ },
+ {
+  "prefecture": "三重県",
+  "name": "北畠氏館跡庭園",
+  "where": "津市"
+ },
+ {
+  "prefecture": "三重県",
+  "name": "旧諸戸氏庭園",
+  "where": "桑名市"
+ },
+ {
+  "prefecture": "三重県",
+  "name": "熊野の鬼ケ城 附 獅子巖",
+  "where": "熊野市"
+ },
+ {
+  "prefecture": "三重県",
+  "name": "三多気のサクラ",
+  "where": "津市"
+ },
+ {
+  "prefecture": "三重県",
+  "name": "城之越遺跡",
+  "where": "伊賀市"
+ },
+ {
+  "prefecture": "三重県",
+  "name": "二見浦",
+  "where": "伊勢市"
+ },
+ {
+  "prefecture": "三重県",
+  "name": "諸戸氏庭園",
+  "where": "桑名市"
+ },
+ {
+  "prefecture": "滋賀県",
+  "name": "円満院庭園",
+  "where": "大津市"
+ },
+ {
+  "prefecture": "滋賀県",
+  "name": "大角氏庭園",
+  "where": "栗東市"
+ },
+ {
+  "prefecture": "滋賀県",
+  "name": "延暦寺坂本里坊庭園",
+  "where": "大津市"
+ },
+ {
+  "prefecture": "滋賀県",
+  "name": "雙厳院庭園",
+  "where": ""
+ },
+ {
+  "prefecture": "滋賀県",
+  "name": "宝積院庭園",
+  "where": ""
+ },
+ {
+  "prefecture": "滋賀県",
+  "name": "滋賀院門跡庭園",
+  "where": ""
+ },
+ {
+  "prefecture": "滋賀県",
+  "name": "佛乗院庭園",
+  "where": ""
+ },
+ {
+  "prefecture": "滋賀県",
+  "name": "旧白毫院庭園",
+  "where": ""
+ },
+ {
+  "prefecture": "滋賀県",
+  "name": "旧竹林院庭園",
+  "where": ""
+ },
+ {
+  "prefecture": "滋賀県",
+  "name": "蓮華院庭園",
+  "where": ""
+ },
+ {
+  "prefecture": "滋賀県",
+  "name": "律院庭園",
+  "where": ""
+ },
+ {
+  "prefecture": "滋賀県",
+  "name": "実蔵坊庭園",
+  "where": ""
+ },
+ {
+  "prefecture": "滋賀県",
+  "name": "寿量院庭園",
+  "where": ""
+ },
+ {
+  "prefecture": "滋賀県",
+  "name": "旧秀隣寺庭園",
+  "where": "高島市"
+ },
+ {
+  "prefecture": "滋賀県",
+  "name": "朽木池の沢庭園",
+  "where": "高島市"
+ },
+ {
+  "prefecture": "滋賀県",
+  "name": "旧彦根藩松原下屋敷",
+  "where": "お浜御殿"
+ },
+ {
+  "prefecture": "滋賀県",
+  "name": "居初氏庭園",
+  "where": "大津市"
+ },
+ {
+  "prefecture": "滋賀県",
+  "name": "金剛輪寺明壽院庭園",
+  "where": "愛知郡愛荘町"
+ },
+ {
+  "prefecture": "滋賀県",
+  "name": "慶雲館庭園",
+  "where": "長浜市"
+ },
+ {
+  "prefecture": "滋賀県",
+  "name": "玄宮楽々園",
+  "where": "彦根市"
+ },
+ {
+  "prefecture": "滋賀県",
+  "name": "胡宮神社社務所庭園",
+  "where": "犬上郡多賀町"
+ },
+ {
+  "prefecture": "滋賀県",
+  "name": "光浄院庭園",
+  "where": "大津市"
+ },
+ {
+  "prefecture": "滋賀県",
+  "name": "浄信寺庭園",
+  "where": "長浜市"
+ },
+ {
+  "prefecture": "滋賀県",
+  "name": "西明寺本坊庭園",
+  "where": "犬上郡甲良町"
+ },
+ {
+  "prefecture": "滋賀県",
+  "name": "醒井峡谷",
+  "where": "米原市"
+ },
+ {
+  "prefecture": "滋賀県",
+  "name": "青岸寺庭園",
+  "where": "米原市"
+ },
+ {
+  "prefecture": "滋賀県",
+  "name": "善法院庭園",
+  "where": "大津市"
+ },
+ {
+  "prefecture": "滋賀県",
+  "name": "大通寺含山軒および蘭亭庭園",
+  "where": "長浜市"
+ },
+ {
+  "prefecture": "滋賀県",
+  "name": "多賀大社庭園",
+  "where": "多賀町"
+ },
+ {
+  "prefecture": "滋賀県",
+  "name": "竹生島",
+  "where": "長浜市"
+ },
+ {
+  "prefecture": "滋賀県",
+  "name": "兵主神社庭園",
+  "where": "野洲市"
+ },
+ {
+  "prefecture": "滋賀県",
+  "name": "福田寺庭園",
+  "where": "米原市"
+ },
+ {
+  "prefecture": "京都府",
+  "name": "天橋立",
+  "where": "宮津市"
+ },
+ {
+  "prefecture": "京都府",
+  "name": "浄瑠璃寺庭園",
+  "where": "木津川市"
+ },
+ {
+  "prefecture": "京都府",
+  "name": "金地院庭園",
+  "where": "京都市左京区"
+ },
+ {
+  "prefecture": "京都府",
+  "name": "西芳寺庭園",
+  "where": "京都市西京区"
+ },
+ {
+  "prefecture": "京都府",
+  "name": "慈照寺",
+  "where": "銀閣寺"
+ },
+ {
+  "prefecture": "京都府",
+  "name": "醍醐寺三宝院庭園",
+  "where": "京都市伏見区"
+ },
+ {
+  "prefecture": "京都府",
+  "name": "大仙院書院庭園",
+  "where": "京都市北区"
+ },
+ {
+  "prefecture": "京都府",
+  "name": "大徳寺方丈庭園",
+  "where": "京都市北区"
+ },
+ {
+  "prefecture": "京都府",
+  "name": "天龍寺庭園",
+  "where": "京都市右京区"
+ },
+ {
+  "prefecture": "京都府",
+  "name": "二条城二之丸庭園",
+  "where": "京都市中京区"
+ },
+ {
+  "prefecture": "京都府",
+  "name": "法金剛院青女滝 附 五位山",
+  "where": "京都市右京区"
+ },
+ {
+  "prefecture": "京都府",
+  "name": "本願寺大書院庭園",
+  "where": "京都市下京区"
+ },
+ {
+  "prefecture": "京都府",
+  "name": "龍安寺方丈庭園",
+  "where": "京都市右京区"
+ },
+ {
+  "prefecture": "京都府",
+  "name": "鹿苑寺",
+  "where": "金閣寺"
+ },
+ {
+  "prefecture": "京都府",
+  "name": "琴引浜",
+  "where": "京丹後市"
+ },
+ {
+  "prefecture": "京都府",
+  "name": "松花堂及び書院庭園",
+  "where": "八幡市"
+ },
+ {
+  "prefecture": "京都府",
+  "name": "嵐山",
+  "where": "京都市右京区・西京区"
+ },
+ {
+  "prefecture": "京都府",
+  "name": "円山公園",
+  "where": "京都市東山区"
+ },
+ {
+  "prefecture": "京都府",
+  "name": "円通寺庭園",
+  "where": "京都市左京区"
+ },
+ {
+  "prefecture": "京都府",
+  "name": "燕庵庭園",
+  "where": "京都市下京区"
+ },
+ {
+  "prefecture": "京都府",
+  "name": "大沢池附名古曽滝跡",
+  "where": "京都市右京区"
+ },
+ {
+  "prefecture": "京都府",
+  "name": "御室",
+  "where": "サクラ"
+ },
+ {
+  "prefecture": "京都府",
+  "name": "笠置山",
+  "where": "相楽郡笠置町"
+ },
+ {
+  "prefecture": "京都府",
+  "name": "旧円徳院庭園",
+  "where": "京都市東山区"
+ },
+ {
+  "prefecture": "京都府",
+  "name": "玉鳳院庭園",
+  "where": "京都市右京区"
+ },
+ {
+  "prefecture": "京都府",
+  "name": "桂春院庭園",
+  "where": "京都市右京区"
+ },
+ {
+  "prefecture": "京都府",
+  "name": "高台寺庭園",
+  "where": "京都市東山区"
+ },
+ {
+  "prefecture": "京都府",
+  "name": "孤篷庵庭園",
+  "where": "京都市北区"
+ },
+ {
+  "prefecture": "京都府",
+  "name": "今日庵",
+  "where": "裏千家"
+ },
+ {
+  "prefecture": "京都府",
+  "name": "酬恩庵庭園",
+  "where": "京田辺市"
+ },
+ {
+  "prefecture": "京都府",
+  "name": "聚光院庭園",
+  "where": "京都市北区"
+ },
+ {
+  "prefecture": "京都府",
+  "name": "成就院庭園",
+  "where": "京都市東山区"
+ },
+ {
+  "prefecture": "京都府",
+  "name": "渉成園",
+  "where": "京都市下京区"
+ },
+ {
+  "prefecture": "京都府",
+  "name": "照福寺庭園",
+  "where": "綾部市"
+ },
+ {
+  "prefecture": "京都府",
+  "name": "真珠庵庭園",
+  "where": "京都市北区"
+ },
+ {
+  "prefecture": "京都府",
+  "name": "杉本氏庭園",
+  "where": "京都市下京区"
+ },
+ {
+  "prefecture": "京都府",
+  "name": "清風荘庭園",
+  "where": "京都市左京区"
+ },
+ {
+  "prefecture": "京都府",
+  "name": "大仙院庭園",
+  "where": "京都市北区"
+ },
+ {
+  "prefecture": "京都府",
+  "name": "退蔵院庭園",
+  "where": "京都市右京区"
+ },
+ {
+  "prefecture": "京都府",
+  "name": "對龍山荘庭園",
+  "where": "京都市左京区"
+ },
+ {
+  "prefecture": "京都府",
+  "name": "智積院庭園",
+  "where": "京都市東山区"
+ },
+ {
+  "prefecture": "京都府",
+  "name": "滴翠園",
+  "where": "京都市下京区"
+ },
+ {
+  "prefecture": "京都府",
+  "name": "東海庵書院庭園",
+  "where": "京都市右京区"
+ },
+ {
+  "prefecture": "京都府",
+  "name": "雙ヶ岡",
+  "where": "京都市右京区"
+ },
+ {
+  "prefecture": "京都府",
+  "name": "南禅院庭園",
+  "where": "京都市左京区"
+ },
+ {
+  "prefecture": "京都府",
+  "name": "南禅寺方丈庭園",
+  "where": "京都市左京区"
+ },
+ {
+  "prefecture": "京都府",
+  "name": "白沙村荘庭園",
+  "where": "京都市左京区"
+ },
+ {
+  "prefecture": "京都府",
+  "name": "平等院庭園",
+  "where": "宇治市"
+ },
+ {
+  "prefecture": "京都府",
+  "name": "不審庵",
+  "where": "表千家"
+ },
+ {
+  "prefecture": "京都府",
+  "name": "平安神宮神苑",
+  "where": "京都市左京区"
+ },
+ {
+  "prefecture": "京都府",
+  "name": "本法寺庭園",
+  "where": "京都市上京区"
+ },
+ {
+  "prefecture": "京都府",
+  "name": "曼殊院書院庭園",
+  "where": "京都市左京区"
+ },
+ {
+  "prefecture": "京都府",
+  "name": "妙心寺庭園",
+  "where": "京都市右京区"
+ },
+ {
+  "prefecture": "京都府",
+  "name": "無鄰庵庭園",
+  "where": "京都市左京区"
+ },
+ {
+  "prefecture": "京都府",
+  "name": "龍安寺庭園",
+  "where": "京都市右京区"
+ },
+ {
+  "prefecture": "京都府",
+  "name": "瑠璃渓",
+  "where": "南丹市"
+ },
+ {
+  "prefecture": "京都府",
+  "name": "霊雲院庭園",
+  "where": "京都市右京区"
+ },
+ {
+  "prefecture": "京都府",
+  "name": "霊洞院庭園",
+  "where": "京都市東山区"
+ },
+ {
+  "prefecture": "京都府",
+  "name": "東福寺本坊庭園",
+  "where": "京都市東山区"
+ },
+ {
+  "prefecture": "京都府",
+  "name": "宇治山",
+  "where": "宇治市"
+ },
+ {
+  "prefecture": "京都府",
+  "name": "知恩院方丈庭園",
+  "where": "京都市東山区"
+ },
+ {
+  "prefecture": "京都府",
+  "name": "仁和寺御所庭園",
+  "where": "京都市右京区"
+ },
+ {
+  "prefecture": "大阪府",
+  "name": "南宗寺庭園",
+  "where": "堺市堺区"
+ },
+ {
+  "prefecture": "大阪府",
+  "name": "普門寺庭園",
+  "where": "高槻市"
+ },
+ {
+  "prefecture": "大阪府",
+  "name": "箕面山",
+  "where": "箕面市"
+ },
+ {
+  "prefecture": "大阪府",
+  "name": "龍泉寺庭園",
+  "where": "富田林市"
+ },
+ {
+  "prefecture": "大阪府",
+  "name": "岸和田城庭園",
+  "where": "八陣の庭"
+ },
+ {
+  "prefecture": "大阪府",
+  "name": "西山氏庭園",
+  "where": "青龍庭"
+ },
+ {
+  "prefecture": "兵庫県",
+  "name": "安養院庭園",
+  "where": "神戸市西区"
+ },
+ {
+  "prefecture": "兵庫県",
+  "name": "旧赤穂城庭園",
+  "where": "赤穂市"
+ },
+ {
+  "prefecture": "兵庫県",
+  "name": "本丸庭園",
+  "where": ""
+ },
+ {
+  "prefecture": "兵庫県",
+  "name": "二之丸庭園",
+  "where": ""
+ },
+ {
+  "prefecture": "兵庫県",
+  "name": "香住海岸",
+  "where": "美方郡香美町"
+ },
+ {
+  "prefecture": "兵庫県",
+  "name": "旧大岡寺庭園",
+  "where": "豊岡市"
+ },
+ {
+  "prefecture": "兵庫県",
+  "name": "慶野松原",
+  "where": "南あわじ市"
+ },
+ {
+  "prefecture": "兵庫県",
+  "name": "但馬御火浦",
+  "where": "美方郡新温泉町・同香美町"
+ },
+ {
+  "prefecture": "兵庫県",
+  "name": "田淵氏庭園",
+  "where": "赤穂市"
+ },
+ {
+  "prefecture": "兵庫県",
+  "name": "再度公園・再度山永久植生保存地・神戸外国人墓地",
+  "where": "神戸市北区"
+ },
+ {
+  "prefecture": "兵庫県",
+  "name": "旧益習館庭園",
+  "where": "洲本市"
+ },
+ {
+  "prefecture": "奈良県",
+  "name": "平城京左京三条二坊宮跡庭園",
+  "where": "奈良市"
+ },
+ {
+  "prefecture": "奈良県",
+  "name": "平城宮東院庭園",
+  "where": "奈良市"
+ },
+ {
+  "prefecture": "奈良県",
+  "name": "飛鳥京跡苑池",
+  "where": "高市郡明日香村"
+ },
+ {
+  "prefecture": "奈良県",
+  "name": "依水園",
+  "where": "奈良市"
+ },
+ {
+  "prefecture": "奈良県",
+  "name": "円成寺庭園",
+  "where": "奈良市"
+ },
+ {
+  "prefecture": "奈良県",
+  "name": "旧大乗院庭園",
+  "where": "奈良市"
+ },
+ {
+  "prefecture": "奈良県",
+  "name": "慈光院庭園",
+  "where": "大和郡山市"
+ },
+ {
+  "prefecture": "奈良県",
+  "name": "当麻寺中之坊庭園",
+  "where": "葛城市"
+ },
+ {
+  "prefecture": "奈良県",
+  "name": "月瀬梅林",
+  "where": "奈良市"
+ },
+ {
+  "prefecture": "奈良県",
+  "name": "奈良公園",
+  "where": "奈良市"
+ },
+ {
+  "prefecture": "奈良県",
+  "name": "法華寺庭園",
+  "where": "奈良市"
+ },
+ {
+  "prefecture": "奈良県",
+  "name": "大和三山",
+  "where": "橿原市"
+ },
+ {
+  "prefecture": "奈良県",
+  "name": "香具山",
+  "where": ""
+ },
+ {
+  "prefecture": "奈良県",
+  "name": "畝傍山",
+  "where": ""
+ },
+ {
+  "prefecture": "奈良県",
+  "name": "耳成山",
+  "where": ""
+ },
+ {
+  "prefecture": "奈良県",
+  "name": "吉野山",
+  "where": "吉野郡吉野町"
+ },
+ {
+  "prefecture": "和歌山県",
+  "name": "粉河寺庭園",
+  "where": "紀の川市"
+ },
+ {
+  "prefecture": "和歌山県",
+  "name": "琴ノ浦温山荘庭園",
+  "where": "海南市"
+ },
+ {
+  "prefecture": "和歌山県",
+  "name": "天徳院庭園",
+  "where": "伊都郡高野町高野山山内"
+ },
+ {
+  "prefecture": "和歌山県",
+  "name": "那智大滝",
+  "where": "東牟婁郡那智勝浦町"
+ },
+ {
+  "prefecture": "和歌山県",
+  "name": "根来寺庭園",
+  "where": "岩出市"
+ },
+ {
+  "prefecture": "和歌山県",
+  "name": "橋杭岩",
+  "where": "東牟婁郡串本町"
+ },
+ {
+  "prefecture": "和歌山県",
+  "name": "養翠園",
+  "where": "和歌山市"
+ },
+ {
+  "prefecture": "和歌山県",
+  "name": "和歌山城西之丸庭園",
+  "where": "紅葉溪庭園"
+ },
+ {
+  "prefecture": "和歌山県",
+  "name": "和歌の浦",
+  "where": "和歌山市"
+ },
+ {
+  "prefecture": "和歌山県",
+  "name": "円月島",
+  "where": "高嶋"
+ },
+ {
+  "prefecture": "和歌山県",
+  "name": "南方曼陀羅の風景地",
+  "where": "田辺市・西牟婁郡白浜町・同上富田町・東牟婁郡串本町"
+ },
+ {
+  "prefecture": "和歌山県",
+  "name": "神島",
+  "where": ""
+ },
+ {
+  "prefecture": "和歌山県",
+  "name": "鬪雞神社",
+  "where": ""
+ },
+ {
+  "prefecture": "和歌山県",
+  "name": "須佐神社",
+  "where": ""
+ },
+ {
+  "prefecture": "和歌山県",
+  "name": "伊作田稲荷神社",
+  "where": ""
+ },
+ {
+  "prefecture": "和歌山県",
+  "name": "継桜王子",
+  "where": ""
+ },
+ {
+  "prefecture": "和歌山県",
+  "name": "高原熊野神社",
+  "where": ""
+ },
+ {
+  "prefecture": "和歌山県",
+  "name": "奇絶峡",
+  "where": ""
+ },
+ {
+  "prefecture": "和歌山県",
+  "name": "龍神山",
+  "where": ""
+ },
+ {
+  "prefecture": "和歌山県",
+  "name": "八上神社",
+  "where": ""
+ },
+ {
+  "prefecture": "和歌山県",
+  "name": "田中神社",
+  "where": ""
+ },
+ {
+  "prefecture": "和歌山県",
+  "name": "九龍島",
+  "where": ""
+ },
+ {
+  "prefecture": "和歌山県",
+  "name": "金刀比羅神社",
+  "where": ""
+ },
+ {
+  "prefecture": "和歌山県",
+  "name": "天神崎",
+  "where": ""
+ },
+ {
+  "prefecture": "鳥取県",
+  "name": "浦富海岸",
+  "where": "岩美郡岩美町"
+ },
+ {
+  "prefecture": "鳥取県",
+  "name": "尾崎氏庭園",
+  "where": "東伯郡湯梨浜町"
+ },
+ {
+  "prefecture": "鳥取県",
+  "name": "小鹿渓",
+  "where": "東伯郡三朝町"
+ },
+ {
+  "prefecture": "鳥取県",
+  "name": "観音院庭園",
+  "where": "鳥取市"
+ },
+ {
+  "prefecture": "鳥取県",
+  "name": "深田氏庭園",
+  "where": "米子市"
+ },
+ {
+  "prefecture": "鳥取県",
+  "name": "三徳山",
+  "where": "東伯郡三朝町"
+ },
+ {
+  "prefecture": "島根県",
+  "name": "医光寺庭園",
+  "where": "益田市"
+ },
+ {
+  "prefecture": "島根県",
+  "name": "隠岐国賀海岸",
+  "where": "隠岐郡西ノ島町"
+ },
+ {
+  "prefecture": "島根県",
+  "name": "隠岐知夫赤壁",
+  "where": "隠岐郡知夫村"
+ },
+ {
+  "prefecture": "島根県",
+  "name": "隠岐白島海岸",
+  "where": "隠岐郡隠岐の島町"
+ },
+ {
+  "prefecture": "島根県",
+  "name": "隠岐布施海岸",
+  "where": "隠岐の島町"
+ },
+ {
+  "prefecture": "島根県",
+  "name": "隠岐海苔田ノ鼻",
+  "where": "隠岐の島町"
+ },
+ {
+  "prefecture": "島根県",
+  "name": "鬼舌振",
+  "where": "仁多郡奥出雲町"
+ },
+ {
+  "prefecture": "島根県",
+  "name": "菅田庵",
+  "where": "松江市"
+ },
+ {
+  "prefecture": "島根県",
+  "name": "旧堀氏庭園",
+  "where": "鹿足郡津和野町"
+ },
+ {
+  "prefecture": "島根県",
+  "name": "潜戸",
+  "where": "松江市"
+ },
+ {
+  "prefecture": "島根県",
+  "name": "千丈溪",
+  "where": "江津市・邑智郡邑南町"
+ },
+ {
+  "prefecture": "島根県",
+  "name": "立久恵",
+  "where": "出雲市"
+ },
+ {
+  "prefecture": "島根県",
+  "name": "断魚渓",
+  "where": "邑南町"
+ },
+ {
+  "prefecture": "島根県",
+  "name": "万福寺庭園",
+  "where": "益田市"
+ },
+ {
+  "prefecture": "島根県",
+  "name": "美保の北浦",
+  "where": "松江市"
+ },
+ {
+  "prefecture": "島根県",
+  "name": "櫻井氏庭園",
+  "where": "仁多郡奥出雲町"
+ },
+ {
+  "prefecture": "島根県",
+  "name": "青野山",
+  "where": "鹿足郡津和野町"
+ },
+ {
+  "prefecture": "岡山県",
+  "name": "岡山後楽園",
+  "where": "岡山市"
+ },
+ {
+  "prefecture": "岡山県",
+  "name": "磐窟谷",
+  "where": "高梁市"
+ },
+ {
+  "prefecture": "岡山県",
+  "name": "奥津渓",
+  "where": "苫田郡鏡野町"
+ },
+ {
+  "prefecture": "岡山県",
+  "name": "鬼ヶ嶽",
+  "where": "井原市美星町烏頭・小田郡矢掛町上高末"
+ },
+ {
+  "prefecture": "岡山県",
+  "name": "応神山",
+  "where": "笠岡市"
+ },
+ {
+  "prefecture": "岡山県",
+  "name": "神庭瀑",
+  "where": "真庭市"
+ },
+ {
+  "prefecture": "岡山県",
+  "name": "旧津山藩別邸庭園",
+  "where": "衆楽園"
+ },
+ {
+  "prefecture": "岡山県",
+  "name": "豪渓",
+  "where": "総社市・加賀郡吉備中央町"
+ },
+ {
+  "prefecture": "岡山県",
+  "name": "下津井鷲羽山",
+  "where": "倉敷市"
+ },
+ {
+  "prefecture": "岡山県",
+  "name": "白石島",
+  "where": "笠岡市"
+ },
+ {
+  "prefecture": "岡山県",
+  "name": "高島",
+  "where": "笠岡市"
+ },
+ {
+  "prefecture": "岡山県",
+  "name": "頼久寺庭園",
+  "where": "高梁市"
+ },
+ {
+  "prefecture": "広島県",
+  "name": "厳島",
+  "where": "廿日市市"
+ },
+ {
+  "prefecture": "広島県",
+  "name": "三段峡",
+  "where": "山県郡安芸太田町・同北広島町"
+ },
+ {
+  "prefecture": "広島県",
+  "name": "吉川元春館跡庭園",
+  "where": "北広島町"
+ },
+ {
+  "prefecture": "広島県",
+  "name": "旧万徳院庭園",
+  "where": "北広島町"
+ },
+ {
+  "prefecture": "広島県",
+  "name": "縮景園",
+  "where": "広島市中区"
+ },
+ {
+  "prefecture": "広島県",
+  "name": "浄土寺庭園",
+  "where": "尾道市"
+ },
+ {
+  "prefecture": "広島県",
+  "name": "帝釈川の谷",
+  "where": "帝釈峡"
+ },
+ {
+  "prefecture": "広島県",
+  "name": "鞆公園",
+  "where": "福山市"
+ },
+ {
+  "prefecture": "広島県",
+  "name": "平和記念公園",
+  "where": "広島市中区"
+ },
+ {
+  "prefecture": "山口県",
+  "name": "青海島",
+  "where": "長門市"
+ },
+ {
+  "prefecture": "山口県",
+  "name": "錦帯橋",
+  "where": "岩国市"
+ },
+ {
+  "prefecture": "山口県",
+  "name": "狗留孫山",
+  "where": "下関市"
+ },
+ {
+  "prefecture": "山口県",
+  "name": "常栄寺庭園",
+  "where": "山口市"
+ },
+ {
+  "prefecture": "山口県",
+  "name": "常徳寺庭園",
+  "where": "山口市"
+ },
+ {
+  "prefecture": "山口県",
+  "name": "宗隣寺庭園",
+  "where": "宇部市"
+ },
+ {
+  "prefecture": "山口県",
+  "name": "須佐湾",
+  "where": "萩市"
+ },
+ {
+  "prefecture": "山口県",
+  "name": "石柱渓",
+  "where": "下関市"
+ },
+ {
+  "prefecture": "山口県",
+  "name": "俵島",
+  "where": "長門市"
+ },
+ {
+  "prefecture": "山口県",
+  "name": "長門峡",
+  "where": "山口市・萩市"
+ },
+ {
+  "prefecture": "山口県",
+  "name": "毛利氏庭園",
+  "where": "防府市"
+ },
+ {
+  "prefecture": "山口県",
+  "name": "龍宮の潮吹",
+  "where": "長門市"
+ },
+ {
+  "prefecture": "山口県",
+  "name": "徳佐",
+  "where": "サクラ"
+ },
+ {
+  "prefecture": "徳島県",
+  "name": "阿波国分寺庭園",
+  "where": "徳島市"
+ },
+ {
+  "prefecture": "徳島県",
+  "name": "旧徳島城表御殿庭園",
+  "where": "徳島市"
+ },
+ {
+  "prefecture": "徳島県",
+  "name": "鳴門",
+  "where": "鳴門市"
+ },
+ {
+  "prefecture": "徳島県",
+  "name": "大歩危小歩危",
+  "where": "三好市"
+ },
+ {
+  "prefecture": "香川県",
+  "name": "栗林公園",
+  "where": "高松市"
+ },
+ {
+  "prefecture": "香川県",
+  "name": "神懸山",
+  "where": "寒霞渓"
+ },
+ {
+  "prefecture": "香川県",
+  "name": "琴弾公園",
+  "where": "観音寺市"
+ },
+ {
+  "prefecture": "香川県",
+  "name": "象頭山",
+  "where": "仲多度郡琴平町"
+ },
+ {
+  "prefecture": "香川県",
+  "name": "披雲閣庭園",
+  "where": "高松市"
+ },
+ {
+  "prefecture": "香川県",
+  "name": "満濃池",
+  "where": "仲多度郡まんのう町"
+ },
+ {
+  "prefecture": "愛媛県",
+  "name": "岩屋",
+  "where": "上浮穴郡久万高原町"
+ },
+ {
+  "prefecture": "愛媛県",
+  "name": "大三島",
+  "where": "今治市"
+ },
+ {
+  "prefecture": "愛媛県",
+  "name": "面河渓",
+  "where": "上浮穴郡久万高原町"
+ },
+ {
+  "prefecture": "愛媛県",
+  "name": "志島ヶ原",
+  "where": "今治市"
+ },
+ {
+  "prefecture": "愛媛県",
+  "name": "千疋のサクラ",
+  "where": "今治市"
+ },
+ {
+  "prefecture": "愛媛県",
+  "name": "天赦園",
+  "where": "宇和島市"
+ },
+ {
+  "prefecture": "愛媛県",
+  "name": "波止浜",
+  "where": "今治市"
+ },
+ {
+  "prefecture": "愛媛県",
+  "name": "八幡山",
+  "where": "今治市"
+ },
+ {
+  "prefecture": "愛媛県",
+  "name": "古岩屋",
+  "where": "久万高原町"
+ },
+ {
+  "prefecture": "愛媛県",
+  "name": "保国寺庭園",
+  "where": "西条市"
+ },
+ {
+  "prefecture": "愛媛県",
+  "name": "星ヶ森",
+  "where": "横峰寺石鎚山遥拝所"
+ },
+ {
+  "prefecture": "愛媛県",
+  "name": "旧広瀬氏庭園",
+  "where": "新居浜市"
+ },
+ {
+  "prefecture": "愛媛県",
+  "name": "臥龍山荘庭園",
+  "where": "大洲市"
+ },
+ {
+  "prefecture": "高知県",
+  "name": "入野松原",
+  "where": "幡多郡黒潮町"
+ },
+ {
+  "prefecture": "高知県",
+  "name": "竹林寺庭園",
+  "where": "高知市"
+ },
+ {
+  "prefecture": "高知県",
+  "name": "室戸岬",
+  "where": "室戸市"
+ },
+ {
+  "prefecture": "福岡県",
+  "name": "英彦山庭園",
+  "where": "田川郡添田町"
+ },
+ {
+  "prefecture": "福岡県",
+  "name": "旧座主院御本坊庭園",
+  "where": ""
+ },
+ {
+  "prefecture": "福岡県",
+  "name": "旧座主院御下屋庭園",
+  "where": ""
+ },
+ {
+  "prefecture": "福岡県",
+  "name": "旧政所坊庭園",
+  "where": ""
+ },
+ {
+  "prefecture": "福岡県",
+  "name": "旧亀石坊庭園",
+  "where": ""
+ },
+ {
+  "prefecture": "福岡県",
+  "name": "旧泉蔵坊庭園",
+  "where": ""
+ },
+ {
+  "prefecture": "福岡県",
+  "name": "旧顕揚坊庭園",
+  "where": ""
+ },
+ {
+  "prefecture": "福岡県",
+  "name": "英彦山神宮旅殿庭園",
+  "where": ""
+ },
+ {
+  "prefecture": "福岡県",
+  "name": "戸島氏庭園",
+  "where": "柳川市"
+ },
+ {
+  "prefecture": "福岡県",
+  "name": "立花氏庭園",
+  "where": "柳川市"
+ },
+ {
+  "prefecture": "福岡県",
+  "name": "清水寺本坊庭園",
+  "where": "みやま市"
+ },
+ {
+  "prefecture": "福岡県",
+  "name": "藤江氏魚楽園",
+  "where": "田川郡川崎町"
+ },
+ {
+  "prefecture": "福岡県",
+  "name": "旧伊藤傳右エ門氏庭園",
+  "where": "飯塚市"
+ },
+ {
+  "prefecture": "福岡県",
+  "name": "水郷柳河",
+  "where": "柳川市"
+ },
+ {
+  "prefecture": "福岡県",
+  "name": "旧藏内氏庭園",
+  "where": "築上郡築上町"
+ },
+ {
+  "prefecture": "佐賀県",
+  "name": "虹の松原",
+  "where": "唐津市"
+ },
+ {
+  "prefecture": "佐賀県",
+  "name": "九年庵",
+  "where": "旧伊丹氏別邸"
+ },
+ {
+  "prefecture": "長崎県",
+  "name": "温泉岳",
+  "where": "雲仙市"
+ },
+ {
+  "prefecture": "長崎県",
+  "name": "石田城五島氏庭園",
+  "where": "五島市"
+ },
+ {
+  "prefecture": "長崎県",
+  "name": "旧円融寺庭園",
+  "where": "大村市"
+ },
+ {
+  "prefecture": "長崎県",
+  "name": "旧金石城庭園",
+  "where": "対馬市"
+ },
+ {
+  "prefecture": "長崎県",
+  "name": "棲霞園及び梅ヶ谷津偕楽園",
+  "where": "平戸市"
+ },
+ {
+  "prefecture": "長崎県",
+  "name": "三井楽",
+  "where": "みみらくのしま"
+ },
+ {
+  "prefecture": "長崎県",
+  "name": "平戸領地方八竒勝",
+  "where": "平戸八景"
+ },
+ {
+  "prefecture": "長崎県",
+  "name": "髙巌",
+  "where": ""
+ },
+ {
+  "prefecture": "長崎県",
+  "name": "潜龍水",
+  "where": ""
+ },
+ {
+  "prefecture": "長崎県",
+  "name": "石橋",
+  "where": ""
+ },
+ {
+  "prefecture": "長崎県",
+  "name": "大悲観",
+  "where": ""
+ },
+ {
+  "prefecture": "長崎県",
+  "name": "巌屋宮",
+  "where": ""
+ },
+ {
+  "prefecture": "長崎県",
+  "name": "福石山",
+  "where": ""
+ },
+ {
+  "prefecture": "長崎県",
+  "name": "潮之目",
+  "where": ""
+ },
+ {
+  "prefecture": "熊本県",
+  "name": "旧熊本藩八代城主浜御茶屋",
+  "where": "松浜軒"
+ },
+ {
+  "prefecture": "熊本県",
+  "name": "不知火及び水島",
+  "where": "八代市・宇城市"
+ },
+ {
+  "prefecture": "熊本県",
+  "name": "水前寺成趣園",
+  "where": "熊本市"
+ },
+ {
+  "prefecture": "熊本県",
+  "name": "米塚及び草千里ヶ浜",
+  "where": "阿蘇市・阿蘇郡南阿蘇村"
+ },
+ {
+  "prefecture": "熊本県",
+  "name": "千巌山および高舞登山",
+  "where": "上天草市"
+ },
+ {
+  "prefecture": "熊本県",
+  "name": "妙見浦",
+  "where": "天草市"
+ },
+ {
+  "prefecture": "熊本県",
+  "name": "竜ヶ岳",
+  "where": "上天草市"
+ },
+ {
+  "prefecture": "熊本県",
+  "name": "龍仙島",
+  "where": "片島"
+ },
+ {
+  "prefecture": "熊本県",
+  "name": "六郎次山",
+  "where": "天草市"
+ },
+ {
+  "prefecture": "熊本県",
+  "name": "肥後領内名勝地",
+  "where": "上益城郡山都町・八代市・八代郡氷川町・球磨郡球磨村"
+ },
+ {
+  "prefecture": "熊本県",
+  "name": "五郎ガ瀧",
+  "where": ""
+ },
+ {
+  "prefecture": "熊本県",
+  "name": "聖リ瀧",
+  "where": ""
+ },
+ {
+  "prefecture": "熊本県",
+  "name": "走リ水ノ瀧",
+  "where": ""
+ },
+ {
+  "prefecture": "熊本県",
+  "name": "建神ノ岩",
+  "where": ""
+ },
+ {
+  "prefecture": "熊本県",
+  "name": "神ノ瀬ノ岩屋",
+  "where": ""
+ },
+ {
+  "prefecture": "大分県",
+  "name": "別府の地獄",
+  "where": "別府市"
+ },
+ {
+  "prefecture": "大分県",
+  "name": "耶馬渓",
+  "where": "日田市・宇佐市・中津市・玖珠郡"
+ },
+ {
+  "prefecture": "大分県",
+  "name": "旧久留島氏庭園",
+  "where": "玖珠郡玖珠町"
+ },
+ {
+  "prefecture": "大分県",
+  "name": "天念寺耶馬及び無動寺耶馬",
+  "where": "豊後高田市"
+ },
+ {
+  "prefecture": "大分県",
+  "name": "中山仙境",
+  "where": "夷谷"
+ },
+ {
+  "prefecture": "大分県",
+  "name": "文殊耶馬",
+  "where": "国東市"
+ },
+ {
+  "prefecture": "大分県",
+  "name": "納池",
+  "where": "竹田市"
+ },
+ {
+  "prefecture": "宮崎県",
+  "name": "尾鈴山瀑布群",
+  "where": "児湯郡都農町"
+ },
+ {
+  "prefecture": "宮崎県",
+  "name": "五箇瀬川峡谷",
+  "where": "高千穂峡谷"
+ },
+ {
+  "prefecture": "宮崎県",
+  "name": "比叡山および矢筈岳",
+  "where": "延岡市・西臼杵郡日之影町"
+ },
+ {
+  "prefecture": "宮崎県",
+  "name": "妙国寺庭園",
+  "where": "日向市"
+ },
+ {
+  "prefecture": "宮崎県",
+  "name": "鵜戸",
+  "where": "日南市"
+ },
+ {
+  "prefecture": "鹿児島県",
+  "name": "旧島津氏玉里邸庭園",
+  "where": "鹿児島市"
+ },
+ {
+  "prefecture": "鹿児島県",
+  "name": "志布志麓庭園",
+  "where": "志布志市"
+ },
+ {
+  "prefecture": "鹿児島県",
+  "name": "天水氏庭園",
+  "where": ""
+ },
+ {
+  "prefecture": "鹿児島県",
+  "name": "平山氏庭園",
+  "where": ""
+ },
+ {
+  "prefecture": "鹿児島県",
+  "name": "福山氏庭園",
+  "where": ""
+ },
+ {
+  "prefecture": "鹿児島県",
+  "name": "仙巌園附花倉御仮屋庭園",
+  "where": "鹿児島市"
+ },
+ {
+  "prefecture": "鹿児島県",
+  "name": "知覧麓庭園",
+  "where": "南九州市"
+ },
+ {
+  "prefecture": "鹿児島県",
+  "name": "坊津",
+  "where": "南さつま市"
+ },
+ {
+  "prefecture": "沖縄県",
+  "name": "識名園",
+  "where": "那覇市"
+ },
+ {
+  "prefecture": "沖縄県",
+  "name": "伊江御殿別邸庭園",
+  "where": "那覇市"
+ },
+ {
+  "prefecture": "沖縄県",
+  "name": "伊江殿内庭園",
+  "where": "那覇市"
+ },
+ {
+  "prefecture": "沖縄県",
+  "name": "石垣氏庭園",
+  "where": "石垣市"
+ },
+ {
+  "prefecture": "沖縄県",
+  "name": "川平湾及び於茂登岳",
+  "where": "石垣市"
+ },
+ {
+  "prefecture": "沖縄県",
+  "name": "下地島の通り池",
+  "where": "宮古島市"
+ },
+ {
+  "prefecture": "沖縄県",
+  "name": "首里城書院・鎖之間庭園",
+  "where": "那覇市"
+ },
+ {
+  "prefecture": "沖縄県",
+  "name": "東平安名崎",
+  "where": "宮古島市"
+ },
+ {
+  "prefecture": "沖縄県",
+  "name": "八重干瀬",
+  "where": "宮古島市"
+ },
+ {
+  "prefecture": "沖縄県",
+  "name": "宮良殿内庭園",
+  "where": "石垣市"
+ },
+ {
+  "prefecture": "沖縄県",
+  "name": "喜屋武海岸及び荒崎海岸",
+  "where": "糸満市"
+ },
+ {
+  "prefecture": "沖縄県",
+  "name": "久部良バリ及び久部良フリシ",
+  "where": "八重山郡与那国町"
+ },
+ {
+  "prefecture": "沖縄県",
+  "name": "ティンダバナ",
+  "where": "八重山郡与那国町"
+ },
+ {
+  "prefecture": "沖縄県",
+  "name": "アマミクヌムイ",
+  "where": "国頭郡今帰仁村・南城市・浦添市・那覇市"
+ },
+ {
+  "prefecture": "沖縄県",
+  "name": "サンニヌ台",
+  "where": "八重山郡与那国町"
+ },
+ {
+  "prefecture": "沖縄県",
+  "name": "榴ヶ岡",
+  "where": "サクラ"
+ },
+ {
+  "prefecture": "沖縄県",
+  "name": "開成山公園",
+  "where": "サクラ"
+ },
+ {
+  "prefecture": "沖縄県",
+  "name": "熊谷堤",
+  "where": "サクラ"
+ },
+ {
+  "prefecture": "沖縄県",
+  "name": "堀切小高園",
+  "where": "東京都"
+ },
+ {
+  "prefecture": "沖縄県",
+  "name": "荒川堤",
+  "where": "サクラ"
+ },
+ {
+  "prefecture": "沖縄県",
+  "name": "江ノ島",
+  "where": "神奈川県"
+ },
+ {
+  "prefecture": "沖縄県",
+  "name": "男神岩及女神岩",
+  "where": "岩手県"
+ },
+ {
+  "prefecture": "沖縄県",
+  "name": "鳴子峡",
+  "where": "宮城県"
+ },
+ {
+  "prefecture": "沖縄県",
+  "name": "向島百花園",
+  "where": "東京都"
+ },
+ {
+  "prefecture": "沖縄県",
+  "name": "妙厳寺庭園",
+  "where": "愛知県"
+ },
+ {
+  "prefecture": "沖縄県",
+  "name": "熊野浦の獅子巌",
+  "where": "三重県"
+ },
+ {
+  "prefecture": "沖縄県",
+  "name": "海津大崎",
+  "where": "滋賀県"
+ },
+ {
+  "prefecture": "沖縄県",
+  "name": "雄松崎湖畔",
+  "where": "滋賀県"
+ },
+ {
+  "prefecture": "沖縄県",
+  "name": "天徳院庭園",
+  "where": "和歌山県"
+ },
+ {
+  "prefecture": "沖縄県",
+  "name": "普門院庭園",
+  "where": "和歌山県"
+ },
+ {
+  "prefecture": "沖縄県",
+  "name": "石霞渓",
+  "where": "鳥取県"
+ },
+ {
+  "prefecture": "沖縄県",
+  "name": "龍頭ヶ滝",
+  "where": "島根県"
+ },
+ {
+  "prefecture": "沖縄県",
+  "name": "雲見の滝",
+  "where": "島根県"
+ },
+ {
+  "prefecture": "沖縄県",
+  "name": "鑪崎及び松島磁石石",
+  "where": "島根県"
+ },
+ {
+  "prefecture": "沖縄県",
+  "name": "隠岐知夫湾",
+  "where": "島根県"
+ },
+ {
+  "prefecture": "沖縄県",
+  "name": "徳佐",
+  "where": "桜"
+ },
+ {
+  "prefecture": "沖縄県",
+  "name": "琴林公園",
+  "where": "香川県"
+ },
+ {
+  "prefecture": "沖縄県",
+  "name": "青源寺庭園",
+  "where": "高知県"
+ },
+ {
+  "prefecture": "沖縄県",
+  "name": "乗台寺庭園",
+  "where": "高知県"
+ },
+ {
+  "prefecture": "沖縄県",
+  "name": "竹林寺庭園",
+  "where": "高知県"
+ },
+ {
+  "prefecture": "沖縄県",
+  "name": "行縢山",
+  "where": "宮崎県"
+ },
+ {
+  "prefecture": "沖縄県",
+  "name": "橋口氏庭園",
+  "where": "宮崎県"
+ },
+ {
+  "prefecture": "沖縄県",
+  "name": "寺岡氏庭園",
+  "where": "宮崎県"
+ },
+ {
+  "prefecture": "沖縄県",
+  "name": "乙嶋",
+  "where": "宮崎県"
+ },
+ {
+  "prefecture": "沖縄県",
+  "name": "川村氏庭園",
+  "where": "鹿児島県"
+ },
+ {
+  "prefecture": "沖縄県",
+  "name": "知覧町平山氏庭園",
+  "where": "鹿児島県"
+ },
+ {
+  "prefecture": "沖縄県",
+  "name": "森氏庭園",
+  "where": "鹿児島県"
+ },
+ {
+  "prefecture": "沖縄県",
+  "name": "志布志町平山氏庭園",
+  "where": "鹿児島県"
+ },
+ {
+  "prefecture": "沖縄県",
+  "name": "宮ヶ原氏庭園",
+  "where": "鹿児島県"
+ },
+ {
+  "prefecture": "沖縄県",
+  "name": "日本の特別名勝一覧",
+  "where": ""
+ }
+]

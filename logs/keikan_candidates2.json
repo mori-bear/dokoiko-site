@@ -1,0 +1,888 @@
+[
+ {
+  "id": "fukiware",
+  "name": "吹割の滝",
+  "prefecture": "群馬県",
+  "city": "沼田市",
+  "checks": {
+   "duplicate": "なし",
+   "coords": "一致 0.04km (wikidata×osm)",
+   "nearby": "なし"
+  },
+  "sources": [
+   {
+    "src": "wikidata",
+    "lat": 36.702167,
+    "lng": 139.207417,
+    "note": "Q11416484"
+   },
+   {
+    "src": "osm",
+    "lat": 36.7020468,
+    "lng": 139.2070519,
+    "note": "吹割の滝 吹割の滝 吹割の滝"
+   }
+  ],
+  "distanceKm": 0.04,
+  "verifiedBy": [
+   "wikidata",
+   "osm"
+  ],
+  "lat": 36.70211,
+  "lng": 139.20723,
+  "pass": true
+ },
+ {
+  "id": "myogisan",
+  "name": "妙義山",
+  "prefecture": "群馬県",
+  "city": "富岡市",
+  "checks": {
+   "duplicate": "なし",
+   "coords": "一致 0.24km (wikipedia×osm)",
+   "nearby": "なし"
+  },
+  "sources": [
+   {
+    "src": "wikipedia",
+    "lat": 36.29861111,
+    "lng": 138.74888889,
+    "note": "妙義山"
+   },
+   {
+    "src": "wikidata",
+    "lat": 36.298611111111,
+    "lng": 138.73472222222,
+    "note": "Q994071"
+   },
+   {
+    "src": "osm",
+    "lat": 36.2989745,
+    "lng": 138.746258,
+    "note": "妙義山 妙義山 妙義山"
+   },
+   {
+    "src": "gsi",
+    "lat": 36.2898730322765,
+    "lng": 138.746731998045,
+    "note": "妙義山"
+   }
+  ],
+  "distanceKm": 0.24,
+  "verifiedBy": [
+   "wikipedia",
+   "osm"
+  ],
+  "lat": 36.29879,
+  "lng": 138.74757,
+  "pass": true
+ },
+ {
+  "id": "sasagawa",
+  "name": "笹川流れ",
+  "prefecture": "新潟県",
+  "city": "村上市",
+  "checks": {
+   "duplicate": "なし",
+   "coords": "一致 0.09km (wikidata×gsi)",
+   "nearby": "なし"
+  },
+  "sources": [
+   {
+    "src": "wikipedia",
+    "lat": 38.43472222,
+    "lng": 139.47972222,
+    "note": "笹川流れ"
+   },
+   {
+    "src": "wikidata",
+    "lat": 38.374444444444,
+    "lng": 139.45813888889,
+    "note": "Q11641442"
+   },
+   {
+    "src": "osm",
+    "lat": 38.3915762,
+    "lng": 139.4567337,
+    "note": "笹川流れ 笹川流れ"
+   },
+   {
+    "src": "gsi",
+    "lat": 38.3751788,
+    "lng": 139.4585211,
+    "note": "道の駅「笹川流れ」"
+   }
+  ],
+  "distanceKm": 0.09,
+  "verifiedBy": [
+   "wikidata",
+   "gsi"
+  ],
+  "lat": 38.37481,
+  "lng": 139.45833,
+  "pass": true
+ },
+ {
+  "id": "shomyodaki",
+  "name": "称名滝",
+  "prefecture": "富山県",
+  "city": "立山町",
+  "checks": {
+   "duplicate": "なし",
+   "coords": "一致 0.01km (osm×gsi)",
+   "nearby": "なし"
+  },
+  "sources": [
+   {
+    "src": "wikidata",
+    "lat": 36.575277777778,
+    "lng": 137.52333333333,
+    "note": "Q731954"
+   },
+   {
+    "src": "osm",
+    "lat": 36.5753764,
+    "lng": 137.5235437,
+    "note": "称名滝 称名滝"
+   },
+   {
+    "src": "gsi",
+    "lat": 36.5754407861186,
+    "lng": 137.523568329742,
+    "note": "称名滝"
+   }
+  ],
+  "distanceKm": 0.01,
+  "verifiedBy": [
+   "osm",
+   "gsi"
+  ],
+  "lat": 36.57541,
+  "lng": 137.52356,
+  "pass": true
+ },
+ {
+  "id": "sotomo",
+  "name": "蘇洞門",
+  "prefecture": "福井県",
+  "city": "小浜市",
+  "checks": {
+   "duplicate": "なし",
+   "coords": "一致 0.00km (wikipedia×wikidata)",
+   "nearby": "なし"
+  },
+  "sources": [
+   {
+    "src": "wikipedia",
+    "lat": 35.566275,
+    "lng": 135.71147222,
+    "note": "蘇洞門"
+   },
+   {
+    "src": "wikidata",
+    "lat": 35.566275,
+    "lng": 135.711472,
+    "note": "Q11625218"
+   },
+   {
+    "src": "osm",
+    "lat": 35.5677869,
+    "lng": 135.7124192,
+    "note": "蘇洞門 蘇洞門 蘇洞門"
+   },
+   {
+    "src": "gsi",
+    "lat": 35.5686688511282,
+    "lng": 135.713614717668,
+    "note": "若狭蘇洞門"
+   }
+  ],
+  "distanceKm": 0,
+  "verifiedBy": [
+   "wikipedia",
+   "wikidata"
+  ],
+  "lat": 35.56627,
+  "lng": 135.71147,
+  "pass": true
+ },
+ {
+  "id": "shosenkyo",
+  "name": "昇仙峡",
+  "prefecture": "山梨県",
+  "city": "甲府市",
+  "checks": {
+   "duplicate": "id重複:昇仙峡"
+  },
+  "pass": false
+ },
+ {
+  "id": "tenryukyo",
+  "name": "天龍峡",
+  "prefecture": "長野県",
+  "city": "飯田市",
+  "checks": {
+   "duplicate": "なし",
+   "coords": "一致 0.00km (wikipedia×wikidata)",
+   "nearby": "なし"
+  },
+  "sources": [
+   {
+    "src": "wikipedia",
+    "lat": 35.44031,
+    "lng": 137.818,
+    "note": "天竜峡"
+   },
+   {
+    "src": "wikidata",
+    "lat": 35.440305555555554,
+    "lng": 137.818,
+    "note": "Q11443338"
+   },
+   {
+    "src": "osm",
+    "lat": 35.4409649,
+    "lng": 137.8173682,
+    "note": "天竜峡 天竜峡 天竜峡"
+   },
+   {
+    "src": "gsi",
+    "lat": 35.4390409391908,
+    "lng": 137.82042590107,
+    "note": "天龍峡"
+   }
+  ],
+  "distanceKm": 0,
+  "verifiedBy": [
+   "wikipedia",
+   "wikidata"
+  ],
+  "lat": 35.44031,
+  "lng": 137.818,
+  "pass": true
+ },
+ {
+  "id": "shiramizu",
+  "name": "白水滝",
+  "prefecture": "岐阜県",
+  "city": "白川村",
+  "checks": {
+   "duplicate": "なし",
+   "coords": "一致なし (wikidata,gsi)"
+  },
+  "sources": [
+   {
+    "src": "wikidata",
+    "lat": 36.143056,
+    "lng": 136.826172,
+    "note": "Q11579910"
+   },
+   {
+    "src": "gsi",
+    "lat": 32.375486,
+    "lng": 131.038356,
+    "note": "白水滝"
+   }
+  ],
+  "pass": false
+ },
+ {
+  "id": "akame",
+  "name": "赤目四十八滝",
+  "prefecture": "三重県",
+  "city": "名張市",
+  "checks": {
+   "duplicate": "同名:赤目四十八滝"
+  },
+  "pass": false
+ },
+ {
+  "id": "rurikei",
+  "name": "瑠璃渓",
+  "prefecture": "京都府",
+  "city": "南丹市",
+  "checks": {
+   "duplicate": "なし",
+   "coords": "一致 0.00km (wikipedia×wikidata)",
+   "nearby": "なし"
+  },
+  "sources": [
+   {
+    "src": "wikipedia",
+    "lat": 35.03581667,
+    "lng": 135.40460833,
+    "note": "るり渓"
+   },
+   {
+    "src": "wikidata",
+    "lat": 35.035817,
+    "lng": 135.404608,
+    "note": "Q7380607"
+   }
+  ],
+  "distanceKm": 0,
+  "verifiedBy": [
+   "wikipedia",
+   "wikidata"
+  ],
+  "lat": 35.03582,
+  "lng": 135.40461,
+  "pass": true
+ },
+ {
+  "id": "kasumi-kaigan",
+  "name": "香住海岸",
+  "prefecture": "兵庫県",
+  "city": "香美町",
+  "checks": {
+   "duplicate": "なし",
+   "coords": "一致 0.00km (wikipedia×wikidata)",
+   "nearby": "なし"
+  },
+  "sources": [
+   {
+    "src": "wikipedia",
+    "lat": 35.64208333,
+    "lng": 134.62097222,
+    "note": "香住海岸"
+   },
+   {
+    "src": "wikidata",
+    "lat": 35.642083,
+    "lng": 134.620972,
+    "note": "Q11667137"
+   },
+   {
+    "src": "osm",
+    "lat": 35.6502076,
+    "lng": 134.62725,
+    "note": "香住海岸 香住海岸"
+   },
+   {
+    "src": "gsi",
+    "lat": 35.6550981881115,
+    "lng": 134.592225456501,
+    "note": "香住海岸"
+   }
+  ],
+  "distanceKm": 0,
+  "verifiedBy": [
+   "wikipedia",
+   "wikidata"
+  ],
+  "lat": 35.64208,
+  "lng": 134.62097,
+  "pass": true
+ },
+ {
+  "id": "ojika",
+  "name": "小鹿渓",
+  "prefecture": "鳥取県",
+  "city": "三朝町",
+  "checks": {
+   "duplicate": "なし",
+   "coords": "一致 0.00km (wikipedia×wikidata)",
+   "nearby": "なし"
+  },
+  "sources": [
+   {
+    "src": "wikipedia",
+    "lat": 35.37378333,
+    "lng": 133.97550278,
+    "note": "小鹿渓"
+   },
+   {
+    "src": "wikidata",
+    "lat": 35.373783,
+    "lng": 133.975503,
+    "note": "Q11464496"
+   }
+  ],
+  "distanceKm": 0,
+  "verifiedBy": [
+   "wikipedia",
+   "wikidata"
+  ],
+  "lat": 35.37378,
+  "lng": 133.9755,
+  "pass": true
+ },
+ {
+  "id": "kuniga",
+  "name": "国賀海岸",
+  "prefecture": "島根県",
+  "city": "西ノ島町",
+  "checks": {
+   "duplicate": "なし",
+   "coords": "一致 4.29km (wikipedia×gsi)",
+   "nearby": "なし"
+  },
+  "sources": [
+   {
+    "src": "wikipedia",
+    "lat": 36.10333333,
+    "lng": 132.96777778,
+    "note": "国賀海岸"
+   },
+   {
+    "src": "gsi",
+    "lat": 36.0677789297676,
+    "lng": 132.948978419507,
+    "note": "隠岐国賀海岸"
+   }
+  ],
+  "distanceKm": 4.29,
+  "verifiedBy": [
+   "wikipedia",
+   "gsi"
+  ],
+  "lat": 36.08556,
+  "lng": 132.95838,
+  "pass": true
+ },
+ {
+  "id": "dangyokei",
+  "name": "断魚渓",
+  "prefecture": "島根県",
+  "city": "邑南町",
+  "checks": {
+   "duplicate": "なし",
+   "coords": "一致 0.00km (wikipedia×wikidata)",
+   "nearby": "なし"
+  },
+  "sources": [
+   {
+    "src": "wikipedia",
+    "lat": 34.92919444,
+    "lng": 132.47441667,
+    "note": "断魚渓"
+   },
+   {
+    "src": "wikidata",
+    "lat": 34.929194,
+    "lng": 132.474417,
+    "note": "Q11500845"
+   }
+  ],
+  "distanceKm": 0,
+  "verifiedBy": [
+   "wikipedia",
+   "wikidata"
+  ],
+  "lat": 34.92919,
+  "lng": 132.47442,
+  "pass": true
+ },
+ {
+  "id": "sandankyo",
+  "name": "三段峡",
+  "prefecture": "広島県",
+  "city": "安芸太田町",
+  "checks": {
+   "duplicate": "なし",
+   "coords": "一致 0.08km (wikidata×osm)",
+   "nearby": "なし"
+  },
+  "sources": [
+   {
+    "src": "wikidata",
+    "lat": 34.6,
+    "lng": 132.20777777778,
+    "note": "Q3137717"
+   },
+   {
+    "src": "osm",
+    "lat": 34.5995903,
+    "lng": 132.2085173,
+    "note": "三段峡 三段峡 三段峡"
+   },
+   {
+    "src": "gsi",
+    "lat": 34.628277929773,
+    "lng": 132.185893290151,
+    "note": "三段峡"
+   }
+  ],
+  "distanceKm": 0.08,
+  "verifiedBy": [
+   "wikidata",
+   "osm"
+  ],
+  "lat": 34.5998,
+  "lng": 132.20815,
+  "pass": true
+ },
+ {
+  "id": "taishakukyo",
+  "name": "帝釈峡",
+  "prefecture": "広島県",
+  "city": "庄原市",
+  "checks": {
+   "duplicate": "同名:帝釈峡"
+  },
+  "pass": false
+ },
+ {
+  "id": "chomonkyo",
+  "name": "長門峡",
+  "prefecture": "山口県",
+  "city": "山口市",
+  "checks": {
+   "duplicate": "なし",
+   "coords": "一致 0.28km (wikidata×osm)",
+   "nearby": "なし"
+  },
+  "sources": [
+   {
+    "src": "wikidata",
+    "lat": 34.303083333333,
+    "lng": 131.57625,
+    "note": "Q11641539"
+   },
+   {
+    "src": "osm",
+    "lat": 34.304478,
+    "lng": 131.5787966,
+    "note": "長門峡 長門峡 長門峡"
+   },
+   {
+    "src": "gsi",
+    "lat": 34.326738096225,
+    "lng": 131.501792208548,
+    "note": "長門峡"
+   }
+  ],
+  "distanceKm": 0.28,
+  "verifiedBy": [
+   "wikidata",
+   "osm"
+  ],
+  "lat": 34.30378,
+  "lng": 131.57752,
+  "pass": true
+ },
+ {
+  "id": "omogokei",
+  "name": "面河渓",
+  "prefecture": "愛媛県",
+  "city": "久万高原町",
+  "checks": {
+   "duplicate": "なし",
+   "coords": "一致 0.00km (wikipedia×wikidata)",
+   "nearby": "なし"
+  },
+  "sources": [
+   {
+    "src": "wikipedia",
+    "lat": 33.73623889,
+    "lng": 133.11496111,
+    "note": "面河渓"
+   },
+   {
+    "src": "wikidata",
+    "lat": 33.736239,
+    "lng": 133.114961,
+    "note": "Q11663794"
+   }
+  ],
+  "distanceKm": 0,
+  "verifiedBy": [
+   "wikipedia",
+   "wikidata"
+  ],
+  "lat": 33.73624,
+  "lng": 133.11496,
+  "pass": true
+ },
+ {
+  "id": "ozuru",
+  "name": "尾鈴山瀑布群",
+  "prefecture": "宮崎県",
+  "city": "都農町",
+  "checks": {
+   "duplicate": "なし",
+   "coords": "一致 2.05km (osm×gsi)",
+   "nearby": "なし"
+  },
+  "sources": [
+   {
+    "src": "wikipedia",
+    "lat": 32.29916667,
+    "lng": 131.42666667,
+    "note": "尾鈴山"
+   },
+   {
+    "src": "osm",
+    "lat": 32.2768852,
+    "lng": 131.4449648,
+    "note": "尾鈴山瀑布群 尾鈴山瀑布群 尾鈴山瀑布群"
+   },
+   {
+    "src": "gsi",
+    "lat": 32.291039,
+    "lng": 131.459022,
+    "note": "尾鈴山瀑布群"
+   }
+  ],
+  "distanceKm": 2.05,
+  "verifiedBy": [
+   "osm",
+   "gsi"
+  ],
+  "lat": 32.28396,
+  "lng": 131.45199,
+  "pass": true
+ },
+ {
+  "id": "nakayama-sen",
+  "name": "中山仙境",
+  "prefecture": "大分県",
+  "city": "豊後高田市",
+  "checks": {
+   "duplicate": "なし",
+   "coords": "2ソース未満 (なし)"
+  },
+  "sources": [],
+  "pass": false
+ },
+ {
+  "id": "sengan",
+  "name": "千巌山",
+  "prefecture": "熊本県",
+  "city": "上天草市",
+  "checks": {
+   "duplicate": "なし",
+   "coords": "一致 0.00km (osm×gsi)",
+   "nearby": "なし"
+  },
+  "sources": [
+   {
+    "src": "osm",
+    "lat": 32.5106662,
+    "lng": 130.4196751,
+    "note": "千巌山 千巌山"
+   },
+   {
+    "src": "gsi",
+    "lat": 32.5106657764006,
+    "lng": 130.419675,
+    "note": "千巌山"
+   }
+  ],
+  "distanceKm": 0,
+  "verifiedBy": [
+   "osm",
+   "gsi"
+  ],
+  "lat": 32.51067,
+  "lng": 130.41968,
+  "pass": true
+ },
+ {
+  "id": "toriike",
+  "name": "通り池",
+  "prefecture": "沖縄県",
+  "city": "宮古島市",
+  "checks": {
+   "duplicate": "なし",
+   "coords": "一致 0.00km (wikipedia×wikidata)",
+   "nearby": "なし"
+  },
+  "sources": [
+   {
+    "src": "wikipedia",
+    "lat": 24.82402778,
+    "lng": 125.13641667,
+    "note": "通り池"
+   },
+   {
+    "src": "wikidata",
+    "lat": 24.824028,
+    "lng": 125.136417,
+    "note": "Q11639512"
+   },
+   {
+    "src": "osm",
+    "lat": 24.8242599,
+    "lng": 125.1368284,
+    "note": "通り池 通り池 通り池"
+   },
+   {
+    "src": "gsi",
+    "lat": 34.776489,
+    "lng": 135.012981,
+    "note": "通り池"
+   }
+  ],
+  "distanceKm": 0,
+  "verifiedBy": [
+   "wikipedia",
+   "wikidata"
+  ],
+  "lat": 24.82403,
+  "lng": 125.13642,
+  "pass": true
+ },
+ {
+  "id": "nasonoshirataki",
+  "name": "奈曽の白瀑",
+  "prefecture": "秋田県",
+  "city": "にかほ市",
+  "checks": {
+   "duplicate": "なし",
+   "coords": "一致 0.00km (wikipedia×wikidata)",
+   "nearby": "なし"
+  },
+  "sources": [
+   {
+    "src": "wikipedia",
+    "lat": 39.18144444,
+    "lng": 139.94325,
+    "note": "奈曽の白滝"
+   },
+   {
+    "src": "wikidata",
+    "lat": 39.181444,
+    "lng": 139.94325,
+    "note": "Q11444958"
+   },
+   {
+    "src": "osm",
+    "lat": 39.1813757,
+    "lng": 139.9431803,
+    "note": "奈曽の白滝 奈曽の白滝"
+   },
+   {
+    "src": "gsi",
+    "lat": 39.1814746727556,
+    "lng": 139.943779441224,
+    "note": "奈曽の白瀑谷"
+   }
+  ],
+  "distanceKm": 0,
+  "verifiedBy": [
+   "wikipedia",
+   "wikidata"
+  ],
+  "lat": 39.18144,
+  "lng": 139.94325,
+  "pass": true
+ },
+ {
+  "id": "oya-kigan",
+  "name": "大谷の奇岩群",
+  "prefecture": "栃木県",
+  "city": "宇都宮市",
+  "checks": {
+   "duplicate": "なし",
+   "coords": "一致 0.08km (wikidata×osm)",
+   "nearby": "なし"
+  },
+  "sources": [
+   {
+    "src": "wikidata",
+    "lat": 36.59780555555555,
+    "lng": 139.82177777777778,
+    "note": "Q104819381"
+   },
+   {
+    "src": "osm",
+    "lat": 36.5984496,
+    "lng": 139.8213177,
+    "note": "大谷景観公園 大谷景観公園"
+   },
+   {
+    "src": "gsi",
+    "lat": 36.5952895833333,
+    "lng": 139.820474194444,
+    "note": "大谷の奇岩群"
+   }
+  ],
+  "distanceKm": 0.08,
+  "verifiedBy": [
+   "wikidata",
+   "osm"
+  ],
+  "lat": 36.59813,
+  "lng": 139.82155,
+  "pass": true
+ },
+ {
+  "id": "gokei",
+  "name": "豪渓",
+  "prefecture": "岡山県",
+  "city": "総社市",
+  "checks": {
+   "duplicate": "なし",
+   "coords": "一致 0.00km (wikipedia×wikidata)",
+   "nearby": "なし"
+  },
+  "sources": [
+   {
+    "src": "wikipedia",
+    "lat": 34.76002778,
+    "lng": 133.69922222,
+    "note": "豪渓"
+   },
+   {
+    "src": "wikidata",
+    "lat": 34.760027777778,
+    "lng": 133.69922222222,
+    "note": "Q5627758"
+   },
+   {
+    "src": "osm",
+    "lat": 34.7062528,
+    "lng": 133.7225821,
+    "note": "豪渓 豪渓 豪渓"
+   },
+   {
+    "src": "gsi",
+    "lat": 34.70636519,
+    "lng": 133.7219018,
+    "note": "総社警察署豪渓駐在所"
+   }
+  ],
+  "distanceKm": 0,
+  "verifiedBy": [
+   "wikipedia",
+   "wikidata"
+  ],
+  "lat": 34.76003,
+  "lng": 133.69922,
+  "pass": true
+ },
+ {
+  "id": "sekichukei",
+  "name": "石柱渓",
+  "prefecture": "山口県",
+  "city": "下関市",
+  "checks": {
+   "duplicate": "なし",
+   "coords": "一致 0.00km (wikipedia×wikidata)",
+   "nearby": "なし"
+  },
+  "sources": [
+   {
+    "src": "wikipedia",
+    "lat": 34.24870278,
+    "lng": 131.15985,
+    "note": "石柱渓"
+   },
+   {
+    "src": "wikidata",
+    "lat": 34.248703,
+    "lng": 131.15985,
+    "note": "Q11586597"
+   }
+  ],
+  "distanceKm": 0,
+  "verifiedBy": [
+   "wikipedia",
+   "wikidata"
+  ],
+  "lat": 34.2487,
+  "lng": 131.15985,
+  "pass": true
+ }
+]
