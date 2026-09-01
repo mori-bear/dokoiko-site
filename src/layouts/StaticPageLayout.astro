@@ -1,0 +1,68 @@
+---
+// 固定ページ（お問い合わせ・プライバシーポリシー・利用規約・運営者情報）の共通ガワ。
+// DestinationLayout のヘッダー/フッター/フォントをそのまま使い、本文だけ差し込む。
+import DestinationLayout from './DestinationLayout.astro';
+const { title, description, heading, eyebrow, updated } = Astro.props;
+---
+
+<DestinationLayout title={title} description={description} image={null}>
+  <style>
+    .sp-hero {
+      background: linear-gradient(135deg, #1e4d38 0%, #2A6049 100%);
+      padding: 40px 24px 34px;
+      color: #fff;
+    }
+    .sp-hero-inner { max-width: 680px; margin: 0 auto; }
+    .sp-eyebrow {
+      display: block; font-size: 10px; letter-spacing: 0.22em;
+      color: #C9A84C; text-transform: uppercase; margin-bottom: 10px;
+    }
+    .sp-title {
+      font-family: 'Noto Serif JP', serif; font-size: 24px; font-weight: 300;
+      letter-spacing: 0.06em; line-height: 1.5;
+    }
+    .sp-body { max-width: 680px; margin: 0 auto; padding: 30px 20px 64px; }
+    .sp-updated { font-size: 11px; color: #aaa; letter-spacing: 0.05em; margin-bottom: 26px; }
+
+    .sp-body :global(h2) {
+      font-family: 'Noto Serif JP', serif; font-size: 17px; font-weight: 400;
+      color: #1a1a1a; letter-spacing: 0.04em;
+      margin: 34px 0 12px; padding-bottom: 7px; border-bottom: 1px solid #e8e8e8;
+    }
+    .sp-body :global(h2:first-of-type) { margin-top: 0; }
+    .sp-body :global(h3) {
+      font-size: 14px; font-weight: 500; color: #2A6049;
+      letter-spacing: 0.04em; margin: 20px 0 8px;
+    }
+    .sp-body :global(p) { font-size: 14px; line-height: 2; color: #444; margin-bottom: 14px; }
+    .sp-body :global(ul) { margin: 0 0 16px; padding-left: 1.2em; }
+    .sp-body :global(li) { font-size: 14px; line-height: 1.95; color: #444; margin-bottom: 6px; }
+    .sp-body :global(a) { color: #2A6049; text-decoration: underline; text-underline-offset: 3px; }
+    .sp-body :global(.sp-note) {
+      padding: 16px 18px; background: #f8fdf9; border-left: 3px solid #2A6049;
+      border-radius: 0 6px 6px 0; font-size: 13px; line-height: 1.95; color: #444;
+      margin-bottom: 20px;
+    }
+    .sp-body :global(.sp-mail) {
+      display: inline-block; padding: 12px 20px; background: #2A6049; color: #fff;
+      border-radius: 8px; text-decoration: none; font-size: 14px; letter-spacing: 0.04em;
+      margin: 6px 0 4px;
+    }
+    .sp-body :global(dl.sp-dl) { margin: 0 0 18px; }
+    .sp-body :global(dl.sp-dl dt) {
+      font-size: 12px; color: #9a7c36; letter-spacing: 0.08em; margin-top: 14px;
+    }
+    .sp-body :global(dl.sp-dl dd) { font-size: 14px; color: #333; margin: 3px 0 0; line-height: 1.9; }
+  </style>
+
+  <section class="sp-hero">
+    <div class="sp-hero-inner">
+      {eyebrow && <span class="sp-eyebrow">{eyebrow}</span>}
+      <h1 class="sp-title">{heading}</h1>
+    </div>
+  </section>
+  <div class="sp-body">
+    {updated && <p class="sp-updated">最終更新: {updated}</p>}
+    <slot />
+  </div>
+</DestinationLayout>

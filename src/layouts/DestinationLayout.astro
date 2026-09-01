@@ -123,10 +123,12 @@ const { title, description, image } = Astro.props;
   </main>
   <footer class="site-footer">
     <p>交通・宿泊情報は各社公式サイトでご確認ください。本サービスはアフィリエイト広告（楽天トラベル・じゃらん）を含みます。</p>
+    <!-- 旧 /pages/*.html は実体が無く3本とも404だったため、実在するページに差し替えた -->
     <p style="margin-top: 12px;">
-      <a href="https://tabidokoiko.com/pages/about.html">このサイトについて</a>
-      <a href="https://tabidokoiko.com/pages/privacy.html">プライバシーポリシー</a>
-      <a href="https://tabidokoiko.com/pages/disclaimer.html">免責事項</a>
+      <a href="/about/">運営者情報</a>
+      <a href="/contact/">お問い合わせ</a>
+      <a href="/privacy/">プライバシーポリシー</a>
+      <a href="/terms/">利用規約</a>
     </p>
     <p style="margin-top: 12px;">© 2026 どこ行こ？</p>
   </footer>

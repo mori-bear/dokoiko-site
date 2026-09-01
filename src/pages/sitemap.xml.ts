@@ -9,6 +9,10 @@ export const GET: APIRoute = () => {
     { loc: `${BASE}/`,              changefreq: 'weekly',  priority: '1.0' },
     { loc: `${BASE}/destinations/`, changefreq: 'weekly',  priority: '0.9' },
     { loc: `${BASE}/kyushu-fukko/`, changefreq: 'weekly',  priority: '0.9' },
+    { loc: `${BASE}/about/`,        changefreq: 'yearly',  priority: '0.4' },
+    { loc: `${BASE}/contact/`,      changefreq: 'yearly',  priority: '0.4' },
+    { loc: `${BASE}/privacy/`,      changefreq: 'yearly',  priority: '0.3' },
+    { loc: `${BASE}/terms/`,        changefreq: 'yearly',  priority: '0.3' },
     ...(destinations as any[]).map(d => ({
       loc: `${BASE}/destinations/${d.id}/`,
       changefreq: 'monthly',
