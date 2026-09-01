@@ -51,7 +51,7 @@ for (const id of ['horoka', 'nigorigo', 'umegashima']) {
   const f = path.join(DIST, id, 'index.html');
   const html = fs.readFileSync(f, 'utf8');
   const btn = html.includes('booking-btn-navitime');
-  const midori = html.includes('みどりの窓口での購入をおすすめします');
+  const midori = html.includes('みどりの窓口での購入がおすすめ');
   const yahoo = (html.match(/transit\.yahoo\.co\.jp/g) || []).length;
   console.log(`  ${btn ? '✅' : '❌'} ${d.name.padEnd(10)} 乗換ボタン=${btn ? 'あり' : 'なし'} みどり案内=${midori ? 'あり' : 'なし'} Yahoo乗換リンク数=${yahoo}`);
 }

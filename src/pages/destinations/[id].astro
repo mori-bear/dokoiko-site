@@ -1049,6 +1049,8 @@ const hubCity = _destHubCity && _destHubCity !== dest.name
   .booking-btn-jr:hover { background: #d0e7ff; }
   .booking-btn-sky { background: #e3edff; color: #1856B7; border-color: #b5cef0; }
   .booking-btn-sky:hover { background: #cfdfff; }
+  /* 案内テキストは折り返すと末尾の1〜2文字だけが次行に落ちて見苦しくなる。
+     text-wrap: balance で2行になるときも行長を均す（非対応ブラウザは従来どおり）。 */
   .midori-note {
     display: block;
     padding: 10px 14px;
@@ -1059,6 +1061,7 @@ const hubCity = _destHubCity && _destHubCity !== dest.name
     font-size: 13px;
     text-align: center;
     letter-spacing: 0.03em;
+    text-wrap: balance;
   }
   .air-note {
     display: block;
@@ -1070,6 +1073,7 @@ const hubCity = _destHubCity && _destHubCity !== dest.name
     font-size: 13px;
     text-align: center;
     letter-spacing: 0.03em;
+    text-wrap: balance;
   }
   .access-steps { display: flex; flex-direction: column; gap: 3px; }
   .access-step-middle { border: 1px dashed #d4d4d4; border-radius: 6px; padding: 6px 10px; background: #fafafa; }
@@ -1718,10 +1722,10 @@ const hubCity = _destHubCity && _destHubCity !== dest.name
                         <span class="booking-btn-arrow">→</span>
                       </a>
                     ) : (
-                      <span class="air-note mode-transit-only">✈️ 飛行機でのアクセスをおすすめします</span>
+                      <span class="air-note mode-transit-only">✈️ 飛行機でのアクセスがおすすめ</span>
                     )
                   ) : service === 'midori' ? (
-                    <span class="midori-note mode-transit-only">🟢 みどりの窓口での購入をおすすめします</span>
+                    <span class="midori-note mode-transit-only">🟢 みどりの窓口での購入がおすすめ</span>
                   ) : (
                     <a href={jrHref} target="_blank" rel="noopener noreferrer" class="booking-btn booking-btn-jr mode-transit-only">
                       <span class="booking-btn-label">{jrLabelText}で予約</span>
