@@ -1,0 +1,93 @@
+[
+ {
+  "id": "chichibu-onsen",
+  "name": "秩父温泉満願の湯",
+  "prefecture": "埼玉県",
+  "city": "皆野町",
+  "checks": {
+   "duplicate": "なし",
+   "coords": "2ソース未満 (osm)"
+  },
+  "sources": [
+   {
+    "src": "osm",
+    "lat": 36.0824686,
+    "lng": 139.0722649,
+    "note": "秩父温泉 満願の湯 秩父温泉 満願の湯 秩父温泉 満願の湯"
+   }
+  ],
+  "pass": false
+ },
+ {
+  "id": "obama-nagasaki",
+  "name": "小浜温泉（雲仙）",
+  "prefecture": "長崎県",
+  "city": "雲仙市",
+  "checks": {
+   "duplicate": "なし",
+   "coords": "一致 0.16km (wikipedia×osm)",
+   "nearby": "雲仙温泉(2.3km)"
+  },
+  "sources": [
+   {
+    "src": "wikipedia",
+    "lat": 32.72822,
+    "lng": 130.20714,
+    "note": "小浜温泉"
+   },
+   {
+    "src": "osm",
+    "lat": 32.7296886,
+    "lng": 130.206928,
+    "note": "小浜温泉 小浜温泉 小浜温泉"
+   }
+  ],
+  "distanceKm": 0.16,
+  "verifiedBy": [
+   "wikipedia",
+   "osm"
+  ],
+  "lat": 32.72895,
+  "lng": 130.20703,
+  "pass": false
+ },
+ {
+  "id": "kanba-taki",
+  "name": "神庭の滝",
+  "prefecture": "岡山県",
+  "city": "真庭市",
+  "checks": {
+   "duplicate": "なし",
+   "coords": "一致 0.00km (wikipedia×wikidata)",
+   "nearby": "湯原温泉(1.4km)"
+  },
+  "sources": [
+   {
+    "src": "wikipedia",
+    "lat": 35.11861111,
+    "lng": 133.67877778,
+    "note": "神庭の滝"
+   },
+   {
+    "src": "wikidata",
+    "lat": 35.118611,
+    "lng": 133.678778,
+    "note": "Q11589686"
+   },
+   {
+    "src": "gsi",
+    "lat": 35.118431,
+    "lng": 133.678767,
+    "note": "神庭の滝"
+   }
+  ],
+  "distanceKm": 0,
+  "verifiedBy": [
+   "wikipedia",
+   "wikidata"
+  ],
+  "lat": 35.11861,
+  "lng": 133.67878,
+  "pass": false
+ }
+]

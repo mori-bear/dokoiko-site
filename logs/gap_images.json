@@ -1,0 +1,244 @@
+{
+ "adopted": [
+  {
+   "id": "inunakiyama",
+   "name": "犬鳴山温泉",
+   "title": "File:犬鳴山七宝瀧寺にて 道祖神^ 2013.11.23 - panoramio.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Nankou Oronain (as36…",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:%E7%8A%AC%E9%B3%B4%E5%B1%B1%E4%B8%83%E5%AE%9D%E7%80%A7%E5%AF%BA%E3%81%AB%E3%81%A6_%E9%81%93%E7%A5%96%E7%A5%9E%5E_2013.11.23_-_panoramio.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "犬鳴山の自然景観と石造物（灯籠・祠）が写っており、山間部の信仰地としての特徴が表現されている。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:犬鳴山七宝瀧寺にて 道祖神^ 2013.11.23 - panoramio.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "犬鳴山の自然景観と石造物（灯籠・祠）が写っており、山間部の信仰地としての特徴が表現されている。"
+    }
+   ]
+  },
+  {
+   "id": "naguri",
+   "name": "名栗温泉",
+   "title": "File:名栗湖 - panoramio.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "soichi kaneko",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:%E5%90%8D%E6%A0%97%E6%B9%96_-_panoramio.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "名栗川の渓谷風景で、山々に囲まれた湖沼と自然景観が特徴的。名栗温泉地域の典型的な風景。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:名栗湖 - panoramio.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "名栗川の渓谷風景で、山々に囲まれた湖沼と自然景観が特徴的。名栗温泉地域の典型的な風景。"
+    }
+   ]
+  },
+  {
+   "id": "ryokami",
+   "name": "両神温泉",
+   "title": "File:Yakushi no yu.JPG",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Koda6029",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Yakushi_no_yu.JPG",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "温泉施設の入口と看板、秋の紅葉が見られ、山間の温泉地の特徴が表現されている"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Yakushi no yu.JPG",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "温泉施設の入口と看板、秋の紅葉が見られ、山間の温泉地の特徴が表現されている"
+    }
+   ]
+  },
+  {
+   "id": "takagoya",
+   "name": "高越山",
+   "title": "File:Kouetusan01.jpg",
+   "placeCheck": "weak",
+   "credit": {
+    "author": "Dokudami",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Kouetusan01.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "高越山からの眺望で、山頂の寺院建築と下界の町並みが見える特徴的な景観"
+    },
+    "sonnet": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "山頂付近の社殿屋根と吉野川平野・雪山の眺望が高越山からの景色と合致"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Kouetusan01.jpg",
+     "stage": "sonnet",
+     "placeCheck": "weak",
+     "haiku": {
+      "verdict": "ok",
+      "identifiable": true,
+      "reason": "高越山からの眺望で、山頂の寺院建築と下界の町並みが見える特徴的な景観"
+     },
+     "sonnet": {
+      "verdict": "ok",
+      "identifiable": true,
+      "reason": "山頂付近の社殿屋根と吉野川平野・雪山の眺望が高越山からの景色と合致"
+     }
+    }
+   ]
+  },
+  {
+   "id": "naruko-kyo",
+   "name": "File:鳴子峡大深沢橋を望む.JPG",
+   "title": "File:鳴子峡大深沢橋を望む.JPG",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "inook2011",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:%E9%B3%B4%E5%AD%90%E5%B3%A1%E5%A4%A7%E6%B7%B1%E6%B2%A2%E6%A9%8B%E3%82%92%E6%9C%9B%E3%82%80.JPG",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "retry": true,
+    "subject": "秋色に染まる峡谷を架ける橋と紅葉の絶景"
+   }
+  }
+ ],
+ "rejected": [
+  {
+   "id": "ogoto",
+   "name": "おごと温泉",
+   "reason": "合格画像なし",
+   "tried": [
+    {
+     "title": "File:Ogoto-Onsen Station.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "駅舎と高架線の風景で、温泉地の特徴が見当たりません。温泉らしさがなく、紹介画像として不適切です。"
+    },
+    {
+     "title": "File:Ogoto station-Nov.2013.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "温泉地の特徴的な風景・建造物が見当たらず、駅舎や商業施設の写真に見える。温泉地らしさが伝わらない。"
+    },
+    {
+     "title": "File:Ogoto station-20071221.jpg",
+     "stage": "haiku",
+     "placeCheck": "weak",
+     "verdict": "ng",
+     "identifiable": true,
+     "reason": "関野駅の駅舎写真。おごと温泉の紹介に不適切。温泉地の風景ではなく駅舎のみ。"
+    },
+    {
+     "title": "File:Ogoto station-20071204.jpg",
+     "stage": "haiku",
+     "placeCheck": "weak",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "駅舎の屋内施設で、おごと温泉の特徴を示す要素がない。温泉地の紹介に不適切。"
+    },
+    {
+     "title": "File:Ogoto station platform-20071221.jpg",
+     "stage": "haiku",
+     "placeCheck": "weak",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "鉄道駅のプラットフォーム写真。おごと温泉の特定手がかりがなく、一般的な駅舎で場所の特定不可。"
+    },
+    {
+     "title": "File:Ogotoonsen-station-20080315.jpg",
+     "stage": "haiku",
+     "placeCheck": "weak",
+     "verdict": "ng",
+     "identifiable": true,
+     "reason": "駅前の風景で場所は特定できるが、温泉地の魅力を示す画像ではない。屋外施設は写っているものの温泉施設の特徴がない。"
+    },
+    {
+     "title": "File:Yumotokan-Ogoto onsen Lake Biwa view 2.jpg",
+     "stage": "haiku",
+     "placeCheck": "weak",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "湖畔の港湾風景だが、おごと温泉特有の温泉施設や看板が見当たらない。一般的な湖沿いの町並みで、場所特定の手がかりが不足。"
+    },
+    {
+     "title": "File:Ogoto Onsen Tourism Park 01.JPG",
+     "stage": "sonnet",
+     "placeCheck": "weak",
+     "haiku": {
+      "verdict": "ok",
+      "identifiable": true,
+      "reason": "おごと温泉の特徴的な建築様式の温泉施設が映っており、地域を代表する施設として認識可能。"
+     },
+     "sonnet": {
+      "verdict": "ng",
+      "identifiable": false,
+      "reason": "おごと温泉と特定できる看板や特徴的建造物がなく、一般的な施設駐車場にしか見えない"
+     }
+    }
+   ]
+  },
+  {
+   "id": "tsukigatani",
+   "name": "月ヶ谷温泉",
+   "reason": "合格画像なし",
+   "tried": []
+  },
+  {
+   "id": "osezaki",
+   "name": "大瀬崎",
+   "reason": "座標が静岡県沼津の大瀬崎だった（同名異所）。長崎県五島の大瀬崎ではない"
+  },
+  {
+   "id": "iwawaki",
+   "name": "岩湧山",
+   "reason": "霞んだ眺望で厳格審査に落選。撮り直し候補は府庁山からの写真で岩湧山ではなかった"
+  }
+ ]
+}

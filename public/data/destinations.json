@@ -224370,5 +224370,669 @@
       "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fyamaguchi%2F",
       "jalan": "https://www.jalan.net/350000/"
     }
+  },
+  {
+    "id": "inunakiyama",
+    "name": "犬鳴山温泉",
+    "type": "destination",
+    "region": "近畿",
+    "hub": "大阪",
+    "stayAllowed": [
+      "1night"
+    ],
+    "departures": [
+      "大阪"
+    ],
+    "weight": 1,
+    "description": "泉佐野の山あいを流れる樫井川の上流に、宿が三軒だけ並んでいる。大阪府内で温泉郷と呼べるのはここだけだ。山は千三百年あまり前に修験道場として開かれ、十世紀ごろの義犬伝説にちなんで犬鳴山と呼ばれるようになった。南北朝の兵士が傷を癒したという言い伝えも残る。泉質はナトリウム炭酸水素塩泉の冷鉱泉で、泉温は十六度から二十度、pHは八・六から八・八。純重曹泉で肌がなめらかになる。関西空港から車で三十分ほどという近さから、世界に一番近い温泉と称されることもある。",
+    "tags": [
+      "温泉",
+      "自然",
+      "寺社",
+      "秋"
+    ],
+    "spots": [
+      {
+        "name": "七宝瀧寺",
+        "description": "修験道の行場として千三百年あまり前に開かれた寺。谷に沿って滝と行場が点在している。"
+      },
+      {
+        "name": "樫井川の谷",
+        "description": "宿三軒が川沿いに並ぶ。大阪府内で唯一の温泉郷で、市街地からは一時間もかからない。"
+      },
+      {
+        "name": "義犬伝説",
+        "description": "主人を蛇から救った犬の話が山の名の由来。十世紀ごろの出来事として伝えられている。"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "hotelSearch": "犬鳴山温泉",
+    "gateways": {
+      "rail": [
+        "日根野駅"
+      ],
+      "airport": [
+        "関西空港"
+      ],
+      "bus": [],
+      "ferry": []
+    },
+    "destType": "onsen",
+    "railGateway": "日根野駅",
+    "busGateway": null,
+    "ferryGateway": null,
+    "airportGateway": "関西空港",
+    "prefecture": "大阪府",
+    "lat": 34.3385,
+    "lng": 135.37594,
+    "stayBias": 1,
+    "city": "泉佐野市",
+    "situations": [
+      "solo",
+      "couple",
+      "friends"
+    ],
+    "catch": "大阪府で唯一の温泉郷は、修験の山の谷にある。",
+    "mainSpot": "七宝瀧寺",
+    "mapPoint": "犬鳴山温泉",
+    "representativeStation": "日根野駅",
+    "hubStation": "日根野駅",
+    "accessStation": "日根野駅",
+    "hotelArea": "osaka",
+    "finalAccess": {
+      "type": "walk"
+    },
+    "travelTime": {
+      "tokyo": 270,
+      "osaka": 30,
+      "nagoya": 120,
+      "fukuoka": 270,
+      "takamatsu": 200,
+      "himeji": 100,
+      "mito": 315,
+      "maebashi": 330,
+      "takasaki": 330,
+      "hamamatsu": 150,
+      "gifu": 140,
+      "kofu": 360,
+      "shingu": 150,
+      "tanabe": 120,
+      "shirahama": 130,
+      "kushimoto": 150,
+      "tottori": 150,
+      "shimonoseki": 300,
+      "saga": 300,
+      "oita": 330,
+      "beppu": 340
+    },
+    "stayRecommendation": "1night",
+    "tier": "area",
+    "tier2": "area",
+    "icCard": "icoca",
+    "bestSeason": "秋",
+    "onsenLevel": 3,
+    "hasDirectFlight": false,
+    "primary": [
+      "温泉",
+      "自然"
+    ],
+    "secondary": [
+      "寺社",
+      "秋"
+    ],
+    "reasonChips": [
+      "温泉",
+      "湯に浸かる",
+      "ひとり旅向け",
+      "1泊がおすすめ",
+      "車なしOK"
+    ],
+    "images": [
+      "/images/inunakiyama/main.jpg"
+    ],
+    "imageCredit": {
+      "author": "Nankou Oronain (as36…",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:%E7%8A%AC%E9%B3%B4%E5%B1%B1%E4%B8%83%E5%AE%9D%E7%80%A7%E5%AF%BA%E3%81%AB%E3%81%A6_%E9%81%93%E7%A5%96%E7%A5%9E%5E_2013.11.23_-_panoramio.jpg",
+      "attributionRequired": true
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fosaka%2F",
+      "jalan": "https://www.jalan.net/270000/"
+    },
+    "featured_stay": {
+      "name": "犬鳴山温泉 不動口館",
+      "catchcopy": "大阪唯一の温泉郷。修験の谷にある純重曹泉の宿",
+      "hasShuttle": false,
+      "accessStation": "JR日根野駅"
+    }
+  },
+  {
+    "id": "naguri",
+    "name": "名栗温泉",
+    "type": "destination",
+    "region": "関東",
+    "hub": "東京",
+    "stayAllowed": [
+      "1night"
+    ],
+    "departures": [
+      "東京"
+    ],
+    "weight": 1,
+    "description": "名栗川の河畔に宿が一軒だけある。鎌倉時代、猟師が傷を負った鹿の湯浴みを見つけたのが始まりと伝わり、いまの大松閣が創業したのは大正の初めだ。泉質は低張性アルカリ性の冷鉱泉で、泉温は十七度。加温して使う湯だが、肌にまとわりつくような柔らかさがある。すぐ上流には名栗湖があり、湖畔には日帰り入浴のさわらびの湯が建つ。都心から電車と バスで二時間かからない位置にありながら、谷に入ると川音のほかに聞こえるものが無くなる。飯能駅からバスで四十分ほど。",
+    "tags": [
+      "温泉",
+      "自然",
+      "湯治",
+      "秋"
+    ],
+    "spots": [
+      {
+        "name": "名栗湖",
+        "description": "有間ダムがせき止めた湖。周囲を歩く道が整い、湖面に山が映る夕暮れの眺めがいい場所。"
+      },
+      {
+        "name": "さわらびの湯",
+        "description": "名栗湖の下にある日帰り入浴施設。泊まらずに湯だけ立ち寄ることもできる場所である。"
+      },
+      {
+        "name": "名栗川の谷",
+        "description": "宿の前を流れる川。都心から二時間かからないのに、谷に入ると川音しか聞こえなくなる。"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "hotelSearch": "名栗温泉",
+    "gateways": {
+      "rail": [
+        "飯能駅"
+      ],
+      "airport": [
+        "羽田空港"
+      ],
+      "bus": [],
+      "ferry": []
+    },
+    "destType": "onsen",
+    "railGateway": "飯能駅",
+    "busGateway": null,
+    "ferryGateway": null,
+    "airportGateway": "羽田空港",
+    "prefecture": "埼玉県",
+    "lat": 35.85954,
+    "lng": 139.18454,
+    "stayBias": 1,
+    "city": "飯能市",
+    "situations": [
+      "solo",
+      "couple",
+      "friends"
+    ],
+    "catch": "鎌倉時代、傷ついた鹿が湯に浸かっていた一軒宿。",
+    "mainSpot": "名栗湖",
+    "mapPoint": "名栗温泉",
+    "representativeStation": "飯能駅",
+    "hubStation": "飯能駅",
+    "accessStation": "飯能駅",
+    "hotelArea": "saitama",
+    "finalAccess": {
+      "type": "walk"
+    },
+    "travelTime": {
+      "tokyo": 60,
+      "osaka": 280,
+      "nagoya": 220,
+      "fukuoka": 490,
+      "takamatsu": 400,
+      "mito": 105,
+      "maebashi": 120,
+      "takasaki": 120,
+      "hamamatsu": 250,
+      "gifu": 240,
+      "kofu": 150,
+      "shingu": 400,
+      "tanabe": 370,
+      "shirahama": 380,
+      "kushimoto": 400,
+      "tottori": 400,
+      "shimonoseki": 520,
+      "saga": 520,
+      "oita": 550,
+      "beppu": 560
+    },
+    "stayRecommendation": "1night",
+    "tier": "area",
+    "tier2": "area",
+    "icCard": "suica",
+    "bestSeason": "秋",
+    "onsenLevel": 3,
+    "hasDirectFlight": false,
+    "primary": [
+      "温泉",
+      "自然"
+    ],
+    "secondary": [
+      "湯治",
+      "秋"
+    ],
+    "reasonChips": [
+      "温泉",
+      "湯に浸かる",
+      "ひとり旅向け",
+      "1泊がおすすめ",
+      "車なしOK"
+    ],
+    "images": [
+      "/images/naguri/main.jpg"
+    ],
+    "imageCredit": {
+      "author": "soichi kaneko",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:%E5%90%8D%E6%A0%97%E6%B9%96_-_panoramio.jpg",
+      "attributionRequired": true
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fsaitama%2F",
+      "jalan": "https://www.jalan.net/110000/"
+    },
+    "featured_stay": {
+      "name": "名栗温泉 大松閣",
+      "catchcopy": "大正初期創業の一軒宿。鎌倉期の鹿の湯の伝説を継ぐ",
+      "hasShuttle": false,
+      "accessStation": "西武飯能駅"
+    }
+  },
+  {
+    "id": "ryokami",
+    "name": "両神温泉",
+    "type": "destination",
+    "region": "関東",
+    "hub": "東京",
+    "stayAllowed": [
+      "1night"
+    ],
+    "departures": [
+      "東京"
+    ],
+    "weight": 1,
+    "description": "四阿屋山の山麓に湧く湯で、昭和五十年の開湯と歴史は新しい。温泉街と呼べるものは無く、道の駅両神温泉薬師の湯と国民宿舎の両神荘という二つの施設に集約されている。両神荘は埼玉県で唯一の国民宿舎で、泉質はpH九・一の強アルカリ性単純冷鉱泉。ぬるりとした肌ざわりから美肌の湯と呼ばれ、露天からは小森川のせせらぎが聞こえる。道の駅では秩父名物のしゃくし菜漬が並ぶ。二月から三月にかけては四阿屋山の福寿草とロウバイが咲き、この時期に訪れる人が多い。",
+    "tags": [
+      "温泉",
+      "自然",
+      "山",
+      "春"
+    ],
+    "spots": [
+      {
+        "name": "道の駅両神温泉薬師の湯",
+        "description": "日帰り入浴のできる道の駅。秩父名物のしゃくし菜漬が並び、湯上がりに買って帰れる。"
+      },
+      {
+        "name": "四阿屋山",
+        "description": "温泉が湧く山。二月から三月にかけて福寿草とロウバイが咲き、登山道から見て回れる。"
+      },
+      {
+        "name": "小森川",
+        "description": "両神荘の露天のすぐ下を流れる川。せせらぎを聞きながら強アルカリ性の湯に浸かれる。"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": true,
+    "hotelSearch": "両神温泉",
+    "gateways": {
+      "rail": [
+        "西武秩父駅"
+      ],
+      "airport": [
+        "羽田空港"
+      ],
+      "bus": [],
+      "ferry": []
+    },
+    "destType": "onsen",
+    "railGateway": "西武秩父駅",
+    "busGateway": null,
+    "ferryGateway": null,
+    "airportGateway": "羽田空港",
+    "prefecture": "埼玉県",
+    "lat": 36.00778,
+    "lng": 138.975,
+    "stayBias": 1,
+    "city": "小鹿野町",
+    "situations": [
+      "solo",
+      "couple",
+      "friends"
+    ],
+    "catch": "埼玉で唯一の国民宿舎と、道の駅の湯。",
+    "mainSpot": "道の駅両神温泉薬師の湯",
+    "mapPoint": "両神温泉",
+    "representativeStation": "西武秩父駅",
+    "hubStation": "西武秩父駅",
+    "accessStation": "西武秩父駅",
+    "hotelArea": "saitama",
+    "finalAccess": {
+      "type": "car"
+    },
+    "travelTime": {
+      "tokyo": 120,
+      "osaka": 330,
+      "nagoya": 260,
+      "fukuoka": 510,
+      "takamatsu": 420,
+      "mito": 165,
+      "maebashi": 180,
+      "takasaki": 180,
+      "hamamatsu": 290,
+      "gifu": 280,
+      "kofu": 210,
+      "shingu": 450,
+      "tanabe": 420,
+      "shirahama": 430,
+      "kushimoto": 450,
+      "tottori": 450,
+      "shimonoseki": 540,
+      "saga": 540,
+      "oita": 570,
+      "beppu": 580
+    },
+    "stayRecommendation": "1night",
+    "tier": "area",
+    "tier2": "area",
+    "icCard": "suica",
+    "bestSeason": "春",
+    "onsenLevel": 3,
+    "hasDirectFlight": false,
+    "primary": [
+      "温泉",
+      "自然"
+    ],
+    "secondary": [
+      "山",
+      "春"
+    ],
+    "reasonChips": [
+      "温泉",
+      "湯に浸かる",
+      "ひとり旅向け",
+      "1泊がおすすめ"
+    ],
+    "images": [
+      "/images/ryokami/main.jpg"
+    ],
+    "imageCredit": {
+      "author": "Koda6029",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Yakushi_no_yu.JPG",
+      "attributionRequired": true
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fsaitama%2F",
+      "jalan": "https://www.jalan.net/110000/"
+    },
+    "featured_stay": {
+      "name": "両神温泉国民宿舎 両神荘",
+      "catchcopy": "埼玉唯一の国民宿舎。pH9.1の美肌の湯と武州和牛",
+      "hasShuttle": false,
+      "accessStation": "西武秩父駅"
+    }
+  },
+  {
+    "id": "takagoya",
+    "name": "高越山",
+    "type": "destination",
+    "region": "四国",
+    "hub": "徳島",
+    "stayAllowed": [
+      "1night"
+    ],
+    "departures": [
+      "徳島"
+    ],
+    "weight": 1,
+    "description": "剣山地の北端、吉野川がつくる細長い平野に面してそびえる標高千百三十三メートルの山だ。平野からの標高差がおよそ千メートルあるため、里から見上げると端正な三角形に立ち上がる。その姿から阿波富士と呼ばれ、地元ではおこうつさんと親しまれてきた。山頂には高越寺という古刹があり、四国百名山にも数えられる。四国最大級のオンツツジの群落があり、五月には斜面が朱に染まる。衣笠山、木綿麻山、摩尼珠山といった別名を持つのも、古くから信仰を集めてきた証しである。山川駅から車で四十分ほど。",
+    "tags": [
+      "絶景",
+      "自然",
+      "山",
+      "寺社"
+    ],
+    "spots": [
+      {
+        "name": "高越寺",
+        "description": "山頂近くに建つ古刹。修験の山として開かれ、いまも参道を登って詣でる人が絶えない。"
+      },
+      {
+        "name": "オンツツジの群落",
+        "description": "四国最大級とされる群落。五月になると斜面が朱に染まり、この時期だけ人出が増える。"
+      },
+      {
+        "name": "吉野川の眺め",
+        "description": "平野からの標高差が千メートルある。山頂からは吉野川と細長い平野が一望できてしまう。"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": true,
+    "hotelSearch": "吉野川市",
+    "gateways": {
+      "rail": [
+        "山川駅"
+      ],
+      "airport": [
+        "徳島空港"
+      ],
+      "bus": [],
+      "ferry": []
+    },
+    "destType": "sight",
+    "railGateway": "山川駅",
+    "busGateway": null,
+    "ferryGateway": null,
+    "airportGateway": "徳島空港",
+    "prefecture": "徳島県",
+    "lat": 34.01724,
+    "lng": 134.19589,
+    "stayBias": 1,
+    "city": "吉野川市",
+    "situations": [
+      "solo",
+      "couple",
+      "friends"
+    ],
+    "catch": "阿波富士と呼ばれる、平野からいきなり立つ山。",
+    "mainSpot": "高越寺",
+    "mapPoint": "高越山",
+    "representativeStation": "山川駅",
+    "hubStation": "山川駅",
+    "accessStation": "山川駅",
+    "hotelArea": "tokushima",
+    "finalAccess": {
+      "type": "car"
+    },
+    "travelTime": {
+      "tokyo": 160,
+      "osaka": 160,
+      "nagoya": 195,
+      "fukuoka": 250,
+      "takamatsu": 135,
+      "mito": 205,
+      "maebashi": 220,
+      "takasaki": 220,
+      "hamamatsu": 225,
+      "gifu": 215,
+      "kofu": 250,
+      "shingu": 280,
+      "tanabe": 250,
+      "shirahama": 260,
+      "kushimoto": 280,
+      "tottori": 280,
+      "shimonoseki": 280,
+      "saga": 280,
+      "oita": 310,
+      "beppu": 320
+    },
+    "stayRecommendation": "1night",
+    "tier": "area",
+    "tier2": "area",
+    "icCard": "icoca",
+    "bestSeason": "春",
+    "onsenLevel": 0,
+    "hasDirectFlight": false,
+    "primary": [
+      "絶景",
+      "自然"
+    ],
+    "secondary": [
+      "山",
+      "寺社"
+    ],
+    "reasonChips": [
+      "絶景",
+      "自然と過ごす",
+      "ひとり旅向け",
+      "1泊がおすすめ"
+    ],
+    "images": [
+      "/images/takagoya/main.jpg"
+    ],
+    "imageCredit": {
+      "author": "Dokudami",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Kouetusan01.jpg",
+      "attributionRequired": true
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Ftokushima%2F",
+      "jalan": "https://www.jalan.net/360000/"
+    }
+  },
+  {
+    "id": "naruko-kyo",
+    "name": "鳴子峡",
+    "type": "destination",
+    "region": "東北",
+    "hub": "仙台",
+    "stayAllowed": [
+      "1night"
+    ],
+    "departures": [
+      "仙台"
+    ],
+    "weight": 1,
+    "description": "大谷川が台地を削ってできた峡谷で、深さ八十から百メートルの断崖が四キロにわたって続く。狭いところは幅十メートルのV字谷、広いところは幅百メートルのU字谷になる。白い石英粗面岩質の凝灰角礫岩が侵食され、立岩、衝立岩、獅子岩、仁王岩、虫喰岩、九曜岩、烏帽子岩、天柱岩と名の付いた奇岩が並ぶ。形が作られ始めたのは最終氷期の終わり、およそ一万年前からだ。栗駒国定公園に含まれ、宮城県の名勝に指定されている。紅葉の時期は大深沢橋からの眺めに人が集まる。鳴子温泉から車で十分ほど。",
+    "tags": [
+      "絶景",
+      "自然",
+      "秋"
+    ],
+    "spots": [
+      {
+        "name": "大深沢橋",
+        "description": "峡谷に架かる橋。紅葉の時期はここから見下ろす眺めを目当てに人が集まってくる場所。"
+      },
+      {
+        "name": "名の付いた奇岩",
+        "description": "立岩・衝立岩・獅子岩・仁王岩など、白い凝灰角礫岩が削られてできた岩が並んでいる。"
+      },
+      {
+        "name": "鳴子温泉",
+        "description": "車で十分ほどの湯の町。峡谷を歩いたあと、そのまま宿に入る旅程が組みやすい距離にある。"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": true,
+    "hotelSearch": "大崎市",
+    "gateways": {
+      "rail": [
+        "鳴子温泉駅"
+      ],
+      "airport": [
+        "仙台空港"
+      ],
+      "bus": [],
+      "ferry": []
+    },
+    "destType": "sight",
+    "railGateway": "鳴子温泉駅",
+    "busGateway": null,
+    "ferryGateway": null,
+    "airportGateway": "仙台空港",
+    "prefecture": "宮城県",
+    "lat": 38.73639,
+    "lng": 140.69222,
+    "stayBias": 1,
+    "city": "大崎市",
+    "situations": [
+      "solo",
+      "couple",
+      "friends"
+    ],
+    "catch": "深さ百メートルの断崖が、四キロ続く。",
+    "mainSpot": "大深沢橋",
+    "mapPoint": "鳴子峡",
+    "representativeStation": "鳴子温泉駅",
+    "hubStation": "鳴子温泉駅",
+    "accessStation": "鳴子温泉駅",
+    "hotelArea": "miyagi",
+    "finalAccess": {
+      "type": "car"
+    },
+    "travelTime": {
+      "tokyo": 200,
+      "osaka": 340,
+      "nagoya": 285,
+      "fukuoka": 490,
+      "takamatsu": 440,
+      "mito": 245,
+      "maebashi": 260,
+      "takasaki": 260,
+      "hamamatsu": 315,
+      "gifu": 305,
+      "kofu": 290,
+      "shingu": 460,
+      "tanabe": 430,
+      "shirahama": 440,
+      "kushimoto": 460,
+      "tottori": 460,
+      "shimonoseki": 520,
+      "saga": 520,
+      "oita": 550,
+      "beppu": 560
+    },
+    "stayRecommendation": "1night",
+    "tier": "area",
+    "tier2": "area",
+    "icCard": "suica",
+    "bestSeason": "秋",
+    "onsenLevel": 0,
+    "hasDirectFlight": false,
+    "primary": [
+      "絶景",
+      "自然"
+    ],
+    "secondary": [
+      "秋"
+    ],
+    "reasonChips": [
+      "絶景",
+      "自然と過ごす",
+      "ひとり旅向け",
+      "1泊がおすすめ"
+    ],
+    "images": [
+      "/images/naruko-kyo/main.jpg"
+    ],
+    "imageCredit": {
+      "author": "inook2011",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:%E9%B3%B4%E5%AD%90%E5%B3%A1%E5%A4%A7%E6%B7%B1%E6%B2%A2%E6%A9%8B%E3%82%92%E6%9C%9B%E3%82%80.JPG",
+      "attributionRequired": true
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fmiyagi%2F",
+      "jalan": "https://www.jalan.net/040000/"
+    }
   }
 ]

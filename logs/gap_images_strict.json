@@ -1,0 +1,42 @@
+{
+ "pass": [
+  {
+   "id": "inunakiyama",
+   "title": "File:犬鳴山七宝瀧寺にて 道祖神^ 2013.11.23 - panoramio.jpg",
+   "subject": "山中の石灯籠と苔むした岩肌の参道",
+   "reason": "霊山の神秘的な雰囲気が伝わる風景で訴求力あり"
+  },
+  {
+   "id": "naguri",
+   "title": "File:名栗湖 - panoramio.jpg",
+   "subject": "山々に囲まれた湖面に映る夕日と紅葉",
+   "reason": "山間の湖と夕陽が幻想的で旅情を誘う風景写真"
+  },
+  {
+   "id": "ryokami",
+   "title": "File:Yakushi no yu.JPG",
+   "subject": "両神温泉薬師の湯と紅葉の山",
+   "reason": "温泉施設と紅葉が調和し行きたくなる景観"
+  },
+  {
+   "id": "takagoya",
+   "title": "File:Kouetusan01.jpg",
+   "subject": "社寺の屋根越しに望む雪山と街並み",
+   "reason": "山頂からの絶景で旅情感があり魅力的な景観"
+  }
+ ],
+ "fail": [
+  {
+   "id": "iwawaki",
+   "title": "File:View from Mount Iwawaki 6.jpg",
+   "subject": "山頂付近から見た霞がかった市街地遠景",
+   "reason": "霞が強く眺望が不鮮明で訴求力に欠ける"
+  },
+  {
+   "id": "naruko-kyo",
+   "title": "File:Naruko Canyon - panoramio.jpg",
+   "subject": "紅葉に囲まれた廃線トンネル入口",
+   "reason": "トンネル構造物が主役で旅情より廃墟感が強い"
+  }
+ ]
+}

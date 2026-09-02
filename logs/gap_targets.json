@@ -1,0 +1,129 @@
+[
+  {
+    "id": "inunakiyama",
+    "name": "犬鳴山温泉",
+    "prefecture": "大阪府",
+    "city": "泉佐野市",
+    "lat": 34.3385,
+    "lng": 135.37594,
+    "imageQuery": "犬鳴山 七宝瀧寺",
+    "localityWords": [
+      "犬鳴山",
+      "泉佐野",
+      "大阪"
+    ]
+  },
+  {
+    "id": "iwawaki",
+    "name": "岩湧山",
+    "prefecture": "大阪府",
+    "city": "河内長野市",
+    "lat": 34.37408,
+    "lng": 135.551,
+    "imageQuery": "岩湧山 河内長野",
+    "localityWords": [
+      "岩湧",
+      "河内長野",
+      "大阪"
+    ]
+  },
+  {
+    "id": "naguri",
+    "name": "名栗温泉",
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "lat": 35.85954,
+    "lng": 139.18454,
+    "imageQuery": "名栗湖 飯能",
+    "localityWords": [
+      "名栗",
+      "飯能",
+      "埼玉"
+    ]
+  },
+  {
+    "id": "ryokami",
+    "name": "両神温泉",
+    "prefecture": "埼玉県",
+    "city": "小鹿野町",
+    "lat": 36.00778,
+    "lng": 138.975,
+    "imageQuery": "両神山 小鹿野",
+    "localityWords": [
+      "両神",
+      "小鹿野",
+      "埼玉"
+    ]
+  },
+  {
+    "id": "ogoto",
+    "name": "おごと温泉",
+    "prefecture": "滋賀県",
+    "city": "大津市",
+    "lat": 35.09704,
+    "lng": 135.89486,
+    "imageQuery": "おごと温泉 大津",
+    "localityWords": [
+      "おごと",
+      "雄琴",
+      "大津",
+      "滋賀"
+    ]
+  },
+  {
+    "id": "tsukigatani",
+    "name": "月ヶ谷温泉",
+    "prefecture": "徳島県",
+    "city": "上勝町",
+    "lat": 33.885,
+    "lng": 134.41831,
+    "imageQuery": "月ヶ谷温泉 上勝町",
+    "localityWords": [
+      "月ヶ谷",
+      "上勝",
+      "徳島"
+    ]
+  },
+  {
+    "id": "takagoya",
+    "name": "高越山",
+    "prefecture": "徳島県",
+    "city": "吉野川市",
+    "lat": 34.01724,
+    "lng": 134.19589,
+    "imageQuery": "高越山 吉野川市",
+    "localityWords": [
+      "高越",
+      "吉野川",
+      "徳島"
+    ]
+  },
+  {
+    "id": "osezaki",
+    "name": "大瀬崎",
+    "prefecture": "長崎県",
+    "city": "五島市",
+    "lat": 35.03,
+    "lng": 138.78826,
+    "imageQuery": "大瀬埼灯台 五島",
+    "localityWords": [
+      "大瀬",
+      "五島",
+      "長崎"
+    ]
+  },
+  {
+    "id": "naruko-kyo",
+    "name": "鳴子峡",
+    "prefecture": "宮城県",
+    "city": "大崎市",
+    "lat": 38.73639,
+    "lng": 140.69222,
+    "imageQuery": "鳴子峡",
+    "localityWords": [
+      "鳴子",
+      "大崎",
+      "宮城"
+    ]
+  }
+]
