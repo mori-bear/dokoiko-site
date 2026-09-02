@@ -1,8 +1,8 @@
 # デプロイ手順（本番＝ tabidokoiko.com に一本化）
 
 ## 構成（2リポ）
-- **mori-bear/dokoiko-site**（このリポ）= ソース（Astro）。canonical データは `src/data/destinations.json`。
-- **mori-bear/dokoiko** = 本番の配信リポジトリ。GitHub Pages（main ブランチ直下）＋ `CNAME=tabidokoiko.com`。
+- **mori-lab-dev/dokoiko-site**（このリポ）= ソース（Astro）。canonical データは `src/data/destinations.json`。
+- **mori-lab-dev/dokoiko** = 本番の配信リポジトリ。GitHub Pages（main ブランチ直下）＋ `CNAME=tabidokoiko.com`。
   → **本番は必ずこの dokoiko リポ経由**。
 
 ## ★ 正しいデプロイ経路（これに一本化）
@@ -15,7 +15,7 @@
 
 ## ⚠️ 使用しない経路（無効化済み）
 - `dokoiko-site/.github/workflows/deploy.yml` は **無効化**（`deploy.yml.disabled` にリネーム）。
-  - これは mori-bear/dokoiko-site の GitHub Pages（`https://mori-bear.github.io/dokoiko-site/`）へ出す設定で、
+  - これは mori-lab-dev/dokoiko-site の GitHub Pages（`https://mori-lab-dev.github.io/dokoiko-site/`）へ出す設定で、
     **誤ったデプロイ先**だった：
     - CNAME が無いため tabidokoiko.com ではなく `/dokoiko-site/` 配下に出る
     - `site: tabidokoiko.com` ビルドのためアセット参照が `/_astro/...`（ルート絶対）になり、

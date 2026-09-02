@@ -1,4 +1,4 @@
-// dist/ を本番配信リポ(mori-bear/dokoiko)の作業ツリーへ反映する。
+// dist/ を本番配信リポ(mori-lab-dev/dokoiko)の作業ツリーへ反映する。
 // DEPLOY.md の「正しいデプロイ経路」手順3に相当。CNAME / .nojekyll / .git は保持する。
 // 使い方: node scripts/deployToPages.mjs        （反映のみ・commit/pushは別途）
 //         node scripts/deployToPages.mjs --dry  （差分の確認のみ）
