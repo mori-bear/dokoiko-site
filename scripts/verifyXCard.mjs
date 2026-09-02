@@ -18,15 +18,16 @@ const PLAIN = { 'User-Agent': 'Mozilla/5.0 (compatible; DokoIko-Verify/1.0)' };
 const PAGES = [
   ['トップ', '/'],
   ['全国一覧', '/list/'],
-  ['目的地一覧', '/destinations/'],
   ['九州ふっこう特設', '/kyushu-fukko/'],
   ['destination(阿蘇)', '/destinations/aso/'],
   ['destination(湯の峰温泉)', '/destinations/yunomine/'],
-  ['destination(黒川温泉)', '/destinations/kurokawa-k/'],
+  ['destination(佐渡島)', '/destinations/sado-island/'],
+  ['destination(尾瀬)', '/destinations/oze-2/'],
+  ['destination(深谷)', '/destinations/fukaya/'],
+  ['destination(大山阿夫利神社)', '/destinations/oyama-afuri/'],
+  ['destination(大分)', '/destinations/oita/'],
+  ['destination(水木しげるロード)', '/destinations/mizuki-shigeru-road/'],
   ['運営者情報', '/about/'],
-  ['お問い合わせ', '/contact/'],
-  ['プライバシーポリシー', '/privacy/'],
-  ['利用規約', '/terms/'],
 ];
 
 const meta = (html, key) =>

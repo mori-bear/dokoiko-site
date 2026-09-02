@@ -17,7 +17,9 @@ import fs from 'node:fs';
 import path from 'node:path';
 
 const SITE = 'https://tabidokoiko.com';
-const BRAND = '/images/brand_share.png';
+// ブランド画像はJPEGを正とする。写真ベースなのにPNGだと837KBあり、
+// Xのクローラが取りに行くには重い（JPEGなら77KBで見た目は変わらない）。
+const BRAND = '/images/brand_share.jpg';
 
 const toAbs = (u: string): string => (/^https?:\/\//.test(u) ? u : SITE + (u.startsWith('/') ? u : '/' + u));
 const ogImage: string = toAbs(typeof image === 'string' && image ? image : BRAND);
