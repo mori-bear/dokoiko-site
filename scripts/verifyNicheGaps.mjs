@@ -14,10 +14,18 @@ const km = (a, b, c, d) => Math.hypot((a - c) * 111, (b - d) * 111 * Math.cos((a
 
 const all = JSON.parse(fs.readFileSync('src/data/destinations.json', 'utf8'));
 const byId = Object.fromEntries(all.map((d) => [d.id, d]));
-const audit = JSON.parse(fs.readFileSync('logs/coord_audit_niche.json', 'utf8'));
-const targets = audit.filter((x) => x.osm && x.gapM > 400).sort((a, b) => b.gapM - a.gapM);
-
-const OUT = 'logs/niche_gap_verify.json';
+// usage: node scripts/verifyNicheGaps.mjs [検査結果.json] [出力先]
+const IN = process.argv[2] || 'logs/coord_audit_niche.json';
+const OUT = process.argv[3] || 'logs/niche_gap_verify.json';
+const audit = JSON.parse(fs.readFileSync(IN, 'utf8'));
+// mapPoint自体で引けたものだけを対象にする。spotsへのフォールバックは
+// 「別のスポットとの距離」を測っているだけで、誤りの証拠にならない。
+const targets = audit.filter((x) => {
+  if (!x.osm || !(x.gapM > 400)) return false;
+  const d = byId[x.id];
+  const mp = String(d?.mapPoint || '').replace(/[（(].*$/, '').trim();
+  return !x.osm.q || String(x.osm.q).startsWith(mp);
+}).sort((a, b) => b.gapM - a.gapM);
 const done = fs.existsSync(OUT) ? JSON.parse(fs.readFileSync(OUT, 'utf8')) : [];
 const seen = new Set(done.map((x) => x.id));
 
