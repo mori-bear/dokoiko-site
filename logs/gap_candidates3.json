@@ -1,0 +1,119 @@
+[
+ {
+  "id": "hoshida",
+  "name": "ほしだ園地",
+  "prefecture": "大阪府",
+  "city": "交野市",
+  "checks": {
+   "duplicate": "なし",
+   "coords": "一致 0.01km (wikipedia×osm)",
+   "nearby": "なし"
+  },
+  "sources": [
+   {
+    "src": "wikipedia",
+    "lat": 34.75277778,
+    "lng": 135.68527778,
+    "note": "星のブランコ"
+   },
+   {
+    "src": "osm",
+    "lat": 34.7528447,
+    "lng": 135.6853145,
+    "note": "星のブランコ 星のブランコ"
+   }
+  ],
+  "distanceKm": 0.01,
+  "verifiedBy": [
+   "wikipedia",
+   "osm"
+  ],
+  "lat": 34.75281,
+  "lng": 135.6853,
+  "pass": true
+ },
+ {
+  "id": "iojima-nagasaki",
+  "name": "伊王島",
+  "prefecture": "長崎県",
+  "city": "長崎市",
+  "checks": {
+   "duplicate": "なし",
+   "coords": "一致 0.18km (osm×gsi)",
+   "nearby": "なし"
+  },
+  "sources": [
+   {
+    "src": "wikidata",
+    "lat": 32.704166666666666,
+    "lng": 129.77858333333333,
+    "note": "Q5214603"
+   },
+   {
+    "src": "osm",
+    "lat": 32.7082471,
+    "lng": 129.7673181,
+    "note": "伊王島 伊王島 伊王島"
+   },
+   {
+    "src": "gsi",
+    "lat": 32.707478,
+    "lng": 129.768997,
+    "note": "伊王島"
+   }
+  ],
+  "distanceKm": 0.18,
+  "verifiedBy": [
+   "osm",
+   "gsi"
+  ],
+  "lat": 32.70786,
+  "lng": 129.76816,
+  "pass": true
+ },
+ {
+  "id": "nomozaki",
+  "name": "野母崎",
+  "prefecture": "長崎県",
+  "city": "長崎市",
+  "checks": {
+   "duplicate": "なし",
+   "coords": "一致 0.00km (wikipedia×wikidata)",
+   "nearby": "なし"
+  },
+  "sources": [
+   {
+    "src": "wikipedia",
+    "lat": 32.60833333,
+    "lng": 129.8,
+    "note": "長崎半島"
+   },
+   {
+    "src": "wikidata",
+    "lat": 32.60833333,
+    "lng": 129.8,
+    "note": "Q8192255"
+   },
+   {
+    "src": "osm",
+    "lat": 32.5694065,
+    "lng": 129.7392628,
+    "note": "野母崎 野母崎 野母崎"
+   },
+   {
+    "src": "gsi",
+    "lat": 32.569717,
+    "lng": 129.738922,
+    "note": "野母崎"
+   }
+  ],
+  "distanceKm": 0,
+  "verifiedBy": [
+   "wikipedia",
+   "wikidata"
+  ],
+  "lat": 32.60833,
+  "lng": 129.8,
+  "pass": true
+ }
+]

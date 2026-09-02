@@ -225034,5 +225034,409 @@
       "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fmiyagi%2F",
       "jalan": "https://www.jalan.net/040000/"
     }
+  },
+  {
+    "id": "hoshida",
+    "name": "ほしだ園地",
+    "type": "destination",
+    "region": "近畿",
+    "hub": "大阪",
+    "stayAllowed": [
+      "1night"
+    ],
+    "departures": [
+      "大阪"
+    ],
+    "weight": 1,
+    "description": "交野の山あいにある府民の森で、金剛生駒紀泉国定公園に含まれる。園内には星のブランコと呼ばれる大吊り橋があり、長さ二百八十メートル、地上からの高さは五十メートル。木床版の吊り橋としては国内でも最大級で、渡っているあいだ足元がわずかに揺れる。橋の上からは生駒山系の谷がそのまま見渡せ、秋には斜面全体が色づく。園地には岩登りの練習場であるクライミングウォールもあり、ハイキングの人と登る人が入り混じる。京阪の私市駅から歩いて四十分ほど、大阪の市街地から一時間かからない。",
+    "tags": [
+      "絶景",
+      "自然",
+      "秋"
+    ],
+    "spots": [
+      {
+        "name": "星のブランコ",
+        "description": "長さ二百八十メートル、高さ五十メートルの吊り橋。木床版としては国内最大級になる。"
+      },
+      {
+        "name": "展望スポット",
+        "description": "橋の上から生駒山系の谷を見渡せる。秋になると斜面全体が色づいて視界を埋め尽くす。"
+      },
+      {
+        "name": "クライミングウォール",
+        "description": "園内にある岩登りの練習場。ハイキングの人と登る人が同じ道で入り混じっている場所。"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "hotelSearch": "交野市",
+    "gateways": {
+      "rail": [
+        "私市駅"
+      ],
+      "airport": [
+        "伊丹空港"
+      ],
+      "bus": [],
+      "ferry": []
+    },
+    "destType": "sight",
+    "railGateway": "私市駅",
+    "busGateway": null,
+    "ferryGateway": null,
+    "airportGateway": "伊丹空港",
+    "prefecture": "大阪府",
+    "lat": 34.75281,
+    "lng": 135.6853,
+    "stayBias": 1,
+    "city": "交野市",
+    "situations": [
+      "solo",
+      "couple",
+      "friends"
+    ],
+    "catch": "谷の上に、長さ二百八十メートルの吊り橋が渡る。",
+    "mainSpot": "星のブランコ",
+    "mapPoint": "ほしだ園地",
+    "representativeStation": "私市駅",
+    "hubStation": "私市駅",
+    "accessStation": "私市駅",
+    "hotelArea": "osaka",
+    "finalAccess": {
+      "type": "walk"
+    },
+    "travelTime": {
+      "tokyo": 150,
+      "nagoya": 50,
+      "fukuoka": 150,
+      "takamatsu": 115,
+      "wakayama": 70,
+      "mito": 215,
+      "maebashi": 190,
+      "gifu": 35,
+      "kofu": 210,
+      "tottori": 180,
+      "oita": 210,
+      "kyoto": 15,
+      "kobe": 25,
+      "yokohama": 140,
+      "sendai": 245,
+      "hiroshima": 85,
+      "sapporo": 495,
+      "kanazawa": 165,
+      "naha": 150,
+      "okayama": 45,
+      "matsumoto": 245,
+      "utsunomiya": 190,
+      "niigata": 260,
+      "morioka": 280,
+      "akita": 360,
+      "aomori": 365,
+      "yamagata": 310,
+      "fukushima": 245,
+      "shizuoka": 100,
+      "nara": 35,
+      "matsue": 270,
+      "matsuyama": 165,
+      "kochi": 165,
+      "tokushima": 130,
+      "nagasaki": 210,
+      "kumamoto": 180,
+      "miyazaki": 240,
+      "kagoshima": 230,
+      "yamaguchi": 140
+    },
+    "stayRecommendation": "1night",
+    "tier": "area",
+    "tier2": "area",
+    "icCard": "suica",
+    "bestSeason": "秋",
+    "onsenLevel": 0,
+    "hasDirectFlight": false,
+    "primary": [
+      "絶景",
+      "自然"
+    ],
+    "secondary": [
+      "秋"
+    ],
+    "reasonChips": [
+      "絶景",
+      "自然と過ごす",
+      "ひとり旅向け",
+      "1泊がおすすめ",
+      "車なしOK"
+    ],
+    "images": [
+      "/images/hoshida/main.jpg"
+    ],
+    "imageCredit": {
+      "author": "交野タイムズ",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:%E6%98%9F%E3%81%AE%E3%83%96%E3%83%A9%E3%83%B3%E3%82%B3%E3%81%AE%E7%B4%85%E8%91%89.jpg",
+      "attributionRequired": true
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fosaka%2F",
+      "jalan": "https://www.jalan.net/270000/"
+    }
+  },
+  {
+    "id": "iojima-nagasaki",
+    "name": "伊王島",
+    "type": "destination",
+    "region": "九州",
+    "hub": "長崎",
+    "stayAllowed": [
+      "1night"
+    ],
+    "departures": [
+      "長崎"
+    ],
+    "weight": 1,
+    "description": "長崎港から南西へ十キロほどの海に浮かぶ、周囲七・一キロ、面積一・二四平方キロの島だ。隣の沖之島とは伊王瀬戸をはさんで三十メートルしか離れておらず、三本の橋で結ばれている。江戸期は佐賀藩の支配下にあり、昭和十年に石炭が見つかってからは炭鉱の島として栄えた。二〇一一年に伊王島大橋が開通し、車のまま渡れるようになっている。教会と灯台が島の高いところに並び、海沿いには砂浜と温泉施設がある。長崎市街から車で三十分ほど、船なら二十分ほどで着く距離だ。",
+    "tags": [
+      "絶景",
+      "海",
+      "離島",
+      "夏"
+    ],
+    "spots": [
+      {
+        "name": "伊王島大橋",
+        "description": "二〇一一年に開通した橋。車のまま渡れるようになり、長崎の市街地から三十分ほどで着く。"
+      },
+      {
+        "name": "伊王島灯台",
+        "description": "島の高いところに立つ灯台。明治期に建てられ、五島灘を行き交う船を照らし続けてきた。"
+      },
+      {
+        "name": "炭鉱の島の跡",
+        "description": "昭和十年に石炭が見つかり、島は炭鉱で栄えた。閉山したあとの遺構がいまも残っている。"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": false,
+    "hotelSearch": "伊王島",
+    "gateways": {
+      "rail": [
+        "長崎駅"
+      ],
+      "airport": [
+        "長崎空港"
+      ],
+      "bus": [],
+      "ferry": []
+    },
+    "destType": "sight",
+    "railGateway": "長崎駅",
+    "busGateway": null,
+    "ferryGateway": null,
+    "airportGateway": "長崎空港",
+    "prefecture": "長崎県",
+    "lat": 32.70786,
+    "lng": 129.76816,
+    "stayBias": 1,
+    "city": "長崎市",
+    "situations": [
+      "solo",
+      "couple",
+      "friends"
+    ],
+    "catch": "橋で渡れるようになった、炭鉱の島。",
+    "mainSpot": "伊王島大橋",
+    "mapPoint": "伊王島",
+    "representativeStation": "長崎駅",
+    "hubStation": "長崎駅",
+    "accessStation": "長崎駅",
+    "hotelArea": "nagasaki",
+    "finalAccess": {
+      "type": "walk"
+    },
+    "travelTime": {
+      "tokyo": 430,
+      "osaka": 290,
+      "nagoya": 345,
+      "fukuoka": 90,
+      "takamatsu": 300,
+      "mito": 475,
+      "maebashi": 490,
+      "takasaki": 490,
+      "hamamatsu": 375,
+      "gifu": 365,
+      "kofu": 520,
+      "shingu": 410,
+      "tanabe": 380,
+      "shirahama": 390,
+      "kushimoto": 410,
+      "tottori": 410,
+      "shimonoseki": 170,
+      "saga": 170,
+      "oita": 200,
+      "beppu": 210
+    },
+    "stayRecommendation": "1night",
+    "tier": "area",
+    "tier2": "area",
+    "icCard": "nimoca",
+    "bestSeason": "夏",
+    "onsenLevel": 0,
+    "hasDirectFlight": false,
+    "primary": [
+      "絶景",
+      "海"
+    ],
+    "secondary": [
+      "離島",
+      "夏"
+    ],
+    "reasonChips": [
+      "絶景",
+      "自然と過ごす",
+      "ひとり旅向け",
+      "1泊がおすすめ",
+      "車なしOK"
+    ],
+    "images": [
+      "/images/iojima-nagasaki/main.jpg"
+    ],
+    "imageCredit": {
+      "author": "Jakub Hałun",
+      "license": "CC BY 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Iojima_Bridge_in_Nagasaki,_20240814_1400_3313.jpg",
+      "attributionRequired": true
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fnagasaki%2F",
+      "jalan": "https://www.jalan.net/420000/"
+    }
+  },
+  {
+    "id": "kirifuri",
+    "name": "霧降滝",
+    "type": "destination",
+    "region": "関東",
+    "hub": "東京",
+    "stayAllowed": [
+      "1night"
+    ],
+    "departures": [
+      "東京"
+    ],
+    "weight": 1,
+    "description": "板穴川の支流である霧降川にかかる滝で、上段が二十五メートル、下段が二十六メートル、全長は七十五メートルある。華厳滝・裏見滝とともに日光三名瀑に数えられ、日本の滝百選にも選ばれている。岩壁に当たって飛び散る水しぶきが霧の降るように見えることが名の由来だ。観瀑台が整えられており、駐車場から遊歩道を五分ほど歩けば滝の全景が正面に開ける。大正四年にフランス人外交官のガロアが見つけた珍しい昆虫ガロアムシが、この滝の周辺に生息している。日光インターから霧降高原道路で四キロほど。",
+    "tags": [
+      "絶景",
+      "自然",
+      "秋"
+    ],
+    "spots": [
+      {
+        "name": "観瀬台からの全景",
+        "description": "駐車場から遊歩道を五分ほど。上下二段の滝が正面に開け、秋は紅葉が谷を埋めていく。"
+      },
+      {
+        "name": "日光三名瀑",
+        "description": "華厳滝・裏見滝と並んで数えられる。日本の滝百選にも選ばれている滝のひとつである。"
+      },
+      {
+        "name": "ガロアムシ",
+        "description": "大正四年にフランス人外交官が見つけた珍しい昆虫。この滝の周辺にいまも生息している。"
+      }
+    ],
+    "shinkansenAccess": false,
+    "requiresCar": true,
+    "hotelSearch": "日光市",
+    "gateways": {
+      "rail": [
+        "日光駅"
+      ],
+      "airport": [
+        "羽田空港"
+      ],
+      "bus": [],
+      "ferry": []
+    },
+    "destType": "sight",
+    "railGateway": "日光駅",
+    "busGateway": null,
+    "ferryGateway": null,
+    "airportGateway": "羽田空港",
+    "prefecture": "栃木県",
+    "lat": 36.78011,
+    "lng": 139.62386,
+    "stayBias": 1,
+    "city": "日光市",
+    "situations": [
+      "solo",
+      "couple",
+      "friends"
+    ],
+    "catch": "上下二段、あわせて七十五メートル。日光三名瀑のひとつ。",
+    "mainSpot": "観瀬台からの全景",
+    "mapPoint": "霧降滝",
+    "representativeStation": "日光駅",
+    "hubStation": "日光駅",
+    "accessStation": "日光駅",
+    "hotelArea": "tochigi",
+    "finalAccess": {
+      "type": "car"
+    },
+    "travelTime": {
+      "tokyo": 115,
+      "osaka": 265,
+      "nagoya": 210,
+      "fukuoka": 415,
+      "takamatsu": 365,
+      "mito": 170,
+      "maebashi": 185,
+      "takasaki": 185,
+      "hamamatsu": 240,
+      "gifu": 230,
+      "kofu": 215,
+      "shingu": 385,
+      "tanabe": 355,
+      "shirahama": 365,
+      "kushimoto": 385,
+      "tottori": 385,
+      "shimonoseki": 445,
+      "saga": 445,
+      "oita": 475,
+      "beppu": 485
+    },
+    "stayRecommendation": "1night",
+    "tier": "area",
+    "tier2": "area",
+    "icCard": "suica",
+    "bestSeason": "秋",
+    "onsenLevel": 0,
+    "hasDirectFlight": false,
+    "primary": [
+      "絶景",
+      "自然"
+    ],
+    "secondary": [
+      "秋"
+    ],
+    "reasonChips": [
+      "絶景",
+      "自然と過ごす",
+      "ひとり旅向け",
+      "1泊がおすすめ"
+    ],
+    "images": [
+      "/images/kirifuri/main.jpg"
+    ],
+    "imageCredit": {
+      "author": "くろふね",
+      "license": "CC BY 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:%E6%97%A5%E5%85%89%E9%9C%A7%E9%99%8D%E3%81%AE%E6%BB%9D20211103-IMG_7813.jpg",
+      "attributionRequired": true
+    },
+    "hotelLinks": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/5113ee4b.8662cfc5.5113ee4c.119de89a/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Ftochigi%2F",
+      "jalan": "https://www.jalan.net/090000/"
+    }
   }
 ]

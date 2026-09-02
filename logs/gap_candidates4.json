@@ -1,0 +1,109 @@
+[
+ {
+  "id": "ochiai-shuraku",
+  "name": "落合集落",
+  "prefecture": "徳島県",
+  "city": "三好市",
+  "checks": {
+   "duplicate": "なし",
+   "coords": "2ソース未満 (osm)"
+  },
+  "sources": [
+   {
+    "src": "osm",
+    "lat": 33.8817266,
+    "lng": 133.934913,
+    "note": "落合集落 落合集落 落合集落"
+   }
+  ],
+  "pass": false
+ },
+ {
+  "id": "shitara",
+  "name": "阿寺の七滝",
+  "prefecture": "愛知県",
+  "city": "新城市",
+  "checks": {
+   "duplicate": "id重複:設楽"
+  },
+  "pass": false
+ },
+ {
+  "id": "gokei-okayama",
+  "name": "豪渓",
+  "prefecture": "岡山県",
+  "city": "総社市",
+  "checks": {
+   "duplicate": "なし",
+   "coords": "一致 0.00km (wikipedia×wikidata)",
+   "nearby": "なし"
+  },
+  "sources": [
+   {
+    "src": "wikipedia",
+    "lat": 34.76002778,
+    "lng": 133.69922222,
+    "note": "豪渓"
+   },
+   {
+    "src": "wikidata",
+    "lat": 34.760027777778,
+    "lng": 133.69922222222,
+    "note": "Q5627758"
+   },
+   {
+    "src": "osm",
+    "lat": 34.7062528,
+    "lng": 133.7225821,
+    "note": "豪渓 豪渓 豪渓"
+   },
+   {
+    "src": "gsi",
+    "lat": 34.70636519,
+    "lng": 133.7219018,
+    "note": "総社警察署豪渓駐在所"
+   }
+  ],
+  "distanceKm": 0,
+  "verifiedBy": [
+   "wikipedia",
+   "wikidata"
+  ],
+  "lat": 34.76003,
+  "lng": 133.69922,
+  "pass": true
+ },
+ {
+  "id": "kirifuri",
+  "name": "霧降滝",
+  "prefecture": "栃木県",
+  "city": "日光市",
+  "checks": {
+   "duplicate": "なし",
+   "coords": "一致 0.03km (osm×gsi)",
+   "nearby": "なし"
+  },
+  "sources": [
+   {
+    "src": "osm",
+    "lat": 36.7802206,
+    "lng": 139.6237881,
+    "note": "霧降の滝 霧降の滝 霧降の滝"
+   },
+   {
+    "src": "gsi",
+    "lat": 36.779991129611,
+    "lng": 139.623939785659,
+    "note": "霧降滝"
+   }
+  ],
+  "distanceKm": 0.03,
+  "verifiedBy": [
+   "osm",
+   "gsi"
+  ],
+  "lat": 36.78011,
+  "lng": 139.62386,
+  "pass": true
+ }
+]

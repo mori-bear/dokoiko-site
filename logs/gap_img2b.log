@@ -1,0 +1,24 @@
+  skip ほしだ園地（判定済み）
+file:///Users/moririn/MORI-LAB/projects/dokoiko-site/node_modules/@anthropic-ai/sdk/core/error.mjs:60
+            return new InternalServerError(status, error, message, headers, type);
+                   ^
+
+InternalServerError: 529 {"type":"error","error":{"type":"overloaded_error","message":"Overloaded"},"request_id":"req_011CeedYNRTJWw2pXSS3Zomg"}
+    at APIError.generate (file:///Users/moririn/MORI-LAB/projects/dokoiko-site/node_modules/@anthropic-ai/sdk/core/error.mjs:60:20)
+    at Anthropic.makeStatusError (file:///Users/moririn/MORI-LAB/projects/dokoiko-site/node_modules/@anthropic-ai/sdk/client.mjs:156:32)
+    at Anthropic.makeRequest (file:///Users/moririn/MORI-LAB/projects/dokoiko-site/node_modules/@anthropic-ai/sdk/client.mjs:311:30)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async judge (file:///Users/moririn/MORI-LAB/projects/dokoiko-site/scripts/kyushuDestImages.mjs:42:15)
+    at async file:///Users/moririn/MORI-LAB/projects/dokoiko-site/scripts/kyushuDestImages.mjs:120:15 {
+  status: 529,
+  headers: Headers {},
+  requestID: 'req_011CeedYNRTJWw2pXSS3Zomg',
+  error: {
+    type: 'error',
+    error: { type: 'overloaded_error', message: 'Overloaded' },
+    request_id: 'req_011CeedYNRTJWw2pXSS3Zomg'
+  },
+  type: 'overloaded_error'
+}
+
+Node.js v25.8.2

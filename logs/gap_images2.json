@@ -1,0 +1,201 @@
+{
+ "adopted": [
+  {
+   "id": "hoshida",
+   "name": "ほしだ園地",
+   "title": "File:星のブランコの紅葉.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "交野タイムズ",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:%E6%98%9F%E3%81%AE%E3%83%96%E3%83%A9%E3%83%B3%E3%82%B3%E3%81%AE%E7%B4%85%E8%91%89.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "ほしだ園地の象徴的な吊橋と紅葉した谷の風景が明確に写っており、この場所と断定できる特徴的な構造物が写っている"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:星のブランコの紅葉.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "ほしだ園地の象徴的な吊橋と紅葉した谷の風景が明確に写っており、この場所と断定できる特徴的な構造物が写っている"
+    }
+   ]
+  },
+  {
+   "id": "iojima-nagasaki",
+   "name": "伊王島",
+   "title": "File:Iojima Bridge in Nagasaki, 20240814 1400 3313.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "Jakub Hałun",
+    "license": "CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Iojima_Bridge_in_Nagasaki,_20240814_1400_3313.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "伊王島大橋が写っており、長崎県伊王島の象徴的な景観。海岸風景として適切。"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:Io-Jima Island Kagoshima Prefecture Aerial photograph.2016.jpg",
+     "stage": "placeCheck",
+     "verdict": "ng",
+     "others": [
+      "鹿児島県"
+     ]
+    },
+    {
+     "title": "File:Map by the US Army Map Service - Kita Io Jima - ogasawara gunto - txu-pclmaps-oclc-6615415-kita-io-jima.jpg",
+     "stage": "haiku",
+     "placeCheck": "weak",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "地図・図表であり、旅行紹介画像として不適切です。"
+    },
+    {
+     "title": "File:Map by the US Army Map Service - Minami Io Jima - ogasawara gunto - txu-pclmaps-oclc-6615415-minami-io-jima.jpg",
+     "stage": "haiku",
+     "placeCheck": "weak",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "地図・図表資料の写真で、旅行紹介画像として不適切"
+    },
+    {
+     "title": "File:Map by the US Army Map Service - Satsuma Io Jima - ryukyu retto 50k - txu-pclmaps-oclc-6618161-satsuma-io-jima.jpg",
+     "stage": "haiku",
+     "placeCheck": "weak",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "地図・図表であり、旅行紹介画像として不適切。実景写真ではない。"
+    },
+    {
+     "title": "File:Iojima Bridge in Nagasaki, 20240814 1400 3313.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "伊王島大橋が写っており、長崎県伊王島の象徴的な景観。海岸風景として適切。"
+    }
+   ]
+  },
+  {
+   "id": "kirifuri",
+   "name": "霧降滝",
+   "title": "File:日光霧降の滝20211103-IMG 7813.jpg",
+   "placeCheck": "ok",
+   "credit": {
+    "author": "くろふね",
+    "license": "CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:%E6%97%A5%E5%85%89%E9%9C%A7%E9%99%8D%E3%81%AE%E6%BB%9D20211103-IMG_7813.jpg",
+    "attributionRequired": true
+   },
+   "verdict": {
+    "haiku": {
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "滝が明確に写り、紅葉と山々の特徴的な風景。霧降滝の秋の景観を適切に表現"
+    }
+   },
+   "tried": [
+    {
+     "title": "File:日光霧降の滝20211103-IMG 7813.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ok",
+     "identifiable": true,
+     "reason": "滝が明確に写り、紅葉と山々の特徴的な風景。霧降滝の秋の景観を適切に表現"
+    }
+   ]
+  }
+ ],
+ "rejected": [
+  {
+   "id": "gokei-okayama",
+   "name": "豪渓",
+   "reason": "合格画像なし",
+   "tried": [
+    {
+     "title": "File:JRW gōkei sta.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "駅舎や施設の建物が主体で、豪渓の特徴的な渓谷景観が写っていない。場所の断定手がかり不足。"
+    },
+    {
+     "title": "File:JRW gōkei sta enclosure 20240605.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "鉄道駅の風景であり、豪渓の特徴的な景観（渓谷美・岩壁など）が写っていません。"
+    },
+    {
+     "title": "File:JRW gōkei sta 20240605.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": true,
+     "reason": "駅舎のみで豪渓の景観（渓谷・岩壁・川）が見えていない"
+    },
+    {
+     "title": "File:JRW gōkei sta enlosure.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "駅舎の写真で、豪渓の自然景観（渓谷・奇岩など）が映っていない。旅先紹介に不適切。"
+    },
+    {
+     "title": "File:Yuttari Yakumo Gōkei Station 2020-04-04 1.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "鉄道駅の風景だが、豪渓を特定できる看板や特徴的な地形・渓谷が見当たらない。別の駅の可能性がある。"
+    },
+    {
+     "title": "File:Yuttari Yakumo Gōkei Station 2020-04-04 2.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "豪渓を特定できる手がかりがない。駅舎や地形が写っているが、どこの駅かは判別できない。"
+    },
+    {
+     "title": "File:JRF EF64-1002 Gokei Station 2021-01-16.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "鉄道車両の写真で、豪渓の景観を示していません。観光地紹介に不適切です。"
+    },
+    {
+     "title": "File:JRW 381 Yakumo passing Gokei Station 2021-01-16 2.jpg",
+     "stage": "haiku",
+     "placeCheck": "ok",
+     "verdict": "ng",
+     "identifiable": false,
+     "reason": "鉄道車両の駅構内写真であり、豪渓（渓谷）の紹介画像として不適切。別地点の写真。"
+    }
+   ]
+  },
+  {
+   "id": "nomozaki",
+   "name": "野母崎",
+   "reason": "砂浜越しの島影が暗く霞んで厳格審査に落選"
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "pass": [
+  {
+   "id": "hoshida",
+   "title": "File:星のブランコの紅葉.jpg",
+   "subject": "紅葉の山々と吊り橋を渡る人々",
+   "reason": "秋の紅葉と青空に映える吊り橋が見事で訴求力が高い"
+  },
+  {
+   "id": "iojima-nagasaki",
+   "title": "File:Iojima Bridge in Nagasaki, 20240814 1400 3313.jpg",
+   "subject": "海上から見上げる伊王島大橋と波",
+   "reason": "海と橋と島の景観が島旅の魅力を伝える風景写真"
+  },
+  {
+   "id": "kirifuri",
+   "title": "File:日光霧降の滝20211103-IMG 7813.jpg",
+   "subject": "紅葉に包まれた霧降滝の全景",
+   "reason": "鮮やかな紅葉と滝が織りなす絶景で訴求力が高い"
+  }
+ ],
+ "fail": [
+  {
+   "id": "nomozaki",
+   "title": "File:Nomozaki Kabashima.jpg",
+   "subject": "砂浜越しに見える島影と海",
+   "reason": "全体的に暗く霞んでいて色彩が乏しく、魅力が伝わりにくい"
+  }
+ ]
+}

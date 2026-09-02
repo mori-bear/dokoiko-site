@@ -36,27 +36,49 @@ const SYSTEM = `あなたは旅行サイトの画像審査担当です。指定�
 JSONのみで返答: {"verdict":"ok"|"ng","identifiable":true|false,"reason":"40字以内"}
 identifiable は「その場所だと断定できる手がかり（看板・特徴的建造物・地形・湯屋の造り）が写っているか」。`;
 
+// APIが overloaded_error や 529 を返すことがあるので、間を空けて数回やり直す
+async function withRetry(fn, tries = 8) {
+  for (let i = 0; i < tries; i++) {
+    try { return await fn(); }
+    catch (e) {
+      const s = String(e?.status ?? '');
+      const retriable = s === '429' || s === '500' || s === '529' || /overload/i.test(String(e?.message ?? e));
+      if (i === tries - 1 || !retriable) throw e;
+      await sleep(Math.min(60000, 5000 * 2 ** i));
+    }
+  }
+}
+
 async function judge(model, buf, ctx) {
   const b64 = (await sharp(buf).resize({ width: 640, withoutEnlargement: true })
     .jpeg({ quality: 75 }).toBuffer()).toString('base64');
-  const res = await client.messages.create({
+  const res = await withRetry(() => client.messages.create({
     model, max_tokens: 300, system: SYSTEM,
     messages: [{ role: 'user', content: [
       { type: 'text', text: `旅先: ${ctx}\nこの画像は紹介画像として適切か判定。` },
       { type: 'image', source: { type: 'base64', media_type: 'image/jpeg', data: b64 } },
     ] }],
-  });
+  }));
   let t = res.content[0].text.trim();
   const s = t.indexOf('{'), e = t.lastIndexOf('}');
   if (s >= 0) t = t.slice(s, e + 1);
   try { return JSON.parse(t); } catch { return { verdict: 'ng', identifiable: false, reason: 'JSON解析不可' }; }
 }
 
+// Commonsへの接続は ECONNRESET で落ちることがあるので、少し待って数回やり直す
+async function fetchRetry(url, tries = 3) {
+  for (let i = 0; i < tries; i++) {
+    try { return await fetch(url, { headers: UA }); }
+    catch (e) { if (i === tries - 1) throw e; await sleep(1500 * (i + 1)); }
+  }
+}
+
 async function candidates(query, limit = 8) {
   const api = `https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search`
     + `&gsrsearch=${encodeURIComponent('filetype:bitmap ' + query)}&gsrnamespace=6&gsrlimit=${limit * 2}`
     + `&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1600`;
-  const j = await (await fetch(api, { headers: UA })).json();
+  let j;
+  try { j = await (await fetchRetry(api)).json(); } catch { return []; }
   const pages = Object.values(j.query?.pages || {}).sort((a, b) => a.index - b.index);
   const out = [];
   for (const p of pages) {
@@ -102,7 +124,7 @@ for (const t of targets) {
     // ② 画像取得
     let buf;
     try {
-      const dl = await fetch(c.url, { headers: UA });
+      const dl = await fetchRetry(c.url);
       if (!dl.ok) { tried.push({ title: c.title, stage: 'download', reason: `HTTP ${dl.status}` }); continue; }
       buf = Buffer.from(await dl.arrayBuffer());
     } catch (e) { tried.push({ title: c.title, stage: 'download', reason: String(e).slice(0, 40) }); continue; }

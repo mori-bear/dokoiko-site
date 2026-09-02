@@ -1,0 +1,72 @@
+[
+  {
+    "id": "hoshida",
+    "name": "ほしだ園地",
+    "prefecture": "大阪府",
+    "city": "交野市",
+    "lat": 34.75281,
+    "lng": 135.6853,
+    "imageQuery": "星のブランコ 交野",
+    "localityWords": [
+      "星のブランコ",
+      "ほしだ",
+      "交野",
+      "大阪"
+    ]
+  },
+  {
+    "id": "iojima-nagasaki",
+    "name": "伊王島",
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "lat": 32.70786,
+    "lng": 129.76816,
+    "imageQuery": "伊王島 長崎",
+    "localityWords": [
+      "伊王島",
+      "長崎"
+    ]
+  },
+  {
+    "id": "nomozaki",
+    "name": "野母崎",
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "lat": 32.60833,
+    "lng": 129.8,
+    "imageQuery": "野母崎 軍艦島 展望",
+    "localityWords": [
+      "野母崎",
+      "長崎",
+      "脇岬"
+    ]
+  },
+  {
+    "id": "gokei-okayama",
+    "name": "豪渓",
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "lat": 34.76003,
+    "lng": 133.69922,
+    "imageQuery": "豪渓 総社",
+    "localityWords": [
+      "豪渓",
+      "総社",
+      "岡山"
+    ]
+  },
+  {
+    "id": "kirifuri",
+    "name": "霧降滝",
+    "prefecture": "栃木県",
+    "city": "日光市",
+    "lat": 36.78011,
+    "lng": 139.62386,
+    "imageQuery": "霧降の滝 日光",
+    "localityWords": [
+      "霧降",
+      "日光",
+      "栃木"
+    ]
+  }
+]
