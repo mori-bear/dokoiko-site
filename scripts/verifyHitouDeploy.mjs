@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 /** verifyHitouDeploy.mjs — 追加した秘湯ページとトップのバナーが本番に出ているかを実測する。 */
 const BASE = 'https://tabidokoiko.com';
-const NEW = ['inunakiyama', 'naguri', 'ryokami', 'takagoya', 'naruko-kyo'];
+const NEW = ['hoshida', 'iojima-nagasaki', 'kirifuri'];
 
 const CHECKS = [
   ['/', 'kf-banner'],
